@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-01",
   "region": "Gold Coast",
-  "scraped_at": "2026-07-02T07:19:27.201946+10:00",
+  "scraped_at": "2026-07-01T19:31:11.239641+10:00",
   "total_jobs": 74,
   "keywords": [
     {
@@ -40,7 +40,7 @@
       "share": 0.0946
     },
     {
-      "term": "manager",
+      "term": "developer",
       "count": 7,
       "share": 0.0946
     },
@@ -50,7 +50,7 @@
       "share": 0.0811
     },
     {
-      "term": "developer",
+      "term": "manager",
       "count": 6,
       "share": 0.0811
     },
@@ -90,6 +90,11 @@
       "share": 0.0405
     },
     {
+      "term": "web",
+      "count": 3,
+      "share": 0.0405
+    },
+    {
       "term": "network",
       "count": 3,
       "share": 0.0405
@@ -120,6 +125,11 @@
       "share": 0.027
     },
     {
+      "term": "stack",
+      "count": 2,
+      "share": 0.027
+    },
+    {
       "term": "learning",
       "count": 2,
       "share": 0.027
@@ -146,21 +156,6 @@
     },
     {
       "term": "technology",
-      "count": 2,
-      "share": 0.027
-    },
-    {
-      "term": "clinical",
-      "count": 2,
-      "share": 0.027
-    },
-    {
-      "term": "informatics",
-      "count": 2,
-      "share": 0.027
-    },
-    {
-      "term": "web",
       "count": 2,
       "share": 0.027
     },
@@ -240,6 +235,16 @@
       "share": 0.0135
     },
     {
+      "term": "ecommerce",
+      "count": 1,
+      "share": 0.0135
+    },
+    {
+      "term": "apps",
+      "count": 1,
+      "share": 0.0135
+    },
+    {
       "term": "firebird",
       "count": 1,
       "share": 0.0135
@@ -261,11 +266,6 @@
     },
     {
       "term": "machines4u",
-      "count": 1,
-      "share": 0.0135
-    },
-    {
-      "term": "stack",
       "count": 1,
       "share": 0.0135
     },
@@ -330,6 +330,11 @@
       "share": 0.0135
     },
     {
+      "term": "pos",
+      "count": 1,
+      "share": 0.0135
+    },
+    {
       "term": "customer",
       "count": 1,
       "share": 0.0135
@@ -345,17 +350,7 @@
       "share": 0.0135
     },
     {
-      "term": "pos",
-      "count": 1,
-      "share": 0.0135
-    },
-    {
       "term": "training",
-      "count": 1,
-      "share": 0.0135
-    },
-    {
-      "term": "professionals",
       "count": 1,
       "share": 0.0135
     },
@@ -366,6 +361,11 @@
     },
     {
       "term": "entity",
+      "count": 1,
+      "share": 0.0135
+    },
+    {
+      "term": "professionals",
       "count": 1,
       "share": 0.0135
     },
@@ -381,16 +381,6 @@
     },
     {
       "term": "services",
-      "count": 1,
-      "share": 0.0135
-    },
-    {
-      "term": "nurse",
-      "count": 1,
-      "share": 0.0135
-    },
-    {
-      "term": "midwifery",
       "count": 1,
       "share": 0.0135
     },
@@ -483,30 +473,19 @@
       "term": "devops",
       "count": 1,
       "share": 0.0135
+    },
+    {
+      "term": "clinical",
+      "count": 1,
+      "share": 0.0135
+    },
+    {
+      "term": "informatics",
+      "count": 1,
+      "share": 0.0135
     }
   ],
   "jobs": [
-    {
-      "job_id": "93062596",
-      "job_title": "Nurse or Midwifery Manager (Clinical Informatics)",
-      "business_name": "Department of Health - Queensland",
-      "work_type": "Full time",
-      "job_type": "Product Management & Development",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93062596",
-      "advertiser_id": "32285210",
-      "posted_date": "2026-07-01T09:29:41Z",
-      "job_description": "<div>\n \n <p>Provide expert advice on digital health initiatives, drives the adoption and optimisation of digital workflows and connectivity solutions, and leads quality improvement activities. </p>\n </div>\n<div>\n <p><strong>PLEASE NOTE: This position may also be filled by a Health Practitioner as per the attached role description. </strong></p>\n<p><strong>&nbsp;</strong><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Nurse or Midwifery Manager (Clinical Informatics)</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Apply advanced knowledge of allied health clinical work practices to the development, implementation and evaluation of new work practices and digital hospital functionality</li>\n<li>Actively engage with staff across all disciplines in relation to digital health, which supports the advancement of a digitally enabled health system</li>\n<li>Support Gold Coast Health clinicians and administrative staff in their adoption and use of digital health technologies</li>\n<li>Influence training initiatives to ensure staff capability that will facilitate the adoption of digital clinical workflows</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>A Bachelor of Nursing/Midwifery or equivalent</li>\n<li>AHPRA Registration</li>\n<li>A master's or higher qualification within a relevant area is highly desirable</li>\n<li>Evidence of vaccination, or be able to be vaccinated against and remain vaccinated against - Measles, Mumps, Rubella, Varicella, Pertussis and Hepatitis B</li>\n<li>Tuberculosis screening, to identify if the tuberculosis vaccination may be required</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time and temporary full time (one permanent position and one temporary position, up to 12 months with possibilty of extension)</li>\n<li>Base salary ranging from $144,991 - $151,949 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.</p>\n<p>DHI is responsible for enhancing efficiency and service delivery improvements to optimise Health Service performance. It also oversees strategic partnerships that help the Health Service implement alternative models of service delivery, ensuring value for money, and driving improvements in performance, and innovation.</p>\n<p>Digital Experience is part of the Digital and Information stream within the division. The service provides:</p>\n<ul>\n<li>Process mining and engineering</li>\n<li>User experience (UX) design</li>\n<li>Software development</li>\n<li>Web development</li>\n<li>Integration / interoperability</li>\n<li>Automation</li>\n<li>Testing</li>\n<li>Digital workflow and adoption support</li>\n</ul>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Tuesday, 14 July 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC686654NG</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
-      "keywords": [
-        "nurse",
-        "midwifery",
-        "manager",
-        "clinical",
-        "informatics"
-      ]
-    },
     {
       "job_id": "93044885",
       "job_title": "Digital Support Specialist",
@@ -1867,6 +1846,27 @@
         "stack",
         "software",
         "engineer"
+      ]
+    },
+    {
+      "job_id": "92428954",
+      "job_title": "Mid-Level Full Stack Developer (Ecommerce & Web Apps)",
+      "business_name": "PeriscoPe Digital Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "",
+      "area": "Burleigh Heads, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92428954",
+      "advertiser_id": "62901233",
+      "posted_date": "2026-05-31T22:36:38Z",
+      "job_description": "<p><strong>About the role</strong><br><br>We are seeking a talented Mid-Level Full Stack Developer to join our dynamic team at PeriscoPe Digital Pty Ltd. As a key member of our Ecommerce team, you will play a pivotal role in shaping innovative digital solutions that drive the success of our growing business. This full-time position is based in our modern office in Burleigh Heads, Queensland.</p><p><strong>The Role</strong></p><p>We're looking for a mid-level full stack developer who can comfortably move between:</p><ul><li><p>Shopify storefronts and apps (themes, Liquid, app integrations, front-end performance), and</p></li><li><p>Small web applications/portals that integrate with CRMs, project tools, and (increasingly) Microsoft 365 / low-code platforms.</p></li></ul><p>You'll split your time roughly between:</p><p>- Building and extending Shopify and other ecommerce front ends for exceptional B2C brands</p><p>- Delivering portals and workflow tools for B2B and government clients.</p><p><strong>Responsibilities</strong></p><p>- Develop and maintain Shopify and other ecommerce sites:</p><p>- Customise themes (Liquid, JS, CSS), build reusable components, optimise UX and performance</p><p>- Integrate third-party apps and APIs (payments, shipping, subscriptions, reviews, etc.)</p><p>- Build full stack web features for internal tools and client portals:</p><p>- Multi-step, validated forms and dashboards in React/Next.js or similar</p><p>- Back-end endpoints and integrations (Node/.NET or similar) to CRMs, project tools, and email/notification systems</p><p>- Work with low-code / automation platforms where needed:</p><p>- Configure workflows and simple apps using tools like Power Automate/Power Apps or equivalent (we'll support you to level up here)</p><p>- Contribute to solution design:</p><p>- Help choose the right approach (custom build vs low-code vs Shopify app) for each project.</p><p>- Estimate work, flag risks, and participate in planning and code reviews.</p><p><strong>Must-Have Skills</strong></p><p>- 2–5 years as a full stack or frontend-heavy developer.</p><p>- Solid modern frontend skills</p><p>- JavaScript/TypeScript, React or similar, HTML, CSS</p><p>- Proficiency in JavaScript and TypeScript programming languages is essential for this role.</p><p>- Practical Shopify experience (Liquid, theme customisation, storefront API usage, app integrations, responsive UI)</p><p>- Back-end experience with at least one common stack (Node.js/Express, .NET, or similar)</p><p>- Experience integrating with third-party APIs</p><p>- Good understanding of web security basics and performance optimisation</p><p>- Comfortable taking ownership of features end-to-end with minimal supervision</p><p>- Australian work authorisation is required at the time of application.</p><p><strong>Nice-to-Have</strong></p><p>- Experience with low-code / automation tools (Power Apps, Power Automate, Zapier, Make, etc.)</p><p>- Familiarity with Microsoft 365 stack (SharePoint lists, Teams, basic Power BI)</p><p>- Experience building secure intake portals or B2B dashboards.</p><p>- Testing (unit/integration) and CI/CD basics</p><p><strong>About us</strong><br><br>PeriscoPe Digital Pty Ltd is a leading digital agency specialising in ecommerce solutions and web application development. Our mission is to help businesses of all sizes succeed in the digital landscape through innovative, user-centric technology. With a talented team of developers, designers, and strategists, we are committed to delivering exceptional results for our clients.</p><p>Apply now to join our growing team and be a part of shaping the future of digital solutions!</p><p><br></p><p><br></p>",
+      "keywords": [
+        "stack",
+        "developer",
+        "ecommerce",
+        "web",
+        "apps"
       ]
     },
     {
