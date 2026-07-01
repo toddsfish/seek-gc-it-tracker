@@ -1,0 +1,44 @@
+name: scrape
+
+on:
+  schedule:
+    - cron: "0 20 * * *"   # 20:00 UTC = 06:00 AEST (Gold Coast, no DST)
+  workflow_dispatch: {}     # manual trigger (also our cloud-IP validation)
+
+permissions:
+  contents: write           # allow committing data/ back to the repo
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Set up environment
+        run: |
+          uv venv --python 3.11
+          uv pip install -r requirements.txt
+
+      - name: Scrape
+        run: uv run python scrape.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "data: Gold Coast IT $(date -u +%F)"
+            git push
+          fi
