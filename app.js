@@ -103,10 +103,11 @@ function renderTable(){
     return `<tr class="trow${nu}" data-i="${i}">
        <td>${esc(j.job_title)}<div class="chips">${(j.keywords||[]).slice(0,8).map(k=>`<span class="chip" data-w="${esc(k)}">${esc(k)}</span>`).join("")}</div></td>
        <td>${esc(j.business_name)}</td><td>${esc(j.work_type)}</td>
+       <td>${esc(j.pay_range)||"—"}</td>
        <td>${esc(j.area)}</td><td>${esc(fdate(j.posted_date))}</td>
        <td><a href="${esc(j.url)}" target="_blank" rel="noopener noreferrer">Seek ↗</a></td>
      </tr>
-     <tr id="d${i}" class="${nu.trim()}" style="display:none"><td colspan="6"><div class="desc">${clean(j.job_description)}</div></td></tr>`;
+     <tr id="d${i}" class="${nu.trim()}" style="display:none"><td colspan="7"><div class="desc">${clean(j.job_description)}</div></td></tr>`;
   }).join("");
 
   tb.querySelectorAll(".trow").forEach(tr=>tr.onclick=e=>{
