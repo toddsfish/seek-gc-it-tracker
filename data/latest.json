@@ -1,491 +1,600 @@
 {
   "date": "2026-07-02",
   "region": "Gold Coast",
-  "scraped_at": "2026-07-02T07:19:27.201946+10:00",
-  "total_jobs": 74,
+  "scraped_at": "2026-07-02T18:52:39.697575+10:00",
+  "total_jobs": 75,
   "keywords": [
     {
       "term": "engineer",
-      "count": 14,
-      "share": 0.1892
+      "count": 15,
+      "share": 0.2
     },
     {
       "term": "support",
-      "count": 14,
-      "share": 0.1892
+      "count": 13,
+      "share": 0.1733
     },
     {
       "term": "it",
-      "count": 11,
-      "share": 0.1486
+      "count": 10,
+      "share": 0.1333
     },
     {
       "term": "analyst",
       "count": 9,
-      "share": 0.1216
+      "share": 0.12
     },
     {
       "term": "officer",
       "count": 8,
-      "share": 0.1081
+      "share": 0.1067
     },
     {
       "term": "business",
       "count": 7,
-      "share": 0.0946
+      "share": 0.0933
     },
     {
       "term": "software",
       "count": 7,
-      "share": 0.0946
+      "share": 0.0933
     },
     {
       "term": "manager",
       "count": 7,
-      "share": 0.0946
+      "share": 0.0933
     },
     {
       "term": "data",
       "count": 6,
-      "share": 0.0811
+      "share": 0.08
     },
     {
       "term": "developer",
       "count": 6,
-      "share": 0.0811
+      "share": 0.08
     },
     {
       "term": "ict",
       "count": 6,
-      "share": 0.0811
+      "share": 0.08
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.0676
+      "share": 0.0667
     },
     {
       "term": "specialist",
       "count": 5,
-      "share": 0.0676
+      "share": 0.0667
+    },
+    {
+      "term": "platform",
+      "count": 4,
+      "share": 0.0533
+    },
+    {
+      "term": "ai",
+      "count": 4,
+      "share": 0.0533
     },
     {
       "term": "technician",
       "count": 4,
-      "share": 0.0541
+      "share": 0.0533
     },
     {
       "term": "development",
       "count": 4,
-      "share": 0.0541
+      "share": 0.0533
     },
     {
       "term": "project",
       "count": 4,
-      "share": 0.0541
+      "share": 0.0533
     },
     {
       "term": "infrastructure",
       "count": 3,
-      "share": 0.0405
+      "share": 0.04
     },
     {
       "term": "network",
       "count": 3,
-      "share": 0.0405
-    },
-    {
-      "term": "platform",
-      "count": 3,
-      "share": 0.0405
-    },
-    {
-      "term": "ai",
-      "count": 3,
-      "share": 0.0405
+      "share": 0.04
     },
     {
       "term": "desk",
       "count": 3,
-      "share": 0.0405
+      "share": 0.04
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.027
+      "share": 0.0267
     },
     {
       "term": "advisor",
       "count": 2,
-      "share": 0.027
+      "share": 0.0267
+    },
+    {
+      "term": "administrator",
+      "count": 2,
+      "share": 0.0267
+    },
+    {
+      "term": "coordinator",
+      "count": 2,
+      "share": 0.0267
+    },
+    {
+      "term": "stack",
+      "count": 2,
+      "share": 0.0267
     },
     {
       "term": "learning",
       "count": 2,
-      "share": 0.027
+      "share": 0.0267
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.027
+      "share": 0.0267
     },
     {
       "term": "service",
       "count": 2,
-      "share": 0.027
+      "share": 0.0267
+    },
+    {
+      "term": "customer",
+      "count": 2,
+      "share": 0.0267
+    },
+    {
+      "term": "success",
+      "count": 2,
+      "share": 0.0267
     },
     {
       "term": "house",
       "count": 2,
-      "share": 0.027
-    },
-    {
-      "term": "platforms",
-      "count": 2,
-      "share": 0.027
+      "share": 0.0267
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.027
+      "share": 0.0267
     },
     {
       "term": "clinical",
       "count": 2,
-      "share": 0.027
+      "share": 0.0267
     },
     {
       "term": "informatics",
       "count": 2,
-      "share": 0.027
+      "share": 0.0267
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.027
+      "share": 0.0267
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "pathway",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "functional",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "yatala",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "timetabling",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "examinations",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "hubspot",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0135
-    },
-    {
-      "term": "administrator",
-      "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "governance",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "semantic",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "layer",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "firebird",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "sql",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "asp.net",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
-      "term": "stack",
+      "term": "founding",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
+    },
+    {
+      "term": "node.js",
+      "count": 1,
+      "share": 0.0133
+    },
+    {
+      "term": "angular",
+      "count": 1,
+      "share": 0.0133
+    },
+    {
+      "term": "aws",
+      "count": 1,
+      "share": 0.0133
     },
     {
       "term": "machine",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "series",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "predictive",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "modelling",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "ml",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "help",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "facilities",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "technical",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "medical",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0135
-    },
-    {
-      "term": "customer",
-      "count": 1,
-      "share": 0.0135
-    },
-    {
-      "term": "success",
-      "count": 1,
-      "share": 0.0135
-    },
-    {
-      "term": "deployment",
-      "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
+    },
+    {
+      "term": "deployment",
+      "count": 1,
+      "share": 0.0133
     },
     {
       "term": "training",
       "count": 1,
-      "share": 0.0135
-    },
-    {
-      "term": "professionals",
-      "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "entity",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
-      "term": "coordinator",
+      "term": "professionals",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
+    },
+    {
+      "term": "platforms",
+      "count": 1,
+      "share": 0.0133
     },
     {
       "term": "information",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "services",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "nurse",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "midwifery",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "erp",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "consultant",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
+    },
+    {
+      "term": "team",
+      "count": 1,
+      "share": 0.0133
+    },
+    {
+      "term": "apac",
+      "count": 1,
+      "share": 0.0133
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "chapter",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "agentforce",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "splicers",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "telecommunications",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0135
+      "share": 0.0133
     }
   ],
   "jobs": [
+    {
+      "job_id": "93086235",
+      "job_title": "Customer Success Team Lead - APAC",
+      "business_name": "Veracross",
+      "work_type": "Full time",
+      "job_type": "Team Leaders",
+      "pay_range": "",
+      "area": "Miami, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93086235",
+      "advertiser_id": "61968087",
+      "posted_date": "2026-07-02T07:55:24Z",
+      "job_description": "<p><strong>Company Overview&nbsp;</strong></p><p>Veracross unifies school communities with world-class information systems that improve the quality of education and enhance learning. We support K-12 private and independent schools with a one-record platform that connects school operations, communication, and data across departments. Trusted by more than 3,200 schools in over 60 countries, Veracross is known for reliable software, strong data security, and high-quality customer support.&nbsp;</p><p>In Australia, New Zealand, and the wider Asia Pacific region, Veracross supports 800+ schools across Veracross, Digistorm, Firefly, and ePraise. The APAC team is based in Australia and offers in-time-zone access through Support, Implementation, and Customer Success, alongside regional technical and product staff.&nbsp;</p><p></p><p><strong>Role Summary</strong>&nbsp;</p><p>The CSM Team lead, manages the Asia Pacific Customer Success team and is accountable for team performance across retention, qualified opportunity generation, and SIS lead creation. This role owns team coaching, churn forecasting, renewal execution, and operational consistency across the regional portfolio.&nbsp;</p><p>The CSM Team Lead directly leads a team of three Customer Success Managers covering the APAC book, which spans roughly 800 customers across Australia, New Zealand, and Asia Pacific international schools. The book is concentrated in the Australian and New Zealand independent and Catholic school markets, with a smaller set of higher-value international school accounts. This is a high-volume regional portfolio, and the CSM Team Lead is accountable for building coverage discipline and team capacity against it.&nbsp;</p><p>Partnering closely with Sales, Support, Implementation, Product, and leadership to reduce churn, expand customer value, and build a high-performing team. This role may retain a very limited strategic portfolio, but its primary focus is team leadership and regional execution.&nbsp;</p><p></p><p><strong>Job Responsibilities&nbsp;</strong></p><ul><li>Lead, coach, and develop the APAC CSM team across Australia, New Zealand, and Asia Pacific accounts.</li></ul><ul><li>Set clear expectations tied to retention, qualified opportunity generation, SIS lead creation, and account management discipline.&nbsp;</li></ul><ul><li>Own regional churn forecasting and lead regular risk reviews so risks are identified early, documented clearly, and actively mitigated.&nbsp;</li></ul><ul><li>Manage span-of-control and coverage in a high-volume book, balancing account distribution across the team and surfacing capacity and coverage gaps to leadership with recommendations.&nbsp;</li></ul><ul><li>Step into high-risk or high-value customer situations as needed to support save plans, renewals, and executive alignment.&nbsp;</li></ul><ul><li>Ensure renewals are managed proactively, forecasted accurately, and documented cleanly in Salesforce.&nbsp;</li></ul><ul><li>Drive expansion discipline by coaching CSMs on opportunity identification, lead quality, and effective partnership with Sales, including Digistorm cross-sell and Magnus and Firefly motions where relevant.&nbsp;</li></ul><ul><li>Enforce consistent use of Salesforce and Catalyst.io for health monitoring, risk tracking, task management, and account planning.&nbsp;</li></ul><ul><li>Partner cross-functionally with Sales, Support, Implementation, and Product to resolve escalations and improve customer outcomes.&nbsp;</li></ul><ul><li>Hire, onboard, manage, and develop talent, including succession planning for future Team Leads and Managers.&nbsp;</li></ul><ul><li>Provide regular reporting and recommendations on regional risk, team performance, process gaps, and staffing needs.&nbsp;</li></ul><p></p><p><strong>Requirements</strong></p><ul><li>Bachelor's Degree or equivalent experience.&nbsp;</li></ul><ul><li>3-5 years of experience in SaaS customer success, account management, or other post-sales roles.&nbsp;</li></ul><ul><li>2+ years of experience in management position&nbsp;</li></ul><ul><li>Demonstrated success driving retention, renewals, and expansion performance.&nbsp;</li></ul><ul><li>Strong experience with churn forecasting, pipeline management, and operational rigor.&nbsp;</li></ul><ul><li>Demonstrated ability to manage a high-volume book or team coverage model, where the challenge is prioritisation and coverage across many accounts rather than deep focus on a few.&nbsp;</li></ul><ul><li>Strong coaching, performance management, and cross-functional leadership skills.&nbsp;</li></ul><ul><li>Excellent written and verbal communication skills.&nbsp;</li></ul><ul><li>Ability to operate strategically while staying close to execution details.&nbsp;</li></ul><ul><li>Knowledge of the Australian and New Zealand independent and Catholic school markets strongly preferred, including familiarity with the academic calendar (four terms, late-January to mid-December school year), school leadership structures, and associations such as AISNSW, AHISA, and state Catholic education offices. Experience in K-12, education SaaS, or a related niche market is preferred; candidates from outside the sector must show evidence of learning the unwritten rules of a specialised market quickly.&nbsp;</li></ul><ul><li>Comfortable operating across time zones and currencies, supporting both AUD/NZD domestic accounts and a smaller set of USD-billed international school accounts.&nbsp;</li></ul><p><strong>Benefits</strong></p><p><em><strong>The best tools to get the job done! </strong></em></p><p>When you join Veracross, you get a Macbook Pro, a 32-inch monitor, and an adjustable desk and chair for the office. There's also an allowance for your setup at home to ensure you're comfortable working there. </p><p><em><strong>Growth opportunities! </strong></em></p><p>Veracross is growing fast, allowing you to own your role and grow with us! Operating within a global team, there are opportunities for professional development allowing your skills to grow as the business grows. </p><p><em><strong>Work/life balance </strong></em></p><p>Management encourages taking hour-long lunches and finishing on time and understands that you have a life outside of work. You can take the day off for your birthday and get a $100-a-year allowance for well-being. Massage, anyone? </p><p><em><strong>Parental leave policy </strong></em></p><p>As part of Veracross parental leave policy, you’re eligible for paid leave as a primary parent and secondary parent when you welcome a new child into your family. This is available after 12 months in a full-time role. </p><p><em><strong>Flexibility </strong></em></p><p>Veracross offers a flexible working environment, hybrid options.</p><p><em><strong>Make a difference </strong></em></p><p>Our work makes a positive contribution to our schools, their students and their families around the world! </p><p><em><strong>Snacks, drinks &amp; coffee </strong></em></p><p>Digistorm’s (Veracross) Gold Coast HQ offers a coffee machine, snack bar and fully stocked drinks fridge to keep energy levels high! Vege chips, kombucha, almond milk, cookies; you name it, they have it.</p><p><em><strong>Culture </strong></em></p><p>The Veracross team is fun, relaxed, and sociable, reflected in the casual dress code and social events. The office has an open floor plan, which allows for cross-team communication and a collaborative environment. Join some staff for lunchtime surfing or hit up nearby food spots for a burger by the beach. </p>",
+      "keywords": [
+        "customer",
+        "success",
+        "team",
+        "apac"
+      ]
+    },
+    {
+      "job_id": "93083874",
+      "job_title": "Data Coordinator",
+      "business_name": "Southern Cross University",
+      "work_type": "Full time",
+      "job_type": "Database Development & Administration",
+      "pay_range": "$95,961 - $105,250 per annum, plus 17% super",
+      "area": "Bilinga, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93083874",
+      "advertiser_id": "15012749",
+      "posted_date": "2026-07-02T06:45:58Z",
+      "job_description": "<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing <a href=\"https://www.scu.edu.au/southern-cross-model/\" target=\"_self\">Southern Cross Model</a> brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity</strong></p>\n<p>The Office of Business Intelligence and Quality (BIQ) is seeking a Data Coordinator to manage ad-hoc data requests and data reporting in the Business Intelligence (BI) team. In this role, you'll be the first point of contact for data requests and the face of the BI team. You will work with stakeholders at all levels of the University to deliver trusted data, reports and insights. Your work will directly support accreditations, reviews, university governance and strategic decision-making.</p>\n<p>You will make an impact by:</p>\n<ul>\n<li>Receiving, managing and completing data requests with expert assistance from your team</li>\n<li>Delivering high-quality customer service to clients from all parts of the University.</li>\n<li>Producing accurate data reports using analytical software, to support course and Faculty reviews, strategic initiatives, external accreditations and institutional compliance.</li>\n<li>Compiling, reviewing and validating data reports while maintaining exceptional accuracy and attention to detail.</li>\n<li>Building strong relationships across the University by translating student data into meaningful information for stakeholders to use.</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<p>You enjoy solving problems, working with data and connecting people with the information they need. You're highly organised and take pride in producing accurate work. Most importantly, you're curious, eager to learn and enjoy developing new technical skills.</p>\n<p>To succeed in this role, you will also need:</p>\n<ul>\n<li>Completion of a relevant degree with subsequent relevant work experience or equivalent combination of relevant skills, knowledge and experience</li>\n<li>An understanding of how university student data is collected, processed and stored, or demonstrated experience processing or analysing administrative data.</li>\n<li>Strong Microsoft Excel (or similar spreadsheet) skills and confidence working with formulas and large datasets The ability to extract, transform and analyse data.</li>\n<li>High-level problem-solving skills with exceptional attention to detail and a demonstrated ability to follow complex procedures.</li>\n<li>Outstanding customer service and communication skills, with the ability to clarify client requirements, and give clear explanations of data to stakeholders verbally and in writing.</li>\n</ul>\n<p>This role requires some use of analytical software packages including R and Power BI. If you don't have experience with these tools but can demonstrate your data skills, excellent attention to detail and a willingness to learn, we strongly encourage you to apply. For the right applicant, comprehensive on-the-job training and support is available to help you advance your skills.</p>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/gold-coast/\" target=\"_self\">Gold Coast</a>, <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/coffs-harbour/\" target=\"_self\">Coffs Harbour</a> and the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/lismore/\" target=\"_self\">Northern Rivers</a> region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li>Full-time, fixed term (12 months)</li>\n<li>Located at either Gold Coast, QLD 4225, or Lismore, NSW 2480.</li>\n<li>HEW Level 6. The base salary ranges from $95,961 - $105,250 per annum, plus 17% employer’s contribution to superannuation. The total remuneration package is up to $123,143.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit <a href=\"https://www.scu.edu.au/about/jobs-at-southern-cross/why-work-at-southern-cross-university/\" target=\"_self\">Why work at Southern Cross University?</a></p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>Name: Mr Trent Scanlan, Senior Analyst</p>\n<p>Phone: <a href=\"tel:0266269621\">0266269621</a></p>\n<p>Email: <a href=\"mailto:trent.scanlan@scu.edu.au\" target=\"_self\">trent.scanlan@scu.edu.au</a></p>\n<p><strong>Applications close 11.30pm AEST 16 July 2026.</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. Employer visa sponsorship is not available for this position.</p>\n<p>To view the full position advertisement and details of the application process, please click on the APPLY button where you will be redirected to the Southern Cross University website. Applicants must apply online and attach a CV and cover letter. The cover letter must clearly address each selection criterion in the position description. Information to support you prepare your application is available on our <a href=\"https://www.scu.edu.au/about/jobsscu/vacancies/applying-for-a-position/\" target=\"_self\">website.</a></p>\n<p><em>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to </em><a href=\"mailto:jobs@scu.edu.au\" target=\"_self\"><em>jobs@scu.edu.au.</em></a><br></p>\n",
+      "keywords": [
+        "data",
+        "coordinator"
+      ]
+    },
+    {
+      "job_id": "93074199",
+      "job_title": "Platform Administrator",
+      "business_name": "City of Gold Coast",
+      "work_type": "Full time",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "$111,401 - $117,924 p/a plus superannuation",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93074199",
+      "advertiser_id": "16652581",
+      "posted_date": "2026-07-02T02:06:22Z",
+      "job_description": "<ul> <li><strong>Full Time | 9-day fortnight | 36 hours per week </strong></li> <li> <strong>Salary: </strong>From $111,401 - $117,924 per annum plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG1901/assets/31724193\">Platform Administrator</a> </li> </ul> <p> </p> <p> <strong>About the team</strong></p> <p>We're entering a new chapter for the Chief Technology Office at the City of Gold Coast as we deliver bold, future-focused technology solutions. With the launch of our IT Operating Model and the transition of critical IT services in-house, we're transforming the way we deliver technology making it faster, more responsive and better aligned to the needs of our organisation and community.</p> <p>As part of the Enterprise Data &amp; Analytics Platform team, you'll help shape the City's modern data landscape by supporting the platforms that underpin enterprise reporting, analytics and data-driven decision making. Working alongside specialists across Azure, data engineering, governance and analytics, you'll contribute to delivering secure, scalable and trusted data services that enable better outcomes across the organisation.</p> <p>If you're passionate about cloud technologies, enterprise data platforms and driving innovation through modern analytics, this is an exciting opportunity to make a real impact.</p> <p><strong>About the role </strong></p> <p>As the Platform Administrator, you will be responsible for the administration, optimisation and ongoing evolution of the City's Microsoft Fabric environment.</p> <p>You will ensure the platform remains secure, scalable, reliable and fit for purpose while supporting the organisation's growing data and analytics capabilities. Working closely with our Azure Administrators, Purview Administrator, Data Engineering Team, and respective Data Analytics teams you will help deliver a modern enterprise platform that enables trusted, self-service analytics and data-driven decision-making across the City.<br><br>In this role, you will:</p> <ul> <li>Administer and support the City's Microsoft Fabric platform, including capacities, workspaces, OneLake, data warehouses, lakehouses, pipelines and Power BI services.</li> <li>Manage tenant settings, platform configuration, access controls and security settings in alignment with organisational standards and policies.</li> <li>Monitor platform health, utilisation, performance and capacity consumption, identifying opportunities for optimisation and continuous improvement.</li> <li>Support the implementation, adoption and operational management of new Microsoft Fabric capabilities and platform enhancements.</li> <li>Develop and maintain platform standards, operational procedures, technical documentation and support processes.</li> <li>Partner with Azure Administrators to ensure effective integration, security, networking and operational management across the broader cloud environment.</li> <li>Collaborate with our Purview Administrator to support enterprise data governance outcomes and ensure alignment between platform capabilities and governance requirements.</li> <li>Provide technical guidance and operational support to business and technology teams using the platform.</li> <li>Work with vendors and internal stakeholders to manage incidents, service improvements and platform roadmap initiatives.</li> <li>Promote best-practice use of Microsoft Fabric and Power BI across the organisation</li> </ul> <p><strong>We’re looking for people who have: </strong></p> <ul> <li>Tertiary qualifications in Information Technology, Computer Science or a related discipline, or equivalent demonstrated experience.</li> <li>Demonstrated experience administering enterprise-scale Microsoft data, analytics or cloud platforms.</li> <li>Experience with Microsoft Fabric administration, including workspace management, capacity management, security and tenant administration.</li> <li>Working knowledge of Power BI administration and enterprise analytics platforms.</li> <li>Strong understanding of cloud platform operations, security, governance and service management principles.</li> <li>Ability to collaborate effectively across technical disciplines, including Azure, security, architecture and data governance teams.</li> <li>Strong stakeholder engagement, communication and problem-solving skills.</li> </ul> <p><br><strong>Required / Desirable certifications (or equivalent knowledge/experience):</strong></p> <ul> <li>Microsoft Certified: Azure Administrator Associate (AZ-104) </li> <li>Microsoft Certified: Microsoft Fabric Analytics Engineer Associate (DP-600).</li> <li>Microsoft Certified: Microsoft Fabric Data Engineer Associate (DP-700).</li> <li>Microsoft Certified: Power BI Data Analyst Associate (PL-300).</li> </ul> <p><strong>Be part of shaping the Gold Coast’s future </strong></p> <p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p> <p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p> <ul> <li>9-day fortnight </li> </ul> <ul> <li>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations </li> </ul> <ul> <li>Personal and professional development courses </li> </ul> <ul> <li>Access to 350+ fitness facilities through Fitness Passport </li> </ul> <ul> <li>4 free confidential counselling sessions a year for you or an immediate family member </li> </ul> <ul> <li>1 free nutritionist and financial advice session per year </li> </ul> <p> </p> <p>We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p> <p><strong>How to apply</strong><br>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p> <p><strong>Contact Person</strong> Ashley Shannon </p> <p><strong>Contact Email</strong> <a href=\"mailto:ashannon@goldcoast.qld.gov.au\">ashannon@goldcoast.qld.gov.au</a> </p> <p><strong>Closing Date</strong> Sunday 12th of July 2026/ 11:59pm AEDT </p> <p> </p> <p>Our selection process may include a one-way video interview via Criteria, a face-to-face or virtual interview via Microsoft Teams, reference checks via Xref and additional checks including police checks, employment history checks, qualification checks, pre-employment medical reviews and drug and alcohol testing. </p> <p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
+      "keywords": [
+        "platform",
+        "administrator"
+      ]
+    },
+    {
+      "job_id": "93064828",
+      "job_title": "Founding Engineer – Full-Stack (Node.js, Angular, AWS & AI)",
+      "business_name": "Tenderfy Technologies",
+      "work_type": "Full time",
+      "job_type": "Engineering - Software",
+      "pay_range": "$130,000 – $160,000 per year",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93064828",
+      "advertiser_id": "63760736",
+      "posted_date": "2026-07-01T23:46:07Z",
+      "job_description": "<p>Tenderfy is redefining how construction and infrastructure companies prepare winning tenders.</p><p>We've built a platform that combines great workflows, intelligent automation and AI to eliminate the chaos, duplication and manual effort that has traditionally plagued tendering.</p><p>Customers are saving significant time, improving tender quality and changing the way their teams work. We're growing quickly and looking for exceptional people to help build what's next.</p><p>The market is responding.</p><p>Customers are onboarding, revenue is growing, and we're now looking for a Founding Engineer to help shape the next stage of the company.</p><p>This isn't a maintenance role.</p><p>This isn't a role where you'll spend your days working through a backlog someone else created.</p><p>This is a seat at the table.</p><p>You'll have direct influence over architecture, product direction, engineering standards, AI strategy and how we scale the platform over the coming years.</p><p>If you're looking for a place where your work genuinely matters, keep reading.</p><h2><strong>What You'll Be Building</strong></h2><p>You'll work across the entire platform, including:</p><ul><li><p>Backend development using Node.js and TypeScript</p></li><li><p>Modern Angular front-end development</p></li><li><p>AWS infrastructure and cloud architecture</p></li><li><p>AI-powered workflows and automation</p></li><li><p>RAG, vector databases and LLM integrations</p></li><li><p>Document generation and processing pipelines</p></li><li><p>Performance, scalability and platform reliability</p></li><li><p>Integrations with enterprise platforms and third-party systems</p></li><li><p>Internal tooling to improve engineering velocity</p></li></ul><p>You'll work directly alongside the founder and collaborate with our offshore engineering team to rapidly deliver improvements and new capabilities.</p><h2><strong>What Success Looks Like</strong></h2><p>Within your first 12 months, you'll:</p><ul><li><p>Become a key technical decision-maker within the business</p></li><li><p>Improve platform performance, reliability and scalability</p></li><li><p>Help shape Tenderfy's AI roadmap</p></li><li><p>Strengthen engineering processes and release velocity</p></li><li><p>Contribute to building a world-class engineering culture</p></li><li><p>Play a major role in scaling Tenderfy nationally and beyond</p></li></ul><h2><strong>What We're Looking For</strong></h2><p>We're less interested in years of experience and more interested in capability.</p><p>You'll likely have strong experience in:</p><ul><li><p>Node.js and modern TypeScript</p></li><li><p>Angular or similar modern front-end frameworks</p></li><li><p>AWS infrastructure and cloud-native development</p></li><li><p>API design and integrations</p></li><li><p>Software architecture and scalable systems</p></li><li><p>AI tooling and modern developer workflows</p></li></ul><p>Bonus points if you've worked in a start-up, scale-up or high-growth environment.</p><h2><strong>Who You Are</strong></h2><p>You're commercially minded.</p><p>You care about solving customer problems, not just writing code.</p><p>You take ownership.</p><p>You see problems and instinctively look for ways to improve them.</p><p>You actively use tools like Claude Code, OpenAI Codex, Cursor, GitHub Copilot and AI-assisted development workflows to move faster and produce better outcomes.</p><p>You enjoy building.</p><p>You enjoy shipping.</p><p>You enjoy learning.</p><p>Most importantly, you're excited by the idea of helping build something meaningful from the ground up.</p><h2><strong>Why Join Tenderfy</strong></h2><ul><li><p>Meaningful equity opportunity</p></li><li><p>Real ownership and autonomy</p></li><li><p>Direct influence on product and architecture</p></li><li><p>Fast-moving environment with minimal bureaucracy</p></li><li><p>Work on cutting-edge AI applications</p></li><li><p>Build software used by some of Australia's leading construction and infrastructure businesses</p></li><li><p>Help shape the future of an ambitious Australian SaaS company</p></li></ul><p>We're building for the long term and we're looking for someone who wants to be part of that journey.</p><p>If that sounds like you, we'd love to talk.</p><p><strong>Apply with your resume, GitHub profile, portfolio, or simply send through something you've built that you're proud of.</strong></p>",
+      "keywords": [
+        "founding",
+        "engineer",
+        "stack",
+        "node.js",
+        "angular",
+        "aws",
+        "ai"
+      ]
+    },
     {
       "job_id": "93062596",
       "job_title": "Nurse or Midwifery Manager (Clinical Informatics)",
@@ -1249,7 +1358,7 @@
       "business_name": "GCIT",
       "work_type": "Full time",
       "job_type": "Help Desk & IT Support",
-      "pay_range": "$85,000 - $105,000 + KPI Bonus",
+      "pay_range": "$95,000 – $120,000 per year",
       "area": "Burleigh Heads, Gold Coast QLD",
       "region": "Gold Coast",
       "url": "https://www.seek.com.au/job/92819558",
@@ -1392,24 +1501,6 @@
         "business",
         "analyst",
         "broadbeach"
-      ]
-    },
-    {
-      "job_id": "92737479",
-      "job_title": "IT Support",
-      "business_name": "Hays | Technology",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "80,000",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/92737479",
-      "advertiser_id": "29308243",
-      "posted_date": "2026-06-15T23:20:35Z",
-      "job_description": "<p>Kick-start your IT career in a hands-on, fast-paced support role.<br><br><strong>Your new company</strong> <br> <br>Our client is a well-established organisation with multiple office locations, operating in a fast-paced, technology-driven environment. They are committed to maintaining a secure, efficient, and user-friendly IT ecosystem that supports business operations and growth.<br><br><br> <br><strong>Your new role</strong> <br> </p>As an IT Support Technician, you will be responsible for the day-to-day support, maintenance, and administration of the organisation's IT systems and end-user devices.<br>Key responsibilities include:<br><ul><li>Providing first-line support across hardware, software, and network issues</li><li>Managing user onboarding and offboarding processes end-to-end</li><li>Administering Microsoft 365 environments (users, groups, permissions, SharePoint, Teams)</li><li>Supporting server and network operations, including VPN access and backup monitoring</li><li>Maintaining IT assets, including procurement, configuration, and life cycle management</li><li>Ensuring adherence to security protocols such as MFA and password management tools</li><li>Delivering excellent user communication and support, with a strong service focus</li><li>Maintaining accurate IT documentation and knowledge base materials</li></ul><p><br><strong>What you'll need to succeed</strong> <br> </p><ul><li>1-2 years' experience in an IT support or helpdesk role</li><li>Hands-on experience with Microsoft 365 administration</li><li>Working knowledge of Windows environments, servers, and remote desktop tools</li><li>Exposure to VPNs and basic network troubleshooting</li><li>Experience with device setup (laptops, mobiles, peripherals)</li><li>Familiarity with MFA and password management tools</li><li>Strong attention to detail and record-keeping</li><li>Excellent communication skills, with the ability to support non-technical users</li><li>A proactive, customer-first mindset with the ability to prioritise workload</li></ul>Desirable:<br><ul><li>Relevant IT qualification (Cert III or IV)</li><li>Experience in property, construction, or similar industries</li></ul><p><br><strong>What you'll get in return</strong> <br> </p><ul><li>Opportunity to work in a collaborative and supportive environment</li><li>Exposure to a broad IT landscape across infrastructure, systems, and end-user support</li><li>Hands-on role with variety and responsibility</li><li>Competitive remuneration aligned to experience</li><li>Ongoing development and the chance to build your technical skill set</li><li>Up to $80,000 + super (dependent on experience)</li></ul><p><strong>What you need to do now</strong> <br> <br><br><br> <br>If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.<br> <br>If this job isn't quite right for you, but you are looking for a new position, please contact us for a confidential discussion about your career.<br> </p>",
-      "keywords": [
-        "it",
-        "support"
       ]
     },
     {
@@ -1664,23 +1755,6 @@
       ]
     },
     {
-      "job_id": "92529894",
-      "job_title": "Head of Platforms",
-      "business_name": "Localsearch",
-      "work_type": "Full time",
-      "job_type": "Management",
-      "pay_range": "",
-      "area": "Robina, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/92529894",
-      "advertiser_id": "20750014",
-      "posted_date": "2026-06-04T22:29:45Z",
-      "job_description": "<p><strong>WHO ARE WE?</strong></p><p>At Localsearch, we've been empowering Australian businesses with top-tier digital marketing solutions since 1993. Today, we're one of Australia's largest digital marketing powerhouses - helping over 300,000 businesses grow online.</p><p></p><p>Based in the heart of Robina, our Head Office is steps from Robina Town Centre and packed with everything you need to do your best work - including an on-site café with barista-made coffee, high-tech tools, and a genuinely collaborative culture.</p><p></p><p><strong>THE OPPORTUNITY</strong></p><p>This is a rare chance to take ownership of the platforms that power one of Australia's most recognised digital brands. As Head of Platforms, you'll lead a talented, multidisciplinary technology team, drive the evolution of our core platforms, and shape the technology strategy that underpins our business growth.</p><p></p><p>You'll work closely with the CTO and senior leadership, influencing decisions at the highest level and playing a central role in Localsearch's digital transformation - including our AI strategy.</p><p></p><p><strong>WHAT YOU'LL DO</strong></p><ul>\n<li>Lead and inspire a high-performing Platforms Development team, fostering a culture of continuous improvement, mentorship, and innovation</li>\n<li>Ensure the reliable, secure, and optimised operation of Localsearch's core platforms to support business and client needs</li>\n<li>Drive DevOps practices, streamline deployment pipelines, and automate testing to enhance scalability and efficiency</li>\n<li>Collaborate with senior leadership to develop and execute technology and AI strategies aligned with business objectives</li>\n<li>Oversee quality assurance frameworks to ensure the delivery of high-quality, robust software solutions</li>\n<li>Manage and evolve offshore relationships and hybrid engagement models to support IT capacity growth</li>\n<li>Build and enhance vendor relationships, evaluate emerging technologies, and lead due diligence on new platforms</li>\n<li>Ensure security, compliance, and data protection standards are upheld across all digital systems</li>\n<li>Monitor platform performance, identify bottlenecks, and implement optimisations to enhance user experience</li>\n</ul><p><strong>WHO YOU ARE &amp; WHAT YOU'LL BRING</strong></p><p>We're looking for a technically grounded, commercially minded leader who can bridge strategy and execution. You'll bring:</p><p></p><p><strong>Required:</strong></p><ul>\n<li>Extensive experience in the technology sector with a focus on software development, CRM systems, payment gateways, or subscription engines</li>\n<li>Proven track record leading and developing multidisciplinary technology teams to achieve business outcomes</li>\n<li>Deep expertise in DevOps practices, Agile methodologies, and digital product development</li>\n<li>Strong strategic thinking - the ability to develop technology roadmaps that align with and enable business growth</li>\n<li>Excellent communication skills, with the ability to translate complex technical concepts for non-technical stakeholders</li>\n<li>Hands-on experience with Atlassian tools (Jira, Confluence) and project delivery best practices</li>\n<li>Solid understanding of cybersecurity principles, compliance requirements, and data protection practices</li>\n<li>Bachelor's degree in Computer Science, IT, Engineering, or a related field (or equivalent experience)</li>\n</ul><p><strong>Nice to Have:</strong></p><ul>\n<li>Certifications in Salesforce CRM, Zuora, or similar CRM/billing platforms</li>\n<li>Postgraduate qualifications in technology management or related disciplines</li>\n<li>Experience managing offshore or hybrid delivery models</li>\n</ul><p><strong></strong></p><p><strong>WHY IT'S GREAT TO WORK WITH US!</strong></p><ul>\n<li>Barista-made coffee daily at our on-site café - because great work deserves great coffee</li>\n<li>Prime Robina location - opposite Robina Town Centre, perfect for lunch breaks or after-work errands</li>\n<li>Flexible work-life balance - we know life happens, and we genuinely support it</li>\n<li>Career growth &amp; mentorship - access our internal mentoring program and ongoing upskilling opportunities</li>\n<li>Comprehensive wellness program - including free access to an on-site exercise physiologist</li>\n<li>Access to the latest tools &amp; training - stay ahead in the fast-moving world of digital technology</li>\n<li>Paid parental leave, free parking, gym discounts, 24/7 retail discounts, and cashback offers</li>\n<li>Celebrate success BIG - annual company conference, recognition programs, and team events for high performers</li>\n<li>Special rewards for birthdays and tenure milestones</li>\n</ul><p><strong></strong></p><p><strong>APPLY NOW!</strong></p><p><strong></strong></p><p><strong></strong></p><p><strong></strong></p><p>At Localsearch, we are committed to providing an inclusive workplace and are proud to be an equal-opportunity employer. We celebrate, support, and thrive on diversity. We seek to recruit, develop, and retain the most talented people based on merit, competence, and performance.</p><p></p><p>No recruitment agencies thank you.</p>",
-      "keywords": [
-        "platforms"
-      ]
-    },
-    {
       "job_id": "92521892",
       "job_title": "Clinical Informatics Specialist - Remote",
       "business_name": "HealthCare Logic",
@@ -1831,23 +1905,6 @@
         "analyst",
         "timetabling",
         "examinations"
-      ]
-    },
-    {
-      "job_id": "92454432",
-      "job_title": "Head of Data",
-      "business_name": "Localsearch",
-      "work_type": "Full time",
-      "job_type": "Management",
-      "pay_range": "",
-      "area": "Robina, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/92454432",
-      "advertiser_id": "20750014",
-      "posted_date": "2026-06-02T02:49:39Z",
-      "job_description": "<p><strong>Who Are We?</strong></p><p>Since 1993, Localsearch has been empowering Australian businesses with top-tier digital marketing solutions. Today, we're one of the largest digital marketing powerhouses in Australia, supporting over 300,000 businesses in growing their online presence.</p><p>&nbsp;</p><p>Based in the heart of Robina - just steps from Robina Town Centre - our modern Head Office is built for high performers. Think barista-made coffee, cutting-edge tools, and a collaborative, energised culture where your expertise will genuinely make an impact.</p><p></p><p><strong>The Opportunity</strong></p><p>This is not your average data leadership role. As our Head of Data, you'll be the architect of our data future - owning strategy, governance, and innovation across the full data stack. You'll work directly with the CTO and key business leaders to shape how data drives decisions, competitive advantage, and growth across the entire organisation.</p><p></p><p>If you thrive at the intersection of strategy and hands-on technical leadership, and you're energised by building something meaningful, this role was made for you.</p><p></p><p><strong>What You'll Do</strong></p><ul>\n<li>Define and drive a comprehensive data strategy aligned with Localsearch's broader business objectives</li>\n<li>Establish and maintain data governance frameworks to ensure data integrity, security, and regulatory compliance</li>\n<li>Design and oversee our data architecture - including data warehouses, data lakes, ETL pipelines, and BI layers</li>\n<li>Champion data quality through robust management practices and regular audits</li>\n<li>Lead business intelligence initiatives - deploying analytics tools and dashboards that surface actionable insights</li>\n<li>Partner with cross-functional teams to understand their data needs and deliver meaningful solutions</li>\n<li>Evaluate and implement best-in-class data management and analytics technologies</li>\n<li>Drive innovation by staying ahead of emerging trends and embedding new methodologies into operations</li>\n<li>Lead, mentor, and inspire a high-performing team of Data Engineers, BI Developers, and Data Analysts</li>\n</ul><p></p><p><strong>Who You Are &amp; What You'll Bring </strong></p><ul>\n<li>Extensive experience in data management, analytics, or BI within the digital marketing or technology sector</li>\n<li>At least 3 years of hands-on data architecture experience across the BI stack (warehousing, data lakes, ETL, ODS, DDS, Data Mart, and Visualisation)</li>\n<li>Mandatory: hands-on proficiency with SQL and stored procedures</li>\n<li>At least 3 years leading and managing a team of BI and data professionals</li>\n<li>Proven experience building data governance frameworks and maintaining data quality at scale</li>\n<li>Strong strategic thinking with the ability to translate data into business value</li>\n<li>Excellent communication skills - able to present complex data concepts clearly to non-technical stakeholders</li>\n<li>Collaborative by nature - comfortable working across teams to deliver relevant data solutions</li>\n<li>Bachelor's degree (or equivalent) in Data Science, Computer Science, IT, Statistics, or a related field</li>\n<li>Hands-on experience with Snowflake, AWS RDS, Matillion, Python, or CI/CD pipelines</li>\n<li>Exposure to Claude/Cortex/AI and emerging AI-driven analytics capabilities</li>\n<li>A track record of driving innovation and continuous improvement in data operations</li>\n</ul><p><strong></strong></p><p><strong>Why It's Great to Work With Us!</strong></p><ul>\n<li>Barista-made coffee daily at our on-site café - because great work deserves great coffee</li>\n<li>Prime Robina location opposite Robina Town Centre - perfect for lunch breaks and errands</li>\n<li>Fun and supportive culture - we celebrate wins, back each other, and challenge complacency</li>\n<li>Access to the latest tools and training - stay ahead in the fast-moving world of digital marketing</li>\n<li>Flexible work-life balance - we know life happens, and we genuinely support balance</li>\n<li>Career growth and mentorship - tap into our internal mentoring program and upskilling opportunities</li>\n<li>Comprehensive wellbeing program covering mental, financial, and physical health - including free access to an onsite exercise physiologist</li>\n<li>Employee perks galore - paid parental leave, free parking, gym discounts, 24/7 retail discounts and cashback offers, plus special rewards for birthdays and tenure</li>\n<li>We celebrate success BIG! Annual company-wide conference, recognition programs, and team events to reward high performers</li>\n</ul><p><strong></strong></p><p><strong>APPLY NOW!</strong>&nbsp;</p><p></p><p></p><p><em>At&nbsp;Localsearch&nbsp;we are committed to providing an inclusive workplace and are proud to be an equal-opportunity employer. We celebrate, support, and thrive on diversity. We&nbsp;seek&nbsp;to recruit, develop, and&nbsp;retain&nbsp;the most talented people based on merit, competence, and performance. Our goal is to&nbsp;represent, at all job levels, the clients we serve.</em>&nbsp;</p>",
-      "keywords": [
-        "data"
       ]
     },
     {
