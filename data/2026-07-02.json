@@ -1,518 +1,518 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-02",
   "region": "Gold Coast",
-  "scraped_at": "2026-07-03T06:55:30.047040+10:00",
-  "total_jobs": 73,
+  "scraped_at": "2026-07-02T18:52:39.697575+10:00",
+  "total_jobs": 75,
   "keywords": [
     {
       "term": "engineer",
-      "count": 13,
-      "share": 0.1781
+      "count": 15,
+      "share": 0.2
     },
     {
       "term": "support",
       "count": 13,
-      "share": 0.1781
+      "share": 0.1733
     },
     {
       "term": "it",
       "count": 10,
-      "share": 0.137
+      "share": 0.1333
     },
     {
       "term": "analyst",
       "count": 9,
-      "share": 0.1233
+      "share": 0.12
     },
     {
       "term": "officer",
       "count": 8,
-      "share": 0.1096
+      "share": 0.1067
     },
     {
       "term": "business",
       "count": 7,
-      "share": 0.0959
+      "share": 0.0933
+    },
+    {
+      "term": "software",
+      "count": 7,
+      "share": 0.0933
     },
     {
       "term": "manager",
       "count": 7,
-      "share": 0.0959
+      "share": 0.0933
     },
     {
       "term": "data",
       "count": 6,
-      "share": 0.0822
-    },
-    {
-      "term": "software",
-      "count": 6,
-      "share": 0.0822
+      "share": 0.08
     },
     {
       "term": "developer",
       "count": 6,
-      "share": 0.0822
+      "share": 0.08
     },
     {
       "term": "ict",
       "count": 6,
-      "share": 0.0822
+      "share": 0.08
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.0685
+      "share": 0.0667
     },
     {
       "term": "specialist",
       "count": 5,
-      "share": 0.0685
+      "share": 0.0667
     },
     {
       "term": "platform",
       "count": 4,
-      "share": 0.0548
+      "share": 0.0533
     },
     {
       "term": "ai",
       "count": 4,
-      "share": 0.0548
+      "share": 0.0533
     },
     {
       "term": "technician",
       "count": 4,
-      "share": 0.0548
+      "share": 0.0533
     },
     {
       "term": "development",
       "count": 4,
-      "share": 0.0548
+      "share": 0.0533
     },
     {
       "term": "project",
       "count": 4,
-      "share": 0.0548
+      "share": 0.0533
     },
     {
       "term": "infrastructure",
       "count": 3,
-      "share": 0.0411
+      "share": 0.04
+    },
+    {
+      "term": "network",
+      "count": 3,
+      "share": 0.04
     },
     {
       "term": "desk",
       "count": 3,
-      "share": 0.0411
+      "share": 0.04
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.0274
+      "share": 0.0267
     },
     {
       "term": "advisor",
       "count": 2,
-      "share": 0.0274
+      "share": 0.0267
     },
     {
       "term": "administrator",
       "count": 2,
-      "share": 0.0274
+      "share": 0.0267
     },
     {
       "term": "coordinator",
       "count": 2,
-      "share": 0.0274
+      "share": 0.0267
     },
     {
-      "term": "network",
+      "term": "stack",
       "count": 2,
-      "share": 0.0274
+      "share": 0.0267
     },
     {
       "term": "learning",
       "count": 2,
-      "share": 0.0274
+      "share": 0.0267
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0274
+      "share": 0.0267
     },
     {
       "term": "service",
       "count": 2,
-      "share": 0.0274
+      "share": 0.0267
     },
     {
       "term": "customer",
       "count": 2,
-      "share": 0.0274
+      "share": 0.0267
     },
     {
       "term": "success",
       "count": 2,
-      "share": 0.0274
+      "share": 0.0267
     },
     {
       "term": "house",
       "count": 2,
-      "share": 0.0274
+      "share": 0.0267
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.0274
+      "share": 0.0267
     },
     {
       "term": "clinical",
       "count": 2,
-      "share": 0.0274
+      "share": 0.0267
     },
     {
       "term": "informatics",
       "count": 2,
-      "share": 0.0274
+      "share": 0.0267
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0274
+      "share": 0.0267
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "pathway",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "functional",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "yatala",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "timetabling",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "examinations",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "hubspot",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "governance",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "semantic",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "layer",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "firebird",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "sql",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "asp.net",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "founding",
       "count": 1,
-      "share": 0.0137
-    },
-    {
-      "term": "stack",
-      "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "node.js",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "angular",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "aws",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "machine",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "series",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "predictive",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "modelling",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "ml",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "help",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "facilities",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "technical",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "medical",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "deployment",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "training",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "entity",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "professionals",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "platforms",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "information",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "services",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "nurse",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "midwifery",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "erp",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "consultant",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "apac",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "chapter",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "agentforce",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "splicers",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "telecommunications",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0133
     }
   ],
   "jobs": [
@@ -1240,6 +1240,24 @@
       ]
     },
     {
+      "job_id": "92848077",
+      "job_title": "Senior Network Engineer",
+      "business_name": "City of Gold Coast",
+      "work_type": "Full time",
+      "job_type": "Engineering - Network",
+      "pay_range": "From $111,401-$117,924 per annum + superannuation",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92848077",
+      "advertiser_id": "16652581",
+      "posted_date": "2026-06-21T23:50:21Z",
+      "job_description": "<ul> <li>Full Time Fixed Term (until June 2027) and Full Times Roles Available | 9-day fortnight | 36 hours per week </li> <li>From $111,401 - $117,924 per annum plus Superannuation</li> <li>Position Brief - <a href=\"https://applynow.net.au/jobs/COG1700/assets/31072020\">Senior Network Engineer</a> </li> </ul> <p><strong>About the team</strong></p> <p>We're entering a new chapter for the Chief Technology Office at the City of Gold Coast as we deliver bold, future-focused solutions. With the launch of our IT Operating Model and the transition of critical IT services in-house, we are transforming the way we deliver technology—making it faster, more responsive, and more aligned with the needs of our organisation and customers.</p> <p>As part of this transformation, we're growing our network engineering capability and have two exciting Senior Network Engineer opportunities available. Whether you're passionate about delivering strategic technology uplift projects or supporting and enhancing enterprise network operations, there's an opportunity to make a significant impact.</p> <p><strong>About the role </strong></p> <h2>Senior Network Engineer – Network Management Uplift Project</h2> <p>This role is a key contributor to the City's Network Management Uplift Project, focusing on the design and delivery of secure, resilient, and modern network services.</p> <p>Working closely with network, infrastructure, security, and project teams, you will help deliver initiatives including network access control, identity-based access, Zero Trust architecture, network segmentation, and security uplift activities. While primarily project-focused, you will also contribute to business-as-usual network operations and continuous improvement initiatives.</p> <h2>Senior Network Engineer – Network Operations &amp; Infrastructure</h2> <p>This role is responsible for delivering complex network infrastructure projects and providing ongoing support for the City's enterprise network environment.</p> <p>You will take ownership of network design, implementation, commissioning, optimisation, and operational support across a diverse range of City facilities. This hands-on role combines project delivery with operational excellence and offers the opportunity to work across a broad range of technologies and environments.</p> <p>Participation in an on-call roster is required for both positions.</p> <h2>What you'll be doing</h2> <ul> <li>Designing, implementing, and supporting enterprise network solutions</li> <li>Managing routing, switching, firewall, and network security technologies</li> <li>Delivering network infrastructure projects from design through to implementation</li> <li>Monitoring, troubleshooting, and optimising network performance</li> <li>Supporting cloud networking and hybrid connectivity solutions</li> <li>Collaborating with stakeholders across technology and business teams</li> <li>Producing technical documentation, designs, and diagrams</li> <li>Contributing to continuous improvement and operational excellence</li> <li>Participating in after-hours support and incident response when required</li> </ul> <h2>What we're looking for</h2> <ul> <li>Extensive experience in enterprise network engineering within large and complex environments</li> <li>Strong understanding of network architecture, security principles, and best practices</li> <li>Expert proficiency in routing protocols including OSPF and BGP</li> <li>Experience with enterprise firewall technologies, including Cisco and Check Point</li> <li>Experience with Cisco DNA Centre (DNAC) and Cisco Identity Services Engine (ISE)</li> <li>Cloud networking experience, particularly within Microsoft Azure environments</li> <li>Strong troubleshooting, analytical, and problem-solving skills</li> <li>Excellent written and verbal communication skills, with the ability to translate technical concepts for diverse audiences</li> <li>Experience producing technical designs and documentation using tools such as Microsoft Visio</li> <li>A valid driver's licence and willingness to travel throughout the Gold Coast region</li> </ul> <h2>Highly desirable for the Network Management Uplift Project role</h2> <ul> <li>Experience implementing and supporting Network Access Control (NAC) solutions</li> <li>Strong knowledge of IEEE 802.1X authentication</li> <li>Cisco ISE policy design, profiling, posture assessment, and TrustSec</li> <li>Experience integrating Microsoft Intune with network access controls</li> <li>Applied experience with Zero Trust networking principles</li> <li>Experience with Active Directory, PKI/certificate services, and identity-based access controls</li> </ul> <h2>Qualifications</h2> <ul> <li>CCNA, JNCIA, or equivalent industry certification (desirable)</li> </ul> <p><strong>Be part of shaping the Gold Coast’s future </strong></p> <p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p> <p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p> <ul> <li>9-day fortnight</li> <li>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations</li> <li>Personal and professional development courses</li> <li>Access to 350+ fitness facilities through Fitness Passport</li> <li>4 free confidential counselling sessions a year for you or an immediate family member</li> <li>1 free nutritionist and financial advice session per year </li> </ul> <p>We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p> <p><strong>How to apply</strong></p> <p>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p> <p><strong>Contact Person</strong> Ashley Shannon<br><strong>Contact Email</strong> <a href=\"mailto:ashannon@goldcoast.qld.gov.au\">ashannon@goldcoast.qld.gov.au</a><br><strong>Closing Date</strong> Thursday, 02 July 2026 at 11:59pm AEDT </p> <p>Our selection process may include a one-way video interview via Criteria, a face-to-face or virtual interview via Microsoft Teams, reference checks via Xref and additional checks including police checks, employment history checks, qualification checks, pre-employment medical reviews and drug and alcohol testing. </p> <p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We consider all qualified candidates for employment, irrespective of race, age, religion, gender identity, sexual orientation, disability, or other protected characteristics by law.</em> </p>",
+      "keywords": [
+        "network",
+        "engineer"
+      ]
+    },
+    {
       "job_id": "92847058",
       "job_title": "SERVICE DESK TECHNICIAN II",
       "business_name": "Fibrecycle",
@@ -1887,6 +1905,25 @@
         "analyst",
         "timetabling",
         "examinations"
+      ]
+    },
+    {
+      "job_id": "92453108",
+      "job_title": "Full Stack Software Engineer I",
+      "business_name": "Gilmour Space Technologies",
+      "work_type": "Full time",
+      "job_type": "Engineering - Software",
+      "pay_range": "Base Salary Plus Superannuation",
+      "area": "Yatala, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92453108",
+      "advertiser_id": "43912085",
+      "posted_date": "2026-06-02T02:12:15Z",
+      "job_description": "<p><strong>All Orbits, All Planets - Join us on our journey</strong></p><p>Gilmour Space is the leading Australian rocket company, pioneering next-generation hybrid propulsion technologies for small satellite launch vehicles.</p><p>Are you a creative and experienced Full Stack Software Engineer I looking for a dynamic role where your skills will make a real impact? Have you ever dreamt of building rockets right here in Australia? Well now’s your chance! Gilmour Space is seeking a talented individual to join our innovative team to send rockets to Space! Conveniently located between Brisbane and the Gold Coast, our new state-of-the-art facility, purpose-built for designing and manufacturing rockets in-house, is equipped with the latest technology and tools, providing an ideal environment for innovation and excellence. So, what are you waiting for? Join us and be a part of a forward-thinking team dedicated to pushing the boundaries of space exploration and let’s send Australia to Space together!</p><p><strong>How you will contribute to our mission in getting Australia to space:</strong></p><p>The below is designed to give you an idea of the role you will play. There will be many more exciting and innovative things to do:</p><ul> <li>Contributing as part of a team of Software Engineers to deliver Software products and services</li> <li>Participating in the development of Software engineering designs, processes and activities</li> <li>To undertake accountability as a Responsible Engineer for Software units</li> <li>Conduct technical assessments, including: concept studies, trade studies, analysis of COTS solutions and estimates for Research and Development</li> <li>Adhering to and participating in product development engineering processes including: requirements definition, preliminary / detailed design, review, procurement / manufacture, assembly, integration and verification / validation</li> <li>Supporting Software unit and integration testing and operations (may include travel to remote sites)</li> <li>Supporting investigations, troubleshooting, modifications and fixes / repairs</li> <li>Supporting execution of Research and Development activities</li> <li>Supporting Software engineering production activities associated with the Launch Vehicle and Satellite product lines</li> <li>Coordinating with the Mechanical, Propulsion and Manufacturing engineering departments as well as the Production organisation</li> <li>Engaging with external suppliers, subcontractors and stakeholders</li> <li>Ensuring that engineering activities are conducted and documented in accordance with Gilmour Space policies, plans and procedures</li> <li>Other duties as requested by Management</li></ul><div> <strong>Minimum Qualifications, Skills and Experience:</strong></div><div> <ul>  <li>Bachelor’s Degree in Software, Computer Science, Electronics or Mechatronics Engineering, or a relevant qualification</li>  <li>Ability to operate in dynamic, fast paced environments</li>  <li>Demonstrated resilience in high stress situations</li> </ul> <div>  <p><strong>Desired Qualifications, Skills and Experience:</strong></p>  <ul>   <li>Familiarity developing full-stack, production quality applications</li>   <li>Familiarity with C/C++, Golang, Python, JavaScript, TypeScript</li>   <li>Familiarity with containerisation, microservices and serverless frameworks (Docker, Kubernetes, OpenFaas, Knative)</li>   <li>Familiarity interacting with RESTful and GraphQL APIs</li>   <li>Familiarity using relational, non-relational and timeseries databases</li>   <li>Familiarity using front-end development frameworks (Vue.js, React, etc.)</li>   <li>Understanding of baremetal, RTOS and embedded Linux software development</li>   <li>Familiarity developing unit and integration tests</li>   <li>Familiarity using git workflows</li>   <li>Familiarity conducting DevOps activities (managing infrastructure, developing CI/CD capabilities)</li>   <li>Familiarity with self-hosting and cloud-hosting applications</li>   <li>Familiarity developing software in accordance with Waterfall and Agile management frameworks</li>   <li>Understanding of Systems Engineering practices</li>   <li>Ability to work in a high-paced, challenging work environment</li>   <li>Ability to work efficiently in a team environment with a desire and willingness to assist other team members in the general day to day running of the department</li>  </ul>  <p><strong>How to Apply:</strong></p>  <p>Applicants must be an Australian Citizen/Permanent Resident or have an appropriate Australian work visa or work entitlements.</p>  <p>If you are a proactive team player with a passion to get Australia to space and a desire to succeed, please apply now by clicking the apply button and including your resume and cover letter or head to our&nbsp;<strong>careers page: www.gspace.com/career</strong></p>  <p>Gilmour Space Technologies is proud to be an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all team members. We strongly encourage applications from Aboriginal and Torres Strait Islander peoples for all positions.</p>  <p><strong>&nbsp;</strong></p> </div></div>",
+      "keywords": [
+        "stack",
+        "software",
+        "engineer"
       ]
     },
     {
