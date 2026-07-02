@@ -31,6 +31,11 @@ table{width:100%;border-collapse:collapse;background:var(--panel);border:1px sol
 th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--line);font-size:13px;vertical-align:top}
 th{color:var(--mut);cursor:pointer;user-select:none;font-weight:600}
 tr:last-child td{border-bottom:none}tbody tr:hover td{background:#202832}
+tbody tr.new td{background:rgba(244,114,182,.12)}
+tbody tr.new:hover td{background:rgba(244,114,182,.20)}
+tbody tr.new td:first-child{box-shadow:inset 3px 0 0 #f472b6}
+.nf{display:flex;align-items:center;gap:6px;color:var(--mut);font-size:13px;white-space:nowrap;cursor:pointer}
+.newtag{color:#f472b6}
 a{color:var(--acc);text-decoration:none}a:hover{text-decoration:underline}
 .chips{display:flex;flex-wrap:wrap;gap:4px}
 .chip{background:#22303d;border:1px solid var(--line);border-radius:999px;padding:1px 8px;font-size:11px;cursor:pointer;white-space:nowrap}
@@ -57,6 +62,7 @@ a{color:var(--acc);text-decoration:none}a:hover{text-decoration:underline}
   <div class="controls">
     <input type="search" id="q" placeholder="Filter by title, company, suburb, keyword…">
     <select id="fwt"><option value="">All work types</option></select>
+    <label class="nf" title="Show only jobs new since the previous snapshot"><input type="checkbox" id="newonly"> New only</label>
     <button class="clear" id="clear">Clear</button>
   </div>
   <div class="count" id="count"></div>
