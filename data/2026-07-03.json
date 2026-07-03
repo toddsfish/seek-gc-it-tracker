@@ -1,628 +1,521 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-03",
   "region": "Gold Coast",
-  "scraped_at": "2026-07-04T06:53:53.124786+10:00",
-  "total_jobs": 69,
+  "scraped_at": "2026-07-03T06:55:30.047040+10:00",
+  "total_jobs": 73,
   "keywords": [
     {
       "term": "engineer",
-      "count": 12,
-      "share": 0.1739
+      "count": 13,
+      "share": 0.1781
     },
     {
       "term": "support",
-      "count": 12,
-      "share": 0.1739
+      "count": 13,
+      "share": 0.1781
     },
     {
       "term": "it",
       "count": 10,
-      "share": 0.1449
+      "share": 0.137
+    },
+    {
+      "term": "analyst",
+      "count": 9,
+      "share": 0.1233
     },
     {
       "term": "officer",
+      "count": 8,
+      "share": 0.1096
+    },
+    {
+      "term": "business",
       "count": 7,
-      "share": 0.1014
+      "share": 0.0959
     },
     {
       "term": "manager",
       "count": 7,
-      "share": 0.1014
+      "share": 0.0959
     },
     {
-      "term": "analyst",
+      "term": "data",
       "count": 6,
-      "share": 0.087
+      "share": 0.0822
     },
     {
-      "term": "business",
+      "term": "software",
       "count": 6,
-      "share": 0.087
+      "share": 0.0822
+    },
+    {
+      "term": "developer",
+      "count": 6,
+      "share": 0.0822
     },
     {
       "term": "ict",
       "count": 6,
-      "share": 0.087
+      "share": 0.0822
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.0725
-    },
-    {
-      "term": "software",
-      "count": 5,
-      "share": 0.0725
-    },
-    {
-      "term": "developer",
-      "count": 5,
-      "share": 0.0725
+      "share": 0.0685
     },
     {
       "term": "specialist",
       "count": 5,
-      "share": 0.0725
-    },
-    {
-      "term": "data",
-      "count": 4,
-      "share": 0.058
+      "share": 0.0685
     },
     {
       "term": "platform",
       "count": 4,
-      "share": 0.058
+      "share": 0.0548
     },
     {
       "term": "ai",
       "count": 4,
-      "share": 0.058
+      "share": 0.0548
     },
     {
       "term": "technician",
       "count": 4,
-      "share": 0.058
+      "share": 0.0548
     },
     {
       "term": "development",
       "count": 4,
-      "share": 0.058
+      "share": 0.0548
     },
     {
       "term": "project",
       "count": 4,
-      "share": 0.058
+      "share": 0.0548
     },
     {
       "term": "infrastructure",
       "count": 3,
-      "share": 0.0435
-    },
-    {
-      "term": "administrator",
-      "count": 3,
-      "share": 0.0435
+      "share": 0.0411
     },
     {
       "term": "desk",
       "count": 3,
-      "share": 0.0435
-    },
-    {
-      "term": "field",
-      "count": 3,
-      "share": 0.0435
+      "share": 0.0411
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.029
+      "share": 0.0274
+    },
+    {
+      "term": "advisor",
+      "count": 2,
+      "share": 0.0274
+    },
+    {
+      "term": "administrator",
+      "count": 2,
+      "share": 0.0274
     },
     {
       "term": "coordinator",
       "count": 2,
-      "share": 0.029
+      "share": 0.0274
+    },
+    {
+      "term": "network",
+      "count": 2,
+      "share": 0.0274
     },
     {
       "term": "learning",
       "count": 2,
-      "share": 0.029
+      "share": 0.0274
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.029
+      "share": 0.0274
     },
     {
       "term": "service",
       "count": 2,
-      "share": 0.029
+      "share": 0.0274
     },
     {
       "term": "customer",
       "count": 2,
-      "share": 0.029
+      "share": 0.0274
     },
     {
       "term": "success",
       "count": 2,
-      "share": 0.029
+      "share": 0.0274
     },
     {
       "term": "house",
       "count": 2,
-      "share": 0.029
+      "share": 0.0274
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.029
+      "share": 0.0274
     },
     {
       "term": "clinical",
       "count": 2,
-      "share": 0.029
+      "share": 0.0274
     },
     {
       "term": "informatics",
       "count": 2,
-      "share": 0.029
-    },
-    {
-      "term": "telecommunications",
-      "count": 2,
-      "share": 0.029
+      "share": 0.0274
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.029
+      "share": 0.0274
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "reporting",
-      "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "parental",
-      "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "leave",
-      "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "cover",
-      "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "pathway",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "functional",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
+    },
+    {
+      "term": "yatala",
+      "count": 1,
+      "share": 0.0137
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
+    },
+    {
+      "term": "timetabling",
+      "count": 1,
+      "share": 0.0137
+    },
+    {
+      "term": "examinations",
+      "count": 1,
+      "share": 0.0137
     },
     {
       "term": "hubspot",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "governance",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "semantic",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "layer",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "firebird",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "sql",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "asp.net",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "founding",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "node.js",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "angular",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "aws",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "machine",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "series",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "predictive",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "modelling",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "ml",
       "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "msp",
-      "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "help",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
-      "term": "technical",
+      "term": "msp",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "facilities",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
+    },
+    {
+      "term": "technical",
+      "count": 1,
+      "share": 0.0137
     },
     {
       "term": "medical",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "training",
-      "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "deployment",
-      "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
-      "term": "professionals",
+      "term": "deployment",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
+    },
+    {
+      "term": "training",
+      "count": 1,
+      "share": 0.0137
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "entity",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
+    },
+    {
+      "term": "professionals",
+      "count": 1,
+      "share": 0.0137
     },
     {
       "term": "platforms",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "information",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "services",
       "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "erp",
-      "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "delivery",
-      "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "nurse",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "midwifery",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
-      "term": "advisor",
+      "term": "erp",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
+    },
+    {
+      "term": "delivery",
+      "count": 1,
+      "share": 0.0137
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "consultant",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "apac",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "chapter",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "agentforce",
       "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "inspection",
-      "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "maintenance",
-      "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "assistant",
-      "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "brisbane",
-      "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "north",
-      "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "splicers",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
+    },
+    {
+      "term": "telecommunications",
+      "count": 1,
+      "share": 0.0137
+    },
+    {
+      "term": "field",
+      "count": 1,
+      "share": 0.0137
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0137
     }
   ],
   "jobs": [
-    {
-      "job_id": "93117204",
-      "job_title": "Telecommunications Field Engineer",
-      "business_name": "AM CONNECTS PTY LTD",
-      "work_type": "Full time",
-      "job_type": "Telecommunications",
-      "pay_range": "$80,000 – $85,000 per year",
-      "area": "Beaudesert, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93117204",
-      "advertiser_id": "63764169",
-      "posted_date": "2026-07-03T12:05:01Z",
-      "job_description": "<p><strong>Telecommunications Field Engineer</strong></p><p>We are seeking an experienced <strong>Telecommunications Field Engineer</strong> to join our team. The role involves hands-on field work supporting the design, installation, commissioning, and maintenance of telecommunications networks, including fibre optic and other carrier infrastructure systems.</p><p>You will play a key role in ensuring reliable network performance, diagnosing complex faults, and supporting the delivery of high-quality telecommunications projects in the field.</p><p><strong>Key Responsibilities</strong></p><ul><li><p>Plan, design, and support telecommunications network infrastructure and associated equipment.</p></li><li><p>Install, commission, and monitor telecommunications networks, including fibre optic systems.</p></li><li><p>Conduct testing, fault finding, and performance evaluation of network equipment and infrastructure.</p></li><li><p>Identify and resolve complex technical issues in telecommunications networks.</p></li><li><p>Carry out site inspections, surveys, and quality assurance checks.</p></li><li><p>Provide technical advice and support to clients, contractors, and internal teams.</p></li><li><p>Ensure all work complies with safety standards, industry regulations, and project requirements.</p></li><li><p>Maintain accurate documentation, test results, and field reports.</p></li><li><p>Collaborate with engineers, technicians, and project teams to deliver successful outcomes.</p></li></ul><p><strong>Skills &amp; Experience</strong></p><ul><li><p>Relevant qualification in Telecommunications Engineering, Electronics, Electrical Engineering, or a related field.</p></li><li><p>Minimum 2 years’ experience in telecommunications on-field required.</p></li><li><p>Strong understanding of telecommunications systems, structured cabling, and network infrastructure.</p></li><li><p>Ability to interpret technical drawings, schematics, and network plans.</p></li><li><p>Hands-on experience with testing, commissioning, and fault diagnosis of network systems.</p></li><li><p>Strong problem-solving skills with the ability to manage complex technical issues.</p></li><li><p>Good communication skills and ability to work with clients and team members.</p></li><li><p>Valid driver’s licence and willingness to travel to various sites.</p></li></ul><p><strong>Mandatory Tickets &amp; Certifications required</strong></p><ul><li><p>First Aid Certificate (HLTAID011 or equivalent)</p></li><li><p>CPR Certification (HLTAID009 or equivalent)</p></li><li><p>Working at Heights Certification</p></li><li><p>Confined Space Entry Certification</p></li><li><p>Pole Access / Pole Top Rescue Certification (Energex Approved – Non-Electrical Worker Accreditation)</p></li><li><p>White Card (Construction Induction)</p></li><li><p>Fibre optic / telecommunications cabling accreditation (installation, splicing, testing)</p></li><li><p>Telecommunications industry safety induction (carrier or project specific)</p></li></ul><p><strong>Highly Desirable</strong></p><ul><li><p>Experience with OTDR testing, fibre splicing, and network loss testing.</p></li><li><p>Experience working in carrier networks or large-scale fibre deployments.</p></li><li><p>Civil or rigging experience in telecommunications infrastructure.</p></li><li><p>Additional electrical or communications certifications.</p></li></ul><p><strong>What We Offer</strong></p><ul><li><p>Competitive salary package (based on experience)</p></li><li><p>Company vehicle, tools, and equipment (where applicable)</p></li><li><p>Ongoing training and certification opportunities</p></li><li><p>Career progression in a growing telecommunications company</p></li><li><p>Strong safety-focused and supportive team culture</p></li></ul><p><strong>Job Type:</strong> Full-time<br><strong>Location: </strong>Beaudesert, Jimboomba, Tamborine Mt and nearby areas<br><strong>Salary:</strong> Starting from $80,0000</p>",
-      "keywords": [
-        "telecommunications",
-        "field",
-        "engineer"
-      ]
-    },
-    {
-      "job_id": "93109028",
-      "job_title": "Field Inspection and Maintenance Assistant - Brisbane North",
-      "business_name": "Telstra",
-      "work_type": "Contract/Temp",
-      "job_type": "Telecommunications",
-      "pay_range": "",
-      "area": "Nerang, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93109028",
-      "advertiser_id": "40749882",
-      "posted_date": "2026-07-03T06:30:57Z",
-      "job_description": "<p>We're an iconic Aussie brand with a global footprint. Our purpose is to build a connected future so everyone can thrive. We're all about providing the best experience and delivering the best tech on the best network.<br><br><strong>Looking for a hands-on career where you can make a real impact?</strong> We're encouraging First Nations peoples to apply for Field Inspection and Maintenance Assistant roles that help connect and support communities across Australia. You'll receive training, mentoring, and be part of a team that values your skills, experience, and story.<br><br><strong>Current locations in demand: QLD </strong>- Brisbane North<br><br><strong>About the role</strong><br>As a <strong>Field Inspection and Maintenance Assistant</strong>, you will work without immediate supervision or direction to provide our customers with a great experience by inspecting, servicing, and maintaining Network Assets or other elements of the Telecommunication Network.<br><br>You will actively participate in a diverse team environment to deliver the optimum customer and commercial outcomes aligned to the corporate strategy.<br><br>We have several positions available around the country. Find the specific locations below. The expectation is to reside in the targeted area or be willing to relocate.<br><br>This offer is a 12-month fixed term contract with opportunity for extension.<br><br><strong>Key Responsibilities:</strong><br> </p><ul><li>Deliver seamless Network rectification and remediation where required.<br> </li><li>Inspect and maintain Network Assets such as Poles, Payphones, Pits, and Exchange components.<br> </li><li>Ensure work is undertaken in a timely cost-effective manner, work efficiently and at a high standard to meet the performance targets set.<br> </li><li>Adhere to Health, Safety and Wellbeing standards, our Code of Conduct, our Telstra Values and Corporate policies.<br> </li></ul><p><br><strong>Qualifications:</strong><br>You will be required to hold and maintain the relevant and applicable licenses and qualifications to perform this role, as deemed mandatory by regulatory and legal authorities and must also maintain a current driver's license.<br> </p><ul><li>A valid car licence<br> </li><li>An industry white card<br> </li><li>Traffic management qualifications (beneficial)<br> </li><li>Working with Children Check<br> </li></ul><p><br>Telstra can support you through obtaining a Working With Children Check and White Card.<br><br><strong>Why Telstra?</strong><br>We're committed to creating a workplace that honours diversity and inclusion. That means real flexibility, inclusive policies, and leadership that walks the talk.<br><br><strong>What We Offer</strong><br> </p><ul><li><strong>Everything from head to toe.</strong> From the vehicle, tools, and equipment through to the full uniform, we provide it all.<br> </li><li><strong>8-hour shifts, Mon-Fri. </strong>Overtime when required.<br> </li><li><strong>12 Month Fixed Term Contract.</strong> With the opportunity for permanent contract thereafter.<br> </li><li><strong>Industry recognised training &amp; unlimited learning.</strong> Take part in industry recognised training courses and level up your skills with access to 17,000 on-demand learning programs.<br> </li><li><strong>Extra perks.</strong> Receive 30% off Telstra products and services, plus unlock exclusive discounts from over 240 brands and partners.<br> </li><li><strong>Plus so much more!</strong><br> </li></ul><p><br><strong>Inclusion Matters Here</strong><br>We're stronger when we reflect the communities we serve. At Telstra - we're committed to creating opportunities for First Nations peoples to pursue thriving careers with Telstra. Some of our Supportive policies include;<br> </p><ul><li>Cultural Leave. Enjoy dedicated cultural leave to participate in significant events - because your heritage and community connections matter.<br> </li><li>Flexible Work Options. Flexible work options tailored to your lifestyle and culture, including remote work - because how you work should reflect who you are.<br> </li><li>First Nations Employee Representative Group. To provide support, mentoring, foster understanding and strengthen connection with First Nation Australian Communities.<br> </li><li>Deadly Early Years Yarning Space. A space for connection, storytelling and peer support.<br> </li></ul><p><br><em>We have zero tolerance for harassment of any kind, and we prioritise creating a workplace culture where everyone is safe and can thrive.</em><br><br><em>We work flexibly at Telstra, talk to us about what flexibility means to you. When you apply, you can share your pronouns and /or any reasonable adjustments needed to take part equitably during the recruitment process.</em><br><br><strong>If this opportunity sounds like a perfect fit for you, we'd encourage you to apply!</strong><br> </p>",
-      "keywords": [
-        "field",
-        "inspection",
-        "maintenance",
-        "assistant",
-        "brisbane",
-        "north"
-      ]
-    },
-    {
-      "job_id": "93101572",
-      "job_title": "Junior IT Systems Administrator",
-      "business_name": "Stacked Farm",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Arundel, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93101572",
-      "advertiser_id": "39488667",
-      "posted_date": "2026-07-03T03:05:16Z",
-      "job_description": "<p><strong>ABOUT STACKED FARM</strong></p><p>Stacked Farm is revolutionizing fresh produce as Australia's first end-to-end automated indoor vertical farming company. Operating across Australia (Gold Coast and Melbourne) and the United States, we combine robotics, automation, software and engineering to produce premium leafy greens year-round. Technology is at the heart of everything we do, from enterprise IT infrastructure and cloud services through to operational technology (OT), industrial networking and cybersecurity.</p><p>As we continue to grow, we're looking for a passionate technology enthusiast to join our team and build a rewarding career in IT.</p><p><strong>ABOUT THE ROLE</strong></p><p>The Junior IT Systems Administrator provides essential IT support across our multi-site operations, ensuring day-to-day technology systems, hardware and software operate reliably.</p><p>This role combines IT support, endpoint provisioning and junior systems administration, making it an excellent opportunity for someone early in their IT career who wants to develop into a Systems Administrator.</p><p>Reporting to the Chief Technology Officer, you'll provide responsive user support while progressively taking ownership of systems administration, infrastructure and networking responsibilities. As your skills develop, you'll gain exposure to operational technology (OT), cloud and on-premises infrastructure, cybersecurity, enterprise networking and IT infrastructure design.</p><p>No two days are the same, and you'll work alongside experienced technical professionals in an environment where you'll continually learn and develop your skills.</p><p><strong>RESPONSIBILITIES</strong></p><ul><li><p>Provide responsive Level 1 and Level 2 IT support through our ticketing system, troubleshooting hardware, software and user issues across multiple sites.</p></li><li><p>Configure, deploy and maintain laptops, desktops, mobile devices and peripherals.</p></li><li><p>Provision and manage user accounts, access permissions and endpoint devices as part of team member onboarding, offboarding and role changes.</p></li><li><p>Assist with the administration of Windows and Linux servers, virtualisation platforms and remote monitoring and management systems.</p></li><li><p>Support Google Applications and other core business applications.</p></li><li><p>Assist with network administration including switching, routing, VLANs, VPNs, wireless networking and firewall management.</p></li><li><p>Support operational technology (OT) networking, including network segmentation, access control and industrial network hardening.</p></li><li><p>Participate in cybersecurity activities including patch management, endpoint protection, vulnerability remediation and security best practices.</p></li><li><p>Maintain IT documentation, network diagrams, asset registers and standard operating procedures.</p></li><li><p>Assist with hardware procurement, lifecycle management and software licensing.</p></li><li><p>Contribute to infrastructure improvements, automation initiatives and technical projects as your experience grows.</p></li></ul><p><strong>ABOUT YOU</strong></p><p>You're passionate about technology and enjoy solving problems. Whether you've gained experience through work, study, certifications or personal projects, you're always looking to learn something new.</p><p>You take pride in providing excellent customer service, enjoy troubleshooting technical issues and are excited by the opportunity to grow into a Systems Administrator role.</p><p><strong>REQUIREMENTS</strong></p><ul><li><p>Diploma, Advanced Diploma or Degree in Information Technology, Computer Science, Network Administration or a related discipline (or currently completing).</p></li><li><p>Experience in IT support, helpdesk or junior systems administration is advantageous.</p></li><li><p>Solid understanding of networking fundamentals including TCP/IP, subnetting, VLANs, routing, switching and firewall concepts.</p></li><li><p>Working knowledge of Google applications and basic Linux administration.</p></li><li><p>Understanding of virtualisation concepts and hypervisor technologies such as VMware or Hyper-V.</p></li><li><p>Strong analytical and troubleshooting skills with a logical approach to problem solving.</p></li><li><p>Excellent communication skills with the ability to explain technical concepts to non-technical users.</p></li><li><p>High attention to detail and strong organisational skills.</p></li><li><p>Proactive, reliable and able to work both independently and collaboratively.</p></li><li><p>Genuine passion for technology with a strong interest in networking, systems administration and infrastructure.</p></li><li><p>Australian working rights.</p></li><li><p><strong>Must be based on the Gold Coast.</strong></p></li></ul><p><br></p><p><br></p>",
-      "keywords": [
-        "it",
-        "systems",
-        "administrator"
-      ]
-    },
-    {
-      "job_id": "93094971",
-      "job_title": "Data and Reporting Analyst - Parental Leave Cover",
-      "business_name": "Keolis Gold Coast",
-      "work_type": "Contract/Temp",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93094971",
-      "advertiser_id": "28957160",
-      "posted_date": "2026-07-02T23:12:19Z",
-      "job_description": "<strong>About us<br>\n<br>\n</strong>\n<p>The G:link is operated and maintained by Keolis Gold Coast (KGC). Keolis Gold Coast is the proud subsidiary of Keolis Australia and New Zealand, a leading private provider of multi-modal public transport in Australia.</p>\n<p><strong>Some of our Benefits</strong></p>\n<ul>\n    <li>Salary Packaging (inc. salary sacrificing additional superannuation and novated car leasing);</li>\n    <li>Education and learning opportunities;</li>\n    <li>Employee Assistance Program (for employees and immediate family);</li>\n    <li>Reward &amp; Recognition (inc. years of service, employee of the year, informal recognition);</li>\n    <li>Health &amp; Wellness Programs (inc. team challenges, Fitness Passport);</li>\n    <li>Flexible work options (including Paid Parental and Adoptive Leave);</li>\n    <li>Onsite parking; and</li>\n    <li>Enjoy a great work life balance on the Gold Coast!</li>\n</ul>\n<p><strong>Our Culture&nbsp;</strong></p>\n<p>What makes working with us so special is our culture, one that embraces our Keolis core values (We Care, We Imagine, We Commit) and shared commitment to the development of high performing natural leaders within the organisation. We are proud to recruit, train and retain the most talented professionals on the Gold Coast, who share our customer (Think Like a Passenger) and safety focused (Zero Harm) approach. Our staff are at the core of what we do, and by cultivating the right environment and values, we have an engaged workforce with a sense of team.</p>\n<p><strong>About the Role</strong></p>\n<p>The Data and Reporting Analyst -&nbsp;Parental Leave Cover&nbsp;position will see you maintain accurate data collection and reporting to enable early detection of key performance indicator trends and corrections, while meeting daily, weekly and monthly reporting deadlines.</p>\n<p><strong>Position Responsibilities</strong></p>\n<p>· Develop and provide reports on key performance indicators as required;</p>\n<p>· Quality control and auditing of data entries into the various system registers;</p>\n<p>· Address any quality issues with the source/root cause;</p>\n<p>· Analyse, cleanse, and transform the user data into usable information, then align the data to business reporting requirements;&nbsp;</p>\n<p>·Liaise with external data providers to ensure the quality of the data that Keolis Gold Coast (KGC) receives meets their reporting requirements;</p>\n<p>· Liaise with all business departments and management levels to ensure the quality of the data meets the reporting requirements;</p>\n<p>· Design reports and develop metrics to analyse and help drive business decisions on identified areas requiring attention;</p>\n<p>· Assist with the continued growth and development of the transition to digital reporting;</p>\n<p>· Support the Scheduling and Events Coordinator as needed in the data and administration tasks.</p>\n<p><strong>Competencies Required</strong></p>\n<p>· Essential: Proven advanced knowledge in Microsoft Word, Excel, PowerPoint;</p>\n<p>· Essential: Experience with producing reports;</p>\n<p>· Favourable, but not essential: experience with PowerBI;</p>\n<p>· Understanding of how to interpret information/data and graphs;</p>\n<p>· Ability to create performance improvement plans;</p>\n<p>· Ability to clearly express processes and information.</p>\n<p><strong>Profile Requirements</strong></p>\n<p>· Fluent in English with excellent written and verbal communication skills;</p>\n<p>· Quick and precise with data entry;</p>\n<p>· Ability to adapt to ever changing reporting requirements and environments;</p>\n<p>· Ability to challenge ideas and processes confidently;</p>\n<p>· Relied upon to work with own initiative as well as collectively in a team;</p>\n<p>· Robust and resilient in regard to disposition;</p>\n<p>· Able to display high levels of attention to detail and vigilance;</p>\n<p>· Able to identify and rectify problems and issues in a timely manner.</p>\n<p>As part of the recruitment processes at KGC, pre-employment checks include National Police Certificate and Rail Safety Worker Pre-employment Medical. Further to this, successful candidates will be required to provide a National Police Certificate where requested throughout employment and maintain their Rail Safety Medical status. Given the nature of the position you have applied for and, in particular, the duties and responsibilities that it includes, KGC considers this to be a reasonable requirement. KGC will assess a candidate’s and employee’s criminal record history against the inherent requirements of the relevant position before making a determination as to their suitability or otherwise for the role.&nbsp;</p>\n<p>Keolis is committed to creating a workplace that builds respect, promotes diversity and encourages inclusiveness.&nbsp;<br>\n<strong><br>\n</strong>Candidates who have applied for this position previously are requested not to reapply, as duplicate applications will not be considered.</p>",
-      "keywords": [
-        "data",
-        "reporting",
-        "analyst",
-        "parental",
-        "leave",
-        "cover"
-      ]
-    },
     {
       "job_id": "93086235",
       "job_title": "Customer Success Team Lead - APAC",
@@ -1269,6 +1162,42 @@
       ]
     },
     {
+      "job_id": "92862127",
+      "job_title": "Senior Data Analyst",
+      "business_name": "Department of Health - Queensland",
+      "work_type": "Full time",
+      "job_type": "Database Development & Administration",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92862127",
+      "advertiser_id": "32285210",
+      "posted_date": "2026-06-22T06:26:31Z",
+      "job_description": "<div>\n \n <p>The Senior Data Analyst applies advanced analytical skills to support the design and implementation of health analytics solutions as part of a cross-functional team.</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Senior Data Analyst </strong>to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 13 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide high quality analysis of complex health care data to support strategic and operational decision making</li>\n<li>Support day-to-day management of data and analytics platforms, providing end-to-end analysis of investigating variances</li>\n<li>Maintain up-to-date knowledge of national and international developments</li>\n<li>Support the delivery and management of Gold Coast Health's performance framework</li>\n</ul>\n<p><strong>&nbsp;A</strong><strong>bout you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>A tertiary qualification in a relevant field (e.g. data science, statistics, public health, informatics, business) is highly desirable</li>\n<li>Evidence of vaccination, or be able to be vaccinated against and remain vaccinated against - Measles, Mumps, Rubella, Varicella, Pertussis and Hepatitis B</li>\n<li>Tuberculosis screening, to identify if the tuberculosis vaccination may be required</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>&nbsp;</strong><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $125,002 - $133,898 per annum</li>\n</ul>\n<p><strong>About Us <br></strong>The Performance Division has been established to lead the continuous improvement and operational efficiency of key healthcare services within the Gold Coast Hospital and Health Service (GCHHS). The Division focuses on optimising patient flow, enhancing surgical and outpatient productivity, and strengthening capacity planning to ensure that resources are aligned with demand.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Friday, 3 July 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>J</strong><strong>ob Ad reference:</strong> GC686132</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
+      "keywords": [
+        "data",
+        "analyst"
+      ]
+    },
+    {
+      "job_id": "92857856",
+      "job_title": "Senior Data Analyst",
+      "business_name": "Gold Coast Hospital & Health Service",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "$125,002 - $133,898 per annum + 12.75% super",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92857856",
+      "advertiser_id": "32285403",
+      "posted_date": "2026-06-22T04:32:58Z",
+      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Senior Data Analyst </strong>to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 13 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide high quality analysis of complex health care data to support strategic and operational decision making</li>\n<li>Support day-to-day management of data and analytics platforms, providing end-to-end analysis of investigating variances</li>\n<li>Maintain up-to-date knowledge of national and international developments</li>\n<li>Support the delivery and management of Gold Coast Health's performance framework</li>\n</ul>\n<p><strong>&nbsp;A</strong><strong>bout you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>A tertiary qualification in a relevant field (e.g. data science, statistics, public health, informatics, business) is highly desirable</li>\n<li>Evidence of vaccination, or be able to be vaccinated against and remain vaccinated against - Measles, Mumps, Rubella, Varicella, Pertussis and Hepatitis B</li>\n<li>Tuberculosis screening, to identify if the tuberculosis vaccination may be required</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>&nbsp;</strong><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $125,002 - $133,898 per annum</li>\n</ul>\n<p><strong>About Us <br></strong>The Performance Division has been established to lead the continuous improvement and operational efficiency of key healthcare services within the Gold Coast Hospital and Health Service (GCHHS). The Division focuses on optimising patient flow, enhancing surgical and outpatient productivity, and strengthening capacity planning to ensure that resources are aligned with demand.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Friday, 3 July 2026</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>J</strong><strong>ob Ad reference:</strong> GC686132</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
+      "keywords": [
+        "data",
+        "analyst"
+      ]
+    },
+    {
       "job_id": "92855129",
       "job_title": "IT Support - Medical Industry - Level 2 F/T and Casual",
       "business_name": "Focus IT Healthcare Solutions",
@@ -1844,6 +1773,120 @@
         "sql",
         "asp.net",
         "developer"
+      ]
+    },
+    {
+      "job_id": "92486760",
+      "job_title": "Network Engineer",
+      "business_name": "Village Roadshow Ltd",
+      "work_type": "Full time",
+      "job_type": "Engineering - Network",
+      "pay_range": "",
+      "area": "Oxenford, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92486760",
+      "advertiser_id": "36503785",
+      "posted_date": "2026-06-03T05:47:38Z",
+      "job_description": "<p><strong>About us:</strong></p>\n<p>Village Roadshow Ltd is a leading Australian entertainment company, operating core businesses in Cinema, Movie Production, Film, TV, Digital Distribution and Theme Parks. The people at Village are what makes it a vibrant, fun place to work, and we strive to create rewarding and memorable experiences for our guests.</p>\n<p><strong>About the role:</strong></p>\n<p>Located at Movie World on the Gold Coast, the Network Engineer is responsible for designing, supporting and maintaining a highly available and resilient network environment that enables 24/7 operations across our Theme Parks and broader business.</p>\n<p>This role works closely with internal teams and vendors to deliver secure, scalable, and reliable network and voice services, ensuring seamless connectivity during peak trading periods.</p>\n<p><strong>The role includes:</strong></p>\n<ul>\n<li>Maintaining a highly available and resilient network environment supporting business-critical services</li>\n<li>Providing operational support for network and voice services as part of a broader Infrastructure team</li>\n<li>Ensuring network availability across a 24/7 operating environment, including peak trading periods</li>\n<li>Troubleshooting and resolving complex network issues to maintain service stability</li>\n<li>Collaborating with internal stakeholders and external vendors to deliver secure, high-quality network solutions</li>\n<li>Developing and maintaining accurate network documentation and standards</li>\n<li>Supporting service continuity by responding to business-critical incidents, including on call roster when required</li>\n</ul>\n<p><strong>About you:</strong></p>\n<p>This role is suited to a customer and solutions-focused infrastructure professional who thrives in a fast-paced environment. You enjoy juggling multiple changing priorities, problem solving and building strong stakeholder relationships.</p>\n<p><strong>The key skills and competencies we are seeking include:</strong></p>\n<ul>\n<li>Strong hands-on experience with&nbsp;Palo Alto SD-WAN and Next Generation Firewalls</li>\n<li>Proven expertise in&nbsp;Aruba wireless and switching technologies, including&nbsp;Aruba ClearPass</li>\n<li>Solid understanding of&nbsp;routing protocols&nbsp;(BGP, OSPF)</li>\n<li>Experience with&nbsp;cloud networking and firewalls in Azure and AWS</li>\n<li>CCNA certification (or equivalent experience)</li>\n<li>Strong troubleshooting capability across complex network environments</li>\n<li>Familiarity with ITIL-based operating environments</li>\n</ul>\n<p><strong>Desirable:</strong></p>\n<ul>\n<li>Experience with Cisco</li>\n<li>Network design experience or CCDA certification</li>\n<li>Exposure to BGP and advanced networking concepts</li>\n</ul>\n<p><strong>What we offer:&nbsp;<br></strong>In return, we offer a great working environment, ongoing learning and development, health and wellbeing initiatives, and regular internal events. And if you’re an entertainment enthusiast, there are plenty of exciting employment benefits to enjoy.</p>\n<p><em>Village Roadshow is proudly an equal opportunity employer. Applicants of all genders, identities and backgrounds will receive consideration for employment and commit, as a circle back employer, to responding to every applicant.</em></p>",
+      "keywords": [
+        "network",
+        "engineer"
+      ]
+    },
+    {
+      "job_id": "92486759",
+      "job_title": "Network Engineer",
+      "business_name": "Village Roadshow Ltd",
+      "work_type": "Full time",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "",
+      "area": "Oxenford, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92486759",
+      "advertiser_id": "36503785",
+      "posted_date": "2026-06-03T05:47:37Z",
+      "job_description": "<p><strong>About us:</strong></p>\n<p>Village Roadshow Ltd is a leading Australian entertainment company, operating core businesses in Cinema, Movie Production, Film, TV, Digital Distribution and Theme Parks. The people at Village are what makes it a vibrant, fun place to work, and we strive to create rewarding and memorable experiences for our guests.</p>\n<p><strong>About the role:</strong></p>\n<p>Located at Movie World on the Gold Coast, the Network Engineer is responsible for designing, supporting and maintaining a highly available and resilient network environment that enables 24/7 operations across our Theme Parks and broader business.</p>\n<p>This role works closely with internal teams and vendors to deliver secure, scalable, and reliable network and voice services, ensuring seamless connectivity during peak trading periods.</p>\n<p><strong>The role includes:</strong></p>\n<ul>\n<li>Maintaining a highly available and resilient network environment supporting business-critical services</li>\n<li>Providing operational support for network and voice services as part of a broader Infrastructure team</li>\n<li>Ensuring network availability across a 24/7 operating environment, including peak trading periods</li>\n<li>Troubleshooting and resolving complex network issues to maintain service stability</li>\n<li>Collaborating with internal stakeholders and external vendors to deliver secure, high-quality network solutions</li>\n<li>Developing and maintaining accurate network documentation and standards</li>\n<li>Supporting service continuity by responding to business-critical incidents, including on call roster when required</li>\n</ul>\n<p><strong>About you:</strong></p>\n<p>This role is suited to a customer and solutions-focused infrastructure professional who thrives in a fast-paced environment. You enjoy juggling multiple changing priorities, problem solving and building strong stakeholder relationships.</p>\n<p><strong>The key skills and competencies we are seeking include:</strong></p>\n<ul>\n<li>Strong hands-on experience with&nbsp;Palo Alto SD-WAN and Next Generation Firewalls</li>\n<li>Proven expertise in&nbsp;Aruba wireless and switching technologies, including&nbsp;Aruba ClearPass</li>\n<li>Solid understanding of&nbsp;routing protocols&nbsp;(BGP, OSPF)</li>\n<li>Experience with&nbsp;cloud networking and firewalls in Azure and AWS</li>\n<li>CCNA certification (or equivalent experience)</li>\n<li>Strong troubleshooting capability across complex network environments</li>\n<li>Familiarity with ITIL-based operating environments</li>\n</ul>\n<p><strong>Desirable:</strong></p>\n<ul>\n<li>Experience with Cisco</li>\n<li>Network design experience or CCDA certification</li>\n<li>Exposure to BGP and advanced networking concepts</li>\n</ul>\n<p><strong>What we offer:&nbsp;<br></strong>In return, we offer a great working environment, ongoing learning and development, health and wellbeing initiatives, and regular internal events. And if you’re an entertainment enthusiast, there are plenty of exciting employment benefits to enjoy.</p>\n<p><em>Village Roadshow is proudly an equal opportunity employer. Applicants of all genders, identities and backgrounds will receive consideration for employment and commit, as a circle back employer, to responding to every applicant.</em></p>",
+      "keywords": [
+        "network",
+        "engineer"
+      ]
+    },
+    {
+      "job_id": "92478987",
+      "job_title": "Business Systems Analyst - Yatala, QLD",
+      "business_name": "Reward Hospitality AU",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "",
+      "area": "Yatala, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92478987",
+      "advertiser_id": "24480121",
+      "posted_date": "2026-06-03T02:12:50Z",
+      "job_description": "<p><strong>Business Systems Analyst</strong></p><p>We’re looking for a Business Systems Analyst who thrives on solving problems, improving systems, and making things work better for the business and the people who use them.</p><p>In this role, you’ll be right at the centre of our business systems environment—supporting users, analysing processes, and driving improvements across Pronto ERP and a suite of key applications including Netstock, Transform, Cognos, SQL analysis cube reporting, Redmap, Esker, Mobile Sales Web App, and more.</p><p>If you enjoy understanding how things work, finding smarter ways to do things, and turning business needs into practical system solutions, this could be a great fit.</p><p><strong>Role Responsibilities include:</strong></p><strong>Business Analysis &amp; Systems Improvement</strong><ul><li><p>Undertake detailed analysis to identify opportunities to enhance the functionality of Pronto ERP and other business applications</p></li><li><p>Work closely with stakeholders to understand business requirements and translate them into clear technical specifications and solution proposals</p></li><li><p>Develop and manage project plans to deliver initiatives on time, within scope, and within budget</p></li><li><p>Manage project priorities in consultation with stakeholders to ensure alignment with business needs</p></li><li><p>Support ERP upgrades and system enhancements, providing expert advice, recommendations, and project management support</p></li></ul><strong>Application Support</strong><ul><li><p>Provide frontline functional and technical support for business applications, both remotely and across the organisation</p></li><li><p>Deliver timely and customer-focused communication regarding support requests and issue resolution</p></li><li><p>Support a range of systems including Pronto, Cognos, Definitiv, Redmap, Netstock, Esker, FreshCRM, Akeneo, ecommerce platforms (website and web app), and Microsoft applications</p></li><li><p>Assist with system upgrades, user acceptance testing, and end-user training</p></li><li><p>Provide out-of-hours support as required</p></li></ul><strong>Training &amp; Documentation</strong><ul><li><p>Assist in the development and documentation of national IT and system processes</p></li><li><p>Support the design and delivery of end-user training for Pronto ERP and other business systems</p></li></ul><p><br></p><p><strong>Essential Candidate Requirements</strong></p><ul><li><p>Advanced knowledge and hands-on experience with Pronto ERP</p></li><li><p>Strong functional understanding of multiple IT business applications</p></li><li><p>Extensive experience in a similar role, including Pronto Software and Help Desk support</p></li><li><p>Proven ability to manage projects from initiation through to successful completion, including stakeholder engagement and requirements analysis</p></li><li><p>Strong understanding of business processes, particularly Supply Chain and Finance/Accounts</p></li><li><p>Proficient in Microsoft Office Suite</p></li><li><p>High level of customer service orientation</p></li><li><p>Excellent communication and interpersonal skills, with the ability to engage confidently with management, employees, and external providers</p></li><li><p>Strong planning and organisational skills</p></li><li><p>Sound analytical and problem-solving abilities</p></li><li><p>Ability to manage multiple priorities, make sound decisions, and meet tight deadlines</p></li><li><p>Resilient and able to perform in a fast-paced, complex environment</p></li><li><p>Strong team player with initiative and self-motivation</p></li></ul><p><br></p><p><strong>Desirable Criteria&nbsp;</strong></p><ul><li><p>Knowledge gained working within a large national multi-site Wholesale Distribution and or Retail company&nbsp;</p></li><li><p>Knowledge &amp; Experience writing Cognos reports&nbsp;&nbsp;</p></li></ul><p><br></p><p>This is a fantastic opportunity to join our company in a role that will offer rewarding challenges and exciting opportunities. If you enjoy working in a culture that is professional, collaborative and one where you can make a difference, then this is the place for you!&nbsp;</p><p><strong>The Benefits to working for Reward Hospitality include:</strong></p><ul><li><p>A competitive base salary.</p></li><li><p>Being part of a dynamic, growing international team.&nbsp;&nbsp;&nbsp;</p></li><li><p>Staff discounts on our products and major retailers.</p></li></ul><p><strong>About Reward Hospitality</strong></p><p>Reward Hospitality is Australia's largest distributor of non-food consumables to a range of industries such as hospitality, catering, health &amp; aged care and education.&nbsp;We supply a wide range of products including tabletop, commercial catering equipment, janitorial and washroom supplies, disposables and packaging solutions from around the globe.&nbsp;With sites across Australia and NZ, Reward Hospitality offers the full solution to its customers with an unmatched international presence.&nbsp;<br><br>Reward Hospitality&nbsp;is proudly owned by the ECF Group - the European leader in hospitality, catering and general food service supply with key markets in Europe, the Middle East and North Africa. Paired with market leaders in Europe, Reward offers customers access to products and trends from around the globe.</p><p>Reward Hospitality is an established Company achieving record sales targets and growth - it is an exciting time to come and join us!&nbsp;</p><p><strong>Why work for Reward Hospitality?</strong></p><p>We are a forward thinking established business with strong values and we believe our staff are key to our success. &nbsp;We are passionate about providing a productive and safe environment with good facilities. &nbsp;We value the personal development of all staff, and there are many opportunities for you to grow within our business.</p><p>If you are interested, we'd love to hear from you!</p><p><strong>To apply, please click the 'Apply Now' button to submit your cover letter and resume.</strong></p>",
+      "keywords": [
+        "business",
+        "systems",
+        "analyst",
+        "yatala"
+      ]
+    },
+    {
+      "job_id": "92473520",
+      "job_title": "IT Support Officer",
+      "business_name": "Aged Care Reviews Pty Ltd",
+      "work_type": "Part time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92473520",
+      "advertiser_id": "31529275",
+      "posted_date": "2026-06-02T23:45:15Z",
+      "job_description": "<p>Aged Care Decisions is looking for a practical and reliable IT Support Officer to join our team in our Southport office.</p><p>This is a permanent part-time, on-site role supporting our office and contact centre teams with day-to-day IT support. <strong>The role is 4 days per week, 4–5 hours per day</strong>, on an agreed regular roster within business hours.</p><p>Candidates must have a minimum of 2+ years of IT support experience.</p><p><strong>This role is not remote</strong>. Regular hands-on support is required for staff, workstations, headsets, phones, and office equipment.</p><p><strong>About us</strong></p><p>Aged Care Decisions is part of Aged Care Reviews Pty Ltd and is Australia's largest aged care placement service.</p><p>We help families across Australia find aged care options that match their needs, location, timing, and preferences. Our service is supported by a dedicated team and purpose-built internal technology that helps families during what can often be a stressful and emotional time.</p><p>We are a fast-moving business with a strong focus on helping people, improving our systems, and supporting our teams to do their best work.</p><p><strong>The role</strong></p><p>We are looking for someone who enjoys solving practical IT problems and supporting people face-to-face.</p><p>You will be the first point of contact for common IT support requests and will work closely with our internal IT/Product team and our external Managed Service Provider for escalated issues.</p><p>You will report to the Head of Product &amp; Technology.</p><p>This role would suit someone with experience in IT support, help desk, desktop support, or a similar hands-on support role.</p><p><strong>What you'll be doing</strong></p><ul><li><p>Provide friendly first-level IT support to office and contact centre staff.</p></li><li><p>Troubleshoot common hardware, software, login, printing, headset, and connectivity issues.</p></li><li><p>Set up and support desktops, laptops, monitors, docks, keyboards, mice, and headsets.</p></li><li><p>Assist with workstation moves, desk setups, and new starter equipment.</p></li><li><p>Support Microsoft 365 applications including Outlook, Teams, Word, and Excel.</p></li><li><p>Assist with user onboarding and offboarding tasks.</p></li><li><p>Create, update, and disable user accounts in Active Directory.</p></li><li><p>Perform password resets and basic access support.</p></li><li><p>Join PCs to the domain and assist with basic Windows 10/11 configuration.</p></li><li><p>Support our 3CX phone system, including softphone setup, headset configuration, and basic call quality troubleshooting.</p></li><li><p>Log, categorise, and update support tickets.</p></li><li><p>Escalate more complex issues to our MSP with clear notes and supporting information.</p></li><li><p>Maintain basic IT asset records, including laptops, PCs, headsets, peripherals, licences, and warranties.</p></li><li><p>Help document common support steps and recurring issues.</p></li><li><p>Support basic IT security processes, including user access, device setup, and policy compliance.</p></li><li><p>Work with external vendors and suppliers when required.</p></li></ul><p><strong>Who you are</strong></p><ul><li><p>You have previous experience in an IT support, help desk, desktop support, or similar role.</p></li><li><p>You are comfortable supporting users face-to-face in an office environment.</p></li><li><p>You have hands-on experience with Windows 10/11 desktops and laptops.</p></li><li><p>You have experience with Microsoft 365, especially Outlook and Teams.</p></li><li><p>You understand basic networking concepts such as Wi-Fi, LAN, printers, and connectivity troubleshooting.</p></li><li><p>You have some experience with Active Directory, password resets, user accounts, and device setup.</p></li><li><p>You are confident setting up PCs, monitors, docks, headsets, and general office equipment.</p></li><li><p>You communicate clearly and patiently with non-technical users.</p></li><li><p>You can manage your time well and follow through on support requests.</p></li><li><p>You have a practical, can-do approach and enjoy solving everyday IT problems.</p></li><li><p>You are comfortable working on-site in a busy office and contact centre environment.</p></li><li><p>You have the right to work in Australia.</p></li></ul><p><strong>Highly regarded, but not essential</strong></p><ul><li><p>Experience with 3CX or another VoIP/softphone platform.</p></li><li><p>Experience with Atera or another ticketing/RMM platform.</p></li><li><p>Exposure to UniFi networking equipment.</p></li><li><p>Experience supporting a call centre or high-volume office environment.</p></li><li><p>Basic Microsoft 365 admin centre experience.</p></li><li><p>Experience with IT asset tracking and onboarding/offboarding checklists.</p></li><li><p>CompTIA A+, Certificate IV in IT, or a similar qualification.</p></li><li><p>Previous experience working with or alongside a Managed Service Provider.</p></li></ul><p><strong>Hours and remuneration</strong></p><ul><li><p>Permanent part-time role.</p></li><li><p>4 days per week.</p></li><li><p>4–5 hours per day.</p></li><li><p>Agreed regular workdays and hours within business hours.</p></li><li><p>$35–$40 per hour plus superannuation, depending on experience.</p></li><li><p>Immediate start available.</p></li></ul><p><strong>Important note</strong></p><ul><li><p>Applicants must have the right to work in Australia.</p></li><li><p>Visa sponsorship is not available for this position.</p></li></ul><p><strong>How to apply</strong></p><ul><li><p>Apply via SEEK with your CV and a brief cover letter.</p></li><li><p>Please include a short note about your availability and a summary of your previous IT support experience.</p></li></ul><p>We are looking for someone practical, reliable, and comfortable supporting users in a busy office environment.</p><p>Find out more about us at agedcaredecisions.com.au</p>",
+      "keywords": [
+        "it",
+        "support",
+        "officer"
+      ]
+    },
+    {
+      "job_id": "92474446",
+      "job_title": "Senior Software Developer",
+      "business_name": "Downer EDI Limited",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "",
+      "area": "Carrara, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92474446",
+      "advertiser_id": "63047675",
+      "posted_date": "2026-06-02T23:30:11Z",
+      "job_description": "<p>Mineral Technologies is seeking a Senior Software Engineer Industrial IoT to join our Process Technology Development team.</p><p><strong>Senior Software Developer</strong></p><p><strong>About the Job</strong></p><p>Mineral Technologies is seeking a Senior Embedded Systems / IoT Engineer to join our</p><p>Process Technology Development team.</p><p> </p><p><strong>The Opportunity</strong></p><p>In this role, you will lead the design, development, and architectural evolution of firmware and</p><p>software for our next-generation Industrial IoT and Operational Technology (OT) devices. This</p><p>isn't a maintenance role; you will be working with bleeding-edge MCU architectures,</p><p>implementing real-time networking stacks, and bridging the gap between bare-metal hardware</p><p>and modern telemetry.</p><p> </p><p>You will work closely with hardware designers, interpret complex datasheets, write low-level</p><p>drivers, and build the utility and deployment tooling that brings our industrial devices to life</p><p>globally.</p><p> </p><p>What You Will Do</p><ul><li>Firmware Architecture &amp; Development: Design and implement robust, multi-threaded embedded firmware for high-performance STM32 microcontroller platforms.</li></ul><ul><li>Hardware Integration: Work directly with circuit diagrams, schematics, and components to write, debug, and optimize low-level drivers and hardware-software interfaces.</li><li>Network &amp; RTOS Implementation: Develop and maintain real-time applications utilizing industrial RTOS and networking stacks (ThreadX/NetXDuo environment).</li></ul><ul><li>Tooling &amp; Ecosystem Support: Build critical supporting software, including lightweight local web UIs, Linux-based deployment tooling, and automated remote update/provisioning scripts.</li></ul><ul><li>Telemetry &amp; Data Collaboration: Partner with the cloud and data teams to optimize edge[1]side telemetry data structures for modern OLAP data storage pipelines.</li></ul><p>What We Are Looking For</p><ul><li>Deep Embedded Expertise: Strong professional experience in C (and exposure to C++) writing production-grade firmware for ARM Cortex-M platforms (specifically STM32).</li></ul><ul><li>RTOS Fluency: Solid understanding of real-time operating systems (RTOS) concepts, deterministic scheduling, IPC mechanisms, and writing thread-safe code.</li></ul><ul><li>Hardware Literacy: Ability to confidently navigate schematics, operate lab equipment (logic analyzers, oscilloscopes), and debug directly on target hardware.</li></ul><ul><li>Systems &amp; Scripting Flexibility: Comfortable outside of the IDE-capable of writing Python/Shell scripts, interacting with Linux environments, and building basic utility UIs.</li></ul><ul><li>Adaptability: A mindset geared toward exploring, evaluating, and integrating emerging technologies and new silicon features rather than just relying on legacy codebases</li></ul><p> </p><p>Desirable but Not Mandatory</p><ul><li>Direct experience with the Azure RTOS ecosystem (ThreadX, NetXDuo).</li><li>Familiarity with modern data paradigms, edge analytics, or telemetry structures.</li><li>Experience designing reliable over-the-air (OTA) firmware update mechanisms in industrial environments.</li></ul><p>What We Offer</p><ul><li>Cutting-Edge Tech Stack: The opportunity to work with brand-new, high-performance</li><li>STM32 silicon and modern data storage paradigms.</li><li>Ownership &amp; Impact: A highly autonomous environment where your architectural decisionsdirectly shape our global product roadmap.</li><li>Collaborative Engineering: A tight-knit, multidisciplinary team that values technical excellence and skips the bureaucratic red tape.</li><li>Benefits: Flexible working arrangements, competitive remuneration, and genuine technical</li><li>growth opportunities</li></ul>",
+      "keywords": [
+        "software",
+        "developer"
+      ]
+    },
+    {
+      "job_id": "92474193",
+      "job_title": "Senior Advisor and Data Analyst, Timetabling and Examinations",
+      "business_name": "Bond University",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "$99,108.89 per annum plus 12% superannuation",
+      "area": "Robina, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92474193",
+      "advertiser_id": "20551487",
+      "posted_date": "2026-06-02T23:10:01Z",
+      "job_description": "<p><strong>As Australia’s first private, not-for-profit university, Bond University based in Robina on the Gold Coast seeks to be recognised internationally as a leading independent university, imbued with a spirit to innovate, a commitment to influence and a dedication to inspire tomorrow's professionals who share a personalised and transformational student experience.</strong></p><p><br></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work closely with the Manager, Timetabling and Examinations and the Timetable Lead while coordinating the Examinations administration and delivery</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Be a part of a community that values creativity, innovation, and critical thinking</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience a dynamic role encompassing a wide range of tasks</p><p><br></p><p><strong>Senior Advisor and Data Analyst, Timetabling and Examinations (Examinations Lead)</strong></p><p><strong>Student Business Services</strong></p><p><strong>Full time, Continuing Appointment</strong></p><p><strong>Position Reference:</strong> <strong>184644171</strong></p><p><br></p><p><strong>Join Australia’s top university for teaching* and enjoy staff benefits including:</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 36.75-hour standard work week</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 18/26 weeks of parental leave#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Salary packaging options for FBT and Non-FBT items#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17.5% of base salary leave loading</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Staff wellbeing program</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free &amp; Confidential Employee Assistance Program available for all staff</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Study assistance for staff and dependents#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Corporate health and finance discounts</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Medical Centre and Counselling Services</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Sports Centre including gym, fitness classes and pool#</p><p><br></p><p><strong>About the Position</strong></p><p>Bond University’s Student Business Services department (SBS) provides administrative support and advice to students and Faculty staff on a range of matters including enrolment, timetabling, examinations, international student compliance, graduation, FEE-HELP, US Loans and Overseas Student Health Cover (OSHC).</p><p>Based within SBS, this vital role will support and assist the Manager, Timetabling and Examinations, in timetabling, scheduling and examinations, including the identification and development of strategies, policies and procedures, planning, production, and scheduling of the University's centrally administered timetables and examinations. The post holder is the Examinations Lead for the team.</p><p>This appointment will coordinate the operations of examinations within the Student Business Services department, working closely with stakeholders from Faculties/academic units to ensure timely delivery of centrally managed end of semester examinations, while providing support to other Student Business Services core activities.</p><p><br></p><p><strong>About the Person</strong></p><p>The ideal candidate will be able to demonstrate the following:</p><p><br></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Completion of a degree level qualification, preferably in IT or Data Analysis (or similar field), with subsequent relevant work experience OR an equivalent combination of relevant experience and/or education/training.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrated knowledge of university degree structures and assessment practices and the capacity to develop specialised knowledge about facilities and services of the modern classroom.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrated expertise in the use of timetabling software, Student Management Systems and Microsoft Office suite of products.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrated ability to work as part of a team with supervisory skills and the ability to roster, coordinate, motivate and train staff.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrated organisational skills with the ability to plan and coordinate workload, manage time to achieve goals and meet deadlines under pressure (within the context of competing priorities).</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Superior interpersonal skills including the ability to clearly advise, communicate, consult, negotiate, and liaise with individuals in Faculties/Schools, students, and external stakeholders to achieve business outcomes.</p><p><br></p><p><strong>Salary details</strong></p><p>The salary for this full-time position commences at $99,108.89 per annum plus 12% superannuation.</p><p><br></p><p><strong>Further information</strong></p><p>Position-related enquiries can be directed to Brian Nott, Manager, Timetabling and Examinations, <a href=\"mailto:bnott@bond.edu.au\" target=\"_blank\">bnott@bond.edu.au</a></p><p><br></p><p><strong>How to Apply for this Position</strong></p><p>For further details regarding this appointment, please reference the <a href=\"https://bond.edu.au/sites/default/files/2026-06/PD%20Senior%20Advisor%20and%20Data%20Analyst%20Timetabling%20and%20Examinations%20%28Examinations%20Lead%29%20May%202026%20v1.pdf\" target=\"_blank\">Position Description and Selection Criteria</a></p><p><br></p><p>Click&nbsp;<em>Apply Now</em>&nbsp;and&nbsp;<em>Create New Account</em>&nbsp;to get started. You can:</p><ul><li><p>Upload your Resume – your account will be created automatically, or</p></li><li><p>Manually enter your details to set up your account.</p></li></ul><p><br></p><p>Please ensure your application includes:</p><ul><li><p>A current resume</p></li><li><p>A cover letter addressing the Selection Criteria outlined in the Position Description above</p></li></ul><p><br></p><p>For current Bond University staff, apply directly via <a href=\"https://hrconnect.bond.edu.au/\" target=\"_blank\">People Connect</a>, log in with staff credentials, from the Home dashboard select Careers, select the role and apply.</p><p><br><br>If you require any assistance with your application submission, please visit <a href=\"https://bond.edu.au/about-bond/careers-bond/applying-jobs-bond\" target=\"_blank\">Applying for jobs at Bond</a>.</p><p><strong>&nbsp;</strong></p><p><strong>Applications close: 23:59pm, Sunday 21st June 2026</strong></p><p><strong>&nbsp;</strong></p><p><em>Pre-employment checks: Appointment is subject to satisfactory pre-employment checks (including working rights verification, reference checks and a certified copy of your highest qualification). In line with the National Higher Education Code to Prevent and Respond to Gender-based Violence 2025, preferred candidates must complete a Gender-Based Violence (GBV) Declaration, and any offer of employment will be conditional upon the University’s review of the declaration. For more information, please visit our website via this link: </em><a href=\"https://bond.edu.au/our-university/careers-at-bond/applying-for-jobs-at-bond\" target=\"_blank\"><em>Applying for Jobs at Bond</em></a></p><p><em>&nbsp;</em></p><p><strong>Conditions of employment are offered under a Bond Workplace Agreement (BWA).</strong></p><p><br></p><p>Bond University is an equal opportunity employer, and we encourage our students and staff to respect individuality, inclusiveness and diversity.&nbsp; In line with Bond University’s values, people from diverse backgrounds, women, Aboriginal and Torres Strait Islander people, people who identify as LGBTIQ+, and people with a disability are encouraged to apply for positions at the University<strong>.</strong></p><p><strong>&nbsp;</strong></p><p>Please advise the Talent Acquisition Team if you require any reasonable accommodations to assist you at anytime during the recruitment process.</p><p><br></p><p><strong>For more information, visit </strong><a href=\"https://bond.edu.au/our-university/supporting-diversity-at-bond#:~:text=At%20Bond%2C%20we%20foster%20diversity%20and%20inclusion%20through,students%20and%20staff%20from%20more%20than%2090%20countries.\" target=\"_blank\">Supporting diversity at Bond | Bond University | Gold Coast, Queensland, Australia</a></p><p><br></p><p><a href=\"https://bond.edu.au/privacy\" target=\"_blank\">Bond University Privacy Policy</a></p><p>#Eligibility criteria or membership fees apply<br>*Australian Financial Review’s Best Universities Ranking 2024</p><p><br></p>",
+      "keywords": [
+        "advisor",
+        "data",
+        "analyst",
+        "timetabling",
+        "examinations"
       ]
     },
     {
