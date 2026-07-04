@@ -1,528 +1,543 @@
 {
-  "date": "2026-07-05",
+  "date": "2026-07-04",
   "region": "Gold Coast",
-  "scraped_at": "2026-07-05T06:44:26.114562+10:00",
-  "total_jobs": 67,
+  "scraped_at": "2026-07-04T06:53:53.124786+10:00",
+  "total_jobs": 69,
   "keywords": [
     {
       "term": "engineer",
       "count": 12,
-      "share": 0.1791
+      "share": 0.1739
     },
     {
       "term": "support",
       "count": 12,
-      "share": 0.1791
+      "share": 0.1739
     },
     {
       "term": "it",
       "count": 10,
-      "share": 0.1493
+      "share": 0.1449
     },
     {
       "term": "officer",
       "count": 7,
-      "share": 0.1045
+      "share": 0.1014
     },
     {
       "term": "manager",
       "count": 7,
-      "share": 0.1045
+      "share": 0.1014
     },
     {
       "term": "analyst",
       "count": 6,
-      "share": 0.0896
+      "share": 0.087
     },
     {
       "term": "business",
       "count": 6,
-      "share": 0.0896
+      "share": 0.087
     },
     {
       "term": "ict",
       "count": 6,
-      "share": 0.0896
+      "share": 0.087
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.0746
+      "share": 0.0725
     },
     {
       "term": "software",
       "count": 5,
-      "share": 0.0746
+      "share": 0.0725
+    },
+    {
+      "term": "developer",
+      "count": 5,
+      "share": 0.0725
+    },
+    {
+      "term": "specialist",
+      "count": 5,
+      "share": 0.0725
     },
     {
       "term": "data",
       "count": 4,
-      "share": 0.0597
-    },
-    {
-      "term": "developer",
-      "count": 4,
-      "share": 0.0597
+      "share": 0.058
     },
     {
       "term": "platform",
       "count": 4,
-      "share": 0.0597
+      "share": 0.058
     },
     {
       "term": "ai",
       "count": 4,
-      "share": 0.0597
-    },
-    {
-      "term": "specialist",
-      "count": 4,
-      "share": 0.0597
+      "share": 0.058
     },
     {
       "term": "technician",
       "count": 4,
-      "share": 0.0597
+      "share": 0.058
     },
     {
       "term": "development",
       "count": 4,
-      "share": 0.0597
+      "share": 0.058
     },
     {
       "term": "project",
       "count": 4,
-      "share": 0.0597
+      "share": 0.058
     },
     {
       "term": "infrastructure",
       "count": 3,
-      "share": 0.0448
+      "share": 0.0435
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0448
+      "share": 0.0435
     },
     {
       "term": "desk",
       "count": 3,
-      "share": 0.0448
+      "share": 0.0435
     },
     {
       "term": "field",
       "count": 3,
-      "share": 0.0448
+      "share": 0.0435
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.0299
+      "share": 0.029
     },
     {
       "term": "coordinator",
       "count": 2,
-      "share": 0.0299
+      "share": 0.029
     },
     {
       "term": "learning",
       "count": 2,
-      "share": 0.0299
+      "share": 0.029
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0299
+      "share": 0.029
     },
     {
       "term": "service",
       "count": 2,
-      "share": 0.0299
+      "share": 0.029
     },
     {
       "term": "customer",
       "count": 2,
-      "share": 0.0299
+      "share": 0.029
     },
     {
       "term": "success",
       "count": 2,
-      "share": 0.0299
+      "share": 0.029
     },
     {
       "term": "house",
       "count": 2,
-      "share": 0.0299
+      "share": 0.029
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.0299
+      "share": 0.029
+    },
+    {
+      "term": "clinical",
+      "count": 2,
+      "share": 0.029
+    },
+    {
+      "term": "informatics",
+      "count": 2,
+      "share": 0.029
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.0299
+      "share": 0.029
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0299
+      "share": 0.029
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "reporting",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "parental",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "leave",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "cover",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "pathway",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "functional",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "hubspot",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "governance",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "semantic",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "layer",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
+    },
+    {
+      "term": "firebird",
+      "count": 1,
+      "share": 0.0145
+    },
+    {
+      "term": "sql",
+      "count": 1,
+      "share": 0.0145
+    },
+    {
+      "term": "asp.net",
+      "count": 1,
+      "share": 0.0145
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "founding",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "node.js",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "angular",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "aws",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "machine",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "series",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "predictive",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "modelling",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "ml",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "help",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "technical",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "facilities",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "medical",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "training",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "deployment",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "professionals",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "entity",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "platforms",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "information",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "services",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "erp",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "nurse",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "midwifery",
       "count": 1,
-      "share": 0.0149
-    },
-    {
-      "term": "clinical",
-      "count": 1,
-      "share": 0.0149
-    },
-    {
-      "term": "informatics",
-      "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "consultant",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "apac",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "chapter",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "agentforce",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "inspection",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "maintenance",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "assistant",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "north",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "splicers",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0145
     }
   ],
   "jobs": [
@@ -1790,6 +1805,45 @@
         "cloud",
         "semantic",
         "layer"
+      ]
+    },
+    {
+      "job_id": "92521892",
+      "job_title": "Clinical Informatics Specialist - Remote",
+      "business_name": "HealthCare Logic",
+      "work_type": "Full time",
+      "job_type": "Other",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92521892",
+      "advertiser_id": "38680260",
+      "posted_date": "2026-06-04T10:12:31Z",
+      "job_description": "<p>HealthCare Logic&nbsp;is a&nbsp;high growth emerging leader in hospital intelligence.&nbsp;We provide&nbsp;purpose-built&nbsp;intelligence platforms,&nbsp;experiences&nbsp;and services to&nbsp;help hospital systems achieve peak performance.&nbsp;We empower&nbsp;Public and Private, individual hospitals to networks, regions, State and National, to Departments of Health.&nbsp;</p><p>At HealthCare Logic we are empowering executive, clinical, and operational teams to make smarter, faster decisions that improve patient outcomes. Our flagship platform,&nbsp;SystemView, is&nbsp;embedded in and&nbsp;transforming over 170+&nbsp;hospitals across Australia, Ireland, and the UK.&nbsp;</p><p>You’ll&nbsp;join a borderless team of data engineers, scientists, clinicians, product experts, and customer success pros - curious minds driven by impact. Together,&nbsp;we’re&nbsp;creating a globally connected network of high-performing hospitals.&nbsp;</p><p>We work at the intersection of AI, real-time data, and clinical strategy - and&nbsp;we’re&nbsp;looking for senior talent who thrives in complexity, leads with purpose, and wants their work to directly shape the future of healthcare.&nbsp;</p><p>If&nbsp;you're&nbsp;passionate about data with purpose, and ready to make your mark in a company&nbsp;that’s&nbsp;scaling fast and thinking big - we want to hear from you.&nbsp;</p><p><strong>About&nbsp;the Role:</strong>&nbsp;&nbsp;</p><p>This is a permanent, full-time role, fully remote and open to candidates anywhere in Australia. This role sits within the Customer Experience team and works closely with Product, Engineering, Clinical Solutions and Installations to ensure customer data is accurately represented within&nbsp;SystemView. You would work with our customers, shaping a national hospital intelligence platform, rather than supporting a single hospital's systems. &nbsp;</p><p>You own the validation and integrity of customer data across&nbsp;the platform, from new deployments through to live customers. You are the bridge between how a hospital actually works and how its data is represented in our platform, translating between clinical and operational teams on one side and our product and engineering teams on the other, so that clinical and operational reality is accurately reflected in the system. &nbsp;</p><p>It is a hybrid role. You need to understand hospitals, talk easily with the people who run them, and be technical enough to interrogate data, work through mapping logic, and specify what needs to change. You will work across Customer Success, Clinical Solutions, Installation, Product, Engineering and Support, with the autonomy and authority to drive data issues to resolution. &nbsp;</p><p>To be clear on focus: this role is about validating and assuring the data that feeds&nbsp;SystemView, not configuring or building an EMR. The skills overlap, but the work here is data validation and quality, not system build. This role plays a critical part in building customer trust, supporting successful go-lives, and ensuring confidence in the operational insights. &nbsp;</p><p><strong>Key Responsibilities:</strong>&nbsp;</p><ul><li><p>Lead data validation on new deployments, reconciling source-system data against&nbsp;SystemView&nbsp;domain by domain to an agreed level of accuracy before go-live.&nbsp;&nbsp;</p></li><li><p>Examine source-to-target mapping and individual data fields, defining and refining mapping logic and business rules in partnership with customer and internal teams.&nbsp;&nbsp;</p></li><li><p>Facilitate validation sessions with customer clinical and operational staff, run and compare data extracts, resolve discrepancies, and provide sign-off prior to production go-live.&nbsp;&nbsp;</p></li><li><p>Act as the first point of diagnosis when a live customer reports a data issue — reproducing, investigating, and&nbsp;determining&nbsp;root cause across mapping, product, source data, or expected system behaviour.&nbsp;&nbsp;</p></li><li><p>Translate findings into clear, well-specified requirements that engineering can act&nbsp;on, and&nbsp;validate fixes before they return to the customer.&nbsp;&nbsp;</p></li><li><p>Own mapping-change requests when hospitals restructure wards, facilities, units, or clinics.&nbsp;&nbsp;</p></li><li><p>Serve as the connective owner of data validation and quality across Customer Success, Clinical Solutions, Installation, Product, Engineering, and Support,&nbsp;keeping issues moving to resolution.&nbsp;&nbsp;</p></li><li><p>Provide Product and Engineering with clear signal on defects versus mapping or source-data issues, and feed operational insights back to inform platform improvements.&nbsp;&nbsp;</p></li><li><p>Build trust with hospital stakeholders,&nbsp;from data and informatics staff through to senior clinical and operational leaders,&nbsp;explaining data behaviour in plain language.&nbsp;</p></li></ul><p>&nbsp;<strong>What Success Looks Like</strong>&nbsp;</p><ul><li><p>Data is validated to an agreed level of accuracy before every go-live. &nbsp;</p></li><li><p>Customer-reported data issues are triaged quickly and reach engineering as clear, actionable specifications. &nbsp;</p></li><li><p>Fewer issues stall while waiting on unclear information or customer input. &nbsp;</p></li><li><p>Technical teams spend less time translating customer issues, and more on building and fixing. &nbsp;</p></li></ul><p><strong>Skills and Experience</strong>&nbsp;</p><p><strong>Essential</strong> &nbsp;</p><p>We are open to two routes in: a clinical or health-information professional who has moved into analysis and systems, or a health-service analyst or informatics specialist with deep hospital exposure. Either way, the hospital understanding is the part we cannot train, so it is non-negotiable. &nbsp;</p><ul><li><p>A strong understanding of how hospitals work: patient flow, clinical and operational workflows, and healthcare terminology. Experience interpreting hospital data, patient movement, episodes of care, clinical workflows and operational reporting is essential. &nbsp;</p></li><li><p>A clinical, health-information or health-service background. This may be clinical or allied health practice, health information management, or substantial hands-on experience working inside a hospital or health service. &nbsp;</p></li><li><p>Excellent communication and relationship skills; able to build trust quickly and explain complex data issues simply to both clinical and technical audiences. &nbsp;</p></li><li><p>Hands-on data literacy: comfortable interrogating data, understanding source systems, working through mapping logic and writing clear specifications (SQL or similar an advantage). &nbsp;</p></li><li><p>Familiarity with hospital source systems such as EMR or PAS (for example Cerner, Oracle Health, InterSystems TrakCare, iPM or ieMR) and how their data behaves. &nbsp;</p></li><li><p>A structured, methodical approach to validation and problem diagnosis. &nbsp;</p></li><li><p>Able to work autonomously across multiple teams and drive issues through to resolution. &nbsp;</p></li></ul><p><strong>Desirable</strong> &nbsp;</p><ul><li><p>Prior experience in EMR or PAS implementation or support, or in a health-service digital health, informatics, patient flow or health information unit. &nbsp;</p></li><li><p>A formal qualification in health informatics, health information management, nursing or a related field. &nbsp;</p></li><li><p>Experience in a healthtech, SaaS or software vendor environment. &nbsp;</p></li></ul><p>&nbsp;<strong>Why Join Us</strong>&nbsp;</p><ul><li><p>Competitive base salary&nbsp;and benefits&nbsp;&nbsp;</p></li><li><p>Opportunity for career growth within a rapidly&nbsp;scaling&nbsp;leader in hospital intelligence&nbsp;</p></li><li><p>Collaborative and supportive team culture&nbsp;</p></li><li><p>Opportunity to travel&nbsp;</p></li><li><p>Flexible work environment&nbsp;</p></li></ul><p><strong>How to Apply&nbsp;</strong>&nbsp;</p><p>This is a remote role, open to candidates anywhere in Australia, with occasional travel for customer engagements. It suits someone who thrives on ownership and autonomy, enjoys working across teams, and is energised by solving the puzzle of why the data and the hospital don't yet agree. For any role related questions, please contact <a href=\"mailto:careers@healthcarelogic.com\">careers@healthcarelogic.com</a>&nbsp;</p><p>To apply please&nbsp;submit&nbsp;your current CV and cover letter. Please note applicants must have a legal right to work in&nbsp;Australia&nbsp;and answer&nbsp;all of&nbsp;the prerequisite screening questions.&nbsp;&nbsp;</p><p>At HealthCare Logic we celebrate diversity and strive to create an inclusive environment where all individuals feel valued and empowered. We encourage applications from candidates of all backgrounds, including those from underrepresented groups, to join our dynamic team.&nbsp;&nbsp;</p><p>We believe diverse perspectives create stronger teams. If your experience&nbsp;doesn’t&nbsp;perfectly match this description, but you believe&nbsp;you’d&nbsp;bring value to the role, we encourage you to apply.&nbsp;</p>",
+      "keywords": [
+        "clinical",
+        "informatics",
+        "specialist"
+      ]
+    },
+    {
+      "job_id": "92504874",
+      "job_title": "Junior Firebird SQL and ASP.NET developer",
+      "business_name": "Private Advertiser",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "$75,000 – $85,000 per year",
+      "area": "Ormeau, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92504874",
+      "advertiser_id": "",
+      "posted_date": "2026-06-04T01:57:29Z",
+      "job_description": "<p>National Flooring Distributors is a leader in the flooring distribution industry, committed to innovation, operational efficiency, and delivering outstanding service to our clients. We are seeking a graduate or junior scripting, Firebird SQL &amp; Web Developer to develop and maintain our script customisations, Firebird database systems and ASP.NET web platforms to enable smarter operations, better customer experiences, and improved support for our sales and operations teams.</p><p><strong>About the Role</strong></p><p>In this role, you will assist in developing, testing, and maintaining custom scripts in Ostendo, Firebird SQL-based queries and reports, ASP.NET and MVC based web portals for our internal teams and B2B customers. You will work closely with our Technical Lead to ensure technology solutions align with business goals.</p><p><br></p><p><strong>Key Responsibilities</strong></p><p>The successful candidate will be responsible in the following areas:</p><ul><li><p>Develop, test, and maintain SQL queries, stored procedures, and database-driven applications in Firebird.</p></li><li><p>Design and maintain web-based portals for B2B customers and sales teams.</p></li><li><p>Automate workflows for order processing, inventory management, reporting, and customer communications.</p></li><li><p>Ensure accurate, accessible, and real-time data across SQL databases and web systems.</p></li><li><p>Integrate supplier product data, pricing, and stock information into SQL databases and web portals.</p></li><li><p>Maintain documentation, code standards, operational procedures, and IT policies.</p></li><li><p>Prepare and submit regular progress reports on projects, system enhancements, and IT support activities to the Technical Lead / Manager.</p></li></ul><p><br></p><p><strong>Skills &amp; Experience</strong></p><ul><li><p>Understanding of SQL development, including complex queries, stored procedures, and database management.</p></li><li><p>Knowledge of web development for enhancement and development of internal and customer-facing portals (C#, ASP.NET, MVC).</p></li><li><p>Problem-solving and analytical skills with the ability to troubleshoot complex database, web, and IT issues.</p></li><li><p>Excellent communication skills for collaboration with management, teams, and suppliers.</p></li><li><p>Knowledge of database technologies such as Firebird 2.5 - 5.0.</p></li><li><p>Knowledge of ERP, data integration, reporting, and automation workflows.</p></li><li><p>Some SQL, back-end and web development experience.</p></li></ul><ul><li><p>Knowledge of Ostendo scripting an advantage but not required.<br></p></li></ul><p>A bachelor’s degree (or working towards one) from a recognised institution in Information Technology, Computer Science, or related field is preferred.</p><p><br></p><p><br></p>",
+      "keywords": [
+        "firebird",
+        "sql",
+        "asp.net",
+        "developer"
       ]
     },
     {
