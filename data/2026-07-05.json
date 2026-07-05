@@ -1,493 +1,528 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-05",
   "region": "Gold Coast",
-  "scraped_at": "2026-07-06T06:48:00.848067+10:00",
-  "total_jobs": 62,
+  "scraped_at": "2026-07-05T06:44:26.114562+10:00",
+  "total_jobs": 67,
   "keywords": [
     {
       "term": "engineer",
       "count": 12,
-      "share": 0.1935
+      "share": 0.1791
     },
     {
       "term": "support",
-      "count": 11,
-      "share": 0.1774
+      "count": 12,
+      "share": 0.1791
     },
     {
       "term": "it",
       "count": 10,
-      "share": 0.1613
+      "share": 0.1493
+    },
+    {
+      "term": "officer",
+      "count": 7,
+      "share": 0.1045
     },
     {
       "term": "manager",
       "count": 7,
-      "share": 0.1129
+      "share": 0.1045
+    },
+    {
+      "term": "analyst",
+      "count": 6,
+      "share": 0.0896
     },
     {
       "term": "business",
       "count": 6,
-      "share": 0.0968
+      "share": 0.0896
     },
     {
-      "term": "analyst",
-      "count": 5,
-      "share": 0.0806
+      "term": "ict",
+      "count": 6,
+      "share": 0.0896
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.0806
-    },
-    {
-      "term": "officer",
-      "count": 5,
-      "share": 0.0806
-    },
-    {
-      "term": "ict",
-      "count": 5,
-      "share": 0.0806
+      "share": 0.0746
     },
     {
       "term": "software",
+      "count": 5,
+      "share": 0.0746
+    },
+    {
+      "term": "data",
       "count": 4,
-      "share": 0.0645
+      "share": 0.0597
+    },
+    {
+      "term": "developer",
+      "count": 4,
+      "share": 0.0597
     },
     {
       "term": "platform",
       "count": 4,
-      "share": 0.0645
+      "share": 0.0597
     },
     {
       "term": "ai",
       "count": 4,
-      "share": 0.0645
+      "share": 0.0597
     },
     {
       "term": "specialist",
       "count": 4,
-      "share": 0.0645
+      "share": 0.0597
     },
     {
       "term": "technician",
       "count": 4,
-      "share": 0.0645
+      "share": 0.0597
     },
     {
       "term": "development",
       "count": 4,
-      "share": 0.0645
+      "share": 0.0597
     },
     {
       "term": "project",
       "count": 4,
-      "share": 0.0645
-    },
-    {
-      "term": "data",
-      "count": 3,
-      "share": 0.0484
+      "share": 0.0597
     },
     {
       "term": "infrastructure",
       "count": 3,
-      "share": 0.0484
+      "share": 0.0448
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0484
-    },
-    {
-      "term": "developer",
-      "count": 3,
-      "share": 0.0484
+      "share": 0.0448
     },
     {
       "term": "desk",
       "count": 3,
-      "share": 0.0484
+      "share": 0.0448
     },
     {
       "term": "field",
       "count": 3,
-      "share": 0.0484
+      "share": 0.0448
+    },
+    {
+      "term": "solution",
+      "count": 2,
+      "share": 0.0299
     },
     {
       "term": "coordinator",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0299
     },
     {
       "term": "learning",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0299
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0299
     },
     {
       "term": "service",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0299
     },
     {
       "term": "customer",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0299
     },
     {
       "term": "success",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0299
     },
     {
       "term": "house",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0299
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0299
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0299
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0299
+    },
+    {
+      "term": "architect",
+      "count": 1,
+      "share": 0.0149
     },
     {
       "term": "reporting",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "parental",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "leave",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "cover",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
+    },
+    {
+      "term": "pathway",
+      "count": 1,
+      "share": 0.0149
+    },
+    {
+      "term": "functional",
+      "count": 1,
+      "share": 0.0149
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "hubspot",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
+    },
+    {
+      "term": "governance",
+      "count": 1,
+      "share": 0.0149
+    },
+    {
+      "term": "cloud",
+      "count": 1,
+      "share": 0.0149
+    },
+    {
+      "term": "semantic",
+      "count": 1,
+      "share": 0.0149
+    },
+    {
+      "term": "layer",
+      "count": 1,
+      "share": 0.0149
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "founding",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "node.js",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "angular",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "aws",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "machine",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "series",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "predictive",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "modelling",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "ml",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "help",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "technical",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "facilities",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "medical",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "training",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "deployment",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "professionals",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "entity",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "platforms",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "information",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "services",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "erp",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "nurse",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "midwifery",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "clinical",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "informatics",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0161
-    },
-    {
-      "term": "solution",
-      "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "consultant",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "apac",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "chapter",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "agentforce",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "inspection",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "maintenance",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "assistant",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "north",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "splicers",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0149
     }
   ],
   "jobs": [
@@ -1015,6 +1050,44 @@
       ]
     },
     {
+      "job_id": "92910858",
+      "job_title": "Senior Data Governance Officer",
+      "business_name": "City of Gold Coast",
+      "work_type": "Full time",
+      "job_type": "Database Development & Administration",
+      "pay_range": "$101,616 - $108,140 p/a plus superannuation",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92910858",
+      "advertiser_id": "16652581",
+      "posted_date": "2026-06-24T03:27:59Z",
+      "job_description": "<ul> <li><strong>Full Time | 9-day fortnight | 36 hours per week </strong></li> <li> <strong>Salary: </strong>From $101,616 to $108,140 per annum plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG1869/assets/31584668\">Senior Data Governance Lead</a> </li> </ul><p> </p><p> <strong>About the City of Gold Coast</strong></p><p>The City of Gold Coast is one of Australia's largest and most dynamic local governments, delivering services to a community of more than 650,000 people across one of the nation's fastest-growing cities. Our Enterprise Information &amp; Data (EID) division is at the heart of the organisation's transformation — embedding trusted, high-quality data practices that power smarter decisions, better services, and a future-ready city.</p><p>We are currently executing a bold two-year EID Target State Strategy, investing in a mature Enterprise Data Platform (Microsoft Fabric), modernising our information management environment, and building a Data Governance Framework that will position the City as a leader in local government data maturity. This is a genuinely exciting time to join us.</p><p><strong>About the team</strong></p><p>You will sit within the Information &amp; Data Strategy &amp; Governance (IDSG) team, a dedicated unit inside EID focused on policy, standards, stewardship, and uplift. The team works across organisational boundaries — partnering with data owners, ICT, legal, privacy officers, and executive leadership — to embed governance where the data actually lives.</p><p>Two specialist roles (Senior Data Governance Officer and Information &amp; Data Uplift Lead) are commencing together in July 2026, giving you a rare opportunity to help shape the function from the ground up alongside a peer hire, supported by an experienced manager and an established platform capability.</p><p><strong>About the role </strong></p><p>As Senior Data Governance Officer, you will lead the practical design and implementation of the City's Data Governance Framework — moving from policy to practice, and from aspiration to measurable outcomes. This is a role about influence, change, and enabling people to work with data confidently and responsibly.</p><p>You will:</p><p>• Design and embed data governance policies, standards, and procedures that are fit-for-purpose across a complex, multi-directorate organisation.</p><p>• Establish and facilitate a Data Governance Council and data stewardship network, building the human architecture of good governance.</p><p>• Lead metadata management, data classification, data quality frameworks, and stewardship practices in alignment with the City's Enterprise Data Platform (Microsoft Fabric/ Purview/ OneLake)</p><p>• Ensure compliance with Queensland legislative obligations including the Public Records Act 2023, Information Privacy Act 2009, and relevant QSA Standards.</p><p>• Promote privacy-by-design and ethical data use principles, translating regulatory obligations into practical team-level guidance.</p><p>• Advise on AI-readiness governance — helping the organisation unlock the value of its data assets safely and responsibly.</p><p>• Produce executive-level reporting, governance dashboards, and progress metrics for senior leadership and committee audiences.</p><p>• Drive data literacy and governance culture uplift across the organisation through targeted engagement, training, and communications.</p><p><em>This is a hybrid role. You will work primarily from our Bundall Precinct offices, with flexibility to work from home on non-collaborative days. We trust our people to manage their time professionally.</em></p><p><strong>What Success Looks Like in This Role</strong></p><p>In your first 12 months, you will be recognised for:</p><p>• Reviewing and delivering a clear, endorsed Data Governance implementation roadmap.</p><p>• Standing up a functioning data stewardship network with active data custodians and stewards.</p><p>• Embedding governance practices into the Enterprise Data Platform, including OneLake catalogue standards and Gold-layer data quality controls.</p><p>• Visible executive confidence in data governance maturity and risk posture.</p><p>• A team culture where governance is seen as an enabler — not a blocker.</p><p><strong>We’re looking for people who have: </strong></p><p>• Demonstrated experience leading or driving data governance programs in a government or large enterprise environment — you have done this before, not just studied it.</p><p>• Deep practical knowledge of data governance frameworks, methodologies, and bodies of knowledge (DAMA-DMBOK, DCAM, or equivalent).</p><p>• Ability to engage, influence, and build trust with senior stakeholders, data custodians, and cross-functional teams — without line authority.</p><p>• Strong understanding of Queensland (or equivalent Australian) legislative frameworks governing information and data management.</p><p>• Comfort working in a cloud-first Microsoft ecosystem (Microsoft 365, Microsoft Fabric, Azure, Purview) — you do not need to be an engineer, but you must be able to engage credibly with platform teams.</p><p>• Excellent written and verbal communication skills — you can write a committee paper and run a workshop with equal confidence.</p><p>Highly Regarded</p><p>• Certification in data management or governance (e.g., CDMP – Certified Data Management Professional, CDGE, or equivalent).</p><p>• Experience in local or state government information management, including records and information governance.</p><p>• Familiarity with Microsoft Purview for data cataloguing, classification, or sensitivity labelling.</p><p>• Experience designing or implementing data quality frameworks or stewardship operating models.</p><p>• Exposure to AI governance considerations and emerging data ethics frameworks.</p><p> <strong>Be part of shaping the Gold Coast’s future </strong></p><p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p><p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p><ul> <li>9-day fortnight </li> </ul><ul> <li>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations </li> </ul><ul> <li>Personal and professional development courses </li> </ul><ul> <li>Access to 350+ fitness facilities through Fitness Passport </li> </ul><ul> <li>4 free confidential counselling sessions a year for you or an immediate family member </li> </ul><ul> <li>1 free nutritionist and financial advice session per year </li> </ul><p><strong> </strong> </p><p>We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p><p><strong>How to apply</strong><br>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p><p><strong>Contact Person</strong> Ashley Shannon </p><p><strong>Contact Email</strong> <a href=\"mailto:ashannon@goldcoast.qld.gov.au\">ashannon@goldcoast.qld.gov.au</a></p><p><strong>Closing Date</strong> Sunday 5th July 2026,11:59pm AEDT </p><p> </p><p>Our selection process may include a one-way video interview via Criteria, a face-to-face or virtual interview via Microsoft Teams, reference checks via Xref and additional checks including police checks, employment history checks, qualification checks, pre-employment medical reviews and drug and alcohol testing. </p><p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
+      "keywords": [
+        "data",
+        "governance",
+        "officer"
+      ]
+    },
+    {
+      "job_id": "92903004",
+      "job_title": "Pathway Functional Analyst",
+      "business_name": "City of Gold Coast",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "$101,616-$108,140 p/a plus superannuation",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92903004",
+      "advertiser_id": "16652581",
+      "posted_date": "2026-06-23T23:32:59Z",
+      "job_description": "<ul> <li><strong>Full Time | 9-day fortnight | 36.00 hours per week </strong></li> <li> <strong>Salary: </strong>From $101,616 to $108,140 per annum plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG1536/assets/30557430\">Pathway Functional Analyst </a> </li> </ul> <p> </p> <p><strong>About the team</strong></p> <p>We’re entering an exciting new phase for the Chief Technology Office at the City of Gold Coast, as we continue to transform how technology services are delivered across the organisation. With the implementation of our IT Operating Model and the transition of key services in-house, we’re building a modern, capable, and customer‑focused technology function that enables better outcomes for our community. </p> <p>As part of this transformation, we’re growing our enterprise application capability and investing in roles that strengthen how we design, configure, and optimise our core business systems. These positions play a critical role in shaping a more agile, future‑ready Chief Technology Office that delivers real value and supports the Gold Coast way of life. </p> <p>If you’re passionate about enterprise applications, continuous improvement and working at the intersection of technology and business, this is a great time to join us. </p> <p><strong>About the role </strong></p> <p>As a Pathway Functional Analyst, you will play a key role in bridging the gap between business needs and the functional capabilities of enterprise applications and platforms. You will act as the primary functional expert for assigned systems, ensuring they are configured, enhanced, and used in ways that align with best practice, minimise technical debt and support organisational outcomes. </p> <p>This role combines deep functional knowledge with strong stakeholder engagement. You will work closely with business users, technical teams and vendors to analyse requirements, configure solutions, support system improvements and ensure applications continue to meet evolving needs. You will also stay closely connected to vendor roadmaps and industry trends, helping the organisation adopt new functionality in a considered and value‑driven way. </p> <p>Working with a level of autonomy and under limited direction from the Pathway Lead, you will contribute to enterprise solutions that improve service delivery, operational efficiency, and customer experience across the City of Gold Coast. </p> <p><strong>We’re looking for people who have: </strong></p> <p>You are a customer‑focused and analytically minded professional who enjoys translating business needs into practical, well‑designed system solutions. You take pride in understanding applications deeply and using that knowledge to help organisations get the most value from their technology investments. </p> <p>You’re comfortable working with a wide range of stakeholders, from business users to technical specialists and vendors, and you communicate complex concepts clearly in plain English. You work well with a level of autonomy, while also contributing positively to team outcomes in a collaborative environment. </p> <p>Most importantly, you’re motivated by improving systems, processes and services that ultimately make a positive difference to the community. </p> <p><strong>Ideally, you will have</strong> </p> <ul> <li>A degree in Information Technology, Computer Science, Business Information Systems or a related discipline, or equivalent relevant experience. </li> </ul> <ul> <li>Demonstrated experience supporting, configuring, or enhancing enterprise business applications within a complex organisational environment. </li> </ul> <ul> <li>Strong functional analysis skills, including requirements elicitation, process mapping, gap analysis and functional documentation. </li> </ul> <ul> <li>Hands‑on experience with application configuration rather than custom development, with a preference for out‑of‑the‑box and standards‑based solutions. </li> </ul> <ul> <li>Working knowledge of system integrations, including APIs, data interfaces and upstream/downstream dependencies. </li> </ul> <ul> <li>An understanding of change, incident and release management practices, ideally aligned to ITIL or similar frameworks. </li> </ul> <ul> <li>Experience working with software vendors and managed service providers, including supporting upgrades, patches and roadmap adoption. </li> </ul> <ul> <li>Ability to interpret vendor documentation and roadmaps and translate them into practical impacts and opportunities for the business. </li> </ul> <ul> <li>Strong communication skills, with the ability to explain system behaviour, limitations and options to non‑technical stakeholders in plain English. </li> </ul> <ul> <li>A proactive and analytical mindset, with a focus on continuous improvement, system optimisation and reducing technical debt. </li> </ul> <ul> <li>The willingness to participate in an on-call roster where required </li> </ul> <p><strong>Be part of shaping the Gold Coast’s future </strong></p> <p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p> <p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p> <ul> <li> <p>9-day fortnight </p> </li> </ul> <ul> <li> <p>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations </p> </li> </ul> <ul> <li> <p>Personal and professional development courses </p> </li> </ul> <ul> <li> <p>Access to 350+ fitness facilities through Fitness Passport </p> </li> </ul> <ul> <li> <p>4 free confidential counselling sessions a year for you or an immediate family member </p> </li> </ul> <ul> <li> <p>1 free nutritionist and financial advice session per year </p> </li> </ul> <p> We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p> <p><strong>How to apply</strong></p> <p>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p> <p><strong>Contact Person</strong> Ashley Shannon</p> <p><strong>Contact Email</strong> <a href=\"mailto:ashannon@goldcoast.qld.gov.au\">ashannon@goldcoast.qld.gov.au</a></p> <p><strong>Closing Date</strong> Sunday 6th July 2026, 11.59pm AEST</p> <p> </p> <p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We consider all qualified candidates for employment, irrespective of race, age, religion, gender identity, sexual orientation, disability, or other protected characteristics by law.</em> </p>",
+      "keywords": [
+        "pathway",
+        "functional",
+        "analyst"
+      ]
+    },
+    {
       "job_id": "92896961",
       "job_title": "Principal Software Engineer",
       "business_name": "NTP Talent",
@@ -1373,6 +1446,24 @@
       ]
     },
     {
+      "job_id": "92801728",
+      "job_title": "Solution Architect",
+      "business_name": "Southern Cross University",
+      "work_type": "Full time",
+      "job_type": "Architects",
+      "pay_range": "$134,393 - $140,896 plus 17% Superannuation",
+      "area": "Bilinga, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92801728",
+      "advertiser_id": "15012749",
+      "posted_date": "2026-06-18T06:48:09Z",
+      "job_description": "<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing <a href=\"https://www.scu.edu.au/southern-cross-model/\">Southern Cross Model</a> brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity </strong></p>\n<p>Southern Cross University is on an ambitious journey to redefine how technology empowers learning, research, and community impact. We’re building a future-ready technology organisation – modern, secure, adaptable, and driven by innovation.&nbsp; Our teams are embracing emerging technologies, including&nbsp;artificial intelligence, to deliver smarter services and real-world benefits for students, staff, and the wider community.</p>\n<p>Within Technology Services, our five dynamic work units – Data, Architecture &amp; Integration, Cyber Resilience, Digital Delivery &amp; Innovation, Technology Platforms, and Operations &amp; Services – work collaboratively to deliver high-impact solutions across the University.</p>\n<p>We are seeking a Solution Architect to lead the design and delivery of complex, enterprise-wide solutions that span multiple systems, platforms, and business domains.&nbsp; This senior technical role offers the chance to shape architectural direction, establish design standards, and drive strategic solution initiatives across the University’s teaching, learning, research, and administrative functions.</p>\n<p>Reporting to the Enterprise Architect, you will work closely with development teams, project managers, and business stakeholders to deliver high-impact solutions aligned with the University’s enterprise architecture vision</p>\n<p>You will make an impact by:</p>\n<ul><li> Designing and delivering robust enterprise-grade solution architectures that support teaching, research, student services, and operations across all major university domains</li><li> Leading the integration of core platforms such as TechnologyOne, Microsoft Dynamics, Blackboard, Microsoft Teams, and custom applications, ensuring seamless connectivity across all systems</li><li> Establishing and promoting architectural standards and frameworks that ensure scalability, security, and maintainability across all digital initiatives</li><li> Providing expert guidance and mentorship to develop teams, driving best practices in solution design, technology selection, and implementation</li><li> Collaborating with stakeholders and contributing to the university technology roadmap, championing innovation, emerging technologies, and long term strategic planning</li></ul>\n<p><strong>What you will bring</strong></p>\n<p>You’re an experienced and forward-thinking Solution Architect with deep technical knowledge, strong leadership skills, and a collaborative approach to problem solving.&nbsp; You thrive in complex environments, enjoy working across multiple business domains, and are passionate about delivering scalable, impactful technology solutions.&nbsp;</p>\n<p>To succeed in this role, you will also need:</p>\n<ul><li> A Bachelor’s degree in Information Technology, Computer Science, or a related field</li><li> Ideally 8+ years in technical roles with at least 5 years in solution architecture</li><li> Proven experience in designing and integrating enterprise platforms including TechnologyOne, Dynamics 365, Blackboard, and Microsoft Teams</li><li> Strong understanding of solution design patterns, architectural frameworks, and integration practices</li><li> Demonstrate ability to lead large scale architecture initiatives and collaborate with cross-functional teams</li><li> Excellent stakeholder engagement and communication skills, translating business needs into technical strategy</li><li> A commitment to innovation, continuous improvement, and delivering real world impact&nbsp; </li></ul>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/gold-coast/\">Gold Coast</a>, <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/coffs-harbour/\">Coffs Harbour</a> and the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/lismore/\">Northern Rivers</a> region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul><li> Full-time, continuing (permanent)</li><li> Located at either Coffs Harbour, NSW 2450, Gold Coast, QLD 4225, or Lismore, NSW 2480. Relocation Assistance, making it easier to join our regional communities </li><li> The level of appointment will be commensurate with the candidate’s qualifications, skills and experience.</li></ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit <a href=\"https://www.scu.edu.au/about/jobs-at-southern-cross/why-work-at-southern-cross-university/\">Why work at Southern Cross University?</a></p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\nName: Vivian Cormier<br>Email: <a href=\"mailto:Vivian.cormier@scu.edu.au\">Vivian.cormier@scu.edu.au</a><br>\n<p><strong>Applications close 11.30pm AEST 5 July 2026</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. &nbsp;Employer visa sponsorship is not available for this position. </p>\n<p>Applicants must apply online and attach a CV and cover letter responding to the selection criteria within the position description. Information to support you prepare your application is available on our <a href=\"https://www.scu.edu.au/about/jobsscu/vacancies/applying-for-a-position/\">website.</a>&nbsp; &nbsp;</p>\n<p><em>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to </em><a href=\"mailto:jobs@scu.edu.au\"><em>jobs@scu.edu.au.</em></a></p>\n<p>#LI-VC1</p>",
+      "keywords": [
+        "solution",
+        "architect"
+      ]
+    },
+    {
       "job_id": "92793665",
       "job_title": "IT Support Technician - Level 2",
       "business_name": "Vets Central",
@@ -1659,6 +1750,46 @@
         "series",
         "predictive",
         "modelling"
+      ]
+    },
+    {
+      "job_id": "92547116",
+      "job_title": "ICT Support Officer",
+      "business_name": "Men Of Business Academy",
+      "work_type": "Part time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92547116",
+      "advertiser_id": "45997943",
+      "posted_date": "2026-06-05T08:04:43Z",
+      "job_description": "<p><strong>ABOUT US</strong></p><p>At Men of Business Academy (MOB), We’re more than a school — we’re a movement, and we are growing!!!</p><p>This is an exciting opportunity to join us at a time of growth and be a key member of the MOB community.</p><p>If you’re seeking a workplace that’s genuinely different—where values are lived, connections run deep, and every day is fueled by purpose—MOB Academy is the place for you. This isn’t your typical workplace. At MOB, we live our values, work with purpose, and support each other like family.</p><p><strong>ABOUT THE OPPORTUNITY</strong></p><p>As MOB Academy continues to grow, we are seeking an ICT Support Officer for this newly created entry level role supporting our Head of Finance and MOB's IT Managed service provider. This role would be a perfect fit for someone still studying or just starting out with their IT career!</p><p>The ICT Support Officer is a customer service-focused, hands-on role responsible for providing first-level IT support to staff and students across MOB Academy. As a key member of the MOB community, the role supports the effective day-to-day operation of technology systems, devices, and digital platforms that enable teaching, learning, communication, and school operations.</p><p>The role requires a proactive, solutions-focused individual who enjoys helping others, communicates effectively, and is confident working across a broad range of technologies in a fast-paced educational environment.</p><p>This is a permanent part-time role working 3 days per week.</p><p><strong>KEY RESPONSIBILITIES</strong></p><ul><li><p>Act as a primary point of contact for ICT related enquiries via helpdesk systems, phone, email, and face-to-face support</p></li><li><p>Log, prioritise, track, and resolve ICT support requests in accordance with service standards and response time expectations</p></li><li><p>Identify recurring technical issues and recommended long-term solutions or service improvements</p></li><li><p>Support onboarding and offboarding processes for staff and students, ensuring timely access to required ICT systems and services</p></li><li><p>Escalate unresolved or complex technical issues to senior ICT personnel or external vendors where required</p></li><li><p>Maintain accurate ICT asset registers, including hardware, software licences, device allocations etc. as part of onboarding and offboarding</p></li><li><p>Monitor and report potential security risks, vulnerabilities, cyber incidents, or breaches</p></li><li><p>Build strong, respectful connections with staff and students</p></li><li><p>Uphold MOB Academy values at all times</p></li><li><p>Provide operational and administrative support to the Head of Finance/IT as required</p></li></ul><p><strong>REQUIRED</strong></p><ul><li><p>Currently studying or recently completed a qualification in Information Technology (ICT) or similar</p></li><li><p>Demonstrated interest in IT support, systems, administration, or educational technology environments</p></li><li><p>Basic understanding of Microsoft 365, Windows operating systems, network concepts, and cloud-based technologies</p></li><li><p>Ability to troubleshoot technical issues and provide customer focused support</p></li><li><p>Current Working with Children Check or willing to obtain</p></li><li><p>Availability for an immediate start for the right candidate/s</p></li></ul><p><strong>MOB BENEFITS</strong></p><ul><li><p>Supportive, passionate leadership team</p></li><li><p>Opportunity to work by the Broadwater — with beaches, parks, and oceanfront spaces at your doorstep</p></li><li><p>EAP – Employee Assistance program for you and your immediate family</p></li><li><p>Staff wellbeing gatherings</p></li><li><p>Access to inspiring events and activities as part of our vibrant community.</p></li></ul><p>Become part of a movement making a real difference in young lives!</p><p><strong>If you are a passionate, adaptable educator who is excited about making a difference, apply now and join the MOB Academy journey!</strong></p><p><br></p><p>Men of Business Academy is committed to ensuring the safety and wellbeing of all young people and maintains a zero-tolerance approach to harm, abuse or neglect. All staff are expected to uphold our safeguarding standards. Successful applicants will undergo screening checks and participate in ongoing training to meet their safeguarding responsibilities.</p>",
+      "keywords": [
+        "ict",
+        "support",
+        "officer"
+      ]
+    },
+    {
+      "job_id": "92541358",
+      "job_title": "Software Developer Hybrid Cloud Semantic Layer",
+      "business_name": "Safiery Pty Ltd",
+      "work_type": "Contract/Temp",
+      "job_type": "Developers/Programmers",
+      "pay_range": "$115,000 – $125,000 plus completion bonus.",
+      "area": "Arundel, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92541358",
+      "advertiser_id": "41332088",
+      "posted_date": "2026-06-05T04:50:52Z",
+      "job_description": "<h2>The role</h2><p>Safiery delivers systems to vehicle and vessel OEM’s in the auxiliary power, digital switching, video capture and 360 viewing space. We have 3D displays and use a wide range of IOT sensors in the marine and vehicle domains.</p><p>We have a development team of 11 people and build our own open source controllers, equipped with NVIDIA Jetson Orin NX16gb modules on our controller boards.</p><p>This role is in the layer above the controller and display development. Its “hybrid cloud” with open framework deployment. You would build and harden the single in-vehicle / in-vessel open semantic tree (COVESA VSS + Eclipse Kuksa on the chassis, Signal K on the hull) so that a digital twin is achieved from the physical vehicle or vessel.</p><h2>What you'll work on</h2><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>The fabric.</strong> A Kuksa databroker (Rust, VSS) on the vehicle and a Signal K server (Node.js) on the boat, each holding current + intended state. Actuators are also sensors: consumers write a target (or PUT a path), the owning provider actuates and publishes the achieved value back.</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>The provider layer.</strong> Lightweight processes that bridge one bus or device family to VSS leaves / Signal K paths — applying deadband and rate throttling, holding persistent warm sessions, and enforcing single-writer ownership so no two components write the same value.</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Buses, normalised once at the edge.</strong> CAN (VE.Can, STAR), Victron / Venus OS dbus, OBD-II/J1939, RV-C, LIN, Modbus RTU/RS485, Matter/Thread, BLE BMS — and, on the marine side, the licensed legacy world (NMEA 2000 / 0183 / Seatalk1) parsed behind a gateway so consumers never see a raw PGN.</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Identity and twin.</strong> Our QDID device-identity framework keys both the edge tree and the digital twin; you'll help keep the QDID-keyed, path-keyed structure byte-for-byte identical edge and cloud, over MQTT + WireGuard.</p><h2>Responsibilities</h2><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Design, build and test providers/PUT-handlers in Rust and/or Node.js (with C/C++ for firmware-adjacent bus work).</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maintain and govern the Safiery VSS and Signal K overlays as controlled, core-compatible artifacts.</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implement the edge→cloud bridge (telemetry up, commands &amp; OTA down) and prove edge/twin schema parity.</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enforce per-leaf/per-path write authority in the broker's access scopes — not by convention.</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Validate control-grade timing and offline/failover behaviour against our acceptance criteria.</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work alongside our firmware/bus and 3D-UI engineers; document to our SAF-spec standard.</p><h2>Required experience</h2><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrable hands-on work with a <strong>semantic / canonical data-model layer</strong> — ideally COVESA VSS + Kuksa, Signal K, or a directly comparable single-source-of-truth architecture (automotive signal layers, IoT digital twins, OPC-UA, or building-automation semantic models).</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong <strong>systems programming</strong> in <strong>Rust</strong> and/or <strong>Node.js</strong>, with the C/C++ fluency to work close to a field bus.</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Real <strong>field-bus integration</strong> experience: <strong>CAN 2.0B / CAN-FD</strong> plus one or more of NMEA 2000 / J1939 / OBD-II / Victron VE.Can / RV-C / LIN / Modbus / Matter-Thread / BLE.</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fluency with <strong>pub/sub and web-native interfaces</strong>: MQTT, gRPC, WebSocket, REST. (Sparkplug B a plus.)</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A disciplined approach to <strong>state ownership, idempotency and determinism</strong> — you understand why discovery must never happen on the command path.</p><h2>Nice to have</h2><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Security spine: WireGuard, mTLS, OAuth 2.0 / OIDC, Ed25519.</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Marine, RV or automotive electronics domain knowledge.</p><h2>About Safiery</h2><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exports are 70% of revenue.</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Two time nominated for Design and Excellence Award in Amsterdam</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 25+ products with in-house design PCB's and firmware in power electronics, digital switching, BMS and now 3D displays all in the open framework.</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aspiring to own the semantic space above the control layer with hybrid cloud in vehicles and vessels.</p>",
+      "keywords": [
+        "software",
+        "developer",
+        "cloud",
+        "semantic",
+        "layer"
       ]
     },
     {
