@@ -1,556 +1,496 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-06",
   "region": "Gold Coast",
-  "scraped_at": "2026-07-07T07:22:16.277586+10:00",
-  "total_jobs": 61,
+  "scraped_at": "2026-07-06T06:48:00.848067+10:00",
+  "total_jobs": 62,
   "keywords": [
     {
       "term": "engineer",
-      "count": 13,
-      "share": 0.2131
+      "count": 12,
+      "share": 0.1935
     },
     {
       "term": "support",
       "count": 11,
-      "share": 0.1803
+      "share": 0.1774
     },
     {
       "term": "it",
       "count": 10,
-      "share": 0.1639
+      "share": 0.1613
     },
     {
       "term": "manager",
       "count": 7,
-      "share": 0.1148
+      "share": 0.1129
+    },
+    {
+      "term": "business",
+      "count": 6,
+      "share": 0.0968
+    },
+    {
+      "term": "analyst",
+      "count": 5,
+      "share": 0.0806
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.082
-    },
-    {
-      "term": "platform",
-      "count": 5,
-      "share": 0.082
+      "share": 0.0806
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.082
+      "share": 0.0806
     },
     {
       "term": "ict",
       "count": 5,
-      "share": 0.082
-    },
-    {
-      "term": "business",
-      "count": 4,
-      "share": 0.0656
+      "share": 0.0806
     },
     {
       "term": "software",
       "count": 4,
-      "share": 0.0656
+      "share": 0.0645
+    },
+    {
+      "term": "platform",
+      "count": 4,
+      "share": 0.0645
     },
     {
       "term": "ai",
       "count": 4,
-      "share": 0.0656
+      "share": 0.0645
     },
     {
       "term": "specialist",
       "count": 4,
-      "share": 0.0656
+      "share": 0.0645
     },
     {
       "term": "technician",
       "count": 4,
-      "share": 0.0656
+      "share": 0.0645
+    },
+    {
+      "term": "development",
+      "count": 4,
+      "share": 0.0645
     },
     {
       "term": "project",
       "count": 4,
-      "share": 0.0656
+      "share": 0.0645
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0492
-    },
-    {
-      "term": "analyst",
-      "count": 3,
-      "share": 0.0492
+      "share": 0.0484
     },
     {
       "term": "infrastructure",
       "count": 3,
-      "share": 0.0492
+      "share": 0.0484
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0492
+      "share": 0.0484
     },
     {
       "term": "developer",
       "count": 3,
-      "share": 0.0492
+      "share": 0.0484
     },
     {
       "term": "desk",
       "count": 3,
-      "share": 0.0492
-    },
-    {
-      "term": "service",
-      "count": 3,
-      "share": 0.0492
-    },
-    {
-      "term": "development",
-      "count": 3,
-      "share": 0.0492
+      "share": 0.0484
     },
     {
       "term": "field",
       "count": 3,
-      "share": 0.0492
+      "share": 0.0484
     },
     {
       "term": "coordinator",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0323
+    },
+    {
+      "term": "learning",
+      "count": 2,
+      "share": 0.0323
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0323
+    },
+    {
+      "term": "service",
+      "count": 2,
+      "share": 0.0323
     },
     {
       "term": "customer",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0323
     },
     {
       "term": "success",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0323
     },
     {
       "term": "house",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0323
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0323
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0323
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0323
     },
     {
       "term": "reporting",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "parental",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "leave",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "cover",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "hubspot",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "founding",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "node.js",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "angular",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "aws",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "machine",
       "count": 1,
-      "share": 0.0164
-    },
-    {
-      "term": "learning",
-      "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "series",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "predictive",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "modelling",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "ml",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "help",
       "count": 1,
-      "share": 0.0164
-    },
-    {
-      "term": "operations",
-      "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "technical",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "facilities",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.0164
-    },
-    {
-      "term": "training",
-      "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "medical",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
+    },
+    {
+      "term": "training",
+      "count": 1,
+      "share": 0.0161
     },
     {
       "term": "deployment",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "professionals",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "entity",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "platforms",
       "count": 1,
-      "share": 0.0164
-    },
-    {
-      "term": "sr",
-      "count": 1,
-      "share": 0.0164
-    },
-    {
-      "term": "encapsulation",
-      "count": 1,
-      "share": 0.0164
-    },
-    {
-      "term": "operator",
-      "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "information",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "services",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
+    },
+    {
+      "term": "erp",
+      "count": 1,
+      "share": 0.0161
+    },
+    {
+      "term": "delivery",
+      "count": 1,
+      "share": 0.0161
     },
     {
       "term": "nurse",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "midwifery",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "clinical",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "informatics",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
+    },
+    {
+      "term": "advisor",
+      "count": 1,
+      "share": 0.0161
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "consultant",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "apac",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "chapter",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "agentforce",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "inspection",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "maintenance",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "assistant",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "north",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "splicers",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     }
   ],
   "jobs": [
-    {
-      "job_id": "93136474",
-      "job_title": "Service Operations Lead",
-      "business_name": "Gold Coast Convention & Exhibition Centre",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Broadbeach, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93136474",
-      "advertiser_id": "21889565",
-      "posted_date": "2026-07-06T02:57:46Z",
-      "job_description": "<p>At the Gold Coast Convention and Exhibition Centre, technology powers everything we do.</p>\n<br><p>From major conferences and exhibitions to live entertainment and corporate functions, our IT team delivers reliable, high-performing services in an environment where downtime is not an option.</p>\n\n<p>We are seeking an experienced and operationally focused Service Operations Lead to oversee the delivery of event technology support and corporate IT services across the Centre.</p>\n\n<p>This is a hands-on leadership role suited to someone who thrives in fast-paced environments, enjoys solving operational challenges, and can confidently coordinate technology delivery across multiple competing priorities.</p>\n\n<p>&nbsp;</p>\n\n<p><b>THE ROLE</b></p>\n\n<p>Reporting to the IT Manager, you will lead day-to-day IT service operations across the business, with responsibility for service delivery, event readiness, incident management, operational coordination, and service quality.</p>\n\n<p>You will act as the operational lead for IT services during live events, ensuring technology services are well planned, properly resourced, and executed to a consistently high standard.</p>\n\n<p>The role also plays an important part in maturing IT operational practices across the organisation, including helping define, implement, and embed standardised ITIL-aligned service management processes across both corporate IT and event delivery environments.</p>\n\n<p>Your key responsibilities will include:</p>\n\n<ul>\n\t<li>Leading the delivery of event technology support and corporate IT services</li>\n\t<li>Coordinating IT planning and operational readiness for approximately 110 events annually</li>\n\t<li>Managing live event IT delivery and responding to operational issues in real time</li>\n\t<li>Overseeing service desk operations, incidents, requests, and workload prioritisation</li>\n\t<li>Leading major incident response and problem management activities</li>\n\t<li>Helping define, implement, and continuously improve ITIL-aligned operational processes across the organisation</li>\n\t<li>Introducing and embedding standardised practices across areas such as incident management, problem management, change management, service request management, and operational readiness</li>\n\t<li>Driving service quality, operational consistency, and continuous improvement initiatives</li>\n\t<li>Developing and maintaining operational processes, runbooks, and readiness procedures</li>\n\t<li>Working closely with internal stakeholders, vendors, AV teams, and event organisers</li>\n\t<li>Supporting and mentoring operational team members while promoting strong service standards</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><b>ABOUT YOU</b></p>\n\n<p>You are an experienced IT operations or service delivery professional who can combine technical understanding with strong operational leadership.</p>\n\n<p>You are calm under pressure, highly organised, communicate well with nontechnical people and can effectively coordinate service delivery in environments where priorities shift quickly and reliability matters.</p>\n\n<p>To be successful in this role, you will ideally bring:</p>\n\n<ul>\n\t<li>Experience in IT operations, service delivery, or technical operations leadership</li>\n\t<li>Strong understanding of IT infrastructure, networking, cloud, and end-user technologies</li>\n\t<li>Experience working within ITIL-aligned service management environments</li>\n\t<li>Proven ability to coordinate operational delivery across multiple priorities</li>\n\t<li>Strong stakeholder engagement and communication skills</li>\n\t<li>Experience improving operational maturity, governance, or IT service management practices within complex environments will be highly regarded</li>\n\t<li>Experience supporting event, hospitality, venue, entertainment, or high-availability environments will be highly regarded</li>\n\t<li>Cisco, Microsoft, and ITIL certifications well regarded</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>If you are a service-focused IT operations professional looking for a role with variety, responsibility, and real operational impact, we would love to hear from you.</p>\n\n<p>&nbsp;</p>\n\n<p><b>WHY WORK WITH US?&nbsp; </b><i>“It’s not what we do, it’s how we do it”!&nbsp;</i></p>\n\n<p>&nbsp;</p>\n\n<p>We pride ourselves on our values of Community, Initiative, Respect, Teamwork and Welcoming.&nbsp; These values sit at the heart of how we work, how we treat our people, represent our business and deliver outstanding events.&nbsp; </p>\n\n<p>Plus, we offer the following people perks:</p>\n\n<ul>\n\t<li>Free undercover parking in the heart of Broadbeach</li>\n\t<li>Discounted onsite team member café</li>\n\t<li>Flexible work arrangements</li>\n\t<li>Paid parental leave</li>\n\t<li>Discounted food and beverage and accommodation at The Star Entertainment Group properties</li>\n\t<li>Access to health &amp; wellbeing programs</li>\n\t<li>Ongoing learning and development opportunities</li>\n\t<li>Reward &amp; Recognition Program</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>Reaching Earthcheck Master Certification status we are an environmentally conscious and sustainability focused organisation that seeks to continuously educate, support and ensure our team members foster and understand the importance of our environmental stewardship.</p>\n\n<p>&nbsp;</p>\n\n<p>Full Australian working rights are required for this position in addition to a probity check.</p>\n\n<p>&nbsp;</p>\n\n<p><b>The Gold Coast Convention and Exhibition Centre is part of The Star Entertainment Group.</b></p>\n\n<p><b>To apply, please upload your cover letter and resume.</b></p>",
-      "keywords": [
-        "service",
-        "operations"
-      ]
-    },
-    {
-      "job_id": "93134027",
-      "job_title": "Platform Engineer",
-      "business_name": "Gold Coast Convention & Exhibition Centre",
-      "work_type": "Full time",
-      "job_type": "Networks & Systems Administration",
-      "pay_range": "",
-      "area": "Broadbeach, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93134027",
-      "advertiser_id": "21889565",
-      "posted_date": "2026-07-06T01:55:24Z",
-      "job_description": "<p>At the Gold Coast Convention and Exhibition Centre, technology powers everything we do. </p>\n<br><p>From major international conventions and exhibitions to concerts, gala dinners and corporate events, our infrastructure must be reliable, secure and ready to perform every day.</p>\n\n<p>We're looking for an experienced Senior Platform Engineer to join our Technology team and help build, maintain and continually improve the infrastructure platforms that support both our corporate operations and live event environments.</p>\n\n<p>If you're passionate about modern infrastructure, cloud technologies, automation and continuous improvement, we'd love to hear from you.</p>\n\n<p>&nbsp;</p>\n\n<p><b>THE ROLE</b></p>\n\n<p>Reporting to the IT Manager and working under the technical direction of the Platform Engineering Lead, you'll play a key role in implementing, maintaining and improving the technology platforms that underpin the organisation.</p>\n\n<p>You'll work across infrastructure, cloud, identity, networking, endpoint management and venue technology, ensuring our platforms remain secure, resilient and highly available.</p>\n\n<p>This is a hands-on technical role where you'll have the opportunity to contribute to infrastructure modernisation, automation, cybersecurity improvements and platform standardisation while supporting one of Australia's most dynamic technology environments.</p>\n\n<p>Your key responsibilities will include:</p>\n\n<ul>\n\t<li>Building, configuring and maintaining infrastructure platforms across cloud, networking, identity, endpoint and venue technologies</li>\n\t<li>Implementing standard platform designs and engineering best practices</li>\n\t<li>Maintaining platform reliability through proactive monitoring, patching, upgrades and lifecycle management</li>\n\t<li>Implementing and maintaining security controls while supporting vulnerability remediation and security improvement initiatives</li>\n\t<li>Developing automation that improves deployment consistency, operational efficiency and platform reliability</li>\n\t<li>Providing Level 3 technical support for complex infrastructure and platform incidents</li>\n\t<li>Supporting root cause analysis and implementation of permanent technical solutions</li>\n\t<li>Preparing and validating technology platforms supporting live event delivery</li>\n\t<li>Developing and maintaining technical documentation, standards, runbooks and knowledge articles</li>\n\t<li>Contributing to the ongoing evolution of GCCEC's technology platforms and engineering standards</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><b>ABOUT YOU</b></p>\n\n<p>You're an experienced infrastructure or platform engineer who enjoys solving complex technical challenges and takes pride in delivering secure, reliable and well-engineered technology solutions.</p>\n\n<p>You have strong technical capability but also understand the value of documentation, standards, automation and continuous improvement.</p>\n\n<p>To be successful in this role, you'll ideally bring:</p>\n\n<ul>\n\t<li>Experience implementing and supporting enterprise IT infrastructure and platforms</li>\n\t<li>Strong knowledge of Microsoft Azure, Windows Server, Active Directory/Entra ID and Microsoft endpoint technologies</li>\n\t<li>Strong networking knowledge including switching, routing, wireless and network segmentation in enterprise, service provider or campus environments</li>\n\t<li>Experience implementing security controls and supporting cybersecurity best practice</li>\n\t<li>Experience with scripting or automation technologies such as PowerShell or similar tools will be highly regarded</li>\n\t<li>Experience with backup and disaster recovery platforms</li>\n\t<li>Experience supporting high-availability, hospitality, venue or event environments will be highly regarded</li>\n\t<li>Relevant certifications such as Microsoft, Azure, Cisco, Palo Alto Networks, Security or ITIL are all well regarded</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>If you're an experienced infrastructure or platform engineer looking for a technically rewarding role with variety, responsibility and the opportunity to work on modern enterprise technologies, we'd love to hear from you.</p>\n\n<p>&nbsp;</p>\n\n<p><b>WHY WORK WITH US?&nbsp; </b><i>“It’s not what we do, it’s how we do it”!&nbsp;</i></p>\n\n<p>&nbsp;</p>\n\n<p>We pride ourselves on our values of Community, Initiative, Respect, Teamwork and Welcoming.&nbsp; These values sit at the heart of how we work, how we treat our people, represent our business and deliver outstanding events.&nbsp; </p>\n\n<p>Plus, we offer the following people perks:</p>\n\n<ul>\n\t<li>Free undercover parking in the heart of Broadbeach</li>\n\t<li>Discounted onsite team member café</li>\n\t<li>Flexible work arrangements</li>\n\t<li>Paid parental leave</li>\n\t<li>Discounted food and beverage and accommodation at The Star Entertainment Group properties</li>\n\t<li>Access to health &amp; wellbeing programs</li>\n\t<li>Ongoing learning and development opportunities</li>\n\t<li>Reward &amp; Recognition Program</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>Reaching Earthcheck Master Certification status we are an environmentally conscious and sustainability focused organisation that seeks to continuously educate, support and ensure our team members foster and understand the importance of our environmental stewardship.</p>\n\n<p>&nbsp;</p>\n\n<p>Full Australian working rights are required for this position in addition to a probity check.</p>\n\n<p>&nbsp;</p>\n\n<p><b>The Gold Coast Convention and Exhibition Centre is part of The Star Entertainment Group.</b></p>\n\n<p><b>To apply, please upload your cover letter and resume.</b></p>",
-      "keywords": [
-        "platform",
-        "engineer"
-      ]
-    },
-    {
-      "job_id": "93133178",
-      "job_title": "Sr Encapsulation Operator",
-      "business_name": "VDS Contract Manufacturing Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Networks & Systems Administration",
-      "pay_range": "$65,000 – $70,000 per year",
-      "area": "Arundel, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93133178",
-      "advertiser_id": "47710865",
-      "posted_date": "2026-07-06T01:38:46Z",
-      "job_description": "<p>VDS Contract Manufacturing is a fast growing manufacturing business of pharmaceutical and food supplements located on the Gold Coast. VDS Contract Manufacturing, manufactures according to TGA, cGMP, HACCP &amp; ACO requirements. Our experienced team strive to achieve optimal customer satisfaction through taking a personal approach in your manufacturing journey, constructing your concept into a reality. VDS Contract Manufacturing endeavors to create continual exceptional rapport with new and existing customers with emphasis on trust, honesty and respect. Our experienced and friendly team will help you along the way to manufacture the finest product on the market, paying attention to detail and leaving customers delighted with the final result. At VDS Contract Manufacturing customer satisfaction is crucial and we aim to exceed expectations.</p><p><br></p><p><strong>The Role</strong></p><p>The team at VDS is seeking reliable production (encapsulation) operators to work in their production team. We are seeking for operators who can work from Monday to Friday or at least 4 days a week.</p><p>Your daily task will require you to work on production lines where you will be assisting in manufacturing individual capsule supplements.</p><p>We are especially interested in candidates with experience in <strong>encapsulation.</strong></p><p><br></p><p><strong>Tasks &amp; responsibilities</strong></p><ul><li><p>Work closely with room leaders to constantly deliver on quality food products.</p></li><li><p>Follow batch documents and internal procedures.&nbsp;</p></li><li><p>Setting up and operation of encapsulation machine</p></li><li><p>Conduct quality checks and in-process checks</p></li><li><p>Identify and report equipment or quality issues promptly</p></li><li><p>Must be able to work independently</p></li><li><p>Assist with cleaning production equipment and production areas</p></li><li><p>Any other task as required in the production process</p></li></ul><p><br></p><p><strong>Qualifications &amp; experience</strong></p><ul><li><p>Previous experience in a manufacturing or GMP-regulated environment</p></li><li><p>Experience working in encapsulating machines</p></li><li><p>Must have attention to detail</p></li><li><p>Mechanically minded individuals preferred</p></li><li><p>Willingness to learn a new skill</p></li><li><p>Ability to lift 15-25kg</p></li><li><p>Successfully completed year twelve or equivalent</p></li><li><p>Must be available to work afternoon Monday to Friday&nbsp;</p></li></ul><p><br></p><p><strong>Benefits</strong></p><ul><li><p>Work in a friendly environment</p></li><li><p>We are willing to pay a competitive wage to the successful candidates</p></li><li><p>Afternoon shift rate (when required)</p></li><li><p>Permanent opportunities</p></li><li><p>Growth within the company for suitable candidates&nbsp;</p></li></ul><p><strong>GMP Rules</strong>:</p><ul><li><p>No jewelry, piercings, fake eyelashes, fake nails/nail polish allowed inside the production rooms</p></li><li><p>Safety shoes is a must-have</p></li></ul><p><br></p>",
-      "keywords": [
-        "sr",
-        "encapsulation",
-        "operator"
-      ]
-    },
     {
       "job_id": "93117204",
       "job_title": "Telecommunications Field Engineer",
@@ -1057,6 +997,24 @@
       ]
     },
     {
+      "job_id": "92915394",
+      "job_title": "ERP Delivery Lead",
+      "business_name": "Worklocker Services Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Product Management & Development",
+      "pay_range": "$100,000 – $120,000 per year",
+      "area": "Burleigh Heads, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92915394",
+      "advertiser_id": "63201477",
+      "posted_date": "2026-06-24T08:00:09Z",
+      "job_description": "<p><strong>About Worklocker</strong></p><p>Worklocker is a rapidly growing Australian workwear and safety franchise, built on strong operational foundations and genuine partnerships with our franchise network. We're in the middle of a significant technology transformation - rolling out Odoo as our ERP across our national store network - and we're investing in the delivery leadership to make sure it lands well, not just on paper.</p><hr><p><strong>The Opportunity</strong></p><p>We're looking for someone to support the end-to-end delivery of our ERP program - from getting stores live, to keeping the development team moving, to making sure what goes into production actually works.</p><p>This is a hands-on delivery role with real accountability. You'll sit at the centre of a cross-functional team spanning development, QA, operations, and franchise partners. You'll own the requirements before dev starts, the quality before go-live, and the outcomes after. You'll be working across a growing network of retail stores nationally, coordinating delivery across a small, focused team.</p><p>You'll also be joining a team that's genuinely open to using AI tooling to work smarter. If you've got ideas about how to get more done with less overhead, we want to hear them.</p><hr><p><strong>What You'll Be Doing</strong></p><p><strong>Store Onboarding &amp; Delivery</strong></p><ul><li><p>Own the technical end-to-end implementation of new stores onto the ERP platform from scoping through to go-live and stabilisation</p></li><li><p>Stay connected post-launch to ensure stores are genuinely embedded before handover to BAU</p></li><li><p>Translate operational complexity into structured, executable delivery plans</p></li></ul><p><strong>Requirements &amp; Development</strong></p><ul><li><p>Define and sign off complete, unambiguous requirements before development begins</p></li><li><p>Work directly with developers to ensure briefs are clear, questions are answered fast, and rework is the exception, not the norm</p></li><li><p>Maintain a prioritised, well-managed backlog that reflects real business priorities and push back when everything can't be high priority</p></li></ul><p><strong>QA &amp; Release</strong></p><ul><li><p>Lead the quality assessment that drives the go/no-go conversation</p></li><li><p>Manage environments across dev, staging and production, and ensure releases are controlled and documented</p></li><li><p>Leverage QA support to scale coverage without sacrificing quality</p></li></ul><p><strong>Stakeholder Management</strong></p><ul><li><p>Keep the wider team informed proactively, not reactively</p></li><li><p>Surface resourcing issues, dependency risks and scope changes early, with a recommended path forward, not just a flag</p></li><li><p>Be the person stakeholders trust to tell them the truth about where things are at</p></li></ul><p><strong>Delivery Coordination</strong></p><ul><li><p>Keep the team organised and moving with sprint rhythms, prioritisation, blockers resolved</p></li><li><p>Find smarter ways to coordinate and deliver visibility including AI tools where they genuinely help</p></li></ul><hr><p><strong>About You</strong></p><p>You're a delivery person, not necessarily a document person. You get energy from seeing things ship. You're comfortable holding developers to a standard, managing up when something needs escalating, and making a call when quality isn't where it needs to be.</p><p>This is a great step up for someone who's been hands-on with Odoo in a retail environment and is ready to coordinate delivery end-to-end.</p><ul><li><p>Hands-on experience with Odoo is essential - retail or franchise context is a strong advantage</p></li><li><p>Strong understanding of ERP concepts including inventory, POS, product catalogue, fulfilment, integrations</p></li><li><p>Experience with other ERP platforms (NetSuite, Business Central, etc) also considered</p></li><li><p>Experience managing or coordinating QA processes and release cycles</p></li><li><p>Comfortable working directly with developers and translating between technical and operational stakeholders</p></li><li><p>Genuinely organised. You keep the backlog clean, the board honest, and the team unblocked</p></li><li><p>Curious about AI tools and how they can improve delivery workflows</p></li></ul><hr><p><strong>Why Join Worklocker?</strong></p><ul><li><p>Own a program that's at the beginning, genuinely complex and isn't just maintenance work</p></li><li><p>Work with a leadership team that's direct, invested and moves quickly</p></li><li><p>Be part of a national franchise network that's scaling fast, with the technology transformation to match</p></li><li><p>Burleigh Heads office, Gold Coast based</p></li><li><p>Competitive salary reflective of the scope of the role</p></li></ul><p><br></p>",
+      "keywords": [
+        "erp",
+        "delivery"
+      ]
+    },
+    {
       "job_id": "92896961",
       "job_title": "Principal Software Engineer",
       "business_name": "NTP Talent",
@@ -1072,6 +1030,43 @@
       "keywords": [
         "software",
         "engineer"
+      ]
+    },
+    {
+      "job_id": "92893121",
+      "job_title": "Senior Learning and Development Advisor",
+      "business_name": "Department of Health - Queensland",
+      "work_type": "Full time",
+      "job_type": "Product Management & Development",
+      "pay_range": "",
+      "area": "Robina, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92893121",
+      "advertiser_id": "32285210",
+      "posted_date": "2026-06-23T07:38:10Z",
+      "job_description": "<div>\n \n <p>The primary focus of this role is to facilitate training programs and end user support for clinical applications to support the delivery of quality health services.</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Senior Learning and Development Advisor </strong>to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 13 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Acquire and maintain an expert knowledge of clinical and non-clinical workflows, standards and clinical informatics systems</li>\n<li>Scope, design, develop and deliver training programs to support the integrated electronic Medical Record (ieMR)</li>\n<li>Provide training and support to staff in the effective use of the 24/7 ieMR and other clinical applications</li>\n<li>Develop and implement training materials to enable flexible delivery</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Temporary full time (12 months with the possibility of extension)</li>\n<li>Base salary ranging from $108,735 - $118,307 per annum</li>\n</ul>\n<p><strong>About Us </strong><strong>&nbsp;</strong></p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.</p>\n<p>DHI is responsible for enhancing efficiency and service delivery improvements to optimise Health Service performance. It also oversees strategic partnerships that help the Health Service implement alternative models of service delivery, ensuring value for money, and driving improvements in performance, and innovation.</p>\n<p>Digital Experience is part of the Digital and Information stream within the division. The service provides:&nbsp;</p>\n<ul>\n<li>Process mining and engineering&nbsp;</li>\n<li>User experience (UX) design&nbsp;</li>\n<li>Software development&nbsp;</li>\n<li>Web development&nbsp;</li>\n<li>Integration / interoperability&nbsp;</li>\n<li>Automation&nbsp;</li>\n<li>Testing&nbsp;</li>\n<li>Digital workflow and adoption support&nbsp;</li>\n</ul>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Monday, 6 July 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC686229</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
+      "keywords": [
+        "learning",
+        "development",
+        "advisor"
+      ]
+    },
+    {
+      "job_id": "92893112",
+      "job_title": "Senior Business Analyst",
+      "business_name": "Department of Health - Queensland",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92893112",
+      "advertiser_id": "32285210",
+      "posted_date": "2026-06-23T07:37:58Z",
+      "job_description": "<div>\n \n <p>Provide high-level advice on business analysis activities, liaising and collaborating to implement sustainable improvements.</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Senior Business Analyst</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 13 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide high-level advice on business analysis activities, including business process modelling, requirements elicitation, and data modelling</li>\n<li>Assess the efficiency and effectiveness of existing business operations and workflows</li>\n<li>Facilitate discussions and workshops with internal and external stakeholders to elicit requirements and design future state business processes</li>\n<li>Review innovation and improvement opportunities</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $125,002 - $133,898 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028.</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by<strong> Monday, 06 July 2026.</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference: </strong>GC686167</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
+      "keywords": [
+        "business",
+        "analyst"
       ]
     },
     {
@@ -1146,6 +1141,24 @@
         "it",
         "support",
         "engineer"
+      ]
+    },
+    {
+      "job_id": "92878336",
+      "job_title": "Senior Business Analyst",
+      "business_name": "Gold Coast Hospital & Health Service",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "$125,002 - $133,898 per annum + 12.75% super",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92878336",
+      "advertiser_id": "32285403",
+      "posted_date": "2026-06-23T01:21:57Z",
+      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Senior Business Analyst</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 13 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide high-level advice on business analysis activities, including business process modelling, requirements elicitation, and data modelling</li>\n<li>Assess the efficiency and effectiveness of existing business operations and workflows</li>\n<li>Facilitate discussions and workshops with internal and external stakeholders to elicit requirements and design future state business processes</li>\n<li>Review innovation and improvement opportunities</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $125,002 - $133,898 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028.</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by<strong><em> Monday, 06 July 2026.</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference: </strong>GC686167</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
+      "keywords": [
+        "business",
+        "analyst"
       ]
     },
     {
