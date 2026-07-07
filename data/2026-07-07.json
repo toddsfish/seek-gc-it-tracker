@@ -1,555 +1,501 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-07",
   "region": "Gold Coast",
-  "scraped_at": "2026-07-08T07:16:13.222717+10:00",
-  "total_jobs": 64,
+  "scraped_at": "2026-07-07T07:22:16.277586+10:00",
+  "total_jobs": 61,
   "keywords": [
     {
       "term": "engineer",
       "count": 13,
-      "share": 0.2031
+      "share": 0.2131
     },
     {
       "term": "support",
       "count": 11,
-      "share": 0.1719
+      "share": 0.1803
     },
     {
       "term": "it",
       "count": 10,
-      "share": 0.1562
+      "share": 0.1639
     },
     {
       "term": "manager",
-      "count": 9,
-      "share": 0.1406
-    },
-    {
-      "term": "project",
-      "count": 6,
-      "share": 0.0938
-    },
-    {
-      "term": "business",
-      "count": 5,
-      "share": 0.0781
+      "count": 7,
+      "share": 0.1148
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.0781
+      "share": 0.082
     },
     {
       "term": "platform",
       "count": 5,
-      "share": 0.0781
+      "share": 0.082
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.0781
+      "share": 0.082
     },
     {
       "term": "ict",
       "count": 5,
-      "share": 0.0781
+      "share": 0.082
     },
     {
-      "term": "analyst",
+      "term": "business",
       "count": 4,
-      "share": 0.0625
+      "share": 0.0656
     },
     {
       "term": "software",
       "count": 4,
-      "share": 0.0625
+      "share": 0.0656
     },
     {
       "term": "ai",
       "count": 4,
-      "share": 0.0625
+      "share": 0.0656
     },
     {
       "term": "specialist",
       "count": 4,
-      "share": 0.0625
+      "share": 0.0656
     },
     {
       "term": "technician",
       "count": 4,
-      "share": 0.0625
+      "share": 0.0656
+    },
+    {
+      "term": "project",
+      "count": 4,
+      "share": 0.0656
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0469
+      "share": 0.0492
+    },
+    {
+      "term": "analyst",
+      "count": 3,
+      "share": 0.0492
     },
     {
       "term": "infrastructure",
       "count": 3,
-      "share": 0.0469
+      "share": 0.0492
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0469
+      "share": 0.0492
     },
     {
       "term": "developer",
       "count": 3,
-      "share": 0.0469
+      "share": 0.0492
     },
     {
       "term": "desk",
       "count": 3,
-      "share": 0.0469
+      "share": 0.0492
     },
     {
       "term": "service",
       "count": 3,
-      "share": 0.0469
+      "share": 0.0492
     },
     {
       "term": "development",
       "count": 3,
-      "share": 0.0469
+      "share": 0.0492
     },
     {
       "term": "field",
       "count": 3,
-      "share": 0.0469
+      "share": 0.0492
     },
     {
       "term": "coordinator",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0328
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0328
     },
     {
       "term": "customer",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0328
     },
     {
       "term": "success",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0328
     },
     {
       "term": "house",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0328
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0328
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0328
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0328
     },
     {
       "term": "reporting",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "parental",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "leave",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "cover",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "hubspot",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "founding",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "node.js",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "angular",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "aws",
       "count": 1,
-      "share": 0.0156
-    },
-    {
-      "term": "ml",
-      "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "machine",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "learning",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "series",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "predictive",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "modelling",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
+    },
+    {
+      "term": "ml",
+      "count": 1,
+      "share": 0.0164
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "help",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "operations",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "technical",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "facilities",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.0156
-    },
-    {
-      "term": "medical",
-      "count": 1,
-      "share": 0.0156
-    },
-    {
-      "term": "industry",
-      "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "training",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
+    },
+    {
+      "term": "medical",
+      "count": 1,
+      "share": 0.0164
+    },
+    {
+      "term": "industry",
+      "count": 1,
+      "share": 0.0164
     },
     {
       "term": "deployment",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "professionals",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "entity",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "platforms",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "sr",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "encapsulation",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "operator",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "information",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "services",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "nurse",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "midwifery",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "clinical",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "informatics",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "consultant",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "apac",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "chapter",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "agentforce",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "inspection",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "maintenance",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "assistant",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "north",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "splicers",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0164
     }
   ],
   "jobs": [
-    {
-      "job_id": "93175638",
-      "job_title": "Senior Project Manager",
-      "business_name": "Department of Health - Queensland",
-      "work_type": "Full time",
-      "job_type": "Programme & Project Management",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93175638",
-      "advertiser_id": "32285210",
-      "posted_date": "2026-07-07T09:13:26Z",
-      "job_description": "<div>\n \n <p>This role is responsible for comprehending complex project and change management requirements across the Gold Coast Hospital and Health Service. </p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Senior Project Manager</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide authoritative and timely advice on digital programs and projects</li>\n<li>Deliver change management, project management and project delivery services</li>\n<li>Develop complex project business cases, project plans, progress reports and closure reports</li>\n<li>Engage and collaborate with stakeholders to identify opportunities for innovation and improvement in digital project delivery</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, a relevant qualification or formal training in program, project and/or change management would be well regarded</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Temporary full time (12 months with the possibility of extension)</li>\n<li>Base salary ranging from $140,115 - $150,371 per annum&nbsp;</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) Division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the G28 Gold Coast Hospital and Health Service Strategic Plan 2024-2028. DHI is responsible for enhancing efficiency and service delivery improvements to optimise Health Service performance. It also oversees strategic partnerships that help the Health Service implement alternative models of service delivery, ensuring value for money, and driving improvements in performance, and innovation.</p>\n<p>The PPD teams lead portfolio services and end-to-end digital project delivery for the division, incorporating digital assessment and discovery to delivery and transition to business-as-usual. Project Delivery services include problem and business analysis and project and change management across the delivery lifecycle. &nbsp;</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Monday, 20 July 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC687327</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
-      "keywords": [
-        "project",
-        "manager"
-      ]
-    },
-    {
-      "job_id": "93166908",
-      "job_title": "Business Analyst",
-      "business_name": "SEE Group",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "Work close to home on northern Gold Coast",
-      "area": "Helensvale, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93166908",
-      "advertiser_id": "23598234",
-      "posted_date": "2026-07-07T04:45:59Z",
-      "job_description": "<p><strong>The Opportunity</strong></p><p>We have an exciting opportunity for an experienced <strong>Business Analyst</strong> to join our Digital, Technology &amp; Innovation team and play a central role in delivering SEE Group's digital transformation program. You'll bridge the gap between business needs and technology solutions - engaging stakeholders across the business, capturing and analysing requirements, mapping current and future-state processes, and translating these into clear, well-documented specifications that guide the design and delivery of new systems and enhancements.</p><p>Working across a broad application landscape spanning enterprise systems, Microsoft cloud platforms, and bespoke applications, you'll help ensure the solutions we deliver are fit for purpose, adopted successfully, and deliver measurable value to the business.</p><p><strong>Responsibilities</strong></p><ul><li><p>Engage stakeholders through workshops, interviews and observation to gather, analyse and prioritise business, functional and non-functional requirements</p></li><li><p>Document current-state (as-is) processes and design improved future-state (to-be) processes, identifying gaps and opportunities to streamline operations</p></li><li><p>Translate business requirements into clear functional specifications, user stories and acceptance criteria</p></li><li><p>Build strong working relationships with stakeholders at all levels, acting as a trusted link between the business and technical teams</p></li><li><p>Develop test scenarios and coordinate user acceptance testing (UAT), tracking and resolving defects and feedback prior to release</p></li><li><p>Support the delivery team throughout implementation and help the business adopt change through user documentation, training materials and process guides</p></li></ul><p><strong>Essential Skills and Attributes</strong></p><ul><li><p>Previous experience as a Business Analyst or similar role, ideally within construction, engineering, mining or a related industry</p></li><li><p>Demonstrated experience in requirements elicitation, analysis and management, with the ability to produce clear specifications, user stories and acceptance criteria</p></li><li><p>Skilled in process mapping and documentation using techniques such as BPMN or process flow diagrams</p></li><li><p>Comfortable using data to support analysis and decision-making; familiarity with PowerBI or the Microsoft data stack is a plus</p></li><li><p>Sound understanding of enterprise business applications and the Microsoft cloud ecosystem (Microsoft 365, Power Platform, Azure)</p></li><li><p>Experience working within Agile and/or Waterfall delivery methodologies, with hands-on use of tools such as Azure DevOps (Boards)</p></li><li><p>Excellent written and verbal communication skills, with the ability to explain technical concepts in plain language</p></li><li><p>Tertiary qualification in Business, IT or Information Systems, or equivalent practical experience (desirable); BA certification such as BABOK/IIBA or Agile/Scrum (desirable)</p></li></ul><p><strong>The SEE Way</strong></p><p>SEE Group is a family-built company with over 35 years of experience in delivering excellence across civil construction, mining, and infrastructure. At SEE Group, we don't just build projects—we build careers.</p><ul><li><p>Be part of a down-to-earth, supportive team that values diversity and inclusion</p></li><li><p>Benefit from career growth and tailored development opportunities</p></li><li><p>Enjoy personalised rewards and recognition for your hard work</p></li><li><p>Work on impactful projects that shape communities</p></li><li><p>Collaborate with passionate people who bring a \"boots &amp; all\" attitude to everything they do</p></li></ul><p><strong>What's Next?</strong></p><p>If you would like to join our team and hold full, unlimited working rights in Australia, we encourage you to submit your CV by clicking apply now.</p><p>As an Equal Opportunity Employer, Women and People of Aboriginal and Torres Strait Island heritage are strongly encouraged to apply.</p><p>Interested to learn more about SEE Group? Visit our website at www.seegroup.com.au</p>",
-      "keywords": [
-        "business",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "93166379",
-      "job_title": "Senior Project Manager",
-      "business_name": "Gold Coast Hospital & Health Service",
-      "work_type": "Contract/Temp",
-      "job_type": "Programme & Project Management",
-      "pay_range": "$140,115 - $150,371 per annum + 12.75% super",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93166379",
-      "advertiser_id": "32285403",
-      "posted_date": "2026-07-07T04:29:10Z",
-      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Senior Project Manager</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide authoritative and timely advice on digital programs and projects</li>\n<li>Deliver change management, project management and project delivery services</li>\n<li>Develop complex project business cases, project plans, progress reports and closure reports</li>\n<li>Engage and collaborate with stakeholders to identify opportunities for innovation and improvement in digital project delivery</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, a relevant qualification or formal training in program, project and/or change management would be well regarded</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Temporary full time (12 months with the possibility of extension)</li>\n<li>Base salary ranging from $140,115 - $150,371 per annum&nbsp;</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) Division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the G28 Gold Coast Hospital and Health Service Strategic Plan 2024-2028. DHI is responsible for enhancing efficiency and service delivery improvements to optimise Health Service performance. It also oversees strategic partnerships that help the Health Service implement alternative models of service delivery, ensuring value for money, and driving improvements in performance, and innovation.</p>\n<p>The PPD teams lead portfolio services and end-to-end digital project delivery for the division, incorporating digital assessment and discovery to delivery and transition to business-as-usual. Project Delivery services include problem and business analysis and project and change management across the delivery lifecycle. &nbsp;</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Monday, 20 July 2026</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC687327</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
-      "keywords": [
-        "project",
-        "manager"
-      ]
-    },
     {
       "job_id": "93136474",
       "job_title": "Service Operations Lead",
