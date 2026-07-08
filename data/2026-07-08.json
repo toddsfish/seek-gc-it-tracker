@@ -1,730 +1,501 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-08",
   "region": "Gold Coast",
-  "scraped_at": "2026-07-09T06:57:43.934662+10:00",
-  "total_jobs": 67,
+  "scraped_at": "2026-07-08T07:16:13.222717+10:00",
+  "total_jobs": 64,
   "keywords": [
     {
-      "term": "it",
-      "count": 12,
-      "share": 0.1791
-    },
-    {
       "term": "engineer",
-      "count": 12,
-      "share": 0.1791
+      "count": 13,
+      "share": 0.2031
     },
     {
       "term": "support",
+      "count": 11,
+      "share": 0.1719
+    },
+    {
+      "term": "it",
       "count": 10,
-      "share": 0.1493
+      "share": 0.1562
     },
     {
       "term": "manager",
-      "count": 8,
-      "share": 0.1194
+      "count": 9,
+      "share": 0.1406
     },
     {
-      "term": "analyst",
-      "count": 7,
-      "share": 0.1045
+      "term": "project",
+      "count": 6,
+      "share": 0.0938
     },
     {
       "term": "business",
-      "count": 6,
-      "share": 0.0896
+      "count": 5,
+      "share": 0.0781
     },
     {
       "term": "systems",
-      "count": 6,
-      "share": 0.0896
+      "count": 5,
+      "share": 0.0781
     },
     {
-      "term": "software",
+      "term": "platform",
       "count": 5,
-      "share": 0.0746
+      "share": 0.0781
     },
     {
-      "term": "developer",
+      "term": "officer",
       "count": 5,
-      "share": 0.0746
-    },
-    {
-      "term": "specialist",
-      "count": 5,
-      "share": 0.0746
+      "share": 0.0781
     },
     {
       "term": "ict",
       "count": 5,
-      "share": 0.0746
+      "share": 0.0781
+    },
+    {
+      "term": "analyst",
+      "count": 4,
+      "share": 0.0625
+    },
+    {
+      "term": "software",
+      "count": 4,
+      "share": 0.0625
     },
     {
       "term": "ai",
       "count": 4,
-      "share": 0.0597
+      "share": 0.0625
     },
     {
-      "term": "officer",
+      "term": "specialist",
       "count": 4,
-      "share": 0.0597
+      "share": 0.0625
     },
     {
-      "term": "platform",
+      "term": "technician",
       "count": 4,
-      "share": 0.0597
-    },
-    {
-      "term": "project",
-      "count": 4,
-      "share": 0.0597
+      "share": 0.0625
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0448
+      "share": 0.0469
     },
     {
       "term": "infrastructure",
       "count": 3,
-      "share": 0.0448
+      "share": 0.0469
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0448
+      "share": 0.0469
     },
     {
-      "term": "automation",
+      "term": "developer",
       "count": 3,
-      "share": 0.0448
+      "share": 0.0469
     },
     {
-      "term": "technician",
+      "term": "desk",
       "count": 3,
-      "share": 0.0448
+      "share": 0.0469
+    },
+    {
+      "term": "service",
+      "count": 3,
+      "share": 0.0469
     },
     {
       "term": "development",
       "count": 3,
-      "share": 0.0448
+      "share": 0.0469
     },
     {
       "term": "field",
       "count": 3,
-      "share": 0.0448
-    },
-    {
-      "term": "web",
-      "count": 3,
-      "share": 0.0448
-    },
-    {
-      "term": "enterprise",
-      "count": 2,
-      "share": 0.0299
-    },
-    {
-      "term": "solution",
-      "count": 2,
-      "share": 0.0299
-    },
-    {
-      "term": "month",
-      "count": 2,
-      "share": 0.0299
-    },
-    {
-      "term": "broadbeach",
-      "count": 2,
-      "share": 0.0299
+      "share": 0.0469
     },
     {
       "term": "coordinator",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0312
     },
     {
-      "term": "technical",
+      "term": "digital",
       "count": 2,
-      "share": 0.0299
-    },
-    {
-      "term": "learning",
-      "count": 2,
-      "share": 0.0299
-    },
-    {
-      "term": "desk",
-      "count": 2,
-      "share": 0.0299
-    },
-    {
-      "term": "service",
-      "count": 2,
-      "share": 0.0299
+      "share": 0.0312
     },
     {
       "term": "customer",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0312
     },
     {
       "term": "success",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0312
     },
     {
       "term": "house",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0312
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0312
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0312
     },
     {
-      "term": "architect",
-      "count": 1,
-      "share": 0.0149
-    },
-    {
-      "term": "microsoft",
-      "count": 1,
-      "share": 0.0149
-    },
-    {
-      "term": "ecosystem",
-      "count": 1,
-      "share": 0.0149
-    },
-    {
-      "term": "greenfield",
-      "count": 1,
-      "share": 0.0149
-    },
-    {
-      "term": "practice",
-      "count": 1,
-      "share": 0.0149
-    },
-    {
-      "term": "wfh",
-      "count": 1,
-      "share": 0.0149
-    },
-    {
-      "term": "incident",
-      "count": 1,
-      "share": 0.0149
-    },
-    {
-      "term": "problem",
-      "count": 1,
-      "share": 0.0149
+      "term": "web",
+      "count": 2,
+      "share": 0.0312
     },
     {
       "term": "reporting",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "parental",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "leave",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "cover",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
+    },
+    {
+      "term": "broadbeach",
+      "count": 1,
+      "share": 0.0156
     },
     {
       "term": "hubspot",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "founding",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "node.js",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "angular",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "aws",
       "count": 1,
-      "share": 0.0149
-    },
-    {
-      "term": "machine",
-      "count": 1,
-      "share": 0.0149
-    },
-    {
-      "term": "series",
-      "count": 1,
-      "share": 0.0149
-    },
-    {
-      "term": "predictive",
-      "count": 1,
-      "share": 0.0149
-    },
-    {
-      "term": "modelling",
-      "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "ml",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
-      "term": "help",
+      "term": "machine",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
+    },
+    {
+      "term": "learning",
+      "count": 1,
+      "share": 0.0156
+    },
+    {
+      "term": "series",
+      "count": 1,
+      "share": 0.0156
+    },
+    {
+      "term": "predictive",
+      "count": 1,
+      "share": 0.0156
+    },
+    {
+      "term": "modelling",
+      "count": 1,
+      "share": 0.0156
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
+    },
+    {
+      "term": "help",
+      "count": 1,
+      "share": 0.0156
     },
     {
       "term": "operations",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
+    },
+    {
+      "term": "technical",
+      "count": 1,
+      "share": 0.0156
+    },
+    {
+      "term": "facilities",
+      "count": 1,
+      "share": 0.0156
+    },
+    {
+      "term": "partner",
+      "count": 1,
+      "share": 0.0156
     },
     {
       "term": "medical",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "training",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "deployment",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "professionals",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
+    },
+    {
+      "term": "enterprise",
+      "count": 1,
+      "share": 0.0156
     },
     {
       "term": "entity",
       "count": 1,
-      "share": 0.0149
-    },
-    {
-      "term": "network",
-      "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "platforms",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "sr",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "encapsulation",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "operator",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "information",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "services",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "nurse",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "midwifery",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "clinical",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "informatics",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
+    },
+    {
+      "term": "solution",
+      "count": 1,
+      "share": 0.0156
     },
     {
       "term": "consultant",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "apac",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "chapter",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "agentforce",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "inspection",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "maintenance",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "assistant",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "north",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "splicers",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
+    },
+    {
+      "term": "automation",
+      "count": 1,
+      "share": 0.0156
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     }
   ],
   "jobs": [
-    {
-      "job_id": "93197098",
-      "job_title": "Network Support Analyst",
-      "business_name": "Queensland Airports Limited",
-      "work_type": "Full time",
-      "job_type": "Networks & Systems Administration",
-      "pay_range": "",
-      "area": "Bilinga, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93197098",
-      "advertiser_id": "24200181",
-      "posted_date": "2026-07-08T06:31:33Z",
-      "job_description": "<p>As a Network Support Analyst at Queensland Airports Limited, you will play a pivotal role in ensuring the seamless operation of our critical network infrastructure across all QAL-managed airports. Your expertise will be instrumental in maintaining network performance, troubleshooting issues, and implementing improvements to support our dynamic and growing operations.</p>\n\n<p>&nbsp;</p>\n\n<p>Aryan joined the Technology team in 2025 as a Support Analyst and has since moved into a Cyber Security Analyst position. Aryan shares his unique experience working in the QAL team:</p>\n\n<p><i>“I joined QAL because of its strong emphasis on professionalism and teamwork. What I value most is the collaborative culture, where team members actively share knowledge and support one another’s growth.</i></p>\n\n<p><i>QAL provides me with a supportive and motivating environment, and I am proud to be part of the organisation.”</i></p>\n\n<p>&nbsp;</p>\n\n<p><b>How will you make an impact?</b></p>\n\n<p>We're open to applications from recent graduates, as well as candidates with up to 1-2 years' experience in a similar role. You'll have strong customer service and communication skills, with the ability to assist employees and provide basic service desk support and issue resolution.</p>\n\n<p>Strong organisational and administrative skills are essential, enabling you to coordinate contractor engagement paperwork, manage competing priorities, and ensure tasks are completed accurately and on time.</p>\n\n<p>&nbsp;</p>\n\n<p><b>Key deliverables/responsibilities include but are not limited to:</b></p>\n\n<ul>\n\t<li>Administer and maintain local area networks (LANs), wide area networks (WANs), and associated systems.</li>\n\t<li>Perform regular network monitoring to ensure optimal performance and reliability.</li>\n\t<li>Troubleshoot and resolve network-related issues promptly to minimize downtime.</li>\n\t<li>Implement and manage network security protocols to safeguard against unauthorized access and cyber threats.</li>\n\t<li>Ensure compliance with relevant industry standards and regulations.</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><b>How we support you</b></p>\n\n<p>At Queensland Airports Limited (QAL), we believe work should support life, not compete with it. Through our <i>Living Well</i> approach, we offer flexible working options for all roles, wellbeing initiatives and a supportive culture so our people can thrive both professionally and personally.</p>\n\n<p>As we continue to grow and transform, we encourage flexible ways of working and open conversations about how work fits alongside life. We also invest in our people through learning, mentoring and career pathways across our four airports.</p>\n\n<p>&nbsp;</p>\n\n<p><b>What we’ve built together</b></p>\n\n<p>At QAL, our people connect communities. We own and operate Gold Coast, Townsville, Mount Isa and Longreach airports, linking regional Queensland and northern New South Wales with the rest of Australia and the world.</p>\n\n<p>More than 8 million passengers travel through our airports each year, supported by teams working together to create safe, welcoming and efficient experiences. Our vision is to be the first-choice gateway for our regions, creating valuable connections and inspiring a sustainable future.</p>\n\n<p>We’re committed to an inclusive and psychologically safe workplace where people feel valued, supported and encouraged to be themselves. We welcome applications from people of all backgrounds and experiences, including Aboriginal and Torres Strait Islander peoples, and encourage you to apply even if you don’t meet every requirement.</p>\n\n<p>QAL is a WORK180 Endorsed Employer, independently recognised for supporting long‑term careers, flexibility, wellbeing and equal opportunity. Learn more about working at QAL here.</p>\n\n<p>The successful candidate will be required to adhere to QAL’s Drug and Alcohol Management Plan (DAMP), which includes pre-employment Drug and Alcohol Testing and have the ability to obtain an Aviation Security Identification Card (ASIC), which requires the completion of a Police Check.</p>\n\n<p>Please obtain the Position Description by clicking HERE, or if you are on Seek, by copying the following location into your browser to access the Position Description through our careers site: https://qal.elmotalent.com.au/careers/QALcareers/jobshttp://www.qldairports.com.au/.</p>",
-      "keywords": [
-        "network",
-        "support",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "93194146",
-      "job_title": "IT Project Manager | Learning Systems | 6 Month Contract",
-      "business_name": "Limelight People",
-      "work_type": "Contract/Temp",
-      "job_type": "Programme & Project Management",
-      "pay_range": "",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93194146",
-      "advertiser_id": "35360276",
-      "posted_date": "2026-07-08T05:01:13Z",
-      "job_description": "<strong>IT Project Manager:</strong>&nbsp;Limelight People have partnered with a leading organisation within the education sector to recruit an experienced IT Project Manager for an initial <strong>6 month contract</strong>, with a strong likelihood of extension. This is an exciting opportunity to join a high-performing technology division of over 60 IT professionals, delivering strategic Learning Systems initiatives that have a direct impact on the education experience.<br><br> <strong>Why you'll love this opportunity</strong> <ul> <li><strong>Excellent daily rates</strong> with an initial <strong>6-month contract</strong> and strong extension potential.</li> <li><strong>Hybrid working environment</strong> offering the flexibility to work from both home and the office.</li> <li><strong>Lead meaningful technology projects</strong> that support enterprise Learning Systems within a collaborative and forward-thinking IT team.</li> </ul> <strong>IT Project Manager:</strong>&nbsp;You will lead the successful delivery of multiple technology projects across the organisation's Learning Systems portfolio. Working closely with business stakeholders, vendors and technical delivery teams, you will drive project outcomes from initiation through to delivery, ensuring projects are delivered on time, within budget and aligned to business objectives.<br><br> <strong>IT Project Manager:</strong>&nbsp;Key responsibilities include:<br> <ul> <li>Leading end-to-end delivery of technology and business transformation projects.</li> <li>Developing project plans, schedules, budgets and risk management strategies.</li> <li>Managing project governance, reporting and executive stakeholder communication.</li> <li>Coordinating cross-functional teams including Business Analysts, Developers, Architects and Vendors.</li> <li>Driving Agile and hybrid project delivery methodologies.</li> <li>Managing project scope, dependencies, issues and change requests.</li> <li>Ensuring successful implementation of enterprise Learning Systems and related technology initiatives.</li> </ul> <strong>IT Project Manager:</strong>&nbsp;To be successful, you'll ideally have experience with:<br> <ul> <li>End-to-end IT Project Management within complex enterprise environments.</li> <li>Delivery of enterprise applications, business systems or digital transformation projects.</li> <li>Strong stakeholder engagement across executive, business and technical teams.</li> <li>Agile, Waterfall or Hybrid project delivery methodologies.</li> <li>Budget, resource, risk and vendor management.</li> <li>Project governance and executive reporting.</li> <li>Experience delivering Learning Systems, Education Technology or curriculum-related projects will be highly regarded.</li> </ul> <strong>IT Project Manager:</strong>&nbsp;This is an outstanding opportunity to join a leading education organisation undertaking significant investment across its technology landscape. If you're an experienced Project Manager who enjoys delivering complex enterprise projects while working in a collaborative, purpose-driven environment, we'd love to hear from you.<br> If your experience aligns with the above, please apply today.",
-      "keywords": [
-        "it",
-        "project",
-        "manager",
-        "learning",
-        "systems",
-        "month"
-      ]
-    },
-    {
-      "job_id": "93193773",
-      "job_title": "IT Business Analyst - 6 Month Contract - Hybrid WFH",
-      "business_name": "Limelight People",
-      "work_type": "Contract/Temp",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93193773",
-      "advertiser_id": "35360276",
-      "posted_date": "2026-07-08T04:49:08Z",
-      "job_description": "<strong>IT Business Analyst:</strong>&nbsp;An exciting opportunity exists for an experienced IT Business Analyst to join one of Australia's leading education organisations. You'll become part of a high-performing technology division of more than 60 IT professionals, working on the evolution of enterprise Learning Systems that directly support the delivery of education across the organisation.<br><br> <strong>IT Business Analyst:</strong>&nbsp;Working across a diverse portfolio of learning technology initiatives, you will partner with business stakeholders, product owners and technical delivery teams to gather requirements, analyse business processes and deliver innovative technology solutions. You'll play a key role in improving systems that support curriculum delivery, learning experiences and educational outcomes.<br><br> <strong>IT Business Analyst:</strong>&nbsp;Your responsibilities will include:<br> <ul> <li>Eliciting, analysing and documenting business and functional requirements.</li> <li>Running workshops and engaging stakeholders across business and technology teams.</li> <li>Mapping current and future state business processes and identifying opportunities for improvement.</li> <li>Writing user stories, acceptance criteria and functional specifications.</li> <li>Supporting Agile delivery teams through backlog refinement, sprint planning and UAT.</li> <li>Collaborating with developers, solution architects and project managers to deliver high-quality outcomes.</li> <li>Working across multiple enterprise Learning Systems and system integration initiatives.</li> <li>Providing recommendations that improve business processes, user experience and operational efficiency.</li> </ul> <strong>IT Business Analyst:</strong>&nbsp;To be successful, you'll ideally have experience with:<br> <ul> <li>Business Analysis within complex enterprise environments.</li> <li>Requirements gathering, process mapping and business process improvement.</li> <li>Agile delivery methodologies (Scrum/Kanban).</li> <li>User Stories, Acceptance Criteria and UAT.</li> <li>Stakeholder management across technical and non-technical teams.</li> <li>Enterprise applications and systems integration.</li> <li>Jira, Confluence or similar Agile delivery tools.</li> <li>Experience working within the Education sector, Learning Systems or curriculum process related projects will be highly regarded.</li> </ul> <strong>IT Business Analyst:</strong>&nbsp;This is an outstanding opportunity to join a collaborative and forward-thinking technology team where you'll work on meaningful projects that have a direct impact on education. <br><br>You'll enjoy a supportive culture, Hybrid work environment, modern Agile practices, excellent career development opportunities and the chance to contribute to the ongoing transformation of enterprise learning platforms.<br><br>If this role sounds like a good fit, please apply within.",
-      "keywords": [
-        "it",
-        "business",
-        "analyst",
-        "month",
-        "wfh"
-      ]
-    },
-    {
-      "job_id": "93193711",
-      "job_title": "Enterprise Solution Architect - Microsoft EcoSystem - Greenfield Practice",
-      "business_name": "Limelight People",
-      "work_type": "Contract/Temp",
-      "job_type": "Architects",
-      "pay_range": "",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93193711",
-      "advertiser_id": "35360276",
-      "posted_date": "2026-07-08T04:47:34Z",
-      "job_description": "<strong>Enterprise Solution Architect - 6 month contract</strong><br><br>Are you an experienced Enterprise or Solution Architect looking for the opportunity to build an architecture capability from the ground up?<br><br> Limelight People is partnering with a large, Gold Coast based organisation seeking an Enterprise Solution Architect tasked with establishing and embedding a modern architecture practice across its enterprise technology environment.<br><br> This is an influential role where you'll develop the frameworks, artefacts and governance that will shape future technology decisions across the organisation.&nbsp;<br><br> <strong>About the Role</strong> <br><br>Working within a collaborative technology division of approximately 60 IT professionals, you'll partner closely with Business Solutions, Operations, Cyber Security and Infrastructure teams to improve the way technology is designed, governed and evolved.<br><br> Your primary objective will be to establish the organisation's architecture capability by developing practical frameworks, standards and governance that become embedded into day-to-day IT delivery.<br><br><strong> Key responsibilities include:</strong><br><br> <ul> <li>Establish and embed the enterprise solutions architecture practice</li> <li>Develop architecture artefacts, standards, templates and design guidelines</li> <li>Build and maintain architecture principles, reference architectures and decision frameworks</li> <li>Assess and report on enterprise systems health, lifecycle, technical debt and technology risk</li> <li>Improve visibility of application, integration and service dependencies</li> <li>Establish pragmatic architecture governance and Design Authority processes</li> <li>Define integration patterns, API standards and data flow models</li> <li>Support technology projects, procurement activities and strategic investment decisions</li> <li>Coach and mentor technical teams to build architecture capability across the organisation</li> </ul> <br><strong>About You -</strong> You'll be a pragmatic architect who enjoys balancing strategic thinking with hands-on delivery.<br><br><strong> You'll ideally bring:<br></strong><br> <ul> <li>Microsoft Azure and Microsoft 365</li> <li>ServiceNow or enterprise ITSM platforms</li> <li>Cyber security architecture and governance</li> <li>Experience within large, multi-stakeholder organisations</li> <li>Extensive experience as an Enterprise Architect or Senior Solution Architect</li> <li>Experience establishing or maturing an architecture practice within a complex enterprise environment</li> <li>Strong knowledge of enterprise applications, SaaS, cloud platforms and integration architecture</li> <li>Experience developing architecture frameworks, standards and governance models</li> <li>Strong stakeholder engagement skills with the ability to influence technical and executive audiences</li> <li>Experience assessing application portfolios, system health, lifecycle management and technology risk</li> <li>Familiarity working within Agile delivery environments</li> </ul> <br>Please apply if you're passionate about building architecture capability, improving enterprise technology landscapes and influencing strategic technology outcomes.",
-      "keywords": [
-        "enterprise",
-        "solution",
-        "architect",
-        "microsoft",
-        "ecosystem",
-        "greenfield",
-        "practice"
-      ]
-    },
-    {
-      "job_id": "93192268",
-      "job_title": "Software Developer | Gold Coast",
-      "business_name": "SB Recruitment Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "90-100k plus super (depending on experience)",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93192268",
-      "advertiser_id": "25844743",
-      "posted_date": "2026-07-08T04:06:13Z",
-      "job_description": "<strong>Software Developer | Gold Coast</strong><br> SB Recruitment are partnering exclusively with a well established, founder led, growing business to appoint a Software Developer into their growing technology team. With a genuine mix of custom API work, an in house CRM, and new POS feature development on the roadmap, this is a great opportunity for a developer two to four years into their career to build real ownership and grow quickly.<br><br> <strong>The Role...</strong><br> Working across custom APIs, the in house CRM, and the rollout of new POS features, you will get hands on with both front end and backend work. You will build with TypeScript and JavaScript across a modern React front end, alongside Python for backend and serverless development. This is a role for someone who wants to be trusted with real problems early in their career, rather than sitting on the sidelines.<br><br> <strong>What You'll Own...</strong><br> <ul> <li>Feature delivery — work across a feature end to end, from the React front end through to the Python backend</li> <li>Custom API development — build and maintain custom APIs supporting the in house CRM and POS systems</li> <li>CRM and POS work — contribute to ongoing CRM development and the implementation of new POS features</li> <li>Serverless development — build with Azure Functions, or equivalent AWS or GCP experience, with the chance to grow into this if not already strong here</li> <li>Authentication — work with OAuth2 and token based authentication, with exposure to MSAL and Entra ID considered a strong plus rather than a requirement</li> <li>Version control — work within a Git and Azure DevOps environment, following a proper PR review workflow</li> </ul> <strong>What You'll Bring...</strong><br> <ul> <li>Two to four years experience as a full stack or backend developer</li> <li>Strong TypeScript and JavaScript, with solid experience in a modern React front end, React 18 and Vite ideal</li> <li>Strong Python, ideally with some exposure to serverless or event driven services</li> <li>Comfortable with Git and PR based workflows, OAuth2 or MSAL/Entra ID experience a bonus rather than essential</li> <li>A pragmatic approach, clean code, and clear communication in a small, close knit team</li> </ul> <strong>Delivery Priorities...</strong><br> <ul> <li>Get up to speed on the existing CRM architecture and current API landscape</li> <li>Contribute to the rollout of new POS features already in progress</li> <li>Build confidence and autonomy across the full feature lifecycle, front end to backend</li> </ul> <strong>Why This Role...</strong><br> This is a genuine opportunity to build real ownership early in your career, working across meaningful projects rather than maintenance tickets. With a small team, direct exposure to the full stack, and a business that is actively investing in its technology, this is a strong next step for a developer ready to take on more responsibility without needing ten years of experience to get a seat at the table.<br> To find out more you're welcome to call Jenny on <a href=\"tel:02 9002 5005\">02 9002 5005</a> or email <a href=\"mailto:jquigley@sbrecruitment.com\">jquigley@sbrecruitment.com</a>",
-      "keywords": [
-        "software",
-        "developer"
-      ]
-    },
-    {
-      "job_id": "93191817",
-      "job_title": "Automation Specialist",
-      "business_name": "Department of Health - Queensland",
-      "work_type": "Full time",
-      "job_type": "Product Management & Development",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93191817",
-      "advertiser_id": "32285210",
-      "posted_date": "2026-07-08T03:51:04Z",
-      "job_description": "<div>\n \n <p>The Automation Specialist is the technical lead in the design, development, implementation and support of high-quality automation products across the Gold Coast Hospital and Health Service.</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for an <strong>Automation Specialist</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Lead and provide software development and related technical specialist support services</li>\n<li>Design and develop high quality enterprise software application products, components and services</li>\n<li>Ensure appropriate documentation is produced to support and track the project/service effort</li>\n<li>Analyse, identify, and formulate product and service improvements in particular enterprise application services</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, a relevant qualification would be well regarded</li>\n<li>While not mandatory, experience in automating citrix-based applications within a healthcare environment would be well regarded.</li>\n<li>Evidence of vaccination, or be able to be vaccinated against and remain vaccinated against - Measles, Mumps, Rubella, Varicella, Pertussis and Hepatitis B</li>\n<li>Tuberculosis screening, to identify if the tuberculosis vaccination may be required</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $140,115 - $150,371 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028.</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.</p>\n<p>Digital Experience is part of the Digital and Information stream within the division. The service provides:&nbsp;</p>\n<ul>\n<li>Process mining and engineering&nbsp;</li>\n<li>User experience (UX) design&nbsp;</li>\n<li>Software development&nbsp;</li>\n<li>Web development&nbsp;</li>\n<li>Integration / interoperability&nbsp;</li>\n<li>Automation&nbsp;</li>\n<li>Testing&nbsp;</li>\n<li>Digital workflow and adoption support&nbsp;</li>\n</ul>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Wednesday, 5 August 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC687224</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
-      "keywords": [
-        "automation",
-        "specialist"
-      ]
-    },
-    {
-      "job_id": "93191341",
-      "job_title": "Web Developer | Gold Coast",
-      "business_name": "SB Recruitment Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Web Development & Production",
-      "pay_range": "85-95k plus super (depending on experience)",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93191341",
-      "advertiser_id": "25844743",
-      "posted_date": "2026-07-08T03:45:38Z",
-      "job_description": "SB Recruitment are partnering exclusively with a well established, founder led, successful business to appoint a Web Developer into their growing team. With a loyal customer base and a clear mandate from leadership to modernise their digital presence, this is a hands on role with real ownership from day one.<br> The successful candidate will take responsibility for upgrading and maintaining a portfolio of existing websites, working closely with the business's SEO specialist to build out customer tracking and drive measurable improvements in site performance.<br><br> <strong>The Role...</strong><br> Reporting into the IT Manager, you will take ownership of five existing WordPress and WooCommerce websites, currently in need of a full upgrade. This starts as a project to bring each site up to modern standards, transitioning into an ongoing maintenance role once the upgrade work is complete. You will work alongside the SEO specialist to track customer data and build the reporting infrastructure to support it.<br><br> <strong>What You'll Own...</strong><br> <ul> <li>Website upgrades — audit and rebuild five existing WordPress and WooCommerce sites, improving speed, structure and usability</li> <li>Custom development — build and maintain custom themes and plugins, not limited to page builder templates</li> <li>Payment and integrations — implement and maintain payment gateways and third party API integrations within WooCommerce</li> <li>Performance, accessibility and SEO — apply front end best practice across all sites, and work with the SEO specialist to support organic visibility</li> <li>Customer data tracking — build and maintain the tracking infrastructure needed to capture and report on customer behaviour</li> <li>Release management — manage a controlled staging to production process using Git, protecting site stability with every deployment</li> <li>Ongoing maintenance — once upgrades are complete, take ownership of day to day site health, updates and support</li> </ul> <strong>What You'll Bring...</strong><br> <ul> <li>Solid commercial experience building and maintaining WordPress and WooCommerce sites</li> <li>Strong PHP, plus HTML, CSS and JavaScript, with genuine custom theme and plugin development experience</li> <li>Experience integrating payment gateways and third party APIs into WooCommerce</li> <li>A solid grasp of front end performance, accessibility and SEO fundamentals</li> <li>Comfortable working with Git and a controlled release process</li> <li>Graduate level through to 2 plus years experience, ideal for someone ready to take real ownership early in their career</li> </ul> <strong>Delivery Priorities...</strong><br> <ul> <li>Audit all five existing websites and prioritise the upgrade roadmap</li> <li>Begin the rebuild of the highest priority sites, working to modern performance and accessibility standards</li> <li>Establish a proper staging to production workflow if one is not already in place</li> <li>Work with the SEO specialist to scope and build out customer tracking</li> </ul> <strong>Why This Role...</strong><br> This is a rare opportunity to take full ownership of a website portfolio from day one, with a clear project scope and a direct path into an ongoing role once the upgrade work lands. If you are seeking a business that is genuinely investing in its digital presence, and the chance to build something properly rather than patch it, this is the role for you.<br> To find out more you're welcome to call Jenny on <a href=\"tel:02 9002 5005\">02 9002 5005</a> or email <a href=\"mailto:jquigley@sbrecruitment.com\">jquigley@sbrecruitment.com</a>",
-      "keywords": [
-        "web",
-        "developer"
-      ]
-    },
-    {
-      "job_id": "93189817",
-      "job_title": "Technical Lead - Broadbeach, QLD",
-      "business_name": "Ignite",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "",
-      "area": "Broadbeach, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93189817",
-      "advertiser_id": "55324746",
-      "posted_date": "2026-07-08T03:08:40Z",
-      "job_description": "<p>&nbsp;</p>\n<p>&nbsp;We are looking for a Technical Lead to provide day-to-day technical leadership of software engineering across our development team, spanning the full software development life cycle: analysis, design, build, test, release and support. This is a senior individual-contributor role for a versatile engineer who moves fluidly between maintaining the Azure platform our systems run on and delivering hands-on full-stack engineering across our new customer-facing booking applications (B2C, B2E, B2B), with the balance shifting as business priorities change. You will hold autonomy over technical decisions for the team, working closely with the Head of Engineering, our Solution Architect, and the wider engineering group.</p>\n<p>&nbsp;</p>\n<p><strong>A day in the life:</strong></p>\n<ul>\n<li>Deliver hands-on full-stack engineering across B2X applications, prioritising customer-facing booking (React/TypeScript and .NET on Azure)</li>\n<li>Maintain and operate the Azure platform (Container Apps, API Management, Key Vault, networking, Bicep) to ensure security and reliability</li>\n<li>Build integrations between applications and Connect/Commerce APIs to enable dynamic booking functionality</li>\n<li>Lead adoption of AI-powered engineering tools (e.g., Claude Code, GitHub Copilot), setting standards and uplifting team capability</li>\n<li>Provide technical leadership in agile teams, ensuring high-quality, secure, and maintainable code through peer reviews</li>\n<li>Apply best practices for scalability, performance, and security, including PCI compliance and data privacy</li>\n<li>Collaborate with the Solution Architect to align engineering delivery with architecture standards</li>\n<li>Contribute to a safe, inclusive, and accessible work environment where all Flighties feel welcomed, respected, and supported to thrive</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Who you are:</strong></p>\n<ul>\n<li>Strong proficiency in agentic software engineering using AI tools (e.g., Claude Code, GitHub Copilot)</li>\n<li>Extensive experience with Azure cloud platforms and infrastructure (Container Apps, API Management, networking, Bicep)</li>\n<li>Strong full-stack experience: .NET backend and modern JavaScript frameworks (React, TypeScript)</li>\n<li>Minimum 5 years’ experience as a Technical Lead or similar role delivering high-quality software</li>\n<li>Experience with CI/CD tools (Azure DevOps, GitHub Actions, Octopus Deploy) and version control (Git)</li>\n<li>Strong experience with REST APIs, integration, and API lifecycle management</li>\n<li>Strong expertise in Entity Framework, SQL, data modelling, and OOP principles</li>\n<li>Desirable: Experience with Dynamics 365 Business Central, test automation, AWS, and observability tools (e.g., Grafana)</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>What you'll enjoy:</strong></p>\n<p>&nbsp;</p>\n<div>\n<p>📚 Ongoing skills development</p>\n</div>\n<div>\n<p>🚀 Catapult your career across a network of brands and businesses in an evolving industry</p>\n</div>\n<div>\n<p>✈️ Say no to full price! Nab discounts on travel and more thanks to our sweet rewards program</p>\n</div>\n<div>\n<p>👩‍⚕️ Access to industry leading health and well - being programs and financial advisors</p>\n</div>\n<div>\n<p>🌴 Set up shop in a swanky beachfront office in Broadbeach</p>\n</div>\n<div>\n<p>💃🏿 Enjoy social events to promote networking, celebration of wins, and sometimes just for fun!</p>\n</div>\n<div>\n<p>&nbsp;👐🏻 Take volunteer leave as part of giving back to the local community</p>\n<p> #LI-KP1#IGNT#LI-Onsite </p>\n</div>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
-      "keywords": [
-        "technical",
-        "broadbeach"
-      ]
-    },
-    {
-      "job_id": "93188061",
-      "job_title": "Automation Specialist",
-      "business_name": "Gold Coast Hospital & Health Service",
-      "work_type": "Full time",
-      "job_type": "Engineering - Software",
-      "pay_range": "$140,115 - $150,371 per annum + 12.75% super",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93188061",
-      "advertiser_id": "32285403",
-      "posted_date": "2026-07-08T02:30:21Z",
-      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for an <strong>Automation Specialist</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Lead and provide software development and related technical specialist support services</li>\n<li>Design and develop high quality enterprise software application products, components and services</li>\n<li>Ensure appropriate documentation is produced to support and track the project/service effort</li>\n<li>Analyse, identify, and formulate product and service improvements in particular enterprise application services</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, a relevant qualification would be well regarded</li>\n<li>While not mandatory, experience in automating citrix-based applications within a healthcare environment would be well regarded.</li>\n<li>Evidence of vaccination, or be able to be vaccinated against and remain vaccinated against - Measles, Mumps, Rubella, Varicella, Pertussis and Hepatitis B</li>\n<li>Tuberculosis screening, to identify if the tuberculosis vaccination may be required</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $140,115 - $150,371 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028.</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.</p>\n<p>Digital Experience is part of the Digital and Information stream within the division. The service provides:&nbsp;</p>\n<ul>\n<li>Process mining and engineering&nbsp;</li>\n<li>User experience (UX) design&nbsp;</li>\n<li>Software development&nbsp;</li>\n<li>Web development&nbsp;</li>\n<li>Integration / interoperability&nbsp;</li>\n<li>Automation&nbsp;</li>\n<li>Testing&nbsp;</li>\n<li>Digital workflow and adoption support&nbsp;</li>\n</ul>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Wednesday, 5 August 2026</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC687224</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
-      "keywords": [
-        "automation",
-        "specialist"
-      ]
-    },
-    {
-      "job_id": "93181962",
-      "job_title": "Incident and Problem Analyst",
-      "business_name": "City of Gold Coast",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "$111,401-$117,924 p/a plus superannuation",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93181962",
-      "advertiser_id": "16652581",
-      "posted_date": "2026-07-07T21:31:34Z",
-      "job_description": "<ul> <li><strong>Full Time | 9-day fortnight | 36 hours per week </strong></li> <li> <strong>Salary: </strong>From $101,616 - $108,140 per annum plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG1905/assets/31728529\">Incident and Problem Analyst</a> </li> </ul><p> </p><p><strong>About the team</strong></p><p>We're entering a new chapter for the Chief Technology Office at the City of Gold Coast as we deliver bold, future-focused solutions. With the launch of our IT Operating Model and the transition of critical IT services in-house, we are transforming the way we deliver technology, making it faster, more responsive, and more aligned with the needs of our organisation and customers.</p><p>As part of this transformation, we're hiring multiple new positions. These roles are key to shaping a vibrant and forward-thinking Chief Technology Office, one that adds real value, delivers better outcomes, and works in smarter, more agile ways.</p><p>The ICT Strategy &amp; Portfolio team plays a central role in helping the CTO run technology like a business. We connect strategy, investment, delivery and performance, providing transparency across cost, value and outcomes to support better decisions</p><p>If you’re equally excited about innovation, transformation, and making a meaningful impact, now is the perfect time to join us</p><p><strong>About the role </strong></p><p>We are seeking an experienced and proactive Incident and Problem Analyst to support the effective handling, resolution and analysis of ICT incidents and problems across the organisation.</p><p>This role plays a critical part in restoring normal service operations as quickly as possible, identifying root causes, and preventing recurrence — ensuring high availability, reliability and strong user satisfaction across ICT services.</p><p>Working within an ITIL-aligned environment, you will contribute to operational excellence and continuous service improvement.</p><p>As the Incident and Problem Analyst, you will monitor, coordinate and analyse incidents across the ICT environment. You will ensure accurate categorisation and prioritisation in line with SLAs, collaborate with technical teams to drive timely resolution, and support structured root cause analysis for recurring issues.</p><p>You will maintain problem and known error records, generate performance reporting, and actively contribute to service improvement initiatives.</p><p>This role requires strong coordination, stakeholder engagement and analytical capability, particularly in high-priority or high-impact situations.</p><p><strong>We’re looking for people who have: </strong></p><ul> <li>5+ years’ ICT experience in an IT service operational support role within an ITIL environment.</li> <li>Strong ICT coordination and operational management skills.</li> <li>Excellent communication and negotiation skills.</li> <li>Strong stakeholder engagement capability across technical and business teams.</li> <li>Demonstrated leadership capability in managing incidents and driving resolution outcomes.</li> </ul><p><strong>Desirable:</strong></p><ul> <li>ITIL, SIAM and/or contract/vendor management experience or certifications.</li> <li>Prince2, Agile, Six Sigma, Lean and/or Cyber Security experience or certifications.</li> </ul><p><strong>Be part of shaping the Gold Coast’s future </strong></p><p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p><p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p><ul> <li> <p>9-day fortnight </p> </li> </ul><ul> <li> <p>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations </p> </li> </ul><ul> <li> <p>Personal and professional development courses </p> </li> </ul><ul> <li> <p>Access to 350+ fitness facilities through Fitness Passport </p> </li> </ul><ul> <li> <p>4 free confidential counselling sessions a year for you or an immediate family member </p> </li> </ul><ul> <li> <p>1 free nutritionist and financial advice session per year </p> </li> </ul><p> We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community.</p><p> <strong>How to apply</strong></p><p>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p><p><strong>Contact Person</strong> Ashley Shannon </p><p><strong>Contact Email</strong> <a href=\"mailto:ashannon@goldcoast.qld.gov.au\">ashannon@goldcoast.qld.gov.au</a></p><p><strong>Closing Date</strong> Sunday 19h July 2026/ 11:59pm AEDT </p><p> </p><p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
-      "keywords": [
-        "incident",
-        "problem",
-        "analyst"
-      ]
-    },
     {
       "job_id": "93175638",
       "job_title": "Senior Project Manager",
@@ -1017,6 +788,44 @@
       ]
     },
     {
+      "job_id": "93044885",
+      "job_title": "Digital Support Specialist",
+      "business_name": "Mater Group",
+      "work_type": "Contract/Temp",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "$46.96 - $51.73 per hour + Super",
+      "area": "Broadbeach, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93044885",
+      "advertiser_id": "20898315",
+      "posted_date": "2026-07-01T00:35:17Z",
+      "job_description": "<p><strong>About the role</strong></p>\n<p><strong>Mater's Digital Technology &amp; Information </strong>team is seeking a <strong>Digital Support Specialist</strong> to join our Gold Coast based team in a <strong>full-time, 12 month maximum-term position</strong> based at our <strong>Gold Coast Office</strong>.</p>\n<p>This is an exciting opportunity to play a key role in supporting Mater's continued growth, including major workforce expansion across Mater Hospital Springfield and the Gold Coast. Working within a fast-paced healthcare environment, you'll provide expert technical support, resolve complex IT issues, and help ensure our people have the digital tools they need to deliver exceptional patient care.</p>\n<p><strong>Salary range: $46.96 - $51.73 per hour</strong> <a href=\"https://www.ato.gov.au/tax-rates-and-codes/key-superannuation-rates-and-thresholds/super-guarantee\">plus superannuation</a> <strong>and&nbsp;</strong><a href=\"https://account.smartsalary.com.au/benefits-available?ercode=MML\">access to not-for-profit salary packaging up to $15,900</a><strong>&nbsp;&nbsp;+&nbsp;</strong><a href=\"https://www.mater.org.au/group/careers/working-with-mater\">access to many staff benefits!&nbsp;</a></p>\n<p><strong>What you’ll be doing</strong></p>\n<p>As a Digital Support Specialist, you'll provide advanced technical support while contributing to the ongoing success and improvement of Mater's Digital Service Centre.</p>\n<p>In this role, you will:</p>\n<ul>\n<li>Investigate and resolve complex desktop, application, hardware, and technology-related issues</li>\n<li>Provide Level 1 and Level 2 support across desktop, audio-visual, telephony, networking, and mobile technologies</li>\n<li>Deliver support via phone, digital channels, and face-to-face interactions</li>\n<li>Install, configure, and upgrade IT equipment including computers, printers, AV equipment, and other technology devices</li>\n<li>Assist with system upgrades, technology deployments, and approved change activities</li>\n<li>Maintain accurate documentation, knowledge articles, and service records</li>\n<li>Support IT asset management processes and equipment lifecycle activities</li>\n<li>Provide technical guidance and mentoring to Digital Support Officers and Service Centre team members</li>\n<li>Collaborate with specialist technical teams to identify opportunities for service improvement</li>\n<li>Participate in an after-hours on-call support roster</li>\n</ul>\n<p><strong>About you</strong></p>\n<p>You are a customer-focused IT professional who enjoys solving complex technical problems and supporting people in a busy, service-driven environment. You bring strong troubleshooting capability, excellent communication skills, and a commitment to delivering high-quality support.</p>\n<p>You will bring:</p>\n<ul>\n<li>Certificate II or III in Information Technology, or equivalent industry experience</li>\n<li>ITIL Foundation certification (Version 3 or 4)</li>\n<li>Minimum four years' experience in a Service Desk, Desktop Support, or IT Support role</li>\n<li>Experience supporting end users within large and complex organisations</li>\n<li>Strong knowledge of Microsoft operating systems, Active Directory, networking, desktop hardware, and audio-visual technologies</li>\n<li>Demonstrated ability to diagnose and resolve technical issues across a broad range of technologies</li>\n<li>Excellent communication and stakeholder engagement skills</li>\n<li>Strong organisational skills with the ability to prioritise competing demands</li>\n<li>A collaborative approach and willingness to support and mentor team members</li>\n<li>Relevant tertiary qualifications and industry certifications (such as A+, Network+, or Microsoft certifications) will be highly regarded</li>\n</ul>\n<p><strong>Why join us?</strong></p>\n<p><a href=\"https://www.mater.org.au/\">Mater</a>&nbsp;is Queensland’s largest not-for-profit healthcare provider, delivering exceptional care to nearly 700,000 patients each year across 11 (soon to be 12) hospitals. We’re leaders in&nbsp;<a href=\"https://www.mater.org.au/health/hospitals/mater-private-hospital-rockhampton\">healthcare</a>,&nbsp;<a href=\"https://www.matereducation.qld.edu.au/\">education</a>, &nbsp;<a href=\"https://www.materfoundation.org.au/\">fundraising &amp; philanthropy</a>&nbsp;and&nbsp;<a href=\"https://www.materresearch.org.au/\">research</a>&nbsp;— and it’s our people who make the difference.</p>\n<p>We’re looking for passionate individuals to join our team and help shape the future of care. At Mater, you’ll be part of a purpose-driven organisation that values innovation, compassion, and excellence.</p>\n<ul>\n<li><strong>Increase your take-home pay</strong>&nbsp;with generous salary packaging options, including meal and entertainment benefits</li>\n<li><strong>Grow your career</strong>&nbsp;with access to industry-leading training and professional development through Mater Education</li>\n<li><strong>Wellbeing support</strong>&nbsp;through our Employee Assistance Program and on-site pastoral care teams</li>\n<li><strong>Access a range of health and wellbeing services</strong>&nbsp;with a corporate discount on private health insurance</li>\n<li><strong>Exclusive discounts</strong>&nbsp;across dining, retail, travel, accommodation (just to name a few!)</li>\n<li><strong>Stay active</strong>&nbsp;with unlimited access to discounted gyms via the Fitness Passport program</li>\n<li><strong>Convenient, discounted on-site parking</strong></li>\n<li><strong>Enjoy great food</strong>&nbsp;with reduced prices at our campus cafés and coffee spots</li>\n<li><strong>Join Queensland’s Largest and Most Innovative Not-for-Profit Healthcare Team</strong></li>\n</ul>\n<p>Be part of something bigger.&nbsp;<a href=\"https://www.mater.org.au/about-us/careers\">Make your move with Mater</a>.&nbsp;<strong>#GETBETTERWITHMATER</strong></p>\n<p><em>Applications close&nbsp;</em><strong>Wednesday the 8th of July 2026&nbsp;</strong><em>–please note, we may contact applicants prior to the closing date, please do not hesitate to APPLY NOW.</em></p>\n<p><strong><em>Direct applications only</em></strong><em>&nbsp;— we are not engaging recruitment agencies at this time. All successful candidates may be required to complete pre‑employment checks (including criminal history, working rights, medical and working with children checks).</em></p>\n<p><em>Mater offers a safe, supportive, flexible and inclusive workplace where everyone is valued. We welcome applications from people of all backgrounds and abilities.&nbsp;Visit our&nbsp;</em><a href=\"https://www.mater.org.au/about-us/who-we-are/reconciliation\"><em>Reconciliation webpage</em></a><em>.&nbsp;</em></p>\n<p><em>Mater ensures all children have an environment suitable for their safety and wellbeing through proper supervision and safeguarding practices.</em></p>",
+      "keywords": [
+        "digital",
+        "support",
+        "specialist"
+      ]
+    },
+    {
+      "job_id": "93044518",
+      "job_title": "Digital Facilities Partner",
+      "business_name": "Mater Group",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "$54.75 - $59.38 per hour + Super",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93044518",
+      "advertiser_id": "20898315",
+      "posted_date": "2026-07-01T00:28:30Z",
+      "job_description": "<p><strong>About the role</strong></p>\n<p><strong>Mater Private Hospital Gold Coast</strong><strong> is hiring a </strong><strong>Digital Facilities Partner</strong><strong> to join their team. </strong>In this role you will provide both leadership and technical expertise to drive the effective delivery of IT services at Mater Private Hospital Gold Coast.</p>\n<p>Leading a small, dedicated front-line team, you will offer guidance and operational oversight to ensure exceptional customer support. Your role is pivotal in fostering scalable, reliable, and high-quality IT support that consistently meets the evolving needs at Mater.</p>\n<p>This is a <strong>permanent, full-time&nbsp;</strong>position based on the <strong>Gold Coast</strong>.</p>\n<p><strong>Salary range: $54.75 - $59.38 </strong><a href=\"https://www.ato.gov.au/tax-rates-and-codes/key-superannuation-rates-and-thresholds/super-guarantee\">plus superannuation</a> <strong>and&nbsp;</strong><a href=\"https://account.smartsalary.com.au/benefits-available?ercode=MML\">access to not-for-profit salary packaging up to $15,900</a><strong>&nbsp;&nbsp;+&nbsp;</strong><a href=\"https://www.mater.org.au/group/careers/working-with-mater\">access to many staff benefits!&nbsp;</a></p>\n<p><strong>What you’ll be doing</strong></p>\n<ul>\n<li>Serve as a subject matter expert across digital, audio-visual, biomedical, and built environment technologies</li>\n<li>Manage work queues, allocate resources, and provide hands-on support during high-demand periods</li>\n<li>Oversee IT asset management, ensuring compliance with processes and guidelines</li>\n<li>Build and maintain strong relationships with site leadership through clear, consistent communication</li>\n<li>Lead knowledge management initiatives, including mentoring staff and maintaining self-service resources</li>\n<li>Support incident, problem, and change management activities, including after-hours on-call support</li>\n<li>Participate in root cause analysis and post-incident reviews to drive continuous improvement</li>\n<li>Contribute to technical design, escalate complex issues, and provide Level 3 support</li>\n<li>Identify training needs, deliver development programs, and maintain the Service Centre skills matrix</li>\n<li>Coordinate customer feedback surveys, analyse results, and recommend service enhancements</li>\n</ul>\n<p><strong>About you&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p>\n<ul>\n<li>Relevant tertiary degree in IT or related field</li>\n<li>ITIL V3 or V4 Foundation certification required</li>\n<li>Additional certifications such as A+, Network+, or Microsoft Certified Professional advantageous</li>\n<li>Minimum 3 years’ experience in digital service delivery or corporate IT support</li>\n<li>Proven experience supporting service desk, audio-visual, and desktop environments in large, complex organisations</li>\n<li>Strong ability to provide leadership and mentor a small team</li>\n<li>Ability to train and support advanced hardware and software troubleshooting</li>\n<li>Commitment to delivering service excellence and fostering team development</li>\n</ul>\n<p><strong>Why join us?</strong></p>\n<p><a href=\"https://www.mater.org.au/\">Mater</a>&nbsp;is Queensland’s largest not-for-profit healthcare provider, delivering exceptional care to nearly 700,000 patients each year across 11 (soon to be 12) hospitals. We’re leaders in&nbsp;<a href=\"https://www.mater.org.au/health/hospitals/mater-private-hospital-rockhampton\">healthcare</a>,&nbsp;<a href=\"https://www.matereducation.qld.edu.au/\">education</a>, &nbsp;<a href=\"https://www.materfoundation.org.au/\">fundraising &amp; philanthropy</a>&nbsp;and&nbsp;<a href=\"https://www.materresearch.org.au/\">research</a>&nbsp;— and it’s our people who make the difference.</p>\n<p>We’re looking for passionate individuals to join our team and help shape the future of care. At Mater, you’ll be part of a purpose-driven organisation that values innovation, compassion, and excellence.</p>\n<ul>\n<li><strong>Increase your take-home pay</strong>&nbsp;with generous salary packaging options, including meal and entertainment benefits</li>\n<li><strong>Grow your career</strong>&nbsp;with access to industry-leading training and professional development through Mater Education</li>\n<li><strong>Wellbeing support</strong>&nbsp;through our Employee Assistance Program and on-site pastoral care teams</li>\n<li><strong>Access a range of health and wellbeing services</strong>&nbsp;with a corporate discount on private health insurance</li>\n<li><strong>Exclusive discounts</strong>&nbsp;across dining, retail, travel, accommodation (just to name a few!)</li>\n<li><strong>Stay active</strong>&nbsp;with unlimited access to discounted gyms via the Fitness Passport program</li>\n<li><strong>Convenient, discounted on-site parking</strong></li>\n<li><strong>Enjoy great food</strong>&nbsp;with reduced prices at our campus cafés and coffee spots</li>\n<li><strong>Join Queensland’s Largest and Most Innovative Not-for-Profit Healthcare Team</strong></li>\n</ul>\n<p>Be part of something bigger.&nbsp;<a href=\"https://www.mater.org.au/about-us/careers\">Make your move with Mater</a>.&nbsp;<strong>#GETBETTERWITHMATER</strong></p>\n<p><em>Applications close&nbsp;</em><strong>Wednesday the 8th of July 2026&nbsp;</strong><em>–please note, we may contact applicants prior to the closing date, please do not hesitate to APPLY NOW.</em></p>\n<p><strong><em>Direct applications only</em></strong><em>&nbsp;— we are not engaging recruitment agencies at this time. All successful candidates may be required to complete pre‑employment checks (including criminal history, working rights, medical and working with children checks).</em></p>\n<p><em>Mater offers a safe, supportive, flexible and inclusive workplace where everyone is valued. We welcome applications from people of all backgrounds and abilities.&nbsp;Visit our&nbsp;</em><a href=\"https://www.mater.org.au/about-us/who-we-are/reconciliation\"><em>Reconciliation webpage</em></a><em>.&nbsp;</em></p>\n<p><em>Mater ensures all children have an environment suitable for their safety and wellbeing through proper supervision and safeguarding practices.</em></p>\n<p>&nbsp;</p>",
+      "keywords": [
+        "digital",
+        "facilities",
+        "partner"
+      ]
+    },
+    {
       "job_id": "93043979",
       "job_title": "Infrastructure & Systems Administrator",
       "business_name": "Buildsafe Queensland Pty Ltd",
@@ -1150,6 +959,24 @@
       ]
     },
     {
+      "job_id": "93003180",
+      "job_title": "Senior Platform Engineer",
+      "business_name": "Southern Cross University",
+      "work_type": "Contract/Temp",
+      "job_type": "Engineering - Network",
+      "pay_range": "",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93003180",
+      "advertiser_id": "15012749",
+      "posted_date": "2026-06-29T06:13:48Z",
+      "job_description": "<div><div>\n<ul>\n<li>Design, deliver major network infrastructure projects in an enterprise environment</li>\n<li>Modern technologies - cloud networking, security, wireless, LAN, WAN and voice</li>\n<li>Senior engineering role with enterprise scope and strong project ownership</li>\n</ul>\n<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing Southern Cross Model brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity </strong></p>\n<p>Southern Cross University is continuing to strengthen its enterprise technology platforms to support innovative teaching, research and student experiences. As a Senior Platform Engineer, you will play a key role in designing, implementing and improving the University’s enterprise network infrastructure across multiple campuses.</p>\n<p>Working within a team of five technical engineers, you will contribute to major infrastructure initiatives while maintaining highly secure, resilient and scalable network services. This role offers the opportunity to work across a modern technology stack including, WAN, LAN, cloud networking, security platforms, wireless infrastructure and voice services, while collaborating closely with internal teams and external vendors.</p>\n<p>You will make an impact by:</p>\n<ul>\n<li> Designing and implementing enterprise network infrastructure and major platform improvements</li>\n<li> Supporting secure, reliable network services across on-premise, private cloud and Azure environments</li>\n<li> Leading complex engineering work and providing senior technical guidance within the team</li>\n<li> Collaborating with vendors and internal stakeholders to deliver scalable, resilient technology solutions</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<p>You are an experienced Network or Platform Engineer working within a mid-to-large enterprise environment where you contribute to both day-to-day operations and major infrastructure projects. You enjoy solving complex technical challenges, communicating clearly with stakeholders and delivering reliable, secure network services.</p>\n<p>To succeed in this role, you will also need: </p>\n<ul>\n<li> Undergraduate qualifications in Information Technology, and/or with 4+ years’ experience working in a relevant ICT related field such as network engineering or platform infrastructure </li>\n<li> Strong experience designing and supporting network switching and WiFi infrastructure within enterprise environments</li>\n<li> Knowledge of contemporary network security standards across on-premise, private cloud and Azure environments</li>\n<li> Experience provisioning, administering and troubleshooting enterprise network infrastructure</li>\n<li> Strong communication skills with the ability to work effectively with technical vendors, stakeholders and end-users, with the ability to deliver customer-focused technical support</li>\n<li> Experience working in a higher education or similarly complex organisation, and exposure to enterprise network design, routing protocols, NGFW, ZTNA or load balancing technologies will be highly regarded.</li>\n<li> A current NSW Working with Children Check</li>\n</ul>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the Gold Coast, Coffs Harbour and the Northern Rivers region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li> Full-time, fixed term (23 months)</li>\n<li> Located at Coffs Harbour, NSW 2450.</li>\n<li> HEW Level 7. The base salary ranges from $108,361 - $117,660 per annum, plus 17% employer’s contribution to superannuation. The total remuneration package is up to $137,662.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit Why work at Southern Cross University?</p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>Name: Vivian Cormier</p>\n<p>Email: <a href=\"mailto:Jobs@scu.edu.au\">Jobs@scu.edu.au</a> </p>\n<p><strong>Applications close 11.30pm AEDT 13 July 2026.</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. Employer visa sponsorship is not available for this position. </p>\n<p>Applicants must apply online and attach a CV and cover letter. The cover letter must clearly address each selection criterion in the position description. Information to support you prepare your application is available on our website.&nbsp; &nbsp;</p>\n<p>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to <a href=\"mailto:jobs@scu.edu.au\">jobs@scu.edu.au</a>.</p>\n<p>#LI-VC1</p>\n<p>#CH</p>\n<p>\nPosition Description Opens in new window\n</p>\n</div></div>",
+      "keywords": [
+        "platform",
+        "engineer"
+      ]
+    },
+    {
       "job_id": "93001776",
       "job_title": "Platform Engineer - Infrastructure Platforms",
       "business_name": "Southern Cross University",
@@ -1230,6 +1057,24 @@
       ]
     },
     {
+      "job_id": "92950372",
+      "job_title": "Senior Project Manager",
+      "business_name": "Department of Health - Queensland",
+      "work_type": "Full time",
+      "job_type": "Programme & Project Management",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92950372",
+      "advertiser_id": "32285210",
+      "posted_date": "2026-06-25T09:27:08Z",
+      "job_description": "<div>\n \n <p>You will be responsible for managing large scale, complex digital projects by ensuring successful completion within agreed performance criteria.</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Senior Project Manager </strong>to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide authoritative and timely updates and advice to stakeholders on large scale and/or complex Digital Projects</li>\n<li>Deliver change management, project management and project delivery services for larger scale and/or complex digital projects</li>\n<li>Develop business cases, project plans, progress reports and closure reports for large scale, complex digital projects</li>\n<li>Engage and collaborate with stakeholders to manage the definition, documentation and evaluation of prototypes/pilots of innovative digital solutions</li>\n<li>Lead complex project planning and the delivery of digital initiatives</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, the following would be well regarded:</li>\n</ul>\n<ul>\n<li>Qualifications or formal training in waterfall and agile project management methodologies is highly desirable.</li>\n<li>Proven experience in leading digital or ICT-enabled projects is highly desirable.</li>\n</ul>\n<ul>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $140,115 - $150,371 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The DHI (Digital Health and Innovation) portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.</p>\n<p>DHI is responsible for enhancing efficiency and service delivery improvements to optimise Health Service performance. It also oversees strategic partnerships that help the Health Service implement alternative models of service delivery, ensuring value for money, and driving improvements in performance, and innovation.</p>\n<p>Technology Operations is part of the Digital and Information stream within the division. The service provides:</p>\n<ul>\n<li>Application change requests and optimisation</li>\n<li>Application hosting services</li>\n<li>Applications management and provisioning</li>\n<li>Audio-visual support services</li>\n<li>Clinical system workflow support and adoption</li>\n<li>Cyber security services and support</li>\n<li>Digital architecture services</li>\n<li>End user support services</li>\n<li>Hospital technology infrastructure services</li>\n<li>Incident and problem management</li>\n<li>Technical change management</li>\n<li>Technical and integration specialist support</li>\n</ul>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Wednesday, 8 July 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC686456</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
+      "keywords": [
+        "project",
+        "manager"
+      ]
+    },
+    {
       "job_id": "92942174",
       "job_title": "Senior ICT Officer",
       "business_name": "Brisbane Catholic Education",
@@ -1245,6 +1090,24 @@
       "keywords": [
         "ict",
         "officer"
+      ]
+    },
+    {
+      "job_id": "92938853",
+      "job_title": "Senior Project Manager",
+      "business_name": "Gold Coast Hospital & Health Service",
+      "work_type": "Full time",
+      "job_type": "Programme & Project Management",
+      "pay_range": "$140,115 - $150,371 per annum + 12.75% super",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92938853",
+      "advertiser_id": "32285403",
+      "posted_date": "2026-06-25T03:25:20Z",
+      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Senior Project Manager </strong>to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide authoritative and timely updates and advice to stakeholders on large scale and/or complex Digital Projects</li>\n<li>Deliver change management, project management and project delivery services for larger scale and/or complex digital projects</li>\n<li>Develop business cases, project plans, progress reports and closure reports for large scale, complex digital projects</li>\n<li>Engage and collaborate with stakeholders to manage the definition, documentation and evaluation of prototypes/pilots of innovative digital solutions</li>\n<li>Lead complex project planning and the delivery of digital initiatives</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, the following would be well regarded:</li>\n</ul>\n<ul>\n<li>Qualifications or formal training in waterfall and agile project management methodologies is highly desirable.</li>\n<li>Proven experience in leading digital or ICT-enabled projects is highly desirable.</li>\n</ul>\n<ul>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $140,115 - $150,371 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The DHI (Digital Health and Innovation) portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.</p>\n<p>DHI is responsible for enhancing efficiency and service delivery improvements to optimise Health Service performance. It also oversees strategic partnerships that help the Health Service implement alternative models of service delivery, ensuring value for money, and driving improvements in performance, and innovation.</p>\n<p>Technology Operations is part of the Digital and Information stream within the division. The service provides:</p>\n<ul>\n<li>Application change requests and optimisation</li>\n<li>Application hosting services</li>\n<li>Applications management and provisioning</li>\n<li>Audio-visual support services</li>\n<li>Clinical system workflow support and adoption</li>\n<li>Cyber security services and support</li>\n<li>Digital architecture services</li>\n<li>End user support services</li>\n<li>Hospital technology infrastructure services</li>\n<li>Incident and problem management</li>\n<li>Technical change management</li>\n<li>Technical and integration specialist support</li>\n</ul>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Wednesday, 8 July 2026</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC686456</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
+      "keywords": [
+        "project",
+        "manager"
       ]
     },
     {
@@ -1398,6 +1261,25 @@
         "development",
         "course",
         "coach"
+      ]
+    },
+    {
+      "job_id": "92847058",
+      "job_title": "SERVICE DESK TECHNICIAN II",
+      "business_name": "Fibrecycle",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "$0 - $0",
+      "area": "Helensvale, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92847058",
+      "advertiser_id": "43359605",
+      "posted_date": "2026-06-21T22:24:14Z",
+      "job_description": "<p></p><p>Founded in 1927, KENT WORLDWIDE is a family-owned US company built around specialty ingredients and consumer brands. Over the years, the business has become known around the world for our strength in manufacturing and marketing.</p>\n<p>At Kent Consumer Brands APAC, our ambition is to create joyful memories every day, for everybody, around the world. For nearly a century, our core values of Honesty, Quality, Safety, Timeliness, Win Win Partnerships and Curiosity have shaped our culture and long-term success.</p>\n<p>We are a fast growing, values driven organisation with a strong portfolio of trusted brands including Frosty Boy, Sqwincher, Breeder’s Choice and World’s Best Cat Litter. With multiple manufacturing sites across Australia and the UK and products sold in more than 70 countries, we are proud to employ hundreds of people who are passionate about quality, sustainability and innovation.</p>\n<p>Joining us means being part of a supportive, growth-oriented business that invests in its people, its brands and its future.</p>\n<p><strong>About the Role </strong></p>\n<p>We’re looking for a proactive and customer-focused <strong>Service Desk Technician II</strong> to join our IT team supporting multiple manufacturing and head office sites across Australia.</p>\n<p>This is a hands-on, visible role where you’ll be the local face of IT, partnering with site operational leaders, end users, vendors, and global technology teams to ensure technology runs smoothly and effectively.</p>\n<p>You’ll provide Level 1 &amp; 2 support across a broad tech landscape including Microsoft 365, endpoints, applications, and infrastructure, while also contributing to projects, system improvements, and technology initiatives.</p>\n<p>This role will be based at our Helensvale and Yatala locations, with occasional interstate travel to our manufacturing sites.&nbsp;</p>\n<p><strong>What You’ll Do </strong></p>\n<ul><li>Provide professional, friendly and timely Level 1 &amp; 2 IT support across hardware, software, and systems</li>\n<li>Troubleshoot and resolve issues across Microsoft 365, endpoints, applications, and networks</li>\n<li>Log, manage, and resolve incidents within agreed service delivery timeframes</li>\n<li>Install, configure, and maintain desktops, laptops, tablets, and peripherals</li>\n<li>Support onboarding, user setup, and executive-level support</li>\n<li>Maintain accurate IT documentation, asset registers, and inventory tracking</li>\n<li>Deliver end-user training and guidance to improve technology adoption</li>\n<li>Identify and implement process improvements within the service desk</li>\n<li>Support IT projects, system upgrades, and infrastructure initiatives</li>\n</ul>\n<p><strong>What You’ll Bring </strong></p>\n<ul><li>Degree in Computer Science or equivalent (preferred)</li>\n<li>4+ years’ experience in Service Desk / IT Support roles</li>\n<li>2+ years’ experience supporting ICT environments in complex organisations</li>\n<li>Strong troubleshooting and incident management skills</li>\n<li>Hands-on experience with Microsoft technologies, networking, and infrastructure</li>\n<li>Understanding of ITIL and service delivery frameworks</li>\n<li>Excellent communication and stakeholder engagement skills</li>\n<li>Ability to prioritise, multitask, and work independently</li>\n<li>Ability to travel regularly between our Helensvale and Yatala locations, as well as occasional interstate travel to our manufacturing sites</li>\n</ul>\n<p><strong>What’s In It For You</strong></p>\n<ul><li>Exposure to both manufacturing and corporate IT environments</li>\n<li>Opportunity to work with global technology teams</li>\n<li>Involvement in projects, upgrades, and transformation initiatives</li>\n<li>Supportive and collaborative team culture</li>\n</ul>\n\nSee job description\n\n",
+      "keywords": [
+        "service",
+        "desk",
+        "technician"
       ]
     },
     {
@@ -1721,6 +1603,25 @@
         "house",
         "web",
         "developer"
+      ]
+    },
+    {
+      "job_id": "92655625",
+      "job_title": "Project Support Officer",
+      "business_name": "Aspirante",
+      "work_type": "Contract/Temp",
+      "job_type": "Programme & Project Management",
+      "pay_range": "No",
+      "area": "Nerang, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92655625",
+      "advertiser_id": "39482893",
+      "posted_date": "2026-06-11T04:40:19Z",
+      "job_description": "Aspirante is looking for an experienced Project Support Officer – ICT to support the delivery of technology and asset-related initiatives within a complex and fast-paced enterprise environment. This is an AO5-level contract opportunity suited to someone who enjoys providing structured project support, governance administration, stakeholder engagement and helping keep delivery on track across multiple workstreams.<br><br> This role will suit a capable project support professional who can assist Engineers, Asset Owners and project teams across schedules, reporting, risks, actions, documentation, stakeholder coordination and day-to-day operational support. Experience within infrastructure, transport, utilities, electrical, engineering or similarly complex delivery environments will be highly regarded.<br> <br><strong>About the Role</strong> <br>As the Project Support Officer, you will provide proactive administrative and operational support to Engineers and Asset Owners within an ICT, ITS and Electrical Asset environment. The role will support the smooth delivery of projects and maintenance activities by coordinating project documentation, schedules, stakeholder communications, routine asset administration and governance activities.<br><br> You will play an important role in helping the team stay organised, informed and on schedule by maintaining key project artefacts, coordinating meetings and logistics, tracking actions and supporting reporting, compliance and procurement activities.<br><br> <strong>Key Responsibilities</strong> <ul> <li>Provide proactive project and administrative support across ICT, ITS and electrical asset-related work packages</li> <li>Prepare and maintain project documentation, filing systems, registers, trackers and asset records</li> <li>Coordinate meetings, workshops, site visits, travel and diary commitments for Engineers, Asset Owners and project teams</li> <li>Monitor project milestones, update status trackers and follow up outstanding actions to help keep projects on schedule</li> <li>Act as a first point of contact for internal and external stakeholders and assist with routine communications, meeting notes and progress updates</li> <li>Support procurement and contract administration activities, including preparing purchase requests, tracking orders and liaising with suppliers and contractors</li> <li>Enter, validate and maintain asset and maintenance data across relevant systems and assist with reporting and simple data visualisations</li> <li>Ensure documentation aligns with required standards and support compliance activities such as audits, safety paperwork and permit administration</li> <li>Coordinate site access, inductions and basic on-site administration support where required</li> <li>Provide governance and secretariat support for project meetings, working groups and reporting forums</li> </ul> <strong>What We’re Looking For</strong> <ul> <li>Demonstrated experience in a Project Support Officer, Project Officer, Project Administrator or similar project support role</li> <li>Strong organisational skills with the ability to prioritise competing tasks and manage multiple deadlines</li> <li>Excellent written and verbal communication skills for clear stakeholder engagement and professional documentation</li> <li>Strong attention to detail and accuracy in data entry, reporting and document management</li> <li>Proficiency with Microsoft Office, particularly Word, Excel and Outlook, and confidence learning new systems quickly</li> <li>A customer service mindset and collaborative approach when working across multidisciplinary teams</li> <li>Problem-solving capability and initiative to identify process improvements and remove administrative bottlenecks</li> <li>Experience supporting project governance, documentation, schedules, reporting and stakeholder coordination</li> <li>Exposure to ICT, infrastructure, transport, engineering, electrical or asset management environments will be beneficial</li> </ul> <strong>Experience and Qualifications</strong> <ul> <li>Certificate III or IV in Business Administration, Project Support or a related discipline, or equivalent demonstrated experience</li> <li>Project Management certification or training will be highly regarded</li> <li>Typically 1–3 years’ experience in a project support or project administration role</li> <li>Previous TMR experience and/or within infrastructure, utilities, transport, engineering or government-style environments will be highly regarded</li> <li>Previous experience supporting asset management, maintenance or electrical / ITS-related projects will be advantageous</li> <li>Exposure to procurement processes, supplier coordination or contract administration will be beneficial</li> <li>Previous experience in similar public sector environments will be highly regarded</li> </ul> <strong>Highly Regarded</strong> <ul> <li>Experience with asset management systems or project tracking tools</li> <li>Basic understanding of ITS, ICT or electrical asset terminology</li> <li>Experience preparing governance packs, maintaining registers and supporting steering or working group meetings</li> <li>Confidence working across Engineers, Asset Owners, vendors, contractors and business stakeholders</li> </ul> <strong>Working Conditions and Requirements</strong> <ul> <li>Relevant background checks, such as a Police Check, may be required prior to commencement</li> <li>A current Australian driver licence is preferred</li> <li>Some site-based support may be required, including coordination of access, inductions and routine on-site administration</li> </ul> <strong>Apply Now</strong> <br>If you’re an experienced Project Support Officer – ICT looking for your next contract opportunity, we’d love to hear from you.<br><br> To submit your application, please apply online using the appropriate link below. Alternatively for a confidential discussion, please contact Leisa Collins at Aspirante, <a href=\"mailto:lcollins@aspirate.com.au\">lcollins@aspirate.com.au</a>, quoting Ref No. 4041643.<br><br> Your interest will be treated in the strictest of confidence.",
+      "keywords": [
+        "project",
+        "support",
+        "officer"
       ]
     },
     {
