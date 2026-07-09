@@ -1,564 +1,536 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-09",
   "region": "Gold Coast",
-  "scraped_at": "2026-07-10T07:13:57.391960+10:00",
-  "total_jobs": 63,
+  "scraped_at": "2026-07-09T06:57:43.934662+10:00",
+  "total_jobs": 67,
   "keywords": [
     {
       "term": "it",
       "count": 12,
-      "share": 0.1905
+      "share": 0.1791
     },
     {
       "term": "engineer",
-      "count": 11,
-      "share": 0.1746
+      "count": 12,
+      "share": 0.1791
     },
     {
       "term": "support",
       "count": 10,
-      "share": 0.1587
+      "share": 0.1493
     },
     {
       "term": "manager",
       "count": 8,
-      "share": 0.127
+      "share": 0.1194
     },
     {
       "term": "analyst",
       "count": 7,
-      "share": 0.1111
+      "share": 0.1045
+    },
+    {
+      "term": "business",
+      "count": 6,
+      "share": 0.0896
     },
     {
       "term": "systems",
       "count": 6,
-      "share": 0.0952
+      "share": 0.0896
     },
     {
-      "term": "business",
+      "term": "software",
       "count": 5,
-      "share": 0.0794
+      "share": 0.0746
+    },
+    {
+      "term": "developer",
+      "count": 5,
+      "share": 0.0746
     },
     {
       "term": "specialist",
       "count": 5,
-      "share": 0.0794
+      "share": 0.0746
     },
     {
       "term": "ict",
       "count": 5,
-      "share": 0.0794
+      "share": 0.0746
     },
     {
-      "term": "software",
+      "term": "ai",
       "count": 4,
-      "share": 0.0635
-    },
-    {
-      "term": "developer",
-      "count": 4,
-      "share": 0.0635
+      "share": 0.0597
     },
     {
       "term": "officer",
       "count": 4,
-      "share": 0.0635
+      "share": 0.0597
     },
     {
       "term": "platform",
       "count": 4,
-      "share": 0.0635
+      "share": 0.0597
     },
     {
       "term": "project",
       "count": 4,
-      "share": 0.0635
+      "share": 0.0597
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0476
+      "share": 0.0448
     },
     {
       "term": "infrastructure",
       "count": 3,
-      "share": 0.0476
+      "share": 0.0448
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0476
+      "share": 0.0448
     },
     {
       "term": "automation",
       "count": 3,
-      "share": 0.0476
+      "share": 0.0448
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0476
+      "share": 0.0448
     },
     {
       "term": "development",
       "count": 3,
-      "share": 0.0476
+      "share": 0.0448
     },
     {
       "term": "field",
       "count": 3,
-      "share": 0.0476
+      "share": 0.0448
     },
     {
       "term": "web",
       "count": 3,
-      "share": 0.0476
+      "share": 0.0448
     },
     {
       "term": "enterprise",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0299
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0299
     },
     {
       "term": "month",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0299
+    },
+    {
+      "term": "broadbeach",
+      "count": 2,
+      "share": 0.0299
     },
     {
       "term": "coordinator",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0299
     },
     {
-      "term": "ai",
+      "term": "technical",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0299
+    },
+    {
+      "term": "learning",
+      "count": 2,
+      "share": 0.0299
     },
     {
       "term": "desk",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0299
     },
     {
       "term": "service",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0299
     },
     {
       "term": "customer",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0299
     },
     {
       "term": "success",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0299
     },
     {
       "term": "house",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0299
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0299
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0299
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "ecosystem",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "greenfield",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "practice",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "wfh",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "problem",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "reporting",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "parental",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "leave",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "cover",
       "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "broadbeach",
-      "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "hubspot",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "staff",
-      "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "backend",
-      "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "founding",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "node.js",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "angular",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "aws",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
+    },
+    {
+      "term": "machine",
+      "count": 1,
+      "share": 0.0149
+    },
+    {
+      "term": "series",
+      "count": 1,
+      "share": 0.0149
+    },
+    {
+      "term": "predictive",
+      "count": 1,
+      "share": 0.0149
+    },
+    {
+      "term": "modelling",
+      "count": 1,
+      "share": 0.0149
+    },
+    {
+      "term": "ml",
+      "count": 1,
+      "share": 0.0149
     },
     {
       "term": "help",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "operations",
       "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "technical",
-      "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "medical",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "training",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "deployment",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "professionals",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "entity",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "platforms",
       "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "integration",
-      "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "sr",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "encapsulation",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "operator",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "information",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "services",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "nurse",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "midwifery",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "clinical",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "informatics",
       "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "learning",
-      "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "consultant",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "apac",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "chapter",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "agentforce",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "inspection",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "maintenance",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "assistant",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "north",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "splicers",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0149
     }
   ],
   "jobs": [
-    {
-      "job_id": "93234420",
-      "job_title": "Senior/Staff Backend Engineer",
-      "business_name": "Zonos AU Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Engineering - Software",
-      "pay_range": "",
-      "area": "Varsity Lakes, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93234420",
-      "advertiser_id": "55130170",
-      "posted_date": "2026-07-09T19:15:54Z",
-      "job_description": "<h2><strong>Overview</strong></h2><p>We're hiring engineers who build things customers actually use. The title says \"backend,\" but what we want first is a product-minded problem solver who happens to be excellent at backend systems. We’re looking for someone who cares more about whether a feature ships and works than about which framework got them there. The systems we build are real-time, mission-critical, and genuinely complex.</p><p>Our backend runs primarily on Java/JVM.</p><h2><strong>How We're Organized</strong></h2><p>We don't have product managers. At the senior and staff level, <strong>you talk to customers directly, understand their problems, decide what to build, and ship it.</strong> That's not a side responsibility; it's the job.</p><p>In practice, that means:</p><ul><li><p><strong>Prioritization happens at the initiative level.</strong> Engineering is organized into a small number of initiatives, each with a named owner and tech lead who set direction and resolve roadmap conflicts. You're not prioritizing in a vacuum,&nbsp; but you do own what gets built inside your area.</p></li><li><p><strong>Saying no is part of the job.</strong> Customers and internal stakeholders will ask for things. Part of being senior here is having the judgment to push back, propose alternatives, or escalate when trade-offs need a wider conversation.</p></li><li><p><strong>You're supported on customer work, not thrown into it.</strong> Customer success, sales engineering, and support handle the front line. When you join a customer call, it's because the problem needs an engineer in the room, not because you're running the account.</p></li><li><p><strong>Conflicts go to the tech leads and CTO.</strong> Disagreements about architecture, scope, or priority don't fester. We resolve them quickly, in writing, with clear owners.</p></li></ul><p>If you've worked in environments where PM hand-offs slowed you down or watered down the product, you'll recognize why we do it this way. If you've never owned the full loop before, this will be a stretch — and that's fine, as long as you're hungry for it.</p><h2><strong>Working with Agentic Tools</strong></h2><p>Agentic development has changed what senior engineering looks like day-to-day. We're not throwing out craft. If anything, the bar on judgment, architecture, and verification has gone up. But the mechanics have shifted: more time spent specifying problems clearly, reviewing generated code with a critical eye, and catching the subtle failure modes that agents miss. Less time on boilerplate.</p><p>The engineers doing the best work here treat agents the way a strong senior treats a sharp but inexperienced teammate: delegate the right things, verify carefully, and own the outcome. They also understand that LLM intelligence is jagged — brilliant in some places, naive in others — and have built the instincts to know when to trust the output and when to dig deeper.</p><p>We want engineers who've already adopted these tools, formed real opinions about where they help and where they don't, and can bring that experience to the team.</p><h2><strong>What You'll Do</strong></h2><ul><li><p>Work directly with customers to understand problems worth solving — and decide which ones to solve</p></li><li><p>Design backend systems and APIs that scale to billions of transactions</p></li><li><p>Use agentic tools effectively to implement features, while holding a high bar on what ships</p></li><li><p>Own architecture and trade-off decisions in your domain (we use a Bronze/Silver/Gold blast-radius framework — you'll learn it fast)</p></li><li><p>Debug production issues across services, including the gnarly ones that require deep system understanding</p></li><li><p>Champion reliability, observability, and blast-radius awareness in everything you ship</p></li><li><p>Raise the bar in code review — for both human-written and agent-generated code</p></li><li><p>Mentor teammates on customer empathy, spec-driven development, and getting real leverage from agents</p></li></ul><h2><strong>You Might Be a Great Fit If You...</strong></h2><ul><li><p>Lead with product instinct. You ask \"should we build this?\" before \"how do we build this?\" — and you're comfortable getting on a call with a customer to find out.</p></li><li><p>Want to own the full loop: customer problem → spec → implementation → ship → follow-up.</p></li><li><p>Are fluent in Java/JVM — or fluent enough to read, debug, and verify Java code at a senior level</p></li><li><p>Have integrated agentic tools (Claude Code, Cursor, etc.) into your daily workflow and have grounded opinions about what works and what doesn't</p></li><li><p>Are inquisitive by default — you read papers, try new tools, talk to customers, and bring ideas back to the team</p></li><li><p>Take ownership. When something breaks, you fix it. When something is unclear, you go find out.</p></li><li><p>Have e-commerce, payments, or international trade background — or are excited to go deep in the space</p></li></ul><p><strong><em>Here at Zonos we are committed to cultivating a team of ambitious and innovative people who are hungry and willing to stretch and grow. International trade is complicated and working at a growing cloud technology company is hard, but we are here to support your learning and development. For these reasons, if you are uncertain about applying, we encourage you to do so even if your experience doesn't exactly match the job description. We welcome diverse perspectives from people who think outside the box and aren't afraid to challenge assumptions. Come join us!</em></strong></p>",
-      "keywords": [
-        "staff",
-        "backend",
-        "engineer"
-      ]
-    },
-    {
-      "job_id": "93219840",
-      "job_title": "Systems Integration Engineer",
-      "business_name": "RightCrowd Software Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Networks & Systems Administration",
-      "pay_range": "",
-      "area": "Robina, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93219840",
-      "advertiser_id": "36358200",
-      "posted_date": "2026-07-09T04:34:29Z",
-      "job_description": "<div>\n<div>\n<p>This is a remote position.</p>\n<p><b>THE SPONSOR:</b><br></p>\n<p>Bloom Equity Partners is leveraging decades of investing and operating experience to rapidly unlock transformational growth and deliver superior returns to our investment partners and management teams.&nbsp; Investing exclusively in lower-middle market technology, software and tech-enabled business service companies, Bloom drives enduring market value by partnering closely with founders and management teams, injecting capital to unlock growth and providing operational resources and expertise to enable meaningful step-change to the business.<br></p>\n<p><b>THE COMPANY:</b><br></p>\n<p>RightCrowd is a dynamic and rapidly expanding company in the Physical Identity and Access Management (PIAM) industry, focused on providing cutting-edge solutions to enhance security and streamline access control processes for a diverse range of clients. As we continue to grow and establish our presence in the market, we are seeking an experienced and forward-thinking System Integration Engineer to join our team. The ideal candidate will be based in the United States or Canada and be passionate about driving the financial success of our business.<br></p>\n<p><b>JOB SUMMARY:</b><br></p>\n<p>RightCrowd’s System Integration Engineer plays a key role in our project delivery team by implementing our solution and coordinating integration with other products. Collaborating with our customers, through the project from building initial technical requirements to installation and user acceptance testing, the System Integration Engineer ensures a smooth roll out for the customer. Leading the technical relationship with the customer, this role helps manage scope, direction, and technical delivery of the project. <br></p>\n \n<p><b>ESSENTIAL RESPONSIBILITIES AND DUTIES:</b><br></p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work collaboratively with the customer’s project team to support key project outcomes, focusing on the technical delivery of our solution.<br></p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Derive quality requirements from the customers and ensure excellent customer communication.<br></p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Manage the customer expectations for timelines and requirements as the technical lead ensuring change and scope are controlled appropriately.<br></p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop, design and document project collateral including technical requirements, technical and functional specifications, and acceptance testing cases.<br></p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct regular meetings with clients liaising with other internal resources to obtain updates and input as necessary.<br></p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform user acceptance testing using solid organizational skills including attention to detail and multi-tasking skills.<br></p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform implementations and configuration of systems.<br></p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System Administration and Active Directory troubleshooting in Windows focusing on SQL Server and IIS.<br></p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Level 3 Support and mentorship for more junior members of the team.<br></p>\n </div>\n<div>\n<strong>Requirements</strong><br><p><b>KNOWLEDGE/SKILLS/ABILITIES:</b><br></p>\n<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong knowledge of software and hardware systems and troubleshooting techniques.<br></p>\n<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent analytical, problem-solving, and communication skills.<br></p>\n<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Solid experience with:<br></p>\n<p>o&nbsp;&nbsp; Microsoft Windows Server<br></p>\n<p>o&nbsp;&nbsp; MS SQL Server T-SQL and internals<br></p>\n<p>o&nbsp;&nbsp; Active Directory<br></p>\n<p>o&nbsp;&nbsp; At least two scripting languages<br></p>\n<p>o&nbsp;&nbsp; C#, JAVA, .Net<br></p>\n<p>o&nbsp;&nbsp; Networking<br></p>\n<p>o&nbsp;&nbsp; IIS<br></p>\n<p>o&nbsp;&nbsp; Public cloud<br></p>\n<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scripting experience with one or more scripting languages including SQL, JAVA or Powershell.<br></p>\n<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Active Directory Administration and Integration Experience<br></p>\n<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Web Services Administration and Experience<br></p>\n<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience with upgrading, installing, and configuring applications as well as Windows environments.<br></p>\n<p><b>Disclaimer:&nbsp; This Job Description indicates the general nature and level of work expected of the incumbent(s).&nbsp; It is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities required of the incumbent.&nbsp; Incumbent(s) may be asked to perform other duties in addition to those described above.</b><br></p>\n<p><b>RightCrowd Technologies, Inc. is an Equal Opportunity Employer and does not unlawfully discriminate on the basis of any status or condition protected by applicable federal, state, or local municipal law.</b><br></p>\n </div>\n</div>",
-      "keywords": [
-        "systems",
-        "integration",
-        "engineer"
-      ]
-    },
     {
       "job_id": "93197098",
       "job_title": "Network Support Analyst",
@@ -696,6 +668,24 @@
       "keywords": [
         "web",
         "developer"
+      ]
+    },
+    {
+      "job_id": "93189817",
+      "job_title": "Technical Lead - Broadbeach, QLD",
+      "business_name": "Ignite",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "",
+      "area": "Broadbeach, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93189817",
+      "advertiser_id": "55324746",
+      "posted_date": "2026-07-08T03:08:40Z",
+      "job_description": "<p>&nbsp;</p>\n<p>&nbsp;We are looking for a Technical Lead to provide day-to-day technical leadership of software engineering across our development team, spanning the full software development life cycle: analysis, design, build, test, release and support. This is a senior individual-contributor role for a versatile engineer who moves fluidly between maintaining the Azure platform our systems run on and delivering hands-on full-stack engineering across our new customer-facing booking applications (B2C, B2E, B2B), with the balance shifting as business priorities change. You will hold autonomy over technical decisions for the team, working closely with the Head of Engineering, our Solution Architect, and the wider engineering group.</p>\n<p>&nbsp;</p>\n<p><strong>A day in the life:</strong></p>\n<ul>\n<li>Deliver hands-on full-stack engineering across B2X applications, prioritising customer-facing booking (React/TypeScript and .NET on Azure)</li>\n<li>Maintain and operate the Azure platform (Container Apps, API Management, Key Vault, networking, Bicep) to ensure security and reliability</li>\n<li>Build integrations between applications and Connect/Commerce APIs to enable dynamic booking functionality</li>\n<li>Lead adoption of AI-powered engineering tools (e.g., Claude Code, GitHub Copilot), setting standards and uplifting team capability</li>\n<li>Provide technical leadership in agile teams, ensuring high-quality, secure, and maintainable code through peer reviews</li>\n<li>Apply best practices for scalability, performance, and security, including PCI compliance and data privacy</li>\n<li>Collaborate with the Solution Architect to align engineering delivery with architecture standards</li>\n<li>Contribute to a safe, inclusive, and accessible work environment where all Flighties feel welcomed, respected, and supported to thrive</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Who you are:</strong></p>\n<ul>\n<li>Strong proficiency in agentic software engineering using AI tools (e.g., Claude Code, GitHub Copilot)</li>\n<li>Extensive experience with Azure cloud platforms and infrastructure (Container Apps, API Management, networking, Bicep)</li>\n<li>Strong full-stack experience: .NET backend and modern JavaScript frameworks (React, TypeScript)</li>\n<li>Minimum 5 years’ experience as a Technical Lead or similar role delivering high-quality software</li>\n<li>Experience with CI/CD tools (Azure DevOps, GitHub Actions, Octopus Deploy) and version control (Git)</li>\n<li>Strong experience with REST APIs, integration, and API lifecycle management</li>\n<li>Strong expertise in Entity Framework, SQL, data modelling, and OOP principles</li>\n<li>Desirable: Experience with Dynamics 365 Business Central, test automation, AWS, and observability tools (e.g., Grafana)</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>What you'll enjoy:</strong></p>\n<p>&nbsp;</p>\n<div>\n<p>📚 Ongoing skills development</p>\n</div>\n<div>\n<p>🚀 Catapult your career across a network of brands and businesses in an evolving industry</p>\n</div>\n<div>\n<p>✈️ Say no to full price! Nab discounts on travel and more thanks to our sweet rewards program</p>\n</div>\n<div>\n<p>👩‍⚕️ Access to industry leading health and well - being programs and financial advisors</p>\n</div>\n<div>\n<p>🌴 Set up shop in a swanky beachfront office in Broadbeach</p>\n</div>\n<div>\n<p>💃🏿 Enjoy social events to promote networking, celebration of wins, and sometimes just for fun!</p>\n</div>\n<div>\n<p>&nbsp;👐🏻 Take volunteer leave as part of giving back to the local community</p>\n<p> #LI-KP1#IGNT#LI-Onsite </p>\n</div>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+      "keywords": [
+        "technical",
+        "broadbeach"
       ]
     },
     {
@@ -1295,18 +1285,54 @@
       ]
     },
     {
+      "job_id": "92886827",
+      "job_title": "AI Engineer",
+      "business_name": "Southern Cross University",
+      "work_type": "Full time",
+      "job_type": "Engineering - Software",
+      "pay_range": "$134,393 - $140,896 plus 17% Superannuation",
+      "area": "Bilinga, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92886827",
+      "advertiser_id": "15012749",
+      "posted_date": "2026-06-23T04:52:14Z",
+      "job_description": "<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing <a href=\"https://www.scu.edu.au/southern-cross-model/\" target=\"_self\">Southern Cross Model</a> brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity</strong></p>\n<p>Southern Cross University is on an ambitious journey to redefine how technology empowers learning, research, and community impact. We’re building a future-ready technology organisation – modern, secure, adaptable, and driven by innovation.&nbsp; Our teams are embracing emerging technologies, including&nbsp;artificial intelligence, to deliver smarter services and real-world benefits for students, staff, and the wider community.</p>\n<p>Within Technology Services, our five dynamic work units – Data, Architecture &amp; Integration, Cyber Resilience, Digital Delivery &amp; Innovation, Technology Platforms, and Operations &amp; Services – work collaboratively to deliver high-impact solutions across the University.</p>\n<p>We’re now seeking a visionary AI Engineer to design and deliver transformative AI-powered solutions that reshape how the University operates, learns, and engages.&nbsp; This is your chance to be at the forefront of AI in higher education, building intelligent applications, autonomous agents, and automation tools that will unlock new efficiencies and experiences across student services, teaching, learning, research, and administration.</p>\n<p>This strategic role reports to the Business Process Engineering Principal and works across a rich ecosystem of university portfolios, from Future Students to Research &amp; Enterprise, building next generation AI systems and driving intelligent automation at scale</p>\n<p>You will make an impact by:</p>\n<ul>\n<li>Design and deliver advanced AI solutions that address real-world challenges across learning, research and university operations</li>\n<li>Develop and deploy intelligent agents to enhance student services, automate workflows, and support data-driven decision-making</li>\n<li>Collaborate with academic and professional stakeholders to identify, shape, and implement high-value AI use cases across university domains</li>\n<li>Create AI powered features and integrations with key platforms like Microsoft Dynamics, TechnologyOne, and Blackboard using Azure and OpenAI tools</li>\n<li>Champion responsible AI development while fostering innovation through continuous learning, cross-functional collaboration, and ethical practices</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<p>You’re a creative and technically sharp AI Engineer who’s passionate about applying advanced technologies to solve complex, real-world problems.&nbsp; You thrive in fast paced, collaborative environments and are driven by a desire to make a measurable difference in the student and academic experience.</p>\n<p>To succeed in this role, you will also need:</p>\n<ul>\n<li>Extensive AI/ML experience with a relevant degree and ideally 7+ years in development, including 4+ years focused on AI/ML applications</li>\n<li>Strong technical expertise in LLMs, neural networks, and frameworks like PyTorch, TensorFlow, and scikit-learn</li>\n<li>Proficiency in Python and .Net, with hands-on experience using Azure AI, OpenAI, Cognitive Services, and Azure machine Learning</li>\n<li>Proven track record delivering enterprise-grade AI solutions, ideally within higher education or similarly complex environments</li>\n<li>Deep understanding of ethical AI practices, with the ability to collaborate across diverse teams and drive continuous innovation</li>\n</ul>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/gold-coast/\" target=\"_self\">Gold Coast</a>, <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/coffs-harbour/\" target=\"_self\">Coffs Harbour</a> and the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/lismore/\" target=\"_self\">Northern Rivers</a> region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li>Full-time, continuing (permanent)</li>\n<li>Located at either Coffs Harbour, NSW 2450, Gold Coast, QLD 4225, or Lismore, NSW 2480. Relocation assistance is available, making it easier to join our regional communities</li>\n<li>HEW Level 9. The base salary ranges from $134,393 - $140,896 per annum, plus 17% employer’s contribution to superannuation. The total remuneration package is up to $164,848.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit <a href=\"https://www.scu.edu.au/about/jobs-at-southern-cross/why-work-at-southern-cross-university/\" target=\"_self\">Why work at Southern Cross University?</a></p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>To view the full position advertisement and details of the application process, please click on the APPLY button where you will be redirected to the Southern Cross University website. &nbsp;&nbsp;</p>\n<p><strong>Applications close 11.30pm AEDT 9 July 2026</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. Employer visa sponsorship is not available for this position.</p>\n<p>Applicants must apply online and attach a CV and cover letter responding to the selection criteria within the position description. Information to support you prepare your application is available on our <a href=\"https://www.scu.edu.au/about/jobsscu/vacancies/applying-for-a-position/\" target=\"_self\">website.</a></p>\n<p><em>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to </em><a href=\"mailto:jobs@scu.edu.au\" target=\"_self\"><em>jobs@scu.edu.au.</em></a></p>\n<p>#LI-VC1</p>\n",
+      "keywords": [
+        "ai",
+        "engineer"
+      ]
+    },
+    {
+      "job_id": "92881936",
+      "job_title": "Senior Software Developer",
+      "business_name": "Southern Cross University",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "$120,756 - 133,154 plus 17% superannuation",
+      "area": "Bilinga, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92881936",
+      "advertiser_id": "15012749",
+      "posted_date": "2026-06-23T02:43:12Z",
+      "job_description": "<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing <a href=\"https://www.scu.edu.au/southern-cross-model/\" target=\"_self\">Southern Cross Model</a> brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity</strong></p>\n<p>Southern Cross University is on an ambitious journey to redefine how technology empowers learning, research and community impact. We’re building a future-ready technology organisation - modern, secure, adaptable and driven by innovation. Our teams are embracing emerging technologies, including artificial intelligence, to deliver smarter, more seamless services and to create meaningful benefits for students, staff and the wider community.</p>\n<p>Within Technology Services, our five dynamic work units, Data, Architecture &amp; Integration, Cyber Resilience, Digital Delivery &amp; Innovation, Technology Platforms, and Operations &amp; Services, collaborate to deliver high-impact solutions across the University.</p>\n<p>We are seeking a Senior Software Developer to lead the design and delivery of complex software solutions that support critical university systems. Reporting to the Software &amp; Integration Development Principal, you will play a key role in shaping technical approaches, mentoring developers and building scalable solutions across enterprise platforms.</p>\n<p>This role offers the opportunity to work on high-impact systems used across the entire University, while contributing to emerging initiatives including the adoption of AI and modern cloud technologies. You will help strengthen engineering practices, influence technical direction and deliver solutions that enable the University’s digital transformation.</p>\n<p>You will make an impact by:</p>\n<ul>\n<li>Leading the design and development of complex software solutions across university systems</li>\n<li>Delivering innovative solutions using .NET, Azure, and modern cloud development practices</li>\n<li>Integrating enterprise platforms such as TechnologyOne, Microsoft Dynamics 365, and Blackboard</li>\n<li>Mentoring developers and contributing to strong engineering standards and technical clarity</li>\n<li>Exploring and implementing AI-driven capabilities within enterprise software solutions</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<p>You are an experienced and technically strong software engineer who enjoys solving complex problems and influencing how modern software is built. You bring a balance of hands-on development expertise and technical leadership, and you enjoy mentoring others while improving engineering practices.</p>\n<p>You thrive in complex environments integrating multiple systems and are excited by opportunities to apply emerging technologies, including AI and modern cloud architectures, to deliver meaningful improvements for users.</p>\n<p>To succeed in this role, you will also need:</p>\n<ul>\n<li>A degree in Software Engineering, Computer Science or similar with ideally 6+ years software development experience</li>\n<li>Strong expertise across the Microsoft .NET development ecosystem (VB.NET, .NET Framework 4.8, EF6, Blazor) and modern software architecture</li>\n<li>Proficient with enterprise reporting and data tools (Crystal Reports, Oracle SQL)</li>\n<li>Experience delivering AI-powered features in production, such as LLMs, RAG, Semantic search, copilots</li>\n<li>Cloud development experience, ideally with Microsoft Azure</li>\n<li>Demonstrated experience mentoring developers and leading technical initiatives</li>\n</ul>\n<p>It’s not essential, but we’d love it if you had experience with enterprise platforms such as TechnologyOne, Microsoft Dynamics 365, Blackboard or Microsoft Teams, or experience working in higher education or other complex enterprise environments.</p>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/gold-coast/\" target=\"_self\">Gold Coast</a>, <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/coffs-harbour/\" target=\"_self\">Coffs Harbour</a> and the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/lismore/\" target=\"_self\">Northern Rivers</a> region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li>Full-time, continuing (permanent)</li>\n<li>Located at either Coffs Harbour, NSW 2450, Gold Coast, QLD 4225, or Lismore, NSW 2480. Relocation Assistance, making it easier to join our regional communities</li>\n<li>HEW Level 8. The base salary ranges from $120,756 - $133,154 per annum, plus 17% employer’s contribution to superannuation. The total remuneration package is up to $155,790.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit <a href=\"https://www.scu.edu.au/about/jobs-at-southern-cross/why-work-at-southern-cross-university/\" target=\"_self\">Why work at Southern Cross University?</a></p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>To view the full position advertisement and details of the application process, please click on the APPLY button where you will be redirected to the Southern Cross University website. &nbsp;&nbsp;</p>\n<p><strong>Applications close 11.30pm AEDT Thursday 9 July 2026</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. &nbsp;Employer visa sponsorship is not available for this position.</p>\n<p>Applicants must apply online and attach a CV and cover letter responding to the selection criteria within the position description. Information to support you prepare your application is available on our <a href=\"https://www.scu.edu.au/about/jobsscu/vacancies/applying-for-a-position/\" target=\"_self\">website.</a></p>\n<p><em>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to </em><a href=\"mailto:jobs@scu.edu.au\" target=\"_self\"><em>jobs@scu.edu.au.</em></a></p>\n",
+      "keywords": [
+        "software",
+        "developer"
+      ]
+    },
+    {
       "job_id": "92879920",
-      "job_title": "Level 2 IT Support Engineer",
+      "job_title": "Level 1-2 IT Support Engineer",
       "business_name": "NextGen HR Pty Ltd",
       "work_type": "Full time",
       "job_type": "Help Desk & IT Support",
-      "pay_range": "",
+      "pay_range": "$70,000 – $80,000 per year",
       "area": "Arundel, Gold Coast QLD",
       "region": "Gold Coast",
       "url": "https://www.seek.com.au/job/92879920",
       "advertiser_id": "43563925",
       "posted_date": "2026-06-23T02:00:22Z",
-      "job_description": "<h2><strong>Level 2 IT Support Engineer</strong></h2><p><strong>Arundel, QLD | Full Time | Permanent</strong></p><p><br></p><p><strong>Ready to take the next step in your IT career?</strong></p><p>We're looking for a technically strong <strong>Level 2 IT Support Engineer </strong>to join an established Managed Services Provider (MSP) supporting businesses across Australia.</p><p>This is an opportunity to work in a collaborative technical team where you'll troubleshoot complex IT issues, manage escalations, and work across a diverse client portfolio spanning cloud, infrastructure, networking, and Microsoft technologies. If you enjoy solving problems, building strong client relationships, and expanding your technical expertise, this could be the role for you.</p><p><br></p><p><strong>About the Company</strong></p><p>Our client is an award-winning provider of managed IT, cyber security, cloud, and AI solutions, partnering with Australian businesses for more than 20 years. With offices across the Gold Coast, Brisbane, Sydney, and beyond, they support organisations across industries including construction, financial services, healthcare, real estate, and not-for-profit.</p><p>As a Microsoft Solutions Partner, they deliver tailored technology solutions including managed IT services, cyber security, cloud migration, AI enablement, and strategic vCIO consulting. Their focus is on becoming a trusted technology partner for their clients—not simply a help desk.</p><p>Their team is collaborative, supportive, and committed to continuous learning. You'll work alongside experienced engineers, gain exposure to a wide range of technologies, and be encouraged to develop your technical skills through ongoing training and certification.</p><p><br></p><p><strong>About the Role</strong></p><p>As a<strong> Level 2 IT Engineer,</strong> you'll provide advanced technical support across a broad range of client environments whilst managing escalated issues from Level 1. You'll take ownership of incidents from diagnosis through to resolution, contribute to infrastructure improvements, and deliver an outstanding customer experience.</p><p><strong><em>Your responsibilities will include:</em></strong></p><ul><li><p>Providing Level 2 technical support across desktop, server, network, and cloud environments</p></li><li><p>Managing escalated incidents and service requests, ensuring timely resolution</p></li><li><p>Troubleshooting Microsoft 365, Azure, Active Directory, Exchange, and Windows environments</p></li><li><p>Supporting networking technologies including firewalls, switches, VPNs, and wireless infrastructure</p></li><li><p>Maintaining accurate documentation and ticket updates within the PSA system</p></li><li><p>Building strong relationships with clients through professional communication and exceptional service</p></li><li><p>Assisting with infrastructure upgrades, migrations, and technology projects</p></li><li><p>Collaborating with Level 3 Engineers on complex technical issues when required</p></li></ul><p><br></p><p><strong>About You</strong></p><p>To be successful in this role, you'll bring solid MSP experience, strong troubleshooting skills, and a proactive approach to customer support.</p><p><strong><em>You'll ideally have:</em></strong></p><ul><li><p>3+ years' experience in an MSP or similar IT support environment</p></li><li><p>Relevant IT qualifications or equivalent industry experience</p></li><li><p>Experience providing Level 2 technical support across Microsoft environments</p></li><li><p>Experience supporting networking technologies including switches, firewalls, VPNs, and Wi-Fi</p></li><li><p>Strong communication and customer service abilities<br></p></li></ul><p><strong>Highly regarded</strong></p><ul><li><p>Microsoft certifications (MS-900, AZ-900, MD-102, MS-102, AZ-104 or similar)</p></li><li><p>CompTIA, Cisco, or ITIL certifications</p></li><li><p>Strong knowledge of Microsoft 365, Azure, Active Directory, Exchange Online, and Windows Server</p></li><li><p>Experience using ConnectWise PSA and ConnectWise RMM</p></li><li><p>Exposure to Microsoft Intune, SharePoint, Defender, or Azure Virtual Desktop</p></li></ul><p><br></p><p><strong>Why You'll Love This Opportunity</strong></p><ul><li><p>Join an established and growing MSP with an outstanding reputation</p></li><li><p>Work across a broad range of technologies and client environments and gain exposure to cloud, cyber security, AI, and infrastructure projects</p></li><li><p>Ongoing technical mentoring from experienced senior engineers</p></li><li><p>Support for Microsoft certifications and continuous professional development</p></li><li><p>Collaborative team culture where your contribution is recognised and valued</p></li></ul><p><br></p><p>If you're a technically capable IT professional who enjoys solving challenging problems and delivering exceptional service, we'd love to hear from you. Apply today and take the next step in your IT career!</p>",
+      "job_description": "<h2><strong>Level 1-2 IT Support Engineer</strong></h2><p><br>Arundel QLD | Full Time | Permanent</p><p>&nbsp;</p><p><strong>Ready to grow your IT career with a team that actually invests in you?</strong></p><p>This is a hands-on support role with a well-established managed services provider serving clients across Australia. You'll work across a varied client portfolio where no two days look the same, and you'll have real access to experienced engineers and leadership who are genuinely interested in your development.</p><p>If you're working towards Microsoft certifications (MS-900, AZ-900 and beyond), we'll support you through the journey and help you get there faster.</p><p>&nbsp;</p><p><strong>About the Company</strong></p><p>This is an award-winning managed IT, cyber security, cloud, and AI solutions provider that has been partnering with Australian businesses for over 20 years. Operating across the Gold Coast, Brisbane, Sydney, and beyond, they serve clients across a range of industries including construction, financial services, medical, real estate, and not-for-profit.</p><p>As an accredited Microsoft Partner, they deliver practical, tailored technology solutions from managed IT and cyber security to cloud migration, AI enablement, and vCIO advisory. They're not just a support desk; they position themselves as a whole-of-business technology partner, helping clients turn IT into a genuine competitive advantage.</p><p>The team is tight knit, values driven, and genuinely invested in the growth of their people. You'll have direct access to experienced engineers and leadership, work across a diverse client portfolio, and be part of a business that takes professional development seriously.</p><p>&nbsp;</p><p><strong>What you'll be doing</strong></p><p>Day to day, you'll be the first and second point of contact for client technical issues - diagnosing, troubleshooting, and resolving across a range of environments. You'll maintain strong client relationships, manage your own ticket queue, and contribute to a team that prides itself on proactive support, not just reactive fixes.</p><p><br></p><p><strong>Expect to work across:</strong></p><ul><li><p>Microsoft 365 and cloud-based environments</p></li><li><p>Active Directory and Exchange</p></li><li><p>General desktop, network, and systems support</p></li><li><p>Client communication and relationship management</p></li></ul><p><br></p><p><strong>What we're looking for</strong></p><ul><li><p>2+ years' experience in an MSP or IT support role</p></li><li><p>Solid working knowledge of M365, Active Directory, and cloud technologies</p></li><li><p>Strong communication skills - you're comfortable talking to clients, not just tickets</p></li><li><p>A genuine customer service mindset - you take ownership and follow through</p></li><li><p>Relevant qualifications (IT degree/diploma) or equivalent experience</p></li><li><p>Microsoft, CompTIA, ITIL, or Cisco certifications are a real advantage</p></li><li><p>Experience with ConnectWise PSA is a plus</p></li></ul><p><br></p><p><strong>What makes this worth your time</strong></p><ul><li><p>A collaborative, supportive team environment - your work is seen and valued</p></li><li><p>Direct access to senior engineers and leadership</p></li><li><p>Structured support for certification and professional development</p></li><li><p>Diverse client exposure across multiple industries</p></li><li><p>A stable, established business with a strong reputation</p></li></ul><p><br></p><p><strong>Sound like you?</strong> Hit apply and tell us a bit about where you're at in your career and where you want to go.</p>",
       "keywords": [
         "it",
         "support",
@@ -1714,6 +1740,65 @@
         "training",
         "support",
         "specialist"
+      ]
+    },
+    {
+      "job_id": "92601071",
+      "job_title": "Business Systems Lead",
+      "business_name": "Shred-X",
+      "work_type": "Full time",
+      "job_type": "Management",
+      "pay_range": "",
+      "area": "Ormeau, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92601071",
+      "advertiser_id": "21275137",
+      "posted_date": "2026-06-09T05:15:23Z",
+      "job_description": "<p> </p><p>Leading a small team of technical specialists, you will be responsible for identifying opportunities across the business, translating them into prioritised initiatives, and ensuring projects are delivered successfully, on time, and aligned to business objectives.<br> <br> This role is less about hands-on technical delivery and more about leading people, prioritising initiatives, and ensuring the successful execution of business systems and improvement projects.<br> <br> You will act as the bridge between operational stakeholders and technical experts, helping the business solve problems, improve processes, and leverage technology, automation, and AI to work smarter.<br> <br> Success in this role will come from your ability to coach and develop your team, manage competing priorities, influence stakeholders, and maintain momentum across multiple projects and improvement initiatives.<br> <br> <strong>What You'll Be Doing</strong></p><ul> <li>Lead, coach and develop a small team of business systems and technical (development, application support, and reporting) specialists.</li> <li>Establish priorities, manage workloads, and ensure team members remain focused on delivering business outcomes.</li> <li>Partner with leaders across the business to identify opportunities for improvement, automation, and technology enablement.</li> <li>Facilitate project planning, resource allocation, stakeholder engagement, and delivery governance.</li> <li>Drive accountability and performance within the team through clear objectives, coaching, and regular follow-up.</li> <li>Manage a pipeline of projects, enhancements, and continuous improvement initiatives.</li> <li>Translate business requirements into actionable work for technical specialists and external vendors.</li> <li>Remove roadblocks, manage risks, and ensure initiatives remain on track.</li> <li>Promote a culture of innovation, continuous improvement, and customer-focused delivery.</li> </ul><p><strong><br>About You<br></strong><br> You are a natural organiser and people leader who enjoys bringing structure to complexity and helping teams achieve results.<br> <br> You may come from a Project Management, Business Improvement, Business Systems or Technology Delivery, Digital Transformation, Operations Improvement, or PMO background and have experience leading teams responsible for delivering technology-enabled business outcomes.<br> <br> <strong>You will bring</strong></p><ul> <li>Proven experience leading project delivery, business improvement, or technology-focused teams.</li> <li>Strong people leadership skills, including coaching, mentoring, performance management, and capability development.</li> <li>Exceptional stakeholder management and communication skills.</li> <li>The ability to balance multiple priorities, projects, and competing business demands.</li> <li>Experience working with technical teams and translating business requirements into deliverable outcomes.</li> <li>Strong planning, prioritisation, and organisational skills.</li> <li>A track record of driving accountability and achieving results through others.</li> <li>Commercial awareness and an understanding of how technology can support business performance.</li> </ul><p><strong><br>Highly Regarded</strong></p><ul> <li>Experience leading agile, project delivery, or business systems teams.</li> <li>Exposure to Microsoft Dynamics 365 or similar enterprise platforms.</li> <li>Experience with automation, AI initiatives, process improvement, or digital transformation programs.</li> <li>Experience within logistics, transport, operational services, manufacturing, or multi-site environments.</li> </ul><p><strong><br>Why join Shred-X?</strong></p><ul> <li>Join a growing and successful national business</li> <li>Work in a safe, professional, and inclusive environment</li> <li>Be an integral part of the leadership team</li> <li>Employee shopping discounts</li> <li>Employee reward and recognition program</li> <li>Company uniform provided</li> <li>Employee Assistance Program (EAP)</li> </ul><p> </p><p>We are proud to be an equal opportunity employer - we value diverse backgrounds, perspectives, and experiences.<br> <br> If you are ready to take the next step and lead a high-performing logistics operation at Shred-X, we would love to hear from you.</p><p> </p>",
+      "keywords": [
+        "business",
+        "systems"
+      ]
+    },
+    {
+      "job_id": "92596380",
+      "job_title": "AI/ML Engineer",
+      "business_name": "Softkey Solutions Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Engineering - Software",
+      "pay_range": "$90,000 – $105,000 per year",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92596380",
+      "advertiser_id": "61886683",
+      "posted_date": "2026-06-09T03:15:33Z",
+      "job_description": "<p><strong>AI/ML Engineer</strong></p><p>Queensland, Australia (On-site/Hybrid/Remote – based on company preference)</p><p><strong>About the Role</strong></p><p>We are seeking a talented and motivated AI/ML Engineer to join our growing team in Queensland. The ideal candidate will have 2–5 years of hands-on experience in developing, deploying, and optimizing machine learning and artificial intelligence solutions. You will work closely with cross-functional teams to build intelligent systems that drive business innovation and operational efficiency.</p><p><strong>Key Responsibilities</strong></p><ul><li><p>Design, develop, and deploy machine learning models and AI solutions.</p></li><li><p>Build and maintain data pipelines for model training and inference.</p></li><li><p>Develop predictive analytics, recommendation systems, NLP, or computer vision applications.</p></li><li><p>Fine-tune and optimize machine learning models for performance and scalability.</p></li><li><p>Collaborate with software engineers, data engineers, and business stakeholders.</p></li><li><p>Monitor, evaluate, and improve deployed AI/ML systems.</p></li><li><p>Stay updated with the latest AI, machine learning, and generative AI technologies.</p></li><li><p>Document technical solutions and best practices.</p></li></ul><p><strong>Required Qualifications</strong></p><ul><li><p>Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Data Science, Engineering, or a related field.</p></li><li><p>2–5 years of professional experience in Machine Learning, Artificial Intelligence, or Data Science roles.</p></li><li><p>Strong programming skills in Python.</p></li><li><p>Experience with machine learning frameworks such as TensorFlow, PyTorch, Scikit-learn, or similar.</p></li><li><p>Experience working with SQL and data processing tools.</p></li><li><p>Knowledge of cloud platforms such as AWS, Azure, or Google Cloud.</p></li><li><p>Understanding of MLOps, model deployment, and monitoring practices.</p></li><li><p>Strong problem-solving and analytical skills.</p></li><li><p>Excellent communication and teamwork abilities.</p></li></ul><p><br></p><p><strong>What We Offer</strong></p><ul><li><p>Competitive salary package.</p></li><li><p>Opportunity to work on cutting-edge AI and Machine Learning projects.</p></li><li><p>Professional development and career growth opportunities.</p></li><li><p>Collaborative and innovative work environment.</p></li><li><p>Flexible working arrangements.</p></li></ul><p><strong>Employment Type</strong></p><p>Full-Time</p><p><br></p><p><br></p>",
+      "keywords": [
+        "ai",
+        "ml",
+        "engineer"
+      ]
+    },
+    {
+      "job_id": "92595215",
+      "job_title": "Machine Learning Engineer - Time Series & Predictive Modelling",
+      "business_name": "Stacked Farm",
+      "work_type": "Full time",
+      "job_type": "Engineering - Software",
+      "pay_range": "",
+      "area": "Arundel, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92595215",
+      "advertiser_id": "39488667",
+      "posted_date": "2026-06-09T02:40:03Z",
+      "job_description": "<h2><strong>Machine Learning Engineer</strong></h2><h2><strong>(Time Series &amp; Predictive Modelling)</strong></h2><p><strong>Build the future of AI-driven manufacturing</strong></p><h2><strong>Stacked Farm: Redefining the Future of Vertical Farming</strong></h2><p>Ready to revolutionise agriculture? Stacked Farm is leading the way in automated indoor vertical farming - driven by innovation, efficiency and sustainability. With proprietary automation technology, we've reimagined how leafy greens are planted and harvested: faster, cleaner and greener than ever before.</p><p>Recently named 2025 Sustainability Leader by The Australian Financial Review, winning both the Agriculture &amp; Environment category and the title of Overall Innovation Winner. As we continue our rapid expansion with new farms and advanced product lines, we're reshaping the Ag-Tech landscape.</p><h2><strong>Why Join Stacked Farm?</strong></h2><p>Working at Stacked Farm means more than just clocking in. It's a chance to innovate, make an impact and be part of something meaningful.</p><ul><li><p><strong>Shape the Future</strong> – Join a company solving some of the biggest challenges in agriculture.</p></li><li><p><strong>Long-Term Stability</strong> – Be part of a proven and well-funded global business.</p></li><li><p><strong>Collaborative Innovation</strong> – Work where your ideas matter and creativity is valued.</p></li><li><p><strong>Exceptional Benefits</strong> – Enjoy great perks including the best coffee in the area, free on-site gym and parking, regular achievement recognition, quarterly team events and monthly birthday celebrations.</p></li><li><p><strong>Sustainability at Heart</strong> – Help reshape how the world produces food — for good.</p></li></ul><p><strong>Please note:</strong> Only candidates with full, permanent working rights in Australia will be considered for this position.</p><h2><strong>Commencement</strong></h2><p>July 2026</p><h2><strong>About the Role</strong></h2><p>We're looking for a Machine Learning Engineer with expertise in time series forecasting, predictive modelling and statistical machine learning.</p><p>You'll develop and optimise advanced forecasting, anomaly detection and optimisation models using complex sensor and operational data to improve real-world manufacturing performance.</p><p>Working alongside dedicated software and data engineering teams, you'll focus on model development and performance rather than pipelines or infrastructure. You'll also collaborate with machine vision engineers to build next-generation multi-modal AI systems.</p><hr><h2><strong>What You’ll Do</strong></h2><ul><li><p>Develop high-performance models for:</p><ul><li><p>Time series forecasting</p></li><li><p>Anomaly detection</p></li><li><p>Predictive maintenance</p></li><li><p>System optimisation</p></li><li><p>Operational intelligence and performance prediction</p></li></ul></li></ul><p><strong>Key Responsibilities:</strong></p><ul><li><p>Design, build and deploy machine learning models for complex real-world systems</p></li><li><p>Apply statistical and probabilistic modelling techniques to understand system behaviour, variability and uncertainty</p></li><li><p>Develop deep learning models for sequential and temporal data, including LSTM, GRU and Transformer-based architectures</p></li><li><p>Extract actionable insights from large-scale sensor and operational datasets</p></li><li><p>Evaluate, benchmark and improve model performance through rigorous experimentation</p></li><li><p>Collaborate with data engineers to leverage reliable, production-ready datasets</p></li><li><p>Partner with machine vision engineers to develop integrated multi-modal AI systems</p></li><li><p>Monitor, maintain and continuously improve model performance in production</p></li></ul><hr><h2><strong>What We're Looking For</strong></h2><ul><li><p>Degree in Computer Science, Engineering, Mathematics, Statistics or a related field</p></li><li><p>4+ years of commercial machine learning experience</p></li><li><p>Proven expertise in time series forecasting and predictive modelling</p></li><li><p>Strong background in statistics, probability and model validation</p></li><li><p>Experience with forecasting techniques such as ARIMA, Prophet, LSTM, GRU, Transformers or similar</p></li><li><p>Strong Python skills with experience using PyTorch and/or TensorFlow</p></li><li><p>Experience working with complex real-world datasets, including noisy, incomplete or irregularly sampled data</p></li><li><p>Demonstrated ability to deliver measurable improvements through machine learning solutions</p></li><li><p>Strong communication and stakeholder collaboration skills</p></li></ul><hr><h2><strong>Highly Regarded</strong></h2><p>Experience working with:</p><ul><li><p>Industrial IoT, sensor networks or telemetry data</p></li><li><p>Manufacturing, automation, robotics or agricultural technology</p></li><li><p>Predictive maintenance systems</p></li><li><p>Operational optimisation problems</p></li><li><p>Bayesian modelling or probabilistic forecasting</p></li><li><p>Multi-modal learning systems</p></li><li><p>Computer vision integration</p></li><li><p>MLOps and production deployment workflows</p></li></ul><hr><p><br></p>",
+      "keywords": [
+        "machine",
+        "learning",
+        "engineer",
+        "series",
+        "predictive",
+        "modelling"
       ]
     },
     {
