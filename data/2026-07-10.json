@@ -1,627 +1,526 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-10",
   "region": "Gold Coast",
-  "scraped_at": "2026-07-11T07:00:51.555477+10:00",
-  "total_jobs": 68,
+  "scraped_at": "2026-07-10T07:13:57.391960+10:00",
+  "total_jobs": 63,
   "keywords": [
     {
       "term": "it",
-      "count": 14,
-      "share": 0.2059
+      "count": 12,
+      "share": 0.1905
     },
     {
       "term": "engineer",
-      "count": 12,
-      "share": 0.1765
+      "count": 11,
+      "share": 0.1746
     },
     {
       "term": "support",
       "count": 10,
-      "share": 0.1471
+      "share": 0.1587
     },
     {
       "term": "manager",
-      "count": 9,
-      "share": 0.1324
+      "count": 8,
+      "share": 0.127
     },
     {
       "term": "analyst",
       "count": 7,
-      "share": 0.1029
+      "share": 0.1111
     },
     {
       "term": "systems",
       "count": 6,
-      "share": 0.0882
-    },
-    {
-      "term": "officer",
-      "count": 6,
-      "share": 0.0882
+      "share": 0.0952
     },
     {
       "term": "business",
       "count": 5,
-      "share": 0.0735
+      "share": 0.0794
     },
     {
-      "term": "software",
+      "term": "specialist",
       "count": 5,
-      "share": 0.0735
-    },
-    {
-      "term": "platform",
-      "count": 5,
-      "share": 0.0735
+      "share": 0.0794
     },
     {
       "term": "ict",
       "count": 5,
-      "share": 0.0735
+      "share": 0.0794
+    },
+    {
+      "term": "software",
+      "count": 4,
+      "share": 0.0635
     },
     {
       "term": "developer",
       "count": 4,
-      "share": 0.0588
+      "share": 0.0635
     },
     {
-      "term": "specialist",
+      "term": "officer",
       "count": 4,
-      "share": 0.0588
+      "share": 0.0635
+    },
+    {
+      "term": "platform",
+      "count": 4,
+      "share": 0.0635
     },
     {
       "term": "project",
       "count": 4,
-      "share": 0.0588
+      "share": 0.0635
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0441
+      "share": 0.0476
     },
     {
       "term": "infrastructure",
       "count": 3,
-      "share": 0.0441
+      "share": 0.0476
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0441
+      "share": 0.0476
     },
     {
       "term": "automation",
       "count": 3,
-      "share": 0.0441
-    },
-    {
-      "term": "desk",
-      "count": 3,
-      "share": 0.0441
+      "share": 0.0476
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0441
-    },
-    {
-      "term": "technology",
-      "count": 3,
-      "share": 0.0441
+      "share": 0.0476
     },
     {
       "term": "development",
       "count": 3,
-      "share": 0.0441
+      "share": 0.0476
     },
     {
       "term": "field",
       "count": 3,
-      "share": 0.0441
+      "share": 0.0476
     },
     {
       "term": "web",
       "count": 3,
-      "share": 0.0441
+      "share": 0.0476
     },
     {
       "term": "enterprise",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0317
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0317
     },
     {
       "term": "month",
       "count": 2,
-      "share": 0.0294
-    },
-    {
-      "term": "broadbeach",
-      "count": 2,
-      "share": 0.0294
+      "share": 0.0317
     },
     {
       "term": "coordinator",
       "count": 2,
-      "share": 0.0294
-    },
-    {
-      "term": "technical",
-      "count": 2,
-      "share": 0.0294
-    },
-    {
-      "term": "engineering",
-      "count": 2,
-      "share": 0.0294
+      "share": 0.0317
     },
     {
       "term": "ai",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0317
     },
     {
-      "term": "help",
+      "term": "desk",
       "count": 2,
-      "share": 0.0294
-    },
-    {
-      "term": "assistant",
-      "count": 2,
-      "share": 0.0294
+      "share": 0.0317
     },
     {
       "term": "service",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0317
     },
     {
       "term": "customer",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0317
     },
     {
       "term": "success",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0317
     },
     {
       "term": "house",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0317
+    },
+    {
+      "term": "technology",
+      "count": 2,
+      "share": 0.0317
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0317
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "ecosystem",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "greenfield",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "practice",
       "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "incident",
-      "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "problem",
-      "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "wfh",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
+    },
+    {
+      "term": "incident",
+      "count": 1,
+      "share": 0.0159
+    },
+    {
+      "term": "problem",
+      "count": 1,
+      "share": 0.0159
     },
     {
       "term": "reporting",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "parental",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "leave",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "cover",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
+    },
+    {
+      "term": "broadbeach",
+      "count": 1,
+      "share": 0.0159
     },
     {
       "term": "hubspot",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
+    },
+    {
+      "term": "engineering",
+      "count": 1,
+      "share": 0.0159
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "staff",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "founding",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "node.js",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "angular",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "aws",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
+    },
+    {
+      "term": "help",
+      "count": 1,
+      "share": 0.0159
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "operations",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
+    },
+    {
+      "term": "technical",
+      "count": 1,
+      "share": 0.0159
     },
     {
       "term": "medical",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
+    },
+    {
+      "term": "training",
+      "count": 1,
+      "share": 0.0159
     },
     {
       "term": "deployment",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "chief",
-      "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "digital",
-      "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "entity",
-      "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "professionals",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
+    },
+    {
+      "term": "entity",
+      "count": 1,
+      "share": 0.0159
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "integration",
-      "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "platforms",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
+    },
+    {
+      "term": "integration",
+      "count": 1,
+      "share": 0.0159
     },
     {
       "term": "sr",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "encapsulation",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "operator",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "information",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "services",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "nurse",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "midwifery",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "clinical",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "informatics",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "learning",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "consultant",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "apac",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "chapter",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "agentforce",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "inspection",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "maintenance",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
+    },
+    {
+      "term": "assistant",
+      "count": 1,
+      "share": 0.0159
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "north",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "splicers",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0159
     }
   ],
   "jobs": [
-    {
-      "job_id": "93244400",
-      "job_title": "IT Help Desk Assistant",
-      "business_name": "St Andrews Lutheran College",
-      "work_type": "Casual/Vacation",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$43.15 per hour",
-      "area": "Tallebudgera, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93244400",
-      "advertiser_id": "20614204",
-      "posted_date": "2026-07-10T04:11:31Z",
-      "job_description": "<h2>About St Andrews Lutheran College</h2><p>St Andrews Lutheran College is an independent, co-educational school located at the southern end of the Gold Coast, with over 1,400 students from Early Learning to Year 12. We are a Christ-centred community with a mission to strive for excellence in Christian co-education.</p><p>Our employee community is a passionate and dedicated team who inspire and nurture confident young people. As employees, our College Mission of Celebrating the Gospel | Nurturing the Individual | Empowering Lifelong Learners is pivotal to our operation and guides everything we do. We are committed to fostering a supportive, inclusive, and innovative environment where both students and staff can thrive.</p><p>We are committed to fostering a supportive, inclusive, and innovative environment where both students and staff can thrive.</p><h2>Position Overview</h2><ul><li><p><strong>Position title:</strong> IT Help Desk Assistant</p></li><li><p><strong>Workload:</strong> Casual (as required)</p></li><li><p><strong>Hours per day:</strong> Flexible (typically 4-5 hrs)</p></li><li><p><strong>Days per week:</strong> Flexible (typically Mon, Tues, Wed, Fri)</p></li><li><p><strong>Classification: </strong>SO Level 2</p></li><li><p><strong>Pay: </strong>Minimum $43.15/hour</p></li><li><p><strong>Anticipated start date:</strong> Immediately</p></li></ul><h2>The Role</h2><p>We are seeking a proactive and service-oriented IT Help Desk Assistant to support the daily technology needs of our College community. This role is ideal for someone who enjoys problem-solving, working with people, and contributing to a fast-paced, collaborative environment.</p><p>Working closely with the IT team, you will provide frontline technical support to staff and students, helping to ensure seamless access to systems, devices, and digital learning tools.</p><h2>Key Responsibilities</h2><ul><li><p>Provide first-line technical support for hardware, software, and network issues</p></li><li><p>Troubleshoot and resolve user incidents across devices, systems, and applications</p></li><li><p>Assist with the setup, maintenance, and deployment of laptops, tablets, and peripherals</p></li><li><p>Support classroom and staff technology, including AV systems, learning platforms and iPad deplyments</p></li><li><p>Log and track support requests through the help desk system</p></li><li><p>Assist with user account management and access permissions</p></li><li><p>Contribute to IT projects, rollouts, and system improvements as required</p></li></ul><h2>Selection Criteria</h2><p><strong>Essential</strong></p><ul><li><p>Commitment to supporting the Christian ethos and values of St Andrews Lutheran College.</p></li><li><p>Previous experience in an IT support or help desk role</p></li><li><p>Strong troubleshooting and problem-solving skills</p></li><li><p>Knowledge of Windows and/or macOS environments</p></li><li><p>Excellent interpersonal and communication skills</p></li><li><p>Ability to prioritise tasks and work both independently and as part of a team</p></li><li><p>A positive attitude and willingness to learn</p></li></ul><p><strong>Desirable</strong></p><ul><li><p>Experience in an education environment</p></li><li><p>Familiarity with Microsoft 365, Active Directory, device management tools (JAMF &amp; Intune)</p></li><li><p>Relevant IT qualifications or certifications</p></li></ul><p><strong>Application Instructions</strong></p><p>The ideal candidate will embody our values and actively contribute to our vibrant College community, fostering meaningful relationships across the College. If you believe your work ethic and mindset align with our opportunity, please submit your cover letter responding to the above criteria, and resume by clicking the ‘APPLY’ button now.</p><p><strong>Agency applications are respectfully declined.</strong></p><p>St Andrews Lutheran College supports the rights of children and young people and is committed to the safety and wellbeing of students. All applicants are required to undergo a screening process and the successful applicant must successfully obtain a QLD blue card and comply with all College policies and procedures.</p>",
-      "keywords": [
-        "it",
-        "help",
-        "desk",
-        "assistant"
-      ]
-    },
-    {
-      "job_id": "93244386",
-      "job_title": "Chief Digital and Technology Officer",
-      "business_name": "The BUSY Group",
-      "work_type": "Full time",
-      "job_type": "Management",
-      "pay_range": "Circa $200k-$210k + Super",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93244386",
-      "advertiser_id": "14264186",
-      "posted_date": "2026-07-10T04:10:55Z",
-      "job_description": "<p><b>Our purpose is to make skills, education and employment accessible to every person, so they can create their own world of unbounded possibilities.</b></p>\n\n<p><b>About The BUSY Group…</b></p>\n\n<p>The BUSY Group is a not-for-profit organisation which presents nearly 50 years’ experience as a community partner. &nbsp;With multiple business entities operating across 100+ locations Australia-wide and now in New Zealand, Canada and the United Kingdom, we offer an extensive range of employment services and programs, vocational training, apprenticeships, mentoring, Inclusive Employment Australia, specialist schools and allied health services.&nbsp;</p>\n<br><p><b>About the Role</b></p>\n\n<p>The BUSY Group is seeking an exceptional Chief Digital &amp; Technology Officer to shape, accelerate and safeguard our technology, digital and data landscape across Australia. As a key member of our Corporate Leadership Team, you will drive enterprise-wide digital transformation, strengthen cyber security maturity, uplift data capability and ensure our technology ecosystem enables performance, growth and service excellence.</p>\n\n<p>This is a rare opportunity to lead a diverse technology portfolio spanning Information Technology Services, Cyber Security, Data &amp; Analytics and Enterprise Project Delivery—all within a complex, multi‑entity environment committed to innovation, community impact and continuous improvement.</p>\n\n<p>What You’ll Lead</p>\n\n<ul>\n\t<li>Digital transformation — Deliver enterprise-wide change that improves scalability, efficiency and customer/employee experience.</li>\n\t<li>Cyber security uplift — Strengthen governance, controls and risk management aligned with ISO27001, Right Fit for Risk (RFFR) and industry best practice.</li>\n\t<li>Managed service provider leadership — Drive performance, value and service excellence across MSPs, vendors and strategic partners.</li>\n\t<li>Enterprise data strategy — Build modern data lake environments, analytics capability and evidence‑based decision-making.</li>\n\t<li>Technology strategy — Align digital, cyber, infrastructure and data initiatives with organisational priorities and growth.</li>\n</ul>\n\n<p>You’ll shape the digital backbone of a purpose-driven organisation making a real difference across Australia. You’ll lead transformation at scale, influence enterprise strategy, and build future‑ready capabilities that empower our people, partners and communities. The position involves:</p>\n\n<ul>\n\t<li>Lead, mentor and develop high-performing teams across IT Services, Cyber Security, Data &amp; Analytics and Project Delivery.</li>\n\t<li>Foster a culture of accountability, collaboration, innovation and customer service.</li>\n\t<li>Develop and execute BUSY’s technology, digital, cyber security and data strategy.</li>\n\t<li>Oversee enterprise-wide digital transformation and change adoption.</li>\n\t<li>Ensure infrastructure, platforms, applications and support services meet evolving business needs.</li>\n\t<li>Establish and continuously improve cyber security governance, controls and incident response.</li>\n\t<li>Ensure alignment with ISO27001, RFFR, regulatory obligations and best practice.</li>\n\t<li>Manage MSPs, vendors and strategic partners to ensure value, service excellence and contractual compliance.</li>\n\t<li>Negotiate technology contracts and commercial arrangements.</li>\n\t<li>Drive optimisation of enterprise data platforms and analytics environments.</li>\n\t<li>Uphold BUSY Group’s commitment to child safety and safeguarding principles.</li>\n</ul>\n\n<p>This role is ideally based at Southport, QLD, however Brisbane or relocation will be considered for an outstanding candidate.</p>\n\n<p><b>BUSY Benefits...</b></p>\n\n<ul>\n\t<li>Competitive salary</li>\n\t<li>4&nbsp;additional&nbsp;paid annual leave days – 1 My BUSY Day and 3 days at Christmas&nbsp;</li>\n\t<li>Dedicated training budget for personal and professional growth&nbsp;&nbsp;</li>\n\t<li>BUSY Benefits program -&nbsp;Paid parental Leave, retail&nbsp;discounts&nbsp;and access to Fitness Passport</li>\n\t<li>Enjoy work that genuinely&nbsp;impacts&nbsp;lives&nbsp;</li>\n\t<li>Employee Assistance Program with Sonder Wellbeing App</li>\n</ul>\n<br><p><b>About You</b></p>\n\n<ul>\n\t<li>10+ years in senior IT leadership across complex, multi‑site environments.</li>\n\t<li>Broad technical understanding across Citrix, networking, security, Microsoft 365/SharePoint Online, Windows Virtual Desktop, databases and analytics tools (Dynamics, PowerBI, SQL, Jet Reports).</li>\n\t<li>Extensive experience with Windows Server, Exchange, AD, Azure AD, Group Policy, Intune MDM and modern operating platforms.</li>\n\t<li>Proven capability in digital transformation, innovation and strategic technology leadership.</li>\n\t<li>Experience managing MSPs and external supplier relationships.</li>\n\t<li>Strong commercial acumen with ability to present business cases and strategic recommendations.</li>\n\t<li>Highly developed communication, stakeholder engagement and problem‑solving skills.</li>\n\t<li>Demonstrated ability to lead teams, drive change and uplift organisational capability.</li>\n\t<li>Tertiary qualification in Information Technology or related discipline.</li>\n\t<li>Post‑graduate qualifications highly regarded.</li>\n\t<li>Blue Card, National Police Check and open driver’s licence.</li>\n</ul>\n\n<p><b>Next steps...</b></p>\n\n<p>Candidate care is important to us; this role will actively commence recruitment from the date of advertisement. The closing date of this ad is dependent on the appointment of the role.</p>\n\n<p>The BUSY Group is an Organisation that puts the best interest of children and young people first by adhering to the Child Safety Organisation National Principles.&nbsp; The appointment of successful applicants&nbsp;will be subject to satisfactory employment screening including, criminal history and relevant working with children checks.</p>\n\n<p>The BUSY Group is committed to achieving a diverse workforce and strongly encourages applications from First Nations People,&nbsp;veterans, people from culturally diverse backgrounds and people with disabilities.</p>",
-      "keywords": [
-        "chief",
-        "digital",
-        "technology",
-        "officer"
-      ]
-    },
-    {
-      "job_id": "93244238",
-      "job_title": "IT Support Officer",
-      "business_name": "Private Advertiser",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Arundel, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93244238",
-      "advertiser_id": "",
-      "posted_date": "2026-07-10T04:05:23Z",
-      "job_description": "<p><strong>About Us:</strong><br>We’re not your typical workplace, and we’re not looking for a typical IT Support Officer. We are enthusiastic, driven and growing....fast!</p><p>We are the ElevenX Group, a management company that supports multiple different brands of varying industries. Our group provides high level management services through a centralised leadership team, creating unity while celebrating the uniqueness of each brand.&nbsp;</p><p><strong>The Opportunity<br></strong>We have an incredible opportunity for an experienced&nbsp;IT Support to join the team in our offices based in Arundel.<br><br>In this role you'll work to monitor, troubleshoot and maintain computer systems and networks, ensuring seamless operations for our team members. This includes setting up devices, configuring computer systems, identifying hardware &amp; software issues, and resolving technical challenges for our team.<br><br>You will use your natural problem-solving skills to overcome challenges identify solutions and utilise your strong interpersonal skills to adapt your communication style to suit your audience.&nbsp;<br><br><strong>What You’ll Be Doing:</strong></p><ul><li><p>Installation and configuration of hardware and applications.</p></li><li><p>Monitoring and maintaining computer systems and networks.</p></li><li><p>Offer support, face to face, over the phone or online to identify and resolve issues.</p></li><li><p>Troubleshoot system/network problems and diagnose and solve hardware/software faults.</p></li><li><p>Support the roll-out of new applications, security configurations and updates.</p></li><li><p>Manage service desk inbox, actioning tickets according to urgency.</p></li><li><p>Work quickly to respond to enquiries and IT issues within determined timelines.</p></li><li><p>Manage other ad hoc IT &amp; Servicedesk tasks as required.</p></li></ul><p><strong>What You’ll Bring:</strong></p><ul><li><p>Relevant Tertiary qualification in IT or minimum 5 years experience in a similar role.</p></li><li><p>Strong communication and interpersonal skills.</p></li><li><p>Highly organised with exceptional time management skills.</p></li><li><p>Proven experience in working autonomously</p></li><li><p>Strong computer literacy including proficiency in Google Workspace</p></li></ul><p><strong>Why You’ll Love It Here:</strong></p><ul><li><p>A values-led culture where high performance and heart go hand in hand</p></li><li><p>A supportive, high-energy People and Culture team</p></li><li><p>Genuine career progression in a growing group</p></li><li><p>The chance to make a real impact, and be trusted to do so</p></li><li><p>Competitive salary</p></li></ul><p><strong>Sound like you?</strong><br>We’d love to hear from you BUT please don't submit a generic cover letter. We want people who go above and beyond and consider themselves high performers. Submit your resume and a short cover letter telling us why you’re excited about this role.</p>",
-      "keywords": [
-        "it",
-        "support",
-        "officer"
-      ]
-    },
-    {
-      "job_id": "93243233",
-      "job_title": "Software Engineering Manager",
-      "business_name": "Buildsafe Queensland Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Engineering - Software",
-      "pay_range": "",
-      "area": "Arundel, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93243233",
-      "advertiser_id": "24217835",
-      "posted_date": "2026-07-10T03:39:25Z",
-      "job_description": "<p><strong>Software Engineering Manager</strong></p><p><strong>Lead the team. Shape the technology. Drive the future.</strong></p><p>Buildsafe has spent the past 25 years building one of Australia's most respected providers of height safety, scaffolding and construction technology solutions.</p><p>Today we're a national business with operations across Australia, and we're investing heavily in the next chapter of our technology journey.</p><p>From modernising our core business systems to expanding our innovative BuildCam platform and embedding AI into the way we build software, we're creating technology that has a real impact on our people, our customers and the construction industry.</p><p>We're looking for an experienced <strong>Software Engineering Manager</strong> who wants to lead that journey.</p><p>This isn't a role where success is measured by how much code you write.</p><p>It's about building a high-performing engineering team, creating an environment where great engineers thrive, and delivering technology that moves the business forward.</p><p><strong>About the Opportunity</strong></p><p>You'll lead our software engineering function, working closely with our Executive team to shape technology strategy while mentoring and developing a talented group of developers.</p><p>In your first three months, you'll spend time understanding our platforms, building relationships with the team, assessing delivery processes and establishing engineering priorities before driving longer-term improvements.</p><p>You'll lead engineering across multiple business-critical platforms supporting a national operation, including our proprietary BuildCam platform, internal operational systems and AI initiatives that support thousands of active construction sites every day.</p><p>You'll help modernise existing platforms, guide architectural decisions, introduce AI-assisted development practices and ensure our team delivers high-quality software that supports a rapidly growing national business.</p><p>You understand that software exists to solve business problems. Working closely with business leaders, you'll translate ideas into practical technology solutions that improve operations, support our customers and create measurable business value.</p><p>If you enjoy helping developers do their best work, improving delivery, removing roadblocks and creating an engineering culture focused on innovation and continuous improvement, we'd love to hear from you.</p><p><br></p><p><strong>What You'll Be Doing</strong></p><p>You'll:</p><ul><li><p>Lead, coach and develop our software engineering team.</p></li><li><p>Set clear priorities and manage delivery across multiple projects.</p></li><li><p>Partner with business leaders to translate ideas into practical technology solutions.</p></li><li><p>Champion modern software development practices and AI-assisted engineering.</p></li><li><p>Guide technical decisions without becoming the team's primary coder.</p></li><li><p>Support the continued evolution of our BuildCam platform and internal business systems.</p></li><li><p>Drive continuous improvement across software delivery, quality and engineering capability.</p></li><li><p>Help shape Buildsafe's long-term technology roadmap.</p></li></ul><p><strong>About You</strong></p><p>You're an experienced engineering leader who enjoys enabling others to succeed.</p><p>You understand that software exists to solve business problems and that building a great engineering team delivers far greater value than personally writing the most code.</p><p>You'll bring:</p><ul><li><p>Experience leading software development or software engineering teams.</p></li><li><p>Strong communication and stakeholder management skills.</p></li><li><p>A practical, commercial approach to technology.</p></li><li><p>Experience delivering software in Agile environments.</p></li><li><p>A passion for mentoring developers and building capability.</p></li><li><p>Curiosity around emerging technologies, particularly AI-assisted development.</p></li><li><p>The ability to balance innovation with delivering reliable business outcomes.</p></li></ul><p><br></p><p><strong>Our Technology</strong></p><p>We're continually evolving our technology landscape as the business grows.</p><p>Our environment includes technologies such as:</p><ul><li><p>React</p></li><li><p>TypeScript</p></li><li><p>PHP</p></li><li><p>Node.js</p></li><li><p>REST APIs</p></li><li><p>SQL</p></li><li><p>Azure</p></li><li><p>Git</p></li><li><p>AI-assisted development tools</p></li></ul><p>You'll also help us modernise and evolve existing business-critical platforms while identifying new technologies that improve productivity and create competitive advantage.</p><p><br></p><p><strong>Why Buildsafe?</strong></p><p>This is an opportunity to join a business where technology has a genuine seat at the table.</p><p>As we celebrate our 25th year, we're investing in the future—not just maintaining what already exists.</p><p>You'll have the opportunity to:</p><ul><li><p>Lead a growing software engineering function.</p></li><li><p>Influence technology strategy across a national business.</p></li><li><p>Help shape the future of our innovative BuildCam platform.</p></li><li><p>Drive AI adoption and modern engineering practices.</p></li><li><p>Work directly with Executive Leadership.</p></li><li><p>Build and develop a high-performing technical team.</p></li><li><p>Make decisions that have a visible impact across the organisation.</p></li></ul><p><br></p><p>You'll also enjoy:</p><ul><li><p>Permanent full-time position based at our Arundel Head Office.</p></li><li><p>Stable Monday–Friday role.</p></li><li><p>Modern office environment.</p></li><li><p>Genuine autonomy and influence.</p></li><li><p>Ongoing professional development.</p></li><li><p>Monthly team lunches and social events.</p></li><li><p>Employee Assistance Program.</p></li><li><p>Fitness Passport memberships.</p></li><li><p>Free onsite parking.</p></li><li><p>A collaborative culture where ideas are valued.</p></li></ul><p><strong>Ready to help build what's next?</strong></p><p>If you're looking for an opportunity to lead people, shape technology and leave a lasting impact on a growing Australian business, we'd love to hear from you.</p>",
-      "keywords": [
-        "software",
-        "engineering",
-        "manager"
-      ]
-    },
-    {
-      "job_id": "93236805",
-      "job_title": "Technical Lead - Broadbeach, QLD",
-      "business_name": "Ignite",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "",
-      "area": "Broadbeach, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93236805",
-      "advertiser_id": "55324746",
-      "posted_date": "2026-07-10T00:34:48Z",
-      "job_description": "<p>&nbsp;</p>\n<p>We are looking for a Technical Lead to provide day-to-day technical leadership of software engineering across our development team, spanning the full software development life cycle: analysis, design, build, test, release and support. This is a senior individual-contributor role for a versatile engineer who moves fluidly between building and maintaining the Azure infrastructure our systems run on and delivering hands-on full-stack engineering across portfolio of travel booking applications, with the balance shifting as our business rapidly evolves and expands internationally. You will hold autonomy over technical decisions for the team, working closely with the Head of Engineering, our Solution Architect, and the wider engineering group.</p>\n<p>&nbsp;</p>\n<p><strong>A day in the life:</strong></p>\n<ul>\n<li>Design, build, maintain and operate the Azure platform that underpins our current and future architecture (Infrastructure as code via bicep, landing zones, networking, Container Apps, API Management, Key Vault), delivering new functionality while also maintaining high availability and security.</li>\n<li>Deliver hands-on full-stack engineering across our B2X applications built on a modern React/TypeScript front-end and .NET back-end, hosted on Azure</li>\n<li>Build API integrations between our applications and our various internal and external platforms to deliver dynamic accommodation, air and inventory connectivity into booking systems.</li>\n<li>Lead the team's adoption of agentic AI engineering tools (including but not limited to Claude Code, GitHub Copilot and GitHub Spec Kit), setting the standards and patterns for their effective use and mentoring others to raise capability</li>\n<li>Provide technical leadership within agile teams, owning code quality through peer review and ensuring high-quality, secure, testable and maintainable code</li>\n<li>Apply best practices for high performance, scalability and security, including PCI-compliant payment handling and data-privacy compliance across customer-facing systems</li>\n<li>Collaborate closely with the Solution Architect to define and validate delivery and architectural standards, applying the agreed architecture as an engineering discipline</li>\n<li>Stay across industry trends and continuously suggest process improvements to enhance team efficiency and software quality</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Who you are:</strong></p>\n<ul>\n<li>Proven hands-on experience with design, build and operation of Azure infrastructure and microservices architecture in an enterprise environment. Industry certifications highly desirable.</li>\n<li>Strong proficiency in agentic software engineering, utilising AI tools such as Claude Code to accelerate delivery in an enterprise environment</li>\n<li>Strong proficiency in full-stack development (focus on .NET): RESTful APIs and modern web application frameworks, Entity Framework, relational databases, data modelling and SQL queries</li>\n<li>Minimum 5 years professional experience as a Technical Lead or similar role, with a strong track record of delivering high-quality software products</li>\n<li>Experience with git version control, and managing CI/CD pipelines and related tools (Azure DevOps, GitHub Actions, Octopus Deploy)</li>\n<li>Strong experience in agile software development methodologies such as Scrum or Kanban</li>\n<li>Experience with DevOps, SRE and observability tooling and practices</li>\n<li>Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field</li>\n<li><strong>Highly desirable:</strong> Experience with Microsoft Dynamics 365 Business Central</li>\n<li><strong>Highly desirable:</strong> Experience with cloud platforms such as AWS</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>What you'll enjoy:</strong></p>\n<p>&nbsp;</p>\n<div>\n<p>📚 Ongoing skills development</p>\n</div>\n<div>\n<p>🚀 Catapult your career across a network of brands and businesses in an evolving industry</p>\n</div>\n<div>\n<p>✈️ Say no to full price! Nab discounts on travel and more thanks to our sweet rewards program</p>\n</div>\n<div>\n<p>👩‍⚕️ Access to industry leading health and well - being programs and financial advisors</p>\n</div>\n<div>\n<p>🌴 Set up shop in a swanky beachfront office in Broadbeach</p>\n</div>\n<div>\n<p>💃🏿 Enjoy social events to promote networking, celebration of wins, and sometimes just for fun!</p>\n</div>\n<div>\n<p>&nbsp;👐🏻 Take volunteer leave as part of giving back to the local community</p>\n<p> #LI-KP1#IGNT#LI-Onsite </p>\n</div>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
-      "keywords": [
-        "technical",
-        "broadbeach"
-      ]
-    },
     {
       "job_id": "93234420",
       "job_title": "Senior/Staff Backend Engineer",
@@ -1261,24 +1160,6 @@
       ]
     },
     {
-      "job_id": "93003180",
-      "job_title": "Senior Platform Engineer",
-      "business_name": "Southern Cross University",
-      "work_type": "Contract/Temp",
-      "job_type": "Engineering - Network",
-      "pay_range": "",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93003180",
-      "advertiser_id": "15012749",
-      "posted_date": "2026-06-29T06:13:48Z",
-      "job_description": "<div><div>\n<ul>\n<li>Design, deliver major network infrastructure projects in an enterprise environment</li>\n<li>Modern technologies - cloud networking, security, wireless, LAN, WAN and voice</li>\n<li>Senior engineering role with enterprise scope and strong project ownership</li>\n</ul>\n<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing Southern Cross Model brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity </strong></p>\n<p>Southern Cross University is continuing to strengthen its enterprise technology platforms to support innovative teaching, research and student experiences. As a Senior Platform Engineer, you will play a key role in designing, implementing and improving the University’s enterprise network infrastructure across multiple campuses.</p>\n<p>Working within a team of five technical engineers, you will contribute to major infrastructure initiatives while maintaining highly secure, resilient and scalable network services. This role offers the opportunity to work across a modern technology stack including, WAN, LAN, cloud networking, security platforms, wireless infrastructure and voice services, while collaborating closely with internal teams and external vendors.</p>\n<p>You will make an impact by:</p>\n<ul>\n<li> Designing and implementing enterprise network infrastructure and major platform improvements</li>\n<li> Supporting secure, reliable network services across on-premise, private cloud and Azure environments</li>\n<li> Leading complex engineering work and providing senior technical guidance within the team</li>\n<li> Collaborating with vendors and internal stakeholders to deliver scalable, resilient technology solutions</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<p>You are an experienced Network or Platform Engineer working within a mid-to-large enterprise environment where you contribute to both day-to-day operations and major infrastructure projects. You enjoy solving complex technical challenges, communicating clearly with stakeholders and delivering reliable, secure network services.</p>\n<p>To succeed in this role, you will also need: </p>\n<ul>\n<li> Undergraduate qualifications in Information Technology, and/or with 4+ years’ experience working in a relevant ICT related field such as network engineering or platform infrastructure </li>\n<li> Strong experience designing and supporting network switching and WiFi infrastructure within enterprise environments</li>\n<li> Knowledge of contemporary network security standards across on-premise, private cloud and Azure environments</li>\n<li> Experience provisioning, administering and troubleshooting enterprise network infrastructure</li>\n<li> Strong communication skills with the ability to work effectively with technical vendors, stakeholders and end-users, with the ability to deliver customer-focused technical support</li>\n<li> Experience working in a higher education or similarly complex organisation, and exposure to enterprise network design, routing protocols, NGFW, ZTNA or load balancing technologies will be highly regarded.</li>\n<li> A current NSW Working with Children Check</li>\n</ul>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the Gold Coast, Coffs Harbour and the Northern Rivers region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li> Full-time, fixed term (23 months)</li>\n<li> Located at Coffs Harbour, NSW 2450.</li>\n<li> HEW Level 7. The base salary ranges from $108,361 - $117,660 per annum, plus 17% employer’s contribution to superannuation. The total remuneration package is up to $137,662.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit Why work at Southern Cross University?</p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>Name: Vivian Cormier</p>\n<p>Email: <a href=\"mailto:Jobs@scu.edu.au\">Jobs@scu.edu.au</a> </p>\n<p><strong>Applications close 11.30pm AEDT 13 July 2026.</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. Employer visa sponsorship is not available for this position. </p>\n<p>Applicants must apply online and attach a CV and cover letter. The cover letter must clearly address each selection criterion in the position description. Information to support you prepare your application is available on our website.&nbsp; &nbsp;</p>\n<p>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to <a href=\"mailto:jobs@scu.edu.au\">jobs@scu.edu.au</a>.</p>\n<p>#LI-VC1</p>\n<p>#CH</p>\n<p>\nPosition Description Opens in new window\n</p>\n</div></div>",
-      "keywords": [
-        "platform",
-        "engineer"
-      ]
-    },
-    {
       "job_id": "93001776",
       "job_title": "Platform Engineer - Infrastructure Platforms",
       "business_name": "Southern Cross University",
@@ -1814,6 +1695,25 @@
         "house",
         "web",
         "developer"
+      ]
+    },
+    {
+      "job_id": "92623081",
+      "job_title": "Training & Support Specialist",
+      "business_name": "HOMSTAR Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Surfers Paradise, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92623081",
+      "advertiser_id": "39189981",
+      "posted_date": "2026-06-10T02:53:30Z",
+      "job_description": "<p><strong>About the role</strong></p><p>We are looking for a passionate and people-focused <strong>Training &amp; Support Specialist</strong> to join the Homhero team. This is a client-facing, high-impact role that sits right at the heart of our customer success story.</p><p>You will be the trusted Homhero guru that our clients rely on, helping holiday rental property managers across Australia get the most out of our software from day one. You will work closely with clients, and our development team in a fast-growing, collaborative environment where communication, initiative, and genuine care for our clients are valued above all else.</p><p>If you love helping people, have a passion for technology, and want to grow with Australia's leading all-in-one solution for holiday property managers, this role was made for you.</p><p><strong>What you will do</strong></p><ul><li><p>Provide support and training to new and existing clients</p></li><li><p>Assist in the onboarding and implementation of new clients</p></li><li><p>Provide support for our partner RMS Cloud</p></li><li><p>Provide support for the software development team</p></li><li><p>Meet with clients for in-house and on-site training sessions</p></li><li><p>Create and document online guides and knowledge base articles</p></li><li><p>Liaise and set up connections with Airbnb, Booking.com, Vrbo and Marriott</p></li><li><p>Take ownership of your role and shape how it evolves</p></li><li><p>Grow with a fast-scaling Australian tech company</p></li></ul><p><strong>Who you are</strong></p><ul><li><p>You have strong written and verbal communication skills</p></li><li><p>You deliver excellent customer service and can engage with a diverse range of property managers and clients</p></li><li><p>You have a minimum of 3+ years experience in customer service or client support roles</p></li><li><p>You build strong relationships using well-developed interpersonal and communication skills</p></li><li><p>You have a proven attention to detail</p></li><li><p>You are able to work autonomously when required</p></li><li><p>You bring sound conflict resolution, negotiation and problem-solving skills</p></li><li><p>Experience with holiday rental or short-term rental software such as Homhero and RMS is an advantage</p></li><li><p>Previous experience in property management software training is highly desired</p></li><li><p>Experience within the short-term or holiday rental accommodation industry is highly desired</p></li><li><p>Trust accounting knowledge is an advantage</p></li></ul><p><strong>About Homhero</strong></p><p>Homhero provides property and channel management software to the Australian holiday rental industry, focused on professional operators managing portfolios of 50 or more properties.</p><p>In the 12 months to September 2025:</p><ul><li><p>Over 160 clients supported</p></li><li><p>More than 17,000 properties managed</p></li><li><p>Over 280,000 guest bookings processed</p></li><li><p>Gross booking value exceeding $630 million</p></li></ul><p><strong>Important</strong></p><p>Please <strong>only apply</strong> if you have <strong>full Australian work rights</strong> and live within commuting distance of our Surfers Paradise office.</p>",
+      "keywords": [
+        "training",
+        "support",
+        "specialist"
       ]
     },
     {
