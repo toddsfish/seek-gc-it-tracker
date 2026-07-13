@@ -1,670 +1,516 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-13",
   "region": "Gold Coast",
-  "scraped_at": "2026-07-14T06:50:44.753654+10:00",
-  "total_jobs": 64,
+  "scraped_at": "2026-07-13T06:37:04.719938+10:00",
+  "total_jobs": 62,
   "keywords": [
     {
       "term": "it",
-      "count": 15,
-      "share": 0.2344
-    },
-    {
-      "term": "manager",
-      "count": 11,
-      "share": 0.1719
+      "count": 14,
+      "share": 0.2258
     },
     {
       "term": "engineer",
-      "count": 10,
-      "share": 0.1562
+      "count": 12,
+      "share": 0.1935
+    },
+    {
+      "term": "manager",
+      "count": 9,
+      "share": 0.1452
     },
     {
       "term": "support",
-      "count": 10,
-      "share": 0.1562
-    },
-    {
-      "term": "business",
-      "count": 7,
-      "share": 0.1094
+      "count": 9,
+      "share": 0.1452
     },
     {
       "term": "analyst",
       "count": 7,
-      "share": 0.1094
+      "share": 0.1129
     },
     {
       "term": "systems",
       "count": 6,
-      "share": 0.0938
+      "share": 0.0968
     },
     {
-      "term": "project",
+      "term": "business",
       "count": 5,
-      "share": 0.0781
+      "share": 0.0806
     },
     {
       "term": "software",
       "count": 5,
-      "share": 0.0781
+      "share": 0.0806
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.0781
-    },
-    {
-      "term": "technology",
-      "count": 4,
-      "share": 0.0625
-    },
-    {
-      "term": "telecommunications",
-      "count": 4,
-      "share": 0.0625
+      "share": 0.0806
     },
     {
       "term": "ict",
       "count": 4,
-      "share": 0.0625
+      "share": 0.0645
     },
     {
-      "term": "development",
+      "term": "project",
       "count": 4,
-      "share": 0.0625
+      "share": 0.0645
+    },
+    {
+      "term": "data",
+      "count": 3,
+      "share": 0.0484
     },
     {
       "term": "infrastructure",
       "count": 3,
-      "share": 0.0469
+      "share": 0.0484
     },
     {
-      "term": "coordinator",
+      "term": "developer",
       "count": 3,
-      "share": 0.0469
+      "share": 0.0484
     },
     {
-      "term": "technical",
+      "term": "platform",
       "count": 3,
-      "share": 0.0469
+      "share": 0.0484
     },
     {
       "term": "automation",
       "count": 3,
-      "share": 0.0469
+      "share": 0.0484
     },
     {
       "term": "specialist",
       "count": 3,
-      "share": 0.0469
+      "share": 0.0484
     },
     {
       "term": "desk",
       "count": 3,
-      "share": 0.0469
+      "share": 0.0484
     },
     {
-      "term": "technician",
+      "term": "technology",
       "count": 3,
-      "share": 0.0469
+      "share": 0.0484
+    },
+    {
+      "term": "development",
+      "count": 3,
+      "share": 0.0484
     },
     {
       "term": "field",
       "count": 3,
-      "share": 0.0469
+      "share": 0.0484
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.0312
-    },
-    {
-      "term": "broadbeach",
-      "count": 2,
-      "share": 0.0312
+      "share": 0.0323
     },
     {
       "term": "month",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0323
+    },
+    {
+      "term": "broadbeach",
+      "count": 2,
+      "share": 0.0323
     },
     {
       "term": "administrator",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0323
     },
     {
-      "term": "data",
+      "term": "coordinator",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0323
     },
     {
-      "term": "developer",
+      "term": "technical",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0323
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0323
     },
     {
       "term": "ai",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0323
     },
     {
       "term": "help",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0323
     },
     {
       "term": "assistant",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0323
     },
     {
       "term": "service",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0323
+    },
+    {
+      "term": "technician",
+      "count": 2,
+      "share": 0.0323
+    },
+    {
+      "term": "telecommunications",
+      "count": 2,
+      "share": 0.0323
+    },
+    {
+      "term": "web",
+      "count": 2,
+      "share": 0.0323
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "ecosystem",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "greenfield",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "practice",
       "count": 1,
-      "share": 0.0156
-    },
-    {
-      "term": "hr",
-      "count": 1,
-      "share": 0.0156
-    },
-    {
-      "term": "transformation",
-      "count": 1,
-      "share": 0.0156
-    },
-    {
-      "term": "process",
-      "count": 1,
-      "share": 0.0156
-    },
-    {
-      "term": "improvement",
-      "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "problem",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "wfh",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
+    },
+    {
+      "term": "reporting",
+      "count": 1,
+      "share": 0.0161
+    },
+    {
+      "term": "parental",
+      "count": 1,
+      "share": 0.0161
+    },
+    {
+      "term": "leave",
+      "count": 1,
+      "share": 0.0161
+    },
+    {
+      "term": "cover",
+      "count": 1,
+      "share": 0.0161
     },
     {
       "term": "hubspot",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "staff",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "founding",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "node.js",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "angular",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "aws",
       "count": 1,
-      "share": 0.0156
-    },
-    {
-      "term": "operations",
-      "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
+    },
+    {
+      "term": "operations",
+      "count": 1,
+      "share": 0.0161
     },
     {
       "term": "medical",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "chief",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "professionals",
       "count": 1,
-      "share": 0.0156
-    },
-    {
-      "term": "integration",
-      "count": 1,
-      "share": 0.0156
-    },
-    {
-      "term": "platform",
-      "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
+    },
+    {
+      "term": "platforms",
+      "count": 1,
+      "share": 0.0161
+    },
+    {
+      "term": "integration",
+      "count": 1,
+      "share": 0.0161
     },
     {
       "term": "sr",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "encapsulation",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "operator",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "information",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "services",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "nurse",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "midwifery",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "clinical",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "informatics",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "learning",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "consultant",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "success",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "apac",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "chapter",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "agentforce",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "inspection",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "maintenance",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "north",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "splicers",
       "count": 1,
-      "share": 0.0156
-    },
-    {
-      "term": "rod",
-      "count": 1,
-      "share": 0.0156
-    },
-    {
-      "term": "rope",
-      "count": 1,
-      "share": 0.0156
-    },
-    {
-      "term": "cable",
-      "count": 1,
-      "share": 0.0156
-    },
-    {
-      "term": "hauler",
-      "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0156
-    },
-    {
-      "term": "web",
-      "count": 1,
-      "share": 0.0156
+      "share": 0.0161
     }
   ],
   "jobs": [
-    {
-      "job_id": "93292208",
-      "job_title": "Telecommunications Rod & Rope / Cable Hauler",
-      "business_name": "Tech Four Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Telecommunications",
-      "pay_range": "$36 – $48 per hour",
-      "area": "Yatala, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93292208",
-      "advertiser_id": "63365897",
-      "posted_date": "2026-07-13T10:56:43Z",
-      "job_description": "<h2>Telecommunications Rod &amp; Rope / Cable Hauler</h2><p><strong>Gold Coast, QLD | Brisbane, QLD | Full Time</strong></p><h2>About Tech Four</h2><p>Tech Four is a Gold Coast-based telecommunications company delivering fibre optic infrastructure projects throughout Queensland.</p><p>We work with major telecommunications clients across a range of projects including new fibre construction, network upgrades, maintenance, underground civil works, vacuum excavation, cable hauling and fibre splicing.&nbsp;</p><p>As our business continues to grow, we're looking for reliable, hardworking people to join our field crews.</p><hr><h2>About the Role</h2><p>As a <strong>Telecommunications Rod &amp; Rope / Cable Hauler</strong>, you'll be involved in the construction and maintenance of underground telecommunications infrastructure.</p><p>Your responsibilities may include:</p><ul><li><p>Rod and rope installation through underground conduit networks</p></li><li><p>Hauling fibre optic cable</p></li><li><p>Assisting with fibre optic installations</p></li><li><p>Locating and exposing underground services</p></li><li><p>Vacuum excavation</p></li><li><p>Pit and pipe construction and maintenance</p></li><li><p>Working safely around live underground assets</p></li></ul><hr><h2>Why Join Us?</h2><p>We invest in our people by providing the training, support, quality equipment, and career opportunities needed to help you succeed.</p><ul><li><p>Competitive pay with overtime and away work opportunities with LAFHA</p></li><li><p>Work on major telecommunications infrastructure projects across Queensland and beyond.</p></li><li><p>Be part of a growing company where your hard work is recognised and rewarded.</p></li><li><p>Ongoing training and support to help you gain new skills and industry qualifications.</p></li><li><p>Genuine opportunities for career progression into leading hand, supervisor, or specialist roles.</p></li><li><p>Modern vehicles, quality equipment, and the right tools to get the job done safely and efficiently.</p></li><li><p>Supportive, down-to-earth team culture where everyone pitches in and has each other's backs.</p></li><li><p>Variety in your work – no two days are the same, with projects ranging from rod &amp; rope and cable hauling to civil works, conduit remediation, and fibre network construction.</p></li><li><p>Stable, long-term employment with a strong pipeline of work.</p></li></ul><hr><h2>About You</h2><p>You are someone who:</p><ul><li><p>Has full working rights in Australia</p></li><li><p>Has a white card/driver's licence/first aid-CPR</p></li><li><p>Can work away from home when required for short periods of time</p></li><li><p>Has current police check clearances</p></li><li><p>Is prepared to undertake various tasks as requested</p></li></ul><p>Experience in telecommunications, cable hauling or civil construction is highly regarded</p><hr><h2>Desirable Tickets &amp; Qualifications</h2><p>The following are highly regarded:</p><ul><li><p>HR Licence</p></li><li><p>Asbestos Awareness</p></li><li><p>Silica Awareness</p></li><li><p>Traffic Management (TMI)</p></li><li><p>Underground Asset Locating</p></li><li><p>Confined Space</p></li><li><p>Working at Heights</p></li><li><p>Excavator Ticket</p></li><li><p>Skid Steer Ticket</p></li><li><p>Vacuum Excavation experience</p></li><li><p>Rod &amp; Rope experience</p></li><li><p>Fibre cable hauling experience</p></li><li><p>Civil construction experience</p></li></ul><hr><h2>Why Tech Four?</h2><p>At Tech Four, we're building a team of people who want to develop a long-term career in the telecommunications industry.</p><p>If you're looking for a company that values hard work, invests in its people and offers genuine opportunities to progress, we'd love to hear from you.</p><p>Click <strong>Apply Now</strong> and submit your resume. Include any relevant licences, tickets and experience with your application.</p>",
-      "keywords": [
-        "telecommunications",
-        "rod",
-        "rope",
-        "cable",
-        "hauler"
-      ]
-    },
-    {
-      "job_id": "93288483",
-      "job_title": "Business Analyst/Project Manager – HR Transformation & Process Improvement",
-      "business_name": "PM-Partners Group",
-      "work_type": "Contract/Temp",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "Competitive",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93288483",
-      "advertiser_id": "20626694",
-      "posted_date": "2026-07-13T08:16:18Z",
-      "job_description": "<p><em>PM-Partners group is a specialist Project Management Consultancy. We have a unique way of running projects and providing training and advice, so our clients get the best results with less cost and risk. Each year we deliver over $3B of projects, train over 10,000 people, and help some of Australia’s leading brands improve their PMOs. </em>&nbsp;</p><p><br></p><p><strong>Title: Business Analyst/Project Manager – HR Transformation &amp; Process Improvement</strong></p><p><strong>Contract or Fixed-Term Opportunity | Hybrid</strong></p><p><strong>Location: Gold Coast</strong></p><p>Are you a Business Analyst who enjoys working closely with people, processes and organisational change?</p><p>We are partnering with a respected community-focused organisation seeking a Business Analyst to support a strategic HR transformation initiative. This is an opportunity to take ownership of a high-profile project focused on reviewing and improving the end-to-end employee lifecycle.</p><p>Working with senior stakeholders, you will help assess current-state processes, identify improvement opportunities and design future-state ways of working that are scalable, practical and fit for purpose.</p><p>&nbsp;</p><p><strong>The Role</strong></p><p>Key responsibilities include:</p><ul><li>Conducting stakeholder workshops and discovery sessions</li><li>Mapping current and future-state business processes</li><li>Reviewing policies, procedures and operational practices</li><li>Identifying process gaps, risks and improvement opportunities</li><li>Developing recommendations and supporting implementation planning</li><li>Providing governance, reporting and project support</li><li>Engaging with executive and operational stakeholders</li></ul><p><strong>About You</strong></p><ul><li>Strong Business Analysis experience</li><li>Experience leading discovery and process review activities</li><li>Excellent stakeholder engagement and facilitation skills</li><li>A structured and analytical approach to problem solving</li><li>Strong written documentation skills</li><li>High emotional intelligence and the ability to navigate sensitive conversations</li></ul><p><strong>Highly Regarded</strong></p><ul><li>HR, People &amp; Culture or workforce transformation experience</li><li>Organisational change or process improvement projects</li><li>Policy and procedure review experience</li><li>Exposure to project governance and reporting</li></ul><p><strong>What's on Offer</strong></p><ul><li>12-month engagement</li><li>Flexible engagement options available</li><li>Opportunity to influence organisational transformation</li><li>Significant stakeholder engagement</li><li>High visibility across executive leadership</li></ul><p>This role would suit an experienced Business Analyst looking to work on a meaningful transformation initiative, or a BA seeking to broaden their experience into project leadership and organisational improvement.</p><p><br></p><p><strong>Apply now or contact PM-Partners for a confidential discussion.</strong></p> <p> </p>",
-      "keywords": [
-        "business",
-        "analyst",
-        "project",
-        "manager",
-        "hr",
-        "transformation",
-        "process",
-        "improvement"
-      ]
-    },
-    {
-      "job_id": "93284402",
-      "job_title": "Technology Support Coordinator",
-      "business_name": "Coastal Property Agents",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Broadbeach, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93284402",
-      "advertiser_id": "30373508",
-      "posted_date": "2026-07-13T06:24:33Z",
-      "job_description": "<p><strong>Location:</strong> Broadbeach, Gold Coast<br><strong>Full Time</strong></p><h2>Love technology? Love helping people? Join one of the Gold Coast's leading real estate companies.</h2><p>At Coastal Property Agents, we're more than a real estate business—we're a team passionate about people, innovation and creating exceptional experiences.</p><p>We're looking for a Technology Support Coordinator to become the first point of contact for technology support across our six Gold Coast offices. Reporting to our Technical Strategy Manager, you'll play a key role in ensuring our team has the technology, systems and support they need to perform at their best.</p><p>Whether you're currently working in IT support, systems administration, or you're the technology go-to person within another industry (including real estate), we'd love to hear from you.</p><h2>About the role</h2><p>No two days are the same.</p><p>You'll support our team with day-to-day technology needs while helping deliver an outstanding experience for every Coastal team member.</p><p>Your responsibilities will include:</p><ul><li><p>Being the first point of contact for all internal technology support.</p></li><li><p>Coordinating onboarding and offboarding of team members across all business systems.</p></li><li><p>Creating user accounts and managing system access.</p></li><li><p>Liaising with external IT providers and software partners.</p></li><li><p>Supporting Microsoft 365 and our business technology platforms.</p></li><li><p>Maintaining staff and agent online profiles.</p></li><li><p>Updating our company website and digital platforms.</p></li><li><p>Assisting with Airtable, Coastal Hub, CRM systems and other business applications.</p></li><li><p>Coordinating technology equipment and asset management.</p></li><li><p>Supporting technology projects and continuous improvement initiatives.</p></li></ul><h2>About you</h2><p>You'll enjoy solving problems, helping people and learning new technology.</p><p>You'll also bring:</p><ul><li><p>Outstanding customer service and communication skills.</p></li><li><p>A proactive, solutions-focused mindset.</p></li><li><p>Strong organisational skills and attention to detail.</p></li><li><p>Confidence learning and supporting multiple software platforms.</p></li><li><p>The ability to prioritise competing tasks in a fast-paced environment.</p></li><li><p>A positive, team-first attitude.</p></li></ul><p>Experience within the real estate industry is highly regarded but not essential.</p><h2>Why Coastal?</h2><p>At Coastal, culture matters.</p><p>You'll join a supportive team that genuinely enjoys working together while helping shape the technology experience of one of the Gold Coast's largest independent real estate agencies.</p><p>We offer:</p><ul><li><p>A modern Broadbeach office.</p></li><li><p>Ongoing learning and professional development.</p></li><li><p>Exposure to a wide range of business technologies.</p></li><li><p>A collaborative and supportive leadership team.</p></li><li><p>The opportunity to grow your career as our business continues to evolve.</p></li></ul><p>If you're passionate about technology, enjoy helping people and want to be part of an innovative and growing business, we'd love to hear from you.</p><p><strong>Apply now with your resume and a short cover letter telling us why you'd be a great addition to the Coastal team.</strong></p>",
-      "keywords": [
-        "technology",
-        "support",
-        "coordinator"
-      ]
-    },
-    {
-      "job_id": "93279658",
-      "job_title": "Technical Lead",
-      "business_name": "Just Digital People",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93279658",
-      "advertiser_id": "29028300",
-      "posted_date": "2026-07-13T04:13:09Z",
-      "job_description": "<strong>Technical Lead | Azure | .NET | React</strong><br> &nbsp;<br> &nbsp;<br> <strong>Gold Coast | Hybrid (3 days in the office)</strong><br> &nbsp;<br> We're partnering with an established Australian technology business that's investing heavily in modern cloud architecture, AI-assisted software engineering and the continued evolution of its customer-facing platforms.<br> We're looking for a Technical Lead who enjoys staying hands-on while providing technical leadership across a high-performing engineering team. This is a genuine technical leadership position where you'll influence architecture, mentor developers and help shape engineering standards, while continuing to build software yourself.<br> &nbsp;<br> &nbsp;<br> <strong>What you'll be doing</strong><br> <ul> <li>Providing day-to-day technical leadership across the software engineering team.</li> <li>Designing, building and maintaining enterprise Azure infrastructure using Infrastructure as Code.</li> <li>Developing modern full-stack applications using .NET, React and TypeScript.</li> <li>Building secure REST APIs and integrating with internal and third-party platforms.</li> <li>Driving the adoption of AI-assisted engineering tools such as GitHub Copilot and Claude Code.</li> <li>Working closely with architecture and engineering leadership to shape technical direction.</li> <li>Leading code reviews and mentoring engineers to deliver high-quality, secure and maintainable software.</li> <li>Championing engineering best practices across cloud, DevOps, scalability and security.</li> </ul> &nbsp;<br> <strong>What we're looking for</strong><br> <ul> <li>Proven experience as a Technical Lead or senior hands-on engineering leader.</li> <li>Strong commercial experience designing and operating enterprise Azure environments.</li> <li>Excellent C#/.NET development skills.</li> <li>Experience building modern applications using React and TypeScript.</li> <li>Strong understanding of REST APIs, SQL and microservices architecture.</li> <li>Experience with Infrastructure as Code (Bicep, Terraform or similar).</li> <li>Experience with Azure DevOps, GitHub Actions or modern CI/CD tooling.</li> <li>Exposure to AI-assisted software engineering tools in a commercial environment.</li> <li>Strong communication skills and experience mentoring engineers.</li> </ul> &nbsp;<br> <strong>Nice to have</strong><br> <ul> <li>AWS experience.</li> <li>Experience with Microsoft Dynamics 365 Business Central.</li> <li>Azure certifications.</li> <li>Experience working within highly available, customer-facing digital platforms.</li> </ul> &nbsp;<br> <strong>What's on offer</strong><br> <ul> <li>Hybrid working model with 3 days per week in the office.</li> <li>Opportunity to work with modern cloud-native technologies and AI-assisted engineering tools.</li> <li>Genuine influence over technical direction and engineering standards.</li> <li>A collaborative engineering culture with strong technical leadership.</li> <li>Ongoing professional development and career growth.</li> <li>Competitive salary and benefits package.</li> </ul> &nbsp;<br> If you're an experienced Technical Lead who enjoys remaining hands-on while helping shape engineering teams and technical direction, we'd love to hear from you.",
-      "keywords": [
-        "technical"
-      ]
-    },
-    {
-      "job_id": "93277416",
-      "job_title": "Software Engineering Manager",
-      "business_name": "Buildsafe Queensland Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Engineering - Software",
-      "pay_range": "",
-      "area": "Arundel, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93277416",
-      "advertiser_id": "24217835",
-      "posted_date": "2026-07-13T03:24:04Z",
-      "job_description": "<p><strong>Software Engineering Manager</strong></p><p><strong>Lead the team. Shape the technology. Drive the future.</strong></p><p>Buildsafe has spent the past 25 years building one of Australia's most respected providers of height safety, scaffolding and construction technology solutions.</p><p>Today we're a national business with operations across Australia, and we're investing heavily in the next chapter of our technology journey.</p><p>From modernising our core business systems to expanding our innovative BuildCam platform and embedding AI into the way we build software, we're creating technology that has a real impact on our people, our customers and the construction industry.</p><p>We're looking for an experienced <strong>Software Engineering Manager</strong> who wants to lead that journey.</p><p>This isn't a role where success is measured by how much code you write.</p><p>It's about building a high-performing engineering team, creating an environment where great engineers thrive, and delivering technology that moves the business forward.</p><p><strong>About the Opportunity</strong></p><p>You'll lead our software engineering function, working closely with our Executive team to shape technology strategy while mentoring and developing a talented group of developers.</p><p>In your first three months, you'll spend time understanding our platforms, building relationships with the team, assessing delivery processes and establishing engineering priorities before driving longer-term improvements.</p><p>You'll lead engineering across multiple business-critical platforms supporting a national operation, including our proprietary BuildCam platform, internal operational systems and AI initiatives that support thousands of active construction sites every day.</p><p>You'll help modernise existing platforms, guide architectural decisions, introduce AI-assisted development practices and ensure our team delivers high-quality software that supports a rapidly growing national business.</p><p>You understand that software exists to solve business problems. Working closely with business leaders, you'll translate ideas into practical technology solutions that improve operations, support our customers and create measurable business value.</p><p>If you enjoy helping developers do their best work, improving delivery, removing roadblocks and creating an engineering culture focused on innovation and continuous improvement, we'd love to hear from you.</p><p><br></p><p><strong>What You'll Be Doing</strong></p><p>You'll:</p><ul><li><p>Lead, coach and develop our software engineering team.</p></li><li><p>Set clear priorities and manage delivery across multiple projects.</p></li><li><p>Partner with business leaders to translate ideas into practical technology solutions.</p></li><li><p>Champion modern software development practices and AI-assisted engineering.</p></li><li><p>Guide technical decisions without becoming the team's primary coder.</p></li><li><p>Support the continued evolution of our BuildCam platform and internal business systems.</p></li><li><p>Drive continuous improvement across software delivery, quality and engineering capability.</p></li><li><p>Help shape Buildsafe's long-term technology roadmap.</p></li></ul><p><strong>About You</strong></p><p>You're an experienced engineering leader who enjoys enabling others to succeed.</p><p>You understand that software exists to solve business problems and that building a great engineering team delivers far greater value than personally writing the most code.</p><p>You'll bring:</p><ul><li><p>Experience leading software development or software engineering teams.</p></li><li><p>Strong communication and stakeholder management skills.</p></li><li><p>A practical, commercial approach to technology.</p></li><li><p>Experience delivering software in Agile environments.</p></li><li><p>A passion for mentoring developers and building capability.</p></li><li><p>Curiosity around emerging technologies, particularly AI-assisted development.</p></li><li><p>The ability to balance innovation with delivering reliable business outcomes.</p></li></ul><p><br></p><p><strong>Our Technology</strong></p><p>We're continually evolving our technology landscape as the business grows.</p><p>Our environment includes technologies such as:</p><ul><li><p>React</p></li><li><p>TypeScript</p></li><li><p>PHP</p></li><li><p>Node.js</p></li><li><p>REST APIs</p></li><li><p>SQL</p></li><li><p>Azure</p></li><li><p>Git</p></li><li><p>AI-assisted development tools</p></li></ul><p>You'll also help us modernise and evolve existing business-critical platforms while identifying new technologies that improve productivity and create competitive advantage.</p><p><br></p><p><strong>Why Buildsafe?</strong></p><p>This is an opportunity to join a business where technology has a genuine seat at the table.</p><p>As we celebrate our 25th year, we're investing in the future—not just maintaining what already exists.</p><p>You'll have the opportunity to:</p><ul><li><p>Lead a growing software engineering function.</p></li><li><p>Influence technology strategy across a national business.</p></li><li><p>Help shape the future of our innovative BuildCam platform.</p></li><li><p>Drive AI adoption and modern engineering practices.</p></li><li><p>Work directly with Executive Leadership.</p></li><li><p>Build and develop a high-performing technical team.</p></li><li><p>Make decisions that have a visible impact across the organisation.</p></li></ul><p><br></p><p>You'll also enjoy:</p><ul><li><p>Permanent full-time position based at our Arundel Head Office.</p></li><li><p>Stable Monday–Friday role.</p></li><li><p>Modern office environment.</p></li><li><p>Genuine autonomy and influence.</p></li><li><p>Ongoing professional development.</p></li><li><p>Monthly team lunches and social events.</p></li><li><p>Employee Assistance Program.</p></li><li><p>Fitness Passport memberships.</p></li><li><p>Free onsite parking.</p></li><li><p>A collaborative culture where ideas are valued.</p></li></ul><p><strong>Ready to help build what's next?</strong></p><p>If you're looking for an opportunity to lead people, shape technology and leave a lasting impact on a growing Australian business, we'd love to hear from you.</p>",
-      "keywords": [
-        "software",
-        "engineering",
-        "manager"
-      ]
-    },
-    {
-      "job_id": "93274673",
-      "job_title": "Business Development Manager - Infrastructure",
-      "business_name": "GIGACOMM PTY LTD",
-      "work_type": "Full time",
-      "job_type": "Telecommunications",
-      "pay_range": "",
-      "area": "Surfers Paradise, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93274673",
-      "advertiser_id": "63543834",
-      "posted_date": "2026-07-13T02:14:48Z",
-      "job_description": "<p><strong>The Company</strong>&nbsp;</p><p>The future of the world is increasingly digital and\nconnected however many Australians suffer from frustratingly slow internet. </p><p>At Gigacomm, we believe in the power of\nconnectivity to improve the world we live in. We build and operate an independent\nnetwork which uses the latest technology to provide reliable, ultra-fast\ninternet to Australian homes and businesses up to 2GB/sec. </p><p>We are committed to building a diverse and inclusive team\nwho bring different perspectives, that help best represent the customer and\ncommunities we serve, and who contribute to building a rewarding culture. </p><p>&nbsp;</p><p><strong>About the role</strong></p><p>We are&nbsp;seeking&nbsp;a proactive and results-driven Business Development Manager (BDM) to join our property team. The BDM will&nbsp;be responsible for&nbsp;driving growth by&nbsp;identifying&nbsp;and&nbsp;acquiring&nbsp;properties for telecommunications infrastructure. The candidate will&nbsp;be responsible for&nbsp;building strong relationships with landlords, Strata managers and committees&nbsp;by&nbsp;ensuring a seamless onboarding process. This role is ideal for a motivated individual with a passion for real estate&nbsp;and telecommunications&nbsp;and a talent for sales and client engagement.&nbsp;</p><p></p><p><strong>Key Responsibilities:</strong>&nbsp;</p><ul>\n<li>Prospect and generate new leads through networking, referrals, and marketing campaigns.</li>\n<li>Introduce&nbsp;leads to the telecommunication network and onboard&nbsp;new buildings</li>\n<li>Build and&nbsp;maintain&nbsp;strong relationships with property owners,&nbsp;property&nbsp;investors, and developers.</li>\n<li>Collaborate with the&nbsp;planning and design&nbsp;team to ensure smooth onboarding and&nbsp;handover&nbsp;of new clients.&nbsp;</li>\n<li>Develop and implement strategies to&nbsp;increase the&nbsp;take up&nbsp;of infrastructure.&nbsp;</li>\n<li>Represent the company at industry events,&nbsp;information sessions, community&nbsp;functions&nbsp;and committee meetings.&nbsp;&nbsp;</li>\n<li>Maintain&nbsp;accurate&nbsp;records of leads, opportunities, and client interactions&nbsp;in company systems.&nbsp;&nbsp;</li>\n<li>Monitor market trends and competitor activity to identify new opportunities.&nbsp;</li>\n<li>Effectively explain and educate stakeholders on the telecommunication network and how it operates&nbsp;&nbsp;</li>\n</ul><p><strong>Required Qualifications &amp; Experience:</strong>&nbsp;</p><ul>\n<li>Proven experience in business development,&nbsp;sales&nbsp;or&nbsp;telecommunications&nbsp;&nbsp;</li>\n<li>Strong understanding of the Australian property market and landlord expectations.&nbsp;</li>\n<li>Excellent communication, negotiation, and interpersonal skills.&nbsp;</li>\n<li>Technical understanding of how telecommunication access networks&nbsp;operate&nbsp;and are installed (FTTP desired).&nbsp;</li>\n<li>Self-motivated with the ability to work independently and meet targets.&nbsp;</li>\n<li>Proficiency&nbsp;in CRM software and Microsoft Office Suite.&nbsp;</li>\n<li>Valid driver’s&nbsp;licence&nbsp;and reliable vehicle.&nbsp;</li>\n</ul><p><strong>Desirable:</strong>&nbsp;</p><ul>\n<li>Experience working in a real estate agency environment.&nbsp;</li>\n<li>Established network of property investors and landlords.&nbsp;</li>\n<li>Marketing or digital advertising experience.&nbsp;&nbsp;&nbsp;</li>\n</ul>",
-      "keywords": [
-        "business",
-        "development",
-        "manager",
-        "infrastructure"
-      ]
-    },
-    {
-      "job_id": "93270841",
-      "job_title": "Junior Technician (IT/ Telecommunications)",
-      "business_name": "National Health Australia",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$26 – $32 per hour",
-      "area": "Varsity Lakes, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93270841",
-      "advertiser_id": "41121271",
-      "posted_date": "2026-07-12T23:54:59Z",
-      "job_description": "<p>We have a friendly team in a brand new office in Varsity Lakes.</p><p>Our core business sells personal/ medical alarms, they are essentially a sos button with built in fall detector that seniors or lone workers use in duress.</p><p>We need a someone to join our team who will enter contact numbers, sensitivity settings etc into alarms before dispatch as per programming forms. Devices are programmed by computer and tablet.</p><p>Someone experienced or interested in IT, computers or technology would be well suited. No experience necessary. The role will progress to phone support for existing customers. Applicant needs to be polite and patient.</p><p>Role is either part time 3 days or full time 5 days, depending on availability and the candidate. 9am to 5pm, Monday to Friday from our office in Varsity Lakes.</p>",
-      "keywords": [
-        "technician",
-        "it",
-        "telecommunications"
-      ]
-    },
     {
       "job_id": "93244400",
       "job_title": "IT Help Desk Assistant",
@@ -722,6 +568,25 @@
         "it",
         "support",
         "officer"
+      ]
+    },
+    {
+      "job_id": "93243233",
+      "job_title": "Software Engineering Manager",
+      "business_name": "Buildsafe Queensland Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Engineering - Software",
+      "pay_range": "",
+      "area": "Arundel, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93243233",
+      "advertiser_id": "24217835",
+      "posted_date": "2026-07-10T03:39:25Z",
+      "job_description": "<p><strong>Software Engineering Manager</strong></p><p><strong>Lead the team. Shape the technology. Drive the future.</strong></p><p>Buildsafe has spent the past 25 years building one of Australia's most respected providers of height safety, scaffolding and construction technology solutions.</p><p>Today we're a national business with operations across Australia, and we're investing heavily in the next chapter of our technology journey.</p><p>From modernising our core business systems to expanding our innovative BuildCam platform and embedding AI into the way we build software, we're creating technology that has a real impact on our people, our customers and the construction industry.</p><p>We're looking for an experienced <strong>Software Engineering Manager</strong> who wants to lead that journey.</p><p>This isn't a role where success is measured by how much code you write.</p><p>It's about building a high-performing engineering team, creating an environment where great engineers thrive, and delivering technology that moves the business forward.</p><p><strong>About the Opportunity</strong></p><p>You'll lead our software engineering function, working closely with our Executive team to shape technology strategy while mentoring and developing a talented group of developers.</p><p>In your first three months, you'll spend time understanding our platforms, building relationships with the team, assessing delivery processes and establishing engineering priorities before driving longer-term improvements.</p><p>You'll lead engineering across multiple business-critical platforms supporting a national operation, including our proprietary BuildCam platform, internal operational systems and AI initiatives that support thousands of active construction sites every day.</p><p>You'll help modernise existing platforms, guide architectural decisions, introduce AI-assisted development practices and ensure our team delivers high-quality software that supports a rapidly growing national business.</p><p>You understand that software exists to solve business problems. Working closely with business leaders, you'll translate ideas into practical technology solutions that improve operations, support our customers and create measurable business value.</p><p>If you enjoy helping developers do their best work, improving delivery, removing roadblocks and creating an engineering culture focused on innovation and continuous improvement, we'd love to hear from you.</p><p><br></p><p><strong>What You'll Be Doing</strong></p><p>You'll:</p><ul><li><p>Lead, coach and develop our software engineering team.</p></li><li><p>Set clear priorities and manage delivery across multiple projects.</p></li><li><p>Partner with business leaders to translate ideas into practical technology solutions.</p></li><li><p>Champion modern software development practices and AI-assisted engineering.</p></li><li><p>Guide technical decisions without becoming the team's primary coder.</p></li><li><p>Support the continued evolution of our BuildCam platform and internal business systems.</p></li><li><p>Drive continuous improvement across software delivery, quality and engineering capability.</p></li><li><p>Help shape Buildsafe's long-term technology roadmap.</p></li></ul><p><strong>About You</strong></p><p>You're an experienced engineering leader who enjoys enabling others to succeed.</p><p>You understand that software exists to solve business problems and that building a great engineering team delivers far greater value than personally writing the most code.</p><p>You'll bring:</p><ul><li><p>Experience leading software development or software engineering teams.</p></li><li><p>Strong communication and stakeholder management skills.</p></li><li><p>A practical, commercial approach to technology.</p></li><li><p>Experience delivering software in Agile environments.</p></li><li><p>A passion for mentoring developers and building capability.</p></li><li><p>Curiosity around emerging technologies, particularly AI-assisted development.</p></li><li><p>The ability to balance innovation with delivering reliable business outcomes.</p></li></ul><p><br></p><p><strong>Our Technology</strong></p><p>We're continually evolving our technology landscape as the business grows.</p><p>Our environment includes technologies such as:</p><ul><li><p>React</p></li><li><p>TypeScript</p></li><li><p>PHP</p></li><li><p>Node.js</p></li><li><p>REST APIs</p></li><li><p>SQL</p></li><li><p>Azure</p></li><li><p>Git</p></li><li><p>AI-assisted development tools</p></li></ul><p>You'll also help us modernise and evolve existing business-critical platforms while identifying new technologies that improve productivity and create competitive advantage.</p><p><br></p><p><strong>Why Buildsafe?</strong></p><p>This is an opportunity to join a business where technology has a genuine seat at the table.</p><p>As we celebrate our 25th year, we're investing in the future—not just maintaining what already exists.</p><p>You'll have the opportunity to:</p><ul><li><p>Lead a growing software engineering function.</p></li><li><p>Influence technology strategy across a national business.</p></li><li><p>Help shape the future of our innovative BuildCam platform.</p></li><li><p>Drive AI adoption and modern engineering practices.</p></li><li><p>Work directly with Executive Leadership.</p></li><li><p>Build and develop a high-performing technical team.</p></li><li><p>Make decisions that have a visible impact across the organisation.</p></li></ul><p><br></p><p>You'll also enjoy:</p><ul><li><p>Permanent full-time position based at our Arundel Head Office.</p></li><li><p>Stable Monday–Friday role.</p></li><li><p>Modern office environment.</p></li><li><p>Genuine autonomy and influence.</p></li><li><p>Ongoing professional development.</p></li><li><p>Monthly team lunches and social events.</p></li><li><p>Employee Assistance Program.</p></li><li><p>Fitness Passport memberships.</p></li><li><p>Free onsite parking.</p></li><li><p>A collaborative culture where ideas are valued.</p></li></ul><p><strong>Ready to help build what's next?</strong></p><p>If you're looking for an opportunity to lead people, shape technology and leave a lasting impact on a growing Australian business, we'd love to hear from you.</p>",
+      "keywords": [
+        "software",
+        "engineering",
+        "manager"
       ]
     },
     {
@@ -1126,6 +991,28 @@
       ]
     },
     {
+      "job_id": "93094971",
+      "job_title": "Data and Reporting Analyst - Parental Leave Cover",
+      "business_name": "Keolis Gold Coast",
+      "work_type": "Contract/Temp",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93094971",
+      "advertiser_id": "28957160",
+      "posted_date": "2026-07-02T23:12:19Z",
+      "job_description": "<strong>About us<br>\n<br>\n</strong>\n<p>The G:link is operated and maintained by Keolis Gold Coast (KGC). Keolis Gold Coast is the proud subsidiary of Keolis Australia and New Zealand, a leading private provider of multi-modal public transport in Australia.</p>\n<p><strong>Some of our Benefits</strong></p>\n<ul>\n    <li>Salary Packaging (inc. salary sacrificing additional superannuation and novated car leasing);</li>\n    <li>Education and learning opportunities;</li>\n    <li>Employee Assistance Program (for employees and immediate family);</li>\n    <li>Reward &amp; Recognition (inc. years of service, employee of the year, informal recognition);</li>\n    <li>Health &amp; Wellness Programs (inc. team challenges, Fitness Passport);</li>\n    <li>Flexible work options (including Paid Parental and Adoptive Leave);</li>\n    <li>Onsite parking; and</li>\n    <li>Enjoy a great work life balance on the Gold Coast!</li>\n</ul>\n<p><strong>Our Culture&nbsp;</strong></p>\n<p>What makes working with us so special is our culture, one that embraces our Keolis core values (We Care, We Imagine, We Commit) and shared commitment to the development of high performing natural leaders within the organisation. We are proud to recruit, train and retain the most talented professionals on the Gold Coast, who share our customer (Think Like a Passenger) and safety focused (Zero Harm) approach. Our staff are at the core of what we do, and by cultivating the right environment and values, we have an engaged workforce with a sense of team.</p>\n<p><strong>About the Role</strong></p>\n<p>The Data and Reporting Analyst -&nbsp;Parental Leave Cover&nbsp;position will see you maintain accurate data collection and reporting to enable early detection of key performance indicator trends and corrections, while meeting daily, weekly and monthly reporting deadlines.</p>\n<p><strong>Position Responsibilities</strong></p>\n<p>· Develop and provide reports on key performance indicators as required;</p>\n<p>· Quality control and auditing of data entries into the various system registers;</p>\n<p>· Address any quality issues with the source/root cause;</p>\n<p>· Analyse, cleanse, and transform the user data into usable information, then align the data to business reporting requirements;&nbsp;</p>\n<p>·Liaise with external data providers to ensure the quality of the data that Keolis Gold Coast (KGC) receives meets their reporting requirements;</p>\n<p>· Liaise with all business departments and management levels to ensure the quality of the data meets the reporting requirements;</p>\n<p>· Design reports and develop metrics to analyse and help drive business decisions on identified areas requiring attention;</p>\n<p>· Assist with the continued growth and development of the transition to digital reporting;</p>\n<p>· Support the Scheduling and Events Coordinator as needed in the data and administration tasks.</p>\n<p><strong>Competencies Required</strong></p>\n<p>· Essential: Proven advanced knowledge in Microsoft Word, Excel, PowerPoint;</p>\n<p>· Essential: Experience with producing reports;</p>\n<p>· Favourable, but not essential: experience with PowerBI;</p>\n<p>· Understanding of how to interpret information/data and graphs;</p>\n<p>· Ability to create performance improvement plans;</p>\n<p>· Ability to clearly express processes and information.</p>\n<p><strong>Profile Requirements</strong></p>\n<p>· Fluent in English with excellent written and verbal communication skills;</p>\n<p>· Quick and precise with data entry;</p>\n<p>· Ability to adapt to ever changing reporting requirements and environments;</p>\n<p>· Ability to challenge ideas and processes confidently;</p>\n<p>· Relied upon to work with own initiative as well as collectively in a team;</p>\n<p>· Robust and resilient in regard to disposition;</p>\n<p>· Able to display high levels of attention to detail and vigilance;</p>\n<p>· Able to identify and rectify problems and issues in a timely manner.</p>\n<p>As part of the recruitment processes at KGC, pre-employment checks include National Police Certificate and Rail Safety Worker Pre-employment Medical. Further to this, successful candidates will be required to provide a National Police Certificate where requested throughout employment and maintain their Rail Safety Medical status. Given the nature of the position you have applied for and, in particular, the duties and responsibilities that it includes, KGC considers this to be a reasonable requirement. KGC will assess a candidate’s and employee’s criminal record history against the inherent requirements of the relevant position before making a determination as to their suitability or otherwise for the role.&nbsp;</p>\n<p>Keolis is committed to creating a workplace that builds respect, promotes diversity and encourages inclusiveness.&nbsp;<br>\n<strong><br>\n</strong>Candidates who have applied for this position previously are requested not to reapply, as duplicate applications will not be considered.</p>",
+      "keywords": [
+        "data",
+        "reporting",
+        "analyst",
+        "parental",
+        "leave",
+        "cover"
+      ]
+    },
+    {
       "job_id": "93086235",
       "job_title": "Customer Success Team Lead - APAC",
       "business_name": "Veracross",
@@ -1319,6 +1206,44 @@
         "service",
         "desk",
         "analyst"
+      ]
+    },
+    {
+      "job_id": "93003180",
+      "job_title": "Senior Platform Engineer",
+      "business_name": "Southern Cross University",
+      "work_type": "Contract/Temp",
+      "job_type": "Engineering - Network",
+      "pay_range": "",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93003180",
+      "advertiser_id": "15012749",
+      "posted_date": "2026-06-29T06:13:48Z",
+      "job_description": "<div><div>\n<ul>\n<li>Design, deliver major network infrastructure projects in an enterprise environment</li>\n<li>Modern technologies - cloud networking, security, wireless, LAN, WAN and voice</li>\n<li>Senior engineering role with enterprise scope and strong project ownership</li>\n</ul>\n<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing Southern Cross Model brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity </strong></p>\n<p>Southern Cross University is continuing to strengthen its enterprise technology platforms to support innovative teaching, research and student experiences. As a Senior Platform Engineer, you will play a key role in designing, implementing and improving the University’s enterprise network infrastructure across multiple campuses.</p>\n<p>Working within a team of five technical engineers, you will contribute to major infrastructure initiatives while maintaining highly secure, resilient and scalable network services. This role offers the opportunity to work across a modern technology stack including, WAN, LAN, cloud networking, security platforms, wireless infrastructure and voice services, while collaborating closely with internal teams and external vendors.</p>\n<p>You will make an impact by:</p>\n<ul>\n<li> Designing and implementing enterprise network infrastructure and major platform improvements</li>\n<li> Supporting secure, reliable network services across on-premise, private cloud and Azure environments</li>\n<li> Leading complex engineering work and providing senior technical guidance within the team</li>\n<li> Collaborating with vendors and internal stakeholders to deliver scalable, resilient technology solutions</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<p>You are an experienced Network or Platform Engineer working within a mid-to-large enterprise environment where you contribute to both day-to-day operations and major infrastructure projects. You enjoy solving complex technical challenges, communicating clearly with stakeholders and delivering reliable, secure network services.</p>\n<p>To succeed in this role, you will also need: </p>\n<ul>\n<li> Undergraduate qualifications in Information Technology, and/or with 4+ years’ experience working in a relevant ICT related field such as network engineering or platform infrastructure </li>\n<li> Strong experience designing and supporting network switching and WiFi infrastructure within enterprise environments</li>\n<li> Knowledge of contemporary network security standards across on-premise, private cloud and Azure environments</li>\n<li> Experience provisioning, administering and troubleshooting enterprise network infrastructure</li>\n<li> Strong communication skills with the ability to work effectively with technical vendors, stakeholders and end-users, with the ability to deliver customer-focused technical support</li>\n<li> Experience working in a higher education or similarly complex organisation, and exposure to enterprise network design, routing protocols, NGFW, ZTNA or load balancing technologies will be highly regarded.</li>\n<li> A current NSW Working with Children Check</li>\n</ul>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the Gold Coast, Coffs Harbour and the Northern Rivers region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li> Full-time, fixed term (23 months)</li>\n<li> Located at Coffs Harbour, NSW 2450.</li>\n<li> HEW Level 7. The base salary ranges from $108,361 - $117,660 per annum, plus 17% employer’s contribution to superannuation. The total remuneration package is up to $137,662.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit Why work at Southern Cross University?</p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>Name: Vivian Cormier</p>\n<p>Email: <a href=\"mailto:Jobs@scu.edu.au\">Jobs@scu.edu.au</a> </p>\n<p><strong>Applications close 11.30pm AEDT 13 July 2026.</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. Employer visa sponsorship is not available for this position. </p>\n<p>Applicants must apply online and attach a CV and cover letter. The cover letter must clearly address each selection criterion in the position description. Information to support you prepare your application is available on our website.&nbsp; &nbsp;</p>\n<p>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to <a href=\"mailto:jobs@scu.edu.au\">jobs@scu.edu.au</a>.</p>\n<p>#LI-VC1</p>\n<p>#CH</p>\n<p>\nPosition Description Opens in new window\n</p>\n</div></div>",
+      "keywords": [
+        "platform",
+        "engineer"
+      ]
+    },
+    {
+      "job_id": "93001776",
+      "job_title": "Platform Engineer - Infrastructure Platforms",
+      "business_name": "Southern Cross University",
+      "work_type": "Full time",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "$95,961 - $105,250 plus 17% Superannuation",
+      "area": "Bilinga, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93001776",
+      "advertiser_id": "15012749",
+      "posted_date": "2026-06-29T05:38:06Z",
+      "job_description": "<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing <a href=\"https://www.scu.edu.au/southern-cross-model/\" target=\"_self\">Southern Cross Model</a> brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity</strong></p>\n<p>Southern Cross University is on an ambitious journey to redefine how technology empowers learning, research and community impact. We’re building a future-ready technology organisation - modern, secure, adaptable and driven by innovation. Our teams are embracing emerging technologies, including artificial intelligence, to deliver smarter, more seamless services and to create meaningful benefits for students, staff and the wider community.</p>\n<p>We are seeking a Platform Engineer (Network Security, WAN, LAN &amp; WiFi) to join our Level 3 engineering team, based at our Gold Coast campus. The team consists of five technical engineers, including one Technical Lead, all reporting to the Manager, Infrastructure Platforms, within Technology Platforms.</p>\n<p>This role sits at the heart of our enterprise network environment. You will support and enhance large-scale switching and wireless infrastructure across multiple campuses, working across telephony/voice, wireless, security and modern network monitoring technologies. It’s a hands-on engineering role offering both autonomous ownership of tasks and collaborative project work with internal teams and external vendors.</p>\n<p>If you are ready to step beyond first-line support and take responsibility for enterprise network engineering in a modern environment, this is your opportunity.</p>\n<p>You will make an impact by:</p>\n<ul>\n<li>Administering, provisioning and troubleshooting enterprise network switching and WiFi infrastructure across a multi-campus environment</li>\n<li>Supporting secure, reliable and high performing network services aligned to current network security standards</li>\n<li>Providing Level 3 technical support, resolving escalations and contributing to major incident response and structured change management</li>\n<li>Collaborating with internal stakeholders, application teams and external vendors to deliver resilient and scalable network solutions</li>\n<li>Contributing to continuous improvement initiatives, including network optimization, monitoring enhancements and infrastructure modernisation</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<p>You are currently working as a Network Engineer in a mid-to-large enterprise environment, balancing day-to-day network administration with project-based improvement work. You are technically capable, service-focused and comfortable operating with autonomy and accountability.</p>\n<p>To succeed in this role, you will also need:</p>\n<ul>\n<li>Strong hands-on experience in network switching and WiFi administration, including provisioning, configuration and troubleshooting</li>\n<li>Clear understanding of contemporary network security standards and their application within enterprise infrastructure</li>\n<li>Proven ability to provide customer-focused technical network support while communicating effectively with vendors, stakeholders and end users</li>\n<li>Experience working within complex, multi-site network environments and managing competing priorities</li>\n<li>Relevant qualifications in Information Technology and / or industry certifications such as CCNA or CCNP or equivalent demonstrated experience</li>\n<li>Exposure to enterprise network design, routing protocols and modern security technologies such as Next-Generation Firewalls (NGFW), Zero Trust Network Access (ZTNA), load balancers and network monitoring platforms will also be viewed favourably.</li>\n</ul>\n<p>Join a collaborative team supporting a true enterprise network environment, where you can apply your expertise, broaden your technical exposure and play a key role in delivering secure, modern and resilient infrastructure.</p>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/gold-coast/\" target=\"_self\">Gold Coast</a>, <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/coffs-harbour/\" target=\"_self\">Coffs Harbour</a> and the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/lismore/\" target=\"_self\">Northern Rivers</a> region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li>Full-time, fixed term (22 months)</li>\n<li>Located at Gold Coast, QLD 4225. Relocation Assistance, making it easier to join our regional communities</li>\n<li>HEW Level 6. The base salary ranges from $95,961 - $105,250 per annum, plus 17% employer’s contribution to superannuation. The total remuneration package is up to $123,142.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit <a href=\"https://www.scu.edu.au/about/jobs-at-southern-cross/why-work-at-southern-cross-university/\" target=\"_self\">Why work at Southern Cross University?</a></p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>To view the full position advertisement and details of the application process, please click on the APPLY button where you will be redirected to the Southern Cross University website.</p>\n<p><strong>Applications close 11.30pm AEST 13 July 2026.</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. &nbsp;Employer visa sponsorship is not available for this position.</p>\n<p>Applicants must apply online and attach a CV and cover letter responding to the selection criteria within the position description. Information to support you prepare your application is available on our <a href=\"https://www.scu.edu.au/about/jobsscu/vacancies/applying-for-a-position/\" target=\"_self\">website.</a></p>\n<p><em>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to </em><a href=\"mailto:jobs@scu.edu.au\" target=\"_self\"><em>jobs@scu.edu.au.</em></a></p>\n<p><em>#LI-VC1</em></p>\n<p><em>#GC</em></p>\n",
+      "keywords": [
+        "platform",
+        "engineer",
+        "infrastructure",
+        "platforms"
       ]
     },
     {
@@ -1743,6 +1668,24 @@
         "business",
         "development",
         "manager"
+      ]
+    },
+    {
+      "job_id": "92701288",
+      "job_title": "Web Developer",
+      "business_name": "Civil Safety",
+      "work_type": "Contract/Temp",
+      "job_type": "Web Development & Production",
+      "pay_range": "$80,000 – $100,000 per year",
+      "area": "Ashmore, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92701288",
+      "advertiser_id": "27772325",
+      "posted_date": "2026-06-13T01:10:49Z",
+      "job_description": "<h2><strong>About Civil Safety</strong></h2><p>Civil Safety is a dedicated organisation committed to advancing safety standards and solutions within the civil sector. We leverage technology and expertise to create innovative tools and services that protect and support communities. With a focus on continuous innovation and customer-centric solutions, we are building a team of talented professionals who share our passion for making a positive difference. Our values centre on integrity, excellence, and collaboration, and we foster a workplace where creativity and technical expertise thrive.</p><p><br></p><p><strong>About the role</strong><br><br>Civil Safety is seeking an experienced <strong>Web Developer</strong> to join our team on a <strong>contract basis</strong>. This is an exciting opportunity to contribute to our digital presence and develop innovative web solutions that support our mission in the civil safety sector. Based in <strong>Ashmore, QLD 4214</strong>, you will play a crucial role in designing, building, and maintaining web applications that enhance our service delivery and user experience. This position offers the chance to work with modern technologies whilst making a meaningful impact within a growing organisation.</p><p><br></p><p><strong>Key responsibilities</strong></p><ol><li><p>Design, develop, and deploy responsive web applications using current web development frameworks and technologies</p></li><li><p>Collaborate with stakeholders and cross-functional teams to understand project requirements and translate them into technical specifications</p></li><li><p>Write clean, maintainable, and well-documented code following best practices and coding standards</p></li><li><p>Perform testing, debugging, and troubleshooting to ensure optimal website and application performance</p></li><li><p>Manage and optimise databases, ensuring data integrity and security</p></li><li><p>Implement and maintain web security measures to protect against vulnerabilities and threats</p></li><li><p>Provide technical support and maintenance for existing web applications and websites</p></li><li><p>Stay current with emerging web technologies, frameworks, and industry trends to continuously improve our digital offerings</p></li></ol><p><br></p><p><strong>What we're looking for</strong></p><ol><li><p>Proven experience as a Web Developer or in a similar role, with a portfolio demonstrating your previous work</p></li><li><p>Strong proficiency in front-end languages such as HTML, CSS, and JavaScript, along with experience in modern frameworks such as React, Vue.js, or Angular</p></li><li><p>Solid understanding of back-end development and server-side languages, such as PHP, Python, Node.js, or Java</p></li><li><p>Experience with databases, including both relational (MySQL, PostgreSQL) and non-relational (MongoDB) systems</p></li><li><p>Familiarity with version control systems, particularly Git, and experience working in collaborative development environments</p></li><li><p>Knowledge of web security best practices, including SSL/TLS, authentication, and data protection measures</p></li><li><p>Strong problem-solving skills and the ability to work both independently and as part of a team</p></li><li><p>Excellent communication skills with the ability to explain technical concepts to non-technical stakeholders</p></li><li><p>Preferred: Experience with cloud platforms (AWS, Azure, or Google Cloud), API development, and agile development methodologies</p></li></ol><p><br></p><p><strong>What we offer</strong><br><br>Civil Safety is committed to supporting the professional growth and wellbeing of our team members. We offer:</p><ol><li><p>Competitive contract rates reflecting your experience and expertise</p></li><li><p>Flexible working arrangements to support work-life balance</p></li><li><p>The opportunity to work with cutting-edge technologies on meaningful projects</p></li><li><p>A collaborative and inclusive workplace culture that values innovation and continuous improvement</p></li><li><p>Professional development opportunities to enhance your skills and knowledge</p></li></ol><p><strong>Apply now</strong><br><br>If you are a skilled Web Developer ready to take on an exciting contract opportunity with Civil Safety, we would like to hear from you. Please submit your CV, a cover letter, and a portfolio of your previous work demonstrating your technical capabilities. Join us in driving digital excellence and innovation in the civil safety sector.</p><p><br></p>",
+      "keywords": [
+        "web",
+        "developer"
       ]
     },
     {
