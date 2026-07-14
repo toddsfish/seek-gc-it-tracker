@@ -1,627 +1,531 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-14",
   "region": "Gold Coast",
-  "scraped_at": "2026-07-15T06:51:06.543262+10:00",
-  "total_jobs": 67,
+  "scraped_at": "2026-07-14T06:50:44.753654+10:00",
+  "total_jobs": 64,
   "keywords": [
     {
       "term": "it",
-      "count": 16,
-      "share": 0.2388
+      "count": 15,
+      "share": 0.2344
     },
     {
       "term": "manager",
       "count": 11,
-      "share": 0.1642
-    },
-    {
-      "term": "support",
-      "count": 11,
-      "share": 0.1642
+      "share": 0.1719
     },
     {
       "term": "engineer",
       "count": 10,
-      "share": 0.1493
+      "share": 0.1562
+    },
+    {
+      "term": "support",
+      "count": 10,
+      "share": 0.1562
     },
     {
       "term": "business",
-      "count": 9,
-      "share": 0.1343
+      "count": 7,
+      "share": 0.1094
     },
     {
       "term": "analyst",
-      "count": 8,
-      "share": 0.1194
+      "count": 7,
+      "share": 0.1094
     },
     {
       "term": "systems",
       "count": 6,
-      "share": 0.0896
+      "share": 0.0938
     },
     {
-      "term": "officer",
-      "count": 6,
-      "share": 0.0896
+      "term": "project",
+      "count": 5,
+      "share": 0.0781
     },
     {
       "term": "software",
       "count": 5,
-      "share": 0.0746
+      "share": 0.0781
     },
     {
-      "term": "ict",
+      "term": "officer",
       "count": 5,
-      "share": 0.0746
-    },
-    {
-      "term": "project",
-      "count": 4,
-      "share": 0.0597
+      "share": 0.0781
     },
     {
       "term": "technology",
       "count": 4,
-      "share": 0.0597
+      "share": 0.0625
     },
     {
       "term": "telecommunications",
       "count": 4,
-      "share": 0.0597
+      "share": 0.0625
+    },
+    {
+      "term": "ict",
+      "count": 4,
+      "share": 0.0625
     },
     {
       "term": "development",
       "count": 4,
-      "share": 0.0597
-    },
-    {
-      "term": "ai",
-      "count": 3,
-      "share": 0.0448
+      "share": 0.0625
     },
     {
       "term": "infrastructure",
       "count": 3,
-      "share": 0.0448
+      "share": 0.0469
     },
     {
       "term": "coordinator",
       "count": 3,
-      "share": 0.0448
+      "share": 0.0469
     },
     {
       "term": "technical",
       "count": 3,
-      "share": 0.0448
+      "share": 0.0469
     },
     {
       "term": "automation",
       "count": 3,
-      "share": 0.0448
+      "share": 0.0469
     },
     {
       "term": "specialist",
       "count": 3,
-      "share": 0.0448
+      "share": 0.0469
     },
     {
       "term": "desk",
       "count": 3,
-      "share": 0.0448
+      "share": 0.0469
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0448
+      "share": 0.0469
     },
     {
       "term": "field",
       "count": 3,
-      "share": 0.0448
-    },
-    {
-      "term": "architect",
-      "count": 2,
-      "share": 0.0299
+      "share": 0.0469
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0312
     },
     {
       "term": "broadbeach",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0312
     },
     {
       "term": "month",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0312
     },
     {
       "term": "administrator",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0312
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0312
     },
     {
       "term": "developer",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0312
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0312
+    },
+    {
+      "term": "ai",
+      "count": 2,
+      "share": 0.0312
     },
     {
       "term": "help",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0312
     },
     {
       "term": "assistant",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0312
     },
     {
       "term": "service",
       "count": 2,
-      "share": 0.0299
-    },
-    {
-      "term": "digital",
-      "count": 2,
-      "share": 0.0299
-    },
-    {
-      "term": "solutions",
-      "count": 1,
-      "share": 0.0149
-    },
-    {
-      "term": "ongc",
-      "count": 1,
-      "share": 0.0149
+      "share": 0.0312
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
+    },
+    {
+      "term": "architect",
+      "count": 1,
+      "share": 0.0156
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "ecosystem",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "greenfield",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "practice",
       "count": 1,
-      "share": 0.0149
-    },
-    {
-      "term": "incident",
-      "count": 1,
-      "share": 0.0149
-    },
-    {
-      "term": "problem",
-      "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "hr",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "transformation",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "process",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "improvement",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
+    },
+    {
+      "term": "incident",
+      "count": 1,
+      "share": 0.0156
+    },
+    {
+      "term": "problem",
+      "count": 1,
+      "share": 0.0156
     },
     {
       "term": "wfh",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "hubspot",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "staff",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "founding",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "node.js",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "angular",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "aws",
       "count": 1,
-      "share": 0.0149
-    },
-    {
-      "term": "back",
-      "count": 1,
-      "share": 0.0149
-    },
-    {
-      "term": "office",
-      "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "operations",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "medical",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "chief",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
+    },
+    {
+      "term": "digital",
+      "count": 1,
+      "share": 0.0156
     },
     {
       "term": "professionals",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "sr",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "encapsulation",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "operator",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "information",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "services",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
+    },
+    {
+      "term": "nurse",
+      "count": 1,
+      "share": 0.0156
+    },
+    {
+      "term": "midwifery",
+      "count": 1,
+      "share": 0.0156
+    },
+    {
+      "term": "clinical",
+      "count": 1,
+      "share": 0.0156
+    },
+    {
+      "term": "informatics",
+      "count": 1,
+      "share": 0.0156
     },
     {
       "term": "learning",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "consultant",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "success",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "apac",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "chapter",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "agentforce",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "inspection",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "maintenance",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "north",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "splicers",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "rod",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "rope",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "cable",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "hauler",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0156
     }
   ],
   "jobs": [
-    {
-      "job_id": "93314205",
-      "job_title": "Back Office IT Support Officer",
-      "business_name": "Private Advertiser",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$65,000 – $75,000 per year",
-      "area": "Ormeau, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93314205",
-      "advertiser_id": "",
-      "posted_date": "2026-07-14T07:04:06Z",
-      "job_description": "<h2>Back Office IT Support Officer</h2><p><strong>Join Our Team!</strong></p><p>We're looking for a reliable and proactive <strong>Back Office IT Support Officer</strong> to provide internal technical support and help keep our business systems running smoothly. This role is ideal for someone who enjoys troubleshooting, maintaining IT infrastructure, and supporting staff behind the scenes.</p><h2>About the Role</h2><p>As part of our internal IT team, you'll provide day-to-day support for employees, maintain hardware and software, manage user accounts, and assist with IT projects. You'll play a key role in ensuring our technology is secure, efficient, and available to support business operations.</p><h2>Key Responsibilities</h2><ul><li><p>Provide internal IT support to office staff across the business.</p></li><li><p>Set up, configure, and maintain desktops, laptops, mobile devices, and printers.</p></li><li><p>Manage user accounts, passwords, and access permissions.</p></li><li><p>Install, update, and maintain business software and operating systems.</p></li><li><p>Monitor system performance and resolve technical issues promptly.</p></li><li><p>Assist with network, server, and cloud-based services.</p></li><li><p>Maintain IT asset registers and equipment inventory.</p></li><li><p>Support data backup, cybersecurity, and disaster recovery processes.</p></li><li><p>Document IT procedures and maintain accurate support records.</p></li><li><p>Assist with technology upgrades and implementation projects.</p></li></ul><h2>About You</h2><ul><li><p>Experience in an internal IT support or systems support role.</p></li><li><p>Good knowledge of Windows, Microsoft 365, Active Directory, and basic networking.</p></li><li><p>Strong troubleshooting and analytical skills.</p></li><li><p>Well organised with excellent attention to detail.</p></li><li><p>Able to prioritise tasks and work independently.</p></li><li><p>Strong communication skills with the ability to explain technical issues in plain language.</p></li><li><p>IT qualifications or relevant certifications are desirable but not essential.</p></li></ul><h2>What We Offer</h2><ul><li><p>A supportive and collaborative work environment.</p></li><li><p>Opportunities for training and professional development.</p></li><li><p>A varied role with exposure to a broad range of technologies.</p></li><li><p>Competitive salary based on experience.</p></li><li><p>Stable, long-term career opportunities.</p></li></ul><p>If you're a dependable IT professional who enjoys supporting internal business operations and keeping systems running efficiently, we'd love to hear from you. Submit your resume and a brief cover letter to apply.</p>",
-      "keywords": [
-        "back",
-        "office",
-        "it",
-        "support",
-        "officer"
-      ]
-    },
-    {
-      "job_id": "93303058",
-      "job_title": "Principal Architect, AI Business solutions - ONGC",
-      "business_name": "Lyra Technology Group",
-      "work_type": "Full time",
-      "job_type": "Architects",
-      "pay_range": "",
-      "area": "Arundel, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93303058",
-      "advertiser_id": "62871597",
-      "posted_date": "2026-07-14T02:39:45Z",
-      "job_description": "<p><strong>Lyra Technology Group</strong>&nbsp;is a&nbsp;private&nbsp;equity-backed holding company that invests in and&nbsp;operates&nbsp;industry leading technology service businesses. Our companies are&nbsp;operated&nbsp;independently by exceptional management teams. Companies that join our group&nbsp;retain&nbsp;the employees, name, and culture that have made them successful. As a platform of&nbsp;</p><p>Evergreen&nbsp;Services&nbsp;Group, we never divest from businesses we partner with and approach every decision with the goal of driving sustainable and healthy growth over the long term. </p><p></p><p><strong>About The Position</strong></p><p>One of our operating companies, ONGC, is looking for an experienced<strong>&nbsp;AI Business Solutions Architect</strong> to join their team in the Gold Coast, Arundel.</p><p>In this role, you will lead the design, architecture and delivery of innovative AI Business Solutions across Microsoft Dynamics 365, Power Platform, Azure and emerging technologies.</p><p>You will combine technical leadership with hands-on solution delivery, working closely with clients to solve complex business challenges while mentoring a high-performing team of developers and consultants.</p><p></p><p><strong>Responsibilities</strong></p><ul>\n<li>Lead the end-to-end architecture, design and delivery of enterprise solutions across Dynamics 365, Power Platform, Azure, and AI technologies.</li>\n<li>Design and implement complex integrations, including Microsoft Copilot, HubSpot, SharePoint, Azure services, AWS migrations, APIs, and Power Automate Desktop.</li>\n<li>Partner with the General Manager – AI Business Solutions to scope projects, develop technical solutions and support presales activities.</li>\n<li>Translate business requirements into scalable, secure and maintainable technical architectures.</li>\n<li>Act as the senior technical escalation point, providing expert guidance on complex solution challenges.</li>\n<li>Mentor and support Senior and Mid-level Developers, promoting best practice development and architectural standards.</li>\n<li>Collaborate with clients and stakeholders to deliver innovative technology solutions that drive measurable business outcomes.</li>\n<li>Stay at the forefront of Microsoft technologies and AI innovation, identifying opportunities to enhance client solutions and internal capabilities.</li>\n</ul><p><strong>Skills Required</strong></p><ul>\n<li>10+ years in IT Advisory and Implementation</li>\n<li>Extensive experience designing and delivering Microsoft Dynamics 365, Power Platform and Azure solutions.</li>\n<li>Advanced expertise in Power Automate, including Desktop Flows, Power Apps, Dataverse and Azure integration patterns.</li>\n<li>Experience integrating Microsoft technologies with third-party platforms, APIs and cloud services.</li>\n<li>Proven ability to lead solution architecture for complex enterprise projects from discovery through to delivery.</li>\n<li>Excellent stakeholder engagement and communication skills, with the ability to confidently engage both technical teams and executive-level clients.</li>\n<li>Experience supporting presales, solution scoping and technical workshops.</li>\n<li>A hands-on approach with a genuine passion for solving complex technical problems and mentoring others.</li>\n<li>Microsoft certifications in Azure, Dynamics 365, or Power Platform will be highly regarded.</li>\n</ul><p><strong>Benefits</strong></p><ul>\n<li>Flexible working arrangements – 2 days WFH</li>\n<li>Clear career progression pathways</li>\n<li>Exposure to meaningful, enterprise technology projects</li>\n<li>Supportive, collaborative team culture focused on growth and innovation</li>\n<li>Opportunity to work with emerging AI technologies and innovative automation solutions</li>\n<li>Be part of a values-driven organisation committed to delivering exceptional outcomes for clients across Australia</li>\n</ul><p>&nbsp;</p><p>&nbsp;</p><p> </p>",
-      "keywords": [
-        "architect",
-        "ai",
-        "business",
-        "solutions",
-        "ongc"
-      ]
-    },
-    {
-      "job_id": "93299871",
-      "job_title": "Senior Business Analyst",
-      "business_name": "Just Digital People",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93299871",
-      "advertiser_id": "29028300",
-      "posted_date": "2026-07-14T01:10:11Z",
-      "job_description": "<strong>Senior Business Analyst | Digital Products | Agile | AI-Enabled Delivery</strong><br><strong> Gold Coast | Hybrid</strong><br><br><br> We're partnering with an established Australian technology business that's investing heavily in the next generation of its digital platforms.<br><br> We're looking for an experienced Senior Business Analyst to play a key role in delivering a new customer-facing platform while continuing to enhance existing business systems. You'll work closely with engineering, product and business stakeholders, helping shape requirements and ensuring high-quality software delivery.<br><br> This is an opportunity to join a modern engineering team that's embracing AI-assisted ways of working and is continually improving how software is delivered.<br><br><br> <strong>What you'll be doing<br></strong><br> <ul> <li>Gathering and documenting business requirements.</li> <li>Writing user stories, acceptance criteria and process flows.</li> <li>Managing and refining the product backlog.</li> <li>Facilitating workshops and stakeholder meetings.</li> <li>Acting as the bridge between business and engineering teams.</li> <li>Supporting UAT and ensuring solutions meet business requirements.</li> <li>Using AI tools to improve analysis, documentation and delivery.</li> <li>Helping drive continuous improvement across delivery practices.</li> </ul> <br><strong>What we're looking for</strong><br> <ul> <li>5+ years' experience as a Business Analyst.</li> <li>Strong Agile experience.</li> <li>Excellent stakeholder management and communication skills.</li> <li>Experience writing user stories, acceptance criteria and process documentation.</li> <li>Strong analytical and problem-solving skills.</li> <li>Experience with AI-assisted analysis or a genuine interest in adopting AI tooling.</li> <li>Experience within travel, retail or another high-volume digital environment is highly regarded.</li> <li>Experience with Microsoft Dynamics 365 Business Central is advantageous.</li> <li>UI/UX experience is a bonus.</li> </ul> <br><strong>What's on offer<br></strong><br> <ul> <li>Hybrid working.</li> <li>Modern engineering environment.</li> <li>Exposure to AI-enabled delivery practices.</li> <li>Ongoing professional development.</li> <li>Strong collaborative culture.</li> <li>Excellent long-term career opportunities.</li> </ul>",
-      "keywords": [
-        "business",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "93299117",
-      "job_title": "ICT Manager",
-      "business_name": "Davidson",
-      "work_type": "Full time",
-      "job_type": "Management",
-      "pay_range": "A competitive remuneration package",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93299117",
-      "advertiser_id": "39690466",
-      "posted_date": "2026-07-14T00:49:27Z",
-      "job_description": "<p><strong>About the Company</strong><br> <br>St Hilda's School is one of Australia's leading independent Anglican schools, educating students from Pre-Prep to Year 12, including boarding. Situated on the Gold Coast, the School is recognised for its commitment to academic excellence, and student wellbeing.</p><p><br>Built on strong Anglican values, St Hilda's encourages leadership, service and lifelong learning. Through innovative teaching practices, extensive co-curricular opportunities and a supportive community, students are equipped with the knowledge and character to succeed in an increasingly digital and interconnected world.<br><br>Guided by its motto, Non Nobis Solum (\"Not for Ourselves Alone\"), the School promotes integrity, responsibility and a genuine commitment to making a positive contribution to society.<br><br><strong>About the Role</strong><br><br>St Hilda's School is seeking an accomplished ICT Manager to lead the strategic direction, governance and operational performance of the School's technology environment.<br><br>Reporting to the Director of Business and Operations, this role provides leadership across all aspects of ICT, ensuring technology services enable outstanding educational outcomes while supporting the School's administrative and operational functions.<br><br>The position extends well beyond traditional ICT management. As a trusted adviser to senior leadership, the ICT Manager will shape the School's digital future by driving innovation, strengthening cybersecurity, enhancing data governance and supporting the responsible adoption of emerging technologies, including Artificial Intelligence.<br><br>Leading a dedicated ICT team, the successful candidate will foster a culture of service excellence while ensuring the School's technology ecosystem remains secure, resilient and aligned with strategic priorities.<br><br>The ICT Manager will:</p><ul><li>Develop and run the School's technology strategy, ensuring ICT initiatives support broader organisational objectives.</li><li>Lead the management and optimisation of core technology infrastructure, including networks, cloud services, Microsoft 365, Windows and Apple device environments.</li><li>Strengthen cybersecurity capability through effective governance, risk management and data protection practices.</li><li>Support the responsible adoption of emerging technologies, including Artificial Intelligence, while contributing to long-term digital innovation.</li><li>Oversee the delivery of responsive ICT support services that provide an exceptional experience for staff and students.</li><li>Manage relationships with external technology partners, including procurement, licensing, vendor performance and contract negotiations.</li><li>Collaborate with academic leaders to enhance digital learning environments and classroom technology outcomes.</li><li>Ensure appropriate disaster recovery, business continuity and system resilience measures are maintained.</li><li>Lead, coach and develop the ICT team, fostering collaboration, accountability and professional growth.</li><li>Manage technology budgets, project delivery and the successful implementation of new systems and initiatives.</li></ul><p><strong>About You</strong><br><br>You are a strategic technology leader who enjoys balancing long-term planning with operational excellence. You understand that technology exists to enable people and outcomes, and you thrive in environments where collaboration, innovation and service are equally important.<br><br>You'll bring:</p><ul><li>Demonstrated success leading ICT teams within a complex organisational environment, with education sector experience viewed favourably.</li><li>Broad technical knowledge spanning enterprise infrastructure, networking, cloud platforms and end-user computing.</li><li>Practical experience implementing cybersecurity frameworks, managing organisational risk and protecting critical information assets.</li><li>A proven record of delivering technology projects, digital transformation programs and enterprise system implementations.</li><li>The ability to move comfortably between strategic planning and operational execution.</li><li>Excellent communication skills, with the ability to build trusted relationships and explain technical concepts clearly to non-technical stakeholders.</li><li>Experience managing ICT budgets, supplier relationships and commercial contracts.</li><li>A commitment to delivering high-quality customer service and driving continuous improvement.</li><li>An appreciation for, and alignment with, the values and community-focused culture of an Anglican school.</li></ul><p><strong>Qualifications</strong></p><ul><li>Tertiary qualifications in Information Technology or a related discipline.</li><li>Industry certifications in cybersecurity, cloud technologies or enterprise infrastructure (highly regarded).</li><li>Current Blue Card (or eligibility to obtain).</li><li>Current Australian Driver Licence.</li><li>First Aid/CPR qualification, or willingness to obtain.</li></ul><p>Please apply with current resume in Microsoft Word format only (.doc or .docx). If you would like to have a confidential discussion, please contact Raffaelle Brancatella on <a href=\"mailto:raffaelle.brancatella@davidsonwp.com\">raffaelle.brancatella@davidsonwp.com</a>, quoting reference JN-072026-43760. Want to know more about Davidson? Visit us at www.davidsonwp.com</p>",
-      "keywords": [
-        "ict",
-        "manager"
-      ]
-    },
-    {
-      "job_id": "93296457",
-      "job_title": "Digital Officer",
-      "business_name": "City of Gold Coast",
-      "work_type": "Full time",
-      "job_type": "Web Development & Production",
-      "pay_range": "From $101,616 plus superannuation",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93296457",
-      "advertiser_id": "16652581",
-      "posted_date": "2026-07-13T22:24:59Z",
-      "job_description": "<ul> <li><strong>Full Time / 9 day fortnight / 36 hours </strong></li> <li> <strong>Salary: </strong>From $101,616 plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG1843/assets/31522495\">Digital Officer </a> </li> </ul> <p><strong>About the role </strong></p> <p>As a Digital Officer, you will play a key role in maintaining and enhancing the City's digital presence, ensuring our websites and online communication channels deliver exceptional customer experiences, accurate information, and effective marketing and engagement outcomes.</p> <p>Working collaboratively with content owners across the organisation, you will provide expert guidance on web content management and digital best practices, ensuring all online content aligns with the City's Web Standards, Communication Guidelines and Brand Framework.</p> <p>This is an exciting opportunity for a digitally savvy professional who is passionate about user experience, accessibility, content design and continuous improvement.</p> <p><strong>Position Responsibilities</strong></p> <ul> <li>Create, edit and publish web content, page layouts and digital assets including forms, maps, images and PDFs.</li> <li>Work closely with content owners to maintain accurate, relevant and customer-focused website content.</li> <li>Apply HTML and CSS skills to optimise and publish content through content management systems (CMS) and associated digital platforms.</li> <li>Ensure content complies with best practice web standards, including accessibility (WCAG), user experience (UX), information architecture, SEO and readability principles.</li> <li>Utilise multimedia and content creation tools such as Adobe Creative Suite, electronic direct marketing (EDM) platforms and smart form solutions to develop engaging digital content.</li> <li>Monitor, analyse and report on website traffic, customer behaviour and digital engagement trends.</li> <li>Identify and recommend improvements that enhance website performance, usability and customer experience.</li> <li>Perform day-to-day website administration activities, including quality assurance reviews, content audits and the removal of outdated or redundant content.</li> <li>Build positive relationships with stakeholders and contribute effectively within a collaborative and fast-paced team environment.</li> </ul> <p><strong>About you</strong></p> <p>You are a proactive and customer-focused digital professional with strong web content management skills and a keen eye for detail. You enjoy working with a diverse range of stakeholders and are passionate about delivering accessible, user-friendly and engaging digital experiences.</p> <p>To be successful in this role, you will demonstrate:</p> <ul> <li>Experience managing and maintaining website content using content management systems.</li> <li>Knowledge of web standards, accessibility requirements, SEO principles and user experience best practices.</li> <li>Practical skills in HTML and CSS.</li> <li>Experience using digital content creation and multimedia tools.</li> <li>Strong analytical skills with the ability to interpret website performance data and identify opportunities for improvement.</li> <li>Excellent communication, stakeholder engagement and collaboration skills.</li> <li>Strong organisational skills and the ability to manage competing priorities.</li> </ul> <p><strong>Qualifications and Licences</strong></p> <ul> <li>Bachelor's Degree in Information Systems, Multimedia, Internet Studies or the equivalent experience.</li> <li>Unrestricted Class “C” Driver Licence.</li> <li>Desired - Google Analytics Individual Qualification (GAIQ).</li> </ul> <p><strong>Why join us?</strong></p> <p>Join a team that is committed to delivering innovative digital solutions that improve how our community accesses information and services. You'll have the opportunity to contribute to meaningful projects, work with passionate professionals and help shape the City's digital future.</p> <p><strong>Be part of shaping the Gold Coast’s future </strong></p> <p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p> <p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p> <ul> <li>9-day fortnight </li> <li>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations </li> <li>Personal and professional development courses</li> <li>Access to 350+ fitness facilities through Fitness Passport </li> <li>4 free confidential counselling sessions a year for you or an immediate family member</li> <li>1 free nutritionist and financial advice session per year</li> </ul> <p>We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p> <p><strong>How to apply</strong></p> <p>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable</p> <p><strong>Contact Person</strong> Jansen Croft</p> <p><strong>Contact Email</strong> <a href=\"mailto:JCROFT@goldcoast.qld.gov.au\">JCROFT@goldcoast.qld.gov.au</a></p> <p><strong>Closing Date</strong> Tuesday 21 July @11:59pm</p> <p>Our selection process may include a one-way video interview via Criteria, a face-to-face or virtual interview via Microsoft Teams, reference checks via Xref and additional checks including police checks, employment history checks, qualification checks, pre-employment medical reviews and drug and alcohol testing. </p> <p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We consider all qualified candidates for employment, irrespective of race, age, religion, gender identity, sexual orientation, disability, or other protected characteristics by law.</em> </p>",
-      "keywords": [
-        "digital",
-        "officer"
-      ]
-    },
     {
       "job_id": "93292208",
       "job_title": "Telecommunications Rod & Rope / Cable Hauler",
@@ -1283,6 +1187,27 @@
       ]
     },
     {
+      "job_id": "93062596",
+      "job_title": "Nurse or Midwifery Manager (Clinical Informatics)",
+      "business_name": "Department of Health - Queensland",
+      "work_type": "Full time",
+      "job_type": "Product Management & Development",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93062596",
+      "advertiser_id": "32285210",
+      "posted_date": "2026-07-01T09:29:41Z",
+      "job_description": "<div>\n \n <p>Provide expert advice on digital health initiatives, drives the adoption and optimisation of digital workflows and connectivity solutions, and leads quality improvement activities. </p>\n </div>\n<div>\n <p><strong>PLEASE NOTE: This position may also be filled by a Health Practitioner as per the attached role description. </strong></p>\n<p><strong>&nbsp;</strong><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Nurse or Midwifery Manager (Clinical Informatics)</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Apply advanced knowledge of allied health clinical work practices to the development, implementation and evaluation of new work practices and digital hospital functionality</li>\n<li>Actively engage with staff across all disciplines in relation to digital health, which supports the advancement of a digitally enabled health system</li>\n<li>Support Gold Coast Health clinicians and administrative staff in their adoption and use of digital health technologies</li>\n<li>Influence training initiatives to ensure staff capability that will facilitate the adoption of digital clinical workflows</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>A Bachelor of Nursing/Midwifery or equivalent</li>\n<li>AHPRA Registration</li>\n<li>A master's or higher qualification within a relevant area is highly desirable</li>\n<li>Evidence of vaccination, or be able to be vaccinated against and remain vaccinated against - Measles, Mumps, Rubella, Varicella, Pertussis and Hepatitis B</li>\n<li>Tuberculosis screening, to identify if the tuberculosis vaccination may be required</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time and temporary full time (one permanent position and one temporary position, up to 12 months with possibilty of extension)</li>\n<li>Base salary ranging from $144,991 - $151,949 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.</p>\n<p>DHI is responsible for enhancing efficiency and service delivery improvements to optimise Health Service performance. It also oversees strategic partnerships that help the Health Service implement alternative models of service delivery, ensuring value for money, and driving improvements in performance, and innovation.</p>\n<p>Digital Experience is part of the Digital and Information stream within the division. The service provides:</p>\n<ul>\n<li>Process mining and engineering</li>\n<li>User experience (UX) design</li>\n<li>Software development</li>\n<li>Web development</li>\n<li>Integration / interoperability</li>\n<li>Automation</li>\n<li>Testing</li>\n<li>Digital workflow and adoption support</li>\n</ul>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Tuesday, 14 July 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC686654NG</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
+      "keywords": [
+        "nurse",
+        "midwifery",
+        "manager",
+        "clinical",
+        "informatics"
+      ]
+    },
+    {
       "job_id": "93043979",
       "job_title": "Infrastructure & Systems Administrator",
       "business_name": "Buildsafe Queensland Pty Ltd",
@@ -1666,6 +1591,24 @@
         "msp",
         "it",
         "engineer"
+      ]
+    },
+    {
+      "job_id": "92818143",
+      "job_title": "Project Officer",
+      "business_name": "Mirait Technologies Australia",
+      "work_type": "Full time",
+      "job_type": "Telecommunications",
+      "pay_range": "",
+      "area": "Yatala, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92818143",
+      "advertiser_id": "35632597",
+      "posted_date": "2026-06-19T01:53:06Z",
+      "job_description": "<p><strong>The Opportunity&nbsp;</strong></p>\n\n<p>We are looking for a motivated and career-focused Project Officer to join our team and support the successful delivery of telecommunications projects. This is a fantastic opportunity for someone who has already gained some experience in project coordination, project administration or as a&nbsp;graduate or emerging project professional who is eager to develop into a Project Manager over time.&nbsp;</p>\n\n<p>Based in our Yatala office, you will work closely with Project Managers and key internal stakeholders to help keep projects on track, well-documented and running efficiently.&nbsp;</p>\n\n<p><strong>The Company&nbsp;</strong></p>\n\n<p>Mirait Technologies Australia is a leader in the Telecommunications and Energy infrastructure construction and maintenance space. With a focus on delivering superior outcomes to our customers, we are looking for an experienced&nbsp;Project Officer&nbsp;to join our team.&nbsp;</p>\n<br><p><strong>The Role&nbsp;</strong></p>\n\n<p>The&nbsp;Project Officer&nbsp;is&nbsp;responsible for&nbsp;providing high level administrative&nbsp;expertise&nbsp;and support to the Project Manager to ensure the successful execution of projects as directed.&nbsp;&nbsp;</p>\n\n<p>Duties will include but not be limited to:&nbsp;</p>\n\n<ul>\n\t<li>\n\t<p>Ensure any necessary utility and access authority applications are processed and completed&nbsp;in accordance with&nbsp;schedule requirements,&nbsp;</p>\n\t</li>\n</ul>\n\n<ul>\n\t<li>\n\t<p>Issue Requests for Quotation (RFQs) to subcontractor partners for relevant project components.&nbsp;</p>\n\t</li>\n</ul>\n\n<ul>\n\t<li>\n\t<p>Assist&nbsp;with the creation of simplex project quotes,&nbsp;</p>\n\t</li>\n\t<li>\n\t<p>Prepare PO requisitions ensuring&nbsp;PO's&nbsp;are created and closed out when completed,&nbsp;</p>\n\t</li>\n</ul>\n\n<ul>\n\t<li>\n\t<p>Assist&nbsp;with the compilation, analysis and reporting of project and financial data,&nbsp;</p>\n\t</li>\n</ul>\n\n<ul>\n\t<li>\n\t<p>Assist&nbsp;in the management of subcontract administration including&nbsp;timelines,&nbsp;artefacts&nbsp;and payment reconciliations,&nbsp;</p>\n\t</li>\n</ul>\n\n<ul>\n\t<li>\n\t<p>Collate and check groups timesheets ensuring validity of job codes, ensuring timesheets are presented within payroll deadlines,&nbsp;</p>\n\t</li>\n</ul>\n\n<ul>\n\t<li>\n\t<p>Provide regular progress reports to and as directed by the Project Manager to ensure and&nbsp;evidence&nbsp;resource optimisation on all projects.&nbsp;</p>\n\t</li>\n</ul>\n<br><p><strong>You:&nbsp;</strong></p>\n\n<p>To secure an interview for this&nbsp;great opportunity, it is desirable to meet the following:&nbsp;</p>\n\n<ul>\n\t<li>\n\t<p>Project support across schedules, documentation, and reporting,</p>\n\t</li>\n\t<li>\n\t<p>Demonstrated experience in estimating project costs is highly regarded,&nbsp;</p>\n\t</li>\n\t<li>\n\t<p>Strong stakeholder coordination, with the ability to influence and support delivery outcomes,</p>\n\t</li>\n\t<li>\n\t<p>Understanding of telecommunications or civil construction environments,</p>\n\t</li>\n\t<li>\n\t<p>Experience with project systems,&nbsp;schedules&nbsp;and tracking tools (MS Project, Excel, SharePoint),</p>\n\t</li>\n</ul>\n\n<ul>\n\t<li>\n\t<p>Construction Induction White Card.&nbsp;</p>\n\t</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><strong>Benefits:&nbsp;</strong></p>\n\n<ul>\n\t<li>\n\t<p>Grow your career into Project Management</p>\n\t</li>\n\t<li>\n\t<p>Contribute to a&nbsp;transformative telecommunication&nbsp;project.&nbsp;</p>\n\t</li>\n</ul>\n\n<ul>\n\t<li>\n\t<p>Inclusive Paid Parental Leave Program: Supporting both carers,&nbsp;</p>\n\t</li>\n</ul>\n\n<ul>\n\t<li>\n\t<p>Work/life balance with access to the company Employee Assistance Program&nbsp;</p>\n\t</li>\n</ul>\n\n<ul>\n\t<li>\n\t<p>Commitment to your ongoing professional development.&nbsp;</p>\n\t</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>Apply now! Early applications not only&nbsp;demonstrate&nbsp;your enthusiasm and proactive attitude but also provide you with the advantage of being among the first to be reviewed by our hiring team. Early applicants often&nbsp;benefit&nbsp;from more immediate attention and consideration.&nbsp;Don't&nbsp;miss out on&nbsp;this chance to advance your career and join the Mirait team.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Diversity:&nbsp;</strong></p>\n\n<p>At MIRAIT Technologies Australia,&nbsp;we're&nbsp;dedicated to being an equal opportunity employer, committed to fostering a safe, diverse, and inclusive workplace where every team member feels valued. Recognising that diversity enhances our collective strength, we believe in embracing individuals from diverse backgrounds, cultures, genders, and abilities, creating equal opportunities for all. Upholding a strict policy against any form of harassment, we prioritise nurturing a workplace where all feel safe to thrive.&nbsp;</p>\n\n<p>Join us in our endeavour to construct a workplace characterised by mutual respect, appreciation, and empowerment. If you do require an adjustment during the recruitment process, please contact Brittany&nbsp;Hawthorne on <a href=\"tel:02 4329 9905\">02 4329 9905</a> or email&nbsp;<a href=\"mailto:careers@mirait.com.au\" target=\"_blank\">careers@mirait.com.au</a>.&nbsp;All of&nbsp;your information will be treated as confidential&nbsp;in accordance with&nbsp;the Privacy Act 1988.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>Mirait has zero tolerance&nbsp;for&nbsp;drug &amp; alcohol&nbsp;use&nbsp;and any candidates will undergo&nbsp;pre-employment&nbsp;testing prior to offers being made.&nbsp;</p>\n\n<p>&nbsp;</p>",
+      "keywords": [
+        "project",
+        "officer"
       ]
     },
     {
