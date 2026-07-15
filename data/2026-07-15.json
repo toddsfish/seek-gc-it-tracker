@@ -1,523 +1,528 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-15",
   "region": "Gold Coast",
-  "scraped_at": "2026-07-16T06:50:55.395755+10:00",
-  "total_jobs": 65,
+  "scraped_at": "2026-07-15T06:51:06.543262+10:00",
+  "total_jobs": 67,
   "keywords": [
     {
       "term": "it",
-      "count": 15,
-      "share": 0.2308
+      "count": 16,
+      "share": 0.2388
+    },
+    {
+      "term": "manager",
+      "count": 11,
+      "share": 0.1642
     },
     {
       "term": "support",
       "count": 11,
-      "share": 0.1692
-    },
-    {
-      "term": "manager",
-      "count": 10,
-      "share": 0.1538
+      "share": 0.1642
     },
     {
       "term": "engineer",
       "count": 10,
-      "share": 0.1538
+      "share": 0.1493
     },
     {
       "term": "business",
-      "count": 8,
-      "share": 0.1231
+      "count": 9,
+      "share": 0.1343
     },
     {
       "term": "analyst",
       "count": 8,
-      "share": 0.1231
+      "share": 0.1194
     },
     {
       "term": "systems",
       "count": 6,
-      "share": 0.0923
+      "share": 0.0896
     },
     {
       "term": "officer",
       "count": 6,
-      "share": 0.0923
+      "share": 0.0896
     },
     {
       "term": "software",
       "count": 5,
-      "share": 0.0769
+      "share": 0.0746
+    },
+    {
+      "term": "ict",
+      "count": 5,
+      "share": 0.0746
     },
     {
       "term": "project",
       "count": 4,
-      "share": 0.0615
+      "share": 0.0597
     },
     {
       "term": "technology",
       "count": 4,
-      "share": 0.0615
+      "share": 0.0597
     },
     {
       "term": "telecommunications",
       "count": 4,
-      "share": 0.0615
+      "share": 0.0597
     },
     {
-      "term": "ict",
+      "term": "development",
       "count": 4,
-      "share": 0.0615
+      "share": 0.0597
     },
     {
       "term": "ai",
       "count": 3,
-      "share": 0.0462
+      "share": 0.0448
     },
     {
       "term": "infrastructure",
       "count": 3,
-      "share": 0.0462
+      "share": 0.0448
     },
     {
       "term": "coordinator",
       "count": 3,
-      "share": 0.0462
+      "share": 0.0448
     },
     {
       "term": "technical",
       "count": 3,
-      "share": 0.0462
+      "share": 0.0448
     },
     {
       "term": "automation",
       "count": 3,
-      "share": 0.0462
+      "share": 0.0448
     },
     {
       "term": "specialist",
       "count": 3,
-      "share": 0.0462
+      "share": 0.0448
     },
     {
       "term": "desk",
       "count": 3,
-      "share": 0.0462
+      "share": 0.0448
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0462
-    },
-    {
-      "term": "development",
-      "count": 3,
-      "share": 0.0462
+      "share": 0.0448
     },
     {
       "term": "field",
       "count": 3,
-      "share": 0.0462
-    },
-    {
-      "term": "solution",
-      "count": 2,
-      "share": 0.0308
+      "share": 0.0448
     },
     {
       "term": "architect",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0299
+    },
+    {
+      "term": "solution",
+      "count": 2,
+      "share": 0.0299
     },
     {
       "term": "broadbeach",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0299
     },
     {
       "term": "month",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0299
     },
     {
       "term": "administrator",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0299
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0299
     },
     {
       "term": "developer",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0299
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0299
     },
     {
       "term": "help",
       "count": 2,
-      "share": 0.0308
-    },
-    {
-      "term": "service",
-      "count": 2,
-      "share": 0.0308
+      "share": 0.0299
     },
     {
       "term": "assistant",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0299
+    },
+    {
+      "term": "service",
+      "count": 2,
+      "share": 0.0299
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0308
-    },
-    {
-      "term": "enterprise",
-      "count": 1,
-      "share": 0.0154
-    },
-    {
-      "term": "microsoft",
-      "count": 1,
-      "share": 0.0154
-    },
-    {
-      "term": "ecosystem",
-      "count": 1,
-      "share": 0.0154
-    },
-    {
-      "term": "greenfield",
-      "count": 1,
-      "share": 0.0154
-    },
-    {
-      "term": "practice",
-      "count": 1,
-      "share": 0.0154
+      "share": 0.0299
     },
     {
       "term": "solutions",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
+    },
+    {
+      "term": "enterprise",
+      "count": 1,
+      "share": 0.0149
+    },
+    {
+      "term": "microsoft",
+      "count": 1,
+      "share": 0.0149
+    },
+    {
+      "term": "ecosystem",
+      "count": 1,
+      "share": 0.0149
+    },
+    {
+      "term": "greenfield",
+      "count": 1,
+      "share": 0.0149
+    },
+    {
+      "term": "practice",
+      "count": 1,
+      "share": 0.0149
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "problem",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "hr",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "transformation",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "process",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "improvement",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "wfh",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "hubspot",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "staff",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "founding",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "node.js",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "angular",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "aws",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "back",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "office",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "operations",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "medical",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "chief",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
+    },
+    {
+      "term": "professionals",
+      "count": 1,
+      "share": 0.0149
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "sr",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "encapsulation",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "operator",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "information",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "services",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "learning",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "consultant",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "success",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "apac",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "chapter",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "agentforce",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "inspection",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "maintenance",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "north",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "splicers",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "rod",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "rope",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "cable",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "hauler",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     }
   ],
   "jobs": [
@@ -1757,6 +1762,44 @@
         "business",
         "analyst",
         "broadbeach"
+      ]
+    },
+    {
+      "job_id": "92723181",
+      "job_title": "IT Professionals",
+      "business_name": "Kalfresh Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Management",
+      "pay_range": "",
+      "area": "Kalbar, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92723181",
+      "advertiser_id": "44807201",
+      "posted_date": "2026-06-15T06:06:41Z",
+      "job_description": "<p><strong>The Opportunity</strong></p><p>Kalfresh is expanding its IT capability and is seeking expressions of interest from IT professionals across a range of experience levels and specialisations. Rather than advertising for a single fixed role, we want to hear from talented people first and then shape our team around the right candidates.</p><p>Our primary site is Kalbar (one hour south-west of Brisbane in the Scenic Rim), with options to be based at our Bowen facility or our Brisbane CBD office depending on the role. We are open to discussing working arrangements, including hybrid options, with the right candidates.</p><p>This is a genuine opportunity to get in on the ground floor of a growing IT function within a real Australian business, where your work will be seen, valued and will make a direct difference.</p><p><br></p><p><strong>What We're Looking For</strong></p><p>We are interested in hearing from people with skills and experience across any of the following areas:</p><p><strong>1. General IT Support &amp; Infrastructure</strong></p><p>• Desktop support and troubleshooting</p><p>• Networking – switches, routers, VPNs, wireless</p><p>• Printer and peripheral management</p><p>• Microsoft 365 administration (Exchange Online, Teams, OneDrive, Azure AD/Entra ID)</p><p>• SharePoint configuration and support</p><p>• Hardware lifecycle management and IT asset tracking</p><p>• Strong customer service orientation and the ability to communicate technical concepts clearly to non-technical staff</p><p><strong>2. Microsoft Power Platform</strong></p><p>• Power Automate – designing workflows and automating business processes</p><p>• Power BI – developing dashboards and reports for business stakeholders</p><p>• Power Apps – building and maintaining canvas and model-driven applications</p><p>• Power Pages and Power Virtual Agents (advantageous)</p><p>• An understanding of governance, licensing and best-practice deployment in a business environment</p><p><strong>3. Advanced Power BI Reporting</strong></p><p>• Designing, building and maintaining sophisticated Power BI reports and datasets</p><p>• Data modelling, DAX authoring and performance tuning in Power BI</p><p>• ETL processes and data pipeline experience</p><p>• Translating business requirements into clear reporting solutions</p><p>• Experience working with agricultural, production or operational data highly regarded</p><p><strong>4. Automation &amp; AI (Emerging Focus)</strong></p><p>We are beginning to explore how AI and intelligent automation can add value across our farming, processing and administrative operations. If you have experience with Microsoft Copilot, AI Builder, automation scripting, or applying AI tools in a practical business context, we want to hear from you.</p><p><br></p><p><strong>Who We Want to Hear From</strong></p><p>We are not looking for a perfect match to a fixed job description. We want to hear from people who:</p><p>• Are genuinely skilled in one or more of the areas above</p><p>• Are keen to work in a hands-on, close-knit team environment</p><p>• Are willing to be based at, travel to, or relocate to our Kalbar facility (lifestyle in the Scenic Rim is a genuine perk)</p><p>• Can work independently, take ownership and bring structure to a growing IT function</p><p>• Are curious, practical problem-solvers who want to contribute to something real</p><p>We support training and development. If you have strong fundamentals but not every skill listed, we encourage you to apply</p><p><br></p><p><strong>What We Offer</strong></p><p>• The chance to shape an IT team and function from the ground up</p><p>• Work across interesting and varied technology challenges – from farm to office</p><p>• Lifestyle benefits of the Scenic Rim region, one hour from Brisbane</p><p>• Competitive remuneration commensurate with experience</p><p>• A company that is growing and investing in the future</p><p><br></p><p><strong>How to Apply</strong></p><p>If you are an IT professional who wants to work somewhere your skills will genuinely matter, we would love to hear from you.</p><p>Please submit your CV and a brief cover note outlining your area of expertise and interest via the SEEK Apply button, or email <a href=\"mailto:careers@kalfresh.com.au\">careers@kalfresh.com.au</a>. Tell us a little about what you do, where you are based, and what kind of arrangement would suit you.</p><p><br></p>",
+      "keywords": [
+        "it",
+        "professionals"
+      ]
+    },
+    {
+      "job_id": "92715399",
+      "job_title": "ICT Senior Business Development Manager",
+      "business_name": "The Comtech Group",
+      "work_type": "Full time",
+      "job_type": "Management",
+      "pay_range": "$100,000 base + super + uncapped commission",
+      "area": "Nerang, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92715399",
+      "advertiser_id": "63112748",
+      "posted_date": "2026-06-15T02:24:53Z",
+      "job_description": "<p><strong>ICT Senior Business Development Manager</strong>&nbsp;</p><p><strong>Enterprise ICT, Print &amp; Workplace Technology Solutions</strong>&nbsp;</p><p><strong>Location:</strong> Sydney / Gold Coast / Australia (Hybrid – Extensive Client Engagement Required)&nbsp;<br><strong>Employment Type:</strong> Full-time, Permanent&nbsp;<br><strong>Employer:</strong> Comtech Group&nbsp;<br><strong>Package:</strong> $100,000 base + super + uncapped commission (high OTE, performance-driven)&nbsp;</p><p>&nbsp;</p><p><strong>⚠️ IMPORTANT NOTICE</strong>&nbsp;</p><p>This is a <strong>senior enterprise ICT sales role only.</strong>&nbsp;<br>Applicants without <strong>multi-solution ICT, print, and workplace technology sales experience will not be considered.</strong>&nbsp;</p><p>This role is not suitable for transactional sales, retail IT sales, or single-product vendors.&nbsp;</p><p>&nbsp;</p><p><strong>Role Summary</strong>&nbsp;</p><p>We are seeking a senior-level ICT Business Development Manager with deep experience across <strong>integrated enterprise technology environments</strong>, including print, ICT infrastructure, managed services, AV, communications, and workplace transformation solutions.&nbsp;</p><p>The successful candidate will operate at executive level, driving complex, multi-stakeholder sales cycles and building long-term enterprise revenue streams.&nbsp;</p><p>&nbsp;</p><p><strong>Mandatory Core Experience (Non-Negotiable)</strong>&nbsp;</p><p>Applicants <strong>must demonstrate ALL or most of the following:</strong>&nbsp;</p><p><strong>1. ICT &amp; Managed Services</strong>&nbsp;</p><ul><li><p>Enterprise ICT solution sales (minimum 3–5+ years)&nbsp;&nbsp;</p></li></ul><ul><li><p>Managed IT services and infrastructure solutions&nbsp;&nbsp;</p></li></ul><ul><li><p>Systems integration and enterprise technology environments&nbsp;&nbsp;</p></li></ul><p><strong>2. Print &amp; Document Solutions (Critical Requirement)</strong>&nbsp;</p><ul><li><p>Managed Print Services (MPS)&nbsp;&nbsp;</p></li></ul><ul><li><p>Enterprise print fleet management and optimisation&nbsp;&nbsp;</p></li></ul><ul><li><p>Print infrastructure and document workflow solutions&nbsp;&nbsp;</p></li></ul><p><strong>3. ICT Procurement &amp; Hardware</strong>&nbsp;</p><ul><li><p>ICT hardware sales (enterprise endpoints, servers, infrastructure)&nbsp;&nbsp;</p></li></ul><ul><li><p>Procurement-led solution selling&nbsp;&nbsp;</p></li></ul><ul><li><p>Vendor and lifecycle management experience&nbsp;&nbsp;</p></li></ul><p><strong>4. Digital Workplace &amp; Automation</strong>&nbsp;</p><ul><li><p>Digital automation or document workflow solutions&nbsp;&nbsp;</p></li></ul><ul><li><p>Workplace transformation technologies&nbsp;&nbsp;</p></li></ul><ul><li><p>Enterprise productivity / process optimisation solutions&nbsp;&nbsp;</p></li></ul><p><strong>5. AV, Boardroom &amp; Collaboration Technology</strong>&nbsp;</p><ul><li><p>AV integration solutions (meeting rooms, boardrooms, enterprise deployments)&nbsp;&nbsp;</p></li></ul><ul><li><p>Interactive whiteboards / smart display technology (strong preference)&nbsp;&nbsp;</p></li></ul><ul><li><p>Unified communications and collaboration systems&nbsp;&nbsp;</p></li></ul><p><strong>6. Communications &amp; Connectivity</strong>&nbsp;</p><ul><li><p>PABX systems and VoIP telephony solutions&nbsp;&nbsp;</p></li></ul><ul><li><p>Enterprise connectivity / networking solutions&nbsp;&nbsp;</p></li></ul><ul><li><p>Unified communications platforms&nbsp;&nbsp;</p></li></ul><p><strong>7. Sales Leadership Requirement</strong>&nbsp;</p><ul><li><p>Minimum <strong>5+ years in sales management or senior business development roles</strong>&nbsp;&nbsp;</p></li></ul><ul><li><p>Proven experience managing pipelines, forecasts, and revenue targets&nbsp;&nbsp;</p></li></ul><ul><li><p>Demonstrated ability to operate in structured enterprise sales environments&nbsp;&nbsp;</p></li></ul><p>&nbsp;</p><p><strong>Role Responsibilities</strong>&nbsp;</p><ul><li><p>Drive high-value new business across ICT, print, AV, and communications portfolios&nbsp;&nbsp;</p></li></ul><ul><li><p>Own full enterprise sales lifecycle from prospecting to contract execution&nbsp;&nbsp;</p></li></ul><ul><li><p>Engage senior stakeholders including CIOs, CTOs, Procurement Directors, and Workplace Technology leads&nbsp;&nbsp;</p></li></ul><ul><li><p>Design and sell integrated ICT ecosystems spanning print, managed services, connectivity, and collaboration technologies&nbsp;&nbsp;</p></li></ul><ul><li><p>Develop and expand Managed Print Services (MPS) contracts across enterprise accounts&nbsp;&nbsp;</p></li></ul><ul><li><p>Lead complex enterprise deals involving multiple solution streams and stakeholders&nbsp;&nbsp;</p></li></ul><ul><li><p>Prepare and deliver high-level proposals, tenders, and RFP responses&nbsp;&nbsp;</p></li></ul><ul><li><p>Maintain disciplined CRM forecasting and pipeline governance&nbsp;&nbsp;</p></li></ul><ul><li><p>Achieve aggressive revenue and margin targets across multiple technology categories&nbsp;&nbsp;</p></li></ul><ul><li><p>Collaborate with technical architects and delivery teams on solution design&nbsp;&nbsp;</p></li></ul><p>&nbsp;</p><p><strong>Disqualifying Criteria (Automatic Filter)</strong>&nbsp;</p><p>Applicants will <strong>not be considered</strong> if they:&nbsp;</p><ul><li><p>Lack direct experience in <strong>Managed Print Services (MPS)</strong>&nbsp;&nbsp;</p></li></ul><ul><li><p>Have no exposure to <strong>ICT infrastructure or managed services</strong>&nbsp;&nbsp;</p></li></ul><ul><li><p>Have not sold across <strong>multiple solution domains (ICT + print + AV + communications)</strong>&nbsp;&nbsp;</p></li></ul><ul><li><p>Are primarily hardware-only, retail IT, or single-product sales professionals&nbsp;&nbsp;</p></li></ul><ul><li><p>Lack enterprise-level stakeholder engagement experience (CIO / IT Director level)&nbsp;&nbsp;</p></li></ul><ul><li><p>Do not have structured CRM-driven pipeline experience&nbsp;&nbsp;</p></li></ul><ul><li><p>Have less than 5 years in senior sales or sales management roles&nbsp;&nbsp;</p></li></ul><p>&nbsp;</p><p><strong>Highly Desirable</strong>&nbsp;</p><ul><li><p>Experience across end-to-end ICT ecosystems (multi-solution selling)&nbsp;&nbsp;</p></li></ul><ul><li><p>Government or large enterprise ICT environments&nbsp;&nbsp;</p></li></ul><ul><li><p>Experience with RFP/tender processes&nbsp;&nbsp;</p></li></ul><ul><li><p>Vendor ecosystems (HP, Canon, Ricoh, Microsoft, Cisco, etc.)&nbsp;&nbsp;</p></li></ul><ul><li><p>Proven annuity/recurring revenue growth experience&nbsp;&nbsp;</p></li></ul><ul><li><p>National or multi-territory sales responsibility&nbsp;&nbsp;</p></li></ul><p>&nbsp;</p><p><strong>What We Offer</strong>&nbsp;</p><ul><li><p>Senior autonomous enterprise sales role&nbsp;&nbsp;</p></li></ul><ul><li><p>Broad ICT + workplace technology portfolio&nbsp;&nbsp;</p></li></ul><ul><li><p>Uncapped commission structure with high earning potential&nbsp;&nbsp;</p></li></ul><ul><li><p>Exposure to enterprise transformation projects across Australia&nbsp;&nbsp;</p></li></ul><ul><li><p>Collaboration with technical specialists and solution architects&nbsp;&nbsp;</p></li></ul><ul><li><p>Long-term career growth within a growing ICT organisation&nbsp;&nbsp;</p></li></ul><p>&nbsp;</p><p><strong>Application Process</strong>&nbsp;</p><p>Applications remain open for a minimum of four (4) weeks under Labour Market Testing requirements.&nbsp;</p><p>Only shortlisted candidates meeting <strong>all mandatory criteria across multiple solution domains</strong> will be contacted.&nbsp;</p>",
+      "keywords": [
+        "ict",
+        "business",
+        "development",
+        "manager"
       ]
     },
     {
