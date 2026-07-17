@@ -1,18 +1,18 @@
 {
-  "date": "2026-07-18",
+  "date": "2026-07-17",
   "region": "Gold Coast",
-  "scraped_at": "2026-07-18T06:44:00.011489+10:00",
+  "scraped_at": "2026-07-17T06:46:44.778950+10:00",
   "total_jobs": 67,
   "keywords": [
     {
       "term": "it",
-      "count": 13,
-      "share": 0.194
+      "count": 14,
+      "share": 0.209
     },
     {
-      "term": "analyst",
-      "count": 10,
-      "share": 0.1493
+      "term": "engineer",
+      "count": 11,
+      "share": 0.1642
     },
     {
       "term": "manager",
@@ -20,19 +20,19 @@
       "share": 0.1493
     },
     {
-      "term": "engineer",
+      "term": "support",
       "count": 10,
       "share": 0.1493
     },
     {
-      "term": "support",
+      "term": "analyst",
       "count": 9,
       "share": 0.1343
     },
     {
       "term": "business",
-      "count": 8,
-      "share": 0.1194
+      "count": 7,
+      "share": 0.1045
     },
     {
       "term": "systems",
@@ -40,19 +40,19 @@
       "share": 0.1045
     },
     {
+      "term": "officer",
+      "count": 6,
+      "share": 0.0896
+    },
+    {
       "term": "software",
       "count": 5,
       "share": 0.0746
     },
     {
-      "term": "officer",
+      "term": "ict",
       "count": 5,
       "share": 0.0746
-    },
-    {
-      "term": "ai",
-      "count": 4,
-      "share": 0.0597
     },
     {
       "term": "project",
@@ -70,27 +70,17 @@
       "share": 0.0597
     },
     {
-      "term": "automation",
-      "count": 4,
-      "share": 0.0597
-    },
-    {
-      "term": "specialist",
-      "count": 4,
-      "share": 0.0597
-    },
-    {
       "term": "technology",
       "count": 4,
       "share": 0.0597
     },
     {
-      "term": "ict",
+      "term": "telecommunications",
       "count": 4,
       "share": 0.0597
     },
     {
-      "term": "administrator",
+      "term": "ai",
       "count": 3,
       "share": 0.0448
     },
@@ -100,12 +90,27 @@
       "share": 0.0448
     },
     {
-      "term": "telecommunications",
+      "term": "automation",
+      "count": 3,
+      "share": 0.0448
+    },
+    {
+      "term": "specialist",
+      "count": 3,
+      "share": 0.0448
+    },
+    {
+      "term": "desk",
       "count": 3,
       "share": 0.0448
     },
     {
       "term": "development",
+      "count": 3,
+      "share": 0.0448
+    },
+    {
+      "term": "field",
       "count": 3,
       "share": 0.0448
     },
@@ -121,6 +126,11 @@
     },
     {
       "term": "month",
+      "count": 2,
+      "share": 0.0299
+    },
+    {
+      "term": "administrator",
       "count": 2,
       "share": 0.0299
     },
@@ -145,12 +155,17 @@
       "share": 0.0299
     },
     {
-      "term": "service",
+      "term": "help",
       "count": 2,
       "share": 0.0299
     },
     {
-      "term": "desk",
+      "term": "technician",
+      "count": 2,
+      "share": 0.0299
+    },
+    {
+      "term": "service",
       "count": 2,
       "share": 0.0299
     },
@@ -165,17 +180,7 @@
       "share": 0.0299
     },
     {
-      "term": "field",
-      "count": 2,
-      "share": 0.0299
-    },
-    {
       "term": "test",
-      "count": 2,
-      "share": 0.0299
-    },
-    {
-      "term": "web",
       "count": 2,
       "share": 0.0299
     },
@@ -285,6 +290,16 @@
       "share": 0.0149
     },
     {
+      "term": "staff",
+      "count": 1,
+      "share": 0.0149
+    },
+    {
+      "term": "backend",
+      "count": 1,
+      "share": 0.0149
+    },
+    {
       "term": "founding",
       "count": 1,
       "share": 0.0149
@@ -305,21 +320,6 @@
       "share": 0.0149
     },
     {
-      "term": "staff",
-      "count": 1,
-      "share": 0.0149
-    },
-    {
-      "term": "backend",
-      "count": 1,
-      "share": 0.0149
-    },
-    {
-      "term": "msp",
-      "count": 1,
-      "share": 0.0149
-    },
-    {
       "term": "back",
       "count": 1,
       "share": 0.0149
@@ -330,17 +330,12 @@
       "share": 0.0149
     },
     {
-      "term": "technician",
-      "count": 1,
-      "share": 0.0149
-    },
-    {
       "term": "operations",
       "count": 1,
       "share": 0.0149
     },
     {
-      "term": "help",
+      "term": "msp",
       "count": 1,
       "share": 0.0149
     },
@@ -523,64 +518,14 @@
       "term": "devops",
       "count": 1,
       "share": 0.0149
+    },
+    {
+      "term": "web",
+      "count": 1,
+      "share": 0.0149
     }
   ],
   "jobs": [
-    {
-      "job_id": "93389403",
-      "job_title": "Business Analyst",
-      "business_name": "CKA Yatala Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "$75,000 – $85,000 per year",
-      "area": "Yatala, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93389403",
-      "advertiser_id": "63786337",
-      "posted_date": "2026-07-17T04:47:13Z",
-      "job_description": "<p><strong>CKA Windows &amp; Doors, Yatala</strong> | <strong>Full-time role | $75,000 - 85,000 annual salary</strong></p><p>CKA Windows &amp; Doors is a growing commercial aluminium windows and doors business working across residential and commercial projects throughout&nbsp;South-East&nbsp;Queensland.&nbsp;</p><p><strong>Role Overview</strong></p><p>The Business Analyst will work closely with cross-functional teams to identify business needs, document requirements, analyse processes, and support the delivery of technology solutions that improve business performance, system functionality, and user outcomes.</p><p><strong>Key Responsibilities</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Engage with business users and stakeholders to elicit, analyse, and document business and system requirements.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Review current business processes, procedures, systems, and workflows to identify inefficiencies and improvement opportunities.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Translate business needs into clear functional specifications, user stories, process maps, and system requirements for technical teams.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work with stakeholders to support solution design and delivery.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use data and process modelling techniques to define current state and future state business processes.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support project planning activities, including scope definition, resource estimates, risk identification, implementation planning, and system integration.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assist with system testing, user acceptance testing, defect management, and quality assurance activities.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prepare user documentation, training materials, procedures, and support guides for new or changed systems.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Provide advice and act as a central reference point for business and system-related decisions throughout the project lifecycle.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support change management activities to ensure successful adoption of new technology solutions.</p><p><strong>Required Skills and Experience</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Preferred demonstrated experience as a Business Analyst, Business Systems Analyst, or similar role.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong ability to gather, document, and validate business requirements with diverse stakeholders.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience preparing functional specifications, business process models, use cases, user stories, and acceptance criteria.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understanding software development lifecycle methodologies, including Agile and/or Waterfall approaches.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong analytical, problem-solving, communication, and facilitation skills.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ability to work collaboratively with technical and non-technical stakeholders.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience with system testing, user acceptance testing, and implementation support.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; High attention to detail and ability to manage competing priorities in a project environment.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience with the Microsoft ecosystem including SharePoint, Power BI and Power Automate.</p><p><strong>Qualifications</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor’s degree or higher qualification in Information Technology, Computer Science, Business Information Systems, Business Analysis, or a related discipline is preferred.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience working in manufacturing, construction, or a related industry is advantageous.</p>",
-      "keywords": [
-        "business",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "93379380",
-      "job_title": "Web Administrator",
-      "business_name": "Rapid LED Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Web Development & Production",
-      "pay_range": "$85,800 per year",
-      "area": "Upper Coomera, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93379380",
-      "advertiser_id": "41050745",
-      "posted_date": "2026-07-16T22:33:53Z",
-      "job_description": "<p>Rapid LED Pty Ltd have an excellent opportunity for a full-time Web Administrator to join our team.</p><p>The successful candidate will be responsible for:</p><ul><li><p>Designing, building, maintaining and continually improving the company's production websites and internal web applications that run our daily logistics operations — freight quoting, booking, dispatch, delivery tracking, warehouse labelling and operational reporting — keeping them reliable and responsive as the needs of our dispatch, warehouse and delivery teams change.</p></li><li><p>Installing, configuring and administering web server software and cloud hosting for our Python (Flask) and Node.js (Express) web applications, including deployments, uptime and health monitoring, and performance tuning.</p></li><li><p>Assessing and specifying the software and hardware needed to keep the web systems running and to resolve operational problems, and installing, configuring and integrating the required applications and tools.</p></li><li><p>Configuring and maintaining the connectivity that links the web systems — HTTPS/SSL, cross-origin access, single sign-on, server-to-server API connectivity, and the network links to on-site label printers.</p></li><li><p>Administering and maintaining the PostgreSQL databases that support these web applications, including schema changes, data migrations, backups and data-integrity controls.</p></li><li><p>Administering, maintaining, enhancing and troubleshooting the REST API integrations between our web applications and external platforms — shipping carriers, ERP, mapping and communication services — including webhooks.</p></li><li><p>Implementing and maintaining web-application security controls — access control, rate limiting and denial-of-service protection, security headers and CSRF protection — monitoring the web systems for errors, suspicious activity and access issues, and reporting security incidents where required.</p></li><li><p>Monitoring website traffic, usage and performance, and reporting on the reliability and efficient use of the web systems and applications.</p></li><li><p>Installing, supporting, troubleshooting and replacing label printers, barcode scanners and other operational equipment used with the company's web-based warehouse systems.</p></li><li><p>Developing and maintaining automated data-synchronisation and reporting jobs and continuous-integration (CI) pipelines that keep the web systems up to date.</p></li><li><p>Providing first-line technical support to internal users and troubleshooting software and hardware problems related to the websites and web applications, and producing technical documentation.</p></li></ul><p><br></p><p>Applicants for this position should:</p><ul><li><p>Have relevant formal qualifications in information technology.</p></li><li><p>Have at least 1 year of relevant full-time experience, in addition to their formal qualifications.</p></li><li><p>In some cases, 3–5 years of relevant full-time experience may be considered in place of formal qualifications.</p></li><li><p>Have practical skills in web development and administration — including Python and/or JavaScript/Node.js, web server administration and cloud deployment, PostgreSQL/SQL database administration, REST API integration, web networking and security, monitoring, and version control with Git.</p></li></ul><p><br></p><p><strong>Remuneration</strong></p><p>$85,800 per annum plus superannuation.</p><p><strong>Applications open</strong></p><p>This position is open to applications and expressions of interest for a minimum 28 days from the date of publication.</p>",
-      "keywords": [
-        "web",
-        "administrator"
-      ]
-    },
-    {
-      "job_id": "93378993",
-      "job_title": "AI Automation Specialist",
-      "business_name": "VERVE Fitness",
-      "work_type": "Contract/Temp",
-      "job_type": "Engineering - Software",
-      "pay_range": "$75 – $90 per hour",
-      "area": "Upper Coomera, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93378993",
-      "advertiser_id": "46716527",
-      "posted_date": "2026-07-16T21:08:09Z",
-      "job_description": "<p><strong>Make ten people faster, not one dashboard prettier.</strong></p><p>VERVE Fitness is one of Australia's fastest growing commercial and home gym equipment brands. We're profitable, we run lean, and we're further down the AI road than almost any business our size: autonomous marketing agents, AI customer service, a company work OS, scheduled agents doing real jobs every day. The plumbing exists. The gap is people.</p><p>Our finance, sales and marketing teams are busy people with real work piling up, and most of them use a fraction of what's already built for them. We need someone whose whole job is closing that gap: sit next to a real person, understand the work they hate, automate it with AI tools, and, this is the part most people fail at, make sure they're still using it a month later.</p><p><strong>What you'll actually do</strong></p><ul><li><p><strong>Embed with named people, one at a time.</strong> Finance, sales, marketing, and the CEO's own workflows. You watch how they work, find the hours being wasted, and delete those hours.</p></li><li><p><strong>Build small and sharp.</strong> Python scripts, API integrations (email, CRM, ERP, spreadsheets), Claude-powered workflows. We already have a large working codebase of automations to build on; you extend the estate, you don't rebuild it.</p></li><li><p><strong>Train and embed.</strong> Teach non technical people to use AI tools properly. Your wins are measured in their adoption, not your output. A perfect tool nobody opens counts as zero.</p></li><li><p><strong>Kill things.</strong> Every automation you ship has usage telemetry and a review date. If it isn't used, you kill it and learn why. We've had tools rot before; your job includes making sure they don't.</p></li></ul><p><strong>You're probably right for this if:</strong></p><ul><li><p>You're an operator technologist, not a software engineer: strong Python and API skills, but your instinct is to fix a workflow, not to architect a platform.</p></li><li><p>You use Claude, GPT or similar daily and know how to turn \"AI could probably do this\" into a thing that runs every morning without being babysat.</p></li><li><p>You're patient and likeable with non technical people. A finance officer who's nervous about AI has to enjoy working with you, or nothing you build survives.</p></li><li><p>You measure yourself in hours deleted and weekly active users, and you're comfortable being judged that way.</p></li></ul><p><strong>The deal</strong></p><ul><li><p>$600 to $750/day depending on experience, 3 days/week on the Gold Coast, potentially expandable to 4-5 days, 3-month initial engagement.</p></li><li><p>If the queue is real and the adoption numbers are real, we'll talk about a permanent role ($90k to $120k + super). If four weeks of good work clears the backlog, we part as friends. We're telling you that upfront because it's the truth.</p></li><li><p>Direct access to the CEO, who is himself a heavy AI user. You will not spend your days explaining what an API is to your boss.</p></li></ul><p><strong>How to apply</strong></p><p>Send a CV plus a short note describing one automation you built that a non-technical person still uses today: what it replaced, how you know they still use it, and what you'd do differently. That second question matters more than your CV.</p>",
-      "keywords": [
-        "ai",
-        "automation",
-        "specialist"
-      ]
-    },
     {
       "job_id": "93378711",
       "job_title": "Senior Full Stack Developer",
@@ -611,7 +556,7 @@
       "url": "https://www.seek.com.au/job/93363703",
       "advertiser_id": "22363191",
       "posted_date": "2026-07-16T05:44:47Z",
-      "job_description": "<p>Nurturing the greatness in every child - and in you.</p>\n<p>&nbsp;</p>\n<p><strong>Join one of Australia’s Largest Leading Early Education Providers!&nbsp;&nbsp;</strong></p>\n<p>At G8 Education, we’re on a mission to shape the future! With 350+ early education and care centres under 21 brands, our 7,000+ dedicated team members nurture over 40,000 children every day.&nbsp;&nbsp;</p>\n<p>As an ASX listed growth company, we’re committed to empowering, rewarding, and supporting every team member – from our centre educators to our leadership and support team.&nbsp;&nbsp;</p>\n<p><strong>The Opportunity</strong>&nbsp;</p>\n<p>We are looking for a Principal Insights Analyst to join our Finance team.</p>\n<p>Reporting to the Head of Data and Analytics, you'll play a key role in transforming complex data into meaningful insights that influence strategic business decisions across the organisation. As the most senior individual contributor within the analytics team, you'll provide technical leadership, mentor analysts and help shape the future direction of our analytics capability.</p>\n<p>While this role is advertised as a Principal Insights Analyst, we also welcome applications from experienced Senior Insights Analysts.</p>\n<p><strong>Key Responsibilities </strong></p>\n<ul>\n<li>Lead strategic analysis and deliver actionable insights that support business decision making.</li>\n<li>Translate complex data into clear, compelling stories for executive and operational stakeholders.</li>\n<li>Partner with teams across Finance, Marketing, Operations and Digital to solve business challenges through data.</li>\n<li>Drive market and competitor analysis to identify trends and growth opportunities.</li>\n<li>Improve reporting efficiency through automation and scalable analytical frameworks.</li>\n<li>Develop and maintain engaging Power BI dashboards and reporting solutions.</li>\n<li>Mentor and coach analysts, promoting best practice and continuous improvement across the analytics team.</li>\n<li>Support data governance initiatives, ensuring high standards of data quality and consistency.</li>\n</ul>\n<p><strong>About You</strong>&nbsp;</p>\n<p>You will be a commercially minded analytics professional who enjoys influencing business outcomes through data. You're naturally curious, highly collaborative and confident engaging with stakeholders at all levels.</p>\n<p>You will also bring:</p>\n<ul>\n<li>Extensive experience in analytics, business intelligence or insights roles.</li>\n<li>Experience using Power BI, Python, SQL, PySpark, Microsoft Fabric, or equivalent tools to analyse data, automate workflows, and deliver reporting and analytical solutions.</li>\n<li>Advanced Excel modelling capabilities.</li>\n<li>Experience working with large, complex datasets and building automated reporting solutions.</li>\n<li>Exceptional communication and data storytelling skills.</li>\n<li>Strong stakeholder management and influencing abilities.</li>\n<li>Experience mentoring or coaching analysts.</li>\n<li>A focus on continuous improvement, data quality and governance.</li>\n<li>Tertiary qualifications in Data Science, Mathematics, Statistics or a related discipline will be highly regarded.</li>\n<li><em>Hold a valid working with children check or willingness to obtain upon commencement. </em></li>\n</ul>\n<p><strong>Benefits at G8</strong></p>\n<ul>\n<li>Competitive salary package.</li>\n<li>Eligibility to participate in our Short-Term Incentive program which is an annualised bonus each year.</li>\n<li>Hybrid working conditions with 3 days in office and 2 from home.</li>\n<li>Monthly RDO.</li>\n<li>Located in Varsity Lakes.</li>\n<li>Career development opportunities as part of a large ASX-listed company&nbsp;</li>\n<li>Access a 50% discount on early education and childcare fees at any G8 Education Centre.&nbsp;</li>\n<li>Exclusive access to our G8 Rewards Program with benefits across more than 600 retailers, exclusive cash discounts and more!</li>\n</ul>\n<p><em>Find out more here: </em>G8 Education</p>\n<p><strong>United by purpose. Guided by values.</strong></p>\n<p>At G8 Education, we’re proud to celebrate, support, and inspire our 10,000+ team members as they make a lasting difference in the lives of children and their own.</p>\n<p>Driven by our purpose “to nurture the greatness in every child to grow, thrive and learn” and guided by our values, we’re shaping bright futures for children, families, communities, and each other.</p>\n<p><strong>Our values:</strong> Safety First &amp; Always, Thriving Together, Owning the Outcome, Being the Difference, Building Bright Futures.</p>\n<p><strong>Our Recruitment Process</strong></p>\n<p><em><strong>Recruitment Process<br></strong></em></p>\n<p>Our recruitment process includes police checks and verification of qualifications and right-to-work status.</p>\n<p>Please note that the advertised closing date is indicative only, and applications may close earlier. We encourage you to apply as soon as possible.</p>\n<p><em>G8 Education is a committed advocate for child protection, safety and wellbeing. We have a zero tolerance for any form of child abuse or harm. The safety and wellbeing of children will always be our priority, and all team members are expected to embrace this shared commitment.</em></p>",
+      "job_description": "<p>Nurturing the greatness in every child - and in you.</p>\n<p>&nbsp;</p>\n<p><strong>Join one of Australia’s Largest Leading Early Education Providers!&nbsp;&nbsp;</strong></p>\n<p>At G8 Education, we’re on a mission to shape the future! With 350+ early education and care centres under 21 brands, our 7,000+ dedicated team members nurture over 40,000 children every day.&nbsp;&nbsp;</p>\n<p>As an ASX listed growth company, we’re committed to empowering, rewarding, and supporting every team member – from our centre educators to our leadership and support team.&nbsp;&nbsp;</p>\n<p><strong>The Opportunity</strong>&nbsp;</p>\n<p>We are looking for a Principal Insights Analyst to join our Finance team.</p>\n<p>Reporting to the Head of Data and Analytics, you'll play a key role in transforming complex data into meaningful insights that influence strategic business decisions across the organisation. As the most senior individual contributor within the analytics team, you'll provide technical leadership, mentor analysts and help shape the future direction of our analytics capability.</p>\n<p>While this role is advertised as a Principal Insights Analyst, we also welcome applications from experienced Senior Insights Analysts.</p>\n<p><strong>Key Responsibilities </strong></p>\n<ul>\n<li>Lead strategic analysis and deliver actionable insights that support business decision[1]making.</li>\n<li>Translate complex data into clear, compelling stories for executive and operational</li>\n<li>stakeholders.</li>\n<li>Partner with teams across Finance, Marketing, Operations and Digital to solve business</li>\n<li>challenges through data.</li>\n<li>Drive market and competitor analysis to identify trends and growth opportunities.</li>\n<li>Improve reporting efficiency through automation and scalable analytical frameworks.</li>\n<li>Develop and maintain engaging Power BI dashboards and reporting solutions.</li>\n<li>Mentor and coach analysts, promoting best practice and continuous improvement</li>\n<li>across the analytics team.</li>\n<li>Support data governance initiatives, ensuring high standards of data quality and</li>\n<li>consistency.</li>\n</ul>\n<p><strong>About You</strong>&nbsp;</p>\n<p>You will be a commercially minded analytics professional who enjoys influencing business outcomes through data. You're naturally curious, highly collaborative and confident engaging with stakeholders at all levels.</p>\n<p>You will also bring:</p>\n<ul>\n<li>Extensive experience in analytics, business intelligence or insights roles.</li>\n<li>Experience using Power BI, Python, SQL, PySpark, Microsoft Fabric, or equivalent tools to analyse data, automate workflows, and deliver reporting and analytical solutions.</li>\n<li>Advanced Excel modelling capabilities.</li>\n<li>Experience working with large, complex datasets and building automated reporting</li>\n<li>solutions.</li>\n<li>Exceptional communication and data storytelling skills.</li>\n<li>Strong stakeholder management and influencing abilities.</li>\n<li>Experience mentoring or coaching analysts.</li>\n<li>A focus on continuous improvement, data quality and governance.</li>\n<li>Tertiary qualifications in Data Science, Mathematics, Statistics or a related discipline</li>\n<li>will be highly regarded.</li>\n<li><em>Hold a valid working with children check or willingness to obtain upon commencement. </em></li>\n</ul>\n<p><strong>Benefits at G8</strong></p>\n<ul>\n<li>Competitive salary package</li>\n<li>Eligibility to participate in our Short-Term Incentive program which is an annualised bonus each year</li>\n<li>Hybrid working conditions with 3 days in office and 2 from home.</li>\n<li>Monthly RDO</li>\n<li>Located in Varsity Lakes.</li>\n<li>Career development opportunities as part of a large ASX-listed company&nbsp;</li>\n<li>Access a 50% discount on early education and childcare fees at any G8 Education Centre.&nbsp;</li>\n<li>Exclusive access to our G8 Rewards Program with benefits across more than 600 retailers, exclusive cash discounts and more!</li>\n</ul>\n<p><em>Find out more here: </em>G8 Education</p>\n<p><strong>United by purpose. Guided by values.</strong></p>\n<p>At G8 Education, we’re proud to celebrate, support, and inspire our 10,000+ team members as they make a lasting difference in the lives of children and their own.</p>\n<p>Driven by our purpose “to nurture the greatness in every child to grow, thrive and learn” and guided by our values, we’re shaping bright futures for children, families, communities, and each other.</p>\n<p><strong>Our values:</strong> Safety First &amp; Always, Thriving Together, Owning the Outcome, Being the Difference, Building Bright Futures.</p>\n<p><strong>Our Recruitment Process</strong></p>\n<p><em><strong>Recruitment Process<br></strong></em></p>\n<p>Our recruitment process includes police checks and verification of qualifications and right-to-work status.</p>\n<p>Please note that the advertised closing date is indicative only, and applications may close earlier. We encourage you to apply as soon as possible.</p>\n<p><em>G8 Education is a committed advocate for child protection, safety and wellbeing. We have a zero tolerance for any form of child abuse or harm. The safety and wellbeing of children will always be our priority, and all team members are expected to embrace this shared commitment.</em></p>",
       "keywords": [
         "insights",
         "analyst"
@@ -1450,6 +1395,24 @@
       ]
     },
     {
+      "job_id": "93028184",
+      "job_title": "ICT Technician",
+      "business_name": "Ohana For Youth",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "$46.53 per hour",
+      "area": "Varsity Lakes, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93028184",
+      "advertiser_id": "30859487",
+      "posted_date": "2026-06-30T05:34:38Z",
+      "job_description": "<p>Ohana for Youth is a growing, values-driven organisation supporting young people who have disengaged from mainstream schooling. Through our education brands Arcadia College, Arcadia College (Distance Education), Ohana College and Ohana Academy, we provide safe, future-focused learning environments that help students reconnect and thrive.</p>\n\n<p>As we continue to grow, we are seeking an experienced <b>ICT Technician</b> to provide exceptional technical support and maintain high system standards across our campuses. We will require an ICT Technician to be based at Varsity Lakes and a second ICT Technician to be based at Ohana College, Meadowbrook. Although based at these locations, ICT Technicians may be required to travel to and work from either our Logan locations or our Gold Coast locations at Varsity Lakes or Robina.&nbsp;</p>\n\n<p><strong>Why Join Ohana for Youth?</strong></p>\n\n<ul>\n\t<li>\n\t<p>Make a meaningful difference in the lives of young people</p>\n\t</li>\n\t<li>\n\t<p>Join a supportive, purpose-led team</p>\n\t</li>\n\t<li>\n\t<p>PBI salary packaging through SPA (Charity / Not-for-Profit status) – take home more pay and reduce tax</p>\n\t</li>\n\t<li>\n\t<p>Employee Assistance Program for staff and families</p>\n\t</li>\n\t<li>\n\t<p>Fitness Passport available</p>\n\t</li>\n\t<li>\n\t<p>Opportunities for professional development&nbsp;</p>\n\t</li>\n</ul>\n\n<p><strong>Our Commitment to Child Safety</strong></p>\n\n<p>Ohana for Youth is committed to promoting a safe, inclusive and culturally responsive environment for all students, ensuring their safety and wellbeing is prioritised in every aspect of the organisations operations. We recognise our fundamental duty of care and are fully committed to the safety and wellbeing of all children and young people in our community. This responsibility is shared by every member of our organisation – leaders, staff, volunteers and contractors – and extends across all aspects of school life and operations.</p>\n\n<p>Applications will be assessed as they are received and Ohana for Youth reserves the right to fill this position prior to the closing date.</p>\n<br><p>Reporting directly to the IT Projects Lead &amp; ICT Team Leader, you will play a hands-on role in providing a high level of ICT support to our staff, students, and community stakeholders. Operating within an organization-wide Apple device and Google Workspace environment, you will manage helpdesk tickets, maintain hardware, and ensure our network infrastructure runs seamlessly.</p>\n\n<p><b>Your key responsibilities will include:</b></p>\n\n<ul>\n\t<li>\n\t<p><b>Helpdesk Support:</b> Managing and resolving front desk queries, incoming calls, and helpdesk emails efficiently.</p>\n\t</li>\n\t<li>\n\t<p><b>Hardware &amp; Systems Maintenance:</b> Troubleshooting, repairing, and installing computing equipment, peripherals, and PA/audiovisual systems.</p>\n\t</li>\n\t<li>\n\t<p><b>Network &amp; Software Support:</b> Supporting local area networks, server infrastructure, wireless access points, and VoIP phone systems, while applying routine system updates and patches.</p>\n\t</li>\n\t<li>\n\t<p><b>User &amp; Asset Management:</b> Handling user account creation/deletion and accurately keeping track of the organization’s ICT asset registers.</p>\n\t</li>\n\t<li>\n\t<p><b>Collaborative Support:</b> Partnering with teachers and staff to effectively implement technology in the classroom, with a willingness to travel to other campuses for on-site support when operational needs arise.</p>\n\t</li>\n</ul>\n<br><p>To be successful in this role, you will bring a customer-focused attitude alongside solid technical troubleshooting capabilities.</p>\n\n<p><b>Requirements:</b></p>\n\n<ul>\n\t<li>\n\t<p><b>Essential:</b> A current and valid Paid Working with Children Blue Card.</p>\n\t</li>\n\t<li>\n\t<p><b>Experience:</b> Proven experience working within an IT helpdesk environment with a strong practical understanding of Apple iOS and OS X operating systems.</p>\n\t</li>\n\t<li>\n\t<p><b>Technical Skills:</b> Sound troubleshooting skills across hardware, software applications, and peripheral devices.</p>\n\t</li>\n\t<li>\n\t<p><b>Communication:</b> Exceptional people skills, strong telephone etiquette, and the ability to work cooperatively within a dynamic team setting.</p>\n\t</li>\n\t<li>\n\t<p><b>Desirable:</b> A relevant qualification (Diploma or Degree) in ICT (or working towards one), and familiarity with Mobile Device Management (MDM), Microsoft systems, or Google Workspace.</p>\n\t</li>\n</ul>",
+      "keywords": [
+        "ict",
+        "technician"
+      ]
+    },
+    {
       "job_id": "93027834",
       "job_title": "Software Test Automation and DevOps Engineer",
       "business_name": "Siemens Ltd",
@@ -1795,6 +1758,46 @@
       "keywords": [
         "solution",
         "consultant"
+      ]
+    },
+    {
+      "job_id": "92776992",
+      "job_title": "Telecommunications Field Engineer",
+      "business_name": "Frank ICT Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Telecommunications",
+      "pay_range": "$85,000 – $95,000 per year",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92776992",
+      "advertiser_id": "63601955",
+      "posted_date": "2026-06-17T06:59:17Z",
+      "job_description": "<p><strong>Job Description</strong></p><p>Frank ICT Pty Ltd, trading as Phone Central, is a telecommunications and business communications provider specialising in the installation, maintenance and support of enterprise communication systems across Australia. Due to continued growth, we are seeking a skilled Telecommunications Field Engineer to join our technical team on a full-time basis.</p><p>This position requires the application of specialised technical knowledge to design, install, commission, monitor, troubleshoot and support telecommunications networks and systems.</p><p><strong>Key Responsibilities</strong></p><p><strong>The successful candidate will be responsible for:</strong></p><ul><li><p>Design and document business telecommunications solutions, including VoIP, SIP, cloud/on-premise PBX, unified communications, contact centre, internet/NBN, mobile data and LAN/WAN connectivity required to support telecommunications voice and data performance.</p></li><li><p>Assess client sites and existing telecommunications infrastructure, including carrier services, call flows, network topology, IP addressing, routers, switches, Wi-Fi, handsets, cabling pathways and associated telecommunications-dependent systems and equipment.</p></li><li><p>Prepare and coordinate technical implementation, migration and cutover plans, equipment schedules, network diagrams, configuration records and technical documentation.</p></li><li><p>Commission, configure, test, maintain and repair telecommunications platforms and equipment, including iPECS, SIP trunks, VoIP handsets, call routing, IVR, voicemail, conferencing, call recording, contact centre functions and supporting network devices.</p></li><li><p>Monitor, troubleshoot and optimise telecommunications system performance, including call quality, latency, jitter, packet loss, bandwidth, trunk capacity, failover, service availability, extension usage and contact centre metrics.</p></li><li><p>Diagnose and resolve complex telecommunications and associated network faults, including SIP, routing, firewall/NAT, VLAN/QoS, carrier/NBN, provisioning, call quality and congestion issues.</p></li><li><p>Provide specialist technical advice to clients and internal teams, and coordinate with carriers, ISPs, NBN channels, vendors and technology partners on telecommunications design, migration, activations, number porting, escalations, firmware updates, risks and upgrade requirements.</p></li><li><p>Integrate telecommunications systems with supporting business infrastructure, maintain technical records, complete handover and administrator training, support ongoing maintenance, and ensure compliance with technical, manufacturer, WHS and licensing requirements.</p></li></ul><p><strong>Minimum Requirements</strong></p><p>To be considered for this role, applicants must demonstrate:</p><ul><li><p>A Diploma or higher qualification in a telecommunications or related field.</p></li><li><p>1 year full-time experience in a telecommunications or related technical role. Strong candidates with 5+ years of relevant experience will be highly regarded.</p></li><li><p>Practical experience with VoIP, SIP, PBX, cloud telephony, on-premise phone systems, business internet/NBN services, routers, switches, VLANs, QoS, wireless networking and IP-based endpoints.</p></li></ul><p>The position is located at Suite 14 , Level 10, 36 Marine Parade Southport QLD.<br></p>",
+      "keywords": [
+        "telecommunications",
+        "field",
+        "engineer"
+      ]
+    },
+    {
+      "job_id": "92766985",
+      "job_title": "IT Help Desk Support Officer",
+      "business_name": "Somerset College",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "From $65,212 plus superannuation",
+      "area": "Mudgeeraba, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92766985",
+      "advertiser_id": "28419166",
+      "posted_date": "2026-06-17T01:52:09Z",
+      "job_description": "<p><strong>💻 Contribute your technical expertise in supporting a secure, efficient, and future-focused digital environment for our college community.</strong>&nbsp;</p><p>Are you a tech-savvy problem solver who thrives in a service and people-focused environment? Join a dynamic and collaborative IT team supporting a leading independent school on the Gold Coast.&nbsp;</p><p>At Somerset College, we’re looking for an enthusiastic IT Help Desk Support Officer to help support our College community.&nbsp;</p><p>✅ <strong>About the Role&nbsp;</strong><br>As part of our Information Technologies team, you’ll be the first point of contact for staff and students, delivering high-quality IT support across a vibrant campus. From troubleshooting devices to supporting major school events, no two days are the same.&nbsp;</p><p>This is a hands-on role where you’ll:&nbsp;</p><ul><li><p>Provide responsive help desk support (in person, online, and via phone/email)&nbsp;</p></li></ul><ul><li><p>Diagnose and resolve technical issues across devices, systems, and networks&nbsp;</p></li></ul><ul><li><p>Support BYOD devices and assist students and staff in the classroom&nbsp;</p></li></ul><ul><li><p>Set up and maintain IT equipment across the College&nbsp;</p></li></ul><ul><li><p>Help deliver seamless technology experiences for learning, events, and exams&nbsp;</p></li></ul><p>✅ <strong>What You’ll Bring&nbsp;</strong><br>We’re looking for someone who combines technical know-how with outstanding people skills:&nbsp;</p><ul><li><p>Previous IT support experience and/or relevant qualifications (Cert III in IT or higher preferred)&nbsp;</p></li></ul><ul><li><p>Strong troubleshooting and problem-solving skills&nbsp;</p></li></ul><ul><li><p>Clear communication with the ability to support users of all levels&nbsp;</p></li></ul><ul><li><p>A proactive, team-oriented mindset with great attention to detail&nbsp;</p></li></ul><ul><li><p>Enthusiasm for working in a school environment and supporting young people&nbsp;</p></li></ul><ul><li><p>A commitment to continuous learning and professional growth&nbsp;</p></li></ul><ul><li><p>Working with Children blue card&nbsp;</p></li></ul><p><strong>ABOUT US</strong>&nbsp;<br>Somerset College is one of Australia's leading co-educational independent schools, educating over 1,700 students from Pre-Prep to Year 12. Nestled in the heart of the Gold Coast on a stunning 22-hectare campus in Mudgeeraba, we are proud of our global outlook, academic excellence, and commitment to student success.&nbsp;</p><p>✅ <strong>Why Join Us?</strong>&nbsp;</p><ul><li><p>Be part of a high-performing, supportive IT team&nbsp;</p></li></ul><ul><li><p>Work in a purpose-driven environment supporting teaching and learning&nbsp;</p></li></ul><ul><li><p>Variety in your day; from help desk to classrooms to campus-wide support&nbsp;</p></li></ul><ul><li><p>Opportunities to grow your skills across emerging technologies&nbsp;</p></li></ul><ul><li><p>A welcoming College community that values collaboration, integrity, and innovation&nbsp;</p></li></ul><p><strong>If you’re passionate about technology, enjoy helping others, and want to be part of a dynamic, future-focused team, we’d love to hear from you.&nbsp;</strong></p><p><strong>APPLY NOW</strong>&nbsp;<br>📌 To apply, please submit via SEEK:&nbsp;<br>✅<strong>Your resume</strong> &nbsp;<br>✅<strong>A cover letter</strong> &nbsp;<br></p><p><strong>APPLICATIONS close Friday 3 July 2026</strong>&nbsp;</p><p>🌏 Learn more about Somerset College and find a <strong>position description</strong> at www.somerset.qld.edu.au&nbsp;<br>&nbsp;</p><p><strong><em>Children’s safety, wellbeing, and voice are at the heart of everything we do. We are committed to creating an environment where children feel safe, supported, and empowered, and where educators understand their role in protecting children from harm.&nbsp; We expect all staff to actively contribute to a culture of safety, care, and respect, with all appointments subject to comprehensive screening and ongoing safeguarding obligations.</em></strong></p>",
+      "keywords": [
+        "it",
+        "help",
+        "desk",
+        "support",
+        "officer"
       ]
     },
     {
