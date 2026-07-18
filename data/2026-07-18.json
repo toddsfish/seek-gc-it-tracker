@@ -1,523 +1,528 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-18",
   "region": "Gold Coast",
-  "scraped_at": "2026-07-19T06:38:33.722424+10:00",
-  "total_jobs": 65,
+  "scraped_at": "2026-07-18T06:44:00.011489+10:00",
+  "total_jobs": 67,
   "keywords": [
     {
       "term": "it",
       "count": 13,
-      "share": 0.2
+      "share": 0.194
     },
     {
       "term": "analyst",
       "count": 10,
-      "share": 0.1538
+      "share": 0.1493
     },
     {
       "term": "manager",
       "count": 10,
-      "share": 0.1538
+      "share": 0.1493
     },
     {
       "term": "engineer",
       "count": 10,
-      "share": 0.1538
+      "share": 0.1493
     },
     {
       "term": "support",
       "count": 9,
-      "share": 0.1385
+      "share": 0.1343
     },
     {
       "term": "business",
       "count": 8,
-      "share": 0.1231
+      "share": 0.1194
     },
     {
       "term": "systems",
-      "count": 6,
-      "share": 0.0923
+      "count": 7,
+      "share": 0.1045
     },
     {
       "term": "software",
       "count": 5,
-      "share": 0.0769
+      "share": 0.0746
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.0769
+      "share": 0.0746
     },
     {
       "term": "ai",
       "count": 4,
-      "share": 0.0615
+      "share": 0.0597
     },
     {
       "term": "project",
       "count": 4,
-      "share": 0.0615
+      "share": 0.0597
+    },
+    {
+      "term": "infrastructure",
+      "count": 4,
+      "share": 0.0597
     },
     {
       "term": "developer",
       "count": 4,
-      "share": 0.0615
+      "share": 0.0597
     },
     {
       "term": "automation",
       "count": 4,
-      "share": 0.0615
+      "share": 0.0597
     },
     {
       "term": "specialist",
       "count": 4,
-      "share": 0.0615
+      "share": 0.0597
     },
     {
       "term": "technology",
       "count": 4,
-      "share": 0.0615
+      "share": 0.0597
     },
     {
-      "term": "infrastructure",
-      "count": 3,
-      "share": 0.0462
+      "term": "ict",
+      "count": 4,
+      "share": 0.0597
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0462
+      "share": 0.0448
     },
     {
       "term": "technical",
       "count": 3,
-      "share": 0.0462
+      "share": 0.0448
     },
     {
       "term": "telecommunications",
       "count": 3,
-      "share": 0.0462
-    },
-    {
-      "term": "ict",
-      "count": 3,
-      "share": 0.0462
+      "share": 0.0448
     },
     {
       "term": "development",
       "count": 3,
-      "share": 0.0462
+      "share": 0.0448
+    },
+    {
+      "term": "solution",
+      "count": 2,
+      "share": 0.0299
     },
     {
       "term": "architect",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0299
     },
     {
       "term": "month",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0299
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0299
     },
     {
       "term": "salesforce",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0299
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0299
+    },
+    {
+      "term": "coordinator",
+      "count": 2,
+      "share": 0.0299
     },
     {
       "term": "service",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0299
     },
     {
       "term": "desk",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0299
     },
     {
       "term": "assistant",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0299
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0299
     },
     {
       "term": "field",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0299
     },
     {
       "term": "test",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0299
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0299
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0154
-    },
-    {
-      "term": "solution",
-      "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "ecosystem",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "greenfield",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "practice",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "solutions",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "problem",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "hr",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "transformation",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "process",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "improvement",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "insights",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "wfh",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "hubspot",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "data",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "founding",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "node.js",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "angular",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "aws",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "staff",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0154
-    },
-    {
-      "term": "coordinator",
-      "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "back",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "office",
       "count": 1,
-      "share": 0.0154
-    },
-    {
-      "term": "operations",
-      "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "technician",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
+    },
+    {
+      "term": "operations",
+      "count": 1,
+      "share": 0.0149
     },
     {
       "term": "help",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "medical",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "chief",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0154
-    },
-    {
-      "term": "integration",
-      "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "sr",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "encapsulation",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "operator",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
+    },
+    {
+      "term": "integration",
+      "count": 1,
+      "share": 0.0149
     },
     {
       "term": "information",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "services",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "learning",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
+    },
+    {
+      "term": "consultant",
+      "count": 1,
+      "share": 0.0149
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "success",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "apac",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "chapter",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "agentforce",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "inspection",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "maintenance",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "north",
       "count": 1,
-      "share": 0.0154
-    },
-    {
-      "term": "fibre",
-      "count": 1,
-      "share": 0.0154
-    },
-    {
-      "term": "splicers",
-      "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "rod",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "rope",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "cable",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     },
     {
       "term": "hauler",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
+    },
+    {
+      "term": "fibre",
+      "count": 1,
+      "share": 0.0149
+    },
+    {
+      "term": "splicers",
+      "count": 1,
+      "share": 0.0149
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0149
     }
   ],
   "jobs": [
@@ -1736,6 +1741,26 @@
       ]
     },
     {
+      "job_id": "92820254",
+      "job_title": "ICT Systems and Infrastructure Coordinator",
+      "business_name": "A.B. Paterson College",
+      "work_type": "Full time",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "",
+      "area": "Arundel, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92820254",
+      "advertiser_id": "20415186",
+      "posted_date": "2026-06-19T02:51:03Z",
+      "job_description": "<p>We are seeking an enthusiastic, highly skilled, and solutions-focused professional to join A.B. Paterson College as our ICT Systems and Infrastructure Coordinator within the ICT Services team, commencing July 2026.</p><p>This is a hands-on, varied role at the heart of the College's technology environment - one where no two days look the same and your work has a direct, visible impact on the experience of students, staff, and the broader College community. You will take personal ownership of a diverse portfolio of responsibilities, from administering cloud platforms and managing identity services to configuring physical security systems and leading cybersecurity initiatives.</p><p>As a key member of the ICT Services team, you will collaborate closely with our third-party vendors, and internal stakeholders to ensure the secure, reliable, and efficient operation of ICT systems and infrastructure across our dynamic school community. You will bring both the technical depth to resolve complex problems and the communication skills to engage confidently with people at all levels of the organisation.</p><p>If you are a motivated ICT professional who thrives in a fast-paced environment, takes pride in delivering high-quality outcomes, and is looking for a role where you can genuinely contribute to something meaningful - we would love to hear from you.</p><p><br></p><p><strong>Key Responsibilities</strong></p><ol><li>Lead the delivery of ICT infrastructure projects, from planning through to implementation</li><li>Manage identity, access, and cloud platforms, including Microsoft 365</li><li>Support and maintain network services in partnership with managed service providers</li><li>Oversee campus technologies, including security systems, CCTV, and IoT devices</li><li>Drive cybersecurity initiatives, including awareness, compliance, and incident response</li><li>Act as the escalation point for complex technical issues from the Service Desk, providing hands-on support and solutions</li></ol><p>To learn more about the responsibilities and expectations, please refer to the Position Description attached or click ‘Apply’ to view the full advert and access the document</p><p><strong>What We’re Looking For:</strong></p><ul><li>Demonstrated experience in a hands-on ICT infrastructure or systems role, with the ability to manage both technical delivery and coordination responsibilities</li><li>Experience administering cloud-based platforms and services, including identity and access management</li><li>Working knowledge of network services, connectivity, and infrastructure environments</li><li>An understanding of cybersecurity principles and experience contributing to security or compliance activities</li><li>Experience working with managed service providers and external vendors to deliver ICT outcomes</li><li>Strong organisational skills with the ability to manage competing priorities and meet deadlines</li><li>Excellent interpersonal and communication skills, with the ability to translate technical concepts for non-technical stakeholders</li><li>A strong customer service mindset with a proactive, solutions-focused approach</li><li>A high level of attention to detail and a commitment to accurate documentation and compliance standards</li><li>Current CPR and First Aid training, or willingness to obtain (College funded through approved provider)</li><li>A current Blue Card (Working With Children Check) is a requirement of this position.</li></ul><p><strong>Closing Date for applications:</strong> 17 July 2026</p><p>If you are ready to bring your technical expertise to a role where your contribution genuinely matters, we would love to hear from you. A.B. Paterson College offers a vibrant and supportive working environment where ICT is valued, invested in, and central to how the College operates.</p><p>To apply, please submit:</p><ul><li>A current resume with the contact details of at least two professional referees; and</li><li>A cover letter outlining your suitability for this role.</li></ul><p><em>A.B. Paterson College reserves the right to make an appointment at any stage of the recruitment process and to approach suitable candidates directly.</em></p>",
+      "keywords": [
+        "ict",
+        "systems",
+        "infrastructure",
+        "coordinator"
+      ]
+    },
+    {
       "job_id": "92819558",
       "job_title": "MSP Senior IT Engineer",
       "business_name": "GCIT",
@@ -1752,6 +1777,24 @@
         "msp",
         "it",
         "engineer"
+      ]
+    },
+    {
+      "job_id": "92807936",
+      "job_title": "Senior Solution Consultant",
+      "business_name": "First Focus IT P/L",
+      "work_type": "Full time",
+      "job_type": "Sales - Pre & Post",
+      "pay_range": "Competitive pkg + 10 paid training days",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92807936",
+      "advertiser_id": "35852943",
+      "posted_date": "2026-06-18T09:52:21Z",
+      "job_description": "<p>You know how to sell complex services into SMB and mid-market organisations.</p><p>Not products. Not licences. Not simple transactional deals. Services.</p><p>First Focus is looking for a proven Senior Solution Consultant who can turn qualified conversations into high-quality commercial outcomes. We are the leading managed AI and IT services provider in Australia and New Zealand, and our marketing engine creates a strong flow of opportunities with businesses already exploring change.</p><p>Your role is to qualify well, run sharp discovery, shape the right solution and close clients who are a strong fit for our managed AI, managed IT, cloud, cyber, modern workplace and project capabilities.</p><p>This is a senior individual contributor role. It is not a training-ground sales position, and it is not a lead generation role. You will need to arrive with mature discovery skills, commercial discipline and the ability to build trust with executives quickly.</p><h2><strong>What You Will Be Doing</strong></h2><p>You will work with businesses typically in the 20 to 200 seat range that are reviewing their IT environment, AI initiatives, security posture, systems maturity or current technology partner.</p><p>AI is at the forefront of this role. First Focus is the market leader in helping SMBs do more with AI in practical, secure and commercially useful ways. You will be at the heart of those conversations, helping business leaders move from curiosity and experimentation to clear priorities, sensible adoption and measurable outcomes.</p><p>You will lead the commercial conversation from qualification through to proposal and close. That means understanding the client’s business, identifying real pain, testing urgency, mapping decision process and shaping a solution that is commercially sound and operationally deliverable.</p><p>You will work closely with technical specialists, but you will own the sales process. You do not need to be the deepest technical person in the room. You do need to know how to translate AI, security, cloud and managed services capability into business value, ask strong questions and keep the conversation moving toward a decision.</p><p>You will write clear, credible proposals that help senior stakeholders understand the case for change. You will also ensure clean handovers into onboarding and delivery, because selling something properly includes setting the client and the delivery team up for success.</p><h2><strong>About You</strong></h2><p>You have already sold complex B2B services and you understand that services sales is different from product sales. Trust matters earlier. Discovery matters more. The value has to be made clear before the client can confidently move.</p><p>You are curious about AI and already using it to work smarter. You experiment with it in your professional and personal life, not because it is trendy, but because you can see how it improves research, communication, productivity, decision-making and client outcomes.</p><p>You are likely to be a strong fit if you have:</p><ul><li><p>At least five years of consultative selling, solution consulting or services sales experience.</p></li><li><p>A track record selling managed services, professional services, IT consulting, cyber, cloud, systems integration, AI-enabled services or similar complex services.</p></li><li><p>Experience selling into SMB or mid-market organisations.</p></li><li><p>Confidence speaking with owners, CEOs, CFOs, COOs, IT leaders and senior managers.</p></li><li><p>The ability to qualify firmly and avoid wasting time on weak opportunities.</p></li><li><p>Strong written communication and the ability to produce clear proposals.</p></li><li><p>Enough technical curiosity to learn our service lines quickly and know when to bring in specialists.</p></li><li><p>A genuine interest in AI and how it can help businesses improve performance.</p></li><li><p>Commercial maturity, high standards and the expectation that your remuneration should reflect the value you create.</p></li></ul><p>This role is probably not right if your experience is mainly lead generation, account management, product sales or enterprise sales with large internal bid teams around you. It is also not right if you need a highly scripted sales process to be effective, or if AI is something you only talk about rather than actively use.</p><h2><strong>What Great Looks Like</strong></h2><p>Within six months, you will be running strong executive discovery with limited supervision, converting a meaningful percentage of assigned opportunities, producing commercially sharp proposals and contributing materially to new recurring revenue.</p><p>You will be trusted by prospects because you understand their business. You will be trusted internally because you qualify properly, sell accurately and set expectations clearly.</p><p>You will also be helping SMB leaders understand where AI can create real business value, where they need better foundations first and how First Focus can help them move forward safely and practically.</p><h2><strong>Why First Focus</strong></h2><p>First Focus is the leading managed AI and IT services provider in Australia and New Zealand, with more than 350 specialists across Australia, New Zealand and the Philippines.</p><p>We are at the front of helping SMBs use AI to work smarter, improve productivity, strengthen decision-making and modernise the way they operate. You will have genuine delivery depth behind you, strong brand credibility and a proven marketing engine creating qualified demand.</p><p>You will not be building a pipeline from scratch. You will be working with businesses that already know who we are and are actively exploring options. Your job is to turn the right opportunities into long-term client relationships.</p><h2><strong>Benefits</strong></h2><ul><li><p>Strong base-weighted remuneration with achievable performance incentives.</p></li></ul><ul><li><p>Hybrid work and flexible hours.</p></li><li><p>Paid study days and structured professional development.</p></li><li><p>Generous parental leave and wellbeing programs.</p></li><li><p>Extra leave for volunteering or community work.</p></li><li><p>Referral bonuses and profit share, subject to eligibility.</p></li><li><p>Access to deep technical capability across managed AI, managed IT, cloud, cyber, modern workplace and projects.</p></li></ul><p>If you already know how to sell professional services, are genuinely curious about AI and want a senior IC role with qualified demand, strong delivery capability and serious earning potential, we would be happy to speak with you.</p><p>Questions before applying? Reach out to Brendan Ritchie for a confidential conversation.</p><p><em>First Focus welcomes applications from Neurodiverse candidates. We recommend &amp; appreciate disclosure along with the application so that a copy of our Neurodiversity Statement can be provided outlining the flexible options we can offer to best showcase your skills.</em></p>",
+      "keywords": [
+        "solution",
+        "consultant"
       ]
     },
     {
