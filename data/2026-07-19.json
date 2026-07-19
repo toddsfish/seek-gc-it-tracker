@@ -1,488 +1,523 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-19",
   "region": "Gold Coast",
-  "scraped_at": "2026-07-20T06:39:05.535331+10:00",
-  "total_jobs": 60,
+  "scraped_at": "2026-07-19T06:38:33.722424+10:00",
+  "total_jobs": 65,
   "keywords": [
     {
       "term": "it",
-      "count": 12,
+      "count": 13,
       "share": 0.2
     },
     {
       "term": "analyst",
-      "count": 9,
-      "share": 0.15
+      "count": 10,
+      "share": 0.1538
     },
     {
       "term": "manager",
-      "count": 9,
-      "share": 0.15
+      "count": 10,
+      "share": 0.1538
     },
     {
       "term": "engineer",
-      "count": 9,
-      "share": 0.15
+      "count": 10,
+      "share": 0.1538
     },
     {
       "term": "support",
       "count": 9,
-      "share": 0.15
+      "share": 0.1385
     },
     {
       "term": "business",
       "count": 8,
-      "share": 0.1333
+      "share": 0.1231
     },
     {
       "term": "systems",
-      "count": 5,
-      "share": 0.0833
+      "count": 6,
+      "share": 0.0923
     },
     {
       "term": "software",
       "count": 5,
-      "share": 0.0833
+      "share": 0.0769
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.0833
+      "share": 0.0769
     },
     {
       "term": "ai",
       "count": 4,
-      "share": 0.0667
+      "share": 0.0615
     },
     {
       "term": "project",
       "count": 4,
-      "share": 0.0667
+      "share": 0.0615
     },
     {
       "term": "developer",
       "count": 4,
-      "share": 0.0667
+      "share": 0.0615
     },
     {
       "term": "automation",
       "count": 4,
-      "share": 0.0667
+      "share": 0.0615
     },
     {
       "term": "specialist",
       "count": 4,
-      "share": 0.0667
+      "share": 0.0615
+    },
+    {
+      "term": "technology",
+      "count": 4,
+      "share": 0.0615
     },
     {
       "term": "infrastructure",
       "count": 3,
-      "share": 0.05
+      "share": 0.0462
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.05
+      "share": 0.0462
     },
     {
       "term": "technical",
       "count": 3,
-      "share": 0.05
+      "share": 0.0462
     },
     {
       "term": "telecommunications",
       "count": 3,
-      "share": 0.05
+      "share": 0.0462
     },
     {
       "term": "ict",
       "count": 3,
-      "share": 0.05
+      "share": 0.0462
     },
     {
       "term": "development",
       "count": 3,
-      "share": 0.05
+      "share": 0.0462
     },
     {
       "term": "architect",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0308
     },
     {
       "term": "month",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0308
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0308
     },
     {
       "term": "salesforce",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0308
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0333
-    },
-    {
-      "term": "technology",
-      "count": 2,
-      "share": 0.0333
+      "share": 0.0308
     },
     {
       "term": "service",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0308
     },
     {
       "term": "desk",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0308
     },
     {
       "term": "assistant",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0308
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0308
     },
     {
       "term": "field",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0308
     },
     {
       "term": "test",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0308
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0308
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "ecosystem",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "greenfield",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "practice",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "solutions",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
+    },
+    {
+      "term": "incident",
+      "count": 1,
+      "share": 0.0154
+    },
+    {
+      "term": "problem",
+      "count": 1,
+      "share": 0.0154
     },
     {
       "term": "hr",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "transformation",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "process",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "improvement",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "insights",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "wfh",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "hubspot",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
+    },
+    {
+      "term": "data",
+      "count": 1,
+      "share": 0.0154
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "founding",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "node.js",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "angular",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "aws",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "staff",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
-      "term": "medical",
+      "term": "msp",
       "count": 1,
-      "share": 0.0167
-    },
-    {
-      "term": "industry",
-      "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "back",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "office",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "operations",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "technician",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "help",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
+    },
+    {
+      "term": "medical",
+      "count": 1,
+      "share": 0.0154
+    },
+    {
+      "term": "industry",
+      "count": 1,
+      "share": 0.0154
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "chief",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0167
-    },
-    {
-      "term": "integration",
-      "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
+    },
+    {
+      "term": "integration",
+      "count": 1,
+      "share": 0.0154
     },
     {
       "term": "sr",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "encapsulation",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "operator",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
+    },
+    {
+      "term": "information",
+      "count": 1,
+      "share": 0.0154
+    },
+    {
+      "term": "services",
+      "count": 1,
+      "share": 0.0154
     },
     {
       "term": "learning",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
+    },
+    {
+      "term": "plant",
+      "count": 1,
+      "share": 0.0154
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "success",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "apac",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "chapter",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "agentforce",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "inspection",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "maintenance",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "north",
       "count": 1,
-      "share": 0.0167
-    },
-    {
-      "term": "rod",
-      "count": 1,
-      "share": 0.0167
-    },
-    {
-      "term": "rope",
-      "count": 1,
-      "share": 0.0167
-    },
-    {
-      "term": "cable",
-      "count": 1,
-      "share": 0.0167
-    },
-    {
-      "term": "hauler",
-      "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     },
     {
       "term": "splicers",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
+    },
+    {
+      "term": "rod",
+      "count": 1,
+      "share": 0.0154
+    },
+    {
+      "term": "rope",
+      "count": 1,
+      "share": 0.0154
+    },
+    {
+      "term": "cable",
+      "count": 1,
+      "share": 0.0154
+    },
+    {
+      "term": "hauler",
+      "count": 1,
+      "share": 0.0154
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0154
     }
   ],
   "jobs": [
@@ -1141,6 +1176,25 @@
       ]
     },
     {
+      "job_id": "93181962",
+      "job_title": "Incident and Problem Analyst",
+      "business_name": "City of Gold Coast",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "$111,401-$117,924 p/a plus superannuation",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93181962",
+      "advertiser_id": "16652581",
+      "posted_date": "2026-07-07T21:31:34Z",
+      "job_description": "<ul> <li><strong>Full Time | 9-day fortnight | 36 hours per week </strong></li> <li> <strong>Salary: </strong>From $101,616 - $108,140 per annum plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG1905/assets/31728529\">Incident and Problem Analyst</a> </li> </ul><p> </p><p><strong>About the team</strong></p><p>We're entering a new chapter for the Chief Technology Office at the City of Gold Coast as we deliver bold, future-focused solutions. With the launch of our IT Operating Model and the transition of critical IT services in-house, we are transforming the way we deliver technology, making it faster, more responsive, and more aligned with the needs of our organisation and customers.</p><p>As part of this transformation, we're hiring multiple new positions. These roles are key to shaping a vibrant and forward-thinking Chief Technology Office, one that adds real value, delivers better outcomes, and works in smarter, more agile ways.</p><p>The ICT Strategy &amp; Portfolio team plays a central role in helping the CTO run technology like a business. We connect strategy, investment, delivery and performance, providing transparency across cost, value and outcomes to support better decisions</p><p>If you’re equally excited about innovation, transformation, and making a meaningful impact, now is the perfect time to join us</p><p><strong>About the role </strong></p><p>We are seeking an experienced and proactive Incident and Problem Analyst to support the effective handling, resolution and analysis of ICT incidents and problems across the organisation.</p><p>This role plays a critical part in restoring normal service operations as quickly as possible, identifying root causes, and preventing recurrence — ensuring high availability, reliability and strong user satisfaction across ICT services.</p><p>Working within an ITIL-aligned environment, you will contribute to operational excellence and continuous service improvement.</p><p>As the Incident and Problem Analyst, you will monitor, coordinate and analyse incidents across the ICT environment. You will ensure accurate categorisation and prioritisation in line with SLAs, collaborate with technical teams to drive timely resolution, and support structured root cause analysis for recurring issues.</p><p>You will maintain problem and known error records, generate performance reporting, and actively contribute to service improvement initiatives.</p><p>This role requires strong coordination, stakeholder engagement and analytical capability, particularly in high-priority or high-impact situations.</p><p><strong>We’re looking for people who have: </strong></p><ul> <li>5+ years’ ICT experience in an IT service operational support role within an ITIL environment.</li> <li>Strong ICT coordination and operational management skills.</li> <li>Excellent communication and negotiation skills.</li> <li>Strong stakeholder engagement capability across technical and business teams.</li> <li>Demonstrated leadership capability in managing incidents and driving resolution outcomes.</li> </ul><p><strong>Desirable:</strong></p><ul> <li>ITIL, SIAM and/or contract/vendor management experience or certifications.</li> <li>Prince2, Agile, Six Sigma, Lean and/or Cyber Security experience or certifications.</li> </ul><p><strong>Be part of shaping the Gold Coast’s future </strong></p><p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p><p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p><ul> <li> <p>9-day fortnight </p> </li> </ul><ul> <li> <p>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations </p> </li> </ul><ul> <li> <p>Personal and professional development courses </p> </li> </ul><ul> <li> <p>Access to 350+ fitness facilities through Fitness Passport </p> </li> </ul><ul> <li> <p>4 free confidential counselling sessions a year for you or an immediate family member </p> </li> </ul><ul> <li> <p>1 free nutritionist and financial advice session per year </p> </li> </ul><p> We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community.</p><p> <strong>How to apply</strong></p><p>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p><p><strong>Contact Person</strong> Ashley Shannon </p><p><strong>Contact Email</strong> <a href=\"mailto:ashannon@goldcoast.qld.gov.au\">ashannon@goldcoast.qld.gov.au</a></p><p><strong>Closing Date</strong> Sunday 19h July 2026/ 11:59pm AEDT </p><p> </p><p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
+      "keywords": [
+        "incident",
+        "problem",
+        "analyst"
+      ]
+    },
+    {
       "job_id": "93175638",
       "job_title": "Senior Project Manager",
       "business_name": "Department of Health - Queensland",
@@ -1642,6 +1696,81 @@
         "house",
         "it",
         "support"
+      ]
+    },
+    {
+      "job_id": "92821841",
+      "job_title": "Expression of Interest - Casual Register for Information Technology Services",
+      "business_name": "Bond University",
+      "work_type": "Casual/Vacation",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "$47.05 (inc 25% casual loading) plus 12% super",
+      "area": "Robina, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92821841",
+      "advertiser_id": "20551487",
+      "posted_date": "2026-06-19T03:33:02Z",
+      "job_description": "<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Competitive hourly rates</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Vibrant Robina based campus with free parking</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Collaborative and supportive team environment</strong></p><p><strong>&nbsp;</strong></p><p><strong>As Australia’s first private, not-for-profit university’, Bond University based in Robina on the Gold Coast seeks to be recognised internationally as a leading independent university, imbued with a spirit to innovate, a commitment to influence and a dedication to inspire tomorrow's professionals who share a personalised and transformational student experience.</strong></p><p>&nbsp;</p><p><strong>Expression of Interest – Casual IT roles<br>Information Technology Services <br>Casual Appointments – Monday to Friday</strong></p><p>&nbsp;</p><p><strong>Join Australia’s top university for teaching* and enjoy staff benefits including:</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free staff car parking</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Staff wellbeing program</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free &amp; Confidential Employee Assistance Program available for all staff</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Corporate health and finance discounts</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Medical Centre and Counselling Services</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Sports Centre including gym, fitness classes and pool#</p><p>&nbsp;</p><p><strong>About the Positions</strong></p><p>Bond University is currently seeking candidates to join our Casual IT Talent Pool, supporting the Information Technology Services (ITS) team across procurement, purchasing, customer service and administrative functions. We are looking to fill multiple roles from this recruitment campaign. This register will be used to fill roles on an as-needed basis, including providing coverage during staff absences and supporting operational demand during busy periods.<br><br></p><p>The engagement will be on a flexible, as‑required basis, with hours varying from part-time (two days per week) to full-time during peak periods.</p><p>&nbsp;</p><p>Key responsibilities may include:</p><ul><li><p>Assisting with day-to-day procurement activities including sourcing quotes, raising purchase orders, and tracking orders through to delivery.</p></li><li><p>Support vendor coordination, including communications, follow-ups, and basic issue resolution to ensure timely delivery of goods and services.</p></li><li><p>Provide procurement administration support such as invoice processing, record keeping, and maintaining accurate documentation.</p></li><li><p>Receive, unpack, and record ICT equipment, ensuring assets are correctly logged in IT asset management systems.</p></li><li><p>Maintain accurate asset records including tagging, tracking, stock control, and status updates.</p></li><li><p>Support asset lifecycle activities including deployment, relocation, warranty returns, and disposal processes.</p></li><li><p>Assist with warehouse and inventory activities including stock organisation, audits, and periodic asset checks.</p></li><li><p>Provide general administrative and operational support to the Procurement and Vendor Management team, including reporting support and process improvement tasks.</p></li><li><p>Provide first-level IT service desk support, including triaging requests, logging and updating tickets, and assisting users with basic technical issues to ensure timely resolution or escalation as required.</p></li></ul><p>&nbsp;</p><p>Candidates with experience in the following areas are encouraged to apply:</p><ul><li><p>Customer Support</p></li><li><p>IT Service Desk</p></li><li><p>Customer Service</p></li><li><p>IT Finance</p></li><li><p>Procurement and vendor management</p></li></ul><p>&nbsp;</p><p>Please be aware that this is an expression of interest register, and you will only be contacted if a suitable opportunity arises that aligns with your skills and experience.</p><p>&nbsp;</p><p><strong>About the Person</strong></p><p>Our ideal candidates will demonstrate a proactive, outcomes‑focused approach, with strong communication skills and the ability to engage effectively with a range of stakeholders while maintaining a high standard of customer service.</p><p>&nbsp;</p><p>These casual opportunities will suit candidates with a passion for working in an educational environment, as well as those seeking to contribute within a professional, collaborative, and high-performing team, along with:</p><ul><li><p>Experience in a corporate services or IT environment</p></li><li><p>Availability for at least 2 days per week</p></li><li><p>Ability to commence immediately with short notice</p></li><li><p>Outstanding customer service and communication skills</p></li><li><p>Proficiency in computer applications, including up-to-date and practical knowledge of the Microsoft Office Suite</p></li><li><p>Enjoys problem soliving and managing multiple things at once</p></li></ul><p>&nbsp;</p><p>This opportunity would suit candidates seeking flexible employment within a professional IT environment, whether alongside their studies or other part-time commitments, while gaining practical experience in a supportive and outcomes-focused team.</p><p><br></p><p><strong>Salary details</strong></p><p>The hourly rate for these casual roles starts from $47.05 (includes 25% casual loading) plus 12% superannuation.</p><p><br></p><p><strong>Further information</strong></p><p>Position-related enquiries can be directed to Kirstie Fortuna, Talent Acquisition Coordinator, <a href=\"mailto:talent@bond.edu.au\" target=\"_blank\">talent@bond.edu.au</a></p><p>&nbsp;</p><p><strong>How to Apply for this Position</strong></p><p>Click&nbsp;<em>Apply Now</em>&nbsp;and&nbsp;<em>Create New Account</em>&nbsp;to get started. You can:</p><ul><li><p>Upload your Resume – your account will be created automatically, or</p></li><li><p>Manually enter your details to set up your account.</p></li></ul><p>&nbsp;</p><p>Please ensure your application includes:</p><ul><li><p>A current resume</p></li><li><p>A cover letter addressing what role you are interested in</p></li></ul><p>&nbsp;</p><p>For current Bond University staff, apply directly via <a href=\"https://hrconnect.bond.edu.au\" target=\"_blank\">People Connect</a>, log in with staff credentials, from the Home dashboard select Careers, select the role and apply.</p><p><br><br>If you require any assistance with your application submission, please visit <a href=\"https://bond.edu.au/about-bond/careers-bond/applying-jobs-bond\" target=\"_blank\">Applying for jobs at Bond</a>.</p><p>&nbsp;</p><p><strong>Applications close: 23:59pm, Sunday 19th July 2026</strong></p><p><strong>&nbsp;</strong></p><p><em>Pre-employment checks: Appointment is subject to satisfactory pre-employment checks (including working rights verification, reference checks and a certified copy of your highest qualification). In line with the National Higher Education Code to Prevent and Respond to Gender-based Violence 2025, preferred candidates must complete a Gender-Based Violence (GBV) Declaration, and any offer of employment will be conditional upon the University’s review of the declaration. For more information, please visit our website via this link: Applying for Jobs at Bond</em></p><p><em>&nbsp;</em></p><p><strong>Conditions of employment are offered under a Bond Workplace Agreement (BWA).</strong></p><p><strong>&nbsp;</strong></p><p>Bond University is an equal opportunity employer, and we encourage our students and staff to respect individuality, inclusiveness and diversity.&nbsp; In line with Bond University’s values, people from diverse backgrounds, women, Aboriginal and Torres Strait Islander people, people who identify as LGBTIQ+, and people with a disability are encouraged to apply for positions at the University<strong>.</strong></p><p><strong>&nbsp;</strong></p><p>Please advise the Talent Acquisition Team if you require any reasonable accommodations to assist you at anytime during the recruitment process.</p><p><strong>For more information, visit </strong><a href=\"https://bond.edu.au/our-university/supporting-diversity-at-bond#:~:text=At%20Bond%2C%20we%20foster%20diversity%20and%20inclusion%20through,students%20and%20staff%20from%20more%20than%2090%20countries.\" target=\"_blank\">Supporting diversity at Bond | Bond University | Gold Coast, Queensland, Australia</a></p><p><a href=\"https://bond.edu.au/privacy\" target=\"_blank\">Bond University Privacy Policy</a></p><p>#Eligibility criteria or membership fees apply<br>*Australian Financial Review’s Best Universities Ranking 2024</p><p><br></p>",
+      "keywords": [
+        "information",
+        "technology",
+        "services"
+      ]
+    },
+    {
+      "job_id": "92820543",
+      "job_title": "Data & Systems Lead",
+      "business_name": "National Media Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Database Development & Administration",
+      "pay_range": "$110,000 – $140,000 per year",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92820543",
+      "advertiser_id": "25015062",
+      "posted_date": "2026-06-19T02:57:58Z",
+      "job_description": "<h2>About Us</h2><p>At National Media, we're the driving force behind Australia's most influential B2B events. As the creators and operators of market-leading exhibitions across a range of industries, we empower businesses and professionals to connect, engage, and thrive. Our events are where innovation meets opportunity - offering a platform to discover new products, gain valuable insights, and forge lasting relationships.</p><p>With nearly 30 years of experience and a strong reputation in the industry, we're a well-funded, dynamic company that embraces entrepreneurship and innovation. We believe in cutting through red tape to achieve growth and success, and we're passionate about creating impactful events that truly make a difference. If you're looking for a place where your ideas are valued and you can make a real impact, you'll find your home at National Media.</p><h2>The Opportunity</h2><p>As we continue to grow, we are looking for a commercially minded <strong>Data &amp; Systems Lead</strong> to take ownership of how data is structured, governed and used across the business.</p><p>We are looking for someone who understands that data is a business asset and can translate data strategy into practical outcomes that improve sales performance, marketing effectiveness and operational efficiency.</p><p>You will own Salesforce as our core business platform while also leading data governance, integrations, reporting and system optimisation across the organisation.</p><p>The role combines strategic thinking with hands-on execution and offers the opportunity to make a significant impact on a growing business.</p><h2>Key Responsibilities</h2>Salesforce Ownership &amp; Administration<ul><li><p>Act as the primary Salesforce Administrator and platform owner</p></li><li><p>Manage user access, permissions, roles and security</p></li><li><p>Maintain data integrity, validation rules and system structure</p></li><li><p>Support and optimise integrations with Salesforce Marketing Cloud and other platforms</p></li><li><p>Drive continuous platform improvement and adoption</p></li><li><p>Ensure Salesforce effectively supports sales workflows, pipeline management and reporting</p></li></ul>Data Governance &amp; Quality<ul><li><p>Establish and maintain data governance standards across the business</p></li><li><p>Define data ownership, standards and best practices</p></li><li><p>Maintain data accuracy, consistency and reliability</p></li><li><p>Manage data imports, deduplication and cleansing activities</p></li><li><p>Implement controls to improve data quality and compliance</p></li></ul>Data Integration &amp; Architecture<ul><li><p>Own data flows across Salesforce, Marketing Cloud, registration platforms and external systems</p></li><li><p>Identify and resolve data inconsistencies and integration issues</p></li><li><p>Create a connected view of customers across multiple platforms</p></li><li><p>Improve data capture, storage and accessibility across the organisation</p></li></ul>Reporting &amp; Commercial Insights<ul><li><p>Deliver trusted reporting and dashboards for sales, marketing and leadership teams</p></li><li><p>Improve visibility of customer engagement, lead quality and pipeline performance</p></li><li><p>Support data-driven decision making across the business</p></li><li><p>Identify opportunities to improve commercial outcomes through better use of data</p></li></ul>Vendor &amp; Stakeholder Management<ul><li><p>Manage external developers, consultants and technology vendors</p></li><li><p>Work closely with sales, marketing and operations teams</p></li><li><p>Drive adoption of data standards and best practices across the business</p></li><li><p>Lead system improvement projects from concept through implementation</p></li></ul><h2>About You</h2><p>You are naturally curious, commercially minded and enjoy solving complex data and systems challenges.</p><p>You are comfortable operating strategically while remaining hands-on in the detail.</p><p>You will ideally bring:</p><ul><li><p>Strong Salesforce Administration experience (Sales Cloud essential)</p></li><li><p>Experience with Salesforce Marketing Cloud or similar marketing automation platforms</p></li><li><p>Strong understanding of data governance, data quality and master data management</p></li><li><p>Experience managing system integrations and data flows between multiple platforms</p></li><li><p>Advanced reporting and analytics capability</p></li><li><p>Experience working with external developers and technology vendors</p></li><li><p>Strong stakeholder management and communication skills</p></li><li><p>A continuous improvement mindset and the ability to influence change</p></li></ul><h2><strong>What we offer:</strong></h2><ul><li><p>Attractive base salary + uncapped commissions</p></li><li><p>Respect, WFH flexibility and transparency</p></li><li><p>Modern offices with all the cool stuff</p></li><li><p>A culture that celebrates wins</p></li><li><p>A fun, dynamic and supportive team environment</p></li><li><p>Regular social events</p></li><li><p>Career growth opportunities</p></li></ul><p>If you're someone who thrives in a fast-paced environment and is eager to grow and make your mark, this is the opportunity you've been waiting for. We want to hear from you directly - apply now with your CV and a letter telling us why you're the perfect fit for this role.</p><p>We're proud to be an equal opportunity employer, committed to creating an inclusive workplace. We strongly encourage candidates from all backgrounds to apply and join our dynamic team. If you require any adjustments or support during the application or interview process, please contact us.</p><p>If you're passionate about data, systems and creating commercial impact through better information, we'd love to hear from you.</p>",
+      "keywords": [
+        "data",
+        "systems"
+      ]
+    },
+    {
+      "job_id": "92819558",
+      "job_title": "MSP Senior IT Engineer",
+      "business_name": "GCIT",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "$95,000 – $120,000 per year",
+      "area": "Burleigh Heads, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92819558",
+      "advertiser_id": "60052204",
+      "posted_date": "2026-06-19T02:33:18Z",
+      "job_description": "<h2><strong>Senior IT Engineer</strong></h2><p><strong>GCIT – Burleigh Heads, Gold Coast QLD</strong></p><p>Help Desk &amp; IT Support (Information &amp; Communication Technology)<br>Full time | $85,000 – $105,000 + Super + KPI Bonus (Based on experience and capability)</p><p><strong>Help us deliver better IT outcomes for our clients</strong></p><p>We're looking for a Senior IT Engineer to join GCIT and help solve complex technical challenges across our client environments.</p><p>You'll play a key part in improving how our clients operate - making their systems more secure, reliable, and efficient.</p><p>You'll work alongside a capable, supportive team that values doing the job properly, sharing knowledge, and continuously improving. Plus our new AI coworker, Belle.<br></p><p><strong>About GCIT</strong></p><p>GCIT is a modern Managed Service Provider based on the Gold Coast. We help businesses secure, manage, and optimise their IT environments, with a strong focus on Microsoft Cloud, cybersecurity, automation, and AI.</p><p>We support small and mid-sized businesses across Australia and internationally, delivering consistently high-quality outcomes backed by over 150 five-star Google reviews.</p><p>Our team takes ownership, supports each other, and delivers to a high standard. No egos. No burnout. Just a team that works well together and takes pride in what we do.</p><p><strong>Your Role</strong></p><p>As one of our Senior Engineers, you'll act as a key escalation point within the team and take ownership of complex technical issues across client environments.</p><p>You'll work closely with our Service Desk Coordinator and Projects team, supporting both day-to-day operations and ongoing improvements.</p><p><strong>Core Expectations</strong></p><p>To be successful in this role, you will:</p><ul><li><p>Take ownership of technical issues from escalation through to resolution</p></li><li><p>Act as a senior escalation point and technical leader within the team</p></li><li><p>Deliver high-quality support across Microsoft 365, Azure, and network environments</p></li><li><p>Maintain clear, accurate documentation across all work</p></li><li><p>Use automation and AI tools to improve efficiency, troubleshooting, and service delivery</p></li><li><p>Identify opportunities to improve and standardise client environments</p></li><li><p>Work within structured processes, including ticketing, communication, and time tracking</p></li></ul><p><strong>Key Responsibilities</strong></p><ul><li><p>Resolve complex technical issues escalated from frontline support</p></li><li><p>Assist with project delivery and infrastructure upgrades</p></li><li><p>Support Microsoft 365, Azure AD, Defender, Intune, and SharePoint environments</p></li><li><p>Deploy and manage cloud and on-premise infrastructure</p></li><li><p>Configure and support firewalls, VPNs, VLANs, and networking</p></li><li><p>Use tools such as RMM, PowerShell, ImmyBot, and AI to streamline work</p></li><li><p>Support VoIP systems (3CX or similar)</p></li><li><p>Maintain and improve technical documentation</p></li></ul><p><strong>What We're Looking For</strong></p><p>We're looking for someone who takes ownership, communicates clearly, and delivers consistent results.</p><p>You'll ideally have:</p><ul><li><p>5+ years' experience in an MSP or similar environment</p></li><li><p>Strong experience across Microsoft 365, Azure, and infrastructure</p></li><li><p>Confidence working directly with clients and explaining technical issues clearly</p></li><li><p>Solid networking, firewall, and server administration experience</p></li><li><p>The willingness to embrace AI as a core part of how you investigate, automate, and resolve issues</p></li><li><p>The ability to prioritise work and follow structured processes</p></li><li><p>Strong written and verbal communication skills</p></li><li><p>Any valid Australian work visa or work rights authorisation</p></li></ul><p><strong>Nice to Have</strong></p><ul><li><p>Experience with Veeam</p></li><li><p>UniFi / UISP / SonicWall / Fortinet</p></li><li><p>ConnectWise Manage / RMM</p></li><li><p>Group Policy and Active Directory</p></li><li><p>Experience with automation, scripting, or AI tools</p></li></ul><p><strong>What You'll Get</strong></p><ul><li><p>A supportive, high-performing team that works well together</p></li><li><p>Clear structure, strong leadership, and well-managed workloads</p></li><li><p>Opportunities to develop your technical skills and grow your role</p></li><li><p>Exposure to modern, cloud-first technologies</p></li><li><p>A workplace that values consistency, accountability, and doing things properly</p></li></ul><p><strong>Location</strong></p><p>This is a full-time, in-office role based in Burleigh Heads.</p><p>You'll also attend client sites across the Gold Coast and Northern NSW when required.</p><p>A full unrestricted driving licence is required for client site visits.<br><br>https://gcit.link/b6i</p><p><br></p>",
+      "keywords": [
+        "msp",
+        "it",
+        "engineer"
+      ]
+    },
+    {
+      "job_id": "92833396",
+      "job_title": "Plant Technology Manager",
+      "business_name": "VENTORA",
+      "work_type": "Full time",
+      "job_type": "Programme & Project Management",
+      "pay_range": "",
+      "area": "Stapylton, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92833396",
+      "advertiser_id": "37243726",
+      "posted_date": "2026-05-14T04:29:09Z",
+      "job_description": "<div><div>\n <div>\n <p><strong>About our Organisation</strong>&nbsp;</p>\n<p>VENTORA&nbsp;is the name behind iconic Australian brands including A&amp;L Windows &amp; Doors, Breezway louvres, Corinthian Doors, Stegbar Windows &amp; Doors and Trend Windows &amp; Doors.</p>\n<p>As an established manufacturer with over 4,500 employees, our vision is to inspire our customers through leading brands, great service, innovative new products and solutions leveraging the full&nbsp;VENTORA&nbsp;portfolio, while significantly enhancing our ease of doing business built on operational excellence.</p>\n<p><strong>About the Opportunity</strong></p>\n<p>Due to internal promotion, we are now seeking our next Plant Technology Manager to oversee and manage the IT operational technology environment. In this pivotal role you will ensure that all systems are up to date, fit for purpose, reliable, secure and efficient. As the bridge between operational technology (OT) and IT, you will ensure seamless integration, collaboration and alignment of technological goals with business objectives.</p>\n<p>Responsibilities include:</p>\n<ul>\n<li>Oversee the implementation, maintenance and optimisation of IT operational technology systems across all business units, including multi-function devices and barcode scanners</li>\n<li>Ensure seamless integration between enterprise IT systems (ERP, CRM) and OT systems (SCADA, MES)</li>\n<li>Support the convergence of IT and OT environments to enable data-driven decision making and predictive maintenance strategies</li>\n<li>Work closely with cross-functional teams to ensure alignment with operational and business objectives</li>\n<li>Develop and enforce technology standards, policies and procedures</li>\n<li>Participate in operational technology projects from conception to completion, ensuring timely delivery in adherence to defined standards and policies</li>\n<li>Implement robust cyber security measures to protect assets and data</li>\n<li>Conduct regular testing, auditing and assessments</li>\n</ul>\n<p><strong>About You</strong></p>\n<p>While ideally you will bring similar experience from a manufacturing environment, what is vital is your natural ability to communicate and work effectively with multiple stakeholders and cross functional teams.</p>\n<p>You will also have:</p>\n<ul>\n<li>Diploma or above in IT (ideal but not essential)</li>\n<li>A good understanding of networking, cyber security and general IT infrastructure</li>\n<li>Knowledge of manufacturing processes and related technology systems eg. SCADA, PLCs, MES (highly regarded)</li>\n<li>Previous experience with remote access systems</li>\n<li>Previous experience using InTune</li>\n<li>The ability to work with and support multiple sites across multiple time zones</li>\n</ul>\n<p><strong>About the Benefits</strong></p>\n<ul>\n<li>Competitive remuneration</li>\n<li>Flexible work arrangements, with 2 days per week WFH</li>\n<li>Generous discounts on our extensive range of products</li>\n<li>Ability to schedule leave every year over the Christmas period.</li>\n<li>Additional paid day’s leave on your birthday</li>\n<li>Flare benefits program - salary packaging, discounts and premium perks</li>\n<li>Employee Assistance Program access</li>\n<li>Career progression opportunities as part of a 4,500-employee organisation</li>\n</ul>\n<p><strong>Your Next Steps</strong></p>\n<p>Apply now to become VENTORA’s new Plant Technology Manager and help drive operational excellence!</p>\n<p>Eligible applications must have legal rights to work full time in Australia.</p>\n<p>Agencies will only be engaged if required. Please do not contact us or send applicants to us unless requested by the Talent Acquisition Team.</p>\n<p>Curious about VENTORA Group? Check out our website at&nbsp;https://www.ventora.com.au&nbsp;for comprehensive insights into our operations. Prefer visuals? Watch our short overview video here:&nbsp;https://www.youtube.com/@VENTORA_GROUP</p> </div>\n </div></div>",
+      "keywords": [
+        "plant",
+        "technology",
+        "manager"
       ]
     }
   ]
