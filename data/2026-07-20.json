@@ -1,572 +1,491 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-20",
   "region": "Gold Coast",
-  "scraped_at": "2026-07-21T07:02:01.030306+10:00",
-  "total_jobs": 61,
+  "scraped_at": "2026-07-20T06:39:05.535331+10:00",
+  "total_jobs": 60,
   "keywords": [
     {
       "term": "it",
       "count": 12,
-      "share": 0.1967
-    },
-    {
-      "term": "business",
-      "count": 11,
-      "share": 0.1803
+      "share": 0.2
     },
     {
       "term": "analyst",
-      "count": 11,
-      "share": 0.1803
+      "count": 9,
+      "share": 0.15
+    },
+    {
+      "term": "manager",
+      "count": 9,
+      "share": 0.15
     },
     {
       "term": "engineer",
       "count": 9,
-      "share": 0.1475
-    },
-    {
-      "term": "manager",
-      "count": 8,
-      "share": 0.1311
+      "share": 0.15
     },
     {
       "term": "support",
+      "count": 9,
+      "share": 0.15
+    },
+    {
+      "term": "business",
       "count": 8,
-      "share": 0.1311
+      "share": 0.1333
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.082
-    },
-    {
-      "term": "developer",
-      "count": 5,
-      "share": 0.082
+      "share": 0.0833
     },
     {
       "term": "software",
       "count": 5,
-      "share": 0.082
+      "share": 0.0833
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.082
+      "share": 0.0833
+    },
+    {
+      "term": "ai",
+      "count": 4,
+      "share": 0.0667
+    },
+    {
+      "term": "project",
+      "count": 4,
+      "share": 0.0667
+    },
+    {
+      "term": "developer",
+      "count": 4,
+      "share": 0.0667
     },
     {
       "term": "automation",
       "count": 4,
-      "share": 0.0656
+      "share": 0.0667
     },
     {
       "term": "specialist",
       "count": 4,
-      "share": 0.0656
-    },
-    {
-      "term": "development",
-      "count": 4,
-      "share": 0.0656
-    },
-    {
-      "term": "ai",
-      "count": 3,
-      "share": 0.0492
+      "share": 0.0667
     },
     {
       "term": "infrastructure",
       "count": 3,
-      "share": 0.0492
+      "share": 0.05
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0492
+      "share": 0.05
     },
     {
       "term": "technical",
       "count": 3,
-      "share": 0.0492
+      "share": 0.05
     },
     {
       "term": "telecommunications",
       "count": 3,
-      "share": 0.0492
+      "share": 0.05
     },
     {
       "term": "ict",
       "count": 3,
-      "share": 0.0492
+      "share": 0.05
     },
     {
-      "term": "solution",
-      "count": 2,
-      "share": 0.0328
+      "term": "development",
+      "count": 3,
+      "share": 0.05
     },
     {
       "term": "architect",
       "count": 2,
-      "share": 0.0328
-    },
-    {
-      "term": "broadbeach",
-      "count": 2,
-      "share": 0.0328
-    },
-    {
-      "term": "project",
-      "count": 2,
-      "share": 0.0328
+      "share": 0.0333
     },
     {
       "term": "month",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0333
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0333
+    },
+    {
+      "term": "salesforce",
+      "count": 2,
+      "share": 0.0333
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0333
+    },
+    {
+      "term": "technology",
+      "count": 2,
+      "share": 0.0333
     },
     {
       "term": "service",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0333
     },
     {
       "term": "desk",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0333
     },
     {
       "term": "assistant",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0333
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0333
     },
     {
       "term": "field",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0333
     },
     {
       "term": "test",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0333
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0328
-    },
-    {
-      "term": "designers",
-      "count": 1,
-      "share": 0.0164
+      "share": 0.0333
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
+    },
+    {
+      "term": "solution",
+      "count": 1,
+      "share": 0.0167
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "ecosystem",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "greenfield",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "practice",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "solutions",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "hr",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "transformation",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "process",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "improvement",
       "count": 1,
-      "share": 0.0164
-    },
-    {
-      "term": "wfh",
-      "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "insights",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
+    },
+    {
+      "term": "wfh",
+      "count": 1,
+      "share": 0.0167
     },
     {
       "term": "hubspot",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
-      "term": "salesforce",
+      "term": "broadbeach",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "founding",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "node.js",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "angular",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "aws",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "staff",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
+    },
+    {
+      "term": "coordinator",
+      "count": 1,
+      "share": 0.0167
     },
     {
       "term": "medical",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0164
-    },
-    {
-      "term": "technician",
-      "count": 1,
-      "share": 0.0164
-    },
-    {
-      "term": "operations",
-      "count": 1,
-      "share": 0.0164
-    },
-    {
-      "term": "help",
-      "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "back",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "office",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
+    },
+    {
+      "term": "operations",
+      "count": 1,
+      "share": 0.0167
+    },
+    {
+      "term": "technician",
+      "count": 1,
+      "share": 0.0167
+    },
+    {
+      "term": "help",
+      "count": 1,
+      "share": 0.0167
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "chief",
       "count": 1,
-      "share": 0.0164
-    },
-    {
-      "term": "technology",
-      "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "sr",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "encapsulation",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "operator",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "learning",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "success",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "apac",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
+    },
+    {
+      "term": "chapter",
+      "count": 1,
+      "share": 0.0167
+    },
+    {
+      "term": "agentforce",
+      "count": 1,
+      "share": 0.0167
     },
     {
       "term": "inspection",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "maintenance",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "north",
       "count": 1,
-      "share": 0.0164
-    },
-    {
-      "term": "fibre",
-      "count": 1,
-      "share": 0.0164
-    },
-    {
-      "term": "splicers",
-      "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "rod",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "rope",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "cable",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     },
     {
       "term": "hauler",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
+    },
+    {
+      "term": "fibre",
+      "count": 1,
+      "share": 0.0167
+    },
+    {
+      "term": "splicers",
+      "count": 1,
+      "share": 0.0167
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0167
     }
   ],
   "jobs": [
-    {
-      "job_id": "93423568",
-      "job_title": "Business Analyst",
-      "business_name": "Jora Direct Aggregation",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "",
-      "area": "Surfers Paradise, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93423568",
-      "advertiser_id": "63771586",
-      "posted_date": "2026-07-20T03:41:51Z",
-      "job_description": "<p>Tequila Sunrise Hostel is hiring a Full time Business Analyst role in Surfers Paradise, QLD. Apply now to be part of our team.</p><br><strong>Requirements for this role:</strong><ul><li>Looking for candidates available to work:<ul><li>Mon morning</li><li>Mon afternoon</li><li>Tue morning</li><li>Tue afternoon</li><li>Wed morning</li><li>Wed afternoon</li><li>Thu morning</li><li>Thu afternoon</li><li>Fri morning</li><li>Fri afternoon</li></ul></li><li>2-3 years of relevant work experience required for this role</li><li>Expected salary: $75,000 - $85,000 per year</li></ul><br><p><strong>About Us</strong></p><p>We are a rapidly growing hostel and hospitality group operating six properties across Australia and one international property in Guatemala. Our business accommodates thousands of guests each month and employs over 100 staff across operations, reservations, finance, marketing and customer service teams. As we continue to expand, we are seeking an ICT Business Analyst to support the implementation, integration and optimisation of business systems across our group.</p><p></p><p><strong>The Role - ICT Business Analyst</strong></p><p>Reporting to the Directors, the <strong>ICT Business Analyst</strong> will analyse business processes, identify technology improvement opportunities and deliver system solutions that improve operational efficiency, financial reporting and guest experience.</p><p></p><p><strong>Key Responsibilities</strong></p><ul><li><p>Analyse existing operational and financial business processes across multiple properties.</p></li><li><p><strong>Gather and document business requirements from management and operational teams.</strong></p></li><li><p>Design and implement technology solutions that improve efficiency and reporting.</p></li><li><p><strong>Lead business system implementation and integration projects.</strong></p></li><li><p>Develop dashboards and management reports using operational and financial data.</p></li><li><p><strong>Analyse occupancy, revenue, labour and performance metrics to support decision-making.</strong></p></li><li><p>Coordinate with software vendors and third-party technology providers.</p></li><li><p><strong>Develop functional specifications and business process documentation.</strong></p></li><li><p>Train staff in the use of new business systems and procedures.</p></li><li><p><strong>Identify opportunities for automation and digital transformation.</strong></p></li><li><p>Support system upgrades, testing and deployment activities.</p></li><li><p><strong>Ensure consistency of business processes across all properties.</strong></p><p></p></li></ul><p><strong>Skills &amp; Experience</strong></p><ul><li><p>Bachelor's degree in Information Technology, Business Information Systems, Accounting, Finance or related discipline.</p></li><li><p><strong>Minimum 3 years' experience as a Business Analyst, Systems Analyst, ERP Consultant or similar role.</strong></p></li><li><p>Experience gathering business requirements and translating them into system solutions.</p></li><li><p><strong>Experience preparing functional specifications and business documentation.</strong></p></li><li><p>Strong analytical and problem-solving skills.</p></li><li><p><strong>Experience with ERP, finance or hospitality management systems highly regarded.</strong></p></li><li><p>Experience delivering end-user training and stakeholder engagement.</p></li><li><p><strong>Excellent communication and project management skills.</strong></p><p></p></li></ul><p><strong>Desirable</strong></p><ul><li><p>Experience with SAP, Oracle, Microsoft Dynamics or similar ERP systems.</p></li><li><p><strong>Experience in hospitality, accommodation or tourism industries.</strong></p></li><li><p>Experience with reporting and business intelligence platforms.</p></li></ul>",
-      "keywords": [
-        "business",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "93423248",
-      "job_title": "Business Development Manager",
-      "business_name": "XO Recruitment",
-      "work_type": "Full time",
-      "job_type": "Sales - Pre & Post",
-      "pay_range": "$100,000 to $120,000 + commissions",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93423248",
-      "advertiser_id": "45719685",
-      "posted_date": "2026-07-20T03:39:46Z",
-      "job_description": "<strong>The role in a nutshell: </strong><br> <ul> <li>You will develop strategies to gain new clients, penetrate new markets and gain new business.</li> <li>You will attend networking events, industry functions and conferences to generate new opportunities and build and maintain a robust sales pipeline. &nbsp;</li> <li>You will conduct discovery meetings to understand customer challenges, business objectives and technology requirements, and maintain a consultative sales approach focused on business outcomes rather than product sales.</li> <li>As this is a newly created role, you will also use your knowledge to build and document procedures and processes internally.</li> </ul> &nbsp;&nbsp;<br> &nbsp;&nbsp;<br> <strong>To be successful, you will need:</strong><br> <ul> <li>Previous experience as a business development manager, preferably in a Managed Services Provider environment. You have a demonstrated track record of meeting or exceeding sales targets and revenue goals.</li> <li>You have strong knowledge of the technology sector, including current trends and their business applications.</li> <li>You are a hunter, and enjoy looking for new business and building relationships. &nbsp;</li> <li>Excellent communication and relationship-building skills and ability to work with technical and non-technical stakeholders.</li> <li>You must be based on the Gold Coast, with a valid work permit as my client isn’t able to sponsor a visa.</li> </ul> &nbsp;&nbsp;<br> &nbsp;&nbsp;<br> &nbsp;&nbsp;<br> <strong>Why should you apply?</strong><br> <ul> <li>This is an opportunity to work with a strong business and a variety of customers, where no 2 days will be the same</li> <li>Located on the Gold Coast: need I say more?</li> <li>This is your opportunity for you to start and build a role from scratch and potentially grow a team.</li> </ul> &nbsp;&nbsp;<br> &nbsp;&nbsp;<br> &nbsp;&nbsp;<br> <strong>About our client: </strong><br> Our client is a managed IT solutions provider, and their priority is to ensure business continuity for their customers. They work closely with businesses to allow them to be more productive through the right utilisation of technology.<br> Partnership being key, they know businesses and know how critical the stability of their operations is. They provide a variety of technical services including managed services, cloud services, web hosting and development, taking the load of their customers and ensuring their peace of mind. The results are there: over 230 businesses trust them to manage their IT requirements.<br> This position serves as a crucial intermediary role, acting as a buffer between senior management and daily operational issues.<br> &nbsp;&nbsp;<br> &nbsp;&nbsp;<br> &nbsp;&nbsp;<br> <strong>How to Apply?</strong>&nbsp;&nbsp;<br> If this sounds like you or for a confidential discussion about the vacancy and your situation, please contact me on Whats’app on <a href=\"tel:+6421 786 160\">+6421 786 160</a> or email me your CV on <a href=\"mailto:chloe@xorecruitment.co.nz\">chloe@xorecruitment.co.nz</a> . If you are interested in this position but your experience doesn’t align perfectly with every point in the description above, please get in touch anyway! Our client is about building a diverse and inclusive workplace and recognizes that everyone possesses a unique set of skills, knowledge, experience, and that everybody is different and unique! You may just be the right candidate for this role, or any other we may be recruiting now or in the future. &nbsp;<br> &nbsp;&nbsp;<br> <strong>We are a Circle Back Initiative Agency – We commit to respond to every applicant.&nbsp;</strong>&nbsp;",
-      "keywords": [
-        "business",
-        "development",
-        "manager"
-      ]
-    },
-    {
-      "job_id": "93416977",
-      "job_title": "Senior Business Analyst - Broadbeach, QLD",
-      "business_name": "Ignite",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "",
-      "area": "Broadbeach, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93416977",
-      "advertiser_id": "55324746",
-      "posted_date": "2026-07-20T00:45:56Z",
-      "job_description": "<p>&nbsp;</p>\n<div>\n<p>&nbsp;</p>\n<div>\n<p><strong>Senior Business Analyst – Ignite Travel Group (Broadbeach)</strong></p>\n<p>We are looking for an experienced Senior Business Analyst to join the Ignite Engineering team in Broadbeach!</p>\n<p>Ignite Travel Group is an award-winning travel company (NTIA Most Outstanding Online Travel Agency 2022), and Australia’s largest travel advertiser, delivering incredible holidays and trailblazing win-win-win models for our people, customers, and business partners.</p>\n<p>&nbsp;</p>\n<p><strong>About the role</strong></p>\n<p>&nbsp;</p>\n<p>As a Senior Business Analyst, you will play a pivotal role in capturing business requirements and ensuring the successful implementation of our new travel booking platform, alongside supporting the backlog for our existing back-office platform. You will work closely with stakeholders to understand their needs, identify opportunities for improvement, and provide clear requirements to the engineering team on their behalf. Our engineering team is embracing AI-assisted delivery, and you’ll bring experience and confidence with adopting AI tools — this is not a developer role, but these tools are central to how you’ll analyse, specify and validate requirements – and you’ll help shape how we use them.</p>\n<p>&nbsp;</p>\n<p><strong>Key responsibilities:</strong></p>\n<ul>\n<li>Gather and document business requirements, translating them into user stories and acceptance criteria within an agile software delivery team.</li>\n<li>Develop use cases and process flows to support the development of software solutions</li>\n<li>Use AI tools to accelerate requirements analysis and produce clear, well-structured specifications</li>\n<li>Manage and refine the product backlog across both our existing back-office platform and our new travel booking platform, ensuring priorities reflect business value</li>\n<li>Conduct stakeholder interviews to understand business needs and pain points</li>\n<li>Collaborate with stakeholders to ensure that project objectives align with business goals</li>\n<li>Facilitate communication between business and technical teams</li>\n<li>Participate in user acceptance testing and ensure that solutions meet business requirements</li>\n<li>Develop and maintain system documentation and training material</li>\n<li>Providing leadership within the project teams to ensure delivery of customer requirements and expectations</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Who you are:</strong></p>\n<ul>\n<li>Experience within travel or other internet-scale environments desirable and strong understanding of the travel or retail industry</li>\n<li>Extensive proven experience in key business analysis discipline areas including: requirements elicitation and documentation (as user stories, use case and acceptance criteria), process analysis and documentation, and organisational strategy</li>\n<li>Experience and confidence working with AI-assisted analysis and specification</li>\n<li>Curiosity and adaptability — willingness to continuously learn new tooling and ways of working as our practices evolve</li>\n<li>Strong analytical and problem-solving skills</li>\n<li>Knowledge in business process re-engineering and improvement</li>\n<li>Well-developed written and oral communication and facilitation skills</li>\n<li>Ability to conduct virtual meetings and workshops</li>\n<li>Excellent documentation skills, both technical and non-technical</li>\n<li>Attention to detail and effective organisation and time management skills</li>\n<li>Strong business acumen and critical thinking skills</li>\n<li>5+ years' experience in a similar business analyst role</li>\n<li>Business Analyst formal qualification highly desirable</li>\n<li>Familiarity with spec-driven developing practices highly regarded; (producing specifications precise and unambiguous enough to drive both engineering teams and AI coding agents)</li>\n<li>Experience with Microsoft Dynamics 365 Business Central highly regarded</li>\n<li>UI/UX experience highly regarded</li>\n</ul>\n</div>\n<p>&nbsp;</p>\n</div>\n<p>&nbsp;</p>\n<p><strong>What you'll enjoy:</strong></p>\n<p>&nbsp;</p>\n<div>\n<p>📚&nbsp;Flexible working opportunities&nbsp;</p>\n<p>🚀Ongoing professional development and skill sharpening</p>\n<p>🚀 Catapult your career across a network of brands and businesses in an evolving industry</p>\n<p>✈️ Say no to full price! Nab discounts on travel and more thanks to our sweet rewards program</p>\n<p>👩‍⚕️ Access to industry leading health and well - being programs and financial advisors</p>\n<p>🌴 Set up shop in a swanky beachfront office in Broadbeach</p>\n<p>💃🏿 Enjoy social events to promote networking, celebration of wins, and sometimes just for fun!</p>\n<p>&nbsp;👐🏻 Take volunteer leave as part of giving back to the local community</p>\n<p>&nbsp;</p>\n<p><strong>We value you...&nbsp;</strong></p>\n<p>Ignite Travel Group is committed to creating an inclusive and diverse workplace that supports your unique identity to create better, safer experiences for everyone. We encourage you to come as you are; to foster inclusivity and collaboration. We celebrate you.&nbsp;&nbsp;</p>\n<p>&nbsp;</p>\n<p> #LI-KP1#IGNT#LI-Onsite </p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n</div>",
-      "keywords": [
-        "business",
-        "analyst",
-        "broadbeach"
-      ]
-    },
-    {
-      "job_id": "93415909",
-      "job_title": "Junior Developer",
-      "business_name": "Mastery Schools Australia",
-      "work_type": "Part time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "$27.50 per hour",
-      "area": "Varsity Lakes, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93415909",
-      "advertiser_id": "47372288",
-      "posted_date": "2026-07-19T23:56:07Z",
-      "job_description": "<p><strong>ABOUT MASTERY SCHOOLS AUSTRALIA:</strong></p><p>A small, not-for-profit Middle School&nbsp;(Years 4-10) dedicated to teaching and supporting students who are disengaged or at risk of disengaging from mainstream schooling due to learning difficulties or academic stress. We provide delivery of the full Australian Curriculum, including the general capabilities with a focus on explicit instruction pedagogy (Direct Instruction) / Mastery Teaching.</p><p>For more information on us, please visit www.msa.qld.edu.au</p><p><strong>ABOUT THE ROLE:</strong></p><p>We are seeking a part-time Junior Software Developer to join our growing team. This role is ideal for a university student currently studying Computer Science or a related field who is looking to gain hands-on industry experience while continuing their studies. We are looking for someone with a genuine interest in software development, strong problem-solving skills, attention to detail, and the ability to work independently when investigating technical challenges.</p><p>We value candidates who have built personal projects, maintain a GitHub portfolio, or can demonstrate practical experience through projects. Experience with Python, TypeScript, JavaScript, APIs, databases, Git, or cloud platforms such as AWS or Azure is beneficial but not essential. We are particularly interested in applicants who can explain the technical decisions behind projects they have built, demonstrate how they have solved difficult problems.</p><p><strong>RESPONSIBILITIES:</strong></p><p>Responsible for assisting in the development, testing, deployment, and maintenance of software applications, automation tools, and internal business systems. The role contributes to software development projects, system integrations, and business process automation initiatives.</p><p><strong>MANDATORY REQUIREMENTS:</strong></p><ul><li><p>Currently studying Software Engineering, Computer Science, IT, Cyber Security, or a related field</p></li><li><p>Genuine interest in software development</p></li><li><p>Strong problem-solving ability and willingness to investigate issues independently</p></li><li><p>Good written communication skills</p></li><li><p>Attention to detail</p></li><li><p>Reliable and able to follow through on tasks</p></li></ul><ul><li><p>Able to self-manage and meet deadlines</p></li><li><p>No adverse findings resulting from criminal history check (i.e. AFP National Police Check for working with children or no unsuitable findings by the Department National Investigations Unit)</p></li><li><p>Hold a current and valid Working with Children Blue Card</p></li></ul><p>If you are looking to start a career and make a difference in the world, please apply through this ad or send through your resume and cover letter to&nbsp;<a href=\"mailto:hr@msa.qld.edu.au\">hr@msa.qld.edu.au</a>&nbsp;</p>",
-      "keywords": [
-        "developer"
-      ]
-    },
-    {
-      "job_id": "93414555",
-      "job_title": "Solution Designers",
-      "business_name": "City of Gold Coast",
-      "work_type": "Contract/Temp",
-      "job_type": "Architects",
-      "pay_range": "$111,401-$117,924 p/a plus superannuation",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93414555",
-      "advertiser_id": "16652581",
-      "posted_date": "2026-07-19T21:13:31Z",
-      "job_description": "<ul> <li><strong>Full Time Fixed Term (2x positions available until 30/06/2027) | 9-day fortnight | 36 hours per week</strong></li> <li> <strong>Salary: </strong>From $111,401 - $117,924 per annum plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG1960/assets/31868019\">Solution Designer</a> </li> </ul><p> </p><p><strong>About the role </strong></p><p>We are excited to offer an opportunity for an innovative and delivery-focused Solution Designer to join the City of Gold Coast.</p><p>Reporting to the Coordinator Solution Architecture, you will provide expert advice on solution design best practice and lead technical designs that align with reference solutions, enterprise architecture principles and the City’s enterprise standards. You will develop clear, implementable designs and system specifications that support the successful delivery, transition and operation of ICT solutions across the organisation.</p><p>Depending on organisational priorities, you may be aligned to one of several activity streams. This could include supporting ICT design across municipal infrastructure projects, leading cross-platform initiatives under the IT Operating Model, or contributing to complex ICT portfolio initiatives that require strong governance, technical alignment and operational readiness. Across each stream, your focus will be on ensuring solutions are well defined, practical, compliant, and sustainable in service.</p><p>You will work closely with project teams, technical specialists, delivery partners, vendors and stakeholders across the Chief Technology Office and the broader City. You will coordinate technical input, manage design dependencies, support transition to operations, and help uplift consistent technical solution architecture patterns and practices that improve the way technology is delivered across the organisation.</p><p>This is a highly collaborative role suited to someone who can translate business needs into clear technical outcomes, balance design quality with delivery realities, and bring people together to solve complex problems. Your contribution will help ensure technology solutions are fit-for-purpose, aligned to enterprise standards, and capable of supporting services that enhance the Gold Coast way of life.</p><p><strong>We’re looking for people who have: </strong></p><p>Most importantly, you will bring experience in a similar Solution Designer or Solution Architect role, with the ability to turn business needs into clear, practical and implementable technology designs. You will be confident working across technical teams, project teams, vendors and business stakeholders to shape solutions that are aligned to enterprise architecture, City standards and operational requirements.</p><p>To succeed in this role, you will bring:</p><ul> <li>Demonstrated experience developing solution designs, system specifications and implementation-ready design artefacts that align with enterprise architecture principles, reference solutions, technical patterns and organisational standards.</li> <li>Strong stakeholder engagement and communication skills, with the ability to explain complex technical concepts clearly to both technical and non-technical audiences.</li> <li>A practical delivery mindset, with the ability to balance design quality, compliance, risk, operational readiness and delivery realities.</li> <li>The ability to coordinate technical input across multiple teams, manage dependencies, support transition to operations, and contribute to reliable and consistent solution delivery.</li> <li>Experience working across one or more delivery environments, such as municipal infrastructure projects, cross-platform service initiatives, ICT portfolio delivery, system migrations, operational uplift or technology-enabled business improvement.</li> <li>Strong problem-solving skills, attention to detail, and the ability to work with a high level of autonomy while contributing positively to cross-functional teams.</li> <li>An understanding of ICT risk, service transition, operational support considerations, vendor engagement and the importance of designing solutions that are sustainable beyond project delivery.</li> <li>A continuous improvement mindset, with an interest in uplifting technical patterns, improving solution design practices, and helping the City deliver fit-for-purpose technology outcomes for the community.</li> </ul><p>Ideally, you will also hold a Bachelor Degree in Information Technology, Project Management or a related discipline, or bring equivalent knowledge and relevant experience.</p><p>If you have strong solution design capability and can bring people together to deliver practical, standards-aligned technology outcomes, we’d like to hear from you.</p><p><strong>Be part of shaping the Gold Coast’s future </strong></p><p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p><p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p><ul> <li>9-day fortnight </li> </ul><ul> <li>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations </li> </ul><ul> <li>Personal and professional development courses </li> </ul><ul> <li>Access to 350+ fitness facilities through Fitness Passport </li> </ul><ul> <li>4 free confidential counselling sessions a year for you or an immediate family member </li> </ul><ul> <li>1 free nutritionist and financial advice session per year </li> </ul><p><strong> </strong> </p><p>We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p><p><strong>How to apply</strong><br>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p><p><strong>Contact Person</strong> Ashley Shannon</p><p><strong>Contact Email</strong> <a href=\"mailto:ashannon@goldcoast.qld.gov.au\">ashannon@goldcoast.qld.gov.au</a></p><p><strong>Closing Date</strong> 30th July 2026/11:59pm AEDT </p><p> </p><p>Our selection process may include a one-way video interview via Criteria, a face-to-face or virtual interview via Microsoft Teams, reference checks via Xref and additional checks including police checks, employment history checks, qualification checks, pre-employment medical reviews and drug and alcohol testing. </p><p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
-      "keywords": [
-        "solution",
-        "designers"
-      ]
-    },
     {
       "job_id": "93389403",
       "job_title": "Business Analyst",
@@ -853,6 +772,25 @@
         "transformation",
         "process",
         "improvement"
+      ]
+    },
+    {
+      "job_id": "93284402",
+      "job_title": "Technology Support Coordinator",
+      "business_name": "Coastal Property Agents",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Broadbeach, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93284402",
+      "advertiser_id": "30373508",
+      "posted_date": "2026-07-13T06:24:33Z",
+      "job_description": "<p><strong>Location:</strong> Broadbeach, Gold Coast<br><strong>Full Time</strong></p><h2>Love technology? Love helping people? Join one of the Gold Coast's leading real estate companies.</h2><p>At Coastal Property Agents, we're more than a real estate business—we're a team passionate about people, innovation and creating exceptional experiences.</p><p>We're looking for a Technology Support Coordinator to become the first point of contact for technology support across our six Gold Coast offices. Reporting to our Technical Strategy Manager, you'll play a key role in ensuring our team has the technology, systems and support they need to perform at their best.</p><p>Whether you're currently working in IT support, systems administration, or you're the technology go-to person within another industry (including real estate), we'd love to hear from you.</p><h2>About the role</h2><p>No two days are the same.</p><p>You'll support our team with day-to-day technology needs while helping deliver an outstanding experience for every Coastal team member.</p><p>Your responsibilities will include:</p><ul><li><p>Being the first point of contact for all internal technology support.</p></li><li><p>Coordinating onboarding and offboarding of team members across all business systems.</p></li><li><p>Creating user accounts and managing system access.</p></li><li><p>Liaising with external IT providers and software partners.</p></li><li><p>Supporting Microsoft 365 and our business technology platforms.</p></li><li><p>Maintaining staff and agent online profiles.</p></li><li><p>Updating our company website and digital platforms.</p></li><li><p>Assisting with Airtable, Coastal Hub, CRM systems and other business applications.</p></li><li><p>Coordinating technology equipment and asset management.</p></li><li><p>Supporting technology projects and continuous improvement initiatives.</p></li></ul><h2>About you</h2><p>You'll enjoy solving problems, helping people and learning new technology.</p><p>You'll also bring:</p><ul><li><p>Outstanding customer service and communication skills.</p></li><li><p>A proactive, solutions-focused mindset.</p></li><li><p>Strong organisational skills and attention to detail.</p></li><li><p>Confidence learning and supporting multiple software platforms.</p></li><li><p>The ability to prioritise competing tasks in a fast-paced environment.</p></li><li><p>A positive, team-first attitude.</p></li></ul><p>Experience within the real estate industry is highly regarded but not essential.</p><h2>Why Coastal?</h2><p>At Coastal, culture matters.</p><p>You'll join a supportive team that genuinely enjoys working together while helping shape the technology experience of one of the Gold Coast's largest independent real estate agencies.</p><p>We offer:</p><ul><li><p>A modern Broadbeach office.</p></li><li><p>Ongoing learning and professional development.</p></li><li><p>Exposure to a wide range of business technologies.</p></li><li><p>A collaborative and supportive leadership team.</p></li><li><p>The opportunity to grow your career as our business continues to evolve.</p></li></ul><p>If you're passionate about technology, enjoy helping people and want to be part of an innovative and growing business, we'd love to hear from you.</p><p><strong>Apply now with your resume and a short cover letter telling us why you'd be a great addition to the Coastal team.</strong></p>",
+      "keywords": [
+        "technology",
+        "support",
+        "coordinator"
       ]
     },
     {
@@ -1203,6 +1141,24 @@
       ]
     },
     {
+      "job_id": "93175638",
+      "job_title": "Senior Project Manager",
+      "business_name": "Department of Health - Queensland",
+      "work_type": "Full time",
+      "job_type": "Programme & Project Management",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93175638",
+      "advertiser_id": "32285210",
+      "posted_date": "2026-07-07T09:13:26Z",
+      "job_description": "<div>\n \n <p>This role is responsible for comprehending complex project and change management requirements across the Gold Coast Hospital and Health Service. </p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Senior Project Manager</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide authoritative and timely advice on digital programs and projects</li>\n<li>Deliver change management, project management and project delivery services</li>\n<li>Develop complex project business cases, project plans, progress reports and closure reports</li>\n<li>Engage and collaborate with stakeholders to identify opportunities for innovation and improvement in digital project delivery</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, a relevant qualification or formal training in program, project and/or change management would be well regarded</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Temporary full time (12 months with the possibility of extension)</li>\n<li>Base salary ranging from $140,115 - $150,371 per annum&nbsp;</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) Division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the G28 Gold Coast Hospital and Health Service Strategic Plan 2024-2028. DHI is responsible for enhancing efficiency and service delivery improvements to optimise Health Service performance. It also oversees strategic partnerships that help the Health Service implement alternative models of service delivery, ensuring value for money, and driving improvements in performance, and innovation.</p>\n<p>The PPD teams lead portfolio services and end-to-end digital project delivery for the division, incorporating digital assessment and discovery to delivery and transition to business-as-usual. Project Delivery services include problem and business analysis and project and change management across the delivery lifecycle. &nbsp;</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Monday, 20 July 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC687327</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
+      "keywords": [
+        "project",
+        "manager"
+      ]
+    },
+    {
       "job_id": "93166908",
       "job_title": "Business Analyst",
       "business_name": "SEE Group",
@@ -1218,6 +1174,24 @@
       "keywords": [
         "business",
         "analyst"
+      ]
+    },
+    {
+      "job_id": "93166379",
+      "job_title": "Senior Project Manager",
+      "business_name": "Gold Coast Hospital & Health Service",
+      "work_type": "Contract/Temp",
+      "job_type": "Programme & Project Management",
+      "pay_range": "$140,115 - $150,371 per annum + 12.75% super",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93166379",
+      "advertiser_id": "32285403",
+      "posted_date": "2026-07-07T04:29:10Z",
+      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Senior Project Manager</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide authoritative and timely advice on digital programs and projects</li>\n<li>Deliver change management, project management and project delivery services</li>\n<li>Develop complex project business cases, project plans, progress reports and closure reports</li>\n<li>Engage and collaborate with stakeholders to identify opportunities for innovation and improvement in digital project delivery</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, a relevant qualification or formal training in program, project and/or change management would be well regarded</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Temporary full time (12 months with the possibility of extension)</li>\n<li>Base salary ranging from $140,115 - $150,371 per annum&nbsp;</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) Division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the G28 Gold Coast Hospital and Health Service Strategic Plan 2024-2028. DHI is responsible for enhancing efficiency and service delivery improvements to optimise Health Service performance. It also oversees strategic partnerships that help the Health Service implement alternative models of service delivery, ensuring value for money, and driving improvements in performance, and innovation.</p>\n<p>The PPD teams lead portfolio services and end-to-end digital project delivery for the division, incorporating digital assessment and discovery to delivery and transition to business-as-usual. Project Delivery services include problem and business analysis and project and change management across the delivery lifecycle. &nbsp;</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Monday, 20 July 2026</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC687327</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
+      "keywords": [
+        "project",
+        "manager"
       ]
     },
     {
@@ -1512,6 +1486,26 @@
         "technical",
         "support",
         "specialist"
+      ]
+    },
+    {
+      "job_id": "92956244",
+      "job_title": "Salesforce Chapter Lead (AI & Agentforce)",
+      "business_name": "Medenterprises",
+      "work_type": "Full time",
+      "job_type": "Team Leaders",
+      "pay_range": "Base + Super + Medical Insurance + Wellness days",
+      "area": "Robina, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92956244",
+      "advertiser_id": "47432156",
+      "posted_date": "2026-06-25T23:06:15Z",
+      "job_description": "<p><strong>🩺 Make a real impact on the wellbeing of doctors while leading the future of AI‑powered Salesforce engineering.</strong></p><p>Medrecruit, part of the Medenterprises Group, is on a mission to improve the wellbeing of the medical profession. We’re building a doctor‑centric ecosystem that supports every stage of a doctor’s career - and our technology team is central to that mission.</p><p>We’re looking for a <strong>Salesforce Chapter Lead</strong> who can combine people leadership, deep Salesforce expertise, and a passion for agentic AI to shape the next generation of our platforms.</p><p>This hybrid role can be based out of our Gold Coast, Australia or Queenstown, New Zealand office. We are also open to considering exceptional candidates located in Auckland or Christchurch, New Zealand.</p><p>🌟 <strong>What You’ll Lead</strong></p><ul><li><p><strong>People leadership</strong> for a team of Salesforce Functional Consultants and Developers: coaching, mentoring, career development, and capability uplift.</p></li><li><p><strong>Salesforce strategy &amp; delivery:&nbsp;</strong>setting direction, ensuring platform excellence, and driving continuous improvement.</p></li><li><p><strong>Agentforce &amp; AI adoption: </strong>championing agentic AI practices, designing Agentforce agents, and establishing safe, effective AI workflows.</p></li><li><p><strong>Product discovery &amp; delivery: </strong>collaborating with product, design, and business teams to deliver solutions that matter.</p></li><li><p><strong>Ways of working: </strong>facilitating workshops, improving team processes, and fostering a culture of experimentation and learning.</p></li></ul><p>🚀 <strong>Key Responsibilities</strong></p><ul><li><p>Provide clear direction, goals, and priorities for the Salesforce chapter.</p></li><li><p>Lead the design, build, deployment, and governance of <strong>Agentforce agents</strong> that augment workflows.</p></li><li><p>Establish guardrails, evaluation practices, and observability for AI‑driven solutions.</p></li><li><p>Ensure high‑quality configuration, customisation, and maintenance of Salesforce.</p></li><li><p>Drive data governance, privacy compliance, and platform reliability.</p></li><li><p>Collaborate across sales, marketing, and operations to align Salesforce with business strategy.</p></li><li><p>Hire, onboard, mentor, and grow engineering talent.</p></li><li><p>Facilitate guilds, craft development, and an <strong>AI/Agentforce community of practice</strong>.</p></li><li><p>Use agile and lean approaches to keep the business responsive and innovative.</p></li></ul><p>🧠 <strong>What You Bring</strong></p><ul><li><p>5+ years in <strong>senior Salesforce leadership</strong> roles.</p></li><li><p>2+ years of <strong>people leadership</strong> experience.</p></li><li><p>Hands‑on experience with <strong>Agentforce</strong> or comparable agentic AI platforms.</p></li><li><p>Strong capability with <strong>AI coding assistants</strong> (Claude Code, GitHub Copilot, Cursor).</p></li><li><p>Experience with <strong>MCP servers</strong> or similar AI‑integration patterns.</p></li><li><p>Deep understanding of agile, lean, and modern engineering practices.</p></li><li><p>Ability to coach, mentor, resolve conflict, and inspire teams.</p></li><li><p>Strong communication skills with ability to present complex ideas to technical and non‑technical audiences.</p></li><li><p>A passion for people, culture, and continuous improvement.</p></li><li><p>Salesforce certifications (Admin, Platform Dev, Architect) and&nbsp;<strong>Agentforce Specialist</strong> credentials are highly desirable.</p></li></ul><p><strong>Why Join Us</strong></p><p>At Medenterprises, you’ll be part of a purpose‑driven organisation improving the lives of doctors across Australia and New Zealand. You’ll work remotely, collaborate with talented peers, and help shape the future of AI‑powered healthcare technology. We celebrate <strong>diverse perspectives</strong> - your unique background, culture, experiences, and ideas will help us innovate in ways that matter.</p><p><strong>Perks &amp; Benefits</strong><br>🩺 Medical Insurance and Parental Leave Top Ups for Primary Carers<br>📚 Ongoing Career Coaching and Learning &amp; Development Opportunities<br>🏝&nbsp; Hybrid &amp; Remote Work Options<br>🎉 Quarterly Events &amp; Team Celebrations<br>📈 Clear Career Growth Pathways<br>🚀 Proudly B Corp Certified</p><p><strong>Ready to Lead the Future of Salesforce + AI?</strong></p><p>If you’re excited about agentic AI, passionate about people, and eager to build meaningful technology that supports the medical profession, we’d love to hear from you.</p><p>Apply now with your CV and Cover Letter.</p>",
+      "keywords": [
+        "salesforce",
+        "chapter",
+        "ai",
+        "agentforce"
       ]
     },
     {
