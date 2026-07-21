@@ -1,541 +1,481 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-21",
   "region": "Gold Coast",
-  "scraped_at": "2026-07-22T06:59:03.303426+10:00",
-  "total_jobs": 62,
+  "scraped_at": "2026-07-21T07:02:01.030306+10:00",
+  "total_jobs": 61,
   "keywords": [
+    {
+      "term": "it",
+      "count": 12,
+      "share": 0.1967
+    },
     {
       "term": "business",
       "count": 11,
-      "share": 0.1774
+      "share": 0.1803
     },
     {
       "term": "analyst",
       "count": 11,
-      "share": 0.1774
-    },
-    {
-      "term": "it",
-      "count": 11,
-      "share": 0.1774
-    },
-    {
-      "term": "manager",
-      "count": 9,
-      "share": 0.1452
+      "share": 0.1803
     },
     {
       "term": "engineer",
       "count": 9,
-      "share": 0.1452
+      "share": 0.1475
+    },
+    {
+      "term": "manager",
+      "count": 8,
+      "share": 0.1311
     },
     {
       "term": "support",
-      "count": 7,
-      "share": 0.1129
+      "count": 8,
+      "share": 0.1311
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.0806
+      "share": 0.082
     },
     {
       "term": "developer",
       "count": 5,
-      "share": 0.0806
-    },
-    {
-      "term": "technical",
-      "count": 5,
-      "share": 0.0806
+      "share": 0.082
     },
     {
       "term": "software",
       "count": 5,
-      "share": 0.0806
+      "share": 0.082
     },
     {
-      "term": "administrator",
-      "count": 4,
-      "share": 0.0645
+      "term": "officer",
+      "count": 5,
+      "share": 0.082
     },
     {
       "term": "automation",
       "count": 4,
-      "share": 0.0645
+      "share": 0.0656
     },
     {
       "term": "specialist",
       "count": 4,
-      "share": 0.0645
-    },
-    {
-      "term": "officer",
-      "count": 4,
-      "share": 0.0645
+      "share": 0.0656
     },
     {
       "term": "development",
       "count": 4,
-      "share": 0.0645
+      "share": 0.0656
     },
     {
       "term": "ai",
       "count": 3,
-      "share": 0.0484
-    },
-    {
-      "term": "project",
-      "count": 3,
-      "share": 0.0484
+      "share": 0.0492
     },
     {
       "term": "infrastructure",
       "count": 3,
-      "share": 0.0484
+      "share": 0.0492
+    },
+    {
+      "term": "administrator",
+      "count": 3,
+      "share": 0.0492
+    },
+    {
+      "term": "technical",
+      "count": 3,
+      "share": 0.0492
     },
     {
       "term": "telecommunications",
       "count": 3,
-      "share": 0.0484
+      "share": 0.0492
     },
     {
       "term": "ict",
       "count": 3,
-      "share": 0.0484
+      "share": 0.0492
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0328
     },
     {
       "term": "architect",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0328
     },
     {
       "term": "broadbeach",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0328
+    },
+    {
+      "term": "project",
+      "count": 2,
+      "share": 0.0328
     },
     {
       "term": "month",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0328
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0328
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0328
     },
     {
       "term": "service",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0328
     },
     {
       "term": "desk",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0328
     },
     {
       "term": "assistant",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0328
+    },
+    {
+      "term": "digital",
+      "count": 2,
+      "share": 0.0328
     },
     {
       "term": "field",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0328
     },
     {
       "term": "test",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0328
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0328
     },
     {
       "term": "designers",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "ecosystem",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "greenfield",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "practice",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "solutions",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0161
-    },
-    {
-      "term": "wfh",
-      "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "hr",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "transformation",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "process",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "improvement",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
+    },
+    {
+      "term": "wfh",
+      "count": 1,
+      "share": 0.0164
     },
     {
       "term": "insights",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "hubspot",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0161
-    },
-    {
-      "term": "dotnet",
-      "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "founding",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "node.js",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "angular",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "aws",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "staff",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "medical",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "technician",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "operations",
       "count": 1,
-      "share": 0.0161
-    },
-    {
-      "term": "back",
-      "count": 1,
-      "share": 0.0161
-    },
-    {
-      "term": "office",
-      "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "help",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
+    },
+    {
+      "term": "back",
+      "count": 1,
+      "share": 0.0164
+    },
+    {
+      "term": "office",
+      "count": 1,
+      "share": 0.0164
+    },
+    {
+      "term": "house",
+      "count": 1,
+      "share": 0.0164
     },
     {
       "term": "chief",
       "count": 1,
-      "share": 0.0161
-    },
-    {
-      "term": "digital",
-      "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "technology",
       "count": 1,
-      "share": 0.0161
-    },
-    {
-      "term": "l2",
-      "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0161
-    },
-    {
-      "term": "network",
-      "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
+    },
+    {
+      "term": "network",
+      "count": 1,
+      "share": 0.0164
     },
     {
       "term": "sr",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "encapsulation",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "operator",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "learning",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "success",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "apac",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "inspection",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "maintenance",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "north",
       "count": 1,
-      "share": 0.0161
-    },
-    {
-      "term": "rod",
-      "count": 1,
-      "share": 0.0161
-    },
-    {
-      "term": "rope",
-      "count": 1,
-      "share": 0.0161
-    },
-    {
-      "term": "cable",
-      "count": 1,
-      "share": 0.0161
-    },
-    {
-      "term": "hauler",
-      "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     },
     {
       "term": "splicers",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
+    },
+    {
+      "term": "rod",
+      "count": 1,
+      "share": 0.0164
+    },
+    {
+      "term": "rope",
+      "count": 1,
+      "share": 0.0164
+    },
+    {
+      "term": "cable",
+      "count": 1,
+      "share": 0.0164
+    },
+    {
+      "term": "hauler",
+      "count": 1,
+      "share": 0.0164
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0164
     }
   ],
   "jobs": [
-    {
-      "job_id": "93458777",
-      "job_title": "Technical Administrator L2 (QLD)",
-      "business_name": "Nexigen Digital",
-      "work_type": "Full time",
-      "job_type": "Networks & Systems Administration",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93458777",
-      "advertiser_id": "25685289",
-      "posted_date": "2026-07-21T04:48:53Z",
-      "job_description": "<p><strong>About Nexigen Digital</strong></p><p>We are Australia’s largest privately-owned group of online service providers, which includes brands such as VentraIP, Synergy Wholesale and Intaserve.</p><p>Every day our all-Australian team delivers exceptional service and outstanding support to our 200,000+ customers who choose us for their domain names, website hosting and digital marketing.</p><p><br></p><p>Over the past fifteen years, we have been constant game-changers, industry innovators, award winners, and community leaders - and now is your chance to join our team.</p><p><br></p><br><p><strong>The Position</strong></p><p>As an Infrastructure administrator, we are responsible for a large number of Servers in the web hosting spaice. Your main responsibility will be managing, monitoring and improving our fleet of servers, handling escalations and increasing efficiency &amp; security.</p><p><br></p><p>Requirements and Core functions:</p><p>Linux System Administration (CenOS/Alma/RHEL)</p><p><br></p><p>The right person (is it you?)</p><p>To be the best in this role we are looking for people with the following attributes:</p><ul><li>A passion for technology (cyber security, gaming, PC building, etc.)</li><li>The ability to absorb information and learn quickly</li><li>Efficient problem-solving skills</li></ul><p><br>Attention to detailAny previous experience in the following areas would be highly regarded:</p><ul><li>cPanel\\WHM</li><li>DNS</li><li>Networking (Extreme/Juniper)</li><li>Python</li><li>Bash</li></ul><p><br>Any previous experience in the following areas would be beneficial but it's not essential:</p><ul><li>Docker</li><li>KVM</li><li>QEMU</li><li>Litespeed/Apache</li><li>Ceph</li><li>MySQL/MariaDB</li><li>Galera</li></ul><p><br><br></p><p><strong>The Benefits of Working With the Nexigen Digital Team</strong></p><p>Aside from being awarded “Employer of Choice” in the Australian Business Awards, we are often referred to as the Google of south-east Melbourne thanks to our unique facilities and team culture, and a top-down mandate to take care of the people who take care of our customers.</p><p>Some of the office perks include:</p><ul><li>A weekly selection of delicious meals prepared in our on-site kitchen for breakfast and lunch.</li><li>A fully-stocked snack bar featuring an assortment of chips, chocolates, nuts, protein bars and fresh fruit.</li><li>A drink fridge loaded with an assortment of soft drinks, juices and water.</li><li>A fully equipped private gym with weekly on-site personal training sessions.</li><li>A team wellness centre with a sound-proof gaming stadium featuring an 85” 4K TV, racing car simulator, pinball machine, arcade machine, and air hockey table.</li><li>An on-site salon where our resident barber and stylist provide free haircuts on a regular basis.</li></ul><p>We actively encourage training and upskilling for personal development and will fund courses that have a beneficial impact on the business.</p><p>Please note that due to strict security requirements the successful applicant will be required to complete a National Police Check as a condition of employment.</p><p><br></p><br><br><p>PI<a href=\"tel:285942700\">285942700</a></p>",
-      "keywords": [
-        "technical",
-        "administrator",
-        "l2"
-      ]
-    },
-    {
-      "job_id": "93454566",
-      "job_title": "Project Manager",
-      "business_name": "Downer EDI Limited",
-      "work_type": "Full time",
-      "job_type": "Telecommunications",
-      "pay_range": "",
-      "area": "Molendinar, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93454566",
-      "advertiser_id": "63047675",
-      "posted_date": "2026-07-21T03:06:25Z",
-      "job_description": "<p><br> <br> </p><p>At Downer we plan, create and sustain. Downer is the leading provider of integrated services in Australia and New Zealand. Through trusted relationships and world leading insight we work closely with our customers to design, build and sustain assets, infrastructure, and facilities. <br> </p><p><strong>The Opportunity</strong><br> <br>Downer's Energy &amp; Utilities business unit has an opportunity for a Project Manager to join our Metering team working with Local Councils. Reporting to the National Operations Manager, this role is responsible for the successful delivery and performance of contracts and projects. <br> <br>The role oversees project planning, financial performance, compliance, stakeholder management, risk management, safety and resource allocation to ensure contractual obligations are met safely, efficiently and profitably. <br> <br>As the primary point of accountability for contract delivery, you will ensure timely delivery in accordance with client expectations, legislative requirements and organisational standards. <br> <br><strong>What we are looking for</strong></p><ul><li>Demonstrated experience managing contracts and/or projects, including project budgets, forecasting and financial performance</li><li>Background in Water, plumbing or metering preferred</li><li>Strong client relationship and stakeholder management skills, with the ability to build positive relationships with clients, contractors, suppliers and internal stakeholders</li><li>Strong understanding of project management methodologies and principles</li><li>High-level communication and reporting skills</li><li>Ability to lead, coach and support multidisciplinary teams to achieve business objectives</li><li>Strong planning, organisational and problem-solving abilities</li><li>Experience within the Metering industry is desirable</li></ul><p><strong>What we offer</strong></p><ul><li>Opportunity for career growth with structured frameworks and supportive-inclusive team</li><li>Competitive Salary and Employee Benefits</li><li>Valued and respected position, with supportive and experienced team</li><li>Work for a major ASX-listed company</li></ul><p><strong>About Energy &amp; Utilities…</strong>Downer's Energy &amp; Utilities business unit is an integrated trans-Tasman team, providing services and solutions that connect communities to essential networks and infrastructure. We design, build, operate and maintain today's critical assets and networks, delivering complete services across the water, electricity, telecommunications, industrial and power generation sectors. Our expertise spans in-house technical smarts, specialist engineering, integrated OEM partners, and dedicated crews of qualified tradespeople.<br> <br><em>Downer Group is an employer that acknowledges and embraces the importance of our people's diverse experiences, talents, and cultures. As an inclusive employer, we welcome applications from everyone.</em><br> <br><strong>How to apply</strong><br> <br>Click \"Apply\" to start your application. We look forward to hearing from you! <br> <br>Downer does not accept unsolicited resumes, fees, or costs from recruitment agencies, search firms, or third parties. Candidates are welcome to submit their applications via the advertisement.<br> </p>",
-      "keywords": [
-        "project",
-        "manager"
-      ]
-    },
-    {
-      "job_id": "93449091",
-      "job_title": "DotNet Technical Lead",
-      "business_name": "Akkodis",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "",
-      "area": "Broadbeach, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93449091",
-      "advertiser_id": "25886139",
-      "posted_date": "2026-07-21T00:23:01Z",
-      "job_description": "<p><strong>Technical Lead</strong><br> <br><strong>What's in it for you?</strong><br> <br>· Join a leading organisation delivering innovative digital solutions using modern cloud technologies.<br> <br>· Lead technical decision-making while remaining hands-on across Azure infrastructure and full-stack development.<br> <br>· Work with cutting-edge technologies including Azure, .NET, React, TypeScript and AI-assisted engineering tools.<br> <br>· Enjoy a hybrid working model with opportunities to influence technical direction and mentor engineers.<br> <br><strong>Role</strong><br> <br>We are seeking an experienced Technical Lead to provide technical leadership across the full software development lifecycle, including analysis, design, development, testing, deployment and support. This is a senior hands-on role that combines Azure cloud engineering with full-stack software development. You will work closely with senior engineering stakeholders to deliver secure, scalable and high-performing applications while driving engineering best practices and mentoring the development team.<br> <br><strong>Employment Type and Duration</strong><br> </p><ul><li>Permanent</li></ul><p><strong>Work Model</strong><br> </p><ul><li>Hybrid (3 days per week in the office)</li></ul><p><strong>Location</strong><br> </p><ul><li>Broadbeach, Queensland</li></ul><p><strong>Key Responsibilities</strong><br> <br>· Design, build and manage Azure infrastructure using Infrastructure as Code (Bicep), Container Apps, API Management, Key Vault, networking and landing zones.<br> <br>· Develop and maintain full-stack applications using .NET, React and TypeScript.<br> <br>· Build and maintain API integrations with internal and external platforms.<br> <br>· Lead the adoption of AI-powered engineering tools such as Claude Code and GitHub Copilot, establishing best practices across the team.<br> <br>· Provide technical leadership through code reviews, mentoring and engineering standards.<br> <br>· Ensure solutions are secure, scalable, highly available and aligned with PCI and data privacy requirements.<br> <br>· Collaborate with Solution Architects to implement enterprise architecture and technical standards.<br> <br>· Drive continuous improvement across development practices, DevOps processes and software quality.<br> <br><strong>Required Skills &amp; Experience</strong><br> <br>· Proven experience designing, building and operating Azure cloud infrastructure and microservices in enterprise environments.<br> <br>· Strong hands-on experience with .NET development, REST APIs, React, TypeScript, Entity Framework, SQL and relational databases.<br> <br>· Minimum 5 years' experience as a Technical Lead or in a similar senior technical role.<br> <br>· Experience using AI-assisted software engineering tools such as Claude Code, GitHub Copilot or similar.<br> <br>· Experience with Azure DevOps, GitHub Actions, Octopus Deploy and CI/CD pipelines.<br> <br>· Strong understanding of Agile delivery methodologies (Scrum/Kanban).<br> <br>· Experience with DevOps, Site Reliability Engineering (SRE) and observability practices.<br> <br>· Excellent communication, stakeholder management and technical leadership skills.<br> <br>· Experience with Microsoft Dynamics 365 Business Central and AWS will be highly regarded.<br> <br><strong>Qualifications &amp; Clearance</strong><br> <br>· Bachelor's or Master's degree in Computer Science, Software Engineering or a related discipline.<br> <br>· Microsoft Azure certifications are highly desirable.<br> <br>· Full Australian working rights.<br> <br>If you have what it takes to thrive in this role and want to know more, please reach out to <strong>Isha Khanna</strong> at <strong><a href=\"mailto:isha.khanna@akkodisgroup.com\">isha.khanna@akkodisgroup.com</a></strong> <br> <br><strong>Privacy</strong> <br> <br>Due to new privacy laws regarding the collection and handling of personal information, all applications must be submitted online. Once you click on the \"apply for this job\" button below you will be directed to our Online Centre where you will have the opportunity to read and agree to our Privacy and Consent statements and it will allow your details to be formally lodged and processed correctly. <br> <br>\"Akkodis is an Equal Opportunity employer, committed to all forms of workforce inclusion. We actively invite and encourage applications by candidates from diverse backgrounds\" <br> </p>",
-      "keywords": [
-        "dotnet",
-        "technical"
-      ]
-    },
     {
       "job_id": "93423568",
       "job_title": "Business Analyst",
@@ -853,6 +793,24 @@
       ]
     },
     {
+      "job_id": "93296457",
+      "job_title": "Digital Officer",
+      "business_name": "City of Gold Coast",
+      "work_type": "Full time",
+      "job_type": "Web Development & Production",
+      "pay_range": "From $101,616 plus superannuation",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93296457",
+      "advertiser_id": "16652581",
+      "posted_date": "2026-07-13T22:24:59Z",
+      "job_description": "<ul> <li><strong>Full Time / 9 day fortnight / 36 hours </strong></li> <li> <strong>Salary: </strong>From $101,616 plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG1843/assets/31522495\">Digital Officer </a> </li> </ul> <p><strong>About the role </strong></p> <p>As a Digital Officer, you will play a key role in maintaining and enhancing the City's digital presence, ensuring our websites and online communication channels deliver exceptional customer experiences, accurate information, and effective marketing and engagement outcomes.</p> <p>Working collaboratively with content owners across the organisation, you will provide expert guidance on web content management and digital best practices, ensuring all online content aligns with the City's Web Standards, Communication Guidelines and Brand Framework.</p> <p>This is an exciting opportunity for a digitally savvy professional who is passionate about user experience, accessibility, content design and continuous improvement.</p> <p><strong>Position Responsibilities</strong></p> <ul> <li>Create, edit and publish web content, page layouts and digital assets including forms, maps, images and PDFs.</li> <li>Work closely with content owners to maintain accurate, relevant and customer-focused website content.</li> <li>Apply HTML and CSS skills to optimise and publish content through content management systems (CMS) and associated digital platforms.</li> <li>Ensure content complies with best practice web standards, including accessibility (WCAG), user experience (UX), information architecture, SEO and readability principles.</li> <li>Utilise multimedia and content creation tools such as Adobe Creative Suite, electronic direct marketing (EDM) platforms and smart form solutions to develop engaging digital content.</li> <li>Monitor, analyse and report on website traffic, customer behaviour and digital engagement trends.</li> <li>Identify and recommend improvements that enhance website performance, usability and customer experience.</li> <li>Perform day-to-day website administration activities, including quality assurance reviews, content audits and the removal of outdated or redundant content.</li> <li>Build positive relationships with stakeholders and contribute effectively within a collaborative and fast-paced team environment.</li> </ul> <p><strong>About you</strong></p> <p>You are a proactive and customer-focused digital professional with strong web content management skills and a keen eye for detail. You enjoy working with a diverse range of stakeholders and are passionate about delivering accessible, user-friendly and engaging digital experiences.</p> <p>To be successful in this role, you will demonstrate:</p> <ul> <li>Experience managing and maintaining website content using content management systems.</li> <li>Knowledge of web standards, accessibility requirements, SEO principles and user experience best practices.</li> <li>Practical skills in HTML and CSS.</li> <li>Experience using digital content creation and multimedia tools.</li> <li>Strong analytical skills with the ability to interpret website performance data and identify opportunities for improvement.</li> <li>Excellent communication, stakeholder engagement and collaboration skills.</li> <li>Strong organisational skills and the ability to manage competing priorities.</li> </ul> <p><strong>Qualifications and Licences</strong></p> <ul> <li>Bachelor's Degree in Information Systems, Multimedia, Internet Studies or the equivalent experience.</li> <li>Unrestricted Class “C” Driver Licence.</li> <li>Desired - Google Analytics Individual Qualification (GAIQ).</li> </ul> <p><strong>Why join us?</strong></p> <p>Join a team that is committed to delivering innovative digital solutions that improve how our community accesses information and services. You'll have the opportunity to contribute to meaningful projects, work with passionate professionals and help shape the City's digital future.</p> <p><strong>Be part of shaping the Gold Coast’s future </strong></p> <p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p> <p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p> <ul> <li>9-day fortnight </li> <li>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations </li> <li>Personal and professional development courses</li> <li>Access to 350+ fitness facilities through Fitness Passport </li> <li>4 free confidential counselling sessions a year for you or an immediate family member</li> <li>1 free nutritionist and financial advice session per year</li> </ul> <p>We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p> <p><strong>How to apply</strong></p> <p>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable</p> <p><strong>Contact Person</strong> Jansen Croft</p> <p><strong>Contact Email</strong> <a href=\"mailto:JCROFT@goldcoast.qld.gov.au\">JCROFT@goldcoast.qld.gov.au</a></p> <p><strong>Closing Date</strong> Tuesday 21 July @11:59pm</p> <p>Our selection process may include a one-way video interview via Criteria, a face-to-face or virtual interview via Microsoft Teams, reference checks via Xref and additional checks including police checks, employment history checks, qualification checks, pre-employment medical reviews and drug and alcohol testing. </p> <p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We consider all qualified candidates for employment, irrespective of race, age, religion, gender identity, sexual orientation, disability, or other protected characteristics by law.</em> </p>",
+      "keywords": [
+        "digital",
+        "officer"
+      ]
+    },
+    {
       "job_id": "93292208",
       "job_title": "Telecommunications Rod & Rope / Cable Hauler",
       "business_name": "Tech Four Pty Ltd",
@@ -935,7 +893,7 @@
     },
     {
       "job_id": "93274673",
-      "job_title": "Business Development Manager - Infrastructure ",
+      "job_title": "Business Development Manager - Infrastructure",
       "business_name": "GIGACOMM PTY LTD",
       "work_type": "Full time",
       "job_type": "Telecommunications",
@@ -984,7 +942,7 @@
       "url": "https://www.seek.com.au/job/93244400",
       "advertiser_id": "20614204",
       "posted_date": "2026-07-10T04:11:31Z",
-      "job_description": "<h2>About St Andrews Lutheran College</h2><p>St Andrews Lutheran College is an independent, co-educational school located at the southern end of the Gold Coast, with over 1,400 students from Early Learning to Year 12. We are a Christ-centred community with a mission to strive for excellence in Christian co-education.</p><p>Our employee community is a passionate and dedicated team who inspire and nurture confident young people. As employees, our College Mission of Celebrating the Gospel | Nurturing the Individual | Empowering Lifelong Learners is pivotal to our operation and guides everything we do. We are committed to fostering a supportive, inclusive, and innovative environment where both students and staff can thrive.</p><h2>Position Overview</h2><ul><li><p><strong>Position title:</strong> IT Help Desk Assistant</p></li><li><p><strong>Workload:</strong> Casual (as required)</p></li><li><p><strong>Hours per day:</strong> Flexible (typically 4-5 hrs)</p></li><li><p><strong>Days per week:</strong> Flexible (typically Mon, Tues, Wed, Fri)</p></li><li><p><strong>Classification: </strong>SO Level 2</p></li><li><p><strong>Pay: </strong>Minimum $43.15/hour</p></li><li><p><strong>Anticipated start date:</strong> Immediately</p></li></ul><h2>The Role</h2><p>We are seeking a proactive and service-oriented IT Help Desk Assistant to support the daily technology needs of our College community. This role is ideal for someone who enjoys problem-solving, working with people, and contributing to a fast-paced, collaborative environment.</p><p>Working closely with the IT team, you will provide frontline technical support to staff and students, helping to ensure seamless access to systems, devices, and digital learning tools.</p><h2>Key Responsibilities</h2><ul><li><p>Provide first-line technical support for hardware, software, and network issues</p></li><li><p>Troubleshoot and resolve user incidents across devices, systems, and applications</p></li><li><p>Assist with the setup, maintenance, and deployment of laptops, tablets, and peripherals</p></li><li><p>Support classroom and staff technology, including AV systems, learning platforms and iPad deplyments</p></li><li><p>Log and track support requests through the help desk system</p></li><li><p>Assist with user account management and access permissions</p></li><li><p>Contribute to IT projects, rollouts, and system improvements as required</p></li></ul><h2>Selection Criteria</h2><p><strong>Essential</strong></p><ul><li><p>Commitment to supporting the Christian ethos and values of St Andrews Lutheran College.</p></li><li><p>Previous experience in an IT support or help desk role</p></li><li><p>Strong troubleshooting and problem-solving skills</p></li><li><p>Knowledge of Windows and/or macOS environments</p></li><li><p>Excellent interpersonal and communication skills</p></li><li><p>Ability to prioritise tasks and work both independently and as part of a team</p></li><li><p>A positive attitude and willingness to learn</p></li></ul><p><strong>Desirable</strong></p><ul><li><p>Experience in an education environment</p></li><li><p>Familiarity with Microsoft 365, Active Directory, device management tools (JAMF &amp; Intune)</p></li><li><p>Relevant IT qualifications or certifications</p></li></ul><p><strong>Application Instructions</strong></p><p>The ideal candidate will embody our values and actively contribute to our vibrant College community, fostering meaningful relationships across the College. If you believe your work ethic and mindset align with our opportunity, please submit your cover letter responding to the above criteria, and resume by clicking the ‘APPLY’ button now.</p><p><strong>Agency applications are respectfully declined.</strong></p><p>St Andrews Lutheran College supports the rights of children and young people and is committed to the safety and wellbeing of students. All applicants are required to undergo a screening process and the successful applicant must successfully obtain a QLD blue card and comply with all College policies and procedures.</p>",
+      "job_description": "<h2>About St Andrews Lutheran College</h2><p>St Andrews Lutheran College is an independent, co-educational school located at the southern end of the Gold Coast, with over 1,400 students from Early Learning to Year 12. We are a Christ-centred community with a mission to strive for excellence in Christian co-education.</p><p>Our employee community is a passionate and dedicated team who inspire and nurture confident young people. As employees, our College Mission of Celebrating the Gospel | Nurturing the Individual | Empowering Lifelong Learners is pivotal to our operation and guides everything we do. We are committed to fostering a supportive, inclusive, and innovative environment where both students and staff can thrive.</p><p>We are committed to fostering a supportive, inclusive, and innovative environment where both students and staff can thrive.</p><h2>Position Overview</h2><ul><li><p><strong>Position title:</strong> IT Help Desk Assistant</p></li><li><p><strong>Workload:</strong> Casual (as required)</p></li><li><p><strong>Hours per day:</strong> Flexible (typically 4-5 hrs)</p></li><li><p><strong>Days per week:</strong> Flexible (typically Mon, Tues, Wed, Fri)</p></li><li><p><strong>Classification: </strong>SO Level 2</p></li><li><p><strong>Pay: </strong>Minimum $43.15/hour</p></li><li><p><strong>Anticipated start date:</strong> Immediately</p></li></ul><h2>The Role</h2><p>We are seeking a proactive and service-oriented IT Help Desk Assistant to support the daily technology needs of our College community. This role is ideal for someone who enjoys problem-solving, working with people, and contributing to a fast-paced, collaborative environment.</p><p>Working closely with the IT team, you will provide frontline technical support to staff and students, helping to ensure seamless access to systems, devices, and digital learning tools.</p><h2>Key Responsibilities</h2><ul><li><p>Provide first-line technical support for hardware, software, and network issues</p></li><li><p>Troubleshoot and resolve user incidents across devices, systems, and applications</p></li><li><p>Assist with the setup, maintenance, and deployment of laptops, tablets, and peripherals</p></li><li><p>Support classroom and staff technology, including AV systems, learning platforms and iPad deplyments</p></li><li><p>Log and track support requests through the help desk system</p></li><li><p>Assist with user account management and access permissions</p></li><li><p>Contribute to IT projects, rollouts, and system improvements as required</p></li></ul><h2>Selection Criteria</h2><p><strong>Essential</strong></p><ul><li><p>Commitment to supporting the Christian ethos and values of St Andrews Lutheran College.</p></li><li><p>Previous experience in an IT support or help desk role</p></li><li><p>Strong troubleshooting and problem-solving skills</p></li><li><p>Knowledge of Windows and/or macOS environments</p></li><li><p>Excellent interpersonal and communication skills</p></li><li><p>Ability to prioritise tasks and work both independently and as part of a team</p></li><li><p>A positive attitude and willingness to learn</p></li></ul><p><strong>Desirable</strong></p><ul><li><p>Experience in an education environment</p></li><li><p>Familiarity with Microsoft 365, Active Directory, device management tools (JAMF &amp; Intune)</p></li><li><p>Relevant IT qualifications or certifications</p></li></ul><p><strong>Application Instructions</strong></p><p>The ideal candidate will embody our values and actively contribute to our vibrant College community, fostering meaningful relationships across the College. If you believe your work ethic and mindset align with our opportunity, please submit your cover letter responding to the above criteria, and resume by clicking the ‘APPLY’ button now.</p><p><strong>Agency applications are respectfully declined.</strong></p><p>St Andrews Lutheran College supports the rights of children and young people and is committed to the safety and wellbeing of students. All applicants are required to undergo a screening process and the successful applicant must successfully obtain a QLD blue card and comply with all College policies and procedures.</p>",
       "keywords": [
         "it",
         "help",
@@ -1671,6 +1629,25 @@
         "development",
         "course",
         "coach"
+      ]
+    },
+    {
+      "job_id": "92844172",
+      "job_title": "In-house IT support",
+      "business_name": "GC Tech Services",
+      "work_type": "Casual/Vacation",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "$50 – $65 per hour",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92844172",
+      "advertiser_id": "63585113",
+      "posted_date": "2026-06-21T08:06:37Z",
+      "job_description": "<h2><strong>About the role</strong></h2><p>We are seeking an individual with solid IT knowledge with daytime availability to join our small team at GC Tech Services as an in-house IT support technician. This role involves both on-site work in clients’ homes, businesses and remote support.</p><p>This is a highly flexible, casual role that will vary based on your availability and client demand.</p><p>Typical hours are 2–5 hours per week, with busier weeks reaching 10+ hours. Typically bookings are made within 24 hours of the client contacting us.</p><hr><h2><strong>What you'll be doing</strong></h2><ul><li><p>Responding to and resolving IT related queries and issues in a timely manner</p></li><li><p>Providing on-site and remote support for hardware, software, and network problems</p></li><li><p>Assisting with the installation, configuration, and maintenance of IT systems and equipment</p></li><li><p>Setting up TVs, phones, computers, tablets, Wi-Fi and mesh networks, parental controls, and smart home devices</p></li><li><p>Teaching clients how to use new technology</p></li><li><p>Identifying and recommending improvements to optimise clients’ systems</p></li></ul><hr><h2><strong>What we're looking for</strong></h2><ul><li><p>Strong general knowledge across hardware, software, networking, and security</p></li><li><p>Intermediate-level technical skills in IT support (1–3 years’ experience preferred)</p></li><li><p>Business systems IT support will be highly desirable</p></li><li><p>Excellent communication and customer service skills, with the ability to explain technical concepts in simple, non-technical language</p></li><li><p>Ability to diagnose and resolve issues efficiently and independently</p></li><li><p>Previous experience in residential or small business IT support is an advantage</p></li><li><p>Relevant certifications or qualifications are a bonus, but not required</p></li><li><p>Own car and a valid Australian driver’s licence</p></li><li><p>An ABN (Australian Business Number)</p></li></ul><hr><h2><strong>What we offer</strong></h2><ul><li><p>Competitive hourly rate</p></li><li><p>Flexible working arrangements</p></li><li><p>A relaxed, supportive work environment</p></li><li><p>Opportunity to build experience across a wide range of IT systems and client scenarios</p></li></ul><hr><h2><strong>About us</strong></h2><p>GC Tech Services is a trusted provider of residential and small business IT support, servicing hundreds of clients across the Gold Coast. We pride ourselves on delivering high-quality, honest, and reliable service, and we work closely with local retailers to support their customers.</p><hr><h2><strong>Apply now</strong></h2><p>If you're a reliable, friendly IT professional who enjoys helping people, we’d love to hear from you.</p>",
+      "keywords": [
+        "house",
+        "it",
+        "support"
       ]
     }
   ]
