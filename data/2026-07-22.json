@@ -1,466 +1,503 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-22",
   "region": "Gold Coast",
-  "scraped_at": "2026-07-23T06:56:15.127545+10:00",
-  "total_jobs": 58,
+  "scraped_at": "2026-07-22T06:59:03.303426+10:00",
+  "total_jobs": 62,
   "keywords": [
     {
       "term": "business",
-      "count": 10,
-      "share": 0.1724
+      "count": 11,
+      "share": 0.1774
     },
     {
       "term": "analyst",
-      "count": 10,
-      "share": 0.1724
+      "count": 11,
+      "share": 0.1774
+    },
+    {
+      "term": "it",
+      "count": 11,
+      "share": 0.1774
     },
     {
       "term": "manager",
-      "count": 10,
-      "share": 0.1724
+      "count": 9,
+      "share": 0.1452
     },
     {
       "term": "engineer",
       "count": 9,
-      "share": 0.1552
-    },
-    {
-      "term": "it",
-      "count": 8,
-      "share": 0.1379
+      "share": 0.1452
     },
     {
       "term": "support",
-      "count": 6,
-      "share": 0.1034
+      "count": 7,
+      "share": 0.1129
+    },
+    {
+      "term": "systems",
+      "count": 5,
+      "share": 0.0806
     },
     {
       "term": "developer",
       "count": 5,
-      "share": 0.0862
-    },
-    {
-      "term": "systems",
-      "count": 4,
-      "share": 0.069
+      "share": 0.0806
     },
     {
       "term": "technical",
-      "count": 4,
-      "share": 0.069
+      "count": 5,
+      "share": 0.0806
     },
     {
       "term": "software",
+      "count": 5,
+      "share": 0.0806
+    },
+    {
+      "term": "administrator",
       "count": 4,
-      "share": 0.069
+      "share": 0.0645
     },
     {
       "term": "automation",
       "count": 4,
-      "share": 0.069
+      "share": 0.0645
     },
     {
       "term": "specialist",
       "count": 4,
-      "share": 0.069
+      "share": 0.0645
     },
     {
       "term": "officer",
       "count": 4,
-      "share": 0.069
+      "share": 0.0645
+    },
+    {
+      "term": "development",
+      "count": 4,
+      "share": 0.0645
     },
     {
       "term": "ai",
       "count": 3,
-      "share": 0.0517
+      "share": 0.0484
+    },
+    {
+      "term": "project",
+      "count": 3,
+      "share": 0.0484
     },
     {
       "term": "infrastructure",
       "count": 3,
-      "share": 0.0517
-    },
-    {
-      "term": "administrator",
-      "count": 3,
-      "share": 0.0517
+      "share": 0.0484
     },
     {
       "term": "telecommunications",
       "count": 3,
-      "share": 0.0517
+      "share": 0.0484
     },
     {
       "term": "ict",
       "count": 3,
-      "share": 0.0517
-    },
-    {
-      "term": "development",
-      "count": 3,
-      "share": 0.0517
+      "share": 0.0484
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0323
     },
     {
       "term": "architect",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0323
     },
     {
       "term": "broadbeach",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0323
     },
     {
-      "term": "project",
+      "term": "month",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0323
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0323
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0323
     },
     {
       "term": "service",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0323
     },
     {
       "term": "desk",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0323
     },
     {
       "term": "assistant",
       "count": 2,
-      "share": 0.0345
-    },
-    {
-      "term": "technology",
-      "count": 2,
-      "share": 0.0345
+      "share": 0.0323
     },
     {
       "term": "field",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0323
     },
     {
       "term": "test",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0323
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0323
     },
     {
       "term": "designers",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "ecosystem",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "greenfield",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "practice",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "solutions",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
+    },
+    {
+      "term": "wfh",
+      "count": 1,
+      "share": 0.0161
     },
     {
       "term": "hr",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "transformation",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "process",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "improvement",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "insights",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
+    },
+    {
+      "term": "hubspot",
+      "count": 1,
+      "share": 0.0161
+    },
+    {
+      "term": "expert",
+      "count": 1,
+      "share": 0.0161
+    },
+    {
+      "term": "trainer",
+      "count": 1,
+      "share": 0.0161
     },
     {
       "term": "dotnet",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "founding",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "node.js",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "angular",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "aws",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "staff",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
+    },
+    {
+      "term": "medical",
+      "count": 1,
+      "share": 0.0161
+    },
+    {
+      "term": "industry",
+      "count": 1,
+      "share": 0.0161
     },
     {
       "term": "technician",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "operations",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "back",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "office",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "help",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "chief",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
+    },
+    {
+      "term": "technology",
+      "count": 1,
+      "share": 0.0161
+    },
+    {
+      "term": "l2",
+      "count": 1,
+      "share": 0.0161
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "integration",
-      "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
+    },
+    {
+      "term": "integration",
+      "count": 1,
+      "share": 0.0161
     },
     {
       "term": "sr",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "encapsulation",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "operator",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
-      "term": "product",
+      "term": "learning",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
+    },
+    {
+      "term": "cyber",
+      "count": 1,
+      "share": 0.0161
+    },
+    {
+      "term": "security",
+      "count": 1,
+      "share": 0.0161
+    },
+    {
+      "term": "course",
+      "count": 1,
+      "share": 0.0161
+    },
+    {
+      "term": "coach",
+      "count": 1,
+      "share": 0.0161
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "success",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "apac",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "inspection",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "maintenance",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "north",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "rod",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "rope",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "cable",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "hauler",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "splicers",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "plant",
-      "count": 1,
-      "share": 0.0172
+      "share": 0.0161
     }
   ],
   "jobs": [
     {
-      "job_id": "93489588",
-      "job_title": "Product Manager",
-      "business_name": "G8 Education Limited",
+      "job_id": "93458777",
+      "job_title": "Technical Administrator L2 (QLD)",
+      "business_name": "Nexigen Digital",
       "work_type": "Full time",
-      "job_type": "Product Management & Development",
+      "job_type": "Networks & Systems Administration",
       "pay_range": "",
-      "area": "Varsity Lakes, Gold Coast QLD",
+      "area": "Southport, Gold Coast QLD",
       "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93489588",
-      "advertiser_id": "22363191",
-      "posted_date": "2026-07-22T06:25:15Z",
-      "job_description": "<p>Nurturing the greatness in every child - and in you.</p>\n<p>&nbsp;</p>\n<p><strong>Join one of Australia’s Largest Leading Early Education Providers!&nbsp;&nbsp;</strong></p>\n<p>At G8 Education, we’re on a mission to shape the future! With 350+ early education and care centres under 21 brands, our 7,000+ dedicated team members nurture over 40,000 children every day.&nbsp;&nbsp;</p>\n<p>As an ASX listed growth company, we’re committed to empowering, rewarding, and supporting every team member – from our centre educators to our leadership and support team.&nbsp;&nbsp;</p>\n<p><strong>The Opportunity</strong>&nbsp;</p>\n<p>We're looking for an experienced Product Manager to join our Digital Solutions team.</p>\n<p>Reporting to the Head of Enterprise Architecture, you will own the strategy, roadmap and ongoing performance of G8's Finance Technology portfolio, ensuring our finance systems continue to support the evolving needs of the business.</p>\n<p>Working closely with Finance, and external vendors, you'll be responsible for the operational performance of our finance technology services while identifying opportunities to enhance capability, improve user experience and deliver measurable business value.</p>\n<p>This is a highly collaborative role that requires someone who can confidently engage senior stakeholders, lead technology change initiatives and balance strategic planning with operational excellence.</p>\n<p><strong>Key Responsibilities </strong></p>\n<ul>\n<li>Own the product strategy and roadmap for G8's Finance Technology portfolio.</li>\n<li>Ensure the effective operation and continuous improvement of finance technology services across the organisation.</li>\n<li>Partner with Finance and business leaders to understand operational needs and translate them into technology solutions.</li>\n<li>Lead product discovery, prioritisation and delivery of enhancements that drive business value.</li>\n<li>Monitor market trends and emerging technologies, identifying opportunities to strengthen the product strategy.</li>\n<li>Build and maintain strong relationships with internal stakeholders and external technology vendors.</li>\n<li>Lead change initiatives across the Finance Operations portfolio, ensuring successful adoption of new capabilities.</li>\n<li>Manage product performance, budgets, priorities and success metrics to maximise business outcomes.</li>\n</ul>\n<p><strong>About You</strong>&nbsp;</p>\n<p>You will be a commercially minded Product Manager with strong finance systems experience and a passion for delivering technology solutions that improve business performance.</p>\n<ul>\n<li>Strong understanding of finance and accounting processes.</li>\n<li>Demonstrated experience managing Finance solutions including Back Office General Ledger (GL) systems.</li>\n<li>Proven ability to influence and manage relationships with senior business stakeholders.</li>\n<li>Experience managing third-party technology vendors and strategic partnerships.</li>\n<li>Strong experience leading business and technology change initiatives.</li>\n<li>Experience developing product strategies, roadmaps and continuous improvement initiatives.</li>\n<li>Excellent analytical, problem-solving and communication skills.</li>\n<li>Experience with Coupa and Microsoft Dynamics 365 (D365) will be highly regarded.</li>\n<li>A tertiary qualification in Business, Information Technology, Finance or a related discipline.</li>\n<li><em>Hold a valid working with children check or willingness to obtain upon commencement. </em></li>\n</ul>\n<p><strong>Benefits at G8</strong></p>\n<ul>\n<li>Competitive salary package</li>\n<li>Eligibility to participate in our Short-Term Incentive program which is an annualised bonus each year</li>\n<li>Hybrid working conditions with 3 days in office and 2 from home.</li>\n<li>Monthly RDO</li>\n<li>Located in Varsity Lakes.</li>\n<li>Career development opportunities as part of a large ASX-listed company&nbsp;</li>\n<li>Access a 50% discount on early education and childcare fees at any G8 Education Centre.&nbsp;</li>\n</ul>\n<p><em>Find out more here: </em>G8 Education</p>\n<p><strong>United by purpose. Guided by values.</strong></p>\n<p>At G8 Education, we’re proud to celebrate, support, and inspire our 7,000+ team members as they make a lasting difference in the lives of children and their own.</p>\n<p>Driven by our purpose “to nurture the greatness in every child to grow, thrive and learn” and guided by our values, we’re shaping bright futures for children, families, communities, and each other.</p>\n<p><strong>Our values:</strong> Safety First &amp; Always, Thriving Together, Owning the Outcome, Being the Difference, Building Bright Futures.</p>\n<p><strong>Our Recruitment Process</strong></p>\n<p><em><strong>Recruitment Process<br></strong></em></p>\n<p>Our recruitment process includes police checks and verification of qualifications and right-to-work status.</p>\n<p>Please note that the advertised closing date is indicative only, and applications may close earlier. We encourage you to apply as soon as possible.</p>\n<p><em><br>G8 Education is a committed advocate for child protection, safety and wellbeing. We have a zero tolerance for any form of child abuse or harm. The safety and wellbeing of children will always be our priority, and all team members are expected to embrace this shared commitment.</em></p>",
+      "url": "https://www.seek.com.au/job/93458777",
+      "advertiser_id": "25685289",
+      "posted_date": "2026-07-21T04:48:53Z",
+      "job_description": "<p><strong>About Nexigen Digital</strong></p><p>We are Australia’s largest privately-owned group of online service providers, which includes brands such as VentraIP, Synergy Wholesale and Intaserve.</p><p>Every day our all-Australian team delivers exceptional service and outstanding support to our 200,000+ customers who choose us for their domain names, website hosting and digital marketing.</p><p><br></p><p>Over the past fifteen years, we have been constant game-changers, industry innovators, award winners, and community leaders - and now is your chance to join our team.</p><p><br></p><br><p><strong>The Position</strong></p><p>As an Infrastructure administrator, we are responsible for a large number of Servers in the web hosting spaice. Your main responsibility will be managing, monitoring and improving our fleet of servers, handling escalations and increasing efficiency &amp; security.</p><p><br></p><p>Requirements and Core functions:</p><p>Linux System Administration (CenOS/Alma/RHEL)</p><p><br></p><p>The right person (is it you?)</p><p>To be the best in this role we are looking for people with the following attributes:</p><ul><li>A passion for technology (cyber security, gaming, PC building, etc.)</li><li>The ability to absorb information and learn quickly</li><li>Efficient problem-solving skills</li></ul><p><br>Attention to detailAny previous experience in the following areas would be highly regarded:</p><ul><li>cPanel\\WHM</li><li>DNS</li><li>Networking (Extreme/Juniper)</li><li>Python</li><li>Bash</li></ul><p><br>Any previous experience in the following areas would be beneficial but it's not essential:</p><ul><li>Docker</li><li>KVM</li><li>QEMU</li><li>Litespeed/Apache</li><li>Ceph</li><li>MySQL/MariaDB</li><li>Galera</li></ul><p><br><br></p><p><strong>The Benefits of Working With the Nexigen Digital Team</strong></p><p>Aside from being awarded “Employer of Choice” in the Australian Business Awards, we are often referred to as the Google of south-east Melbourne thanks to our unique facilities and team culture, and a top-down mandate to take care of the people who take care of our customers.</p><p>Some of the office perks include:</p><ul><li>A weekly selection of delicious meals prepared in our on-site kitchen for breakfast and lunch.</li><li>A fully-stocked snack bar featuring an assortment of chips, chocolates, nuts, protein bars and fresh fruit.</li><li>A drink fridge loaded with an assortment of soft drinks, juices and water.</li><li>A fully equipped private gym with weekly on-site personal training sessions.</li><li>A team wellness centre with a sound-proof gaming stadium featuring an 85” 4K TV, racing car simulator, pinball machine, arcade machine, and air hockey table.</li><li>An on-site salon where our resident barber and stylist provide free haircuts on a regular basis.</li></ul><p>We actively encourage training and upskilling for personal development and will fund courses that have a beneficial impact on the business.</p><p>Please note that due to strict security requirements the successful applicant will be required to complete a National Police Check as a condition of employment.</p><p><br></p><br><br><p>PI<a href=\"tel:285942700\">285942700</a></p>",
       "keywords": [
-        "product",
-        "manager"
-      ]
-    },
-    {
-      "job_id": "93476982",
-      "job_title": "Plant Technology Manager",
-      "business_name": "VENTORA",
-      "work_type": "Full time",
-      "job_type": "Other",
-      "pay_range": "",
-      "area": "Stapylton, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93476982",
-      "advertiser_id": "37243726",
-      "posted_date": "2026-07-22T00:24:20Z",
-      "job_description": "<p><strong>About our Organisation</strong>&nbsp;</p><p>VENTORA&nbsp;is the name behind iconic Australian brands including A&amp;L Windows &amp; Doors, Breezway louvres, Corinthian Doors, Stegbar Windows &amp; Doors and Trend Windows &amp; Doors.</p><p>As an established manufacturer with over 4,500 employees, our vision is to inspire our customers through leading brands, great service, innovative new products and solutions leveraging the full&nbsp;VENTORA&nbsp;portfolio, while significantly enhancing our ease of doing business built on operational excellence.</p><p><strong>About the Opportunity</strong></p><p>Due to internal promotion, we are now seeking our next Plant Technology Manager to oversee and manage the IT operational technology environment. In this pivotal role you will ensure that all systems are up to date, fit for purpose, reliable, secure and efficient. As the bridge between operational technology (OT) and IT, you will ensure seamless integration, collaboration and alignment of technological goals with business objectives.</p><p>Responsibilities include:</p><ul><li>Oversee the implementation, maintenance and optimisation of IT operational technology systems across all business units, including multi-function devices and barcode scanners</li><li>Ensure seamless integration between enterprise IT systems (ERP, CRM) and OT systems (SCADA, MES)</li><li>Support the convergence of IT and OT environments to enable data-driven decision making and predictive maintenance strategies</li><li>Work closely with cross-functional teams to ensure alignment with operational and business objectives</li><li>Develop and enforce technology standards, policies and procedures</li><li>Participate in operational technology projects from conception to completion, ensuring timely delivery in adherence to defined standards and policies</li><li>Implement robust cyber security measures to protect assets and data</li><li>Conduct regular testing, auditing and assessments</li></ul><p><strong>About You</strong></p><p><strong>&nbsp;</strong></p><p>While ideally you will bring similar experience from a manufacturing environment, what is vital is your natural ability to communicate and work effectively with multiple stakeholders and cross functional teams.</p><p>You will also have:</p><ul><li>Diploma or above in IT (ideal but not essential)</li><li>A good understanding of networking, cyber security and general IT infrastructure</li><li>Knowledge of manufacturing processes and related technology systems eg. SCADA, PLCs, MES (highly regarded)</li><li>Previous experience with remote access systems</li><li>Previous experience using InTune</li><li>The ability to work with and support multiple sites across multiple time zones</li></ul><p><strong>About the Benefits</strong></p><p><strong>&nbsp;</strong></p><ul><li>Competitive remuneration</li><li>Flexible work arrangements, with 2 days per week WFH</li><li>Generous discounts on our extensive range of products</li><li>Ability to schedule leave every year over the Christmas period.</li><li>Additional paid day’s leave on your birthday</li><li>Flare benefits program - salary packaging, discounts and premium perks</li><li>Employee Assistance Program access</li><li>Career progression opportunities as part of a 4,500-employee organisation</li></ul><p><strong>Your Next Steps</strong></p><p>Apply now to become VENTORA’s new Plant Technology Manager and help drive operational excellence!</p><p><em>Eligible applications must have legal rights to work full time in Australia.<br><br>Agencies will only be engaged if required. Please do not contact us or send applicants to us unless requested by the Talent Acquisition Team.</em></p><p>Curious about VENTORA Group? Check out our website at&nbsp;https://www.ventora.com.au&nbsp;for comprehensive insights into our operations. Prefer visuals? Watch our short overview video here:&nbsp;https://www.youtube.com/@VENTORA_GROUP</p>",
-      "keywords": [
-        "plant",
-        "technology",
-        "manager"
+        "technical",
+        "administrator",
+        "l2"
       ]
     },
     {
@@ -987,7 +1024,7 @@
       "url": "https://www.seek.com.au/job/93244238",
       "advertiser_id": "",
       "posted_date": "2026-07-10T04:05:23Z",
-      "job_description": "<p><strong>About Us:</strong><br>We’re not your typical workplace, and we’re not looking for a typical IT Support Officer. We are enthusiastic, driven and growing....fast!</p><p>We are the ElevenX Group, a management company that supports multiple different brands of varying industries. Our group provides high level management services through a centralised leadership team, creating unity while celebrating the uniqueness of each brand.&nbsp;</p><p><strong>The Opportunity<br></strong>We have an incredible opportunity for an experienced&nbsp;IT Support Officer to join the team in our offices based in Arundel.<br><br>In this role you'll work to monitor, troubleshoot and maintain computer systems and networks, ensuring seamless operations for our team members. This includes setting up devices, configuring computer systems, identifying hardware &amp; software issues, and resolving technical challenges for our team.<br><br>You will use your natural problem-solving skills to overcome challenges identify solutions and utilise your strong interpersonal skills to adapt your communication style to suit your audience.&nbsp;<br><br><strong>What You’ll Be Doing:</strong></p><ul><li><p>Installation and configuration of hardware and applications.</p></li><li><p>Monitoring and maintaining computer systems and networks.</p></li><li><p>Offer support, face to face, over the phone or online to identify and resolve issues.</p></li><li><p>Troubleshoot system/network problems and diagnose and solve hardware/software faults.</p></li><li><p>Support the roll-out of new applications, security configurations and updates.</p></li><li><p>Manage service desk inbox, actioning tickets according to urgency.</p></li><li><p>Work quickly to respond to enquiries and IT issues within determined timelines.</p></li><li><p>Manage other ad hoc IT &amp; Servicedesk tasks as required.</p></li></ul><p><strong>What You’ll Bring:</strong></p><ul><li><p>Relevant Tertiary qualification in IT or minimum 5 years experience in a similar role.</p></li><li><p>Strong communication and interpersonal skills.</p></li><li><p>Highly organised with exceptional time management skills.</p></li><li><p>Proven experience in working autonomously</p></li><li><p>Strong computer literacy including proficiency in Google Workspace</p></li></ul><p><strong>Why You’ll Love It Here:</strong></p><ul><li><p>A values-led culture where high performance and heart go hand in hand</p></li><li><p>A supportive, high-energy People and Culture team</p></li><li><p>Genuine career progression in a growing group</p></li><li><p>The chance to make a real impact, and be trusted to do so</p></li><li><p>Competitive salary</p></li></ul><p><strong>Sound like you?</strong><br>We’d love to hear from you BUT please don't submit a generic cover letter. We want people who go above and beyond and consider themselves high performers. Submit your resume and a short cover letter telling us why you’re excited about this role.</p>",
+      "job_description": "<p><strong>About Us:</strong><br>We’re not your typical workplace, and we’re not looking for a typical IT Support Officer. We are enthusiastic, driven and growing....fast!</p><p>We are the ElevenX Group, a management company that supports multiple different brands of varying industries. Our group provides high level management services through a centralised leadership team, creating unity while celebrating the uniqueness of each brand.&nbsp;</p><p><strong>The Opportunity<br></strong>We have an incredible opportunity for an experienced&nbsp;IT Support to join the team in our offices based in Arundel.<br><br>In this role you'll work to monitor, troubleshoot and maintain computer systems and networks, ensuring seamless operations for our team members. This includes setting up devices, configuring computer systems, identifying hardware &amp; software issues, and resolving technical challenges for our team.<br><br>You will use your natural problem-solving skills to overcome challenges identify solutions and utilise your strong interpersonal skills to adapt your communication style to suit your audience.&nbsp;<br><br><strong>What You’ll Be Doing:</strong></p><ul><li><p>Installation and configuration of hardware and applications.</p></li><li><p>Monitoring and maintaining computer systems and networks.</p></li><li><p>Offer support, face to face, over the phone or online to identify and resolve issues.</p></li><li><p>Troubleshoot system/network problems and diagnose and solve hardware/software faults.</p></li><li><p>Support the roll-out of new applications, security configurations and updates.</p></li><li><p>Manage service desk inbox, actioning tickets according to urgency.</p></li><li><p>Work quickly to respond to enquiries and IT issues within determined timelines.</p></li><li><p>Manage other ad hoc IT &amp; Servicedesk tasks as required.</p></li></ul><p><strong>What You’ll Bring:</strong></p><ul><li><p>Relevant Tertiary qualification in IT or minimum 5 years experience in a similar role.</p></li><li><p>Strong communication and interpersonal skills.</p></li><li><p>Highly organised with exceptional time management skills.</p></li><li><p>Proven experience in working autonomously</p></li><li><p>Strong computer literacy including proficiency in Google Workspace</p></li></ul><p><strong>Why You’ll Love It Here:</strong></p><ul><li><p>A values-led culture where high performance and heart go hand in hand</p></li><li><p>A supportive, high-energy People and Culture team</p></li><li><p>Genuine career progression in a growing group</p></li><li><p>The chance to make a real impact, and be trusted to do so</p></li><li><p>Competitive salary</p></li></ul><p><strong>Sound like you?</strong><br>We’d love to hear from you BUT please don't submit a generic cover letter. We want people who go above and beyond and consider themselves high performers. Submit your resume and a short cover letter telling us why you’re excited about this role.</p>",
       "keywords": [
         "it",
         "support",
@@ -1067,6 +1104,49 @@
         "network",
         "support",
         "analyst"
+      ]
+    },
+    {
+      "job_id": "93194146",
+      "job_title": "IT Project Manager | Learning Systems | 6 Month Contract",
+      "business_name": "Limelight People",
+      "work_type": "Contract/Temp",
+      "job_type": "Programme & Project Management",
+      "pay_range": "",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93194146",
+      "advertiser_id": "35360276",
+      "posted_date": "2026-07-08T05:01:13Z",
+      "job_description": "<strong>IT Project Manager:</strong>&nbsp;Limelight People have partnered with a leading organisation within the education sector to recruit an experienced IT Project Manager for an initial <strong>6 month contract</strong>, with a strong likelihood of extension. This is an exciting opportunity to join a high-performing technology division of over 60 IT professionals, delivering strategic Learning Systems initiatives that have a direct impact on the education experience.<br><br> <strong>Why you'll love this opportunity</strong> <ul> <li><strong>Excellent daily rates</strong> with an initial <strong>6-month contract</strong> and strong extension potential.</li> <li><strong>Hybrid working environment</strong> offering the flexibility to work from both home and the office.</li> <li><strong>Lead meaningful technology projects</strong> that support enterprise Learning Systems within a collaborative and forward-thinking IT team.</li> </ul> <strong>IT Project Manager:</strong>&nbsp;You will lead the successful delivery of multiple technology projects across the organisation's Learning Systems portfolio. Working closely with business stakeholders, vendors and technical delivery teams, you will drive project outcomes from initiation through to delivery, ensuring projects are delivered on time, within budget and aligned to business objectives.<br><br> <strong>IT Project Manager:</strong>&nbsp;Key responsibilities include:<br> <ul> <li>Leading end-to-end delivery of technology and business transformation projects.</li> <li>Developing project plans, schedules, budgets and risk management strategies.</li> <li>Managing project governance, reporting and executive stakeholder communication.</li> <li>Coordinating cross-functional teams including Business Analysts, Developers, Architects and Vendors.</li> <li>Driving Agile and hybrid project delivery methodologies.</li> <li>Managing project scope, dependencies, issues and change requests.</li> <li>Ensuring successful implementation of enterprise Learning Systems and related technology initiatives.</li> </ul> <strong>IT Project Manager:</strong>&nbsp;To be successful, you'll ideally have experience with:<br> <ul> <li>End-to-end IT Project Management within complex enterprise environments.</li> <li>Delivery of enterprise applications, business systems or digital transformation projects.</li> <li>Strong stakeholder engagement across executive, business and technical teams.</li> <li>Agile, Waterfall or Hybrid project delivery methodologies.</li> <li>Budget, resource, risk and vendor management.</li> <li>Project governance and executive reporting.</li> <li>Experience delivering Learning Systems, Education Technology or curriculum-related projects will be highly regarded.</li> </ul> <strong>IT Project Manager:</strong>&nbsp;This is an outstanding opportunity to join a leading education organisation undertaking significant investment across its technology landscape. If you're an experienced Project Manager who enjoys delivering complex enterprise projects while working in a collaborative, purpose-driven environment, we'd love to hear from you.<br> If your experience aligns with the above, please apply today.",
+      "keywords": [
+        "it",
+        "project",
+        "manager",
+        "learning",
+        "systems",
+        "month"
+      ]
+    },
+    {
+      "job_id": "93193773",
+      "job_title": "IT Business Analyst - 6 Month Contract - Hybrid WFH",
+      "business_name": "Limelight People",
+      "work_type": "Contract/Temp",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93193773",
+      "advertiser_id": "35360276",
+      "posted_date": "2026-07-08T04:49:08Z",
+      "job_description": "<strong>IT Business Analyst:</strong>&nbsp;An exciting opportunity exists for an experienced IT Business Analyst to join one of Australia's leading education organisations. You'll become part of a high-performing technology division of more than 60 IT professionals, working on the evolution of enterprise Learning Systems that directly support the delivery of education across the organisation.<br><br> <strong>IT Business Analyst:</strong>&nbsp;Working across a diverse portfolio of learning technology initiatives, you will partner with business stakeholders, product owners and technical delivery teams to gather requirements, analyse business processes and deliver innovative technology solutions. You'll play a key role in improving systems that support curriculum delivery, learning experiences and educational outcomes.<br><br> <strong>IT Business Analyst:</strong>&nbsp;Your responsibilities will include:<br> <ul> <li>Eliciting, analysing and documenting business and functional requirements.</li> <li>Running workshops and engaging stakeholders across business and technology teams.</li> <li>Mapping current and future state business processes and identifying opportunities for improvement.</li> <li>Writing user stories, acceptance criteria and functional specifications.</li> <li>Supporting Agile delivery teams through backlog refinement, sprint planning and UAT.</li> <li>Collaborating with developers, solution architects and project managers to deliver high-quality outcomes.</li> <li>Working across multiple enterprise Learning Systems and system integration initiatives.</li> <li>Providing recommendations that improve business processes, user experience and operational efficiency.</li> </ul> <strong>IT Business Analyst:</strong>&nbsp;To be successful, you'll ideally have experience with:<br> <ul> <li>Business Analysis within complex enterprise environments.</li> <li>Requirements gathering, process mapping and business process improvement.</li> <li>Agile delivery methodologies (Scrum/Kanban).</li> <li>User Stories, Acceptance Criteria and UAT.</li> <li>Stakeholder management across technical and non-technical teams.</li> <li>Enterprise applications and systems integration.</li> <li>Jira, Confluence or similar Agile delivery tools.</li> <li>Experience working within the Education sector, Learning Systems or curriculum process related projects will be highly regarded.</li> </ul> <strong>IT Business Analyst:</strong>&nbsp;This is an outstanding opportunity to join a collaborative and forward-thinking technology team where you'll work on meaningful projects that have a direct impact on education. <br><br>You'll enjoy a supportive culture, Hybrid work environment, modern Agile practices, excellent career development opportunities and the chance to contribute to the ongoing transformation of enterprise learning platforms.<br><br>If this role sounds like a good fit, please apply within.",
+      "keywords": [
+        "it",
+        "business",
+        "analyst",
+        "month",
+        "wfh"
       ]
     },
     {
@@ -1530,6 +1610,67 @@
         "it",
         "support",
         "engineer"
+      ]
+    },
+    {
+      "job_id": "92867815",
+      "job_title": "HubSpot Expert and Trainer",
+      "business_name": "Banks Benchtops",
+      "work_type": "Contract/Temp",
+      "job_type": "Consultants",
+      "pay_range": "",
+      "area": "Arundel, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92867815",
+      "advertiser_id": "400196524",
+      "posted_date": "2026-06-22T09:22:49Z",
+      "job_description": "<p><strong>About Us</strong></p><p>Banks Benchtops and Royal Victoria Collection are Queensland's leading stone benchtop businesses, operating across five sites with a team of 90+ staff. We're in the middle of an exciting HubSpot rollout and need an experienced specialist to help us get across the line fast.</p><p><strong>The Role</strong></p><p>We're looking for a hands-on HubSpot expert to join us on a contract basis. You'll work closely with our internal IT team to finalise our HubSpot implementation across Sales Hub and Marketing Hub, and deliver practical, no-fluff training to our sales and admin staff to ensure confident adoption before key deadlines.</p><p><strong>What You'll Be Doing</strong></p><ul><li><p>Delivering targeted, role-based training sessions for sales staff, managers, executives, and admin users</p></li><li><p>Reviewing and completing our existing HubSpot portal setup (pipelines, workflows, quotes, properties, automations)</p></li><li><p>Identifying gaps and making configuration improvements where needed</p></li></ul><ul><li><p>Creating simple reference materials (SOPs, quick-reference guides) for ongoing team use</p></li><li><p>Collaborating with IT to ensure integrations and configurations are working correctly capturing the correct information</p></li></ul><p><strong>What We're Looking For</strong></p><ul><li><p>Proven hands-on experience with HubSpot — Sales Hub and/or Marketing Hub essential</p></li><li><p>Previous experience training end-users in a business environment</p></li><li><p>Ability to work to tight deadlines and hit the ground running</p></li><li><p>Strong communication skills — able to explain technical concepts to non-technical staff</p></li><li><p>HubSpot certification(s) highly regarded</p></li><li><p>Experience with CRM migrations or implementations in SME environments a plus</p></li></ul><p><strong>Why Join Us</strong></p><ul><li><p>Flexible contract scope — we'll structure the engagement to suit the right person</p></li><li><p>Collaborative team environment with direct access to decision-makers</p></li><li><p>Real impact — your work will shape how 90+ staff use their CRM every day</p></li></ul><p><br></p><p><br></p>",
+      "keywords": [
+        "hubspot",
+        "expert",
+        "trainer"
+      ]
+    },
+    {
+      "job_id": "92855129",
+      "job_title": "IT Support - Medical Industry - Level 2 F/T and Casual",
+      "business_name": "Focus IT Healthcare Solutions",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Upper Coomera, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92855129",
+      "advertiser_id": "55884053",
+      "posted_date": "2026-06-22T03:24:28Z",
+      "job_description": "<h2>Level 2 IT Support Engineer – Healthcare IT</h2><p><strong>Upper Coomera, Gold Coast, QLD</strong><br><strong>Casual\\Full Time | Healthcare Managed Services Provider (MSP)</strong></p><p>At Focus I.T. Healthcare Solutions, we specialise in providing IT support and technology solutions to medical practices and healthcare providers across Queensland.</p><p>Our philosophy is simple: <strong>quick resolution, exceptional service, and long-term client relationships.</strong></p><p>We pride ourselves on doing the extra 10% that others don't. It's this commitment to excellence that has helped us become a trusted technology partner for healthcare providers and a workplace where talented IT professionals can build rewarding careers.</p><p>We're looking for a motivated and customer-focused <strong>Level 2 IT Support Engineer</strong> to join our growing team.</p><p>If you enjoy solving problems, working with a wide variety of technologies, and want to learn from an experienced team of healthcare IT specialists, we'd love to hear from you.</p><h2>About the Role</h2><p>This role combines remote support, onsite support, project work, and customer relationship management.</p><p>You will be responsible for supporting medical practices and healthcare providers with a wide range of technologies while delivering exceptional customer service.</p><p>This is not a role for someone seeking a strictly 9-to-5 environment. We take ownership of our responsibilities and work together to ensure our clients receive the support they need when they need it.</p><p>In return, you'll gain exposure to complex IT environments, healthcare technologies, cloud platforms, networking, cybersecurity, and infrastructure projects.</p><h2>Key Responsibilities</h2><ul><li><p>Provide Level 1 and Level 2 technical support to clients.</p></li><li><p>Troubleshoot desktop, server, networking, and cloud-based issues.</p></li><li><p>Manage support tickets through to resolution.</p></li><li><p>Support Microsoft 365 environments.</p></li><li><p>Configure and deploy desktops, laptops, mobile devices, and printers.</p></li><li><p>Join workstations to domains and configure user environments.</p></li><li><p>Monitor and respond to RMM alerts and notifications.</p></li><li><p>Assist with backup monitoring and verification.</p></li><li><p>Support VPN and remote access solutions.</p></li><li><p>Escalate complex issues where required.</p></li><li><p>Create and maintain technical documentation.</p></li><li><p>Deliver onsite and remote support to clients.</p></li><li><p>Contribute to continuous improvement initiatives and internal projects.</p></li></ul><h2>Essential Skills &amp; Experience</h2><ul><li><p>Previous experience working in an MSP or IT support environment.</p></li><li><p>Strong Windows 11 troubleshooting skills.</p></li><li><p>Experience with Microsoft 365 administration.</p></li><li><p>Understanding of Active Directory, DNS, DHCP, and Group Policy.</p></li><li><p>Excellent written and verbal communication skills.</p></li><li><p>Proven ability to manage a ticket queue effectively.</p></li><li><p>Strong troubleshooting and problem-solving abilities.</p></li><li><p>Ability to prioritise and work under pressure.</p></li><li><p>Current Australian Driver's Licence.</p></li></ul><h2>Desirable Skills</h2><p>Experience with any of the following will be highly regarded:</p><ul><li><p>Best Practice or Medical Director software.</p></li><li><p>Windows Server 2022–2025</p></li><li><p>Hyper-V and VMware vSphere.</p></li><li><p>Microsoft Exchange and SharePoint.</p></li><li><p>Mobile Device Management (MDM).</p></li><li><p>Apple macOS support.</p></li><li><p>Datto, Kaseya, and RMM platforms.</p></li><li><p>Cybersecurity solutions and endpoint protection.</p></li><li><p>Microsoft Certifications.</p></li><li><p>Certificate III or IV in Information Technology.</p></li></ul><h2>What We Offer</h2><ul><li><p>Competitive salary package.</p></li><li><p>Ongoing training and professional development.</p></li><li><p>Exposure to modern technologies and healthcare IT environments.</p></li><li><p>Career progression opportunities.</p></li><li><p>Supportive team culture.</p></li><li><p>Company uniform provided.</p></li><li><p>Opportunity to work with one of Queensland's leading healthcare-focused MSPs.</p></li></ul><h2>Mandatory Requirements</h2><p>Due to the healthcare environments we support:</p><ul><li><p>Successful applicants must have the right to work in Australia.</p></li><li><p>National Police Check may be required.</p></li></ul><h2>How to Apply</h2><p>To be considered, applicants must submit:</p><ol><li><p>A current resume.</p></li><li><p>A cover letter outlining:</p><ul><li><p>Why are you suitable for the role?</p></li><li><p>Your MSP experience (if applicable).</p></li><li><p>Why would you like to join Focus I.T. Healthcare Solutions?</p></li></ul></li></ol><p>Applications without a cover letter will not be considered.</p><p>If you're ready to build your IT career with a fast-growing healthcare technology company, we'd love to hear from you.</p>",
+      "keywords": [
+        "it",
+        "support",
+        "medical",
+        "industry"
+      ]
+    },
+    {
+      "job_id": "92849095",
+      "job_title": "Cyber Security and/or Software Development Course Coach",
+      "business_name": "Equinim College of Technology",
+      "work_type": "Part time",
+      "job_type": "Security",
+      "pay_range": "$45 per hour",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92849095",
+      "advertiser_id": "62661973",
+      "posted_date": "2026-06-22T00:37:57Z",
+      "job_description": "<p>Are you a passionate &amp; caring person looking to develop your training skills in a positive environment?</p><p>We are looking for enthusiastic and people-focused individuals that love to share their knowledge and skills with others. Candidates will have great communication skills with a diverse scope of people and willingness to learn and serve students towards a greater understanding.&nbsp;This role is remote and is suited for people all across Australia.</p><p><br></p><p><strong>Application Information:</strong></p><p>To apply for this role, you must:</p><ol><li><p>Answer the Video Submission Question here - <strong>https://vocalvideo.com/c/eqc-institute-trainer</strong></p></li><li><p>Provide a resume highlighting your experience, knowledge, and skills relevant to this role. (Submit this via Seek)</p></li></ol><p><br></p><p><br><strong>Job Role:</strong><br>Provide education and training to students via <strong>Online Course Coaching.</strong></p><p>Being a Course Coach involves:</p><ul><li><p>Tutoring and teaching adult learners. This is done by having consistent communication with students via Zoom calls, phone or written communication.</p></li><li><p>General support and connection with students about course questions and study requirements.</p></li><li><p>Basic scheduling and time management skills are required for a successful candidate.</p></li><li><p>Working with a passionate team to ensure student success.</p></li></ul><p><br></p><p>We are currently hiring course coaches with Cyber Security skills and experience or Full Stack Web Development skills. If you meet either one of these skills please apply below!<br><br></p><p><strong>Skills Needed Cyber:</strong></p><ul><li><p>Experience with Cyber Security Systems and Tools (Basic Cloudflare, AWS, Wireshark, Virtual Machines)</p></li><li><p>Strong understanding of Cyber Security foundations</p></li><li><p>Industry experience is preferred</p></li></ul><p><br></p><p><strong>Skills Needed Web Development:</strong></p><ul><li><p>Experience in Full Stack Web Development</p></li><li><p>Proficiency with at least 2 programming languages (HTML, CSS, JavaScript, Python)</p></li><li><p>Experience with Github and SQL or similar database programing</p></li><li><p>Experience with Blockchain and AI / ML is preferred</p></li></ul><p><br></p><p><strong>Universal Training Skills:</strong></p><ul><li><p>Strong English Communication Skills</p></li><li><p>Computer with appropriate microphone and camera settings to host a zoom call</p></li><li><p>Flexible availability to communicate with students</p></li><li><p>Valid TAE (training and assessment) qualification - if you do not have this, be willing to obtain the qualification.<br>&nbsp;</p></li></ul><p><strong>Salary</strong>:</p><p>This is a part-time role. The part-time rate for a Course Coach for this particular role is $45 per hour. Successful candidates will be doing 10 hours per week.</p><p>This job is dependent on student availability and self-autonomy for scheduling. Hours are averaged across the week, with hours being dependent on student availability.</p><p><br></p><p><strong>About Us</strong></p><p>We are a Vocational Education and Training Organisation who's team has been operating for over 10 years in this space. We make sure to always focus on delivering quality materials, practical training and always aim to find new ways that can raise the bar across different industries. What sets us apart is our commitment to and incredible student experience whilst studying.</p><p><br></p><p>We work together; listening and challenging to create a supportive work environment whereby everyone works together and is equal.</p><p><br></p><p>We are hiring ASAP so if you think this role suits you, we would love to get in touch with you.</p><p><br></p><p>Work with us, to work together, and as a team let's inspire the next round of industry leaders!</p>",
+      "keywords": [
+        "cyber",
+        "security",
+        "software",
+        "development",
+        "course",
+        "coach"
       ]
     }
   ]
