@@ -1,443 +1,443 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-26",
   "region": "Gold Coast",
-  "scraped_at": "2026-07-27T06:46:42.743177+10:00",
-  "total_jobs": 68,
+  "scraped_at": "2026-07-26T06:41:14.787964+10:00",
+  "total_jobs": 69,
   "keywords": [
     {
       "term": "analyst",
       "count": 10,
-      "share": 0.1471
+      "share": 0.1449
     },
     {
       "term": "manager",
       "count": 10,
-      "share": 0.1471
+      "share": 0.1449
+    },
+    {
+      "term": "it",
+      "count": 10,
+      "share": 0.1449
     },
     {
       "term": "business",
       "count": 9,
-      "share": 0.1324
+      "share": 0.1304
     },
     {
       "term": "engineer",
       "count": 9,
-      "share": 0.1324
-    },
-    {
-      "term": "it",
-      "count": 9,
-      "share": 0.1324
+      "share": 0.1304
     },
     {
       "term": "support",
-      "count": 8,
-      "share": 0.1176
+      "count": 9,
+      "share": 0.1304
     },
     {
       "term": "officer",
       "count": 7,
-      "share": 0.1029
+      "share": 0.1014
     },
     {
       "term": "developer",
       "count": 6,
-      "share": 0.0882
+      "share": 0.087
+    },
+    {
+      "term": "specialist",
+      "count": 5,
+      "share": 0.0725
+    },
+    {
+      "term": "technical",
+      "count": 5,
+      "share": 0.0725
     },
     {
       "term": "ict",
       "count": 5,
-      "share": 0.0735
+      "share": 0.0725
     },
     {
       "term": "technology",
       "count": 5,
-      "share": 0.0735
+      "share": 0.0725
     },
     {
       "term": "network",
       "count": 4,
-      "share": 0.0588
+      "share": 0.058
     },
     {
       "term": "systems",
       "count": 4,
-      "share": 0.0588
+      "share": 0.058
     },
     {
       "term": "administrator",
       "count": 4,
-      "share": 0.0588
-    },
-    {
-      "term": "specialist",
-      "count": 4,
-      "share": 0.0588
-    },
-    {
-      "term": "technical",
-      "count": 4,
-      "share": 0.0588
+      "share": 0.058
     },
     {
       "term": "automation",
       "count": 4,
-      "share": 0.0588
+      "share": 0.058
     },
     {
       "term": "ai",
       "count": 3,
-      "share": 0.0441
+      "share": 0.0435
     },
     {
       "term": "infrastructure",
       "count": 3,
-      "share": 0.0441
+      "share": 0.0435
     },
     {
       "term": "software",
       "count": 3,
-      "share": 0.0441
+      "share": 0.0435
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0441
+      "share": 0.0435
     },
     {
       "term": "telecommunications",
       "count": 3,
-      "share": 0.0441
+      "share": 0.0435
     },
     {
       "term": "operations",
       "count": 3,
-      "share": 0.0441
+      "share": 0.0435
     },
     {
       "term": "development",
       "count": 3,
-      "share": 0.0441
+      "share": 0.0435
     },
     {
       "term": "project",
       "count": 2,
-      "share": 0.0294
+      "share": 0.029
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0294
+      "share": 0.029
     },
     {
       "term": "platform",
       "count": 2,
-      "share": 0.0294
+      "share": 0.029
     },
     {
       "term": "service",
       "count": 2,
-      "share": 0.0294
+      "share": 0.029
     },
     {
       "term": "desk",
       "count": 2,
-      "share": 0.0294
+      "share": 0.029
     },
     {
       "term": "assistant",
       "count": 2,
-      "share": 0.0294
+      "share": 0.029
     },
     {
       "term": "director",
       "count": 2,
-      "share": 0.0294
+      "share": 0.029
     },
     {
       "term": "field",
       "count": 2,
-      "share": 0.0294
+      "share": 0.029
     },
     {
       "term": "test",
       "count": 2,
-      "share": 0.0294
+      "share": 0.029
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0294
+      "share": 0.029
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "designers",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "solutions",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "hr",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "transformation",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "process",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "improvement",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "insights",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "commerce",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "dotnet",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "architecture",
-      "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "founding",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "node.js",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "angular",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "aws",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
+    },
+    {
+      "term": "architecture",
+      "count": 1,
+      "share": 0.0145
     },
     {
       "term": "staff",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "api",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "back",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "office",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "help",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "chief",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "gis",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "sr",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "encapsulation",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "operator",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "success",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "apac",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "converged",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "inspection",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "maintenance",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "north",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "splicers",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "rod",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "rope",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "cable",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "hauler",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     }
   ],
   "jobs": [
@@ -1724,6 +1724,26 @@
         "business",
         "development",
         "manager"
+      ]
+    },
+    {
+      "job_id": "92970516",
+      "job_title": "IT and Technical Support Specialist - Entry Level",
+      "business_name": "InBody Oceania",
+      "work_type": "Part time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "$60,000 – $70,000 per year",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/92970516",
+      "advertiser_id": "61852752",
+      "posted_date": "2026-06-26T06:46:58Z",
+      "job_description": "<p><strong>IT and Technical Support Specialist - Entry Level</strong></p><p><strong>Part Time | $60K - $70K + Super Pro Rata | Southport</strong></p><p>For more than 30 years, InBody has been a global leader in body composition analysis technology, helping people better understand their health through accurate and innovative data. Operating in over 110 countries with more than 1,000 employees worldwide, InBody's technology is trusted by healthcare providers, hospitals, fitness centres, universities, professional sporting organisations, and corporate wellness programs.</p><p>As the company expands, InBody Oceania is looking for a motivated and proactive IT and Technical Support Specialist to join their growing team. This is an excellent opportunity for a recent graduate, current student, junior IT professional, or service technician looking to develop their career in a supportive and dynamic environment.</p><p>This role combines customer service, technical support, field service, and software assistance. Full product and systems training will be provided, making it ideal for someone with a growth mindset and willingness to learn.</p><p><strong>About the Role</strong></p><p>You will be the first point of contact for customers requiring technical assistance and support. Your responsibilities will include a mix of remote customer support and onsite customer visits across QLD.</p><p><strong>Key Responsibilities</strong></p><ul><li><p>Respond to customer enquiries via phone, email, and support tickets.</p></li><li><p>Provide software and technical support for InBody products and applications.</p></li><li><p>Assist customers with software integrations and troubleshooting.</p></li><li><p>Liaise with international support teams to resolve technical issues.</p></li><li><p>Support customer onboarding and training.</p></li><li><p>Conduct onsite service visits, maintenance, and device health checks.</p></li><li><p>Assist with installations, commissioning, and equipment setup.</p></li><li><p>Complete service reports and documentation.</p></li><li><p>Build strong relationships with customers and proactively identify service opportunities.</p></li></ul><p><strong>About You</strong></p><p>We're open to candidates from a variety of backgrounds, including:</p><ul><li><p>IT Support</p></li><li><p>Help Desk / Service Desk</p></li><li><p>Technical Customer Service</p></li><li><p>Service Technician</p></li><li><p>Electronics or Hardware Support</p></li><li><p>Recent Graduates</p></li><li><p>Current Students</p></li></ul><p><strong>To Be Successful, You Will Have:</strong></p><ul><li><p>Excellent communication and customer service skills.</p></li><li><p>A proactive and solutions-focused attitude.</p></li><li><p>Basic IT troubleshooting skills.</p></li><li><p>Confidence speaking with customers in person, over the phone, and via email.</p></li><li><p>Strong organisational skills and attention to detail.</p></li><li><p>Ability to work independently and manage priorities.</p></li><li><p>A willingness to learn new systems and technologies.</p></li></ul><p><strong>Highly Regarded</strong></p><ul><li><p>Experience in technical support or customer service.</p></li><li><p>Experience working with software applications.</p></li><li><p>Experience with device installations or servicing.</p></li></ul><p><strong>What We Offer</strong></p><ul><li><p>Comprehensive training and ongoing support.</p></li><li><p>Exposure to both technical support and field service.</p></li></ul><ul><li><p>Career development and progression pathways.</p></li><li><p>Opportunity to progress into a full-time position.</p></li><li><p>Supportive and collaborative team environment.</p></li><li><p>Diverse and engaging role with no two days the same.</p></li></ul><p><strong>Hours &amp; Location</strong></p><ul><li><p>Southport based office.</p></li><li><p>Initially part-time (approximately 24 hours per week across 3 days).</p></li><li><p>Opportunity to transition to full-time as the business continues to grow.</p></li><li><p>Some travel required.</p></li></ul><p><br></p><p>If you're looking for an opportunity to build a career in customer support, technical services, and IT while working with innovative health technology, we'd love to hear from you.</p><p><strong>Apply now to join the team at InBody Oceania.</strong></p><p><br></p>",
+      "keywords": [
+        "it",
+        "technical",
+        "support",
+        "specialist"
       ]
     }
   ]
