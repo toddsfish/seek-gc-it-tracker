@@ -1,571 +1,511 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-07-30",
   "region": "Gold Coast",
-  "scraped_at": "2026-07-31T06:57:24.410001+10:00",
-  "total_jobs": 72,
+  "scraped_at": "2026-07-30T06:43:36.336858+10:00",
+  "total_jobs": 76,
   "keywords": [
     {
-      "term": "support",
+      "term": "engineer",
       "count": 12,
-      "share": 0.1667
+      "share": 0.1579
     },
     {
-      "term": "engineer",
+      "term": "analyst",
       "count": 11,
-      "share": 0.1528
+      "share": 0.1447
+    },
+    {
+      "term": "support",
+      "count": 11,
+      "share": 0.1447
     },
     {
       "term": "officer",
       "count": 11,
-      "share": 0.1528
-    },
-    {
-      "term": "analyst",
-      "count": 10,
-      "share": 0.1389
+      "share": 0.1447
     },
     {
       "term": "manager",
       "count": 10,
-      "share": 0.1389
-    },
-    {
-      "term": "it",
-      "count": 9,
-      "share": 0.125
+      "share": 0.1316
     },
     {
       "term": "business",
       "count": 8,
-      "share": 0.1111
+      "share": 0.1053
+    },
+    {
+      "term": "it",
+      "count": 8,
+      "share": 0.1053
     },
     {
       "term": "technology",
       "count": 6,
-      "share": 0.0833
+      "share": 0.0789
+    },
+    {
+      "term": "network",
+      "count": 5,
+      "share": 0.0658
     },
     {
       "term": "infrastructure",
       "count": 5,
-      "share": 0.0694
-    },
-    {
-      "term": "specialist",
-      "count": 5,
-      "share": 0.0694
+      "share": 0.0658
     },
     {
       "term": "ict",
       "count": 5,
-      "share": 0.0694
+      "share": 0.0658
     },
     {
       "term": "project",
       "count": 4,
-      "share": 0.0556
-    },
-    {
-      "term": "network",
-      "count": 4,
-      "share": 0.0556
+      "share": 0.0526
     },
     {
       "term": "systems",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0526
     },
     {
       "term": "administrator",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0526
     },
     {
       "term": "developer",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0526
+    },
+    {
+      "term": "specialist",
+      "count": 4,
+      "share": 0.0526
     },
     {
       "term": "technical",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0526
+    },
+    {
+      "term": "automation",
+      "count": 4,
+      "share": 0.0526
     },
     {
       "term": "ai",
       "count": 3,
-      "share": 0.0417
+      "share": 0.0395
     },
     {
-      "term": "automation",
+      "term": "software",
       "count": 3,
-      "share": 0.0417
+      "share": 0.0395
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0417
+      "share": 0.0395
     },
     {
-      "term": "ongc",
-      "count": 2,
-      "share": 0.0278
+      "term": "service",
+      "count": 3,
+      "share": 0.0395
+    },
+    {
+      "term": "operations",
+      "count": 3,
+      "share": 0.0395
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0263
     },
     {
       "term": "integration",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0263
     },
     {
-      "term": "software",
+      "term": "platform",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0263
     },
     {
       "term": "ffs",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0263
+    },
+    {
+      "term": "desk",
+      "count": 2,
+      "share": 0.0263
     },
     {
       "term": "assistant",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0263
     },
     {
       "term": "director",
       "count": 2,
-      "share": 0.0278
-    },
-    {
-      "term": "operations",
-      "count": 2,
-      "share": 0.0278
+      "share": 0.0263
     },
     {
       "term": "development",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0263
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0263
     },
     {
       "term": "field",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0263
+    },
+    {
+      "term": "test",
+      "count": 2,
+      "share": 0.0263
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0263
+    },
+    {
+      "term": "solution",
+      "count": 1,
+      "share": 0.0132
+    },
+    {
+      "term": "designers",
+      "count": 1,
+      "share": 0.0132
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "solutions",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
+    },
+    {
+      "term": "ongc",
+      "count": 1,
+      "share": 0.0132
     },
     {
       "term": "data",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "insights",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "hr",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "transformation",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "process",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "improvement",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "commerce",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "developers",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "php",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "wordpress",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "heads",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "days",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "per",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "week",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
+    },
+    {
+      "term": "php",
+      "count": 1,
+      "share": 0.0132
     },
     {
       "term": "dotnet",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "founding",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "node.js",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "angular",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "aws",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "architecture",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "platform",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "staff",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "api",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "back",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "office",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "help",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "desk",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "chief",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "gis",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "sr",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "encapsulation",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "operator",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "service",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "governance",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "success",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "apac",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "converged",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "inspection",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "maintenance",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "north",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
+    },
+    {
+      "term": "fibre",
+      "count": 1,
+      "share": 0.0132
+    },
+    {
+      "term": "splicers",
+      "count": 1,
+      "share": 0.0132
     },
     {
       "term": "rod",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "rope",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "cable",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "hauler",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
-      "term": "test",
+      "term": "devops",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "ui",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "ux",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "landing",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "page",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "leadify",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "seo",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0132
     }
   ],
   "jobs": [
-    {
-      "job_id": "93651825",
-      "job_title": "Support Analyst",
-      "business_name": "Queensland Airports Limited",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Bilinga, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93651825",
-      "advertiser_id": "24200181",
-      "posted_date": "2026-07-30T04:09:14Z",
-      "job_description": "<p><b>Who is QAL?</b></p>\n\n<p>Queensland Airports Limited (QAL) is an accomplished airport operator which owns and operates Gold Coast, Townsville, Longreach and Mount Isa airports – connecting the Gold Coast and northern NSW, along with regional Queensland, to the rest of the country and beyond. Our company has a vision to engage customers, connect communities and deliver exceptional experiences – and a commitment to delivering for the communities where we operate. We have been formally recognised as a ‘Great Place to Work – Certified’ organisation four times and recently was awarded Work180 accreditation as a champion for gender equity for the second year in a row. Our company is dedicated to a target of net zero Scope 1 and Scope 2 emissions by 2030.</p>\n\n<p>There has never been a better time to join us.</p>\n\n<p>&nbsp;</p>\n\n<p><b>What you’ll contribute to:</b></p>\n\n<p>This role is responsible for providing customer focused support for QAL employees and customers across the technology used at QAL. These tools are both customer facing (laptops, PC’s, phones) but also internal (servers, network etc.) and are integral to the operation of QAL. The role is responsible for maintaining, supporting, monitoring and identifying and rectifying issues related to these wide arrays of products and infrastructures and to provide excellent customer service in delivering this service.</p>\n\n<p>&nbsp;</p>\n\n<p>Aryan, a QAL Support Analyst, shares his unique experience working with us below:</p>\n\n<p><i>“I joined QAL because of its strong emphasis on professionalism and teamwork. What I value most is the collaborative culture, where team members actively share knowledge and support one another’s growth.</i></p>\n\n<p><i>I contribute by bringing in new ideas and sharing new skills and knowledge that I continuously learn.</i></p>\n\n<p><i>QAL provides me with a supportive and motivating environment, and I am proud to be part of the organisation.”</i></p>\n\n<p>&nbsp;</p>\n\n<p><b>How will you make an impact?</b></p>\n\n<p>We’re looking for someone with basic entry-level IT skills, a friendly and approachable attitude, and a strong customer service focus. If you’re keen to learn and grow in a dynamic environment, this role is for you! Recent graduates are welcome, and while 1-2 years of experience would be an advantage, it’s not essential- we value enthusiasm and a willingness to develop your skills.</p>\n\n<p>&nbsp;</p>\n\n<p>Candidates with knowledge and experience in support for Microsoft Office365, Cisco network infrastructure and Cloud services will be highly regarded.</p>\n\n<p>&nbsp;</p>\n\n<p><b>Key deliverables/responsibilities include but are not limited to:</b></p>\n\n<ul>\n\t<li>Provides application maintenance and support services, either directly to users of the systems or to service delivery functions</li>\n\t<li>Investigation and resolution of issues that may also include performance monitoring, asset rebuilds, and other technical work required to resolve issues with technology</li>\n\t<li>Provide advice or training to users, by devising corrections (permanent or temporary) for faults, making general or site-specific modifications, updating documentation, manipulating data, or defining enhancements</li>\n\t<li>Demonstrates a willingness to “go the extra mile” and have a “can do attitude” to solve problems and support users</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><b>What we offer you?</b></p>\n\n<p>This is an opportunity to be part of a progressive organisation with a great culture and assist in the transformation and growth of the business. Flexible working options are available for all employees. At QAL, we uphold the philosophy that the smooth integration of life and work benefits all. We call it ‘Living Well’.</p>\n\n<p>QAL supports an inclusive approach and values diversity within the workplace. We aim to provide opportunities that allow individuals to reach their full potential regardless of their background, gender, age, work status, religious or cultural identity. Aboriginal and Torres Strait Islander peoples are encouraged to apply.</p>\n\n<p>The successful candidate will be required to adhere to QAL’s Drug and Alcohol Management Plan (DAMP), which includes pre-employment Drug and Alcohol Testing and have the ability to obtain an Aviation Security Identification Card (ASIC).</p>\n\n<p>Please obtain the Position Description by clicking HERE, or if you are on Seek, by copying the following location into your browser to access the Position Description through our careers site: https://qal.elmotalent.com.au/careers/QALcareers/job/view/373</p>",
-      "keywords": [
-        "support",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "93647306",
-      "job_title": "IT Support Engineer, Level 2 - ONGC",
-      "business_name": "Lyra Technology Group",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Arundel, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93647306",
-      "advertiser_id": "62871597",
-      "posted_date": "2026-07-30T02:09:35Z",
-      "job_description": "<p><strong>Lyra Technology Group&nbsp;</strong>is a&nbsp;private&nbsp;equity-backed holding company that invests in and&nbsp;operates&nbsp;industry leading technology service businesses. Our companies are&nbsp;operated&nbsp;independently by exceptional management teams. Companies that join our group&nbsp;retain&nbsp;the employees, name, and culture that have made them successful. As a platform of&nbsp;Evergreen&nbsp;Services&nbsp;Group, we never divest from businesses we partner with and approach every decision with the goal of driving sustainable and healthy growth over the long term.  </p><p></p><p>Our Operating Company, <strong>ONGC</strong>, is looking for an experienced <strong>IT Support Engineer, Level 2 </strong>to join their team in Arundel, GQ.</p><p></p><p><strong></strong></p><p><strong>About The Role</strong></p><p>As a <strong>Level 2 IT Support Engineer</strong>, you'll provide advanced technical support across a diverse range of client environments while managing escalated issues from the Level 1 team. You'll take ownership of incidents from diagnosis through to resolution, contribute to infrastructure improvements, and help deliver an exceptional customer experience.</p><p></p><p><strong>Key Responsibilities</strong></p><ul>\n<li>Provide Level 2 technical support across desktop, server, network, and cloud environments.</li>\n<li>Manage escalated incidents and service requests, ensuring timely resolution.</li>\n<li>Troubleshoot Microsoft 365, Azure, Active Directory, Exchange, and Windows environments.</li>\n<li>Support networking technologies including firewalls, switches, VPNs, and wireless infrastructure.</li>\n<li>Maintain accurate documentation and ticket updates within the PSA system.</li>\n<li>Build strong client relationships through professional communication and outstanding customer service.</li>\n<li>Assist with infrastructure upgrades, migrations, and technology projects.</li>\n<li>Collaborate with Level 3 Engineers on complex technical issues when required.</li>\n</ul><p><strong>About You</strong></p><p>To succeed in this role, you will ideally have MSP experience, excellent troubleshooting skills, and a proactive approach to customer support.</p><p></p><p><strong>Essential Skills &amp; Experience</strong></p><ul>\n<li>3+years' experience in an MSP or similar IT support environment.</li>\n<li>Relevant IT qualifications or equivalent industry experience.</li>\n<li>Experience providing Level 2 support across Microsoft environments.</li>\n<li>Strong knowledge of Microsoft 365, Azure, Active Directory, Exchange Online, andWindows Server.</li>\n<li>Experience supporting networking technologies including switches, firewalls, VPNs and Wi-Fi.</li>\n<li>Excellent communication and customer service skills.</li>\n</ul><p><strong>Preferred Experience</strong></p><ul>\n<li>Microsoft certifications (MS-900, AZ-900, MD-102, MS-102, AZ-104, or similar).</li>\n<li>CompTIA, Cisco, or ITIL certifications.</li>\n<li>Experience with ConnectWise PSA and ConnectWise RMM.</li>\n<li>Exposure to Microsoft Intune, SharePoint, Microsoft Defender, or Azure Virtual Desktop</li>\n</ul><p><strong>Benefits</strong></p><ul>\n<li>Flexible working arrangements – 2 days WFH</li>\n<li>Clear career progression pathways</li>\n<li>Exposure to meaningful, enterprise technology projects</li>\n<li>Supportive, collaborative team culture focused on growth and innovation</li>\n<li>Opportunity to work with emerging AI technologies and innovative automation solutions</li>\n<li>Be part of a values-driven organisation committed to delivering exceptional outcomes for clients across Australia</li>\n</ul><ul><p>&nbsp;</p></ul>",
-      "keywords": [
-        "it",
-        "support",
-        "engineer",
-        "ongc"
-      ]
-    },
-    {
-      "job_id": "93643152",
-      "job_title": "UI/UX & Landing Page Specialist - Leadify",
-      "business_name": "Leadify",
-      "work_type": "Full time",
-      "job_type": "Web Development & Production",
-      "pay_range": "",
-      "area": "Varsity Lakes, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93643152",
-      "advertiser_id": "61704049",
-      "posted_date": "2026-07-29T23:31:19Z",
-      "job_description": "<p><strong>About Us</strong>&nbsp;</p><p>Leadify is an Australian lead generation company running high-volume, performance-driven campaigns. We're part of the GJI Group, and this role has direct visibility into revenue-driving work - the pages you build feed straight into lead sales performance and gross profit margin.</p><p><strong>The Role</strong>&nbsp;</p><p>We're looking for a UI/UX &amp; Landing Page Specialist to own the design, build, testing and technical performance of our campaign landing pages. This role sits at the intersection of design, conversion optimisation and marketing technology - you'll be responsible for how our landing pages look, how they convert, and how accurately they track and route leads.</p><p><strong>Responsibilities</strong></p><ul><li><p>Design and build high-converting landing pages, from wireframe/Figma through to live deployment</p></li><li><p>Own technical campaign setup and ensure pages meet requirements before launch</p></li><li><p>Manage ongoing website updates and maintain a consistent design system across campaign pages</p></li><li><p>Troubleshoot and resolve technical issues on live pages quickly, minimising downtime and lead loss</p></li><li><p>Design, implement and analyse A/B tests, translating results into design and copy changes</p></li><li><p>Build and maintain a funnel optimisation roadmap based on performance data</p></li><li><p>Monitor pixel and attribution setup across all landing pages via Google Tag Manager</p></li><li><p>Validate conversion tracking end-to-end before and after campaign launches</p></li><li><p>Support lead routing strategy and implementation in LeadExec</p></li><li><p>Manage lead and deal data hygiene in LeadExec and Pipedrive</p></li><li><p>Complete QA on all new pages and tracking implementations prior to go-live</p></li><li><p>Own compliance and consent requirements on landing pages, ensuring forms and opt-ins meet regulatory and privacy standards</p></li><li><p>Set priorities and provide technical direction to developers on landing page and website projects</p></li></ul><p><strong>What You Bring</strong></p><ul><li><p>Proven experience in UI/UX design and landing page development, ideally in performance marketing or lead generation</p></li><li><p>Hands-on proficiency with Webflow (build and publish, not just templates)</p></li><li><p>Strong Figma skills for wireframing, prototyping and design handoff</p></li><li><p>Working knowledge of Google Tag Manager and pixel-based tracking (Meta, Google Ads)</p></li><li><p>Experience with LeadExec or comparable lead distribution/routing platforms</p></li><li><p>Familiarity with Pipedrive or similar CRM tools</p></li><li><p>Experience running structured A/B tests and translating results into action</p></li><li><p>High attention to detail - this role owns QA on pages that directly affect lead volume and revenue</p></li><li><p>Confident working autonomously and reporting on outcomes with data, not just activity</p></li></ul><p><strong>What's On Offer</strong></p><ul><li><p>Competitive salary + Super (details discussed during the process)</p></li><li><p>Full-time, on-site at our Varsity Lakes, Gold Coast office</p></li><li><p>Direct visibility into revenue-driving work, working closely with the COO and performance team</p></li><li><p>A high-growth, performance-driven environment where your work has measurable impact</p></li></ul><p><strong>Requirements</strong></p><ul><li><p>You must have the right to live and work in this location to apply for this job</p></li></ul><p><strong>Apply</strong> If this sounds like you, apply now with your resume and a portfolio or examples of landing pages you've built.</p><p><strong>Diversity &amp; Inclusion</strong> Leadify is an equal opportunity employer. We welcome applications from candidates of all backgrounds and are committed to a diverse and inclusive workplace.</p>",
-      "keywords": [
-        "ui",
-        "ux",
-        "landing",
-        "page",
-        "specialist",
-        "leadify"
-      ]
-    },
     {
       "job_id": "93641610",
       "job_title": "Principal Technology Officer FFS",
@@ -1221,6 +1161,24 @@
       ]
     },
     {
+      "job_id": "93414555",
+      "job_title": "Solution Designers",
+      "business_name": "City of Gold Coast",
+      "work_type": "Contract/Temp",
+      "job_type": "Architects",
+      "pay_range": "$111,401-$117,924 p/a plus superannuation",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93414555",
+      "advertiser_id": "16652581",
+      "posted_date": "2026-07-19T21:13:31Z",
+      "job_description": "<ul> <li><strong>Full Time Fixed Term (2x positions available until 30/06/2027) | 9-day fortnight | 36 hours per week</strong></li> <li> <strong>Salary: </strong>From $111,401 - $117,924 per annum plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG1960/assets/31868019\">Solution Designer</a> </li> </ul><p> </p><p><strong>About the role </strong></p><p>We are excited to offer an opportunity for an innovative and delivery-focused Solution Designer to join the City of Gold Coast.</p><p>Reporting to the Coordinator Solution Architecture, you will provide expert advice on solution design best practice and lead technical designs that align with reference solutions, enterprise architecture principles and the City’s enterprise standards. You will develop clear, implementable designs and system specifications that support the successful delivery, transition and operation of ICT solutions across the organisation.</p><p>Depending on organisational priorities, you may be aligned to one of several activity streams. This could include supporting ICT design across municipal infrastructure projects, leading cross-platform initiatives under the IT Operating Model, or contributing to complex ICT portfolio initiatives that require strong governance, technical alignment and operational readiness. Across each stream, your focus will be on ensuring solutions are well defined, practical, compliant, and sustainable in service.</p><p>You will work closely with project teams, technical specialists, delivery partners, vendors and stakeholders across the Chief Technology Office and the broader City. You will coordinate technical input, manage design dependencies, support transition to operations, and help uplift consistent technical solution architecture patterns and practices that improve the way technology is delivered across the organisation.</p><p>This is a highly collaborative role suited to someone who can translate business needs into clear technical outcomes, balance design quality with delivery realities, and bring people together to solve complex problems. Your contribution will help ensure technology solutions are fit-for-purpose, aligned to enterprise standards, and capable of supporting services that enhance the Gold Coast way of life.</p><p><strong>We’re looking for people who have: </strong></p><p>Most importantly, you will bring experience in a similar Solution Designer or Solution Architect role, with the ability to turn business needs into clear, practical and implementable technology designs. You will be confident working across technical teams, project teams, vendors and business stakeholders to shape solutions that are aligned to enterprise architecture, City standards and operational requirements.</p><p>To succeed in this role, you will bring:</p><ul> <li>Demonstrated experience developing solution designs, system specifications and implementation-ready design artefacts that align with enterprise architecture principles, reference solutions, technical patterns and organisational standards.</li> <li>Strong stakeholder engagement and communication skills, with the ability to explain complex technical concepts clearly to both technical and non-technical audiences.</li> <li>A practical delivery mindset, with the ability to balance design quality, compliance, risk, operational readiness and delivery realities.</li> <li>The ability to coordinate technical input across multiple teams, manage dependencies, support transition to operations, and contribute to reliable and consistent solution delivery.</li> <li>Experience working across one or more delivery environments, such as municipal infrastructure projects, cross-platform service initiatives, ICT portfolio delivery, system migrations, operational uplift or technology-enabled business improvement.</li> <li>Strong problem-solving skills, attention to detail, and the ability to work with a high level of autonomy while contributing positively to cross-functional teams.</li> <li>An understanding of ICT risk, service transition, operational support considerations, vendor engagement and the importance of designing solutions that are sustainable beyond project delivery.</li> <li>A continuous improvement mindset, with an interest in uplifting technical patterns, improving solution design practices, and helping the City deliver fit-for-purpose technology outcomes for the community.</li> </ul><p>Ideally, you will also hold a Bachelor Degree in Information Technology, Project Management or a related discipline, or bring equivalent knowledge and relevant experience.</p><p>If you have strong solution design capability and can bring people together to deliver practical, standards-aligned technology outcomes, we’d like to hear from you.</p><p><strong>Be part of shaping the Gold Coast’s future </strong></p><p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p><p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p><ul> <li>9-day fortnight </li> </ul><ul> <li>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations </li> </ul><ul> <li>Personal and professional development courses </li> </ul><ul> <li>Access to 350+ fitness facilities through Fitness Passport </li> </ul><ul> <li>4 free confidential counselling sessions a year for you or an immediate family member </li> </ul><ul> <li>1 free nutritionist and financial advice session per year </li> </ul><p><strong> </strong> </p><p>We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p><p><strong>How to apply</strong><br>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p><p><strong>Contact Person</strong> Ashley Shannon</p><p><strong>Contact Email</strong> <a href=\"mailto:ashannon@goldcoast.qld.gov.au\">ashannon@goldcoast.qld.gov.au</a></p><p><strong>Closing Date</strong> 30th July 2026/11:59pm AEDT </p><p> </p><p>Our selection process may include a one-way video interview via Criteria, a face-to-face or virtual interview via Microsoft Teams, reference checks via Xref and additional checks including police checks, employment history checks, qualification checks, pre-employment medical reviews and drug and alcohol testing. </p><p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
+      "keywords": [
+        "solution",
+        "designers"
+      ]
+    },
+    {
       "job_id": "93389403",
       "job_title": "Business Analyst",
       "business_name": "CKA Yatala Pty Ltd",
@@ -1662,6 +1620,25 @@
       ]
     },
     {
+      "job_id": "93197098",
+      "job_title": "Network Support Analyst",
+      "business_name": "Queensland Airports Limited",
+      "work_type": "Full time",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "",
+      "area": "Bilinga, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93197098",
+      "advertiser_id": "24200181",
+      "posted_date": "2026-07-08T06:31:33Z",
+      "job_description": "<p>As a Network Support Analyst at Queensland Airports Limited, you will play a pivotal role in ensuring the seamless operation of our critical network infrastructure across all QAL-managed airports. Your expertise will be instrumental in maintaining network performance, troubleshooting issues, and implementing improvements to support our dynamic and growing operations.</p>\n\n<p>&nbsp;</p>\n\n<p>Aryan joined the Technology team in 2025 as a Support Analyst and has since moved into a Cyber Security Analyst position. Aryan shares his unique experience working in the QAL team:</p>\n\n<p><i>“I joined QAL because of its strong emphasis on professionalism and teamwork. What I value most is the collaborative culture, where team members actively share knowledge and support one another’s growth.</i></p>\n\n<p><i>QAL provides me with a supportive and motivating environment, and I am proud to be part of the organisation.”</i></p>\n\n<p>&nbsp;</p>\n\n<p><b>How will you make an impact?</b></p>\n\n<p>We're open to applications from recent graduates, as well as candidates with up to 1-2 years' experience in a similar role. You'll have strong customer service and communication skills, with the ability to assist employees and provide basic service desk support and issue resolution.</p>\n\n<p>Strong organisational and administrative skills are essential, enabling you to coordinate contractor engagement paperwork, manage competing priorities, and ensure tasks are completed accurately and on time.</p>\n\n<p>&nbsp;</p>\n\n<p><b>Key deliverables/responsibilities include but are not limited to:</b></p>\n\n<ul>\n\t<li>Administer and maintain local area networks (LANs), wide area networks (WANs), and associated systems.</li>\n\t<li>Perform regular network monitoring to ensure optimal performance and reliability.</li>\n\t<li>Troubleshoot and resolve network-related issues promptly to minimize downtime.</li>\n\t<li>Implement and manage network security protocols to safeguard against unauthorized access and cyber threats.</li>\n\t<li>Ensure compliance with relevant industry standards and regulations.</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><b>How we support you</b></p>\n\n<p>At Queensland Airports Limited (QAL), we believe work should support life, not compete with it. Through our <i>Living Well</i> approach, we offer flexible working options for all roles, wellbeing initiatives and a supportive culture so our people can thrive both professionally and personally.</p>\n\n<p>As we continue to grow and transform, we encourage flexible ways of working and open conversations about how work fits alongside life. We also invest in our people through learning, mentoring and career pathways across our four airports.</p>\n\n<p>&nbsp;</p>\n\n<p><b>What we’ve built together</b></p>\n\n<p>At QAL, our people connect communities. We own and operate Gold Coast, Townsville, Mount Isa and Longreach airports, linking regional Queensland and northern New South Wales with the rest of Australia and the world.</p>\n\n<p>More than 8 million passengers travel through our airports each year, supported by teams working together to create safe, welcoming and efficient experiences. Our vision is to be the first-choice gateway for our regions, creating valuable connections and inspiring a sustainable future.</p>\n\n<p>We’re committed to an inclusive and psychologically safe workplace where people feel valued, supported and encouraged to be themselves. We welcome applications from people of all backgrounds and experiences, including Aboriginal and Torres Strait Islander peoples, and encourage you to apply even if you don’t meet every requirement.</p>\n\n<p>QAL is a WORK180 Endorsed Employer, independently recognised for supporting long‑term careers, flexibility, wellbeing and equal opportunity. Learn more about working at QAL here.</p>\n\n<p>The successful candidate will be required to adhere to QAL’s Drug and Alcohol Management Plan (DAMP), which includes pre-employment Drug and Alcohol Testing and have the ability to obtain an Aviation Security Identification Card (ASIC), which requires the completion of a Police Check.</p>\n\n<p>Please obtain the Position Description by clicking HERE, or if you are on Seek, by copying the following location into your browser to access the Position Description through our careers site: https://qal.elmotalent.com.au/careers/QALcareers/jobshttp://www.qldairports.com.au/.</p>",
+      "keywords": [
+        "network",
+        "support",
+        "analyst"
+      ]
+    },
+    {
       "job_id": "93191817",
       "job_title": "Automation Specialist",
       "business_name": "Department of Health - Queensland",
@@ -1713,6 +1690,42 @@
       "keywords": [
         "business",
         "analyst"
+      ]
+    },
+    {
+      "job_id": "93136474",
+      "job_title": "Service Operations Lead",
+      "business_name": "Gold Coast Convention & Exhibition Centre",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Broadbeach, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93136474",
+      "advertiser_id": "21889565",
+      "posted_date": "2026-07-06T02:57:46Z",
+      "job_description": "<p>At the Gold Coast Convention and Exhibition Centre, technology powers everything we do.</p>\n<br><p>From major conferences and exhibitions to live entertainment and corporate functions, our IT team delivers reliable, high-performing services in an environment where downtime is not an option.</p>\n\n<p>We are seeking an experienced and operationally focused Service Operations Lead to oversee the delivery of event technology support and corporate IT services across the Centre.</p>\n\n<p>This is a hands-on leadership role suited to someone who thrives in fast-paced environments, enjoys solving operational challenges, and can confidently coordinate technology delivery across multiple competing priorities.</p>\n\n<p>&nbsp;</p>\n\n<p><b>THE ROLE</b></p>\n\n<p>Reporting to the IT Manager, you will lead day-to-day IT service operations across the business, with responsibility for service delivery, event readiness, incident management, operational coordination, and service quality.</p>\n\n<p>You will act as the operational lead for IT services during live events, ensuring technology services are well planned, properly resourced, and executed to a consistently high standard.</p>\n\n<p>The role also plays an important part in maturing IT operational practices across the organisation, including helping define, implement, and embed standardised ITIL-aligned service management processes across both corporate IT and event delivery environments.</p>\n\n<p>Your key responsibilities will include:</p>\n\n<ul>\n\t<li>Leading the delivery of event technology support and corporate IT services</li>\n\t<li>Coordinating IT planning and operational readiness for approximately 110 events annually</li>\n\t<li>Managing live event IT delivery and responding to operational issues in real time</li>\n\t<li>Overseeing service desk operations, incidents, requests, and workload prioritisation</li>\n\t<li>Leading major incident response and problem management activities</li>\n\t<li>Helping define, implement, and continuously improve ITIL-aligned operational processes across the organisation</li>\n\t<li>Introducing and embedding standardised practices across areas such as incident management, problem management, change management, service request management, and operational readiness</li>\n\t<li>Driving service quality, operational consistency, and continuous improvement initiatives</li>\n\t<li>Developing and maintaining operational processes, runbooks, and readiness procedures</li>\n\t<li>Working closely with internal stakeholders, vendors, AV teams, and event organisers</li>\n\t<li>Supporting and mentoring operational team members while promoting strong service standards</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><b>ABOUT YOU</b></p>\n\n<p>You are an experienced IT operations or service delivery professional who can combine technical understanding with strong operational leadership.</p>\n\n<p>You are calm under pressure, highly organised, communicate well with nontechnical people and can effectively coordinate service delivery in environments where priorities shift quickly and reliability matters.</p>\n\n<p>To be successful in this role, you will ideally bring:</p>\n\n<ul>\n\t<li>Experience in IT operations, service delivery, or technical operations leadership</li>\n\t<li>Strong understanding of IT infrastructure, networking, cloud, and end-user technologies</li>\n\t<li>Experience working within ITIL-aligned service management environments</li>\n\t<li>Proven ability to coordinate operational delivery across multiple priorities</li>\n\t<li>Strong stakeholder engagement and communication skills</li>\n\t<li>Experience improving operational maturity, governance, or IT service management practices within complex environments will be highly regarded</li>\n\t<li>Experience supporting event, hospitality, venue, entertainment, or high-availability environments will be highly regarded</li>\n\t<li>Cisco, Microsoft, and ITIL certifications well regarded</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>If you are a service-focused IT operations professional looking for a role with variety, responsibility, and real operational impact, we would love to hear from you.</p>\n\n<p>&nbsp;</p>\n\n<p><b>WHY WORK WITH US?&nbsp; </b><i>“It’s not what we do, it’s how we do it”!&nbsp;</i></p>\n\n<p>&nbsp;</p>\n\n<p>We pride ourselves on our values of Community, Initiative, Respect, Teamwork and Welcoming.&nbsp; These values sit at the heart of how we work, how we treat our people, represent our business and deliver outstanding events.&nbsp; </p>\n\n<p>Plus, we offer the following people perks:</p>\n\n<ul>\n\t<li>Free undercover parking in the heart of Broadbeach</li>\n\t<li>Discounted onsite team member café</li>\n\t<li>Flexible work arrangements</li>\n\t<li>Paid parental leave</li>\n\t<li>Discounted food and beverage and accommodation at The Star Entertainment Group properties</li>\n\t<li>Access to health &amp; wellbeing programs</li>\n\t<li>Ongoing learning and development opportunities</li>\n\t<li>Reward &amp; Recognition Program</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>Reaching Earthcheck Master Certification status we are an environmentally conscious and sustainability focused organisation that seeks to continuously educate, support and ensure our team members foster and understand the importance of our environmental stewardship.</p>\n\n<p>&nbsp;</p>\n\n<p>Full Australian working rights are required for this position in addition to a probity check.</p>\n\n<p>&nbsp;</p>\n\n<p><b>The Gold Coast Convention and Exhibition Centre is part of The Star Entertainment Group.</b></p>\n\n<p><b>To apply, please upload your cover letter and resume.</b></p>",
+      "keywords": [
+        "service",
+        "operations"
+      ]
+    },
+    {
+      "job_id": "93134027",
+      "job_title": "Platform Engineer",
+      "business_name": "Gold Coast Convention & Exhibition Centre",
+      "work_type": "Full time",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "",
+      "area": "Broadbeach, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93134027",
+      "advertiser_id": "21889565",
+      "posted_date": "2026-07-06T01:55:24Z",
+      "job_description": "<p>At the Gold Coast Convention and Exhibition Centre, technology powers everything we do. </p>\n<br><p>From major international conventions and exhibitions to concerts, gala dinners and corporate events, our infrastructure must be reliable, secure and ready to perform every day.</p>\n\n<p>We're looking for an experienced Senior Platform Engineer to join our Technology team and help build, maintain and continually improve the infrastructure platforms that support both our corporate operations and live event environments.</p>\n\n<p>If you're passionate about modern infrastructure, cloud technologies, automation and continuous improvement, we'd love to hear from you.</p>\n\n<p>&nbsp;</p>\n\n<p><b>THE ROLE</b></p>\n\n<p>Reporting to the IT Manager and working under the technical direction of the Platform Engineering Lead, you'll play a key role in implementing, maintaining and improving the technology platforms that underpin the organisation.</p>\n\n<p>You'll work across infrastructure, cloud, identity, networking, endpoint management and venue technology, ensuring our platforms remain secure, resilient and highly available.</p>\n\n<p>This is a hands-on technical role where you'll have the opportunity to contribute to infrastructure modernisation, automation, cybersecurity improvements and platform standardisation while supporting one of Australia's most dynamic technology environments.</p>\n\n<p>Your key responsibilities will include:</p>\n\n<ul>\n\t<li>Building, configuring and maintaining infrastructure platforms across cloud, networking, identity, endpoint and venue technologies</li>\n\t<li>Implementing standard platform designs and engineering best practices</li>\n\t<li>Maintaining platform reliability through proactive monitoring, patching, upgrades and lifecycle management</li>\n\t<li>Implementing and maintaining security controls while supporting vulnerability remediation and security improvement initiatives</li>\n\t<li>Developing automation that improves deployment consistency, operational efficiency and platform reliability</li>\n\t<li>Providing Level 3 technical support for complex infrastructure and platform incidents</li>\n\t<li>Supporting root cause analysis and implementation of permanent technical solutions</li>\n\t<li>Preparing and validating technology platforms supporting live event delivery</li>\n\t<li>Developing and maintaining technical documentation, standards, runbooks and knowledge articles</li>\n\t<li>Contributing to the ongoing evolution of GCCEC's technology platforms and engineering standards</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><b>ABOUT YOU</b></p>\n\n<p>You're an experienced infrastructure or platform engineer who enjoys solving complex technical challenges and takes pride in delivering secure, reliable and well-engineered technology solutions.</p>\n\n<p>You have strong technical capability but also understand the value of documentation, standards, automation and continuous improvement.</p>\n\n<p>To be successful in this role, you'll ideally bring:</p>\n\n<ul>\n\t<li>Experience implementing and supporting enterprise IT infrastructure and platforms</li>\n\t<li>Strong knowledge of Microsoft Azure, Windows Server, Active Directory/Entra ID and Microsoft endpoint technologies</li>\n\t<li>Strong networking knowledge including switching, routing, wireless and network segmentation in enterprise, service provider or campus environments</li>\n\t<li>Experience implementing security controls and supporting cybersecurity best practice</li>\n\t<li>Experience with scripting or automation technologies such as PowerShell or similar tools will be highly regarded</li>\n\t<li>Experience with backup and disaster recovery platforms</li>\n\t<li>Experience supporting high-availability, hospitality, venue or event environments will be highly regarded</li>\n\t<li>Relevant certifications such as Microsoft, Azure, Cisco, Palo Alto Networks, Security or ITIL are all well regarded</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>If you're an experienced infrastructure or platform engineer looking for a technically rewarding role with variety, responsibility and the opportunity to work on modern enterprise technologies, we'd love to hear from you.</p>\n\n<p>&nbsp;</p>\n\n<p><b>WHY WORK WITH US?&nbsp; </b><i>“It’s not what we do, it’s how we do it”!&nbsp;</i></p>\n\n<p>&nbsp;</p>\n\n<p>We pride ourselves on our values of Community, Initiative, Respect, Teamwork and Welcoming.&nbsp; These values sit at the heart of how we work, how we treat our people, represent our business and deliver outstanding events.&nbsp; </p>\n\n<p>Plus, we offer the following people perks:</p>\n\n<ul>\n\t<li>Free undercover parking in the heart of Broadbeach</li>\n\t<li>Discounted onsite team member café</li>\n\t<li>Flexible work arrangements</li>\n\t<li>Paid parental leave</li>\n\t<li>Discounted food and beverage and accommodation at The Star Entertainment Group properties</li>\n\t<li>Access to health &amp; wellbeing programs</li>\n\t<li>Ongoing learning and development opportunities</li>\n\t<li>Reward &amp; Recognition Program</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>Reaching Earthcheck Master Certification status we are an environmentally conscious and sustainability focused organisation that seeks to continuously educate, support and ensure our team members foster and understand the importance of our environmental stewardship.</p>\n\n<p>&nbsp;</p>\n\n<p>Full Australian working rights are required for this position in addition to a probity check.</p>\n\n<p>&nbsp;</p>\n\n<p><b>The Gold Coast Convention and Exhibition Centre is part of The Star Entertainment Group.</b></p>\n\n<p><b>To apply, please upload your cover letter and resume.</b></p>",
+      "keywords": [
+        "platform",
+        "engineer"
       ]
     },
     {
@@ -1873,6 +1886,64 @@
         "it",
         "support",
         "officer"
+      ]
+    },
+    {
+      "job_id": "93027834",
+      "job_title": "Software Test Automation and DevOps Engineer",
+      "business_name": "Siemens Ltd",
+      "work_type": "Full time",
+      "job_type": "Testing & Quality Assurance",
+      "pay_range": "https://www.youtube.com/watch?v=f8i8sCeEDgQ&amp;t=",
+      "area": "Yatala, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93027834",
+      "advertiser_id": "783888",
+      "posted_date": "2026-06-30T05:23:14Z",
+      "job_description": "<div><p>An exciting opportunity has become available to join Siemens as a Software Test Automation &amp; DevOps Engineer within our expanding OMVS R&amp;D Team.</p><p>This newly created position, based in Yatala QLD, comes at a pivotal time for the business, with continued growth, strong project demand, and ongoing investment in innovative energy infrastructure technologies. Reporting directly to the OMVS R&amp;D Manager, you will play a key role in delivering secure, reliable, and high-quality software solutions across our medium voltage power distribution and protection product portfolio.</p><p>This is a hands-on technical role offering exposure to a broad range of technologies including:</p><ul>  <li>Embedded      firmware for protection and communications devices </li>  <li>Desktop      applications </li>  <li>Mobile      applications (iOS/Android) </li>  <li>Cloud-based      SaaS platforms </li>  <li>AWS      cloud infrastructure and security environments </li> </ul><p>Working closely with software development, product management, and customer care teams, you will take ownership across software testing, CI/CD pipelines, release management, cloud infrastructure, and ongoing system reliability. You will thrive in a collaborative environment where teamwork, continuous improvement, and innovation are highly valued, with the opportunity to contribute fresh ideas and help shape the future direction of our products and processes.</p><p><strong>Key Responsibilities:</strong></p><ul>  <li>Design,      develop, and maintain automated test frameworks across multiple platforms </li>  <li>Execute      both automated and manual testing for software and hardware-integrated      systems </li>  <li>Build      and maintain Azure DevOps CI/CD pipelines </li>  <li>Manage      development, staging, and production deployment environments </li>  <li>Drive      end-to-end release management and deployment processes </li>  <li>Monitor      and secure AWS cloud infrastructure environments </li>  <li>Implement      and improve monitoring, logging, and security practices </li>  <li>Collaborate      with cross-functional teams to ensure successful product delivery and      software quality </li> </ul><p><strong>About You:</strong></p><p>You are a proactive and solutions-focused professional who enjoys working as part of a team, sharing knowledge, and contributing new ideas. You bring a strong sense of ownership, a collaborative mindset, and a passion for delivering high-quality outcomes in technically complex environments.</p><p>You will ideally bring experience across:</p><ul>  <li>Automated      testing frameworks such as Selenium, Appium, Pytest, JUnit or Robot      Framework </li>  <li>Azure      DevOps and CI/CD pipeline management </li>  <li>AWS      services including EC2, S3, Lambda, RDS, VPC and CloudWatch </li>  <li>Python      or other scripting/programming languages </li>  <li>Git      and modern software development practices </li>  <li>DevOps,      release management, and cloud security principles </li> </ul><p>Experience within embedded systems, electrical infrastructure, utilities, energy, or industrial technology environments will be highly regarded.</p><p><strong>Why Join Siemens?</strong></p><p>This is an outstanding opportunity to join a collaborative and forward-thinking R&amp;D team working on technologies that support critical electrical infrastructure globally. You’ll be part of a business experiencing strong momentum in the market, with the opportunity to contribute to innovative products while continuing to grow and develop your career within a globally recognised organisation.</p><p>If you are passionate about software quality, automation, DevOps, and cloud technologies - and enjoy working in technically complex environments - we would love to hear from you.</p><p>At Siemens, we are committed to creating a diverse and inclusive workplace where everyone feels valued, respected, and empowered to succeed. We welcome applications from people of all backgrounds, experiences, and perspectives, and believe diversity drives innovation and better outcomes for our people, customers, and communities.</p></div><br>\n\n",
+      "keywords": [
+        "software",
+        "test",
+        "automation",
+        "devops",
+        "engineer"
+      ]
+    },
+    {
+      "job_id": "93022028",
+      "job_title": "Fibre Splicers",
+      "business_name": "RAD Communications",
+      "work_type": "Full time",
+      "job_type": "Telecommunications",
+      "pay_range": "$35 – $45 per hour",
+      "area": "Coomera, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93022028",
+      "advertiser_id": "39725057",
+      "posted_date": "2026-06-30T02:45:05Z",
+      "job_description": "<h2>Fibre Optic Splicer – South East Queensland</h2><p><br></p><p><strong>RAD Communications Pty Ltd</strong> is looking for an experienced <strong>Fibre Optic Splicer</strong> to join our growing team delivering projects across South East Queensland.</p><p>This is an excellent opportunity to work on major telecommunications infrastructure projects with a well-established company that values quality workmanship, safety and professionalism.</p><h2>About the Role</h2><p>You will be responsible for working on live carrier networks, completing high-quality fibre optic splicing, testing and fault finding across a range of telecommunications projects. Assisting with the installation of cables in High value MDU and Rail Corridor environments.</p><h2>Essential Requirements</h2><ul><li><p>Proven experience splicing on <strong>carrier fibre networks</strong></p></li><li><p>Experience working with <strong>live fibre networks</strong></p></li><li><p>High standard of fibre optic splicing and enclosure preparation</p></li><li><p>Competent in OTDR and insertion loss testing</p></li><li><p>Ability to interpret fibre schematics and network plans</p></li><li><p>Strong commitment to safety and quality</p></li><li><p>Current Australian Driver Licence</p></li><li><p>Construction White Card</p></li></ul><h2>Highly Regarded</h2><ul><li><p><strong>RIW (Rail Industry Worker) card</strong></p></li><li><p>Experience working within rail corridors</p></li><li><p>Confined Space and Working at Heights tickets</p></li><li><p>First Aid and CPR</p></li><li><p>Telecommunications qualifications</p></li></ul><h2>What We Offer</h2><ul><li><p>Above award wages based on experience</p></li><li><p>Overtime and away work opportunities</p></li><li><p>Company vehicle (for the right applicant)</p></li><li><p>Ongoing training and career development</p></li><li><p>A supportive team environment with varied and interesting projects</p></li><li><p>Long-term career opportunities with a growing telecommunications contractor</p></li></ul><p>If you're an experienced fibre splicer who takes pride in your work and enjoys working on critical telecommunications infrastructure, we'd love to hear from you.</p>",
+      "keywords": [
+        "fibre",
+        "splicers"
+      ]
+    },
+    {
+      "job_id": "93015984",
+      "job_title": "Service Desk Analyst",
+      "business_name": "Autosports Group",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "Attractive Salary Package",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93015984",
+      "advertiser_id": "35620332",
+      "posted_date": "2026-06-29T23:27:28Z",
+      "job_description": "<p><strong>IT Service Desk Analyst | Autosports Group – Gold Coast - QLD (National IT Team)</strong></p>\n<p><strong>Join a leading automotive retail group supporting dealerships across Australia.</strong></p>\n<p>Autosports Group is seeking a proactive and customer-focused <strong>IT Service Desk Analyst</strong> based in <strong>Gold Coast - QLD&nbsp;</strong>to join our <strong>national IT team</strong>. This role supports users across our dealership network, providing responsive and effective technical assistance to ensure seamless business operations.</p>\n<div><hr></div>\n<p><strong>About the Role</strong></p>\n<p>As part of a national IT support function, you will be the first point of contact for technical issues across multiple dealership sites. You will manage service requests, troubleshoot incidents remotely, and deliver end-to-end IT support in a fast-paced and dynamic environment.</p>\n<div><hr></div>\n<p><strong>Key Responsibilities</strong></p>\n<ul>\n<li>Monitor and manage Service Desk tickets and incoming calls, prioritising workload to ensure timely resolution </li>\n<li>Provide remote troubleshooting using diagnostic tools and structured problem-solving techniques </li>\n<li>Deliver professional, end-to-end IT support to users across the national dealership network </li>\n<li>Manage user access, system permissions, and IT equipment provisioning </li>\n<li>Maintain clear and consistent communication with users and stakeholders </li>\n<li>Ensure accurate documentation, tracking, and resolution of all support requests </li>\n</ul>\n<div><hr></div>\n<p><strong>About You</strong></p>\n<ul>\n<li>Strong customer service skills with experience in IT support or a genuine passion for the industry </li>\n<li>Ability to manage competing priorities and resolve issues efficiently </li>\n<li>Solid understanding of Microsoft Windows operating systems </li>\n<li>Knowledge of networking fundamentals and ITIL principles (or willingness to learn) </li>\n<li>Excellent communication skills with the ability to support both technical and non-technical users </li>\n<li>Highly organised with strong time management and prioritisation skills </li>\n<li>Able to work independently while contributing to a national team environment </li>\n<li>Basic understanding of telecommunications technologies </li>\n<li>Collaborative, adaptable, and solutions-focused </li>\n</ul>\n<div><hr></div>\n<p><strong>What We Offer</strong></p>\n<ul>\n<li>Gold Coast - QLD – based role within a national IT team&nbsp;</li>\n<li>Modern dealership and office environments </li>\n<li>Supportive and respectful workplace culture </li>\n<li>Career development and progression opportunities across a national group </li>\n<li>Employee Assistance Program (EAP) </li>\n<li>Family &amp; Friends Referral Program </li>\n<li>Company car or car allowance </li>\n</ul>\n<div><hr></div>\n<p><strong>Why Autosports Group?</strong></p>\n<p>Autosports Group is a leading automotive retail group representing premium global brands. Our IT team plays a critical role in enabling dealerships nationwide to operate efficiently. This is a great opportunity to build your career in IT while supporting a high-performing national business.</p>\n<div><hr></div>\n<p><strong>Apply Now</strong></p>\n<p>If you're ready to grow your IT career in a fast-paced, national environment, we’d love to hear from you.</p>\n<p>&nbsp;</p>\n\n",
+      "keywords": [
+        "service",
+        "desk",
+        "analyst"
       ]
     }
   ]
