@@ -1,554 +1,511 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-07-31",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-01T06:54:44.413519+10:00",
-  "total_jobs": 70,
+  "scraped_at": "2026-07-31T06:57:24.410001+10:00",
+  "total_jobs": 72,
   "keywords": [
+    {
+      "term": "support",
+      "count": 12,
+      "share": 0.1667
+    },
     {
       "term": "engineer",
       "count": 11,
-      "share": 0.1571
+      "share": 0.1528
     },
     {
-      "term": "support",
+      "term": "officer",
       "count": 11,
-      "share": 0.1571
+      "share": 0.1528
     },
     {
       "term": "analyst",
       "count": 10,
-      "share": 0.1429
+      "share": 0.1389
     },
     {
       "term": "manager",
       "count": 10,
-      "share": 0.1429
+      "share": 0.1389
     },
     {
-      "term": "officer",
+      "term": "it",
       "count": 9,
-      "share": 0.1286
+      "share": 0.125
     },
     {
       "term": "business",
       "count": 8,
-      "share": 0.1143
+      "share": 0.1111
     },
     {
-      "term": "it",
-      "count": 7,
-      "share": 0.1
+      "term": "technology",
+      "count": 6,
+      "share": 0.0833
     },
     {
-      "term": "developer",
+      "term": "infrastructure",
       "count": 5,
-      "share": 0.0714
+      "share": 0.0694
     },
     {
       "term": "specialist",
       "count": 5,
-      "share": 0.0714
+      "share": 0.0694
     },
     {
       "term": "ict",
       "count": 5,
-      "share": 0.0714
-    },
-    {
-      "term": "technology",
-      "count": 5,
-      "share": 0.0714
+      "share": 0.0694
     },
     {
       "term": "project",
       "count": 4,
-      "share": 0.0571
+      "share": 0.0556
     },
     {
       "term": "network",
       "count": 4,
-      "share": 0.0571
+      "share": 0.0556
+    },
+    {
+      "term": "systems",
+      "count": 4,
+      "share": 0.0556
+    },
+    {
+      "term": "administrator",
+      "count": 4,
+      "share": 0.0556
+    },
+    {
+      "term": "developer",
+      "count": 4,
+      "share": 0.0556
     },
     {
       "term": "technical",
       "count": 4,
-      "share": 0.0571
-    },
-    {
-      "term": "infrastructure",
-      "count": 4,
-      "share": 0.0571
+      "share": 0.0556
     },
     {
       "term": "ai",
       "count": 3,
-      "share": 0.0429
-    },
-    {
-      "term": "administrator",
-      "count": 3,
-      "share": 0.0429
-    },
-    {
-      "term": "software",
-      "count": 3,
-      "share": 0.0429
+      "share": 0.0417
     },
     {
       "term": "automation",
       "count": 3,
-      "share": 0.0429
+      "share": 0.0417
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0429
+      "share": 0.0417
     },
     {
       "term": "ongc",
       "count": 2,
-      "share": 0.0286
-    },
-    {
-      "term": "platform",
-      "count": 2,
-      "share": 0.0286
+      "share": 0.0278
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0278
     },
     {
       "term": "integration",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0278
+    },
+    {
+      "term": "software",
+      "count": 2,
+      "share": 0.0278
     },
     {
       "term": "ffs",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0278
     },
     {
       "term": "assistant",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0278
     },
     {
       "term": "director",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0278
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0286
-    },
-    {
-      "term": "systems",
-      "count": 2,
-      "share": 0.0286
+      "share": 0.0278
     },
     {
       "term": "development",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0278
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0278
     },
     {
       "term": "field",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0278
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0278
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "solutions",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "data",
       "count": 1,
-      "share": 0.0143
-    },
-    {
-      "term": "hr",
-      "count": 1,
-      "share": 0.0143
-    },
-    {
-      "term": "transformation",
-      "count": 1,
-      "share": 0.0143
-    },
-    {
-      "term": "process",
-      "count": 1,
-      "share": 0.0143
-    },
-    {
-      "term": "improvement",
-      "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "insights",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
-      "term": "microsoft",
+      "term": "hr",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
-      "term": "fabric",
+      "term": "transformation",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
+    },
+    {
+      "term": "process",
+      "count": 1,
+      "share": 0.0139
+    },
+    {
+      "term": "improvement",
+      "count": 1,
+      "share": 0.0139
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "commerce",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "developers",
       "count": 1,
-      "share": 0.0143
-    },
-    {
-      "term": "wordpress",
-      "count": 1,
-      "share": 0.0143
-    },
-    {
-      "term": "burleigh",
-      "count": 1,
-      "share": 0.0143
-    },
-    {
-      "term": "heads",
-      "count": 1,
-      "share": 0.0143
-    },
-    {
-      "term": "days",
-      "count": 1,
-      "share": 0.0143
-    },
-    {
-      "term": "per",
-      "count": 1,
-      "share": 0.0143
-    },
-    {
-      "term": "week",
-      "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "php",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
+    },
+    {
+      "term": "wordpress",
+      "count": 1,
+      "share": 0.0139
+    },
+    {
+      "term": "burleigh",
+      "count": 1,
+      "share": 0.0139
+    },
+    {
+      "term": "heads",
+      "count": 1,
+      "share": 0.0139
+    },
+    {
+      "term": "days",
+      "count": 1,
+      "share": 0.0139
+    },
+    {
+      "term": "per",
+      "count": 1,
+      "share": 0.0139
+    },
+    {
+      "term": "week",
+      "count": 1,
+      "share": 0.0139
     },
     {
       "term": "dotnet",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "founding",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "node.js",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "angular",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "aws",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "architecture",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
+    },
+    {
+      "term": "platform",
+      "count": 1,
+      "share": 0.0139
     },
     {
       "term": "staff",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "api",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "back",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "office",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "help",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "desk",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
+    },
+    {
+      "term": "chief",
+      "count": 1,
+      "share": 0.0139
+    },
+    {
+      "term": "digital",
+      "count": 1,
+      "share": 0.0139
     },
     {
       "term": "gis",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "sr",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "encapsulation",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "operator",
       "count": 1,
-      "share": 0.0143
-    },
-    {
-      "term": "financial",
-      "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "service",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "governance",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "success",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "apac",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "converged",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "inspection",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "maintenance",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "north",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "rod",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "rope",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "cable",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "hauler",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0143
-    },
-    {
-      "term": "seo",
-      "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "ui",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "ux",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "landing",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "page",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "leadify",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
+    },
+    {
+      "term": "seo",
+      "count": 1,
+      "share": 0.0139
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     }
   ],
   "jobs": [
-    {
-      "job_id": "93681673",
-      "job_title": "Microsoft Fabric Platform Administrator",
-      "business_name": "City of Gold Coast",
-      "work_type": "Full time",
-      "job_type": "Database Development & Administration",
-      "pay_range": "$111,401-$117,924 p/a plus superannuation",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93681673",
-      "advertiser_id": "16652581",
-      "posted_date": "2026-07-31T05:54:15Z",
-      "job_description": "<ul> <li><strong>Full Time | 9-day fortnight | 36 hours per week </strong></li> <li> <strong>Salary: </strong>From $111,401 - $117,924 per annum plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG1901/assets/31724193\">Platform Administrator</a> </li> </ul> <p><strong>Shape the future of data and analytics at the City of Gold Coast</strong></p> <p>The City of Gold Coast is investing in a modern, enterprise-scale data and analytics ecosystem, and we're looking for a Microsoft Fabric Platform Administrator to play a key role in its success.</p> <p>This is an exciting opportunity to become the technical custodian of our Microsoft Fabric platform, helping drive the evolution of a modern data environment that enables trusted insights, self-service analytics and smarter decision-making across one of Australia's largest local governments.</p> <p>Working alongside specialists in Azure, Data Engineering, Data Analytics, Information Security and Data Governance, you'll help shape the future of enterprise data capabilities while ensuring our Microsoft Fabric environment remains secure, scalable and high performing.<strong> </strong></p> <p><strong>About the Team<br></strong></p> <p>The Chief Technology Office is entering an exciting new chapter.</p> <p>Following the introduction of our new IT Operating Model and the transition of key technology services in-house, we're transforming how technology is delivered across the City. Our focus is on building modern platforms, accelerating innovation and creating technology services that are responsive, secure and aligned to organisational outcomes.</p> <p>As part of the Enterprise Data &amp; Analytics Platform team, you'll contribute to the growth of a modern Microsoft-based data platform spanning Microsoft Fabric, Power BI, Azure and Purview. <br><br>You'll work in a highly collaborative environment with specialists across cloud, data engineering, analytics and governance to deliver meaningful outcomes for our organisation and community.</p> <p><strong>About the role </strong></p> <p>As the Microsoft Fabric Platform Administrator (internally referred to as Platform Administrator), you will take ownership of the City's Microsoft Fabric environment and help drive its ongoing maturity and adoption.<br><br></p> <p>You will be responsible for platform administration, optimisation, governance and operational excellence, ensuring the platform supports the City's growing demand for advanced analytics and data-driven decision making.<br><br></p> <p>This role offers the opportunity to influence platform standards, contribute to technical roadmaps and help shape how enterprise data services are delivered across the organisation.<br><br></p> <p>Key Responsibilities</p> <ul> <li>Administer and optimise the City's Microsoft Fabric environment, including capacities, workspaces, OneLake, Data Warehouses, Lakehouses, Pipelines and Power BI services.</li> <li>Manage tenant configuration, security settings, access controls and governance standards.</li> <li>Monitor platform utilisation, performance and capacity consumption to ensure optimal service delivery.</li> <li>Drive continuous improvement by evaluating and implementing new Microsoft Fabric capabilities and platform enhancements.</li> <li>Develop and maintain operational standards, support procedures and technical documentation.</li> <li>Partner with Azure platform teams to ensure effective integration, networking, security and operational management across the broader cloud environment.</li> <li>Collaborate with Data Governance and Purview teams to support enterprise information management and governance objectives.</li> <li>Provide guidance and support to business and technology teams leveraging Fabric and Power BI services.</li> <li>Contribute to platform roadmap planning, technology uplift initiatives and service improvement programs.</li> <li>Promote best practices across the Microsoft data and analytics ecosystem</li> </ul> <p><strong>About You</strong></p> <p>You are passionate about modern cloud data platforms and enjoy combining technical expertise with stakeholder engagement.</p> <p>You're curious, solutions-focused and excited by the opportunity to work with emerging Microsoft technologies in a large and complex environment.</p> <p>You'll bring:</p> <ul> <li>Experience administering Microsoft Fabric, Power BI, Azure data platforms or similar enterprise analytics environments.</li> <li>Strong understanding of cloud platform administration, security, identity, governance and operational best practice.</li> <li>Experience managing access controls, platform configuration and enterprise service operations.</li> <li>Knowledge of Microsoft Fabric workloads, including workspace administration, capacity management and tenant management.</li> <li>An understanding of enterprise analytics platforms, data services and self-service reporting environments.</li> <li>Strong troubleshooting, analytical and problem-solving skills.</li> <li>Excellent communication skills with the ability to work effectively across technical and non-technical stakeholder groups.</li> <li>Relevant tertiary qualifications in Information Technology, Computer Science or a related discipline, or equivalent industry experience.</li> </ul> <p><strong>Highly Regarded:</strong></p> <p>The following certifications are advantageous but not essential:</p> <ul> <li>Microsoft Certified: Azure Administrator Associate (AZ-104)</li> <li>Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)</li> <li>Microsoft Certified: Fabric Data Engineer Associate (DP-700)</li> <li>Microsoft Certified: Power BI Data Analyst Associate (PL-300)</li> </ul> <p>Equivalent practical experience and demonstrated capability will be considered equally valuable.</p> <p><strong>Be part of shaping the Gold Coast’s future </strong></p> <p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p> <p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p> <ul> <li>9-day fortnight </li> </ul> <ul> <li>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations </li> </ul> <ul> <li>Personal and professional development courses </li> </ul> <ul> <li>Access to 350+ fitness facilities through Fitness Passport </li> </ul> <ul> <li>4 free confidential counselling sessions a year for you or an immediate family member </li> </ul> <ul> <li>1 free nutritionist and financial advice session per year </li> </ul> <p> </p> <p>We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p> <p><strong>How to apply</strong><br>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p> <p><strong>Contact Person</strong> Ashley Shannon </p> <p><strong>Contact Email</strong> <a href=\"mailto:ashannon@goldcoast.qld.gov.au\">ashannon@goldcoast.qld.gov.au</a> </p> <p><strong>Closing Date</strong> Monday 10th August 2026/ 11:59pm AEDT </p> <p> </p> <p>Our selection process may include a one-way video interview via Criteria, a face-to-face or virtual interview via Microsoft Teams, reference checks via Xref and additional checks including police checks, employment history checks, qualification checks, pre-employment medical reviews and drug and alcohol testing. </p> <p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
-      "keywords": [
-        "microsoft",
-        "fabric",
-        "platform",
-        "administrator"
-      ]
-    },
-    {
-      "job_id": "93681242",
-      "job_title": "Software Developer",
-      "business_name": "Sandwai Software",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "",
-      "area": "Varsity Lakes, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93681242",
-      "advertiser_id": "35145462",
-      "posted_date": "2026-07-31T05:42:45Z",
-      "job_description": "<p>Sandwai is an award-winning software development company providing industry leading, high quality software products and services to aged and disability health care providers nationally. We are seeking an enthusiastic Software Developer&nbsp;to join the team in our Varsity&nbsp;Lakes office.</p><p><br></p><p><strong>About Sandwai</strong></p><p>Sandwai's customers are typically medium to large sized organisations with a fleet of support workers who provide services such as personal care and domestic assistance into the homes and community of people who are aged or have a disability. Sandwai provides B2B software (SaaS) to these organisations which assists them with client and clinical care, scheduling, compliance, claiming, client engagement, timesheets, workforce management and reporting. The software utilises modern web and mobile technologies, and can make a transformative difference to the organisations we assist, improving their operational efficiency and helping to deliver better outcomes for their clients.</p><p>The aged and disability care industries are two of the fastest growing industries in Australia. The federal government has a significant focus and investment in strategies to keep aged people in their homes, and service providers are looking to Sandwai to provide the software that they need to remain competitive.</p><p>Sandwai is a well-established and fast-growing software solution provider with a warm, fun and supportive culture. We value the wellbeing of our team first and foremost, the importance of team work, and recognising and rewarding good performance.</p><p><br></p><p><strong>The Software Developer Role?</strong></p><p>The Software Developer will work with modern technologies to help develop our B2B (SaaS) web and mobile applications. Sandwai's platform includes a web application for administrative tasks, a mobile app for workers providing services, a client and family app for service recipients, and a suite of integrations and APIs. This is an opportunity to work with modern technologies and develop solutions across the full ecosystem.</p><p>Workshop with product specialists to create new designs and implement changes, assist with quality control, liaise with stakeholders and solution partners, and build solutions that make a positive and tangible difference to peoples lives.</p><p><br></p><p><strong>A Successful Software Developer at Sandwai</strong></p><p>You will have experience with the following technologies and will complement our positive and supportive team culture.</p><ul><li><p>Experience with PHP or similar, or a willingness to learn</p></li><li><p>An understanding of relational databases, MySQL, SQL etc</p></li><li><p>Ability to debug, analyse and solve complex problems</p></li><li><p>Have a thirst&nbsp;for innovating and&nbsp;a positive attitude</p></li><li><p>Excellent communication skills in both verbal and written English</p></li><li><p>Be highly organised with&nbsp;great time management skills</p></li><li><p>Motivated and have a great eye for detail</p></li></ul><p><br></p><p><strong>Which skills will give me an advantage but aren't mandatory?</strong></p><ul><li><p>Laravel</p></li><li><p>Vue.js or a similar reactive frontend framework</p></li><li><p>Docker</p></li><li><p>Flutter, NativeScript, or other mobile development</p></li><li><p>Experience with GitHub or similar</p></li><li><p>Experience with Zoho CRM &amp; Desk or similar</p></li></ul><p><br></p><p><strong>Working At Sandwai</strong></p><p>At Sandwai, we value the wellbeing of our team first and foremost. We put our people first and we're proud of being part of something that creates solutions that make a real difference in people's lives.</p><p>If you are looking for a challenging and engaging position where you can showcase your software development and product design skills, then this opportunity could be for you.</p><ul><li><p>Be part of a&nbsp;great culture with a warm, positive and supportive team</p></li><li><p>A fantastic&nbsp;opportunity to build life-changing products</p></li><li><p>An abundance of internal professional development support</p></li><li><p>Working with modern software technologies</p></li><li><p>An environment where good performance is recognised and rewarded</p></li><li><p>Generous remuneration</p></li><li><p>An open plan&nbsp;office in Varsity&nbsp;Lakes surrounded by cafes</p></li><li><p>A healthy balance of office and work from home</p></li><li><p>This position is available for an immediate start</p></li></ul><p><br></p><p>THIS POSITION IS BASED IN <strong>VARSITY LAKES</strong> ON THE <strong>GOLD COAST, QLD</strong>. THIS ROLE IS IN-OFFICE WITH HYBRID REMOTE OPTIONS.</p><p><br></p><p>Come and join a fantastic team here on the Gold Coast where your input into design and decisions is encouraged, and your contribution is rewarded. This position is available for an immediate start.</p><p>If this sounds like you, please submit your application for consideration at your earliest as <strong>applications will close when&nbsp;the right&nbsp;candidate is&nbsp;selected.</strong></p><p><br></p><p>No recruiters, thank you.</p>",
-      "keywords": [
-        "software",
-        "developer"
-      ]
-    },
     {
       "job_id": "93651825",
       "job_title": "Support Analyst",
@@ -1173,7 +1130,7 @@
     },
     {
       "job_id": "93489588",
-      "job_title": "Financial Product Manager",
+      "job_title": "Product Manager",
       "business_name": "G8 Education Limited",
       "work_type": "Full time",
       "job_type": "Product Management & Development",
@@ -1183,9 +1140,8 @@
       "url": "https://www.seek.com.au/job/93489588",
       "advertiser_id": "22363191",
       "posted_date": "2026-07-22T06:25:15Z",
-      "job_description": "<p>Nurturing the greatness in every child - and in you.</p>\n<p>&nbsp;</p>\n<p><strong>Join one of Australia’s Largest Leading Early Education Providers!&nbsp;&nbsp;</strong></p>\n<p>At G8 Education, we’re on a mission to shape the future! With 350+ early education and care centres under 21 brands, our 7,000+ dedicated team members nurture over 40,000 children every day.&nbsp;&nbsp;</p>\n<p>As an ASX listed growth company, we’re committed to empowering, rewarding, and supporting every team member – from our centre educators to our leadership and support team.&nbsp;&nbsp;</p>\n<p><strong>The Opportunity</strong>&nbsp;</p>\n<p>We're looking for an experienced Product Manager to join our Digital Solutions team.</p>\n<p>Reporting to the Head of Enterprise Architecture, you will own the strategy, roadmap and ongoing performance of G8's Finance Technology portfolio, ensuring our finance systems continue to support the evolving needs of the business.</p>\n<p>Working closely with Finance, and external vendors, you'll be responsible for the operational performance of our finance technology services while identifying opportunities to enhance capability, improve user experience and deliver measurable business value.</p>\n<p>This is a highly collaborative role that requires someone who can confidently engage senior stakeholders, lead technology change initiatives and balance strategic planning with operational excellence.</p>\n<p><strong>Key Responsibilities </strong></p>\n<ul>\n<li>Own the product strategy and roadmap for G8's Finance Technology portfolio.</li>\n<li>Ensure the effective operation and continuous improvement of finance technology services across the organisation.</li>\n<li>Partner with Finance and business leaders to understand operational needs and translate them into technology solutions.</li>\n<li>Lead product discovery, prioritisation and delivery of enhancements that drive business value.</li>\n<li>Monitor market trends and emerging technologies, identifying opportunities to strengthen the product strategy.</li>\n<li>Build and maintain strong relationships with internal stakeholders and external technology vendors.</li>\n<li>Lead change initiatives across the Finance Operations portfolio, ensuring successful adoption of new capabilities.</li>\n<li>Manage product performance, budgets, priorities and success metrics to maximise business outcomes.</li>\n</ul>\n<p><strong>About You</strong>&nbsp;</p>\n<p>You will be a commercially minded Product Manager with strong finance systems experience and a passion for delivering technology solutions that improve business performance.</p>\n<ul>\n<li><strong>Strong understanding of finance and accounting processes</strong>.</li>\n<li>Demonstrated experience managing Finance solutions including Back Office General Ledger (GL) systems.</li>\n<li>Proven ability to influence and manage relationships with senior business stakeholders.</li>\n<li>Experience managing third-party technology vendors and strategic partnerships.</li>\n<li>Strong experience leading business and technology change initiatives.</li>\n<li>Experience developing product strategies, roadmaps and continuous improvement initiatives.</li>\n<li>Excellent analytical, problem-solving and communication skills.</li>\n<li>Experience with Coupa and Microsoft Dynamics 365 (D365) will be highly regarded.</li>\n<li>A tertiary qualification in Business, Information Technology, Finance or a related discipline.</li>\n<li><em>Hold a valid working with children check or willingness to obtain upon commencement. </em></li>\n</ul>\n<p><strong>Benefits at G8</strong></p>\n<ul>\n<li>Competitive salary package</li>\n<li>Eligibility to participate in our Short-Term Incentive program which is an annualised bonus each year</li>\n<li>Hybrid working conditions with 3 days in office and 2 from home.</li>\n<li>Monthly RDO</li>\n<li>Located in Varsity Lakes.</li>\n<li>Career development opportunities as part of a large ASX-listed company&nbsp;</li>\n<li>Access a 50% discount on early education and childcare fees at any G8 Education Centre.&nbsp;</li>\n</ul>\n<p><em>Find out more here: </em>G8 Education</p>\n<p><strong>United by purpose. Guided by values.</strong></p>\n<p>At G8 Education, we’re proud to celebrate, support, and inspire our 7,000+ team members as they make a lasting difference in the lives of children and their own.</p>\n<p>Driven by our purpose “to nurture the greatness in every child to grow, thrive and learn” and guided by our values, we’re shaping bright futures for children, families, communities, and each other.</p>\n<p><strong>Our values:</strong> Safety First &amp; Always, Thriving Together, Owning the Outcome, Being the Difference, Building Bright Futures.</p>\n<p><strong>Our Recruitment Process</strong></p>\n<p><em><strong>Recruitment Process<br></strong></em></p>\n<p>Our recruitment process includes police checks and verification of qualifications and right-to-work status.</p>\n<p>Please note that the advertised closing date is indicative only, and applications may close earlier. We encourage you to apply as soon as possible.</p>\n<p><em><br>G8 Education is a committed advocate for child protection, safety and wellbeing. We have a zero tolerance for any form of child abuse or harm. The safety and wellbeing of children will always be our priority, and all team members are expected to embrace this shared commitment.</em></p>",
+      "job_description": "<p>Nurturing the greatness in every child - and in you.</p>\n<p>&nbsp;</p>\n<p><strong>Join one of Australia’s Largest Leading Early Education Providers!&nbsp;&nbsp;</strong></p>\n<p>At G8 Education, we’re on a mission to shape the future! With 350+ early education and care centres under 21 brands, our 7,000+ dedicated team members nurture over 40,000 children every day.&nbsp;&nbsp;</p>\n<p>As an ASX listed growth company, we’re committed to empowering, rewarding, and supporting every team member – from our centre educators to our leadership and support team.&nbsp;&nbsp;</p>\n<p><strong>The Opportunity</strong>&nbsp;</p>\n<p>We're looking for an experienced Product Manager to join our Digital Solutions team.</p>\n<p>Reporting to the Head of Enterprise Architecture, you will own the strategy, roadmap and ongoing performance of G8's Finance Technology portfolio, ensuring our finance systems continue to support the evolving needs of the business.</p>\n<p>Working closely with Finance, and external vendors, you'll be responsible for the operational performance of our finance technology services while identifying opportunities to enhance capability, improve user experience and deliver measurable business value.</p>\n<p>This is a highly collaborative role that requires someone who can confidently engage senior stakeholders, lead technology change initiatives and balance strategic planning with operational excellence.</p>\n<p><strong>Key Responsibilities </strong></p>\n<ul>\n<li>Own the product strategy and roadmap for G8's Finance Technology portfolio.</li>\n<li>Ensure the effective operation and continuous improvement of finance technology services across the organisation.</li>\n<li>Partner with Finance and business leaders to understand operational needs and translate them into technology solutions.</li>\n<li>Lead product discovery, prioritisation and delivery of enhancements that drive business value.</li>\n<li>Monitor market trends and emerging technologies, identifying opportunities to strengthen the product strategy.</li>\n<li>Build and maintain strong relationships with internal stakeholders and external technology vendors.</li>\n<li>Lead change initiatives across the Finance Operations portfolio, ensuring successful adoption of new capabilities.</li>\n<li>Manage product performance, budgets, priorities and success metrics to maximise business outcomes.</li>\n</ul>\n<p><strong>About You</strong>&nbsp;</p>\n<p>You will be a commercially minded Product Manager with strong finance systems experience and a passion for delivering technology solutions that improve business performance.</p>\n<ul>\n<li>Strong understanding of finance and accounting processes.</li>\n<li>Demonstrated experience managing Finance solutions including Back Office General Ledger (GL) systems.</li>\n<li>Proven ability to influence and manage relationships with senior business stakeholders.</li>\n<li>Experience managing third-party technology vendors and strategic partnerships.</li>\n<li>Strong experience leading business and technology change initiatives.</li>\n<li>Experience developing product strategies, roadmaps and continuous improvement initiatives.</li>\n<li>Excellent analytical, problem-solving and communication skills.</li>\n<li>Experience with Coupa and Microsoft Dynamics 365 (D365) will be highly regarded.</li>\n<li>A tertiary qualification in Business, Information Technology, Finance or a related discipline.</li>\n<li><em>Hold a valid working with children check or willingness to obtain upon commencement. </em></li>\n</ul>\n<p><strong>Benefits at G8</strong></p>\n<ul>\n<li>Competitive salary package</li>\n<li>Eligibility to participate in our Short-Term Incentive program which is an annualised bonus each year</li>\n<li>Hybrid working conditions with 3 days in office and 2 from home.</li>\n<li>Monthly RDO</li>\n<li>Located in Varsity Lakes.</li>\n<li>Career development opportunities as part of a large ASX-listed company&nbsp;</li>\n<li>Access a 50% discount on early education and childcare fees at any G8 Education Centre.&nbsp;</li>\n</ul>\n<p><em>Find out more here: </em>G8 Education</p>\n<p><strong>United by purpose. Guided by values.</strong></p>\n<p>At G8 Education, we’re proud to celebrate, support, and inspire our 7,000+ team members as they make a lasting difference in the lives of children and their own.</p>\n<p>Driven by our purpose “to nurture the greatness in every child to grow, thrive and learn” and guided by our values, we’re shaping bright futures for children, families, communities, and each other.</p>\n<p><strong>Our values:</strong> Safety First &amp; Always, Thriving Together, Owning the Outcome, Being the Difference, Building Bright Futures.</p>\n<p><strong>Our Recruitment Process</strong></p>\n<p><em><strong>Recruitment Process<br></strong></em></p>\n<p>Our recruitment process includes police checks and verification of qualifications and right-to-work status.</p>\n<p>Please note that the advertised closing date is indicative only, and applications may close earlier. We encourage you to apply as soon as possible.</p>\n<p><em><br>G8 Education is a committed advocate for child protection, safety and wellbeing. We have a zero tolerance for any form of child abuse or harm. The safety and wellbeing of children will always be our priority, and all team members are expected to embrace this shared commitment.</em></p>",
       "keywords": [
-        "financial",
         "product",
         "manager"
       ]
@@ -1611,6 +1567,26 @@
       ]
     },
     {
+      "job_id": "93244386",
+      "job_title": "Chief Digital and Technology Officer",
+      "business_name": "The BUSY Group",
+      "work_type": "Full time",
+      "job_type": "Management",
+      "pay_range": "Circa $200k-$210k + Super",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93244386",
+      "advertiser_id": "14264186",
+      "posted_date": "2026-07-10T04:10:55Z",
+      "job_description": "<p><b>Our purpose is to make skills, education and employment accessible to every person, so they can create their own world of unbounded possibilities.</b></p>\n\n<p><b>About The BUSY Group…</b></p>\n\n<p>The BUSY Group is a not-for-profit organisation which presents nearly 50 years’ experience as a community partner. &nbsp;With multiple business entities operating across 100+ locations Australia-wide and now in New Zealand, Canada and the United Kingdom, we offer an extensive range of employment services and programs, vocational training, apprenticeships, mentoring, Inclusive Employment Australia, specialist schools and allied health services.&nbsp;</p>\n<br><p><b>About the Role</b></p>\n\n<p>The BUSY Group is seeking an exceptional Chief Digital &amp; Technology Officer to shape, accelerate and safeguard our technology, digital and data landscape across Australia. As a key member of our Corporate Leadership Team, you will drive enterprise-wide digital transformation, strengthen cyber security maturity, uplift data capability and ensure our technology ecosystem enables performance, growth and service excellence.</p>\n\n<p>This is a rare opportunity to lead a diverse technology portfolio spanning Information Technology Services, Cyber Security, Data &amp; Analytics and Enterprise Project Delivery—all within a complex, multi‑entity environment committed to innovation, community impact and continuous improvement.</p>\n\n<p>What You’ll Lead</p>\n\n<ul>\n\t<li>Digital transformation — Deliver enterprise-wide change that improves scalability, efficiency and customer/employee experience.</li>\n\t<li>Cyber security uplift — Strengthen governance, controls and risk management aligned with ISO27001, Right Fit for Risk (RFFR) and industry best practice.</li>\n\t<li>Managed service provider leadership — Drive performance, value and service excellence across MSPs, vendors and strategic partners.</li>\n\t<li>Enterprise data strategy — Build modern data lake environments, analytics capability and evidence‑based decision-making.</li>\n\t<li>Technology strategy — Align digital, cyber, infrastructure and data initiatives with organisational priorities and growth.</li>\n</ul>\n\n<p>You’ll shape the digital backbone of a purpose-driven organisation making a real difference across Australia. You’ll lead transformation at scale, influence enterprise strategy, and build future‑ready capabilities that empower our people, partners and communities. The position involves:</p>\n\n<ul>\n\t<li>Lead, mentor and develop high-performing teams across IT Services, Cyber Security, Data &amp; Analytics and Project Delivery.</li>\n\t<li>Foster a culture of accountability, collaboration, innovation and customer service.</li>\n\t<li>Develop and execute BUSY’s technology, digital, cyber security and data strategy.</li>\n\t<li>Oversee enterprise-wide digital transformation and change adoption.</li>\n\t<li>Ensure infrastructure, platforms, applications and support services meet evolving business needs.</li>\n\t<li>Establish and continuously improve cyber security governance, controls and incident response.</li>\n\t<li>Ensure alignment with ISO27001, RFFR, regulatory obligations and best practice.</li>\n\t<li>Manage MSPs, vendors and strategic partners to ensure value, service excellence and contractual compliance.</li>\n\t<li>Negotiate technology contracts and commercial arrangements.</li>\n\t<li>Drive optimisation of enterprise data platforms and analytics environments.</li>\n\t<li>Uphold BUSY Group’s commitment to child safety and safeguarding principles.</li>\n</ul>\n\n<p>This role is ideally based at Southport, QLD, however Brisbane or relocation will be considered for an outstanding candidate.</p>\n\n<p><b>BUSY Benefits...</b></p>\n\n<ul>\n\t<li>Competitive salary</li>\n\t<li>4&nbsp;additional&nbsp;paid annual leave days – 1 My BUSY Day and 3 days at Christmas&nbsp;</li>\n\t<li>Dedicated training budget for personal and professional growth&nbsp;&nbsp;</li>\n\t<li>BUSY Benefits program -&nbsp;Paid parental Leave, retail&nbsp;discounts&nbsp;and access to Fitness Passport</li>\n\t<li>Enjoy work that genuinely&nbsp;impacts&nbsp;lives&nbsp;</li>\n\t<li>Employee Assistance Program with Sonder Wellbeing App</li>\n</ul>\n<br><p><b>About You</b></p>\n\n<ul>\n\t<li>10+ years in senior IT leadership across complex, multi‑site environments.</li>\n\t<li>Broad technical understanding across Citrix, networking, security, Microsoft 365/SharePoint Online, Windows Virtual Desktop, databases and analytics tools (Dynamics, PowerBI, SQL, Jet Reports).</li>\n\t<li>Extensive experience with Windows Server, Exchange, AD, Azure AD, Group Policy, Intune MDM and modern operating platforms.</li>\n\t<li>Proven capability in digital transformation, innovation and strategic technology leadership.</li>\n\t<li>Experience managing MSPs and external supplier relationships.</li>\n\t<li>Strong commercial acumen with ability to present business cases and strategic recommendations.</li>\n\t<li>Highly developed communication, stakeholder engagement and problem‑solving skills.</li>\n\t<li>Demonstrated ability to lead teams, drive change and uplift organisational capability.</li>\n\t<li>Tertiary qualification in Information Technology or related discipline.</li>\n\t<li>Post‑graduate qualifications highly regarded.</li>\n\t<li>Blue Card, National Police Check and open driver’s licence.</li>\n</ul>\n\n<p><b>Next steps...</b></p>\n\n<p>Candidate care is important to us; this role will actively commence recruitment from the date of advertisement. The closing date of this ad is dependent on the appointment of the role.</p>\n\n<p>The BUSY Group is an Organisation that puts the best interest of children and young people first by adhering to the Child Safety Organisation National Principles.&nbsp; The appointment of successful applicants&nbsp;will be subject to satisfactory employment screening including, criminal history and relevant working with children checks.</p>\n\n<p>The BUSY Group is committed to achieving a diverse workforce and strongly encourages applications from First Nations People,&nbsp;veterans, people from culturally diverse backgrounds and people with disabilities.</p>",
+      "keywords": [
+        "chief",
+        "digital",
+        "technology",
+        "officer"
+      ]
+    },
+    {
       "job_id": "93244238",
       "job_title": "IT Support Officer",
       "business_name": "Private Advertiser",
@@ -1800,6 +1776,25 @@
       ]
     },
     {
+      "job_id": "93101572",
+      "job_title": "Junior IT Systems Administrator",
+      "business_name": "Stacked Farm",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Arundel, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93101572",
+      "advertiser_id": "39488667",
+      "posted_date": "2026-07-03T03:05:16Z",
+      "job_description": "<p><strong>ABOUT STACKED FARM</strong></p><p>Stacked Farm is revolutionizing fresh produce as Australia's first end-to-end automated indoor vertical farming company. Operating across Australia (Gold Coast and Melbourne) and the United States, we combine robotics, automation, software and engineering to produce premium leafy greens year-round. Technology is at the heart of everything we do, from enterprise IT infrastructure and cloud services through to operational technology (OT), industrial networking and cybersecurity.</p><p>As we continue to grow, we're looking for a passionate technology enthusiast to join our team and build a rewarding career in IT.</p><p><strong>ABOUT THE ROLE</strong></p><p>The Junior IT Systems Administrator provides essential IT support across our multi-site operations, ensuring day-to-day technology systems, hardware and software operate reliably.</p><p>This role combines IT support, endpoint provisioning and junior systems administration, making it an excellent opportunity for someone early in their IT career who wants to develop into a Systems Administrator.</p><p>Reporting to the Chief Technology Officer, you'll provide responsive user support while progressively taking ownership of systems administration, infrastructure and networking responsibilities. As your skills develop, you'll gain exposure to operational technology (OT), cloud and on-premises infrastructure, cybersecurity, enterprise networking and IT infrastructure design.</p><p>No two days are the same, and you'll work alongside experienced technical professionals in an environment where you'll continually learn and develop your skills.</p><p><strong>RESPONSIBILITIES</strong></p><ul><li><p>Provide responsive Level 1 and Level 2 IT support through our ticketing system, troubleshooting hardware, software and user issues across multiple sites.</p></li><li><p>Configure, deploy and maintain laptops, desktops, mobile devices and peripherals.</p></li><li><p>Provision and manage user accounts, access permissions and endpoint devices as part of team member onboarding, offboarding and role changes.</p></li><li><p>Assist with the administration of Windows and Linux servers, virtualisation platforms and remote monitoring and management systems.</p></li><li><p>Support Google Applications and other core business applications.</p></li><li><p>Assist with network administration including switching, routing, VLANs, VPNs, wireless networking and firewall management.</p></li><li><p>Support operational technology (OT) networking, including network segmentation, access control and industrial network hardening.</p></li><li><p>Participate in cybersecurity activities including patch management, endpoint protection, vulnerability remediation and security best practices.</p></li><li><p>Maintain IT documentation, network diagrams, asset registers and standard operating procedures.</p></li><li><p>Assist with hardware procurement, lifecycle management and software licensing.</p></li><li><p>Contribute to infrastructure improvements, automation initiatives and technical projects as your experience grows.</p></li></ul><p><strong>ABOUT YOU</strong></p><p>You're passionate about technology and enjoy solving problems. Whether you've gained experience through work, study, certifications or personal projects, you're always looking to learn something new.</p><p>You take pride in providing excellent customer service, enjoy troubleshooting technical issues and are excited by the opportunity to grow into a Systems Administrator role.</p><p><strong>REQUIREMENTS</strong></p><ul><li><p>Diploma, Advanced Diploma or Degree in Information Technology, Computer Science, Network Administration or a related discipline (or currently completing).</p></li><li><p>Experience in IT support, helpdesk or junior systems administration is advantageous.</p></li><li><p>Solid understanding of networking fundamentals including TCP/IP, subnetting, VLANs, routing, switching and firewall concepts.</p></li><li><p>Working knowledge of Google applications and basic Linux administration.</p></li><li><p>Understanding of virtualisation concepts and hypervisor technologies such as VMware or Hyper-V.</p></li><li><p>Strong analytical and troubleshooting skills with a logical approach to problem solving.</p></li><li><p>Excellent communication skills with the ability to explain technical concepts to non-technical users.</p></li><li><p>High attention to detail and strong organisational skills.</p></li><li><p>Proactive, reliable and able to work both independently and collaboratively.</p></li><li><p>Genuine passion for technology with a strong interest in networking, systems administration and infrastructure.</p></li><li><p>Australian working rights.</p></li><li><p><strong>Must be based on the Gold Coast.</strong></p></li></ul><p><br></p><p><br></p>",
+      "keywords": [
+        "it",
+        "systems",
+        "administrator"
+      ]
+    },
+    {
       "job_id": "93086235",
       "job_title": "Customer Success Team Lead - APAC",
       "business_name": "Veracross",
@@ -1840,6 +1835,44 @@
         "angular",
         "aws",
         "ai"
+      ]
+    },
+    {
+      "job_id": "93043979",
+      "job_title": "Infrastructure & Systems Administrator",
+      "business_name": "Buildsafe Queensland Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Database Development & Administration",
+      "pay_range": "",
+      "area": "Arundel, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93043979",
+      "advertiser_id": "24217835",
+      "posted_date": "2026-07-01T00:15:06Z",
+      "job_description": "<p><strong>About Buildsafe</strong></p><p>Buildsafe is one of Australia's leading construction technology companies, delivering innovative software, AI-powered products and critical infrastructure that help improve safety, productivity and visibility across thousands of construction sites nationwide.&nbsp;Technology is at the centre of everything we do. As our BuildCam platform continues to grow, so does the infrastructure that supports it.</p><p><strong>About the Role</strong><br>We're looking for an<br>Infrastructure &amp; Systems Administrator to join our IT team, working alongside our Senior Infrastructure Administrator and reporting to the CIO. You'll play a key role in supporting and evolving the infrastructure that powers both Buildsafe and BuildCam.</p><p>This is a hands-on role combining enterprise systems administration with physical infrastructure deployment. From commissioning servers, expanding storage and configuring networks to managing Windows Server, Docker, IIS and Microsoft 365 environments, no two days are the same.</p><p><strong>Key Responsibilities</strong></p><ul><li><p>Build, deploy and maintain enterprise server, storage and network infrastructure.</p></li><li><p>Administer Windows Server, Active Directory, Group Policy, DNS, IIS and Microsoft 365.</p></li><li><p>Deploy and manage Docker containers and hosted applications.</p></li><li><p>Monitor infrastructure performance, security, backups and disaster recovery.</p></li><li><p>Configure and support switches, firewalls, VPNs and networking equipment.</p></li><li><p>Troubleshoot infrastructure issues and support branch deployments.</p></li><li><p>Contribute to infrastructure projects, automation, documentation and continuous improvement.</p></li></ul><p><strong>AI-First Culture</strong></p><p>AI is embedded in how we work. We encourage our IT team to use AI to automate repetitive tasks, troubleshoot faster, generate documentation, develop scripts and improve operational efficiency. We're looking for someone who enjoys learning, embraces new technology and is always looking for smarter ways to work.</p><p><strong>About You</strong></p><p>You'll ideally have:</p><ul><li><p>Permanent working rights in Australia (essential)</p></li><li><p>3+ years' experience in Infrastructure or Systems Administration.</p></li><li><p>Strong Windows Server, Active Directory, DNS and Group Policy experience.</p></li><li><p>Experience with IIS, Docker and Microsoft 365 administration.</p></li><li><p>Hands-on experience with enterprise server hardware and NAS/storage platforms (Synology highly regarded).</p></li><li><p>Solid networking knowledge (switches, VLANs, VPNs and firewalls).</p></li><li><p>PowerShell or scripting experience.</p></li><li><p>Strong troubleshooting, documentation and organisational skills.</p></li><li><p>A passion for AI, automation and continuous improvement.</p></li></ul><p><strong>What Buildsafe Can Offer You</strong></p><p>Join a scaling division backed by an established national brand, where your contributions genuinely make an impact.</p><ul><li><p>Permanent full-time role – salary paid weekly</p></li><li><p>Office based role, Monday to Friday</p></li><li><p>Corporate uniform allowance</p></li><li><p>Fortnightly professional car cleaning on site</p></li><li><p>Regular team bonding experiences</p></li><li><p>Access to our Staff Care program and Employee Assistance Program</p></li><li><p>Discounted gym memberships through Fitness Passport</p></li><li><p>A culture that values innovation, safety, and collaboration</p></li></ul><p><br></p>",
+      "keywords": [
+        "infrastructure",
+        "systems",
+        "administrator"
+      ]
+    },
+    {
+      "job_id": "93043299",
+      "job_title": "IT Support Officer",
+      "business_name": "Buildsafe Queensland Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Arundel, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93043299",
+      "advertiser_id": "24217835",
+      "posted_date": "2026-06-30T23:37:11Z",
+      "job_description": "<p><strong>About Us</strong></p><p>Buildsafe is one of Australia's leading construction technology companies, delivering innovative software, AI-powered products and critical infrastructure that help improve safety, productivity and visibility across thousands of construction sites nationwide.</p><p>Technology is at the centre of everything we do. As our BuildCam platform continues to grow, so does the infrastructure that supports it.<br></p><p><strong>About the Role</strong></p><p>Our BuildCam camera system provides a flexible and reliable solution for site monitoring. With 24/7 supervision of residential construction sites, our customers and stakeholders can track developments in real time.</p><p>In this newly created role, we are seeking an experienced IT Support Officer to join our expanding BuildCam team. This position plays a key role in maintaining and supporting BuildCam’s technology and IT infrastructure. You’ll be responsible for the setup, troubleshooting, and monitoring of BuildCam systems, as well as footage and data management, software and hardware updates, and both customer and internal support.</p><p>The successful candidate will provide integral support to all aspects of BuildCam’s IT systems and services, both onsite and remotely. This position is hands-on, dynamic, and suited to someone who thrives in a problem-solving environment and enjoys working both independently and as part of a collaborative team.</p><p><strong>Your Core Responsibilities</strong></p><ul><li><p>Provide onsite and remote technical support to internal teams and clients</p></li><li><p>Set up, configure, and troubleshoot BuildCam camera systems, modems, and solar monitoring equipment</p></li><li><p>Conduct quality assurance checks and ensure systems meet performance standards</p></li><li><p>Manage system updates, maintenance, and asset tracking</p></li><li><p>Monitor power, data, and connectivity performance across all BuildCam systems</p></li><li><p>Provide guidance and technical support via phone, email, or chat</p></li><li><p>Assist in continuous improvement by refining processes and identifying optimisation opportunities</p></li></ul><p><strong>About You</strong></p><p>You’ll have recent experience working in a similar IT support role, with relevant qualifications in information technology or a related discipline. You’re someone who can work within defined timeframes, manage multiple priorities, and collaborate effectively with internal stakeholders to achieve great outcomes.</p><p>You’ll also bring:</p><ul><li><p>Experience on a Service Desk or as an IT Support Officer</p></li><li><p>Strong troubleshooting and diagnostic skills (hardware, software, and networks)</p></li><li><p>Basic knowledge of server and networking hardware</p></li><li><p>Understanding of network setup, connectivity, and troubleshooting</p></li><li><p>Experience conducting quality assurance checks on technical systems</p></li><li><p>Ability to monitor system performance, data integrity, and security alerts</p></li><li><p>Excellent communication and customer service skills</p></li><li><p>Working knowledge of Microsoft Windows server and desktop operating systems</p></li></ul><p><strong>What Buildsafe Can Offer You</strong></p><p>Join a scaling division backed by an established national brand, where your contributions genuinely make an impact.</p><ul><li><p>Permanent full-time role – salary paid weekly</p></li><li><p>Monday to Friday, officed based</p></li><li><p>Corporate uniform allowance</p></li><li><p>Fortnightly professional car cleaning on site</p></li><li><p>Regular team bonding experiences</p></li><li><p>Access to our Staff Care program and Employee Assistance Program</p></li><li><p>Discounted gym memberships through Fitness Passport</p></li><li><p>A culture that values innovation, safety, and collaboration<br></p></li></ul><p><br></p>",
+      "keywords": [
+        "it",
+        "support",
+        "officer"
       ]
     }
   ]
