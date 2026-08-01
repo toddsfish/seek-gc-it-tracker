@@ -1,473 +1,513 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-01",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-02T06:41:17.251920+10:00",
-  "total_jobs": 68,
+  "scraped_at": "2026-08-01T06:54:44.413519+10:00",
+  "total_jobs": 70,
   "keywords": [
+    {
+      "term": "engineer",
+      "count": 11,
+      "share": 0.1571
+    },
     {
       "term": "support",
       "count": 11,
-      "share": 0.1618
+      "share": 0.1571
     },
     {
       "term": "analyst",
       "count": 10,
-      "share": 0.1471
+      "share": 0.1429
     },
     {
       "term": "manager",
       "count": 10,
-      "share": 0.1471
-    },
-    {
-      "term": "engineer",
-      "count": 10,
-      "share": 0.1471
+      "share": 0.1429
     },
     {
       "term": "officer",
       "count": 9,
-      "share": 0.1324
+      "share": 0.1286
     },
     {
       "term": "business",
       "count": 8,
-      "share": 0.1176
+      "share": 0.1143
     },
     {
       "term": "it",
       "count": 7,
-      "share": 0.1029
+      "share": 0.1
     },
     {
       "term": "developer",
       "count": 5,
-      "share": 0.0735
+      "share": 0.0714
     },
     {
       "term": "specialist",
       "count": 5,
-      "share": 0.0735
+      "share": 0.0714
     },
     {
       "term": "ict",
       "count": 5,
-      "share": 0.0735
+      "share": 0.0714
     },
     {
       "term": "technology",
       "count": 5,
-      "share": 0.0735
+      "share": 0.0714
     },
     {
       "term": "project",
       "count": 4,
-      "share": 0.0588
+      "share": 0.0571
     },
     {
       "term": "network",
       "count": 4,
-      "share": 0.0588
+      "share": 0.0571
     },
     {
       "term": "technical",
       "count": 4,
-      "share": 0.0588
+      "share": 0.0571
     },
     {
       "term": "infrastructure",
       "count": 4,
-      "share": 0.0588
+      "share": 0.0571
+    },
+    {
+      "term": "ai",
+      "count": 3,
+      "share": 0.0429
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0441
+      "share": 0.0429
     },
     {
       "term": "software",
       "count": 3,
-      "share": 0.0441
+      "share": 0.0429
     },
     {
       "term": "automation",
       "count": 3,
-      "share": 0.0441
+      "share": 0.0429
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0441
-    },
-    {
-      "term": "ai",
-      "count": 2,
-      "share": 0.0294
+      "share": 0.0429
     },
     {
       "term": "ongc",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0286
     },
     {
       "term": "platform",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0286
+    },
+    {
+      "term": "stack",
+      "count": 2,
+      "share": 0.0286
     },
     {
       "term": "integration",
       "count": 2,
-      "share": 0.0294
-    },
-    {
-      "term": "assistant",
-      "count": 2,
-      "share": 0.0294
+      "share": 0.0286
     },
     {
       "term": "ffs",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0286
+    },
+    {
+      "term": "assistant",
+      "count": 2,
+      "share": 0.0286
     },
     {
       "term": "director",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0286
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0286
     },
     {
       "term": "systems",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0286
     },
     {
       "term": "development",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0286
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0286
     },
     {
       "term": "field",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0286
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0286
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "solutions",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "data",
       "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "insights",
-      "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "hr",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "transformation",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "process",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "improvement",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
+    },
+    {
+      "term": "insights",
+      "count": 1,
+      "share": 0.0143
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "fabric",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "commerce",
       "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "stack",
-      "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "developers",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "wordpress",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "heads",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "days",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "per",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "week",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "php",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "dotnet",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
+    },
+    {
+      "term": "founding",
+      "count": 1,
+      "share": 0.0143
+    },
+    {
+      "term": "node.js",
+      "count": 1,
+      "share": 0.0143
+    },
+    {
+      "term": "angular",
+      "count": 1,
+      "share": 0.0143
+    },
+    {
+      "term": "aws",
+      "count": 1,
+      "share": 0.0143
     },
     {
       "term": "architecture",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "staff",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "api",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "back",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "office",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "help",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "desk",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "gis",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "sr",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "encapsulation",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "operator",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "service",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "governance",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
+    },
+    {
+      "term": "customer",
+      "count": 1,
+      "share": 0.0143
+    },
+    {
+      "term": "success",
+      "count": 1,
+      "share": 0.0143
+    },
+    {
+      "term": "team",
+      "count": 1,
+      "share": 0.0143
+    },
+    {
+      "term": "apac",
+      "count": 1,
+      "share": 0.0143
     },
     {
       "term": "converged",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "inspection",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "maintenance",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "north",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "rod",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "rope",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "cable",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "hauler",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "seo",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "ui",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "ux",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "landing",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "page",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "leadify",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0143
     }
   ],
   "jobs": [
@@ -1757,6 +1797,49 @@
         "assistant",
         "brisbane",
         "north"
+      ]
+    },
+    {
+      "job_id": "93086235",
+      "job_title": "Customer Success Team Lead - APAC",
+      "business_name": "Veracross",
+      "work_type": "Full time",
+      "job_type": "Team Leaders",
+      "pay_range": "",
+      "area": "Miami, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93086235",
+      "advertiser_id": "61968087",
+      "posted_date": "2026-07-02T07:55:24Z",
+      "job_description": "<p><strong>Company Overview&nbsp;</strong></p><p>Veracross unifies school communities with world-class information systems that improve the quality of education and enhance learning. We support K-12 private and independent schools with a one-record platform that connects school operations, communication, and data across departments. Trusted by more than 3,200 schools in over 60 countries, Veracross is known for reliable software, strong data security, and high-quality customer support.&nbsp;</p><p>In Australia, New Zealand, and the wider Asia Pacific region, Veracross supports 800+ schools across Veracross, Digistorm, Firefly, and ePraise. The APAC team is based in Australia and offers in-time-zone access through Support, Implementation, and Customer Success, alongside regional technical and product staff.&nbsp;</p><p></p><p><strong>Role Summary</strong>&nbsp;</p><p>The CSM Team lead, manages the Asia Pacific Customer Success team and is accountable for team performance across retention, qualified opportunity generation, and SIS lead creation. This role owns team coaching, churn forecasting, renewal execution, and operational consistency across the regional portfolio.&nbsp;</p><p>The CSM Team Lead directly leads a team of three Customer Success Managers covering the APAC book, which spans roughly 800 customers across Australia, New Zealand, and Asia Pacific international schools. The book is concentrated in the Australian and New Zealand independent and Catholic school markets, with a smaller set of higher-value international school accounts. This is a high-volume regional portfolio, and the CSM Team Lead is accountable for building coverage discipline and team capacity against it.&nbsp;</p><p>Partnering closely with Sales, Support, Implementation, Product, and leadership to reduce churn, expand customer value, and build a high-performing team. This role may retain a very limited strategic portfolio, but its primary focus is team leadership and regional execution.&nbsp;</p><p></p><p><strong>Job Responsibilities&nbsp;</strong></p><ul><li>Lead, coach, and develop the APAC CSM team across Australia, New Zealand, and Asia Pacific accounts.</li></ul><ul><li>Set clear expectations tied to retention, qualified opportunity generation, SIS lead creation, and account management discipline.&nbsp;</li></ul><ul><li>Own regional churn forecasting and lead regular risk reviews so risks are identified early, documented clearly, and actively mitigated.&nbsp;</li></ul><ul><li>Manage span-of-control and coverage in a high-volume book, balancing account distribution across the team and surfacing capacity and coverage gaps to leadership with recommendations.&nbsp;</li></ul><ul><li>Step into high-risk or high-value customer situations as needed to support save plans, renewals, and executive alignment.&nbsp;</li></ul><ul><li>Ensure renewals are managed proactively, forecasted accurately, and documented cleanly in Salesforce.&nbsp;</li></ul><ul><li>Drive expansion discipline by coaching CSMs on opportunity identification, lead quality, and effective partnership with Sales, including Digistorm cross-sell and Magnus and Firefly motions where relevant.&nbsp;</li></ul><ul><li>Enforce consistent use of Salesforce and Catalyst.io for health monitoring, risk tracking, task management, and account planning.&nbsp;</li></ul><ul><li>Partner cross-functionally with Sales, Support, Implementation, and Product to resolve escalations and improve customer outcomes.&nbsp;</li></ul><ul><li>Hire, onboard, manage, and develop talent, including succession planning for future Team Leads and Managers.&nbsp;</li></ul><ul><li>Provide regular reporting and recommendations on regional risk, team performance, process gaps, and staffing needs.&nbsp;</li></ul><p></p><p><strong>Requirements</strong></p><ul><li>Bachelor's Degree or equivalent experience.&nbsp;</li></ul><ul><li>3-5 years of experience in SaaS customer success, account management, or other post-sales roles.&nbsp;</li></ul><ul><li>2+ years of experience in management position&nbsp;</li></ul><ul><li>Demonstrated success driving retention, renewals, and expansion performance.&nbsp;</li></ul><ul><li>Strong experience with churn forecasting, pipeline management, and operational rigor.&nbsp;</li></ul><ul><li>Demonstrated ability to manage a high-volume book or team coverage model, where the challenge is prioritisation and coverage across many accounts rather than deep focus on a few.&nbsp;</li></ul><ul><li>Strong coaching, performance management, and cross-functional leadership skills.&nbsp;</li></ul><ul><li>Excellent written and verbal communication skills.&nbsp;</li></ul><ul><li>Ability to operate strategically while staying close to execution details.&nbsp;</li></ul><ul><li>Knowledge of the Australian and New Zealand independent and Catholic school markets strongly preferred, including familiarity with the academic calendar (four terms, late-January to mid-December school year), school leadership structures, and associations such as AISNSW, AHISA, and state Catholic education offices. Experience in K-12, education SaaS, or a related niche market is preferred; candidates from outside the sector must show evidence of learning the unwritten rules of a specialised market quickly.&nbsp;</li></ul><ul><li>Comfortable operating across time zones and currencies, supporting both AUD/NZD domestic accounts and a smaller set of USD-billed international school accounts.&nbsp;</li></ul><p><strong>Benefits</strong></p><p><em><strong>The best tools to get the job done! </strong></em></p><p>When you join Veracross, you get a Macbook Pro, a 32-inch monitor, and an adjustable desk and chair for the office. There's also an allowance for your setup at home to ensure you're comfortable working there. </p><p><em><strong>Growth opportunities! </strong></em></p><p>Veracross is growing fast, allowing you to own your role and grow with us! Operating within a global team, there are opportunities for professional development allowing your skills to grow as the business grows. </p><p><em><strong>Work/life balance </strong></em></p><p>Management encourages taking hour-long lunches and finishing on time and understands that you have a life outside of work. You can take the day off for your birthday and get a $100-a-year allowance for well-being. Massage, anyone? </p><p><em><strong>Parental leave policy </strong></em></p><p>As part of Veracross parental leave policy, you’re eligible for paid leave as a primary parent and secondary parent when you welcome a new child into your family. This is available after 12 months in a full-time role. </p><p><em><strong>Flexibility </strong></em></p><p>Veracross offers a flexible working environment, hybrid options.</p><p><em><strong>Make a difference </strong></em></p><p>Our work makes a positive contribution to our schools, their students and their families around the world! </p><p><em><strong>Snacks, drinks &amp; coffee </strong></em></p><p>Digistorm’s (Veracross) Gold Coast HQ offers a coffee machine, snack bar and fully stocked drinks fridge to keep energy levels high! Vege chips, kombucha, almond milk, cookies; you name it, they have it.</p><p><em><strong>Culture </strong></em></p><p>The Veracross team is fun, relaxed, and sociable, reflected in the casual dress code and social events. The office has an open floor plan, which allows for cross-team communication and a collaborative environment. Join some staff for lunchtime surfing or hit up nearby food spots for a burger by the beach. </p>",
+      "keywords": [
+        "customer",
+        "success",
+        "team",
+        "apac"
+      ]
+    },
+    {
+      "job_id": "93064828",
+      "job_title": "Founding Engineer – Full-Stack (Node.js, Angular, AWS & AI)",
+      "business_name": "Tenderfy Technologies",
+      "work_type": "Full time",
+      "job_type": "Engineering - Software",
+      "pay_range": "$130,000 – $160,000 per year",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93064828",
+      "advertiser_id": "63760736",
+      "posted_date": "2026-07-01T23:46:07Z",
+      "job_description": "<p>Tenderfy is redefining how construction and infrastructure companies prepare winning tenders.</p><p>We've built a platform that combines great workflows, intelligent automation and AI to eliminate the chaos, duplication and manual effort that has traditionally plagued tendering.</p><p>Customers are saving significant time, improving tender quality and changing the way their teams work. We're growing quickly and looking for exceptional people to help build what's next.</p><p>The market is responding.</p><p>Customers are onboarding, revenue is growing, and we're now looking for a Founding Engineer to help shape the next stage of the company.</p><p>This isn't a maintenance role.</p><p>This isn't a role where you'll spend your days working through a backlog someone else created.</p><p>This is a seat at the table.</p><p>You'll have direct influence over architecture, product direction, engineering standards, AI strategy and how we scale the platform over the coming years.</p><p>If you're looking for a place where your work genuinely matters, keep reading.</p><h2><strong>What You'll Be Building</strong></h2><p>You'll work across the entire platform, including:</p><ul><li><p>Backend development using Node.js and TypeScript</p></li><li><p>Modern Angular front-end development</p></li><li><p>AWS infrastructure and cloud architecture</p></li><li><p>AI-powered workflows and automation</p></li><li><p>RAG, vector databases and LLM integrations</p></li><li><p>Document generation and processing pipelines</p></li><li><p>Performance, scalability and platform reliability</p></li><li><p>Integrations with enterprise platforms and third-party systems</p></li><li><p>Internal tooling to improve engineering velocity</p></li></ul><p>You'll work directly alongside the founder and collaborate with our offshore engineering team to rapidly deliver improvements and new capabilities.</p><h2><strong>What Success Looks Like</strong></h2><p>Within your first 12 months, you'll:</p><ul><li><p>Become a key technical decision-maker within the business</p></li><li><p>Improve platform performance, reliability and scalability</p></li><li><p>Help shape Tenderfy's AI roadmap</p></li><li><p>Strengthen engineering processes and release velocity</p></li><li><p>Contribute to building a world-class engineering culture</p></li><li><p>Play a major role in scaling Tenderfy nationally and beyond</p></li></ul><h2><strong>What We're Looking For</strong></h2><p>We're less interested in years of experience and more interested in capability.</p><p>You'll likely have strong experience in:</p><ul><li><p>Node.js and modern TypeScript</p></li><li><p>Angular or similar modern front-end frameworks</p></li><li><p>AWS infrastructure and cloud-native development</p></li><li><p>API design and integrations</p></li><li><p>Software architecture and scalable systems</p></li><li><p>AI tooling and modern developer workflows</p></li></ul><p>Bonus points if you've worked in a start-up, scale-up or high-growth environment.</p><h2><strong>Who You Are</strong></h2><p>You're commercially minded.</p><p>You care about solving customer problems, not just writing code.</p><p>You take ownership.</p><p>You see problems and instinctively look for ways to improve them.</p><p>You actively use tools like Claude Code, OpenAI Codex, Cursor, GitHub Copilot and AI-assisted development workflows to move faster and produce better outcomes.</p><p>You enjoy building.</p><p>You enjoy shipping.</p><p>You enjoy learning.</p><p>Most importantly, you're excited by the idea of helping build something meaningful from the ground up.</p><h2><strong>Why Join Tenderfy</strong></h2><ul><li><p>Meaningful equity opportunity</p></li><li><p>Real ownership and autonomy</p></li><li><p>Direct influence on product and architecture</p></li><li><p>Fast-moving environment with minimal bureaucracy</p></li><li><p>Work on cutting-edge AI applications</p></li><li><p>Build software used by some of Australia's leading construction and infrastructure businesses</p></li><li><p>Help shape the future of an ambitious Australian SaaS company</p></li></ul><p>We're building for the long term and we're looking for someone who wants to be part of that journey.</p><p>If that sounds like you, we'd love to talk.</p><p><strong>Apply with your resume, GitHub profile, portfolio, or simply send through something you've built that you're proud of.</strong></p>",
+      "keywords": [
+        "founding",
+        "engineer",
+        "stack",
+        "node.js",
+        "angular",
+        "aws",
+        "ai"
       ]
     }
   ]
