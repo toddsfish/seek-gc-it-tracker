@@ -1,438 +1,473 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-02",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-03T06:43:36.563057+10:00",
-  "total_jobs": 65,
+  "scraped_at": "2026-08-02T06:41:17.251920+10:00",
+  "total_jobs": 68,
   "keywords": [
+    {
+      "term": "support",
+      "count": 11,
+      "share": 0.1618
+    },
     {
       "term": "analyst",
       "count": 10,
-      "share": 0.1538
+      "share": 0.1471
     },
     {
       "term": "manager",
       "count": 10,
-      "share": 0.1538
-    },
-    {
-      "term": "support",
-      "count": 10,
-      "share": 0.1538
+      "share": 0.1471
     },
     {
       "term": "engineer",
+      "count": 10,
+      "share": 0.1471
+    },
+    {
+      "term": "officer",
       "count": 9,
-      "share": 0.1385
+      "share": 0.1324
     },
     {
       "term": "business",
       "count": 8,
-      "share": 0.1231
-    },
-    {
-      "term": "officer",
-      "count": 8,
-      "share": 0.1231
+      "share": 0.1176
     },
     {
       "term": "it",
       "count": 7,
-      "share": 0.1077
+      "share": 0.1029
     },
     {
       "term": "developer",
       "count": 5,
-      "share": 0.0769
+      "share": 0.0735
     },
     {
       "term": "specialist",
       "count": 5,
-      "share": 0.0769
+      "share": 0.0735
     },
     {
       "term": "ict",
       "count": 5,
-      "share": 0.0769
+      "share": 0.0735
     },
     {
       "term": "technology",
       "count": 5,
-      "share": 0.0769
+      "share": 0.0735
     },
     {
       "term": "project",
       "count": 4,
-      "share": 0.0615
+      "share": 0.0588
     },
     {
       "term": "network",
       "count": 4,
-      "share": 0.0615
+      "share": 0.0588
     },
     {
       "term": "technical",
       "count": 4,
-      "share": 0.0615
+      "share": 0.0588
     },
     {
       "term": "infrastructure",
       "count": 4,
-      "share": 0.0615
+      "share": 0.0588
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0462
+      "share": 0.0441
     },
     {
       "term": "software",
       "count": 3,
-      "share": 0.0462
+      "share": 0.0441
     },
     {
       "term": "automation",
       "count": 3,
-      "share": 0.0462
+      "share": 0.0441
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0462
+      "share": 0.0441
     },
     {
       "term": "ai",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0294
     },
     {
       "term": "ongc",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0294
     },
     {
       "term": "platform",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0294
     },
     {
       "term": "integration",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0294
+    },
+    {
+      "term": "assistant",
+      "count": 2,
+      "share": 0.0294
     },
     {
       "term": "ffs",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0294
     },
     {
       "term": "director",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0294
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0294
     },
     {
       "term": "systems",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0294
     },
     {
       "term": "development",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0294
+    },
+    {
+      "term": "telecommunications",
+      "count": 2,
+      "share": 0.0294
+    },
+    {
+      "term": "field",
+      "count": 2,
+      "share": 0.0294
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0308
+      "share": 0.0294
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "solutions",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "data",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "insights",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "hr",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "transformation",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "process",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "improvement",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "fabric",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "commerce",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "developers",
       "count": 1,
-      "share": 0.0154
-    },
-    {
-      "term": "php",
-      "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "wordpress",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "heads",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "days",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "per",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "week",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
+    },
+    {
+      "term": "php",
+      "count": 1,
+      "share": 0.0147
     },
     {
       "term": "dotnet",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "architecture",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "staff",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "api",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "back",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "office",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "help",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "desk",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
-      "term": "assistant",
+      "term": "gis",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
+    },
+    {
+      "term": "application",
+      "count": 1,
+      "share": 0.0147
     },
     {
       "term": "sr",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "encapsulation",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "operator",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "service",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "governance",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "converged",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
-      "term": "telecommunications",
+      "term": "inspection",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
+    },
+    {
+      "term": "maintenance",
+      "count": 1,
+      "share": 0.0147
+    },
+    {
+      "term": "brisbane",
+      "count": 1,
+      "share": 0.0147
+    },
+    {
+      "term": "north",
+      "count": 1,
+      "share": 0.0147
     },
     {
       "term": "rod",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "rope",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "cable",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "hauler",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "seo",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "ui",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "ux",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "landing",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "page",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "leadify",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0154
+      "share": 0.0147
     }
   ],
   "jobs": [
@@ -943,6 +978,26 @@
       "job_description": "<p><strong>Technical Lead / Software Architect (.NET / React / Azure) | Permanent | $180,000-$185,000 + Super | Broadbeach, Gold Coast (Hybrid) | AI Agentic | Modernisation Project | Scaling Business </strong></p><p><strong>About the Company</strong></p><p>Our client is a leading travel technology business with ambitious international growth plans and a significant investment in modernising its technology landscape. Operating as an independent technology team, they're embarking on a major transformation to replace a 20-year legacy platform with a modern Microsoft ecosystem that will support the business for years to come.</p><p>With a strategic partnership with Microsoft, the engineering team works closely with Microsoft's own solution architects to shape best practice architecture, leverage emerging technologies and deliver innovative digital products across the travel industry.</p><p>This role would suit someone with extensive experience in a Microsoft environment, combining deep Azure architecture expertise with hands-on .NET development.</p><p><strong>About the Role</strong></p><p>This is a senior individual contributor position that combines technical leadership, software architecture and hands-on engineering. Reporting to the Head of Engineering, you'll own the technical direction for a team of five engineers while partnering closely with the Solution Architect to design scalable, cloud-native solutions.</p><p>You'll spend approximately 70% of your time driving architecture, mentoring engineers and making key technical decisions, with the remaining 30% remaining hands-on across full-stack development.</p><p>A key focus of the role will be designing and operating Azure infrastructure, building scalable API integrations and modern microservices architecture that powers real-time travel booking platforms. You'll also play a leading role in the team's adoption of AI-assisted software engineering, establishing standards and best practices for tools such as Claude Code and GitHub Copilot.</p><p>Working across customer booking platforms, consultant portals and partner applications, you'll help shape the architecture that underpins the next phase of the company's international growth.</p><p><strong>Key Skills</strong></p><ul><li>Extensive experience as a Technical Lead, Lead Software Engineer or Software Architect within a Microsoft environment.</li><li>Deep expertise designing, building and operating Azure infrastructure, including Landing Zones, Bicep (Infrastructure as Code), Container Apps, Networking, Azure API Management, Key Vault and RBAC.</li><li>Strong experience designing scalable cloud-native and microservices architectures.</li><li>Hands-on .NET development experience building REST APIs and modern web applications.</li><li>Experience with React and TypeScript front-end development.</li><li>Strong understanding of API integration patterns, enterprise integration and high-volume transactional systems.</li><li>Experience mentoring engineers through technical leadership, code reviews and engineering best practices.</li><li>Experience with Azure DevOps, GitHub Actions, CI/CD pipelines and DevOps practices.</li><li>Exposure to AI-assisted software engineering tools such as Claude Code, GitHub Copilot or similar.</li><li>Strong understanding of software architecture, scalability, security and engineering quality.</li><li>Experience working within a digital product or technology-led environment.</li><li>Experience with Microsoft Dynamics 365 Business Central will be highly regarded.</li></ul><p><strong>Benefits</strong></p><ul><li>$180,000-$185,000 + Super.</li><li>Permanent leadership opportunity within a growing technology business.</li><li>Hybrid working with three days per week onsite in Broadbeach.</li><li>Opportunity to shape the architecture of a large-scale platform transformation.</li><li>Work directly alongside Microsoft's solution architects through a strategic partnership.</li><li>Modern technology stack including Azure, .NET, React, TypeScript, Business Central and AI engineering tools.</li><li>High-impact role with genuine influence over engineering strategy and technical direction.</li></ul><p>If you're an experienced Technical Lead or Software Architect who enjoys balancing architecture, cloud engineering and hands-on development while mentoring high-performing engineering teams, we'd love to hear from you. Apply now or reach out for a confidential discussion.</p><p><strong>Technical Lead / Software Architect (.NET / React / Azure) | Permanent | $180,000-$185,000 + Super | Broadbeach, Gold Coast (Hybrid) | AI Agentic | Modernisation Project | Scaling Business </strong></p><p> </p>",
       "keywords": [
         "technical"
+      ]
+    },
+    {
+      "job_id": "93526169",
+      "job_title": "GIS Application Support Officer",
+      "business_name": "City of Gold Coast",
+      "work_type": "Full time",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "$101,616-$108,140 p/a plus superannuation",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93526169",
+      "advertiser_id": "16652581",
+      "posted_date": "2026-07-23T22:35:59Z",
+      "job_description": "<ul> <li><strong>Full Time / 9-day fortnight / 36 hours per week</strong></li> <li> <strong>Salary: </strong>$101,616 - $108,140 per annum, plus superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG1957/assets/31852468\">Geospatial Support Officer</a> </li> </ul> <p> </p> <p><strong>About the team</strong></p> <p>The City of Gold Coast is undergoing an exciting digital transformation and bringing critical IT and spatial services in-house. As part of this journey, we’re seeking a <strong>Geospatial Support Officer</strong> to strengthen our ArcGIS Enterprise platform by delivering innovative, integrated, and reliable geospatial applications and automation workflows.</p> <p>This is a key opportunity for a technically capable GIS or integration professional with strong troubleshooting and integration skills who thrive on solving complex spatial challenges and improving how the City uses location intelligence to serve the community.</p> <p><strong>About your new role </strong></p> <p>The Geospatial Support Officer is responsible for supporting the operation, monitoring, and maintenance of Council’s geospatial integration platform.</p> <p>It works closely with the Geospatial Application Developer and services and support teams to ensure the reliability, performance, and stability of integrations between ArcGIS and enterprise systems. This includes troubleshooting incidents, resolving data and workflow issues, and contributing to the continuous improvement of integration services.</p> <p>The role has a strong operational focus on FME workflows and integration services as the City’s primary spatial integration platform, while also supporting the appropriate use of other approved integration and data platforms where they form part of the geospatial data lifecycle.</p> <p><strong>What you'll do</strong></p> <p><strong> </strong><strong>1. Integration Support and Operations</strong></p> <ul> <li>Provide operational support for FME Form and FME Flow environments.</li> <li>Monitor, support, and maintain FME workflows, schedules, and automation processes.</li> <li>Investigate and resolve integration incidents, workflow failures, and data processing errors.</li> <li>Perform root cause analysis and implement corrective actions to minimise recurrence.</li> <li>Assist in the optimisation and enhancement of integration workflows and data pipelines.</li> </ul> <ul> <li>Assist with data transformation, migration, and integration tasks across spatial and non-spatial datasets.</li> <li>Collaborate with GIS teams to ensure FME processes align with ArcGIS data structures and publishing requirements.</li> </ul> <p><strong>2. ArcGIS Platform Support </strong></p> <ul> <li>Provide operational support for ArcGIS Enterprise services, applications, and integrations.</li> <li>Assist with troubleshooting issues related to web services, data publishing, and application functionality.</li> <li>Support the resolution of incidents escalated by business or ICT support teams.</li> </ul> <p><strong>3. Collaboration and Delivery</strong></p> <ul> <li>Work closely with the Geospatial Application Developer to support integration delivery and ongoing operations.</li> <li>Collaborate with ICT teams and business units to investigate and resolve integration-related issues.</li> <li>Contribute to minor enhancements, configuration changes, and deployment activities.</li> </ul> <p><strong>4. Documentation and Continuous Improvement</strong></p> <ul> <li>Maintain and update technical documentation, runbooks, and support procedures for integration services.</li> <li>Ensure support activities align with organisational ICT, security, and data governance standards.</li> <li>Identify opportunities to improve system stability, performance, and support processes.</li> </ul> <p><strong>5. Incident and Problem Management</strong></p> <ul> <li>Participate in incident and problem management processes, ensuring timely resolution and communication.</li> <li>Provide clear communication to stakeholders regarding issue status, impacts, and resolution outcomes.</li> </ul> <p><strong>We’re looking for people who have: </strong></p> <ul> <li>Diploma or Degree in Information Technology, Geospatial Science, or a related discipline; or equivalent practical experience.</li> <li>Demonstrated experience working with data integration tools (preferably FME or similar platforms).</li> <li>Experience supporting integration workflows, automation processes, or data pipelines.</li> <li>Strong troubleshooting and analytical problem-solving skills.</li> <li>Knowledge of ArcGIS Enterprise or comparable GIS platforms.</li> <li>Experience with Python scripting, REST APIs, and web mapping technologies (e.g. Esri Leaflet, JavaScript mapping libraries) is desirable.</li> <li>Understanding of IT service management practices (e.g. incident and problem management).</li> </ul> <p><strong>How to apply</strong></p> <p>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p> <p><strong>Contact Person</strong> Ashley Shannon</p> <p><strong>Contact Email</strong> <a href=\"mailto:ashannon@goldcoast.qld.gov.au\">ashannon@goldcoast.qld.gov.au</a></p> <p><strong>Closing Date</strong> Sunday 2nd August 2026 @ 11:59pm AEDT</p> <p> </p> <p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
+      "keywords": [
+        "gis",
+        "application",
+        "support",
+        "officer"
       ]
     },
     {
@@ -1661,6 +1716,47 @@
         "sr",
         "encapsulation",
         "operator"
+      ]
+    },
+    {
+      "job_id": "93117204",
+      "job_title": "Telecommunications Field Engineer",
+      "business_name": "AM CONNECTS PTY LTD",
+      "work_type": "Full time",
+      "job_type": "Telecommunications",
+      "pay_range": "$80,000 – $85,000 per year",
+      "area": "Beaudesert, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93117204",
+      "advertiser_id": "63764169",
+      "posted_date": "2026-07-03T12:05:01Z",
+      "job_description": "<p><strong>Telecommunications Field Engineer</strong></p><p>We are seeking an experienced <strong>Telecommunications Field Engineer</strong> to join our team. The role involves hands-on field work supporting the design, installation, commissioning, and maintenance of telecommunications networks, including fibre optic and other carrier infrastructure systems.</p><p>You will play a key role in ensuring reliable network performance, diagnosing complex faults, and supporting the delivery of high-quality telecommunications projects in the field.</p><p><strong>Key Responsibilities</strong></p><ul><li><p>Plan, design, and support telecommunications network infrastructure and associated equipment.</p></li><li><p>Install, commission, and monitor telecommunications networks, including fibre optic systems.</p></li><li><p>Conduct testing, fault finding, and performance evaluation of network equipment and infrastructure.</p></li><li><p>Identify and resolve complex technical issues in telecommunications networks.</p></li><li><p>Carry out site inspections, surveys, and quality assurance checks.</p></li><li><p>Provide technical advice and support to clients, contractors, and internal teams.</p></li><li><p>Ensure all work complies with safety standards, industry regulations, and project requirements.</p></li><li><p>Maintain accurate documentation, test results, and field reports.</p></li><li><p>Collaborate with engineers, technicians, and project teams to deliver successful outcomes.</p></li></ul><p><strong>Skills &amp; Experience</strong></p><ul><li><p>Relevant qualification in Telecommunications Engineering, Electronics, Electrical Engineering, or a related field.</p></li><li><p>Minimum 2 years’ experience in telecommunications on-field required.</p></li><li><p>Strong understanding of telecommunications systems, structured cabling, and network infrastructure.</p></li><li><p>Ability to interpret technical drawings, schematics, and network plans.</p></li><li><p>Hands-on experience with testing, commissioning, and fault diagnosis of network systems.</p></li><li><p>Strong problem-solving skills with the ability to manage complex technical issues.</p></li><li><p>Good communication skills and ability to work with clients and team members.</p></li><li><p>Valid driver’s licence and willingness to travel to various sites.</p></li></ul><p><strong>Mandatory Tickets &amp; Certifications required</strong></p><ul><li><p>First Aid Certificate (HLTAID011 or equivalent)</p></li><li><p>CPR Certification (HLTAID009 or equivalent)</p></li><li><p>Working at Heights Certification</p></li><li><p>Confined Space Entry Certification</p></li><li><p>Pole Access / Pole Top Rescue Certification (Energex Approved – Non-Electrical Worker Accreditation)</p></li><li><p>White Card (Construction Induction)</p></li><li><p>Fibre optic / telecommunications cabling accreditation (installation, splicing, testing)</p></li><li><p>Telecommunications industry safety induction (carrier or project specific)</p></li></ul><p><strong>Highly Desirable</strong></p><ul><li><p>Experience with OTDR testing, fibre splicing, and network loss testing.</p></li><li><p>Experience working in carrier networks or large-scale fibre deployments.</p></li><li><p>Civil or rigging experience in telecommunications infrastructure.</p></li><li><p>Additional electrical or communications certifications.</p></li></ul><p><strong>What We Offer</strong></p><ul><li><p>Competitive salary package (based on experience)</p></li><li><p>Company vehicle, tools, and equipment (where applicable)</p></li><li><p>Ongoing training and certification opportunities</p></li><li><p>Career progression in a growing telecommunications company</p></li><li><p>Strong safety-focused and supportive team culture</p></li></ul><p><strong>Job Type:</strong> Full-time<br><strong>Location: </strong>Beaudesert, Jimboomba, Tamborine Mt and nearby areas<br><strong>Salary:</strong> Starting from $80,0000</p>",
+      "keywords": [
+        "telecommunications",
+        "field",
+        "engineer"
+      ]
+    },
+    {
+      "job_id": "93109028",
+      "job_title": "Field Inspection and Maintenance Assistant - Brisbane North",
+      "business_name": "Telstra",
+      "work_type": "Contract/Temp",
+      "job_type": "Telecommunications",
+      "pay_range": "",
+      "area": "Nerang, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93109028",
+      "advertiser_id": "40749882",
+      "posted_date": "2026-07-03T06:30:57Z",
+      "job_description": "<p>We're an iconic Aussie brand with a global footprint. Our purpose is to build a connected future so everyone can thrive. We're all about providing the best experience and delivering the best tech on the best network.<br><br><strong>Looking for a hands-on career where you can make a real impact?</strong> We're encouraging First Nations peoples to apply for Field Inspection and Maintenance Assistant roles that help connect and support communities across Australia. You'll receive training, mentoring, and be part of a team that values your skills, experience, and story.<br><br><strong>Current locations in demand: QLD </strong>- Brisbane North<br><br><strong>About the role</strong><br>As a <strong>Field Inspection and Maintenance Assistant</strong>, you will work without immediate supervision or direction to provide our customers with a great experience by inspecting, servicing, and maintaining Network Assets or other elements of the Telecommunication Network.<br><br>You will actively participate in a diverse team environment to deliver the optimum customer and commercial outcomes aligned to the corporate strategy.<br><br>We have several positions available around the country. Find the specific locations below. The expectation is to reside in the targeted area or be willing to relocate.<br><br>This offer is a 12-month fixed term contract with opportunity for extension.<br><br><strong>Key Responsibilities:</strong><br> </p><ul><li>Deliver seamless Network rectification and remediation where required.<br> </li><li>Inspect and maintain Network Assets such as Poles, Payphones, Pits, and Exchange components.<br> </li><li>Ensure work is undertaken in a timely cost-effective manner, work efficiently and at a high standard to meet the performance targets set.<br> </li><li>Adhere to Health, Safety and Wellbeing standards, our Code of Conduct, our Telstra Values and Corporate policies.<br> </li></ul><p><br><strong>Qualifications:</strong><br>You will be required to hold and maintain the relevant and applicable licenses and qualifications to perform this role, as deemed mandatory by regulatory and legal authorities and must also maintain a current driver's license.<br> </p><ul><li>A valid car licence<br> </li><li>An industry white card<br> </li><li>Traffic management qualifications (beneficial)<br> </li><li>Working with Children Check<br> </li></ul><p><br>Telstra can support you through obtaining a Working With Children Check and White Card.<br><br><strong>Why Telstra?</strong><br>We're committed to creating a workplace that honours diversity and inclusion. That means real flexibility, inclusive policies, and leadership that walks the talk.<br><br><strong>What We Offer</strong><br> </p><ul><li><strong>Everything from head to toe.</strong> From the vehicle, tools, and equipment through to the full uniform, we provide it all.<br> </li><li><strong>8-hour shifts, Mon-Fri. </strong>Overtime when required.<br> </li><li><strong>12 Month Fixed Term Contract.</strong> With the opportunity for permanent contract thereafter.<br> </li><li><strong>Industry recognised training &amp; unlimited learning.</strong> Take part in industry recognised training courses and level up your skills with access to 17,000 on-demand learning programs.<br> </li><li><strong>Extra perks.</strong> Receive 30% off Telstra products and services, plus unlock exclusive discounts from over 240 brands and partners.<br> </li><li><strong>Plus so much more!</strong><br> </li></ul><p><br><strong>Inclusion Matters Here</strong><br>We're stronger when we reflect the communities we serve. At Telstra - we're committed to creating opportunities for First Nations peoples to pursue thriving careers with Telstra. Some of our Supportive policies include;<br> </p><ul><li>Cultural Leave. Enjoy dedicated cultural leave to participate in significant events - because your heritage and community connections matter.<br> </li><li>Flexible Work Options. Flexible work options tailored to your lifestyle and culture, including remote work - because how you work should reflect who you are.<br> </li><li>First Nations Employee Representative Group. To provide support, mentoring, foster understanding and strengthen connection with First Nation Australian Communities.<br> </li><li>Deadly Early Years Yarning Space. A space for connection, storytelling and peer support.<br> </li></ul><p><br><em>We have zero tolerance for harassment of any kind, and we prioritise creating a workplace culture where everyone is safe and can thrive.</em><br><br><em>We work flexibly at Telstra, talk to us about what flexibility means to you. When you apply, you can share your pronouns and /or any reasonable adjustments needed to take part equitably during the recruitment process.</em><br><br><strong>If this opportunity sounds like a perfect fit for you, we'd encourage you to apply!</strong><br> </p>",
+      "keywords": [
+        "field",
+        "inspection",
+        "maintenance",
+        "assistant",
+        "brisbane",
+        "north"
       ]
     }
   ]
