@@ -1,547 +1,441 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-03",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-04T06:56:00.960960+10:00",
-  "total_jobs": 68,
+  "scraped_at": "2026-08-03T06:43:36.563057+10:00",
+  "total_jobs": 65,
   "keywords": [
     {
       "term": "analyst",
-      "count": 12,
-      "share": 0.1765
+      "count": 10,
+      "share": 0.1538
     },
     {
       "term": "manager",
       "count": 10,
-      "share": 0.1471
+      "share": 0.1538
     },
     {
       "term": "support",
       "count": 10,
-      "share": 0.1471
+      "share": 0.1538
     },
     {
       "term": "engineer",
       "count": 9,
-      "share": 0.1324
+      "share": 0.1385
     },
     {
       "term": "business",
       "count": 8,
-      "share": 0.1176
+      "share": 0.1231
     },
     {
       "term": "officer",
       "count": 8,
-      "share": 0.1176
+      "share": 0.1231
     },
     {
       "term": "it",
       "count": 7,
-      "share": 0.1029
-    },
-    {
-      "term": "ict",
-      "count": 6,
-      "share": 0.0882
+      "share": 0.1077
     },
     {
       "term": "developer",
       "count": 5,
-      "share": 0.0735
+      "share": 0.0769
     },
     {
       "term": "specialist",
       "count": 5,
-      "share": 0.0735
+      "share": 0.0769
+    },
+    {
+      "term": "ict",
+      "count": 5,
+      "share": 0.0769
     },
     {
       "term": "technology",
       "count": 5,
-      "share": 0.0735
+      "share": 0.0769
     },
     {
       "term": "project",
       "count": 4,
-      "share": 0.0588
+      "share": 0.0615
+    },
+    {
+      "term": "network",
+      "count": 4,
+      "share": 0.0615
     },
     {
       "term": "technical",
       "count": 4,
-      "share": 0.0588
+      "share": 0.0615
     },
     {
       "term": "infrastructure",
       "count": 4,
-      "share": 0.0588
-    },
-    {
-      "term": "network",
-      "count": 3,
-      "share": 0.0441
+      "share": 0.0615
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0441
+      "share": 0.0462
     },
     {
       "term": "software",
       "count": 3,
-      "share": 0.0441
+      "share": 0.0462
     },
     {
       "term": "automation",
       "count": 3,
-      "share": 0.0441
+      "share": 0.0462
     },
     {
-      "term": "operations",
+      "term": "technician",
       "count": 3,
-      "share": 0.0441
+      "share": 0.0462
     },
     {
       "term": "ai",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0308
     },
     {
       "term": "ongc",
       "count": 2,
-      "share": 0.0294
-    },
-    {
-      "term": "data",
-      "count": 2,
-      "share": 0.0294
+      "share": 0.0308
     },
     {
       "term": "platform",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0308
     },
     {
       "term": "integration",
       "count": 2,
-      "share": 0.0294
-    },
-    {
-      "term": "technician",
-      "count": 2,
-      "share": 0.0294
+      "share": 0.0308
     },
     {
       "term": "ffs",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0308
     },
     {
       "term": "director",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0308
+    },
+    {
+      "term": "operations",
+      "count": 2,
+      "share": 0.0308
     },
     {
       "term": "systems",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0308
     },
     {
       "term": "development",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0308
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0308
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "solutions",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
-      "term": "applications",
+      "term": "data",
       "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "advisor",
-      "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "timetabling",
-      "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "examinations",
-      "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "insights",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "hr",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "transformation",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "process",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "improvement",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "fabric",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "commerce",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "developers",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "php",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "wordpress",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "heads",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "days",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "per",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "week",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "dotnet",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "architecture",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "staff",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "helpdesk",
-      "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
+    },
+    {
+      "term": "helpdesk",
+      "count": 1,
+      "share": 0.0154
     },
     {
       "term": "api",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "back",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "office",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "help",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "desk",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "assistant",
       "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "application",
-      "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "custodian",
-      "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "coordinator",
-      "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "sr",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "encapsulation",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "operator",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "service",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "governance",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
+    },
+    {
+      "term": "converged",
+      "count": 1,
+      "share": 0.0154
     },
     {
       "term": "telecommunications",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "rod",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "rope",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "cable",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "hauler",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "seo",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "ui",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "ux",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "landing",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "page",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "leadify",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0154
     }
   ],
   "jobs": [
-    {
-      "job_id": "93720490",
-      "job_title": "Senior Applications Analyst",
-      "business_name": "Queensland Airports Limited",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "",
-      "area": "Bilinga, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93720490",
-      "advertiser_id": "24200181",
-      "posted_date": "2026-08-03T05:38:29Z",
-      "job_description": "<p>Queensland Airports Limited (QAL) is seeking an experienced Senior Applications Analyst to join our Technology team. This is a great career opportunity to play a key role in supporting, enhancing and optimising the business applications that help connect our people, operations and airport communities.</p>\n\n<p>In this role, you will provide application support, analysis and continuous improvement across QAL’s enterprise application environment. Working closely with internal stakeholders, vendors and the broader Technology team, you will help ensure our systems are reliable, secure, fit for purpose and aligned to business needs.</p>\n\n<p>&nbsp;</p>\n\n<p>Aryan joined the Technology team in 2025 as a Support Analyst and has since moved into a Cyber Security Analyst position. Aryan shares his unique experience working in the QAL team:</p>\n\n<p>&nbsp;</p>\n\n<p><i>“I joined QAL because of its strong emphasis on professionalism and teamwork. What I value most is the collaborative culture, where team members actively share knowledge and support one another’s growth.</i>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><i>QAL provides me with a supportive and motivating environment, and I am proud to be part of the organisation.”</i>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><b>How will you make an impact?</b></p>\n\n<p>Reporting to the Business Technology Manager, you will be responsible for supporting and improving QAL’s business applications, with a focus on delivering practical technology solutions that improve user experience, streamline processes and support operational performance.</p>\n\n<p>The ideal candidate will be a proactive and customer-focused applications professional with strong analytical skills, sound technical capability and the ability to translate business requirements into effective system outcomes. You will be confident working across multiple applications, managing competing priorities and building trusted relationships with stakeholders across the business.</p>\n\n<p>&nbsp;</p>\n\n<p><b>Key deliverables/responsibilities </b></p>\n\n<p>In this role, you will support the effective delivery, administration and improvement of QAL’s application landscape. Your key responsibilities will include but are not limited to:</p>\n\n<ul>\n\t<li>Providing advanced application support, analysis and troubleshooting across QAL’s business systems.</li>\n\t<li>Working with stakeholders to understand business requirements, identify improvement opportunities and deliver fit-for-purpose application solutions.</li>\n\t<li>Supporting system configuration, testing, upgrades, enhancements and release activities.</li>\n\t<li>Contributing to application governance, documentation, user guides, process mapping and knowledge sharing.</li>\n\t<li>Partnering with vendors and internal teams to resolve issues, manage changes and support continuous improvement initiatives.</li>\n\t<li>Supporting data quality, reporting, integration and automation opportunities across enterprise applications.</li>\n</ul>\n\n<p><b>How we support you?</b></p>\n\n<p>At Queensland Airports Limited (QAL), we believe work should support life, not compete with it. Through our&nbsp;<i>Living Well</i>&nbsp;approach, we offer flexible working options for all roles, wellbeing initiatives and a supportive culture so our people can thrive both professionally and personally.</p>\n\n<p>As we continue to grow and transform, we encourage flexible ways of working and open conversations about how work fits alongside life. We also invest in our people through learning, mentoring and career pathways across our four airports.</p>\n\n<p>&nbsp;</p>\n\n<p><b>What we’ve built together</b></p>\n\n<p>At QAL, our people connect communities. We own and operate Gold Coast, Townsville, Mount Isa and Longreach airports, linking regional Queensland and northern New South Wales with the rest of Australia and the world.</p>\n\n<p>More than 8 million passengers travel through our airports each year, supported by teams working together to create safe, welcoming and efficient experiences. Our vision is to be the first-choice gateway for our regions, creating valuable connections and inspiring a sustainable future.</p>\n\n<p>We’re committed to an inclusive and psychologically safe workplace where people feel valued, supported and encouraged to be themselves. We welcome applications from people of all backgrounds and experiences, including Aboriginal and Torres Strait Islander peoples, and encourage you to apply even if you don’t meet every requirement.</p>\n\n<p>QAL is a WORK180 Endorsed Employer, independently recognised for supporting long‑term careers, flexibility, wellbeing and equal opportunity. Learn more about working at QAL here.</p>\n\n<p>The successful candidate will be required to adhere to QAL’s Drug and Alcohol Management Plan (DAMP), which includes pre-employment Drug and Alcohol Testing and have the ability to obtain an Aviation Security Identification Card (ASIC), which requires the completion of a Police Check.</p>\n\n<p>Please obtain the Position Description by clicking&nbsp;HERE, or if you are on Seek, by copying the following location into your browser to access the Position Description through our careers site:&nbsp;https://qal.elmotalent.com.au/careers/QALcareers/jobs</p>",
-      "keywords": [
-        "applications",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "93725201",
-      "job_title": "Application Custodian",
-      "business_name": "Infinite Care",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93725201",
-      "advertiser_id": "34630605",
-      "posted_date": "2026-08-03T02:40:55Z",
-      "job_description": "<div><div>\n<p><strong>Exciting times!!! With growth comes new opportunities!!!</strong></p>\n<p>At<strong> Infinite Care </strong>we are seeking another Application Custodian to join our already amazing team.</p>\n<p>Residential Aged Care Providers Australia | Infinite Aged Care</p>\n<p>Reporting to our <strong>Head of Application Support</strong>, the <strong>Application Custodian </strong>will be responsible for overseeing all company-used applications - research, procure, install, configure, monitor, and maintain software applications. Ensure applications are functional, secure, and meet organisational needs. This role ensures the effective management of security groups, permissions, and documentation of all of our applications. The Application Custodian will also develop documentation and user guides, provide training to the ICT team for level 1 support, and offer end-user training to promote user adoption. Additionally, they will manage cybersecurity related to applications, ensuring best practices are met, and assist with application interoperability.&nbsp;</p>\n<p>This role is full time and remote or hybrid opportunities may be available for the right candidate.</p>\n<p><strong>The key responsibilities for this role are, but not limited to:</strong>&nbsp;</p>\n<ul>\n<li>Oversee the management of security groups and permissions for all applications to ensure secure and efficient access control.</li>\n<li>Develop and maintain comprehensive documentation for all applications, including user guides and technical manuals.</li>\n<li>Provide training to the IT team for level 1 support and offer end-user training to promote user adoption and effective use of applications.</li>\n<li>Manage cybersecurity aspects related to applications, ensuring that all security protocols and best practices are followed.</li>\n<li>Collaborate with other IT team members and departments to resolve complex technical issues, share knowledge, and implement IT projects and improvements.</li>\n<li>Identify recurring issues and propose solutions to prevent future incidents. Contribute to the improvement of IT processes and procedures to enhance overall service delivery.</li>\n<li>Provide remote assistance to off-site or remote users, ensuring consistent and efficient support regardless of the user's location.&nbsp;</li>\n</ul>\n<p><strong>About You:</strong></p>\n<ul>\n<li>\n<strong>Resident-Centric Mindset:</strong>&nbsp;Hold a resident-centric mindset which flows through to all aspects of your work.</li>\n<li>\n<strong>Communication Skills</strong>:&nbsp;Excellent verbal and written communication skills to effectively interact with end-users, translate technical jargon into layman's terms, and produce clear and concise documentation.</li>\n<li>\n<strong>Customer Service Orientation</strong>:&nbsp;A strong commitment to customer satisfaction and service excellence. The ability to remain calm, patient, and empathetic when dealing with end-users' technical frustrations.</li>\n<li>\n<strong>Problem-Solving Ability</strong>:&nbsp;Strong analytical and problem-solving skills to identify and resolve technical issues promptly and efficiently.</li>\n<li>\n<strong>Team</strong> <strong>Player</strong>:&nbsp;A collaborative attitude and the ability to work effectively as part of a team to achieve common goals.</li>\n<li>\n<strong>Qualifications: </strong>A degree in Information Technology, Computer Science, or a related field is preferred.</li>\n<li>\n<strong>Experience </strong>with any of the following applications would be highly regarded: Clinical Manager, Resident Manager, BestMed, CarePage, iChris (Frontier), TechnologyOne, Humanforce WFM, Atlassian (Jira/JSM), DocuSign, Ausmed, Simple Food, Zipline, and Microsoft 365/Entra ID.</li>\n<li>\n<strong>You have:</strong> Proven experience in application management and cyber security within a clinical environment, ideally aged care and demonstrated experience with vendor engagement and service delivery.</li>\n</ul>\n<p><strong>As part of being an Infinite Aged care employee you will be required to complete pre-employment checks.</strong></p>\n<p><strong>Infinite Care’s Employee Benefits:</strong></p>\n<ul>\n<li>Fitness Passport to access discounted fitness and wellbeing sessions.</li>\n<li>Discounted Health Insurance.</li>\n<li>Access to in-house and online training programs - FREE to all employees.</li>\n<li>Access to our EAP.</li>\n<li>Work-Rite Micro professional development - FREE to all employees.</li>\n<li>Access to non-for-profit (NFP) salary sacrificing employee benefits</li>\n<li>Defence/Military Veterans are encouraged to apply.</li>\n</ul>\n<p><strong>If you would like to know more about us or this position before applying, then please reach out to our recruitment specialist managing this assignment – Teri via email </strong><a href=\"mailto:teri.vallely@infin8care.com.au\">teri.vallely@infin8care.com.au</a><strong> </strong></p>\n<p><strong>We regret we cannot receive applications via email.</strong></p>\n</div></div>",
-      "keywords": [
-        "application",
-        "custodian"
-      ]
-    },
-    {
-      "job_id": "93708654",
-      "job_title": "Advisor and Data Analyst, Timetabling and Examinations",
-      "business_name": "Bond University",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "$85,707 per annum plus 12% super",
-      "area": "Robina, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93708654",
-      "advertiser_id": "20551487",
-      "posted_date": "2026-08-02T23:52:38Z",
-      "job_description": "<p><strong>As Australia’s first private non-profit university, Bond University seeks to be recognised internationally as a leading independent university, imbued with a spirit to innovate, a commitment to influence and a dedication to inspire tomorrow’s professionals who share a personalised and transformational student experience.</strong></p><p><br></p><p><strong>Advisor and Data Analyst, Timetabling and Examinations</strong><br><strong>Student Business Services&nbsp;</strong><br><strong>Full time, Continuing Appointment&nbsp;</strong><br><strong>Position Reference No:</strong>&nbsp;<strong>184666763</strong></p><p><br></p><p><strong>Join Australia’s top university for teaching* and enjoy staff benefits including</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free staff car parking</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 36.75 hour standard work week</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Access to flexible work/work from home arrangements#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 18/26 weeks of parental leave#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Salary packaging options for FBT and Non-FBT items#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17.5% of base salary leave loading</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Staff wellbeing program</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free &amp; Confidential Employee Assistance Program available for all staff</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Study assistance for staff and dependents#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Corporate health and finance discounts</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Medical Centre and Counselling Services</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Sports Centre including gym, fitness classes and pool#</p><p><br></p><p><strong>About the Position:&nbsp;</strong></p><p>The Student Business Services Department aims to deliver efficient and professional administrative services to students and staff for activities associated with the enrolment, examination, and graduation of students in conjunction with a demonstrated commitment to ongoing process review and improvement.</p><p><br></p><p>Reporting to the Manager, Timetabling &amp; Examinations, the Advisor and Data Analyst will work as part of a team on the timely and accurate production of class and examination timetables for each semester of study (three times per year) and advising students in the class registration process. This involves data analysis and interpretation of course information and requirements into effective timetables, as well as providing advice and customer service to staff and students in resolving their queries regarding class and examination timetables and subsequent class registration.</p><p><strong>&nbsp;</strong></p><p><strong>About the Person:&nbsp; <br></strong>Ideally, the successful candidate will have:</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A degree level qualification from a recognised educational institution.&nbsp;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrated knowledge of timetabling systems, student class registration systems and student management systems.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Problem solving, high-level time management and organisational skills.&nbsp;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrated high level analytical and problem-solving skills including attention to detail</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well-developed computer skills particularly in the use of databases and student management systems.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The ability to build relationships with a wide range of internal and external stakeholders</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A great work ethic and feel confident in progressing multiple tasks.</p><p><br></p><p><strong>Salary details: <br></strong>The salary for this full-time position (36.75 hours per week) commences at $85,707.07 per annum plus 12% superannuation.</p><p><br></p><p><strong>Further information: <br></strong>Position related enquiries can be directed to Todd Rogers, Senior Manager, Business Services on <a href=\"tel:(07) 5595 5531\">(07) 5595 5531</a> or <a href=\"mailto:torogers@bond.edu.au\" target=\"_blank\">torogers@bond.edu.au</a></p><p><br></p><p><strong>How to apply for this position:</strong><br>For further details regarding this appointment, please reference the <a href=\"https://bond.edu.au/sites/default/files/2025-02/PD_Advisor%20and%20Data%20Analyst%20Timetabling%20and%20Examinations.pdf\" target=\"_blank\">Position Description and Selection Criteria</a></p><p><br></p><p>Click&nbsp;<em>Apply Now</em>&nbsp;and&nbsp;<em>Create New Account</em>&nbsp;to get started. You can:</p><ul><li><p>Upload your Resume – your account will be created automatically, or</p></li><li><p>Manually enter your details to set up your account.</p></li></ul><p>Please ensure your application includes:</p><ul><li><p>A current resume</p></li><li><p>A cover letter addressing the Selection Criteria outlined in the Position Description above</p></li></ul><p><br></p><p>For current Bond University staff, apply directly via <a href=\"https://hrconnect.bond.edu.au/\" target=\"_blank\">People Connect</a>, log in with staff credentials, from the Home dashboard select Careers, select the role and apply.</p><p><br><br>If you require any assistance with your application submission, please visit <a href=\"https://bond.edu.au/about-bond/careers-bond/applying-jobs-bond\" target=\"_blank\">Applying for jobs at Bond</a>.</p><p><strong>&nbsp;</strong></p><p><strong>Applications close: 11:59pm, Sunday 16 August 2026</strong></p><p><br></p><p><em>Pre-employment checks: Appointment is subject to satisfactory pre-employment checks (including working rights verification, reference checks and a certified copy of your highest qualification). In line with the National Higher Education Code to Prevent and Respond to Gender-based Violence 2025, preferred candidates must complete a Gender-Based Violence (GBV) Declaration, and any offer of employment will be conditional upon the University’s review of the declaration. For more information, please visit our website via this link: </em><a href=\"https://bond.edu.au/our-university/careers-at-bond/applying-for-jobs-at-bond\" target=\"_blank\"><em>Applying for Jobs at Bond</em></a></p><p><strong>&nbsp;</strong></p><p><strong>Conditions of employment are offered under a Bond Workplace Agreement (BWA).</strong></p><p><br></p><p>Bond University is an equal opportunity employer, and we encourage our students and staff to respect individuality, inclusiveness and diversity.&nbsp; In line with Bond University’s values, people from diverse backgrounds, women, Aboriginal and Torres Strait Islander people, people who identify as LGBTIQ+, and people with a disability are encouraged to apply for positions at the University<strong>.</strong></p><p><br></p><p>Please advise the Talent Acquisition Team if you require any reasonable accommodations to assist you at anytime during the recruitment process.</p><p><strong>&nbsp;</strong></p><p><strong>For more information, visit </strong><a href=\"https://bond.edu.au/our-university/supporting-diversity-at-bond#:~:text=At%20Bond%2C%20we%20foster%20diversity%20and%20inclusion%20through,students%20and%20staff%20from%20more%20than%2090%20countries.\" target=\"_blank\">Supporting diversity at Bond | Bond University | Gold Coast, Queensland, Australia</a></p><p><a href=\"https://bond.edu.au/privacy\" target=\"_blank\">Bond University Privacy Policy</a></p><p>#Eligibility criteria or membership fees apply<br>*Australian Financial Review’s Best Universities Ranking 2024</p>",
-      "keywords": [
-        "advisor",
-        "data",
-        "analyst",
-        "timetabling",
-        "examinations"
-      ]
-    },
-    {
-      "job_id": "93681917",
-      "job_title": "Coordinator ICT Operations",
-      "business_name": "Capital Talent Consulting Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Management",
-      "pay_range": "$122,000 – $138,000 per year",
-      "area": "Beaudesert, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93681917",
-      "advertiser_id": "28554175",
-      "posted_date": "2026-07-31T06:02:17Z",
-      "job_description": "<p>We are partnering with a large organisation to recruit a Coordinator - ICT Operations to join their team on a permanent basis.&nbsp; This role will be accountable for the management of the organisations Information and Communication Technology (ICT) infrastructure, business systems and provision of IT service desk support. This position has a strong focus on improvement, cyber security, delivery of projects, system resilience and vendor management and will also ensure ICT Disaster Recovery processes and procedures are maintained and tested. As a key member of the ICT leadership team, this role contributes to developing and executing the ICT Strategic plan and ensuring service delivery meets the needs of the organisation.</p><p>&nbsp;You will coordinate the operational availability, efficiency, security, and support of the organisations ICT infrastructure and Business Systems within a hybrid ICT environment that includes a mixture of in-house and vendor managed services inclusive of server (virtual and physical), network (LAN/WAN/Microwave/VPN/Wi-Fi), unified communications and end user computing devices (Desktops/Laptops/Mobile Devices), along with business systems including the TechnologyOne ERP suite, GIS platforms.</p><p>The successful candidate will have the following skills/experience:</p><ul><li><p>Relevant tertiary qualifications and/or extensive equivalent experience within a large, complex and rapidly changing organisation with specific focus on ICT management or ICT operations</p></li><li><p>Strategic management and leadership skills in driving people, process and technology change in a dynamic and complex environment, particularly ICT service management and ICT operations best practice.</p></li><li><p>Ability to build and maintain professional internal and external client relationships including with vendors</p></li><li><p>ITIL certification preferred or the ability to attain within 3 months.</p></li><li><p>Ability to legally operate a motor vehicle under a C Class Licence.</p></li><li><p>Knowledge of, and experience in, project management frameworks, analysing business requirements and implementing business system enhancements to facilitate achievement of business objectives.</p></li><li><p>Understanding of the IT industry and the implications of emerging approaches</p></li><li><p>Ability to develop, implement and monitor quality processes to ensure consistent and professional service support and delivery in line with ITIL principles.</p></li><li><p>Substantial experience in a senior ICT Operations Manager role within a large and complex, multi-site environment.</p></li><li><p>Experience in leading an ICT service desk, business applications and infrastructure teams</p></li></ul><p>This is a rare permanent opportunity that combines strong technical expertise with leadership, operational management, and strategic thinking. If this sounds like you, please apply online now. Please note, this role is based in Beaudesert, Brisbane. You must reside in Brisbane or looking to relocate.</p>",
-      "keywords": [
-        "coordinator",
-        "ict",
-        "operations"
-      ]
-    },
     {
       "job_id": "93681673",
       "job_title": "Microsoft Fabric Platform Administrator",
@@ -881,7 +775,7 @@
       "url": "https://www.seek.com.au/job/93562332",
       "advertiser_id": "16652581",
       "posted_date": "2026-07-26T22:37:56Z",
-      "job_description": "<ul> <li><strong>Full Time (3x opportunities available) | 9-day fortnight | 36 hours per week </strong></li> <li> <strong>Salary: </strong>From $111,401 - $ 117,924 per annum plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG1813/assets/31449818\">Senior Integration Developer</a> </li> </ul> <p> </p> <p><strong>About the team</strong></p> <p>We're entering a new chapter for the Chief Technology Office at the City of Gold Coast as we deliver bold, future-focused solutions. With the launch of our IT Operating Model and the transition of critical IT services in-house, we are transforming the way we deliver technology, making it faster, more responsive, and more aligned with the needs of our organisation and customers.As part of this transformation, we're hiring multiple new positions. These roles are key to shaping a vibrant and forward-thinking Chief Technology Office, one that adds real value, delivers better outcomes, and works in smarter, more agile ways.You’ll be part of a forward-thinking team delivering innovative, enterprise-scale integration solutions. This is your chance to influence architecture, drive automation, and help shape a connected digital ecosystem.</p> <p><strong>About the role</strong></p> <p>As a Senior Integration Engineer, you’ll design, build, and support integrations across internal systems, cloud platforms, and third-party applications. You’ll play a key role in enabling seamless data flow through APIs, middleware, and modern integration patterns ensuring solutions are secure, scalable, and high-performing.</p> <p><strong>We’re looking for people who have:</strong></p> <p>• Bachelor’s degree in IT, Computer Science or related field (or equivalent experience)• Relevant certification in Azure, cloud or integration technologies (desirable)<br>• Extensive experience supporting, maintaining and enhancing enterprise integration solutions<br>• Strong hands-on experience with <strong>Azure Integration Services</strong>, including Logic Apps, Azure Functions, API Management (APIM) and Service Bus<br>• Experience working with enterprise systems, APIs, middleware, messaging and data exchange processes<br>• Demonstrated ability to troubleshoot, diagnose and resolve complex integration issues and optimise existing integrations<br>• Experience with integration monitoring, production support, incident and problem management<br>• Experience building CI/CD pipelines using GitLab<br>• Experience with ITIL/service management practices<br>• Strong analytical, problem-solving, communication and stakeholder management skills</p> <p><strong>Be part of shaping the Gold Coast’s future </strong></p> <p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p> <p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p> <ul> <li> <p>9-day fortnight </p> </li> </ul> <ul> <li> <p>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations </p> </li> </ul> <ul> <li> <p>Personal and professional development courses </p> </li> </ul> <ul> <li> <p>Access to 350+ fitness facilities through Fitness Passport </p> </li> </ul> <ul> <li> <p>4 free confidential counselling sessions a year for you or an immediate family member </p> </li> </ul> <ul> <li> <p>1 free nutritionist and financial advice session per year </p> </li> </ul> <p> We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p> <p><strong>How to apply</strong></p> <p>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p> <p><strong>Contact Person</strong> Ashley Shannon</p> <p><strong>Contact Email</strong> <a href=\"mailto:ashannon@goldcoast.qld.gov.au\">ashannon@goldcoast.qld.gov.au</a></p> <p><strong>Closing Date</strong> Wednesday 5th of August 2026, 11:59pm AEDT</p> <p> </p> <p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
+      "job_description": "<ul> <li><strong>Full Time (2x opportunities available) | 9-day fortnight | 36 hours per week </strong></li> <li> <strong>Salary: </strong>From $111,401 - $ 117,924 per annum plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG1813/assets/31449818\">Senior Integration Developer</a> </li> </ul><p> </p><p><strong>About the team</strong></p><p>We're entering a new chapter for the Chief Technology Office at the City of Gold Coast as we deliver bold, future-focused solutions. With the launch of our IT Operating Model and the transition of critical IT services in-house, we are transforming the way we deliver technology, making it faster, more responsive, and more aligned with the needs of our organisation and customers.As part of this transformation, we're hiring multiple new positions. These roles are key to shaping a vibrant and forward-thinking Chief Technology Office, one that adds real value, delivers better outcomes, and works in smarter, more agile ways.You’ll be part of a forward-thinking team delivering innovative, enterprise-scale integration solutions. This is your chance to influence architecture, drive automation, and help shape a connected digital ecosystem.</p><p><strong>About the role</strong></p><p>As a Senior Integration Engineer, you’ll design, build, and support integrations across internal systems, cloud platforms, and third-party applications. You’ll play a key role in enabling seamless data flow through APIs, middleware, and modern integration patterns ensuring solutions are secure, scalable, and high-performing.</p><p><strong>We’re looking for people who have:</strong></p><p>• Bachelor’s degree in IT, Computer Science or related field (or equivalent experience)• Relevant certification in Azure, cloud or integration technologies (desirable)<br>• Extensive experience supporting, maintaining and enhancing enterprise integration solutions<br>• Strong hands-on experience with <strong>Azure Integration Services</strong>, including Logic Apps, Azure Functions, API Management (APIM) and Service Bus<br>• Experience working with enterprise systems, APIs, middleware, messaging and data exchange processes<br>• Demonstrated ability to troubleshoot, diagnose and resolve complex integration issues and optimise existing integrations<br>• Experience with integration monitoring, production support, incident and problem management<br>• Experience building CI/CD pipelines using GitLab<br>• Experience with ITIL/service management practices<br>• Strong analytical, problem-solving, communication and stakeholder management skills </p><p><strong>Be part of shaping the Gold Coast’s future </strong></p><p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p><p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p><ul> <li> <p>9-day fortnight </p> </li> </ul><ul> <li> <p>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations </p> </li> </ul><ul> <li> <p>Personal and professional development courses </p> </li> </ul><ul> <li> <p>Access to 350+ fitness facilities through Fitness Passport </p> </li> </ul><ul> <li> <p>4 free confidential counselling sessions a year for you or an immediate family member </p> </li> </ul><ul> <li> <p>1 free nutritionist and financial advice session per year </p> </li> </ul><p> We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p><p><strong>How to apply</strong></p><p>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p><p><strong>Contact Person</strong> Ashley Shannon</p><p><strong>Contact Email</strong> <a href=\"mailto:ashannon@goldcoast.qld.gov.au\">ashannon@goldcoast.qld.gov.au</a></p><p><strong>Closing Date</strong> Wednesday 5th of August 2026, 11:59pm AEDT </p><p> </p><p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
       "keywords": [
         "integration",
         "developers"
@@ -1049,6 +943,25 @@
       "job_description": "<p><strong>Technical Lead / Software Architect (.NET / React / Azure) | Permanent | $180,000-$185,000 + Super | Broadbeach, Gold Coast (Hybrid) | AI Agentic | Modernisation Project | Scaling Business </strong></p><p><strong>About the Company</strong></p><p>Our client is a leading travel technology business with ambitious international growth plans and a significant investment in modernising its technology landscape. Operating as an independent technology team, they're embarking on a major transformation to replace a 20-year legacy platform with a modern Microsoft ecosystem that will support the business for years to come.</p><p>With a strategic partnership with Microsoft, the engineering team works closely with Microsoft's own solution architects to shape best practice architecture, leverage emerging technologies and deliver innovative digital products across the travel industry.</p><p>This role would suit someone with extensive experience in a Microsoft environment, combining deep Azure architecture expertise with hands-on .NET development.</p><p><strong>About the Role</strong></p><p>This is a senior individual contributor position that combines technical leadership, software architecture and hands-on engineering. Reporting to the Head of Engineering, you'll own the technical direction for a team of five engineers while partnering closely with the Solution Architect to design scalable, cloud-native solutions.</p><p>You'll spend approximately 70% of your time driving architecture, mentoring engineers and making key technical decisions, with the remaining 30% remaining hands-on across full-stack development.</p><p>A key focus of the role will be designing and operating Azure infrastructure, building scalable API integrations and modern microservices architecture that powers real-time travel booking platforms. You'll also play a leading role in the team's adoption of AI-assisted software engineering, establishing standards and best practices for tools such as Claude Code and GitHub Copilot.</p><p>Working across customer booking platforms, consultant portals and partner applications, you'll help shape the architecture that underpins the next phase of the company's international growth.</p><p><strong>Key Skills</strong></p><ul><li>Extensive experience as a Technical Lead, Lead Software Engineer or Software Architect within a Microsoft environment.</li><li>Deep expertise designing, building and operating Azure infrastructure, including Landing Zones, Bicep (Infrastructure as Code), Container Apps, Networking, Azure API Management, Key Vault and RBAC.</li><li>Strong experience designing scalable cloud-native and microservices architectures.</li><li>Hands-on .NET development experience building REST APIs and modern web applications.</li><li>Experience with React and TypeScript front-end development.</li><li>Strong understanding of API integration patterns, enterprise integration and high-volume transactional systems.</li><li>Experience mentoring engineers through technical leadership, code reviews and engineering best practices.</li><li>Experience with Azure DevOps, GitHub Actions, CI/CD pipelines and DevOps practices.</li><li>Exposure to AI-assisted software engineering tools such as Claude Code, GitHub Copilot or similar.</li><li>Strong understanding of software architecture, scalability, security and engineering quality.</li><li>Experience working within a digital product or technology-led environment.</li><li>Experience with Microsoft Dynamics 365 Business Central will be highly regarded.</li></ul><p><strong>Benefits</strong></p><ul><li>$180,000-$185,000 + Super.</li><li>Permanent leadership opportunity within a growing technology business.</li><li>Hybrid working with three days per week onsite in Broadbeach.</li><li>Opportunity to shape the architecture of a large-scale platform transformation.</li><li>Work directly alongside Microsoft's solution architects through a strategic partnership.</li><li>Modern technology stack including Azure, .NET, React, TypeScript, Business Central and AI engineering tools.</li><li>High-impact role with genuine influence over engineering strategy and technical direction.</li></ul><p>If you're an experienced Technical Lead or Software Architect who enjoys balancing architecture, cloud engineering and hands-on development while mentoring high-performing engineering teams, we'd love to hear from you. Apply now or reach out for a confidential discussion.</p><p><strong>Technical Lead / Software Architect (.NET / React / Azure) | Permanent | $180,000-$185,000 + Super | Broadbeach, Gold Coast (Hybrid) | AI Agentic | Modernisation Project | Scaling Business </strong></p><p> </p>",
       "keywords": [
         "technical"
+      ]
+    },
+    {
+      "job_id": "93525223",
+      "job_title": "Converged Network Technician",
+      "business_name": "Department of Health - Queensland",
+      "work_type": "Full time",
+      "job_type": "Telecommunications",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93525223",
+      "advertiser_id": "32285210",
+      "posted_date": "2026-07-23T18:45:08Z",
+      "job_description": "<div>\n \n <p>Take the next step in your career with this exciting opportunity within eHealth. To provide advanced technical advice, direction and support in the converged network and unified communications technical domain, to enable the delivery of timely and high quality services across a large scale, highly complex IM/ICT environment.</p>\n </div>\n<div>\n <p><strong>What you'll do&nbsp;</strong>&nbsp;</p>\n<ul>\n<li>Provide high level technical knowledge advice and skills in both the analysis of converged network systems and the design and management of complex system integrations. This includes the formulation, design and provision of appropriate solutions, improvements and technical design documents for use in complex and clinical installations.</li>\n<li>Lead 2nd level support resolution, advising on direction and instigating alternative courses of action when deemed appropriate.</li>\n<li>Document and maintain the converged network infrastructure within the Digital Partnership Team encompassing touch points across all connected systems including unified communications infrastructure.</li>\n<li>Monitor and prepare appropriate reports, documentation and recommendations on the operational performance of the enterprise infrastructure within the Digital Partnership Team.</li>\n<li>Provide input into effective change, problem management, capacity planning, incident management, risk management and continuity planning utilising industry best practices in systems support and service delivery, compliant with the Information Technology Infrastructure Library (ITIL) framework.</li>\n</ul>\n<p><strong>About you&nbsp;</strong>&nbsp;</p>\n<p>We are searching for someone who has:</p>\n<ul>\n<li>Provide advanced technical expertise in converged networks to determine technical direction, standardisation, professional advice and support of enterprise infrastructure in a large customer focus organisation, using the following (or similar) technologies:\n<ul>\n<li>Cisco LAN and Data Centre design including Layer2/Layer 3 routing protocols and configuration of VLAN's, MPLS, VPLS and VRF.</li>\n<li>Cisco Wireless technologies; Design and configuration of Cisco Wireless Controllers and Access Points.</li>\n<li>Wireless site survey and troubleshooting skills, including location/mobility services such as Cisco MSE and CMX</li>\n<li>Integration of wireless IP handsets to CUCM including messaging and duress systems.</li>\n<li>Voice over IP technologies and protocols (H.323, SIP, SCCP, etc.)</li>\n</ul>\n</li>\n<li>Demonstrated skills in the analysis and problem solving of converged network issues and the formulation, design and provision of appropriate solutions and improvements, including the recommendation, documentation and implementation of ICT changes. (SFIA: TECH Level 5, EMRG Level 4, NTPL Level 5 )</li>\n<li>Demonstrated ability to lead a team of technical staff to achieve and exceed defined service levels, incorporating training and staff development opportunities. (NHS: Drive for Results, SFIA: ITMG Level 5)</li>\n</ul>\n<p><strong>Why work with us?&nbsp;</strong>&nbsp;</p>\n<ul>\n<li>Demonstrated ability to lead a team of technical staff to achieve and exceed defined service levels, incorporating training and staff development opportunities. (NHS: Drive for Results, SFIA: ITMG Level 5)</li>\n</ul>\n<p>Work alongside passionate professionals in a supportive and inclusive environment that values people and prioritises employee success and wellbeing.&nbsp;</p>\n<p><strong>Competitive salaries</strong>&nbsp;</p>\n<ul>\n<li>12.75% superannuation&nbsp;&nbsp;</li>\n<li>17.5% leave loading&nbsp;</li>\n</ul>\n<p><strong>Employee wellbeing &amp; development</strong>&nbsp;</p>\n<ul>\n<li>Access to 24/7 confidential employee support providers and counsellors including for immediate family members&nbsp;</li>\n<li>Additional flexibility to support your work life balance including access to generous leave entitlements, such as purchased leave, domestic violence leave, reproductive health leave, cultural leave, study and examination leave.&nbsp;</li>\n<li>Access to a variety of programs and initiatives to support training and career growth.&nbsp;&nbsp;</li>\n<li>Grow your skills through hands-on experience and access to internal training opportunities and additional financial and leave benefits for approved external training and development.&nbsp;</li>\n</ul>\n<p><strong>Our commitment to equity, diversity and inclusion</strong><strong> </strong>&nbsp;</p>\n<p>At Queensland Health, our work environment is inclusive and supportive, and we value our employees. We are an equal opportunity employer and encourage applications from people of all cultures, abilities and backgrounds.&nbsp;&nbsp;</p>\n<p>Our commitment to cultural safety, equity, diversity and inclusion means we understand some people may need changes to the recruitment process. If you need support during the recruitment process, such as meeting with the panel virtually instead of in person, please reach out to the hiring manager. We value diverse candidates and your need for adjustments will not affect our hiring decisions. &nbsp;</p>\n<p><strong>Ready to apply?</strong>&nbsp;</p>\n<p>For further information on how to apply please review the attached Role Description.&nbsp;&nbsp;</p>\n </div>",
+      "keywords": [
+        "converged",
+        "network",
+        "technician"
       ]
     },
     {
