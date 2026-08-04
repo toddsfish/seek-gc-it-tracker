@@ -1,576 +1,471 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-04",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-05T07:02:53.484732+10:00",
-  "total_jobs": 72,
+  "scraped_at": "2026-08-04T06:56:00.960960+10:00",
+  "total_jobs": 68,
   "keywords": [
     {
       "term": "analyst",
       "count": 12,
-      "share": 0.1667
-    },
-    {
-      "term": "support",
-      "count": 11,
-      "share": 0.1528
+      "share": 0.1765
     },
     {
       "term": "manager",
       "count": 10,
-      "share": 0.1389
+      "share": 0.1471
+    },
+    {
+      "term": "support",
+      "count": 10,
+      "share": 0.1471
     },
     {
       "term": "engineer",
-      "count": 10,
-      "share": 0.1389
+      "count": 9,
+      "share": 0.1324
     },
     {
       "term": "business",
-      "count": 9,
-      "share": 0.125
-    },
-    {
-      "term": "it",
-      "count": 9,
-      "share": 0.125
+      "count": 8,
+      "share": 0.1176
     },
     {
       "term": "officer",
       "count": 8,
-      "share": 0.1111
+      "share": 0.1176
     },
     {
-      "term": "specialist",
-      "count": 6,
-      "share": 0.0833
+      "term": "it",
+      "count": 7,
+      "share": 0.1029
     },
     {
       "term": "ict",
       "count": 6,
-      "share": 0.0833
+      "share": 0.0882
     },
     {
       "term": "developer",
       "count": 5,
-      "share": 0.0694
+      "share": 0.0735
+    },
+    {
+      "term": "specialist",
+      "count": 5,
+      "share": 0.0735
     },
     {
       "term": "technology",
       "count": 5,
-      "share": 0.0694
+      "share": 0.0735
     },
     {
       "term": "project",
       "count": 4,
-      "share": 0.0556
-    },
-    {
-      "term": "network",
-      "count": 4,
-      "share": 0.0556
-    },
-    {
-      "term": "software",
-      "count": 4,
-      "share": 0.0556
+      "share": 0.0588
     },
     {
       "term": "technical",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0588
     },
     {
       "term": "infrastructure",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0588
     },
     {
-      "term": "development",
-      "count": 4,
-      "share": 0.0556
+      "term": "network",
+      "count": 3,
+      "share": 0.0441
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0417
+      "share": 0.0441
+    },
+    {
+      "term": "software",
+      "count": 3,
+      "share": 0.0441
     },
     {
       "term": "automation",
       "count": 3,
-      "share": 0.0417
+      "share": 0.0441
     },
     {
       "term": "operations",
       "count": 3,
-      "share": 0.0417
-    },
-    {
-      "term": "systems",
-      "count": 3,
-      "share": 0.0417
+      "share": 0.0441
     },
     {
       "term": "ai",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "ongc",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "platform",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "integration",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "technician",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "ffs",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "director",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
+    },
+    {
+      "term": "systems",
+      "count": 2,
+      "share": 0.0294
+    },
+    {
+      "term": "development",
+      "count": 2,
+      "share": 0.0294
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "solutions",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "advisor",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "timetabling",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "examinations",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
+    },
+    {
+      "term": "advisor",
+      "count": 1,
+      "share": 0.0147
+    },
+    {
+      "term": "timetabling",
+      "count": 1,
+      "share": 0.0147
+    },
+    {
+      "term": "examinations",
+      "count": 1,
+      "share": 0.0147
     },
     {
       "term": "insights",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "hr",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "transformation",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "process",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "improvement",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "fabric",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "commerce",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "developers",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "wordpress",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "burleigh",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "heads",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "days",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "per",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "week",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "php",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
+    },
+    {
+      "term": "wordpress",
+      "count": 1,
+      "share": 0.0147
+    },
+    {
+      "term": "burleigh",
+      "count": 1,
+      "share": 0.0147
+    },
+    {
+      "term": "heads",
+      "count": 1,
+      "share": 0.0147
+    },
+    {
+      "term": "days",
+      "count": 1,
+      "share": 0.0147
+    },
+    {
+      "term": "per",
+      "count": 1,
+      "share": 0.0147
+    },
+    {
+      "term": "week",
+      "count": 1,
+      "share": 0.0147
     },
     {
       "term": "dotnet",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "architecture",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "staff",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "tech",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "api",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "back",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "office",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "help",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "desk",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "assistant",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "custodian",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "sr",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "encapsulation",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "operator",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "cyber",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "security",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "course",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "coach",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "service",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "governance",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "telecommunications",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "rod",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "rope",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "cable",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "hauler",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "seo",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "ui",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "ux",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "landing",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "page",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "leadify",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     }
   ],
   "jobs": [
-    {
-      "job_id": "93748572",
-      "job_title": "IT Tech Support",
-      "business_name": "Alder Constructions Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Helensvale, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93748572",
-      "advertiser_id": "20961859",
-      "posted_date": "2026-08-04T05:34:25Z",
-      "job_description": "<p>Alder Group is proudly celebrating 23 years in 2026, bringing engineering and construction teams together under one roof to deliver high-quality building, civil and infrastructure projects across Queensland and Northern NSW.</p><p>&nbsp;</p><p><strong>Are you a hands-on IT professional who enjoys solving problems and helping people get the most from technology?</strong></p><p>Alder Group is looking for an <strong>IT Tech Support</strong> professional to provide frontline IT support across our offices and project sites. This is a varied, customer-focused role where you'll be the go-to person for Level 1 and Level 2 support, device deployments, Microsoft 365 support, and onsite technology assistance.</p><p>&nbsp;</p><p>Working closely with our IT Operations Specialist, you'll gain exposure to broader infrastructure and systems administration activities, making this an excellent opportunity for someone with a continuous learning mindset with a desire to develop into more advanced infrastructure and systems administration responsibilities.</p><p>&nbsp;</p><p><strong>Key Responsibilities</strong></p><ul><li>Provide Level 1 and Level 2 IT support for staff across the business.</li><li>Manage incidents and service requests through the service desk system.</li><li>Deploy, configure and troubleshoot laptops, desktops, mobile devices and peripherals.</li><li>Support Microsoft 365 applications including Outlook, Teams, OneDrive and SharePoint.</li><li>Assist with user onboarding, offboarding and account management.</li><li>Travel to offices and project sites to provide onsite support and equipment setup.</li><li>Support meeting rooms, collaboration technology and workplace devices.</li><li>Maintain asset registers, inventory records and equipment lifecycle activities.</li><li>Provide basic infrastructure and smart-hands support for networks, server rooms and technology vendors.</li><li>Contribute to cybersecurity, patching and continuous improvement initiatives.</li></ul><p></p><p><strong>About You</strong></p><p>You'll be a proactive and customer-focused IT professional who enjoys solving problems, building strong relationships and delivering exceptional support to end users.</p><p>&nbsp;</p><p>To be successful in this role, you'll have:</p><ul><li>An IT qualification or equivalent industry experience.</li><li>Experience supporting Windows 11 and Microsoft 365 environments.</li><li>Experience with service desk or ticketing systems.</li><li>Experience configuring and troubleshooting end-user devices.</li><li>Knowledge of Active Directory and/or Microsoft Entra ID.</li><li>A strong customer service focus and commitment to user satisfaction.</li><li>Excellent verbal and written communication skills.</li><li>Strong problem-solving and troubleshooting abilities.</li><li>The ability to work independently and effectively manage competing priorities.</li><li>High attention to detail and a disciplined approach to documentation and record keeping.</li><li>Professionalism, integrity and accountability in all interactions.</li><li>A current driver's licence and willingness to travel regularly between offices and project sites.</li></ul><p></p><p><strong>About Alder Group</strong></p><p>At Alder Group, we deliver award-winning construction and infrastructure projects that positively impact communities across Queensland and Northern NSW. Our diverse portfolio spans Infrastructure, Water and Wastewater, Education, Health, Commercial, Industrial, Hospitality and Community sectors.</p><p>What sets us apart is our people. We foster a collaborative and supportive culture where individuals are empowered to grow, contribute and make a genuine impact. When you join Alder Group, you become part of a team that takes pride in delivering quality outcomes safely, efficiently and with integrity.</p><p>&nbsp;</p><p><strong>What We Offer</strong></p><ul><li>A supportive and collaborative workplace where people are valued, respected and encouraged to do their best work.</li><li>A genuine \"One Team\" mindset and focus on continuous improvement.</li><li>Opportunities to develop your capability, expand your experience and grow your career within a dynamic and evolving business.</li><li>Exposure to a broad range of technologies, projects and business operations.</li><li>A structured pathway into systems administration and infrastructure-focused roles.</li><li>A competitive remuneration package aligned to your experience and the value you bring to the role.</li></ul><p>&nbsp;</p><p><strong>If you're looking for a role where you can make a real impact, work with great people and continue building your IT career, we'd love to hear from you.</strong></p>",
-      "keywords": [
-        "it",
-        "tech",
-        "support"
-      ]
-    },
-    {
-      "job_id": "93745484",
-      "job_title": "IT SYSTEMS & NETWORK ENGINEER",
-      "business_name": "Fibrecycle",
-      "work_type": "Full time",
-      "job_type": "Networks & Systems Administration",
-      "pay_range": "",
-      "area": "Helensvale, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93745484",
-      "advertiser_id": "43359605",
-      "posted_date": "2026-08-04T04:01:48Z",
-      "job_description": "<p></p>\n\n<p>At <strong>Kent Consumer Brands APAC</strong>, technology plays a critical role in supporting our manufacturing, warehouse, and distribution operations across the region. We're looking for an experienced <strong>IT Systems &amp; Network Engineer</strong> to join our team and take ownership of our infrastructure, networks, cloud platforms, cybersecurity controls, and end-user computing environments across multiple sites. Based on the Gold Coast, this role offers the opportunity to work across both strategic projects and hands-on technical support, partnering with local teams, global IT teams, and external vendors.</p>\n\n<p><strong>About the Role</strong></p>\n\n<p>Reporting to the Director of IT, you will be responsible for designing, implementing, supporting, securing, and continuously improving our infrastructure and network environment across APAC. You will act as a technical escalation point while helping deliver infrastructure modernisation, cybersecurity initiatives, cloud services, and manufacturing technology projects.</p>\n\n<p><strong>Key Responsibilities</strong></p>\n\n<ul><li>Design, deploy, manage and support enterprise infrastructure across on-premises and cloud environments</li>\n\t<li>Manage servers, storage, backups and disaster recovery solutions</li>\n\t<li>Monitor infrastructure performance, availability and capacity</li>\n\t<li>Support and maintain LAN, WAN, Wi-Fi and internet connectivity across multiple sites</li>\n\t<li>Manage networking equipment including routers, switches, firewalls and wireless infrastructure</li>\n\t<li>Support Microsoft 365 environments and Azure cloud technologies</li>\n\t<li>Partner with operational technology (OT) teams to support manufacturing site infrastructure</li>\n\t<li>Lead and participate in infrastructure, network and technology projects</li>\n\t<li>Identify infrastructure and cybersecurity risks and implement mitigation strategies</li>\n\t<li>Support incident response, threat management and security improvement initiatives</li>\n\t<li>Provide technical expertise and escalation support to the broader IT team</li>\n</ul>\n\n<p>To succeed in this role, you'll bring a combination of strong technical capability, business partnership and problem-solving skills.</p>\n\n<p><strong>Essential Experience &amp; Skills</strong></p>\n\n<ul><li>5+ years' experience supporting enterprise infrastructure environments</li>\n\t<li>5+ years' experience supporting complex network environments</li>\n\t<li>Strong Microsoft 365 administration experience</li>\n\t<li>Experience supporting Microsoft Azure cloud technologies</li>\n\t<li>Strong knowledge of enterprise networking technologies</li>\n\t<li>Experience with VMware or equivalent virtualisation platforms</li>\n\t<li>Experience working across multiple sites and geographically dispersed teams</li>\n\t<li>Strong troubleshooting and analytical skills</li>\n\t<li>Excellent communication and stakeholder engagement skills</li>\n\t<li>Ability to prioritise competing demands and manage projects effectively</li>\n</ul>\n\n<p><strong>Desirable Qualifications &amp; Certifications</strong></p>\n\n<ul><li>Degree in Information Technology, Computer Science, Networking or related discipline</li>\n\t<li>CCNA or equivalent networking certification</li>\n\t<li>Microsoft certifications</li>\n\t<li>VMware certifications</li>\n\t<li>ITIL Foundation certification</li>\n\t<li>Experience supporting manufacturing or industrial environments<strong>&nbsp;</strong></li>\n</ul>\n\n<p><strong>Why Join Us?</strong></p>\n\n<ul><li>Opportunity to make a genuine impact across a regional APAC business</li>\n\t<li>Exposure to both infrastructure and cybersecurity initiatives</li>\n\t<li>Work closely with global IT teams and manufacturing operations</li>\n\t<li>Diverse technology environment spanning cloud, infrastructure, networking and manufacturing systems</li>\n\t<li>Supportive, collaborative culture with opportunities for growth and development</li>\n</ul>\n\n<p><strong>Apply Now</strong></p>\n\n<p>If you're a hands-on IT professional who enjoys solving complex technical challenges while helping drive business performance, we'd love to hear from you.</p>\n\n<p>Apply today and become part of a team that's building reliable, secure and future-focused technology solutions across APAC.</p>\n\n<p><em>Based between Helensvale and Yatala with occasional travel required between sites </em></p>\n\n<p></p>\n\nSee job description\n\n",
-      "keywords": [
-        "it",
-        "systems",
-        "network",
-        "engineer"
-      ]
-    },
-    {
-      "job_id": "93743617",
-      "job_title": "Cyber Security and/or Software Development Course Coach",
-      "business_name": "Equinim College of Technology",
-      "work_type": "Part time",
-      "job_type": "Security",
-      "pay_range": "$45 per hour",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93743617",
-      "advertiser_id": "62661973",
-      "posted_date": "2026-08-04T03:17:36Z",
-      "job_description": "<p>Are you a passionate &amp; caring person looking to develop your training skills in a positive environment?</p><p>We are looking for enthusiastic and people-focused individuals that love to share their knowledge and skills with others. Candidates will have great communication skills with a diverse scope of people and willingness to learn and serve students towards a greater understanding.&nbsp;This role is remote and is suited for people all across Australia.</p><p><br></p><p><strong>Application Information:</strong></p><p>To apply for this role, you must:</p><ol><li><p>Answer the Video Submission Question here - <strong>https://vocalvideo.com/c/eqc-institute-trainer</strong></p></li><li><p>Provide a resume highlighting your experience, knowledge, and skills relevant to this role. (Submit this via Seek)</p></li></ol><p><br></p><p><br><strong>Job Role:</strong><br>Provide education and training to students via <strong>Online Course Coaching.</strong></p><p>Being a Course Coach involves:</p><ul><li><p>Tutoring and teaching adult learners. This is done by having consistent communication with students via Zoom calls, phone or written communication.</p></li><li><p>General support and connection with students about course questions and study requirements.</p></li><li><p>Basic scheduling and time management skills are required for a successful candidate.</p></li><li><p>Working with a passionate team to ensure student success.</p></li></ul><p><br></p><p>We are currently hiring course coaches with Cyber Security skills and experience or Full Stack Web Development skills. If you meet either one of these skills please apply below!<br><br></p><p><strong>Skills Needed Cyber:</strong></p><ul><li><p>Experience with Cyber Security Systems and Tools (Basic Cloudflare, AWS, Wireshark, Virtual Machines)</p></li><li><p>Strong understanding of Cyber Security foundations</p></li><li><p>Industry experience is preferred</p></li></ul><p><br></p><p><strong>Skills Needed Web Development:</strong></p><ul><li><p>Experience in Full Stack Web Development</p></li><li><p>Proficiency with at least 2 programming languages (HTML, CSS, JavaScript, Python)</p></li><li><p>Experience with Github and SQL or similar database programing</p></li><li><p>Experience with Blockchain and AI / ML is preferred</p></li></ul><p><br></p><p><strong>Universal Training Skills:</strong></p><ul><li><p>Strong English Communication Skills</p></li><li><p>Computer with appropriate microphone and camera settings to host a zoom call</p></li><li><p>Flexible availability to communicate with students</p></li><li><p>Valid TAE (training and assessment) qualification - if you do not have this, be willing to obtain the qualification.<br>&nbsp;</p></li></ul><p><strong>Salary</strong>:</p><p>This is a part-time role. The part-time rate for a Course Coach for this particular role is $45 per hour. Successful candidates will be doing 10 hours per week.</p><p>This job is dependent on student availability and self-autonomy for scheduling. Hours are averaged across the week, with hours being dependent on student availability.</p><p><br></p><p><strong>About Us</strong></p><p>We are a Vocational Education and Training Organisation who's team has been operating for over 10 years in this space. We make sure to always focus on delivering quality materials, practical training and always aim to find new ways that can raise the bar across different industries. What sets us apart is our commitment to and incredible student experience whilst studying.</p><p><br></p><p>We work together; listening and challenging to create a supportive work environment whereby everyone works together and is equal.<br></p><p>We are hiring ASAP so if you think this role suits you, we would love to get in touch with you.<br></p><p>Work with us, to work together, and as a team let's inspire the next round of industry leaders!</p>",
-      "keywords": [
-        "cyber",
-        "security",
-        "software",
-        "development",
-        "course",
-        "coach"
-      ]
-    },
-    {
-      "job_id": "93738490",
-      "job_title": "Business Development Specialist",
-      "business_name": "ALS Limited",
-      "work_type": "Full time",
-      "job_type": "Sales - Pre & Post",
-      "pay_range": "",
-      "area": "Yatala, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93738490",
-      "advertiser_id": "16555420",
-      "posted_date": "2026-08-04T01:02:16Z",
-      "job_description": "<p>At ALS, we encourage you to dream big.<br>When you join us, you'll be part of a global team harnessing the power of scientific testing and data-driven insights to build a healthier future.<br> <br> <strong>Working at ALS</strong><br>The ALS team is a diverse and dedicated community united by our passion to make a difference in the world.<br>Our values are important to us, and shape how we work, how we treat each other and how we recognise excellence.<br>At ALS, you'll be supported to develop new skills and reach your full potential. We invest in our people with programs and opportunities that help you build a diverse career with us.<br>We want everyone to have a safe, flexible and rewarding career that makes a positive impact on our people, the planet and our communities.<br> </p><p>As we expand our Environmental Risk Services business, we're looking for a commercially minded Business Development Specialist to drive growth across Australia and New Zealand<br> <br><strong>The Role</strong><br> <br>Reporting to the General Manager - Octfolio, you'll drive growth across both the Octfolio platform and ALS Environmental Risk Services throughout Australia and New Zealand. Working with government bodies, utilities, councils, and asset owners, you'll identify opportunities, build strategic partnerships, and help clients transition to portfolio-based environmental risk management.<br> <br>This is your chance to combine business development with digital innovation-shaping the future of environmental risk management alongside technical, operational, and commercial teams.<br><br><strong>The day to day</strong><br> <br>In this role, you'll:<br> </p><ul><li>Drive business growth and adoption of the Octfolio platform across the ALS Environmental Risk Services portfolio</li><li>Identify and secure new opportunities with clients in government, utilities, consultants, and major asset owners</li><li>Build trusted relationships with new and existing clients across Australia and New Zealand</li><li>Develop proposals, tenders, capability statements, and commercial opportunities</li><li>Position both ALS environmental services and the Octfolio platform to meet client needs</li><li>Partner with operational and technical teams to ensure successful project delivery</li><li>Monitor market trends, competitor activity, and emerging business opportunities</li><li>Support marketing initiatives, client presentations, and industry events</li><li>Maintain an active sales pipeline and report on business development performance</li><li>Travel nationally as required to meet clients and support business growth</li></ul><p><strong>The essentials</strong><br> <br>We're looking for someone who brings:<br> <br> </p><ul><li>Demonstrated experience in business development, account management, or strategic sales</li><li>Strong relationship-building and stakeholder management skills</li><li>Commercial acumen with a results-driven mindset</li><li>Excellent communication, presentation, and negotiation skills</li><li>Ability to manage multiple priorities simultaneously</li><li>Genuine interest in digital platforms and technology solutions</li><li>Experience in environmental services, SaaS, government, or infrastructure is highly regarded</li><li>Current Australian driver's licence and willingness to travel nationally</li></ul><p><strong>Everyone Matters</strong><br> ALS is proud to be an equal opportunity employer and is committed to fostering an inclusive work environment where the strengths and perspectives of each employee are both recognised and valued.<br>ALS also welcomes applications from people with all levels of ability. Reasonable adjustments to support candidates throughout the recruitment process are available upon request.<br> <br> <strong>Eligibility</strong><br> To be eligible to work at ALS you must be a Citizen or Permanent Resident of the country you are applying for, or either hold or be able to obtain, a valid working visa.<br> <br><strong>How to apply</strong><br>Please apply on-line and provide a cover letter and CV that best demonstrate your motivation and ability to meet the requirements of this role.<br> </p>",
-      "keywords": [
-        "business",
-        "development",
-        "specialist"
-      ]
-    },
     {
       "job_id": "93720490",
       "job_title": "Senior Applications Analyst",
@@ -583,7 +478,7 @@
       "url": "https://www.seek.com.au/job/93720490",
       "advertiser_id": "24200181",
       "posted_date": "2026-08-03T05:38:29Z",
-      "job_description": "<p>Queensland Airports Limited (QAL) is seeking an experienced Senior Applications Analyst to join our Technology team. This is a great career opportunity to play a key role in supporting, enhancing and optimising the business applications that help connect our people, operations and airport communities.</p>\n\n<p>In this role, you will provide application support, analysis and continuous improvement across QAL’s enterprise application environment. Working closely with internal stakeholders, vendors and the broader Technology team, you will help ensure our systems are reliable, secure, fit for purpose and aligned to business needs.</p>\n\n<p>&nbsp;</p>\n\n<p>Aryan joined the Technology team in 2025 as a Support Analyst and has since moved into a Cyber Security Analyst position. Aryan shares his unique experience working in the QAL team:</p>\n\n<p>&nbsp;</p>\n\n<p><i>“I joined QAL because of its strong emphasis on professionalism and teamwork. What I value most is the collaborative culture, where team members actively share knowledge and support one another’s growth.</i>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><i>QAL provides me with a supportive and motivating environment, and I am proud to be part of the organisation.”</i>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><b>How will you make an impact?</b></p>\n\n<p>Reporting to the Applications Manager, you will be responsible for supporting and improving QAL’s business applications, with a focus on delivering practical technology solutions that improve user experience, streamline processes and support operational performance.</p>\n\n<p>The ideal candidate will be a proactive and customer-focused applications professional with strong analytical skills, sound technical capability and the ability to translate business requirements into effective system outcomes. You will be confident working across multiple applications, managing competing priorities and building trusted relationships with stakeholders across the business.</p>\n\n<p>&nbsp;</p>\n\n<p><b>Key deliverables/responsibilities </b></p>\n\n<p>In this role, you will support the effective delivery, administration and improvement of QAL’s application landscape. Your key responsibilities will include but are not limited to:</p>\n\n<ul>\n\t<li>Providing advanced application support, analysis and troubleshooting across QAL’s business systems.</li>\n\t<li>Working with stakeholders to understand business requirements, identify improvement opportunities and deliver fit-for-purpose application solutions.</li>\n\t<li>Supporting system configuration, testing, upgrades, enhancements and release activities.</li>\n\t<li>Contributing to application governance, documentation, user guides, process mapping and knowledge sharing.</li>\n\t<li>Partnering with vendors and internal teams to resolve issues, manage changes and support continuous improvement initiatives.</li>\n\t<li>Supporting data quality, reporting, integration and automation opportunities across enterprise applications.</li>\n</ul>\n\n<p><b>How we support you?</b></p>\n\n<p>At Queensland Airports Limited (QAL), we believe work should support life, not compete with it. Through our&nbsp;<i>Living Well</i>&nbsp;approach, we offer flexible working options for all roles, wellbeing initiatives and a supportive culture so our people can thrive both professionally and personally.</p>\n\n<p>As we continue to grow and transform, we encourage flexible ways of working and open conversations about how work fits alongside life. We also invest in our people through learning, mentoring and career pathways across our four airports.</p>\n\n<p>&nbsp;</p>\n\n<p><b>What we’ve built together</b></p>\n\n<p>At QAL, our people connect communities. We own and operate Gold Coast, Townsville, Mount Isa and Longreach airports, linking regional Queensland and northern New South Wales with the rest of Australia and the world.</p>\n\n<p>More than 8 million passengers travel through our airports each year, supported by teams working together to create safe, welcoming and efficient experiences. Our vision is to be the first-choice gateway for our regions, creating valuable connections and inspiring a sustainable future.</p>\n\n<p>We’re committed to an inclusive and psychologically safe workplace where people feel valued, supported and encouraged to be themselves. We welcome applications from people of all backgrounds and experiences, including Aboriginal and Torres Strait Islander peoples, and encourage you to apply even if you don’t meet every requirement.</p>\n\n<p>QAL is a WORK180 Endorsed Employer, independently recognised for supporting long‑term careers, flexibility, wellbeing and equal opportunity. Learn more about working at QAL here.</p>\n\n<p>The successful candidate will be required to adhere to QAL’s Drug and Alcohol Management Plan (DAMP), which includes pre-employment Drug and Alcohol Testing and have the ability to obtain an Aviation Security Identification Card (ASIC), which requires the completion of a Police Check.</p>\n\n<p>Please obtain the Position Description by clicking&nbsp;HERE, or if you are on Seek, by copying the following location into your browser to access the Position Description through our careers site:&nbsp;https://qal.elmotalent.com.au/careers/QALcareers/jobs</p>",
+      "job_description": "<p>Queensland Airports Limited (QAL) is seeking an experienced Senior Applications Analyst to join our Technology team. This is a great career opportunity to play a key role in supporting, enhancing and optimising the business applications that help connect our people, operations and airport communities.</p>\n\n<p>In this role, you will provide application support, analysis and continuous improvement across QAL’s enterprise application environment. Working closely with internal stakeholders, vendors and the broader Technology team, you will help ensure our systems are reliable, secure, fit for purpose and aligned to business needs.</p>\n\n<p>&nbsp;</p>\n\n<p>Aryan joined the Technology team in 2025 as a Support Analyst and has since moved into a Cyber Security Analyst position. Aryan shares his unique experience working in the QAL team:</p>\n\n<p>&nbsp;</p>\n\n<p><i>“I joined QAL because of its strong emphasis on professionalism and teamwork. What I value most is the collaborative culture, where team members actively share knowledge and support one another’s growth.</i>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><i>QAL provides me with a supportive and motivating environment, and I am proud to be part of the organisation.”</i>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><b>How will you make an impact?</b></p>\n\n<p>Reporting to the Business Technology Manager, you will be responsible for supporting and improving QAL’s business applications, with a focus on delivering practical technology solutions that improve user experience, streamline processes and support operational performance.</p>\n\n<p>The ideal candidate will be a proactive and customer-focused applications professional with strong analytical skills, sound technical capability and the ability to translate business requirements into effective system outcomes. You will be confident working across multiple applications, managing competing priorities and building trusted relationships with stakeholders across the business.</p>\n\n<p>&nbsp;</p>\n\n<p><b>Key deliverables/responsibilities </b></p>\n\n<p>In this role, you will support the effective delivery, administration and improvement of QAL’s application landscape. Your key responsibilities will include but are not limited to:</p>\n\n<ul>\n\t<li>Providing advanced application support, analysis and troubleshooting across QAL’s business systems.</li>\n\t<li>Working with stakeholders to understand business requirements, identify improvement opportunities and deliver fit-for-purpose application solutions.</li>\n\t<li>Supporting system configuration, testing, upgrades, enhancements and release activities.</li>\n\t<li>Contributing to application governance, documentation, user guides, process mapping and knowledge sharing.</li>\n\t<li>Partnering with vendors and internal teams to resolve issues, manage changes and support continuous improvement initiatives.</li>\n\t<li>Supporting data quality, reporting, integration and automation opportunities across enterprise applications.</li>\n</ul>\n\n<p><b>How we support you?</b></p>\n\n<p>At Queensland Airports Limited (QAL), we believe work should support life, not compete with it. Through our&nbsp;<i>Living Well</i>&nbsp;approach, we offer flexible working options for all roles, wellbeing initiatives and a supportive culture so our people can thrive both professionally and personally.</p>\n\n<p>As we continue to grow and transform, we encourage flexible ways of working and open conversations about how work fits alongside life. We also invest in our people through learning, mentoring and career pathways across our four airports.</p>\n\n<p>&nbsp;</p>\n\n<p><b>What we’ve built together</b></p>\n\n<p>At QAL, our people connect communities. We own and operate Gold Coast, Townsville, Mount Isa and Longreach airports, linking regional Queensland and northern New South Wales with the rest of Australia and the world.</p>\n\n<p>More than 8 million passengers travel through our airports each year, supported by teams working together to create safe, welcoming and efficient experiences. Our vision is to be the first-choice gateway for our regions, creating valuable connections and inspiring a sustainable future.</p>\n\n<p>We’re committed to an inclusive and psychologically safe workplace where people feel valued, supported and encouraged to be themselves. We welcome applications from people of all backgrounds and experiences, including Aboriginal and Torres Strait Islander peoples, and encourage you to apply even if you don’t meet every requirement.</p>\n\n<p>QAL is a WORK180 Endorsed Employer, independently recognised for supporting long‑term careers, flexibility, wellbeing and equal opportunity. Learn more about working at QAL here.</p>\n\n<p>The successful candidate will be required to adhere to QAL’s Drug and Alcohol Management Plan (DAMP), which includes pre-employment Drug and Alcohol Testing and have the ability to obtain an Aviation Security Identification Card (ASIC), which requires the completion of a Police Check.</p>\n\n<p>Please obtain the Position Description by clicking&nbsp;HERE, or if you are on Seek, by copying the following location into your browser to access the Position Description through our careers site:&nbsp;https://qal.elmotalent.com.au/careers/QALcareers/jobs</p>",
       "keywords": [
         "applications",
         "analyst"
