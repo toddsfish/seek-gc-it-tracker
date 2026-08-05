@@ -1,596 +1,496 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-05",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-06T06:58:17.921588+10:00",
-  "total_jobs": 73,
+  "scraped_at": "2026-08-05T07:02:53.484732+10:00",
+  "total_jobs": 72,
   "keywords": [
     {
-      "term": "support",
-      "count": 13,
-      "share": 0.1781
-    },
-    {
-      "term": "it",
-      "count": 12,
-      "share": 0.1644
-    },
-    {
       "term": "analyst",
+      "count": 12,
+      "share": 0.1667
+    },
+    {
+      "term": "support",
       "count": 11,
-      "share": 0.1507
+      "share": 0.1528
     },
     {
       "term": "manager",
-      "count": 11,
-      "share": 0.1507
+      "count": 10,
+      "share": 0.1389
     },
     {
       "term": "engineer",
       "count": 10,
-      "share": 0.137
-    },
-    {
-      "term": "officer",
-      "count": 9,
-      "share": 0.1233
+      "share": 0.1389
     },
     {
       "term": "business",
+      "count": 9,
+      "share": 0.125
+    },
+    {
+      "term": "it",
+      "count": 9,
+      "share": 0.125
+    },
+    {
+      "term": "officer",
       "count": 8,
-      "share": 0.1096
+      "share": 0.1111
+    },
+    {
+      "term": "specialist",
+      "count": 6,
+      "share": 0.0833
     },
     {
       "term": "ict",
       "count": 6,
-      "share": 0.0822
+      "share": 0.0833
     },
     {
       "term": "developer",
       "count": 5,
-      "share": 0.0685
+      "share": 0.0694
     },
     {
       "term": "technology",
       "count": 5,
-      "share": 0.0685
+      "share": 0.0694
     },
     {
-      "term": "operations",
-      "count": 5,
-      "share": 0.0685
+      "term": "project",
+      "count": 4,
+      "share": 0.0556
     },
     {
       "term": "network",
       "count": 4,
-      "share": 0.0548
-    },
-    {
-      "term": "administrator",
-      "count": 4,
-      "share": 0.0548
-    },
-    {
-      "term": "specialist",
-      "count": 4,
-      "share": 0.0548
+      "share": 0.0556
     },
     {
       "term": "software",
       "count": 4,
-      "share": 0.0548
+      "share": 0.0556
     },
     {
       "term": "technical",
       "count": 4,
-      "share": 0.0548
-    },
-    {
-      "term": "systems",
-      "count": 4,
-      "share": 0.0548
+      "share": 0.0556
     },
     {
       "term": "infrastructure",
       "count": 4,
-      "share": 0.0548
+      "share": 0.0556
     },
     {
       "term": "development",
       "count": 4,
-      "share": 0.0548
+      "share": 0.0556
     },
     {
-      "term": "technician",
+      "term": "administrator",
       "count": 3,
-      "share": 0.0411
+      "share": 0.0417
     },
     {
-      "term": "project",
+      "term": "automation",
       "count": 3,
-      "share": 0.0411
+      "share": 0.0417
+    },
+    {
+      "term": "operations",
+      "count": 3,
+      "share": 0.0417
+    },
+    {
+      "term": "systems",
+      "count": 3,
+      "share": 0.0417
     },
     {
       "term": "ai",
       "count": 2,
-      "share": 0.0274
+      "share": 0.0278
     },
     {
       "term": "ongc",
       "count": 2,
-      "share": 0.0274
+      "share": 0.0278
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0274
+      "share": 0.0278
     },
     {
       "term": "platform",
       "count": 2,
-      "share": 0.0274
+      "share": 0.0278
+    },
+    {
+      "term": "integration",
+      "count": 2,
+      "share": 0.0278
+    },
+    {
+      "term": "technician",
+      "count": 2,
+      "share": 0.0278
     },
     {
       "term": "ffs",
       "count": 2,
-      "share": 0.0274
-    },
-    {
-      "term": "digital",
-      "count": 2,
-      "share": 0.0274
+      "share": 0.0278
     },
     {
       "term": "director",
       "count": 2,
-      "share": 0.0274
+      "share": 0.0278
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0274
+      "share": 0.0278
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "solutions",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "timetabling",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "examinations",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "insights",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
+    },
+    {
+      "term": "hr",
+      "count": 1,
+      "share": 0.0139
+    },
+    {
+      "term": "transformation",
+      "count": 1,
+      "share": 0.0139
+    },
+    {
+      "term": "process",
+      "count": 1,
+      "share": 0.0139
+    },
+    {
+      "term": "improvement",
+      "count": 1,
+      "share": 0.0139
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "fabric",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "commerce",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
+    },
+    {
+      "term": "developers",
+      "count": 1,
+      "share": 0.0139
     },
     {
       "term": "wordpress",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "heads",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "days",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "per",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "week",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "php",
       "count": 1,
-      "share": 0.0137
-    },
-    {
-      "term": "broadbeach",
-      "count": 1,
-      "share": 0.0137
-    },
-    {
-      "term": "retail",
-      "count": 1,
-      "share": 0.0137
-    },
-    {
-      "term": "sales",
-      "count": 1,
-      "share": 0.0137
-    },
-    {
-      "term": "consultant",
-      "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "dotnet",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
+    },
+    {
+      "term": "broadbeach",
+      "count": 1,
+      "share": 0.0139
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0137
-    },
-    {
-      "term": "automation",
-      "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "architecture",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "staff",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0137
-    },
-    {
-      "term": "msp",
-      "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "tech",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0137
-    },
-    {
-      "term": "api",
-      "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
+    },
+    {
+      "term": "api",
+      "count": 1,
+      "share": 0.0139
     },
     {
       "term": "back",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "office",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "help",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "desk",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "assistant",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "custodian",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
-      "term": "integration",
+      "term": "sr",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
+    },
+    {
+      "term": "encapsulation",
+      "count": 1,
+      "share": 0.0139
+    },
+    {
+      "term": "operator",
+      "count": 1,
+      "share": 0.0139
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "service",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "governance",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "telecommunications",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "rod",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "rope",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "cable",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "hauler",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "seo",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "ui",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "ux",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "landing",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "page",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "leadify",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0139
     }
   ],
   "jobs": [
-    {
-      "job_id": "93781801",
-      "job_title": "Digital Operations Manager",
-      "business_name": "Department of Health - Queensland",
-      "work_type": "Full time",
-      "job_type": "Management",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93781801",
-      "advertiser_id": "32285210",
-      "posted_date": "2026-08-05T07:13:20Z",
-      "job_description": "<div>\n \n <p>Lead and manage Information and Communications Technology operational services across multiple domains that directly support clinical service delivery.</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Digital Operations Manager</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide strategic and operational leadership for a multidisciplinary Operations team</li>\n<li>Lead the planning, delivery, and lifecycle management of critical assets and end-of-life replacement programs</li>\n<li>Provide authoritative operational and strategic advice to executives, senior managers, and stakeholders on risks</li>\n<li>Manage budgets, resources, and workforce allocation to balance business-as-usual service delivery with major digital transformation projects</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, a tertiary qualification in any related field is highly desirable</li>\n<li>This position may incur overtime or extended hours beyond standard business hours</li>\n<li>This position may be required to participate in on-call arrangements</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Temporary full time (three months, with possibility of extension)</li>\n<li>Base salary ranging from $5,986.60 - $6,334.60 per fortnight</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028 (G28).</p>\n<p>DHI is responsible for enhancing efficiency and service delivery improvements to optimise Health Service performance. It also oversees strategic partnerships that help the Health Service implement alternative models of service delivery, ensuring value for money, and driving improvements in performance, and innovation.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Tuesday, 18 August 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC689546</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
-      "keywords": [
-        "digital",
-        "operations",
-        "manager"
-      ]
-    },
-    {
-      "job_id": "93780305",
-      "job_title": "Level 1 IT Support Technician (MSP)",
-      "business_name": "LEVIT8 PTY LTD",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$50,000 – $65,000 per year",
-      "area": "Burleigh Waters, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93780305",
-      "advertiser_id": "34973099",
-      "posted_date": "2026-08-05T06:37:59Z",
-      "job_description": "<h2>About Levit8</h2><p>At Levit8, we're passionate about delivering exceptional IT support and customer service. We're a growing Managed Services Provider (MSP) that values teamwork, accountability, continuous learning, and building long-term relationships with our clients.</p><p>Our culture is built on:</p><h2>Continuous Growth</h2><p>We invest in our people through mentoring, training, industry certifications, and hands-on experience. We believe that when our team grows, our clients benefit.</p><h2>Transparency &amp; Trust</h2><p>Open communication and honesty form the foundation of both our internal culture and client relationships.</p><h2>Teamwork &amp; Respect</h2><p>Every team member brings unique skills and perspectives. We support one another, share knowledge freely, and celebrate success together.</p><p><br></p><hr><h2>The Opportunity</h2><p>We are looking for a motivated Level 1 IT Support Technician to join our Managed Services team.</p><p>This role is ideal for someone who enjoys helping people, has a passion for technology, and wants to build a long-term career in IT. You'll work alongside experienced engineers, supporting a diverse range of clients and technologies while developing your technical and customer service skills.</p><p>As the first point of contact for many support requests, you will play a key role in delivering an outstanding support experience and helping clients stay productive.</p><p><br></p><hr><h2>Key Responsibilities</h2><ul><li><p>Provide first-line technical support via phone, email and remote support tools.</p></li><li><p>Troubleshoot and resolve common hardware, software, Microsoft 365, networking and user issues.</p></li><li><p>Log, update and manage support tickets within the service desk platform.</p></li><li><p>Escalate complex issues to senior engineers when required.</p></li><li><p>Assist with user onboarding, account creation, permissions, and device deployments.</p></li><li><p>Follow documented procedures and best practices to ensure consistent service delivery.</p></li><li><p>Maintain accurate documentation of client environments and support activities.</p></li><li><p>Provide onsite support to clients when required using a company-supplied vehicle.</p></li><li><p>Contribute to a positive team culture through collaboration and knowledge sharing.</p></li></ul><p><br></p><hr><h2>About You</h2><p>We're looking for someone with a positive attitude, strong communication skills, and a genuine interest in technology.</p><p><br></p><h2>Ideally You'll Have</h2><ul><li><p>Previous experience in a customer service, help desk, or technical support role (desirable but not essential).</p></li><li><p>A basic understanding of Windows operating systems, Microsoft 365, PCs, laptops, printers and mobile devices.</p></li><li><p>Strong troubleshooting and problem-solving skills.</p></li><li><p>Excellent written and verbal communication.</p></li><li><p>A willingness to learn and take feedback on board.</p></li><li><p>Strong organisational and time management skills.</p></li><li><p>A current Australian driver's licence.</p></li></ul><p><br></p><h2>Bonus Points For</h2><ul><li><p>Experience working within an MSP environment.</p></li><li><p>Microsoft, CompTIA or other industry certifications.</p></li><li><p>Exposure to Microsoft 365, Intune, Azure AD/Entra ID or networking technologies.</p></li><li><p>HaloPSA and NinjaRMM Experience</p></li></ul><p><br></p><hr><h2>What We Offer</h2><ul><li><p>Competitive salary package.</p></li><li><p>Ongoing training, mentoring and career development.</p></li><li><p>Exposure to a wide range of technologies and industries.</p></li><li><p>A supportive team environment that encourages growth.</p></li><li><p>Company vehicle access for onsite client visits.</p></li><li><p>Opportunities to progress into Level 2 and Level 3 technical roles.</p></li><li><p>Modern tools, systems and processes designed to help you succeed.</p></li></ul><p><br></p><hr><h2>Apply Now</h2><p>If you're passionate about technology, enjoy helping people, and want to build your career with a growing MSP, we'd love to hear from you.</p><p>Submit your resume and a brief cover letter outlining your experience, career goals, and why you'd be a great fit for the Levit8 team.</p><p>Join Levit8 and help us deliver remarkable IT experiences for businesses across Australia.</p>",
-      "keywords": [
-        "it",
-        "support",
-        "technician",
-        "msp"
-      ]
-    },
-    {
-      "job_id": "93779656",
-      "job_title": "Retail Sales Consultant",
-      "business_name": "Nexigen Digital",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93779656",
-      "advertiser_id": "25685289",
-      "posted_date": "2026-08-05T06:23:37Z",
-      "job_description": "<p><strong>About Nexigen Digital</strong></p><p>We are Australia’s largest privately-owned group of online service providers, which includes brands such as VentraIP, Synergy Wholesale and Intaserve.<br><br></p><p>Every day our all-Australian team delivers exceptional service and outstanding support to our 200,000+ customers who choose us for their domain names, website hosting and online presence.</p><p><br></p><p>Over the past seventeen years, we have been constant game-changers, industry innovators, award winners, and community leaders - and now is your chance to join our team.</p><p><br></p><br><p><br><strong>The Position</strong></p><p>Retail Sales Consultant – Inbound &amp; Outbound (Web Hosting &amp; IT Services)</p><p><br></p><p><strong>Role Purpose</strong></p><p>The Retail Sales Consultant is responsible for driving revenue and delivering exceptional customer experiences across inbound and outbound phone channels. This role focuses on helping small to medium businesses choose the right web hosting, domain, email, and cloud solutions to support their online presence and growth. Consultants use a consultative, needs‑based approach to educate customers, simplify technical concepts, and recommend the best‑fit products and services.</p><p><br></p><p><strong>Key Responsibilities</strong></p><ul><li>Inbound Sales &amp; Customer Experience</li><li>Handle inbound calls from SMB customers seeking advice on domains, hosting, email, website services, and security products.</li><li>Translate technical concepts into simple, business‑focused language.</li><li>Identify customer needs and recommend tailored hosting and IT solutions.</li><li>Convert enquiries into sales while maintaining high customer satisfaction.</li><li>Prepare quotes, process orders, and complete accurate CRM documentation.</li></ul><p><br></p><p><strong>Outbound Sales &amp; Lead Management</strong></p><ul><li>Conduct outbound calls to warm leads, existing customers, and lapsed accounts.</li><li>Re‑engage customers with product upgrades, renewals, migrations, and value‑added services.</li><li>Promote solutions such as managed hosting, SSL certificates, backups, website builders, and email services.</li><li>Maintain a structured call cadence to maximise contact and conversion rates.</li><li>Achieve outbound KPIs including call volume, conversion, revenue, and product mix.</li><li>Customer Support &amp; Retention</li><li>Handle objections confidently and guide customers toward the right outcome.</li><li>Build long‑term relationships to encourage renewals and reduce churn.</li><li>Support post‑purchase needs such as onboarding guidance, service activation, or basic troubleshooting (non‑technical support).</li></ul><p><br></p><p><strong>Operational Excellence</strong></p><ul><li>Maintain accurate CRM records, follow compliance requirements, and adhere to sales processes.</li><li>Stay up to date with product knowledge across hosting, domains, email, cloud, and security.</li><li>Provide feedback to improve products, processes, and customer experience.</li><li>Collaborate with technical support and provisioning teams to ensure smooth customer handover.</li></ul><p><br><strong>Teamwork &amp; Culture</strong></p><ul><li>Contribute to a positive, high‑performance sales environment.</li><li>Participate in training, coaching, and development sessions.</li><li>Share insights, customer trends, and opportunities with the broader team</li></ul><p><br></p><p><strong>Skills &amp; Experience</strong></p><p><strong>Essential</strong></p><ul><li>Experience in phone‑based sales, customer service, or contact centre environments.</li><li>Strong communication skills with the ability to simplify technical concepts.</li><li>Proven ability to meet or exceed sales targets and KPIs.</li><li>Confidence using CRM systems, call management tools, and digital platforms.</li><li>A proactive, commercially driven mindset with strong problem‑solving skills.</li></ul><p><br><strong>Desirable</strong></p><ul><li>Experience in web hosting, domains, cloud services, SaaS, or IT‑related sales.</li><li>Understanding of common SMB needs such as websites, email, online security, and digital presence.</li></ul><p><br><br></p><p><strong>The Benefits of Working With the Nexigen Digital Team</strong></p><p>Aside from being awarded “Employer of Choice” in the Australian Business Awards, we are often referred to as the Google of south-east Melbourne thanks to our unique facilities and team culture, and a top-down mandate to take care of the people who take care of our customers.</p><p>Some of the office perks include:</p><ul><li>A weekly selection of delicious meals prepared in our on-site kitchen for breakfast and lunch.</li><li>A fully-stocked snack bar featuring an assortment of chips, chocolates, nuts, protein bars and fresh fruit.</li><li>A drink fridge loaded with an assortment of soft drinks, juices and water.</li><li>A fully equipped private gym with weekly on-site personal training sessions.</li><li>A team wellness centre with a sound-proof gaming stadium featuring an 85” 4K TV, racing car simulator, pinball machine, arcade machine, and air hockey table.</li><li>An on-site salon where our resident barber and stylist provide free haircuts on a regular basis.</li></ul><p>We actively encourage training and upskilling for personal development and will fund courses that have a beneficial impact on the business.</p><p>Please note that due to strict security requirements the successful applicant will be required to complete a National Police Check as a condition of employment.</p><p><br></p><br><br><p>PI<a href=\"tel:286258380\">286258380</a></p>",
-      "keywords": [
-        "retail",
-        "sales",
-        "consultant"
-      ]
-    },
-    {
-      "job_id": "93776993",
-      "job_title": "IT Support Officer",
-      "business_name": "Gilmour Space Technologies",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "Base salary plus superannuation",
-      "area": "Yatala, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93776993",
-      "advertiser_id": "43912085",
-      "posted_date": "2026-08-05T04:59:39Z",
-      "job_description": "<p><strong>All Orbits, All Planets - Join us on our journey</strong></p><p>Gilmour Space is a leading Australian space company, developing launch vehicles, satellite platforms, advanced propulsion technologies; and launching from our licensed orbital spaceport in Bowen, North Queensland.</p><p>Are you a creative and experienced 'IT Support Officer' looking for a dynamic role where your skills will make a real impact? Have you ever dreamt of working with rockets right here in Australia? Well now’s your chance! Gilmour Space is seeking a talented individual to join our innovative team to send rockets to Space! Conveniently located in <strong>Bowen, North QLD</strong> near some of the best beaches in the world and sunsets, you will be based at Australia's first orbital Launch Site.&nbsp; So, what are you waiting for? Join us and be a part of a forward-thinking team dedicated to pushing the boundaries of space exploration and let’s send Australia to Space together!</p><p><strong>How you will contribute to our mission in getting Australia to space:</strong></p><p>The below is designed to give you an idea of the role you will play. There will be many more exciting and innovative things to do:</p><ul> <li>Field incoming help requests from end users and provide exceptional support experience to internal staff (Level1/2 user and systems support) both on-premises and remotely.</li> <li>Troubleshoot HW/SW related issues in timely manners.</li> <li>Install and configure various HW/SW (desktops, servers, switches, routers, Aps, printers etc.).</li> <li>Provision HW/SW, licenses and keep asset inventory up to date.</li> <li>Apply diagnostic utilities to aid in troubleshooting.</li> <li>Develop, test, and deliver new systems and solutions.</li> <li>Performing preventative maintenance, including checking and cleaning of workstations, printers, and peripherals.</li> <li>Participate and contribute to the development and ongoing maintenance of the ICT support documentation.</li> <li>Assist with on/off-boarding of employees.</li> <li>Assist with purchasing HW/SW where required.</li> <li>Assist with research on latest technology and solutions.</li> <li>Intra-state travel (for up to 2 weeks) may be required to support manufacturing site operations.</li> <li><b></b>Other duties as requested by Management.<b></b></li></ul><div> <p><strong>Minimum Qualifications, Skills and Experience:</strong></p> <ul>  <li>Bachelor in IT related field, system engineering or system administration and /or a Minimum of four (4) years hands-on IT support role experience.</li>  <li>Demonstrated awareness of Data Security.</li>  <li>Evidence of outstanding results and desire to become a star on our journey to Orbit.</li>  <li>Experience of provisioning desktop/laptop/mobile hardware/software plus basic user &amp; security group Active Directory administration as well as security apps and VPN. Previous experience of hosted desktop applications and Office 365 environment is highly beneficial.</li>  <li>Demonstrable knowledge and troubleshooting experience of TCP/IP networks and Microsoft based operating systems, enterprise applications (e.g. Exchange, Teams) and desktop applications (e.g. Word, Excel, Access, Visio) ideally in both an on-premise and cloud environment.</li>  <li>Enthusiasm for learning new technologies and a strive for continuous improvement.</li>  <li>Excellent verbal and written communication skills with a strong support-focused mindset.</li>  <li>Excellent organisational skills with the ability to prioritise work.</li>  <li>Experience in working in a remote team&nbsp;</li> </ul> <p><strong><b>Desired Qualifications, Skills and Experience:</b></strong></p> <ul>  <li>Bachelor in IT related field, system engineering or system administration and /or a Minimum of four (4) years hands-on IT support role experience.</li>  <li>Understanding of LAN environments &amp; VoIP.</li>  <li>Knowledge in SharePoint and other online information systems.</li>  <li>Experience with mobile platforms (iOS/Android) and MDM/MAM tools.</li>  <li>Familiar with ITIL framework and best practices.</li>  <li>NV1 Security Clearance eligible preferred.</li> </ul> <p><strong>How to Apply:</strong></p> <p>Applicants must be an Australian Citizen/Permanent Resident or have an appropriate Australian work visa or work entitlements.</p> <p>If you are a proactive team player with a passion to get Australia to space and a desire to succeed, please apply now by clicking the apply button and including your resume and cover letter or head to our&nbsp;<strong>careers page: www.gspace.com/career</strong></p> <p>Gilmour Space Technologies is proud to be an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all team members. We strongly encourage applications from Aboriginal and Torres Strait Islander peoples for all positions.</p> <p>No Recruitment Agencies Please<strong><b></b></strong></p></div>",
-      "keywords": [
-        "it",
-        "support",
-        "officer"
-      ]
-    },
-    {
-      "job_id": "93775404",
-      "job_title": "Digital Operations Manager",
-      "business_name": "Gold Coast Hospital & Health Service",
-      "work_type": "Contract/Temp",
-      "job_type": "Management",
-      "pay_range": "$5,986.60 - $6,334.60 per fortnight + 12.75% super",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93775404",
-      "advertiser_id": "32285403",
-      "posted_date": "2026-08-05T04:10:09Z",
-      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Digital Operations Manager</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide strategic and operational leadership for a multidisciplinary Operations team</li>\n<li>Lead the planning, delivery, and lifecycle management of critical assets and end-of-life replacement programs</li>\n<li>Provide authoritative operational and strategic advice to executives, senior managers, and stakeholders on risks</li>\n<li>Manage budgets, resources, and workforce allocation to balance business-as-usual service delivery with major digital transformation projects</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, a tertiary qualification in any related field is highly desirable</li>\n<li>This position may incur overtime or extended hours beyond standard business hours</li>\n<li>This position may be required to participate in on-call arrangements</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Temporary full time (three months, with possibility of extension)</li>\n<li>Base salary ranging from $5,986.60 - $6,334.60 per fortnight</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028 (G28).</p>\n<p>DHI is responsible for enhancing efficiency and service delivery improvements to optimise Health Service performance. It also oversees strategic partnerships that help the Health Service implement alternative models of service delivery, ensuring value for money, and driving improvements in performance, and innovation.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Tuesday, 18 August 2026</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC689546</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
-      "keywords": [
-        "digital",
-        "operations",
-        "manager"
-      ]
-    },
-    {
-      "job_id": "93784759",
-      "job_title": "IT Systems Administrator",
-      "business_name": "Infinite Care",
-      "work_type": "Full time",
-      "job_type": "Networks & Systems Administration",
-      "pay_range": "",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93784759",
-      "advertiser_id": "34630605",
-      "posted_date": "2026-08-04T22:31:14Z",
-      "job_description": "<div><div>\n<p><strong>With growth comes opportunity and we’re expanding our ICT capability. </strong></p>\n<p>Due to continued growth and an expanding technology portfolio, we are seeking an additional <strong>IT</strong> <strong>Systems Administrator</strong> to join our IT team. Working alongside our existing Systems Administrator and broader IT team, you will help support and enhance our technology environment across multiple aged care sites. The role will focus on infrastructure, cloud services, cybersecurity, networking, automation, and technical project delivery, while also assisting with operational workloads, improving documentation, and helping drive continuous improvement across our IT systems and processes.</p>\n<p>Reporting to our <strong>Head of Infrastructure</strong>, this role is all about ensuring our systems are secure, reliable, and performing at their best, enabling our teams to work efficiently and ensuring residents receive the highest standard of care.</p>\n<p>As our<strong> IT Systems Administrator</strong>, you’ll play a key part in maintaining and improving Infinite Care’s technology environment. You’ll manage servers, networks, software, security, and documentation, while supporting staff with technical issues and contributing to continuous improvement across the organisation.</p>\n<p>Ideally located on the Gold Coast in our National Support Office in Bundall, this role suits someone who is proactive, values security and stability, and enjoys working collaboratively to solve problems and uplift digital capability.</p>\n<p><strong>The key responsibilities for this role are, but not limited to:&nbsp;</strong></p>\n<p><strong>Systems management</strong> - Maintain servers, storage, and infrastructure to ensure optimal performance and minimal downtime.</p>\n<p><strong>Network administration</strong> - Configure, monitor, and troubleshoot LAN, WAN, and wireless networks, ensuring strong security and reliability.</p>\n<p><strong>Software &amp; vendor management</strong> - Install, update, and manage applications used across our homes, ensuring compliance and coordinating with vendors when needed.</p>\n<p><strong>Data backup &amp; IT security</strong> - Implement backup procedures, disaster recovery plans, and security policies; conduct audits and vulnerability assessments.</p>\n<p><strong>User support &amp; training</strong> - Provide technical support and deliver training to uplift staff confidence with systems and applications.</p>\n<p><strong>Technology upgrades &amp; projects</strong> - Assist with system upgrades, migrations, and new technology evaluations.</p>\n<p><strong>About You</strong></p>\n<p>You’re someone who thrives in a fast‑paced environment, communicates clearly, and enjoys helping others navigate technology with confidence. You bring strong problem‑solving skills, a collaborative mindset, and a commitment to secure, reliable systems.</p>\n<ul>\n<li>Diploma or degree in IT, Computer Science, or related field</li>\n<li>Strong technical knowledge across hardware, software, operating systems, and networking</li>\n<li>Understanding of information security principles and data protection practices&nbsp;</li>\n<li>Experience in aged care, healthcare, or similar environments is highly desirable</li>\n<li>A valid NDIS Workers Screening Clearance (or have the ability to get one)</li>\n</ul>\n<p><strong>Technical Environment</strong></p>\n<ul>\n<li>Microsoft 365, Azure and Entra ID</li>\n<li>Endpoint management and device administration</li>\n<li>Cybersecurity and identity management</li>\n<li>Enterprise networking and wireless technologies</li>\n<li>Server and cloud infrastructure</li>\n<li>PowerShell automation</li>\n<li>VoIP and collaboration platforms</li>\n</ul>\n<p><strong>Infinite Care’s Employee Benefits:</strong></p>\n<ul>\n<li>Fitness Passport to access discounted fitness and wellbeing sessions.</li>\n<li>Discounted Health Insurance.</li>\n<li>Access to in-house and online training programs - FREE to all employees.</li>\n<li>Access to our EAP.</li>\n<li>Work-Rite Micro professional development - FREE to all employees.</li>\n<li>Access to non-for-profit (NFP) salary sacrificing employee benefits</li>\n<li>Defence/Military Veterans are encouraged to apply.</li>\n</ul>\n<p><strong>If you would like to know more about us or this position before applying, then please reach out to our recruitment specialist managing this assignment – Teri via email <a href=\"mailto:teri.vallely@infin8care.com.au\">teri.vallely@infin8care.com.au</a> </strong></p>\n<p><strong>As part of being an Infinite Aged care employee you will be required to complete pre-employment checks.</strong></p>\n<p><strong>We regret we cannot receive applications via email.</strong></p>\n</div></div>",
-      "keywords": [
-        "it",
-        "systems",
-        "administrator"
-      ]
-    },
     {
       "job_id": "93748572",
       "job_title": "IT Tech Support",
@@ -1072,6 +972,24 @@
         "seo",
         "project",
         "manager"
+      ]
+    },
+    {
+      "job_id": "93562332",
+      "job_title": "Senior Integration Developers",
+      "business_name": "City of Gold Coast",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "$111,401-$117,924 p/a plus superannuation",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93562332",
+      "advertiser_id": "16652581",
+      "posted_date": "2026-07-26T22:37:56Z",
+      "job_description": "<ul> <li><strong>Full Time (3x opportunities available) | 9-day fortnight | 36 hours per week </strong></li> <li> <strong>Salary: </strong>From $111,401 - $ 117,924 per annum plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG1813/assets/31449818\">Senior Integration Developer</a> </li> </ul> <p> </p> <p><strong>About the team</strong></p> <p>We're entering a new chapter for the Chief Technology Office at the City of Gold Coast as we deliver bold, future-focused solutions. With the launch of our IT Operating Model and the transition of critical IT services in-house, we are transforming the way we deliver technology, making it faster, more responsive, and more aligned with the needs of our organisation and customers.As part of this transformation, we're hiring multiple new positions. These roles are key to shaping a vibrant and forward-thinking Chief Technology Office, one that adds real value, delivers better outcomes, and works in smarter, more agile ways.You’ll be part of a forward-thinking team delivering innovative, enterprise-scale integration solutions. This is your chance to influence architecture, drive automation, and help shape a connected digital ecosystem.</p> <p><strong>About the role</strong></p> <p>As a Senior Integration Engineer, you’ll design, build, and support integrations across internal systems, cloud platforms, and third-party applications. You’ll play a key role in enabling seamless data flow through APIs, middleware, and modern integration patterns ensuring solutions are secure, scalable, and high-performing.</p> <p><strong>We’re looking for people who have:</strong></p> <p>• Bachelor’s degree in IT, Computer Science or related field (or equivalent experience)• Relevant certification in Azure, cloud or integration technologies (desirable)<br>• Extensive experience supporting, maintaining and enhancing enterprise integration solutions<br>• Strong hands-on experience with <strong>Azure Integration Services</strong>, including Logic Apps, Azure Functions, API Management (APIM) and Service Bus<br>• Experience working with enterprise systems, APIs, middleware, messaging and data exchange processes<br>• Demonstrated ability to troubleshoot, diagnose and resolve complex integration issues and optimise existing integrations<br>• Experience with integration monitoring, production support, incident and problem management<br>• Experience building CI/CD pipelines using GitLab<br>• Experience with ITIL/service management practices<br>• Strong analytical, problem-solving, communication and stakeholder management skills</p> <p><strong>Be part of shaping the Gold Coast’s future </strong></p> <p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p> <p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p> <ul> <li> <p>9-day fortnight </p> </li> </ul> <ul> <li> <p>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations </p> </li> </ul> <ul> <li> <p>Personal and professional development courses </p> </li> </ul> <ul> <li> <p>Access to 350+ fitness facilities through Fitness Passport </p> </li> </ul> <ul> <li> <p>4 free confidential counselling sessions a year for you or an immediate family member </p> </li> </ul> <ul> <li> <p>1 free nutritionist and financial advice session per year </p> </li> </ul> <p> We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p> <p><strong>How to apply</strong></p> <p>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p> <p><strong>Contact Person</strong> Ashley Shannon</p> <p><strong>Contact Email</strong> <a href=\"mailto:ashannon@goldcoast.qld.gov.au\">ashannon@goldcoast.qld.gov.au</a></p> <p><strong>Closing Date</strong> Wednesday 5th of August 2026, 11:59pm AEDT</p> <p> </p> <p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
+      "keywords": [
+        "integration",
+        "developers"
       ]
     },
     {
@@ -1690,6 +1608,30 @@
       ]
     },
     {
+      "job_id": "93288483",
+      "job_title": "Business Analyst/Project Manager – HR Transformation & Process Improvement",
+      "business_name": "PM-Partners Group",
+      "work_type": "Contract/Temp",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "Competitive",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93288483",
+      "advertiser_id": "20626694",
+      "posted_date": "2026-07-13T08:16:18Z",
+      "job_description": "<p><em>PM-Partners group is a specialist Project Management Consultancy. We have a unique way of running projects and providing training and advice, so our clients get the best results with less cost and risk. Each year we deliver over $3B of projects, train over 10,000 people, and help some of Australia’s leading brands improve their PMOs. </em>&nbsp;</p><p><br></p><p><strong>Title: Business Analyst/Project Manager – HR Transformation &amp; Process Improvement</strong></p><p><strong>Contract or Fixed-Term Opportunity | Hybrid</strong></p><p><strong>Location: Gold Coast</strong></p><p>Are you a Business Analyst who enjoys working closely with people, processes and organisational change?</p><p>We are partnering with a respected community-focused organisation seeking a Business Analyst to support a strategic HR transformation initiative. This is an opportunity to take ownership of a high-profile project focused on reviewing and improving the end-to-end employee lifecycle.</p><p>Working with senior stakeholders, you will help assess current-state processes, identify improvement opportunities and design future-state ways of working that are scalable, practical and fit for purpose.</p><p>&nbsp;</p><p><strong>The Role</strong></p><p>Key responsibilities include:</p><ul><li>Conducting stakeholder workshops and discovery sessions</li><li>Mapping current and future-state business processes</li><li>Reviewing policies, procedures and operational practices</li><li>Identifying process gaps, risks and improvement opportunities</li><li>Developing recommendations and supporting implementation planning</li><li>Providing governance, reporting and project support</li><li>Engaging with executive and operational stakeholders</li></ul><p><strong>About You</strong></p><ul><li>Strong Business Analysis experience</li><li>Experience leading discovery and process review activities</li><li>Excellent stakeholder engagement and facilitation skills</li><li>A structured and analytical approach to problem solving</li><li>Strong written documentation skills</li><li>High emotional intelligence and the ability to navigate sensitive conversations</li></ul><p><strong>Highly Regarded</strong></p><ul><li>HR, People &amp; Culture or workforce transformation experience</li><li>Organisational change or process improvement projects</li><li>Policy and procedure review experience</li><li>Exposure to project governance and reporting</li></ul><p><strong>What's on Offer</strong></p><ul><li>12-month engagement</li><li>Flexible engagement options available</li><li>Opportunity to influence organisational transformation</li><li>Significant stakeholder engagement</li><li>High visibility across executive leadership</li></ul><p>This role would suit an experienced Business Analyst looking to work on a meaningful transformation initiative, or a BA seeking to broaden their experience into project leadership and organisational improvement.</p><p><br></p><p><strong>Apply now or contact PM-Partners for a confidential discussion.</strong></p> <p> </p>",
+      "keywords": [
+        "business",
+        "analyst",
+        "project",
+        "manager",
+        "hr",
+        "transformation",
+        "process",
+        "improvement"
+      ]
+    },
+    {
       "job_id": "93279658",
       "job_title": "Technical Lead",
       "business_name": "Just Digital People",
@@ -1841,6 +1783,42 @@
       ]
     },
     {
+      "job_id": "93191817",
+      "job_title": "Automation Specialist",
+      "business_name": "Department of Health - Queensland",
+      "work_type": "Full time",
+      "job_type": "Product Management & Development",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93191817",
+      "advertiser_id": "32285210",
+      "posted_date": "2026-07-08T03:51:04Z",
+      "job_description": "<div>\n \n <p>The Automation Specialist is the technical lead in the design, development, implementation and support of high-quality automation products across the Gold Coast Hospital and Health Service.</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for an <strong>Automation Specialist</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Lead and provide software development and related technical specialist support services</li>\n<li>Design and develop high quality enterprise software application products, components and services</li>\n<li>Ensure appropriate documentation is produced to support and track the project/service effort</li>\n<li>Analyse, identify, and formulate product and service improvements in particular enterprise application services</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, a relevant qualification would be well regarded</li>\n<li>While not mandatory, experience in automating citrix-based applications within a healthcare environment would be well regarded.</li>\n<li>Evidence of vaccination, or be able to be vaccinated against and remain vaccinated against - Measles, Mumps, Rubella, Varicella, Pertussis and Hepatitis B</li>\n<li>Tuberculosis screening, to identify if the tuberculosis vaccination may be required</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $140,115 - $150,371 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028.</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.</p>\n<p>Digital Experience is part of the Digital and Information stream within the division. The service provides:&nbsp;</p>\n<ul>\n<li>Process mining and engineering&nbsp;</li>\n<li>User experience (UX) design&nbsp;</li>\n<li>Software development&nbsp;</li>\n<li>Web development&nbsp;</li>\n<li>Integration / interoperability&nbsp;</li>\n<li>Automation&nbsp;</li>\n<li>Testing&nbsp;</li>\n<li>Digital workflow and adoption support&nbsp;</li>\n</ul>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Wednesday, 5 August 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC687224</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
+      "keywords": [
+        "automation",
+        "specialist"
+      ]
+    },
+    {
+      "job_id": "93188061",
+      "job_title": "Automation Specialist",
+      "business_name": "Gold Coast Hospital & Health Service",
+      "work_type": "Full time",
+      "job_type": "Engineering - Software",
+      "pay_range": "$140,115 - $150,371 per annum + 12.75% super",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93188061",
+      "advertiser_id": "32285403",
+      "posted_date": "2026-07-08T02:30:21Z",
+      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for an <strong>Automation Specialist</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Lead and provide software development and related technical specialist support services</li>\n<li>Design and develop high quality enterprise software application products, components and services</li>\n<li>Ensure appropriate documentation is produced to support and track the project/service effort</li>\n<li>Analyse, identify, and formulate product and service improvements in particular enterprise application services</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, a relevant qualification would be well regarded</li>\n<li>While not mandatory, experience in automating citrix-based applications within a healthcare environment would be well regarded.</li>\n<li>Evidence of vaccination, or be able to be vaccinated against and remain vaccinated against - Measles, Mumps, Rubella, Varicella, Pertussis and Hepatitis B</li>\n<li>Tuberculosis screening, to identify if the tuberculosis vaccination may be required</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $140,115 - $150,371 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028.</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.</p>\n<p>Digital Experience is part of the Digital and Information stream within the division. The service provides:&nbsp;</p>\n<ul>\n<li>Process mining and engineering&nbsp;</li>\n<li>User experience (UX) design&nbsp;</li>\n<li>Software development&nbsp;</li>\n<li>Web development&nbsp;</li>\n<li>Integration / interoperability&nbsp;</li>\n<li>Automation&nbsp;</li>\n<li>Testing&nbsp;</li>\n<li>Digital workflow and adoption support&nbsp;</li>\n</ul>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Wednesday, 5 August 2026</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC687224</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
+      "keywords": [
+        "automation",
+        "specialist"
+      ]
+    },
+    {
       "job_id": "93166908",
       "job_title": "Business Analyst",
       "business_name": "SEE Group",
@@ -1856,6 +1834,25 @@
       "keywords": [
         "business",
         "analyst"
+      ]
+    },
+    {
+      "job_id": "93133178",
+      "job_title": "Sr Encapsulation Operator",
+      "business_name": "VDS Contract Manufacturing Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "$65,000 – $70,000 per year",
+      "area": "Arundel, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93133178",
+      "advertiser_id": "47710865",
+      "posted_date": "2026-07-06T01:38:46Z",
+      "job_description": "<p>VDS Contract Manufacturing is a fast growing manufacturing business of pharmaceutical and food supplements located on the Gold Coast. VDS Contract Manufacturing, manufactures according to TGA, cGMP, HACCP &amp; ACO requirements. Our experienced team strive to achieve optimal customer satisfaction through taking a personal approach in your manufacturing journey, constructing your concept into a reality. VDS Contract Manufacturing endeavors to create continual exceptional rapport with new and existing customers with emphasis on trust, honesty and respect. Our experienced and friendly team will help you along the way to manufacture the finest product on the market, paying attention to detail and leaving customers delighted with the final result. At VDS Contract Manufacturing customer satisfaction is crucial and we aim to exceed expectations.</p><p><br></p><p><strong>The Role</strong></p><p>The team at VDS is seeking reliable production (encapsulation) operators to work in their production team. We are seeking for operators who can work from Monday to Friday or at least 4 days a week.</p><p>Your daily task will require you to work on production lines where you will be assisting in manufacturing individual capsule supplements.</p><p>We are especially interested in candidates with experience in <strong>encapsulation.</strong></p><p><br></p><p><strong>Tasks &amp; responsibilities</strong></p><ul><li><p>Work closely with room leaders to constantly deliver on quality food products.</p></li><li><p>Follow batch documents and internal procedures.&nbsp;</p></li><li><p>Setting up and operation of encapsulation machine</p></li><li><p>Conduct quality checks and in-process checks</p></li><li><p>Identify and report equipment or quality issues promptly</p></li><li><p>Must be able to work independently</p></li><li><p>Assist with cleaning production equipment and production areas</p></li><li><p>Any other task as required in the production process</p></li></ul><p><br></p><p><strong>Qualifications &amp; experience</strong></p><ul><li><p>Previous experience in a manufacturing or GMP-regulated environment</p></li><li><p>Experience working in encapsulating machines</p></li><li><p>Must have attention to detail</p></li><li><p>Mechanically minded individuals preferred</p></li><li><p>Willingness to learn a new skill</p></li><li><p>Ability to lift 15-25kg</p></li><li><p>Successfully completed year twelve or equivalent</p></li><li><p>Must be available to work afternoon Monday to Friday&nbsp;</p></li></ul><p><br></p><p><strong>Benefits</strong></p><ul><li><p>Work in a friendly environment</p></li><li><p>We are willing to pay a competitive wage to the successful candidates</p></li><li><p>Afternoon shift rate (when required)</p></li><li><p>Permanent opportunities</p></li><li><p>Growth within the company for suitable candidates&nbsp;</p></li></ul><p><strong>GMP Rules</strong>:</p><ul><li><p>No jewelry, piercings, fake eyelashes, fake nails/nail polish allowed inside the production rooms</p></li><li><p>Safety shoes is a must-have</p></li></ul><p><br></p>",
+      "keywords": [
+        "sr",
+        "encapsulation",
+        "operator"
       ]
     }
   ]
