@@ -1,585 +1,491 @@
 {
-  "date": "2026-08-08",
+  "date": "2026-08-07",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-08T06:30:39.370937+10:00",
-  "total_jobs": 73,
+  "scraped_at": "2026-08-07T10:51:22.943790+10:00",
+  "total_jobs": 71,
   "keywords": [
     {
-      "term": "analyst",
-      "count": 13,
-      "share": 0.1781
+      "term": "support",
+      "count": 12,
+      "share": 0.169
     },
     {
       "term": "engineer",
       "count": 11,
-      "share": 0.1507
+      "share": 0.1549
     },
     {
       "term": "manager",
       "count": 11,
-      "share": 0.1507
+      "share": 0.1549
     },
     {
       "term": "it",
       "count": 11,
-      "share": 0.1507
+      "share": 0.1549
     },
     {
-      "term": "support",
-      "count": 11,
-      "share": 0.1507
+      "term": "analyst",
+      "count": 10,
+      "share": 0.1408
+    },
+    {
+      "term": "officer",
+      "count": 8,
+      "share": 0.1127
     },
     {
       "term": "business",
-      "count": 9,
-      "share": 0.1233
-    },
-    {
-      "term": "ict",
       "count": 7,
-      "share": 0.0959
+      "share": 0.0986
     },
     {
       "term": "developer",
       "count": 6,
-      "share": 0.0822
+      "share": 0.0845
     },
     {
-      "term": "officer",
+      "term": "ict",
       "count": 6,
-      "share": 0.0822
+      "share": 0.0845
     },
     {
-      "term": "technical",
-      "count": 5,
-      "share": 0.0685
-    },
-    {
-      "term": "systems",
-      "count": 5,
-      "share": 0.0685
-    },
-    {
-      "term": "project",
+      "term": "ai",
       "count": 4,
-      "share": 0.0548
+      "share": 0.0563
     },
     {
       "term": "network",
       "count": 4,
-      "share": 0.0548
+      "share": 0.0563
     },
     {
       "term": "administrator",
       "count": 4,
-      "share": 0.0548
+      "share": 0.0563
     },
     {
       "term": "specialist",
       "count": 4,
-      "share": 0.0548
+      "share": 0.0563
     },
     {
       "term": "software",
       "count": 4,
-      "share": 0.0548
+      "share": 0.0563
+    },
+    {
+      "term": "technical",
+      "count": 4,
+      "share": 0.0563
+    },
+    {
+      "term": "systems",
+      "count": 4,
+      "share": 0.0563
+    },
+    {
+      "term": "infrastructure",
+      "count": 4,
+      "share": 0.0563
     },
     {
       "term": "development",
       "count": 4,
-      "share": 0.0548
-    },
-    {
-      "term": "ai",
-      "count": 3,
-      "share": 0.0411
+      "share": 0.0563
     },
     {
       "term": "platform",
       "count": 3,
-      "share": 0.0411
+      "share": 0.0423
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0411
+      "share": 0.0423
     },
     {
       "term": "technology",
       "count": 3,
-      "share": 0.0411
+      "share": 0.0423
+    },
+    {
+      "term": "project",
+      "count": 3,
+      "share": 0.0423
     },
     {
       "term": "digital",
       "count": 3,
-      "share": 0.0411
+      "share": 0.0423
     },
     {
       "term": "operations",
       "count": 3,
-      "share": 0.0411
+      "share": 0.0423
     },
     {
       "term": "ongc",
       "count": 2,
-      "share": 0.0274
+      "share": 0.0282
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0274
+      "share": 0.0282
     },
     {
       "term": "php",
       "count": 2,
-      "share": 0.0274
+      "share": 0.0282
+    },
+    {
+      "term": "engineering",
+      "count": 2,
+      "share": 0.0282
+    },
+    {
+      "term": "product",
+      "count": 2,
+      "share": 0.0282
     },
     {
       "term": "ffs",
       "count": 2,
-      "share": 0.0274
-    },
-    {
-      "term": "infrastructure",
-      "count": 2,
-      "share": 0.0274
+      "share": 0.0282
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0274
-    },
-    {
-      "term": "leader",
-      "count": 1,
-      "share": 0.0137
+      "share": 0.0282
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "solutions",
       "count": 1,
-      "share": 0.0137
-    },
-    {
-      "term": "accounting",
-      "count": 1,
-      "share": 0.0137
-    },
-    {
-      "term": "expert",
-      "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "timetabling",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "examinations",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "insights",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "fabric",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "commerce",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "wordpress",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "heads",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "days",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "per",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "week",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "dotnet",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "laravel",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0137
-    },
-    {
-      "term": "engineering",
-      "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
+    },
+    {
+      "term": "c#",
+      "count": 1,
+      "share": 0.0141
+    },
+    {
+      "term": "net",
+      "count": 1,
+      "share": 0.0141
+    },
+    {
+      "term": "llm",
+      "count": 1,
+      "share": 0.0141
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "java",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "architecture",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "staff",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "tech",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0137
-    },
-    {
-      "term": "pos",
-      "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "api",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
-      "term": "help",
+      "term": "pos",
       "count": 1,
-      "share": 0.0137
-    },
-    {
-      "term": "desk",
-      "count": 1,
-      "share": 0.0137
-    },
-    {
-      "term": "assistant",
-      "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "back",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "office",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
+    },
+    {
+      "term": "help",
+      "count": 1,
+      "share": 0.0141
+    },
+    {
+      "term": "desk",
+      "count": 1,
+      "share": 0.0141
+    },
+    {
+      "term": "assistant",
+      "count": 1,
+      "share": 0.0141
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "custodian",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "workplace",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0137
-    },
-    {
-      "term": "product",
-      "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "service",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "governance",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "telecommunications",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "rod",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "rope",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "cable",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "hauler",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "seo",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "ui",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "ux",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "landing",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "page",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "leadify",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0137
+      "share": 0.0141
     }
   ],
   "jobs": [
-    {
-      "job_id": "93834239",
-      "job_title": "Business Analyst - Accounting Expert",
-      "business_name": "Odoo",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "$85,000 – $95,000 per year + super",
-      "area": "Varsity Lakes, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93834239",
-      "advertiser_id": "47971668",
-      "posted_date": "2026-08-07T05:33:28Z",
-      "job_description": "<h2><strong>About&nbsp;Odoo</strong></h2><p>With a small team of smart people who like working hard and have fun too, we released the most disruptive enterprise management software in the world: Odoo. Fully open source, full-featured with apps like Accounting, HR, CRM, Manufacturing, and 4,000 more. Its online offer is 3 times more affordable than traditional competitors like SAP and Microsoft.</p><p>At Odoo, we value independence, flexibility, and personal growth. We're a fast-growing company that embraces innovation and encourages our team members to push boundaries and reach new heights. With our Australian office nestled in the beautiful Gold Coast's Varsity Lakes, we offer the perfect blend of exciting work and an amazing lifestyle.</p><p><br></p><h2><strong>About the job</strong></h2><p>You’ll join a <strong>dynamic, cross-functional team</strong> focused on ensuring Odoo becomes the go-to solution for accountants in Australia.</p><p>As a Business Analyst – Accounting Firm&nbsp;Expert, you will play a pivotal role in shaping the future of accounting software in Australia. Working closely with accounting firms (fiduciaries), product teams, and internal consultants, you’ll help position Odoo as a fully AU-compliant, accountant-first solution.</p><p>This role combines <strong>hands-on project delivery</strong>, <strong>product evolution</strong>, and <strong>industry enablement</strong>, making it ideal for someone who enjoys variety, impact, and working at the intersection of accounting and technology.</p><p><br></p><p><strong>You'll never get bored!</strong></p><p><br></p><strong>What You'll Love About This Role</strong><ul><li><p>A high-impact role helping shape one of Australia’s next major accounting platforms.</p></li><li><p>The opportunity to work directly with accounting firms as primary customers.</p></li><li><p>Influence product direction through real market feedback.</p></li><li><p>A&nbsp;mix of project work, product ownership, training, and industry engagement.</p></li><li><p>Autonomy, variety, and the chance to build something meaningful from the ground up.</p></li><li><p>Collaboration with passionate experts across accounting,&nbsp;and technology teams.</p></li></ul><strong>Responsibilities</strong><ul><li><p>Manage and deliver projects similar to Professional Services engagements, with a strong accounting focus.</p></li><li><p>Implement Odoo for SMEs, ensuring best practices in accounting and payroll configuration.</p></li><li><p>Test and validate solutions developed by technical teams.</p></li><li><p>Monitor market trends and legal/regulatory changes.</p></li><li><p>Organise and deliver internal training sessions for the PL team, focusing on accounting and payroll topics.</p></li><li><p>Contribute to the evolution of Australian accounting and payroll localisation in Odoo.</p></li><li><p>Participate in and organise accounting-focused business events, roadshows, and industry exhibitions in collaboration with fiduciaries.</p></li></ul><h2><strong>About you</strong></h2><p><strong>At Odoo, we value your skills more than your resume.</strong><br>Here's what we expect from you:</p><strong>Must have</strong><ul><li><p>Minimum 1 year of experience working in or closely with an accounting firm.</p></li><li><p>Strong understanding of accounting and payroll processes.</p></li><li><p>Ability to manage projects and multiple stakeholders.</p></li><li><p>Problem-solving skills.</p></li><li><p>Quick &amp; autonomous learner.</p></li><li><p>Professional proficiency in spoken and written English.</p></li><li><p>Interest in accounting software, ERP systems, and digital transformation.</p></li></ul><strong>Nice to have</strong><ul><li><p>Experience with ERP or accounting software implementation.</p></li><li><p>Exposure to Australian accounting and payroll compliance.</p></li><li><p>Background in training, enablement, or client-facing consulting roles</p></li></ul><p><br></p>",
-      "keywords": [
-        "business",
-        "analyst",
-        "accounting",
-        "expert"
-      ]
-    },
-    {
-      "job_id": "93833475",
-      "job_title": "Business Analyst",
-      "business_name": "Odoo",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "$80,000 – $90,000 per year + super",
-      "area": "Varsity Lakes, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93833475",
-      "advertiser_id": "47971668",
-      "posted_date": "2026-08-07T05:06:02Z",
-      "job_description": "<h2><strong>About&nbsp;Odoo</strong></h2><p>With a small team of smart people who like working hard and have fun too, we released the most disruptive enterprise management software in the world: Odoo. Fully open source, full-featured with apps like Accounting, HR, CRM, Manufacturing, and 4,000 more. Its online offer is 3 times more affordable than traditional competitors like SAP and Microsoft.</p><p>At Odoo, we value independence, flexibility, and personal growth. We're a fast-growing company that embraces innovation and encourages our team members to push boundaries and reach new heights. With our Australian office nestled in the beautiful Gold Coast's Varsity Lakes, we offer the perfect blend of exciting work and an amazing lifestyle.</p><p><br></p><h2><strong>About the team</strong></h2><p>Join a vibrant and innovative team, working within an organisation that values independence, flexibility and personal growth. We are looking for Project Leaders to join our team responsible for ERP implementation projects. As a Project&nbsp;Leader, you will be the single point of contact for customers / clients, leading a project from beginning to end.&nbsp;You will be joining our Australian office based in Varsity Lakes, Gold Coast.</p><p><strong>You'll never get bored!</strong></p><strong>Responsibilities</strong><ul><li><p>Analysing customer’s needs and business&nbsp;requirements</p></li><li><p>Suggesting business flows before implementing agreed upon solutions</p></li><li><p>Managing projects from&nbsp;A to Z, onboarding users on time and on budget</p></li><li><p>Implementing our Odoo business software and deliver tailor-made training</p></li><li><p>Steadily growing your expertise to provide customers with functional assistance</p></li><li><p>Collaborating with Odoo's developers to execute specific customers' business requirements, as well as working with sales team in pre &amp; post-sale</p></li><li><p>Supporting the growth of our partner network to become Odoo expert</p></li></ul><strong>Why You'll Love This Job</strong><ul><li><p>The opportunity to evolve with a great and fast-growing&nbsp;multinational&nbsp;company</p></li><li><p>Get full responsibility on your projects</p></li><li><p>Explore large business scopes: CRM, manufacturing, accounting, inventory, HR, project management,...</p></li><li><p>Coordinate with other Odoo departments: sales, developers, R&amp;D,...</p></li><li><p>Work with heaps of different customers and industries</p></li></ul><h2><strong>About you</strong></h2><p><strong>At Odoo, we value your skills more than your resume.</strong><br>Here's what we expect from you:</p><strong>Must have</strong><ul><li><p>Permanent working rights in Australia</p></li><li><p>Excellent communication and interpersonal&nbsp;skills</p></li><li><p>Bachelor or Master Degree</p></li><li><p>At ease with software &amp;&nbsp;IT</p></li><li><p>Strong passion for software development</p></li><li><p>Problem-solving skills</p></li><li><p>Quick &amp; autonomous learner</p></li></ul><strong>Nice to have</strong><ul><li><p>1-3 years of relevant experience</p></li><li><p>Immediate availability</p></li><li><p>Relevant background or experience</p></li></ul><p><br></p>",
-      "keywords": [
-        "business",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "93833355",
-      "job_title": "Technical Support Analyst (QLD)",
-      "business_name": "Nexigen Digital",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93833355",
-      "advertiser_id": "25685289",
-      "posted_date": "2026-08-07T05:03:38Z",
-      "job_description": "<p><strong>About Nexigen Digital</strong></p><p><br>We are Australia’s largest privately-owned group of online service providers, which includes brands such as VentraIP, Synergy Wholesale and Intaserve.</p><p><br>Every day, our all-Australian team delivers exceptional service and outstanding support to our 200,000+ customers who choose us for their domain names, website hosting and digital marketing.</p><p><br></p><p>Over the past fifteen years, we have been constant game-changers, industry innovators, award winners, and community leaders - and now is your chance to join our team.</p><p><br></p><br><p><strong>Joining our Technical Support Team</strong></p><p><br></p><p>We are looking for people who have a passion for I.T. and are looking for a stepping stone to kick-start their I.T. career. As part of our front-line team, you will be tasked with ensuring our customers continue to receive the best customer service and technical support in the industry, while providing a timely resolution to issues raised by our customers.</p><p><br></p><p><strong>The position</strong></p><ul><li>Monitor and respond to service alerts</li><li>Diagnose issues with domain names</li><li>Performing Linux and cPanel server administration and troubleshooting</li><li>Assist customers with technical support enquiries, via phone, live chats, and/or emails</li><li>Flexibility is key, as this is a permanent full-time position, on a 24/7 rotating roster.</li></ul><p><br></p><p><strong>The right person (is it you?)</strong></p><p>As this is an entry-level position, previous experience is <strong>not a requirement,</strong> as we provide comprehensive training to successful candidates. Although previous experience is not required, a love and a good understanding of technology will take you far.</p><p><br></p><p>To be the best in this role, we are looking for people with the following attributes:</p><ul><li>A passion for technology (cyber security, gaming, PC building, etc.)</li><li>The ability to absorb information and learn quickly</li><li>Efficient problem-solving skills</li><li>A positive attitude towards our customers and service delivery</li><li>Attention to detail</li></ul><p><br></p><p>Any previous experience in the following areas would be highly regarded:</p><ul><li>cPanel (WHM) control panel</li><li>Domain names</li><li>DNS</li><li>FTP, SSH and email protocols such as POP3, IMAP and SMTP</li><li>Linux (CentOS) and VMware<br><br></li></ul><p><strong>The Benefits of Working With the Nexigen Digital Team</strong></p><p><br>We pride ourselves on our unique facilities and team culture, and a top-down mandate to take care of the people who take care of our customers. There's a reason we were awarded “Employer of Choice” in the Australian Business Awards.</p><p><br></p><p>Some of the office perks include:</p><ul><li>A weekly selection of delicious meals prepared in our on-site kitchen for breakfast and lunch.</li><li>A fully-stocked snack bar featuring an assortment of chips, chocolates, nuts, protein bars and fresh fruit.</li><li>A drink fridge loaded with an assortment of soft drinks, juices and water.</li><li>A fully equipped private gym with weekly on-site personal training sessions.</li><li>A team wellness centre with a soundproof gaming stadium featuring an 85” 4K TV, racing car simulator, pinball machine, arcade machine, and air hockey table.</li><li>An on-site salon where our resident barber and stylist provide free haircuts on a regular basis.</li></ul><p><br></p><p>We actively encourage training and upskilling for personal development and will fund courses that have a beneficial impact on the business.</p><p><br></p><p>Please note that due to strict security requirements, the successful applicant will be required to complete a National Police Check as a condition of employment.</p><br><br><p>PI<a href=\"tel:286305987\">286305987</a></p>",
-      "keywords": [
-        "technical",
-        "support",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "93833194",
-      "job_title": "ICT Systems Engineer",
-      "business_name": "Trinity Lutheran College",
-      "work_type": "Full time",
-      "job_type": "Networks & Systems Administration",
-      "pay_range": "Level 6 - $91,570 to $111,510 per year",
-      "area": "Ashmore, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93833194",
-      "advertiser_id": "20481382",
-      "posted_date": "2026-08-07T05:02:08Z",
-      "job_description": "<p><strong>ICT Systems Engineer</strong></p><p><strong>&nbsp;Full-time | Permanent | Monday to Friday&nbsp; &nbsp;</strong></p><p>Are you an experienced ICT professional who enjoys solving complex problems and making technology work better for people?</p><p>Trinity Lutheran College is a Prep to Year 12 Christian co-educational College on the Gold Coast, where exceptional teaching, authentic relationships and a commitment to helping every student flourish are at the heart of everything we do.</p><p>We are looking for someone who approaches their work with curiosity and initiative, demonstrates care for the people they support, brings ownership and purpose to solving problems, and enjoys getting beneath complex technical challenges to find reliable, sustainable solutions.</p><p><strong>About the role</strong></p><p>The ICT Systems Engineer plays a key role in the design, implementation, maintenance and ongoing development of the College's ICT infrastructure. Working across systems administration, networking, cybersecurity and cloud, while supporting ICT projects, system migrations and major technology rollouts across the College.</p><p>This is a role where strong technical capability is important, but what will set you apart is the way you think and solve problems. We need someone who takes genuine ownership of issues, works through challenges methodically rather than stopping at the first roadblock, and understands that great technology should ultimately make things easier and better for the people using it.</p><p>A key aspect of this role is being an escalation point for more complex technical issues and work closely with the ICT Manager to research, evaluate and implement technologies that enhance learning, communication and operational efficiency across the College.</p><p><strong>Who we’re looking for</strong></p><p>You are an experienced ICT professional who enjoys solving complex technical problems and building reliable, secure systems. You bring a service mindset, communicate well with both technical and non-technical people, and take pride in seeing an issue through from investigation to resolution.</p><p>You will demonstrate the ability to:</p><ul><li><p>Design, implement and maintain enterprise-level ICT infrastructure and solutions.</p></li><li><p>Manage and optimise networks, systems and cloud/on-premises environments.</p></li><li><p>Apply strong cybersecurity practices and contribute to security monitoring, risk mitigation and disaster recovery.</p></li><li><p>Troubleshoot complex technical issues and act as an escalation point when deeper technical expertise is required.</p></li><li><p>Contribute to ICT projects, system migrations and major software and hardware implementations.</p></li><li><p>Research and evaluate emerging technologies and identify practical opportunities to improve the College's digital environment.</p></li><li><p>Communicate technical concepts clearly and build trusted relationships with staff and stakeholders across the College.</p></li><li><p>Support and mentor others to strengthen ICT capability across the College.</p></li></ul><p>To learn more about the role please review the <a href=\"https://secure.ermonline.com.au/education/gateway/intranet_gateway.cfm?eu=TU-89AA8AEC-EC89-BA87-B227A586AA19C16D-89AA8AED-0964-CB62-44DCC8642371988F\" target=\"_blank\">Position Description - ICT Systems Engineer</a></p><p>A covering letter is important to us - Please tell us about a complex technical issue you identified and took ownership of. We'd love to understand how you investigated the problem, worked through the options and implemented a solution that improved reliability, security or the experience of the people using the technology.</p><p><strong>Why Trinity?&nbsp;</strong></p><p>Join a college that genuinely invests in its people, where technology exists to serve students, staff and families - not the other way around.</p><ul><li><p>Join a college that genuinely invests in its people, where technology exists to serve students, staff and families – not the other way around.</p></li><li><p>Help shape how a fast-growing College manages a sprawling technology footprint.</p></li><li><p>Take genuine technical ownership of infrastructure, systems and complex ICT challenges.</p></li><li><p>Ongoing professional learning and opportunities to continue developing your technical capability.</p></li><li><p>Modern facilities in a central Gold Coast location, including free parking and gym.</p></li></ul><p>The College expects all staff, students, and the community to embody the values and beliefs of our Lutheran school, reflecting commitment to our policies and educational excellence.</p><p>For further information about our school, please visit our website: tlc.qld.edu.au</p><p><strong>How to apply</strong></p><p>If this role sounds like a good fit for you, we invite you to submit your current CV and include a one-page cover letter, this forms an important part of our selection process.</p><p>Any further queries about the role can be directed to John McDiardmid by calling <a href=\"tel:(07) 5556 8231\">(07) 5556 8231</a> or emailing <a href=\"mailto:careers@tlc.qld.edu.au\" target=\"_blank\">careers@tlc.qld.edu.au</a></p><p><em>Please note: We are managing this recruitment process directly and are not accepting applications or enquiries from recruitment agencies.</em></p><p><strong><em>Trinity Lutheran College supports the rights of children and young people and is committed to the safety and wellbeing of students. Applicants must hold current Working with Children Card (Blue Card) to be eligible for this role. </em>Interviews of suitable candidates will commence as soon as they are identified.</strong></p>",
-      "keywords": [
-        "ict",
-        "systems",
-        "engineer"
-      ]
-    },
-    {
-      "job_id": "93832394",
-      "job_title": "Project Leader",
-      "business_name": "Odoo",
-      "work_type": "Full time",
-      "job_type": "Architects",
-      "pay_range": "$80,000 – $90,000 per year + super",
-      "area": "Varsity Lakes, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93832394",
-      "advertiser_id": "47971668",
-      "posted_date": "2026-08-07T04:34:31Z",
-      "job_description": "<h2><strong>About&nbsp;Odoo</strong></h2><p>With a small team of smart people who like working hard and have fun too, we released the most disruptive enterprise management software in the world: Odoo. Fully open source, full-featured with apps like Accounting, HR, CRM, Manufacturing, and 4,000 more. Its online offer is 3 times more affordable than traditional competitors like SAP and Microsoft.</p><p>At Odoo, we value independence, flexibility, and personal growth. We're a fast-growing company that embraces innovation and encourages our team members to push boundaries and reach new heights. With our Australian office nestled in the beautiful Gold Coast's Varsity Lakes, we offer the perfect blend of exciting work and an amazing lifestyle.</p><p><br></p><h2><strong>About the team</strong></h2><p>Join a vibrant and innovative team, working within an organisation that values independence, flexibility and personal growth. We are looking for Project Leaders to join our team responsible for ERP implementation projects. As a Project&nbsp;Leader, you will be the single point of contact for customers / clients, leading a project from beginning to end.&nbsp;You will be joining our Australian office based in Varsity Lakes, Gold Coast.</p><p><br></p><p><strong>You'll never get bored!</strong></p><p><br></p><strong>Responsibilities</strong><ul><li><p>Analysing customer’s needs and business&nbsp;requirements</p></li><li><p>Suggesting business flows before implementing agreed upon solutions</p></li><li><p>Managing projects from&nbsp;A to Z, onboarding users on time and on budget</p></li><li><p>Implementing our Odoo business software and deliver tailor-made training</p></li><li><p>Steadily growing your expertise to provide customers with functional assistance</p></li><li><p>Collaborating with Odoo's developers to execute specific customers' business requirements, as well as working with sales team in pre &amp; post-sale</p></li><li><p>Supporting the growth of our partner network to become Odoo expert</p></li></ul><p><br></p><strong>Why You'll Love This Job</strong><ul><li><p>The opportunity to evolve with a great and fast-growing&nbsp;multinational&nbsp;company</p></li><li><p>Get full responsibility on your projects</p></li><li><p>Explore large business scopes: CRM, manufacturing, accounting, inventory, HR, project management,...</p></li><li><p>Coordinate with other Odoo departments: sales, developers, R&amp;D,...</p></li><li><p>Work with heaps of different customers and industries</p></li></ul><p><br></p><h2><strong>About you</strong></h2><p><strong>At Odoo, we value your skills more than your resume.</strong><br>Here's what we expect from you:</p><strong>Must have</strong><ul><li><p>Permanent working rights in Australia</p></li><li><p>Excellent communication and interpersonal&nbsp;skills</p></li><li><p>Bachelor or Master Degree</p></li><li><p>At ease with software &amp;&nbsp;IT</p></li><li><p>Strong passion for software development</p></li><li><p>Problem-solving skills</p></li><li><p>Quick &amp; autonomous learner</p></li></ul><strong>Nice to have</strong><ul><li><p>1-3 years of relevant experience</p></li><li><p>Immediate availability</p></li><li><p>Relevant background or experience</p></li></ul><p><br></p>",
-      "keywords": [
-        "project",
-        "leader"
-      ]
-    },
     {
       "job_id": "93804599",
       "job_title": "Full Stack Developer (Java)",
@@ -616,6 +522,29 @@
         "digital",
         "workplace",
         "platform"
+      ]
+    },
+    {
+      "job_id": "93793864",
+      "job_title": "Senior C#/.NET AI Engineer | LLM & AI Product Engineering",
+      "business_name": "Novus",
+      "work_type": "Full time",
+      "job_type": "Engineering - Software",
+      "pay_range": "$200,000 – $250,000+ Super",
+      "area": "Australia Fair, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93793864",
+      "advertiser_id": "45499266",
+      "posted_date": "2026-08-05T23:32:21Z",
+      "job_description": "<h2>Senior C# /.Net AI Engineer | LLM &amp; AI Product Engineering | SaaS</h2><p><strong>Sydney (Hybrid Preferred) | Remote Across Australia</strong><br><strong>$200,000 - $250,000 + Super</strong></p><p>Are you a senior software engineer who's successfully built and shipped AI-powered products into production?</p><p>We're partnering exclusively with an innovative global SaaS business to find an experienced <strong>Senior C#/.NET AI Engineer</strong> to help shape the next generation of AI capabilities across a mature, market-leading software platform.</p><p>This is <strong>NOT</strong> an AI research role.</p><p><strong>It's a Software engineering role first and foremost.</strong></p><p>You'll spend your time building production software, solving real customer problems and delivering AI capabilities that are used by thousands of customers; not building prototypes, demos or internal experiments.</p><h2>The Opportunity</h2><p>You'll join a high-performing product engineering team where AI is already embedded throughout both the product and the software development lifecycle.</p><p>Working closely with Product Managers, Designers and Engineers, you'll help design, build and scale intelligent product capabilities that automate complex workflows and deliver genuine customer value.</p><p>Current and upcoming initiatives include:</p><ul><li><p>Natural language querying across business and project data</p></li><li><p>AI-powered proposal generation</p></li><li><p>Intelligent workflow automation</p></li><li><p>AI-assisted document and invoice generation</p></li><li><p>Agentic workflows to eliminate repetitive administrative tasks</p></li><li><p>Greenfield AI capabilities across an expanding product roadmap</p></li></ul><p>You'll own features end to end; from technical design and architecture through to deployment, monitoring and continuous improvement.</p><h2>What You'll Be Doing</h2><ul><li><p>Design, build and ship production software across a modern SaaS platform</p></li><li><p>Develop customer-facing AI capabilities using Large Language Models (LLMs)</p></li><li><p>Build robust retrieval, tool calling, orchestration and agentic workflows</p></li><li><p>Improve AI quality through evaluation, testing, observability and monitoring</p></li><li><p>Work closely with Product and Design to solve meaningful customer problems</p></li><li><p>Help establish best practices for building reliable, scalable AI products</p></li><li><p>Mentor engineers and contribute to an AI-first engineering culture</p></li></ul><h2>What We're Looking For</h2><p>You'll be a strong software engineer first, with genuine commercial experience delivering AI capabilities into production.</p><p>Ideally you'll bring:</p><ul><li><p>Strong commercial experience building scalable backend applications using <strong>C#/.NET</strong></p></li><li><p>Experience delivering production web applications within modern engineering teams</p></li><li><p>Demonstrated experience building and shipping customer-facing LLM features</p></li><li><p>Hands-on experience with prompt engineering, RAG, structured outputs, tool/function calling and agentic workflows</p></li><li><p>Experience with Azure OpenAI, OpenAI, Anthropic, AWS Bedrock or similar AI platforms</p></li><li><p>Knowledge of embeddings, semantic search and vector databases</p></li><li><p>Experience evaluating AI systems for quality, latency, accuracy and cost</p></li><li><p>Strong engineering fundamentals with excellent problem-solving skills</p></li></ul><p>Experience with React or Angular is beneficial but not essential.</p><h2>Why You'll Want This Role</h2><ul><li><p>Work on genuine AI product engineering, not internal AI tooling or proof of concepts</p></li><li><p>Significant ownership over AI architecture and future product direction</p></li><li><p>Modern engineering environment where AI is embedded into day-to-day development</p></li><li><p>Hybrid Sydney office or fully remote across Australia</p></li><li><p>Competitive salary of <strong>$200,000-$250,000 + Super</strong></p></li><li><p>Join a collaborative engineering team building products used globally</p></li></ul><h2>Apply</h2><p>If you're a senior <strong>C#/.NET Software Engineer</strong> who's successfully delivered AI-powered product capabilities into production and wants to build the next generation of intelligent software, we'd love to speak with you.</p><p>Apply now or contact us for a confidential discussion.</p><p><strong>#SCR-tom-wood-1</strong> &nbsp;</p>",
+      "keywords": [
+        "c#",
+        "net",
+        "ai",
+        "engineer",
+        "llm",
+        "product",
+        "engineering"
       ]
     },
     {
@@ -1106,6 +1035,25 @@
       ]
     },
     {
+      "job_id": "93583789",
+      "job_title": "Infrastructure Support Officer",
+      "business_name": "Department of Health - Queensland",
+      "work_type": "Full time",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93583789",
+      "advertiser_id": "32285210",
+      "posted_date": "2026-07-27T10:21:30Z",
+      "job_description": "<div>\n \n <p>The primary focus of this role is to provide technical direction of the deployment, support, optimisation, configuration, and implementation of ICT infrastructure.</p>\n </div>\n<div>\n <p>An opportunity has become available for several <strong>Infrastructure Support Officers</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide effective change management, capacity planning, incident management, risk management and continuity planning</li>\n<li>Work to automate infrastructure delivery across the GCHHS to help support Infrastructure as a service focus</li>\n<li>Ensure end-to-end service delivery for enterprise systems</li>\n<li>Install, configure, test, optimise, implement and commission enterprise infrastructure components</li>\n<li>Prepare comprehensive reports, documentation and recommendations on the operational performance of the enterprise infrastructure</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>Driver Licence</li>\n<li>While not mandatory, a relevant qualification in infrastructure, cloud, or a related field is highly desirable.</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time and temporary full time (one permanent position and one temporary position, up to 6 months with the possibility of extension)</li>\n<li>Base salary ranging from $125,002 – 133,898 per annum or $4791.30 - $5132.30 per fortnight</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028 (G28).</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Experience, Digital Delivery, Technology Operations, Health Information, Information Security and Cyber Readiness.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Friday, 7 August 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC688810</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
+      "keywords": [
+        "infrastructure",
+        "support",
+        "officer"
+      ]
+    },
+    {
       "job_id": "93583229",
       "job_title": "Business Analyst",
       "business_name": "Ringers Western",
@@ -1121,6 +1069,25 @@
       "keywords": [
         "business",
         "analyst"
+      ]
+    },
+    {
+      "job_id": "93573405",
+      "job_title": "Infrastructure Support Officer",
+      "business_name": "Gold Coast Hospital & Health Service",
+      "work_type": "Full time",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "$125,002 &#8211; $133,898 per annum + 12.75% super",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93573405",
+      "advertiser_id": "32285403",
+      "posted_date": "2026-07-27T05:09:42Z",
+      "job_description": "<p>An opportunity has become available for several <strong>Infrastructure Support Officers</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide effective change management, capacity planning, incident management, risk management and continuity planning</li>\n<li>Work to automate infrastructure delivery across the GCHHS to help support Infrastructure as a service focus</li>\n<li>Ensure end-to-end service delivery for enterprise systems</li>\n<li>Install, configure, test, optimise, implement and commission enterprise infrastructure components</li>\n<li>Prepare comprehensive reports, documentation and recommendations on the operational performance of the enterprise infrastructure</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>Driver Licence</li>\n<li>While not mandatory, a relevant qualification in infrastructure, cloud, or a related field is highly desirable.</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time and temporary full time (one permanent position and one temporary position, up to 6 months with the possibility of extension)</li>\n<li>Base salary ranging from $125,002 – 133,898 per annum or $4791.30 - $5132.30 per fortnight</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028 (G28).</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Experience, Digital Delivery, Technology Operations, Health Information, Information Security and Cyber Readiness.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Friday, 7 August 2026</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC688810</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
+      "keywords": [
+        "infrastructure",
+        "support",
+        "officer"
       ]
     },
     {
