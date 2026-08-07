@@ -1,552 +1,481 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-06",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-07T10:51:22.943790+10:00",
-  "total_jobs": 71,
+  "scraped_at": "2026-08-06T06:58:17.921588+10:00",
+  "total_jobs": 73,
   "keywords": [
     {
       "term": "support",
-      "count": 12,
-      "share": 0.169
+      "count": 13,
+      "share": 0.1781
     },
     {
-      "term": "engineer",
+      "term": "it",
+      "count": 12,
+      "share": 0.1644
+    },
+    {
+      "term": "analyst",
       "count": 11,
-      "share": 0.1549
+      "share": 0.1507
     },
     {
       "term": "manager",
       "count": 11,
-      "share": 0.1549
+      "share": 0.1507
     },
     {
-      "term": "it",
-      "count": 11,
-      "share": 0.1549
-    },
-    {
-      "term": "analyst",
+      "term": "engineer",
       "count": 10,
-      "share": 0.1408
+      "share": 0.137
     },
     {
       "term": "officer",
-      "count": 8,
-      "share": 0.1127
+      "count": 9,
+      "share": 0.1233
     },
     {
       "term": "business",
-      "count": 7,
-      "share": 0.0986
-    },
-    {
-      "term": "developer",
-      "count": 6,
-      "share": 0.0845
+      "count": 8,
+      "share": 0.1096
     },
     {
       "term": "ict",
       "count": 6,
-      "share": 0.0845
+      "share": 0.0822
     },
     {
-      "term": "ai",
-      "count": 4,
-      "share": 0.0563
+      "term": "developer",
+      "count": 5,
+      "share": 0.0685
+    },
+    {
+      "term": "technology",
+      "count": 5,
+      "share": 0.0685
+    },
+    {
+      "term": "operations",
+      "count": 5,
+      "share": 0.0685
     },
     {
       "term": "network",
       "count": 4,
-      "share": 0.0563
+      "share": 0.0548
     },
     {
       "term": "administrator",
       "count": 4,
-      "share": 0.0563
+      "share": 0.0548
     },
     {
       "term": "specialist",
       "count": 4,
-      "share": 0.0563
+      "share": 0.0548
     },
     {
       "term": "software",
       "count": 4,
-      "share": 0.0563
+      "share": 0.0548
     },
     {
       "term": "technical",
       "count": 4,
-      "share": 0.0563
+      "share": 0.0548
     },
     {
       "term": "systems",
       "count": 4,
-      "share": 0.0563
+      "share": 0.0548
     },
     {
       "term": "infrastructure",
       "count": 4,
-      "share": 0.0563
+      "share": 0.0548
     },
     {
       "term": "development",
       "count": 4,
-      "share": 0.0563
-    },
-    {
-      "term": "platform",
-      "count": 3,
-      "share": 0.0423
+      "share": 0.0548
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0423
-    },
-    {
-      "term": "technology",
-      "count": 3,
-      "share": 0.0423
+      "share": 0.0411
     },
     {
       "term": "project",
       "count": 3,
-      "share": 0.0423
+      "share": 0.0411
     },
     {
-      "term": "digital",
-      "count": 3,
-      "share": 0.0423
-    },
-    {
-      "term": "operations",
-      "count": 3,
-      "share": 0.0423
+      "term": "ai",
+      "count": 2,
+      "share": 0.0274
     },
     {
       "term": "ongc",
       "count": 2,
-      "share": 0.0282
+      "share": 0.0274
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0282
+      "share": 0.0274
     },
     {
-      "term": "php",
+      "term": "platform",
       "count": 2,
-      "share": 0.0282
-    },
-    {
-      "term": "engineering",
-      "count": 2,
-      "share": 0.0282
-    },
-    {
-      "term": "product",
-      "count": 2,
-      "share": 0.0282
+      "share": 0.0274
     },
     {
       "term": "ffs",
       "count": 2,
-      "share": 0.0282
+      "share": 0.0274
+    },
+    {
+      "term": "digital",
+      "count": 2,
+      "share": 0.0274
+    },
+    {
+      "term": "director",
+      "count": 2,
+      "share": 0.0274
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0282
+      "share": 0.0274
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "solutions",
       "count": 1,
-      "share": 0.0141
-    },
-    {
-      "term": "applications",
-      "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "timetabling",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "examinations",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
+    },
+    {
+      "term": "applications",
+      "count": 1,
+      "share": 0.0137
     },
     {
       "term": "insights",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "fabric",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "commerce",
       "count": 1,
-      "share": 0.0141
-    },
-    {
-      "term": "wordpress",
-      "count": 1,
-      "share": 0.0141
-    },
-    {
-      "term": "burleigh",
-      "count": 1,
-      "share": 0.0141
-    },
-    {
-      "term": "heads",
-      "count": 1,
-      "share": 0.0141
-    },
-    {
-      "term": "days",
-      "count": 1,
-      "share": 0.0141
-    },
-    {
-      "term": "per",
-      "count": 1,
-      "share": 0.0141
-    },
-    {
-      "term": "week",
-      "count": 1,
-      "share": 0.0141
-    },
-    {
-      "term": "broadbeach",
-      "count": 1,
-      "share": 0.0141
-    },
-    {
-      "term": "dotnet",
-      "count": 1,
-      "share": 0.0141
-    },
-    {
-      "term": "laravel",
-      "count": 1,
-      "share": 0.0141
-    },
-    {
-      "term": "salesforce",
-      "count": 1,
-      "share": 0.0141
-    },
-    {
-      "term": "automation",
-      "count": 1,
-      "share": 0.0141
-    },
-    {
-      "term": "c#",
-      "count": 1,
-      "share": 0.0141
-    },
-    {
-      "term": "net",
-      "count": 1,
-      "share": 0.0141
-    },
-    {
-      "term": "llm",
-      "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
-      "term": "java",
+      "term": "wordpress",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
+    },
+    {
+      "term": "burleigh",
+      "count": 1,
+      "share": 0.0137
+    },
+    {
+      "term": "heads",
+      "count": 1,
+      "share": 0.0137
+    },
+    {
+      "term": "days",
+      "count": 1,
+      "share": 0.0137
+    },
+    {
+      "term": "per",
+      "count": 1,
+      "share": 0.0137
+    },
+    {
+      "term": "week",
+      "count": 1,
+      "share": 0.0137
+    },
+    {
+      "term": "php",
+      "count": 1,
+      "share": 0.0137
+    },
+    {
+      "term": "broadbeach",
+      "count": 1,
+      "share": 0.0137
+    },
+    {
+      "term": "retail",
+      "count": 1,
+      "share": 0.0137
+    },
+    {
+      "term": "sales",
+      "count": 1,
+      "share": 0.0137
+    },
+    {
+      "term": "consultant",
+      "count": 1,
+      "share": 0.0137
+    },
+    {
+      "term": "dotnet",
+      "count": 1,
+      "share": 0.0137
+    },
+    {
+      "term": "salesforce",
+      "count": 1,
+      "share": 0.0137
+    },
+    {
+      "term": "engineering",
+      "count": 1,
+      "share": 0.0137
+    },
+    {
+      "term": "automation",
+      "count": 1,
+      "share": 0.0137
     },
     {
       "term": "architecture",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "staff",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "tech",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "api",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "back",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "office",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "help",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "desk",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "assistant",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "custodian",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0141
-    },
-    {
-      "term": "workplace",
-      "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
+    },
+    {
+      "term": "product",
+      "count": 1,
+      "share": 0.0137
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "service",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "governance",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "telecommunications",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "rod",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "rope",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "cable",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "hauler",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "seo",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "ui",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "ux",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "landing",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "page",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "leadify",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0137
     }
   ],
   "jobs": [
-    {
-      "job_id": "93804599",
-      "job_title": "Full Stack Developer (Java)",
-      "business_name": "Randstad Digital",
-      "work_type": "Full time",
-      "job_type": "Engineering - Software",
-      "pay_range": "$140k - $160k p.a. + plus super",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93804599",
-      "advertiser_id": "26537413",
-      "posted_date": "2026-08-06T05:08:45Z",
-      "job_description": "<p><strong>Fullstack Engineer</strong></p><p>Are you an experienced Fullstack Java Engineer looking to drive major transformation programs within a fast-paced, agile environment? Join a an industry leading organisation in a team delivering high-impact solutions and turning strategic visions into reality.</p><p><strong>What You Will Do:</strong></p><ul><li><p>Plan and deliver key projects alongside strategic technology partners.</p></li><li><p>Contribute directly to major digital transformation programs within the team.</p></li><li><p>Support and maintain core Technology systems.</p></li><li><p>Collaborate closely with business teams to translate strategic visions into technical realities.</p></li><li><p>Work dynamically within a fast-paced, agile delivery environment.</p></li></ul><p><strong>What You Need to Apply for This Role:</strong></p><ul><li><p>Strong analytical capabilities with proven experience solving complex technical problems.</p></li><li><p>Hands-on experience developing with Spring Boot, RESTful APIs in Java, J2EE, and Struts.</p></li><li><p>Proficiency using modern CI/CD tools, specifically Bitbucket, Jenkins, and Bamboo.</p></li><li><p>Deep understanding of RESTful API design principles and industry standards.</p></li><li><p>Proven skill in implementing secure APIs using OAuth and JWT authentication mechanisms.</p></li></ul><p><strong>Interested? Apply Now!</strong></p><p>If you are a Fullstack Engineer with experience in Java, Spring Boot, and RESTful API design, we want to hear from you. Click \"Apply Now\".</p><p>Alternatively, please reach out to Will for more information - <a href=\"mailto:will.denford@randstaddigital.com.au\">will.denford@randstaddigital.com.au</a></p><p>You must have unlimited working rights to be considered.</p><p>At Randstad, we are passionate about providing equal employment opportunities and embracing diversity to the benefit of all. We actively encourage applications from any background.</p><p> </p><p></p>",
-      "keywords": [
-        "stack",
-        "developer",
-        "java"
-      ]
-    },
-    {
-      "job_id": "93794071",
-      "job_title": "Digital Workplace Platform Lead",
-      "business_name": "City of Gold Coast",
-      "work_type": "Full time",
-      "job_type": "Management",
-      "pay_range": "$138,896-$156,527 p/a plus superannuation",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93794071",
-      "advertiser_id": "16652581",
-      "posted_date": "2026-08-05T23:44:06Z",
-      "job_description": "<ul> <li><strong>Full Time / 10-day fortnight / 40 hours per week</strong></li> <li> <strong>Salary Range from: </strong>$138,896 to $156,527 per annum, plus superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG1958/assets/31852407\">Digital Workplace Platform Lead</a> </li> </ul> <p><strong>About the role </strong></p> <p>We are seeking an experienced Digital Workplace Platform Lead to provide strategic and operational leadership across our end-user computing (EUC) and digital workplace technologies.</p> <p>In this role, you will own the end-to-end lifecycle of workplace platforms and services that enable our workforce to be productive, secure, and connected. This includes mobility solutions, PCs and tablets, peripherals, enterprise printing, audiovisual systems, smart meeting rooms, and hardware standards across the organisation.</p> <p>You will lead and mentor a team of technical specialists, set the strategic roadmap for digital workplace technologies, and drive continuous improvement in user experience, performance, security, and cost efficiency.</p> <p><strong>We’re looking for people who have: </strong></p> <ul> <li>Bachelor’s degree in IT, Computer Science, or a related discipline or relevant experience</li> <li>7+ years’ experience in digital workplace or end-user computing leadership roles</li> <li>Proven experience leading high-performing technical teams in structured, ITIL-aligned environments</li> <li>Strong experience with application packaging and automated deployments at scale</li> <li>Demonstrated success managing EUC technologies in medium to large enterprise environments</li> <li>Deep knowledge of modern workplace platforms including Windows 10/11, Microsoft 365, Teams, OneDrive, Intune/Endpoint Manager, and SCCM</li> <li>Experience defining and maintaining hardware standards, lifecycle processes, and asset management practices</li> <li>Proven ability to lead EUC projects from initiation through to delivery</li> <li>Experience supporting enterprise printing, AV systems, and smart meeting room technologies</li> <li>Solid understanding of IT service management frameworks and tools (e.g. ITIL, ServiceNow)</li> <li>Strong stakeholder engagement and communication skills, with the ability to translate technical concepts into business outcomes</li> <li>Project leadership experience within Agile, ITIL, or hybrid delivery frameworks</li> </ul> <p> </p> <p><strong>Be part of shaping the Gold Coast’s future </strong></p> <p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p> <p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p> <ul> <li>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations</li> <li>Personal and professional development courses</li> <li>Access to 350+ fitness facilities through Fitness Passport</li> <li>4 free confidential counselling sessions a year for you or an immediate family member</li> <li>1 free nutritionist and financial advice session per year </li> </ul> <p>We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p> <p><strong>How to apply</strong></p> <p>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p> <p><strong>Contact Person</strong> Ashley Shannon</p> <p><strong>Contact Email</strong> <a href=\"mailto:ashannon@goldcoast.qld.gov.au\">ashannon@goldcoast.qld.gov.au</a></p> <p><strong>Closing Date</strong> Sunday 16th August 2026 @11:59pm AEDT</p> <p> </p> <p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
-      "keywords": [
-        "digital",
-        "workplace",
-        "platform"
-      ]
-    },
-    {
-      "job_id": "93793864",
-      "job_title": "Senior C#/.NET AI Engineer | LLM & AI Product Engineering",
-      "business_name": "Novus",
-      "work_type": "Full time",
-      "job_type": "Engineering - Software",
-      "pay_range": "$200,000 – $250,000+ Super",
-      "area": "Australia Fair, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93793864",
-      "advertiser_id": "45499266",
-      "posted_date": "2026-08-05T23:32:21Z",
-      "job_description": "<h2>Senior C# /.Net AI Engineer | LLM &amp; AI Product Engineering | SaaS</h2><p><strong>Sydney (Hybrid Preferred) | Remote Across Australia</strong><br><strong>$200,000 - $250,000 + Super</strong></p><p>Are you a senior software engineer who's successfully built and shipped AI-powered products into production?</p><p>We're partnering exclusively with an innovative global SaaS business to find an experienced <strong>Senior C#/.NET AI Engineer</strong> to help shape the next generation of AI capabilities across a mature, market-leading software platform.</p><p>This is <strong>NOT</strong> an AI research role.</p><p><strong>It's a Software engineering role first and foremost.</strong></p><p>You'll spend your time building production software, solving real customer problems and delivering AI capabilities that are used by thousands of customers; not building prototypes, demos or internal experiments.</p><h2>The Opportunity</h2><p>You'll join a high-performing product engineering team where AI is already embedded throughout both the product and the software development lifecycle.</p><p>Working closely with Product Managers, Designers and Engineers, you'll help design, build and scale intelligent product capabilities that automate complex workflows and deliver genuine customer value.</p><p>Current and upcoming initiatives include:</p><ul><li><p>Natural language querying across business and project data</p></li><li><p>AI-powered proposal generation</p></li><li><p>Intelligent workflow automation</p></li><li><p>AI-assisted document and invoice generation</p></li><li><p>Agentic workflows to eliminate repetitive administrative tasks</p></li><li><p>Greenfield AI capabilities across an expanding product roadmap</p></li></ul><p>You'll own features end to end; from technical design and architecture through to deployment, monitoring and continuous improvement.</p><h2>What You'll Be Doing</h2><ul><li><p>Design, build and ship production software across a modern SaaS platform</p></li><li><p>Develop customer-facing AI capabilities using Large Language Models (LLMs)</p></li><li><p>Build robust retrieval, tool calling, orchestration and agentic workflows</p></li><li><p>Improve AI quality through evaluation, testing, observability and monitoring</p></li><li><p>Work closely with Product and Design to solve meaningful customer problems</p></li><li><p>Help establish best practices for building reliable, scalable AI products</p></li><li><p>Mentor engineers and contribute to an AI-first engineering culture</p></li></ul><h2>What We're Looking For</h2><p>You'll be a strong software engineer first, with genuine commercial experience delivering AI capabilities into production.</p><p>Ideally you'll bring:</p><ul><li><p>Strong commercial experience building scalable backend applications using <strong>C#/.NET</strong></p></li><li><p>Experience delivering production web applications within modern engineering teams</p></li><li><p>Demonstrated experience building and shipping customer-facing LLM features</p></li><li><p>Hands-on experience with prompt engineering, RAG, structured outputs, tool/function calling and agentic workflows</p></li><li><p>Experience with Azure OpenAI, OpenAI, Anthropic, AWS Bedrock or similar AI platforms</p></li><li><p>Knowledge of embeddings, semantic search and vector databases</p></li><li><p>Experience evaluating AI systems for quality, latency, accuracy and cost</p></li><li><p>Strong engineering fundamentals with excellent problem-solving skills</p></li></ul><p>Experience with React or Angular is beneficial but not essential.</p><h2>Why You'll Want This Role</h2><ul><li><p>Work on genuine AI product engineering, not internal AI tooling or proof of concepts</p></li><li><p>Significant ownership over AI architecture and future product direction</p></li><li><p>Modern engineering environment where AI is embedded into day-to-day development</p></li><li><p>Hybrid Sydney office or fully remote across Australia</p></li><li><p>Competitive salary of <strong>$200,000-$250,000 + Super</strong></p></li><li><p>Join a collaborative engineering team building products used globally</p></li></ul><h2>Apply</h2><p>If you're a senior <strong>C#/.NET Software Engineer</strong> who's successfully delivered AI-powered product capabilities into production and wants to build the next generation of intelligent software, we'd love to speak with you.</p><p>Apply now or contact us for a confidential discussion.</p><p><strong>#SCR-tom-wood-1</strong> &nbsp;</p>",
-      "keywords": [
-        "c#",
-        "net",
-        "ai",
-        "engineer",
-        "llm",
-        "product",
-        "engineering"
-      ]
-    },
     {
       "job_id": "93781801",
       "job_title": "Digital Operations Manager",
@@ -587,6 +516,44 @@
       ]
     },
     {
+      "job_id": "93779656",
+      "job_title": "Retail Sales Consultant",
+      "business_name": "Nexigen Digital",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93779656",
+      "advertiser_id": "25685289",
+      "posted_date": "2026-08-05T06:23:37Z",
+      "job_description": "<p><strong>About Nexigen Digital</strong></p><p>We are Australia’s largest privately-owned group of online service providers, which includes brands such as VentraIP, Synergy Wholesale and Intaserve.<br><br></p><p>Every day our all-Australian team delivers exceptional service and outstanding support to our 200,000+ customers who choose us for their domain names, website hosting and online presence.</p><p><br></p><p>Over the past seventeen years, we have been constant game-changers, industry innovators, award winners, and community leaders - and now is your chance to join our team.</p><p><br></p><br><p><br><strong>The Position</strong></p><p>Retail Sales Consultant – Inbound &amp; Outbound (Web Hosting &amp; IT Services)</p><p><br></p><p><strong>Role Purpose</strong></p><p>The Retail Sales Consultant is responsible for driving revenue and delivering exceptional customer experiences across inbound and outbound phone channels. This role focuses on helping small to medium businesses choose the right web hosting, domain, email, and cloud solutions to support their online presence and growth. Consultants use a consultative, needs‑based approach to educate customers, simplify technical concepts, and recommend the best‑fit products and services.</p><p><br></p><p><strong>Key Responsibilities</strong></p><ul><li>Inbound Sales &amp; Customer Experience</li><li>Handle inbound calls from SMB customers seeking advice on domains, hosting, email, website services, and security products.</li><li>Translate technical concepts into simple, business‑focused language.</li><li>Identify customer needs and recommend tailored hosting and IT solutions.</li><li>Convert enquiries into sales while maintaining high customer satisfaction.</li><li>Prepare quotes, process orders, and complete accurate CRM documentation.</li></ul><p><br></p><p><strong>Outbound Sales &amp; Lead Management</strong></p><ul><li>Conduct outbound calls to warm leads, existing customers, and lapsed accounts.</li><li>Re‑engage customers with product upgrades, renewals, migrations, and value‑added services.</li><li>Promote solutions such as managed hosting, SSL certificates, backups, website builders, and email services.</li><li>Maintain a structured call cadence to maximise contact and conversion rates.</li><li>Achieve outbound KPIs including call volume, conversion, revenue, and product mix.</li><li>Customer Support &amp; Retention</li><li>Handle objections confidently and guide customers toward the right outcome.</li><li>Build long‑term relationships to encourage renewals and reduce churn.</li><li>Support post‑purchase needs such as onboarding guidance, service activation, or basic troubleshooting (non‑technical support).</li></ul><p><br></p><p><strong>Operational Excellence</strong></p><ul><li>Maintain accurate CRM records, follow compliance requirements, and adhere to sales processes.</li><li>Stay up to date with product knowledge across hosting, domains, email, cloud, and security.</li><li>Provide feedback to improve products, processes, and customer experience.</li><li>Collaborate with technical support and provisioning teams to ensure smooth customer handover.</li></ul><p><br><strong>Teamwork &amp; Culture</strong></p><ul><li>Contribute to a positive, high‑performance sales environment.</li><li>Participate in training, coaching, and development sessions.</li><li>Share insights, customer trends, and opportunities with the broader team</li></ul><p><br></p><p><strong>Skills &amp; Experience</strong></p><p><strong>Essential</strong></p><ul><li>Experience in phone‑based sales, customer service, or contact centre environments.</li><li>Strong communication skills with the ability to simplify technical concepts.</li><li>Proven ability to meet or exceed sales targets and KPIs.</li><li>Confidence using CRM systems, call management tools, and digital platforms.</li><li>A proactive, commercially driven mindset with strong problem‑solving skills.</li></ul><p><br><strong>Desirable</strong></p><ul><li>Experience in web hosting, domains, cloud services, SaaS, or IT‑related sales.</li><li>Understanding of common SMB needs such as websites, email, online security, and digital presence.</li></ul><p><br><br></p><p><strong>The Benefits of Working With the Nexigen Digital Team</strong></p><p>Aside from being awarded “Employer of Choice” in the Australian Business Awards, we are often referred to as the Google of south-east Melbourne thanks to our unique facilities and team culture, and a top-down mandate to take care of the people who take care of our customers.</p><p>Some of the office perks include:</p><ul><li>A weekly selection of delicious meals prepared in our on-site kitchen for breakfast and lunch.</li><li>A fully-stocked snack bar featuring an assortment of chips, chocolates, nuts, protein bars and fresh fruit.</li><li>A drink fridge loaded with an assortment of soft drinks, juices and water.</li><li>A fully equipped private gym with weekly on-site personal training sessions.</li><li>A team wellness centre with a sound-proof gaming stadium featuring an 85” 4K TV, racing car simulator, pinball machine, arcade machine, and air hockey table.</li><li>An on-site salon where our resident barber and stylist provide free haircuts on a regular basis.</li></ul><p>We actively encourage training and upskilling for personal development and will fund courses that have a beneficial impact on the business.</p><p>Please note that due to strict security requirements the successful applicant will be required to complete a National Police Check as a condition of employment.</p><p><br></p><br><br><p>PI<a href=\"tel:286258380\">286258380</a></p>",
+      "keywords": [
+        "retail",
+        "sales",
+        "consultant"
+      ]
+    },
+    {
+      "job_id": "93776993",
+      "job_title": "IT Support Officer",
+      "business_name": "Gilmour Space Technologies",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "Base salary plus superannuation",
+      "area": "Yatala, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93776993",
+      "advertiser_id": "43912085",
+      "posted_date": "2026-08-05T04:59:39Z",
+      "job_description": "<p><strong>All Orbits, All Planets - Join us on our journey</strong></p><p>Gilmour Space is a leading Australian space company, developing launch vehicles, satellite platforms, advanced propulsion technologies; and launching from our licensed orbital spaceport in Bowen, North Queensland.</p><p>Are you a creative and experienced 'IT Support Officer' looking for a dynamic role where your skills will make a real impact? Have you ever dreamt of working with rockets right here in Australia? Well now’s your chance! Gilmour Space is seeking a talented individual to join our innovative team to send rockets to Space! Conveniently located in <strong>Bowen, North QLD</strong> near some of the best beaches in the world and sunsets, you will be based at Australia's first orbital Launch Site.&nbsp; So, what are you waiting for? Join us and be a part of a forward-thinking team dedicated to pushing the boundaries of space exploration and let’s send Australia to Space together!</p><p><strong>How you will contribute to our mission in getting Australia to space:</strong></p><p>The below is designed to give you an idea of the role you will play. There will be many more exciting and innovative things to do:</p><ul> <li>Field incoming help requests from end users and provide exceptional support experience to internal staff (Level1/2 user and systems support) both on-premises and remotely.</li> <li>Troubleshoot HW/SW related issues in timely manners.</li> <li>Install and configure various HW/SW (desktops, servers, switches, routers, Aps, printers etc.).</li> <li>Provision HW/SW, licenses and keep asset inventory up to date.</li> <li>Apply diagnostic utilities to aid in troubleshooting.</li> <li>Develop, test, and deliver new systems and solutions.</li> <li>Performing preventative maintenance, including checking and cleaning of workstations, printers, and peripherals.</li> <li>Participate and contribute to the development and ongoing maintenance of the ICT support documentation.</li> <li>Assist with on/off-boarding of employees.</li> <li>Assist with purchasing HW/SW where required.</li> <li>Assist with research on latest technology and solutions.</li> <li>Intra-state travel (for up to 2 weeks) may be required to support manufacturing site operations.</li> <li><b></b>Other duties as requested by Management.<b></b></li></ul><div> <p><strong>Minimum Qualifications, Skills and Experience:</strong></p> <ul>  <li>Bachelor in IT related field, system engineering or system administration and /or a Minimum of four (4) years hands-on IT support role experience.</li>  <li>Demonstrated awareness of Data Security.</li>  <li>Evidence of outstanding results and desire to become a star on our journey to Orbit.</li>  <li>Experience of provisioning desktop/laptop/mobile hardware/software plus basic user &amp; security group Active Directory administration as well as security apps and VPN. Previous experience of hosted desktop applications and Office 365 environment is highly beneficial.</li>  <li>Demonstrable knowledge and troubleshooting experience of TCP/IP networks and Microsoft based operating systems, enterprise applications (e.g. Exchange, Teams) and desktop applications (e.g. Word, Excel, Access, Visio) ideally in both an on-premise and cloud environment.</li>  <li>Enthusiasm for learning new technologies and a strive for continuous improvement.</li>  <li>Excellent verbal and written communication skills with a strong support-focused mindset.</li>  <li>Excellent organisational skills with the ability to prioritise work.</li>  <li>Experience in working in a remote team&nbsp;</li> </ul> <p><strong><b>Desired Qualifications, Skills and Experience:</b></strong></p> <ul>  <li>Bachelor in IT related field, system engineering or system administration and /or a Minimum of four (4) years hands-on IT support role experience.</li>  <li>Understanding of LAN environments &amp; VoIP.</li>  <li>Knowledge in SharePoint and other online information systems.</li>  <li>Experience with mobile platforms (iOS/Android) and MDM/MAM tools.</li>  <li>Familiar with ITIL framework and best practices.</li>  <li>NV1 Security Clearance eligible preferred.</li> </ul> <p><strong>How to Apply:</strong></p> <p>Applicants must be an Australian Citizen/Permanent Resident or have an appropriate Australian work visa or work entitlements.</p> <p>If you are a proactive team player with a passion to get Australia to space and a desire to succeed, please apply now by clicking the apply button and including your resume and cover letter or head to our&nbsp;<strong>careers page: www.gspace.com/career</strong></p> <p>Gilmour Space Technologies is proud to be an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all team members. We strongly encourage applications from Aboriginal and Torres Strait Islander peoples for all positions.</p> <p>No Recruitment Agencies Please<strong><b></b></strong></p></div>",
+      "keywords": [
+        "it",
+        "support",
+        "officer"
+      ]
+    },
+    {
       "job_id": "93775404",
       "job_title": "Digital Operations Manager",
       "business_name": "Gold Coast Hospital & Health Service",
@@ -622,26 +589,6 @@
         "it",
         "systems",
         "administrator"
-      ]
-    },
-    {
-      "job_id": "93752512",
-      "job_title": "Senior PHP Laravel AI Developer",
-      "business_name": "SustainRecruit",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "140000k base + Super",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93752512",
-      "advertiser_id": "34426961",
-      "posted_date": "2026-08-04T07:18:17Z",
-      "job_description": "Senior Full-Stack Software Engineer PHP | Laravel | React | PostgreSQL<br> Build software that powers thousands of businesses, supports millions of users, and manages decades of mission-critical operational and financial data.<br> We're looking for a Senior Full-Stack Software Engineer who thrives on solving complex problems end-to-end—from understanding business needs through to design, development, deployment, and production support.<br> This is a hands-on role where you'll work across a large-scale SaaS platform, tackling everything from payment processing and large datasets to high-performance applications and complex integrations.<br> <br><strong>What You'll Do</strong> <ul> <li>Design, build, test and maintain full-stack features using PHP, Laravel, React and PostgreSQL.</li> <li>Solve complex technical and business challenges across a mature SaaS platform.</li> <li>Develop modern React/TypeScript applications while supporting existing JavaScript systems.</li> <li>Write and optimise advanced SQL for large-scale, high-performance databases.</li> <li>Work on payment processing, billing and business-critical systems.</li> <li>Investigate and resolve production issues across applications, databases and Linux environments.</li> <li>Review code, mentor developers and drive engineering best practices.</li> <li>Take ownership of projects from concept through to production.</li> </ul> <strong>What You'll Bring</strong> <ul> <li>5+ years of commercial full-stack development experience.</li> <li>Strong PHP (Laravel or Symfony) expertise.</li> <li>Advanced PostgreSQL and SQL skills.</li> <li>Experience with React, TypeScript, JavaScript, HTML and CSS.</li> <li>Strong knowledge of object-oriented design, software architecture and clean code principles.</li> <li>Experience with Linux and production troubleshooting.</li> <li>Ability to work independently, solve complex problems and deliver high-quality software.</li> </ul> <strong>Bonus Points</strong> <ul> <li>Experience with large-scale SaaS platforms.</li> <li>Payment or financial systems experience.</li> <li>Government integrations or high-volume transactional systems.</li> <li>AWS or cloud infrastructure experience.</li> <li>Experience modernising large, established applications.</li> </ul> <strong>Why Join?</strong> <ul> <li>Work on software used by millions every day.</li> <li>Solve technically challenging, meaningful problems at scale.</li> <li>Own projects from idea to production.</li> <li>Influence architecture and product direction.</li> <li>Join a collaborative engineering team where your work has real impact.</li> </ul> <strong>Please send your CV via seek and a Sustain Recruit member will get back to you right away...</strong>",
-      "keywords": [
-        "php",
-        "laravel",
-        "ai",
-        "developer"
       ]
     },
     {
@@ -1164,6 +1111,25 @@
       ]
     },
     {
+      "job_id": "93542947",
+      "job_title": "Senior Director (Technology Operations)",
+      "business_name": "Department of Health - Queensland",
+      "work_type": "Full time",
+      "job_type": "Management",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93542947",
+      "advertiser_id": "32285210",
+      "posted_date": "2026-07-24T07:08:44Z",
+      "job_description": "<div>\n \n <p>Act as the senior leader for front-line digital healthcare by coordinating, managing, and providing strategic leadership to a large team of technical staff and diverse services.</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Senior Director (Technology Operations)</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Lead the Technology Operations team supporting the delivery of core front line ICT technologies, applications, and services</li>\n<li>Manage the planning, development, and implementation of digital, information and data services strategies</li>\n<li>Engage and influence organisational priorities to deliver the digital strategy that underpins GCHHS's digital healthcare journey</li>\n<li>Partner with stakeholders and lead Technology Operations in the delivery of digital transformation initiatives</li>\n<li>Responsible for the management of strategic risk as it relates to information technology</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n<li>Highly desirable: Possession of a bachelor's degree in a clinical digital specialty, information technology, or a related field tertiary qualification or equivalent eligibility</li>\n<li>Highly desirable: Minimum five years of experience in a hospital setting; with at least three years in a complex tertiary referral health care system</li>\n</ul>\n<p><strong>&nbsp;</strong><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>&nbsp;</strong><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $179,569 - $193,698 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been&nbsp;established&nbsp;to drive&nbsp;significant service improvements and digital transformation opportunities, in alignment with the strategic&nbsp;objectives&nbsp;outlined in the&nbsp;Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028.&nbsp;&nbsp;</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including&nbsp;Portfolio and Project&nbsp;Delivery, Digital Experience, Technology Operations, Health Information&nbsp;and Digital Security and Architecture.&nbsp;&nbsp;</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong<strong>&nbsp;</strong>\n</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Thursday, 6 August 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC688698</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
+      "keywords": [
+        "director",
+        "technology",
+        "operations"
+      ]
+    },
+    {
       "job_id": "93540172",
       "job_title": "IT Helpdesk",
       "business_name": "Sandwai Software",
@@ -1215,6 +1181,25 @@
       "keywords": [
         "it",
         "support"
+      ]
+    },
+    {
+      "job_id": "93530342",
+      "job_title": "Senior Director (Technology Operations)",
+      "business_name": "Gold Coast Hospital & Health Service",
+      "work_type": "Full time",
+      "job_type": "Management",
+      "pay_range": "$179,569 - $193,698 per annum + 12.75% super",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93530342",
+      "advertiser_id": "32285403",
+      "posted_date": "2026-07-24T01:57:42Z",
+      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Senior Director (Technology Operations)</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Lead the Technology Operations team supporting the delivery of core front line ICT technologies, applications, and services</li>\n<li>Manage the planning, development, and implementation of digital, information and data services strategies</li>\n<li>Engage and influence organisational priorities to deliver the digital strategy that underpins GCHHS's digital healthcare journey</li>\n<li>Partner with stakeholders and lead Technology Operations in the delivery of digital transformation initiatives</li>\n<li>Responsible for the management of strategic risk as it relates to information technology</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n<li>Highly desirable: Possession of a bachelor's degree in a clinical digital specialty, information technology, or a related field tertiary qualification or equivalent eligibility</li>\n<li>Highly desirable: Minimum five years of experience in a hospital setting; with at least three years in a complex tertiary referral health care system</li>\n</ul>\n<p><strong>&nbsp;</strong><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>&nbsp;</strong><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $179,569 - $193,698 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been&nbsp;established&nbsp;to drive&nbsp;significant service improvements and digital transformation opportunities, in alignment with the strategic&nbsp;objectives&nbsp;outlined in the&nbsp;Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028.&nbsp;&nbsp;</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including&nbsp;Portfolio and Project&nbsp;Delivery, Digital Experience, Technology Operations, Health Information&nbsp;and Digital Security and Architecture.&nbsp;&nbsp;</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong<strong>&nbsp;</strong></li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Thursday, 6 August 2026</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC688698</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
+      "keywords": [
+        "director",
+        "technology",
+        "operations"
       ]
     },
     {
@@ -1511,6 +1496,24 @@
         "ai",
         "automation",
         "specialist"
+      ]
+    },
+    {
+      "job_id": "93378711",
+      "job_title": "Senior Full Stack Developer",
+      "business_name": "VERVE Fitness",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "$140,000 – $150,000 per year",
+      "area": "Upper Coomera, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93378711",
+      "advertiser_id": "46716527",
+      "posted_date": "2026-07-16T20:31:05Z",
+      "job_description": "<p><strong>Own a whole product. Make it bulletproof. Launch it.</strong></p><p>VERVE Fitness is Australia's fastest-growing commercial gym equipment company. We're profitable, we're on the Gold Coast, and over the past year we've built something new: <strong>VERVE Pulse</strong>, a gym management platform. Memberships, payments, bookings, member apps for iOS and Android, front-desk kiosk, lead management. It's built, it's in trial with real gyms, and it's about to go to market.</p><p>We're hiring our first dedicated engineer to own it. Not a team. Not a department. You, the product, and the best AI development tooling money can buy. Internally the title is Founding Engineer, and we mean it: first and only engineer on the product.</p><p><strong>What the job actually is</strong></p><p>This role changes shape as the product launches, and we're telling you that upfront:</p><ul><li><p><strong>First 2 months: break it before customers do.</strong> Systematic, hostile testing of every critical flow. Payments above all: real cards, full billing cycles, refunds, failed payments, dunning, reconciliation to the cent. You find it, you fix it, it stays fixed.</p></li><li><p><strong>Months 3 to 4: run the customer beta.</strong> Real gyms, real members, real money. You triage what they hit, fix fast, and keep a clear-eyed picture of what's solid and what's risky. The CEO makes the launch call on your evidence.</p></li><li><p><strong>From launch: it's yours in production.</strong> Uptime, incidents, security, the features customers are asking for, and an onboarding machine you build so every gym is cheaper to bring on than the last. If it breaks at 9pm, you're the person who cares.</p></li></ul><p><strong>How we build</strong></p><p>The codebase is modern (Next.js, React, Postgres on Supabase, Vercel, React Native, Stripe) and it was built AI-first, with Claude Code doing much of the writing and a human doing the thinking. That's how you'll work too. One engineer here ships what a five-person team used to. If you've been using AI coding tools and thinking \"this changes everything\", you'll fit. If you think it's a fad, you won't.</p><p><strong>You're probably right for this if:</strong></p><ul><li><p>You're a senior full-stack engineer who has owned software in production: carried the pager, handled the 9pm payments incident, written the post-mortem.</p></li><li><p>You've worked with Stripe or similar payments infrastructure in anger: webhooks, retries, reconciliation, invoicing. You know where the bodies are buried.</p></li><li><p>You have taste for what \"done\" means when real money moves. You'd rather delay a launch than ship a billing bug.</p></li><li><p>You use AI coding tools daily and you're good at catching what they get wrong.</p></li><li><p>You want ownership of one product, not a slice of a big org chart.</p></li></ul><p><strong>What you get</strong></p><ul><li><p>Competitive salary depending on experience.</p></li><li><p>End-to-end ownership of the product: the codebase, the ship rhythm, the quality bar. Inside a profitable company, so no funding rounds and no runway anxiety.</p></li><li><p>Direct line to the CEO. Decisions in hours, not quarters.</p></li><li><p>The Gold Coast. Work where other people holiday.</p></li></ul><p><strong>How to apply</strong></p><p>Apply with your CV and a short note answering one question: describe a production incident you personally owned, what caused it, and what you changed so it couldn't happen again. No cover letter needed. We move fast: phone screen, technical deep dive, paid half-day work sample, offer.</p>",
+      "keywords": [
+        "stack",
+        "developer"
       ]
     },
     {
@@ -1835,6 +1838,24 @@
         "systems",
         "integration",
         "engineer"
+      ]
+    },
+    {
+      "job_id": "93166908",
+      "job_title": "Business Analyst",
+      "business_name": "SEE Group",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "Work close to home on northern Gold Coast",
+      "area": "Helensvale, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93166908",
+      "advertiser_id": "23598234",
+      "posted_date": "2026-07-07T04:45:59Z",
+      "job_description": "<p><strong>The Opportunity</strong></p><p>We have an exciting opportunity for an experienced <strong>Business Analyst</strong> to join our Digital, Technology &amp; Innovation team and play a central role in delivering SEE Group's digital transformation program. You'll bridge the gap between business needs and technology solutions - engaging stakeholders across the business, capturing and analysing requirements, mapping current and future-state processes, and translating these into clear, well-documented specifications that guide the design and delivery of new systems and enhancements.</p><p>Working across a broad application landscape spanning enterprise systems, Microsoft cloud platforms, and bespoke applications, you'll help ensure the solutions we deliver are fit for purpose, adopted successfully, and deliver measurable value to the business.</p><p><strong>Responsibilities</strong></p><ul><li><p>Engage stakeholders through workshops, interviews and observation to gather, analyse and prioritise business, functional and non-functional requirements</p></li><li><p>Document current-state (as-is) processes and design improved future-state (to-be) processes, identifying gaps and opportunities to streamline operations</p></li><li><p>Translate business requirements into clear functional specifications, user stories and acceptance criteria</p></li><li><p>Build strong working relationships with stakeholders at all levels, acting as a trusted link between the business and technical teams</p></li><li><p>Develop test scenarios and coordinate user acceptance testing (UAT), tracking and resolving defects and feedback prior to release</p></li><li><p>Support the delivery team throughout implementation and help the business adopt change through user documentation, training materials and process guides</p></li></ul><p><strong>Essential Skills and Attributes</strong></p><ul><li><p>Previous experience as a Business Analyst or similar role, ideally within construction, engineering, mining or a related industry</p></li><li><p>Demonstrated experience in requirements elicitation, analysis and management, with the ability to produce clear specifications, user stories and acceptance criteria</p></li><li><p>Skilled in process mapping and documentation using techniques such as BPMN or process flow diagrams</p></li><li><p>Comfortable using data to support analysis and decision-making; familiarity with PowerBI or the Microsoft data stack is a plus</p></li><li><p>Sound understanding of enterprise business applications and the Microsoft cloud ecosystem (Microsoft 365, Power Platform, Azure)</p></li><li><p>Experience working within Agile and/or Waterfall delivery methodologies, with hands-on use of tools such as Azure DevOps (Boards)</p></li><li><p>Excellent written and verbal communication skills, with the ability to explain technical concepts in plain language</p></li><li><p>Tertiary qualification in Business, IT or Information Systems, or equivalent practical experience (desirable); BA certification such as BABOK/IIBA or Agile/Scrum (desirable)</p></li></ul><p><strong>The SEE Way</strong></p><p>SEE Group is a family-built company with over 35 years of experience in delivering excellence across civil construction, mining, and infrastructure. At SEE Group, we don't just build projects—we build careers.</p><ul><li><p>Be part of a down-to-earth, supportive team that values diversity and inclusion</p></li><li><p>Benefit from career growth and tailored development opportunities</p></li><li><p>Enjoy personalised rewards and recognition for your hard work</p></li><li><p>Work on impactful projects that shape communities</p></li><li><p>Collaborate with passionate people who bring a \"boots &amp; all\" attitude to everything they do</p></li></ul><p><strong>What's Next?</strong></p><p>If you would like to join our team and hold full, unlimited working rights in Australia, we encourage you to submit your CV by clicking apply now.</p><p>As an Equal Opportunity Employer, Women and People of Aboriginal and Torres Strait Island heritage are strongly encouraged to apply.</p><p>Interested to learn more about SEE Group? Visit our website at www.seegroup.com.au</p>",
+      "keywords": [
+        "business",
+        "analyst"
       ]
     }
   ]
