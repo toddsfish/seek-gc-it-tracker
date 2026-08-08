@@ -1,483 +1,488 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-08",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-09T06:18:25.619249+10:00",
-  "total_jobs": 72,
+  "scraped_at": "2026-08-08T06:30:39.370937+10:00",
+  "total_jobs": 73,
   "keywords": [
     {
       "term": "analyst",
       "count": 13,
-      "share": 0.1806
+      "share": 0.1781
+    },
+    {
+      "term": "engineer",
+      "count": 11,
+      "share": 0.1507
     },
     {
       "term": "manager",
       "count": 11,
-      "share": 0.1528
+      "share": 0.1507
     },
     {
       "term": "it",
       "count": 11,
-      "share": 0.1528
+      "share": 0.1507
     },
     {
       "term": "support",
       "count": 11,
-      "share": 0.1528
-    },
-    {
-      "term": "engineer",
-      "count": 10,
-      "share": 0.1389
+      "share": 0.1507
     },
     {
       "term": "business",
       "count": 9,
-      "share": 0.125
+      "share": 0.1233
     },
     {
       "term": "ict",
       "count": 7,
-      "share": 0.0972
+      "share": 0.0959
     },
     {
       "term": "developer",
       "count": 6,
-      "share": 0.0833
+      "share": 0.0822
     },
     {
       "term": "officer",
       "count": 6,
-      "share": 0.0833
+      "share": 0.0822
     },
     {
       "term": "technical",
       "count": 5,
-      "share": 0.0694
+      "share": 0.0685
+    },
+    {
+      "term": "systems",
+      "count": 5,
+      "share": 0.0685
     },
     {
       "term": "project",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0548
     },
     {
       "term": "network",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0548
     },
     {
       "term": "administrator",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0548
     },
     {
       "term": "specialist",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0548
     },
     {
       "term": "software",
       "count": 4,
-      "share": 0.0556
-    },
-    {
-      "term": "systems",
-      "count": 4,
-      "share": 0.0556
+      "share": 0.0548
     },
     {
       "term": "development",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0548
     },
     {
       "term": "ai",
       "count": 3,
-      "share": 0.0417
+      "share": 0.0411
     },
     {
       "term": "platform",
       "count": 3,
-      "share": 0.0417
+      "share": 0.0411
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0417
+      "share": 0.0411
     },
     {
       "term": "technology",
       "count": 3,
-      "share": 0.0417
+      "share": 0.0411
     },
     {
       "term": "digital",
       "count": 3,
-      "share": 0.0417
+      "share": 0.0411
     },
     {
       "term": "operations",
       "count": 3,
-      "share": 0.0417
+      "share": 0.0411
     },
     {
       "term": "ongc",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0274
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0274
     },
     {
       "term": "php",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0274
     },
     {
       "term": "ffs",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0274
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0274
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0274
     },
     {
       "term": "leader",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "solutions",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "accounting",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "advisor",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "timetabling",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "examinations",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
+    },
+    {
+      "term": "advisor",
+      "count": 1,
+      "share": 0.0137
+    },
+    {
+      "term": "timetabling",
+      "count": 1,
+      "share": 0.0137
+    },
+    {
+      "term": "examinations",
+      "count": 1,
+      "share": 0.0137
     },
     {
       "term": "insights",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "fabric",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "commerce",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "wordpress",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "heads",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "days",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "per",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "week",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "dotnet",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "laravel",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "java",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "architecture",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "staff",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "tech",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "api",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "help",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "desk",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "assistant",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "back",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "office",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "custodian",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "workplace",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
+    },
+    {
+      "term": "integration",
+      "count": 1,
+      "share": 0.0137
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "service",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "governance",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "telecommunications",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "rod",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "rope",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "cable",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "hauler",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "ui",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "ux",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "landing",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "page",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "leadify",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     },
     {
       "term": "seo",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
+    },
+    {
+      "term": "ui",
+      "count": 1,
+      "share": 0.0137
+    },
+    {
+      "term": "ux",
+      "count": 1,
+      "share": 0.0137
+    },
+    {
+      "term": "landing",
+      "count": 1,
+      "share": 0.0137
+    },
+    {
+      "term": "page",
+      "count": 1,
+      "share": 0.0137
+    },
+    {
+      "term": "leadify",
+      "count": 1,
+      "share": 0.0137
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0137
     }
   ],
   "jobs": [
@@ -1843,6 +1848,25 @@
       "keywords": [
         "staff",
         "backend",
+        "engineer"
+      ]
+    },
+    {
+      "job_id": "93219840",
+      "job_title": "Systems Integration Engineer",
+      "business_name": "RightCrowd Software Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "",
+      "area": "Robina, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93219840",
+      "advertiser_id": "36358200",
+      "posted_date": "2026-07-09T04:34:29Z",
+      "job_description": "<div>\n<div>\n<p>This is a remote position.</p>\n<p><b>THE SPONSOR:</b><br></p>\n<p>Bloom Equity Partners is leveraging decades of investing and operating experience to rapidly unlock transformational growth and deliver superior returns to our investment partners and management teams.&nbsp; Investing exclusively in lower-middle market technology, software and tech-enabled business service companies, Bloom drives enduring market value by partnering closely with founders and management teams, injecting capital to unlock growth and providing operational resources and expertise to enable meaningful step-change to the business.<br></p>\n<p><b>THE COMPANY:</b><br></p>\n<p>RightCrowd is a dynamic and rapidly expanding company in the Physical Identity and Access Management (PIAM) industry, focused on providing cutting-edge solutions to enhance security and streamline access control processes for a diverse range of clients. As we continue to grow and establish our presence in the market, we are seeking an experienced and forward-thinking System Integration Engineer to join our team. The ideal candidate will be based in the United States or Canada and be passionate about driving the financial success of our business.<br></p>\n<p><b>JOB SUMMARY:</b><br></p>\n<p>RightCrowd’s System Integration Engineer plays a key role in our project delivery team by implementing our solution and coordinating integration with other products. Collaborating with our customers, through the project from building initial technical requirements to installation and user acceptance testing, the System Integration Engineer ensures a smooth roll out for the customer. Leading the technical relationship with the customer, this role helps manage scope, direction, and technical delivery of the project. <br></p>\n \n<p><b>ESSENTIAL RESPONSIBILITIES AND DUTIES:</b><br></p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work collaboratively with the customer’s project team to support key project outcomes, focusing on the technical delivery of our solution.<br></p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Derive quality requirements from the customers and ensure excellent customer communication.<br></p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Manage the customer expectations for timelines and requirements as the technical lead ensuring change and scope are controlled appropriately.<br></p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop, design and document project collateral including technical requirements, technical and functional specifications, and acceptance testing cases.<br></p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct regular meetings with clients liaising with other internal resources to obtain updates and input as necessary.<br></p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform user acceptance testing using solid organizational skills including attention to detail and multi-tasking skills.<br></p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform implementations and configuration of systems.<br></p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System Administration and Active Directory troubleshooting in Windows focusing on SQL Server and IIS.<br></p>\n<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Level 3 Support and mentorship for more junior members of the team.<br></p>\n </div>\n<div>\n<strong>Requirements</strong><br><p><b>KNOWLEDGE/SKILLS/ABILITIES:</b><br></p>\n<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong knowledge of software and hardware systems and troubleshooting techniques.<br></p>\n<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent analytical, problem-solving, and communication skills.<br></p>\n<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Solid experience with:<br></p>\n<p>o&nbsp;&nbsp; Microsoft Windows Server<br></p>\n<p>o&nbsp;&nbsp; MS SQL Server T-SQL and internals<br></p>\n<p>o&nbsp;&nbsp; Active Directory<br></p>\n<p>o&nbsp;&nbsp; At least two scripting languages<br></p>\n<p>o&nbsp;&nbsp; C#, JAVA, .Net<br></p>\n<p>o&nbsp;&nbsp; Networking<br></p>\n<p>o&nbsp;&nbsp; IIS<br></p>\n<p>o&nbsp;&nbsp; Public cloud<br></p>\n<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scripting experience with one or more scripting languages including SQL, JAVA or Powershell.<br></p>\n<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Active Directory Administration and Integration Experience<br></p>\n<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Web Services Administration and Experience<br></p>\n<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience with upgrading, installing, and configuring applications as well as Windows environments.<br></p>\n<p><b>Disclaimer:&nbsp; This Job Description indicates the general nature and level of work expected of the incumbent(s).&nbsp; It is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities required of the incumbent.&nbsp; Incumbent(s) may be asked to perform other duties in addition to those described above.</b><br></p>\n<p><b>RightCrowd Technologies, Inc. is an Equal Opportunity Employer and does not unlawfully discriminate on the basis of any status or condition protected by applicable federal, state, or local municipal law.</b><br></p>\n </div>\n</div>",
+      "keywords": [
+        "systems",
+        "integration",
         "engineer"
       ]
     }
