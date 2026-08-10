@@ -1,530 +1,446 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-10",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-11T06:32:12.210094+10:00",
-  "total_jobs": 66,
+  "scraped_at": "2026-08-10T06:21:07.949785+10:00",
+  "total_jobs": 67,
   "keywords": [
     {
       "term": "analyst",
       "count": 13,
-      "share": 0.197
+      "share": 0.194
     },
     {
       "term": "manager",
-      "count": 12,
-      "share": 0.1818
+      "count": 11,
+      "share": 0.1642
+    },
+    {
+      "term": "support",
+      "count": 10,
+      "share": 0.1493
     },
     {
       "term": "business",
       "count": 9,
-      "share": 0.1364
+      "share": 0.1343
+    },
+    {
+      "term": "engineer",
+      "count": 9,
+      "share": 0.1343
     },
     {
       "term": "it",
       "count": 9,
-      "share": 0.1364
-    },
-    {
-      "term": "support",
-      "count": 9,
-      "share": 0.1364
-    },
-    {
-      "term": "engineer",
-      "count": 8,
-      "share": 0.1212
+      "share": 0.1343
     },
     {
       "term": "developer",
-      "count": 7,
-      "share": 0.1061
+      "count": 6,
+      "share": 0.0896
     },
     {
       "term": "ict",
       "count": 6,
-      "share": 0.0909
+      "share": 0.0896
+    },
+    {
+      "term": "officer",
+      "count": 5,
+      "share": 0.0746
     },
     {
       "term": "project",
       "count": 4,
-      "share": 0.0606
+      "share": 0.0597
     },
     {
-      "term": "specialist",
+      "term": "network",
       "count": 4,
-      "share": 0.0606
-    },
-    {
-      "term": "software",
-      "count": 4,
-      "share": 0.0606
-    },
-    {
-      "term": "technical",
-      "count": 4,
-      "share": 0.0606
-    },
-    {
-      "term": "officer",
-      "count": 4,
-      "share": 0.0606
-    },
-    {
-      "term": "systems",
-      "count": 4,
-      "share": 0.0606
+      "share": 0.0597
     },
     {
       "term": "administrator",
       "count": 4,
-      "share": 0.0606
+      "share": 0.0597
+    },
+    {
+      "term": "specialist",
+      "count": 4,
+      "share": 0.0597
+    },
+    {
+      "term": "software",
+      "count": 4,
+      "share": 0.0597
+    },
+    {
+      "term": "technical",
+      "count": 4,
+      "share": 0.0597
+    },
+    {
+      "term": "systems",
+      "count": 4,
+      "share": 0.0597
     },
     {
       "term": "development",
       "count": 4,
-      "share": 0.0606
+      "share": 0.0597
     },
     {
       "term": "ai",
       "count": 3,
-      "share": 0.0455
+      "share": 0.0448
     },
     {
-      "term": "network",
+      "term": "platform",
       "count": 3,
-      "share": 0.0455
+      "share": 0.0448
     },
     {
-      "term": "operations",
+      "term": "technician",
       "count": 3,
-      "share": 0.0455
+      "share": 0.0448
+    },
+    {
+      "term": "technology",
+      "count": 3,
+      "share": 0.0448
     },
     {
       "term": "digital",
       "count": 3,
-      "share": 0.0455
+      "share": 0.0448
+    },
+    {
+      "term": "operations",
+      "count": 3,
+      "share": 0.0448
     },
     {
       "term": "ongc",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0299
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0299
     },
     {
       "term": "php",
       "count": 2,
-      "share": 0.0303
-    },
-    {
-      "term": "platform",
-      "count": 2,
-      "share": 0.0303
-    },
-    {
-      "term": "technician",
-      "count": 2,
-      "share": 0.0303
-    },
-    {
-      "term": "technology",
-      "count": 2,
-      "share": 0.0303
+      "share": 0.0299
     },
     {
       "term": "ffs",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0299
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0299
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0299
     },
     {
       "term": "leader",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "solutions",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "accounting",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "advisor",
-      "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "timetabling",
-      "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "examinations",
-      "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
+    },
+    {
+      "term": "advisor",
+      "count": 1,
+      "share": 0.0149
+    },
+    {
+      "term": "timetabling",
+      "count": 1,
+      "share": 0.0149
+    },
+    {
+      "term": "examinations",
+      "count": 1,
+      "share": 0.0149
     },
     {
       "term": "insights",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
+    },
+    {
+      "term": "microsoft",
+      "count": 1,
+      "share": 0.0149
+    },
+    {
+      "term": "fabric",
+      "count": 1,
+      "share": 0.0149
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "commerce",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "wordpress",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "heads",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "days",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "per",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "week",
       "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "ostendo",
-      "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "short",
-      "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "dotnet",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "laravel",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "java",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "architecture",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
+    },
+    {
+      "term": "pos",
+      "count": 1,
+      "share": 0.0149
     },
     {
       "term": "api",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "tech",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "back",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "office",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "custodian",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "health",
-      "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "information",
-      "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "workplace",
       "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "sharepoint",
-      "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "power",
-      "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "apps",
-      "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "m365",
-      "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "telecommunications",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "rod",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "rope",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "cable",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "hauler",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "ui",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "ux",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "landing",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "page",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "leadify",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "seo",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0149
     }
   ],
   "jobs": [
-    {
-      "job_id": "93873391",
-      "job_title": "Ostendo Developer – Short-Term Contract",
-      "business_name": "Private Advertiser",
-      "work_type": "Contract/Temp",
-      "job_type": "Developers/Programmers",
-      "pay_range": "$100 per hour",
-      "area": "Ormeau, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93873391",
-      "advertiser_id": "",
-      "posted_date": "2026-08-10T06:33:53Z",
-      "job_description": "<p><strong>$100 per hour | Short-term contract | Potential for extension</strong></p><p>We are seeking an experienced <strong>Ostendo Developer</strong> to join our team on a short-term contract, with the potential for extension.</p><p>This is a hands-on development role focused on <strong>Ostendo scripting, workflow implementation, automation and system improvement</strong>. You will work closely with the business to develop practical solutions that improve processes, efficiency and the user experience.</p><p><strong>About the Role</strong></p><p>You will be responsible for developing and enhancing our Ostendo ERP environment, with a particular focus on scripting and workflow automation.</p><p><strong>Key responsibilities include:</strong></p><ul><li><p>Developing, maintaining and modifying <strong>Ostendo scripts</strong>.</p></li><li><p>Automating business processes, data updates and repetitive tasks.</p></li><li><p>Developing scripts for <strong>business rules, validations, calculations and automated actions</strong>.</p></li><li><p>Designing and implementing <strong>Ostendo workflows</strong> to streamline business processes.</p></li><li><p>Translating manual processes into automated workflows, including approvals, validations, notifications and system actions.</p></li><li><p>Troubleshooting and improving existing scripts, workflows and customisations.</p></li><li><p>Developing and maintaining <strong>custom data screens</strong> and functionality.</p></li><li><p>Developing reports, queries and data solutions within Ostendo.</p></li><li><p>Working with SQL and Ostendo data to investigate issues and develop solutions.</p></li><li><p>Working with users and stakeholders to understand requirements and deliver practical solutions.</p></li><li><p>Testing and documenting new functionality and system changes.</p></li><li><p>Providing technical support and troubleshooting for Ostendo users.</p></li><li><p>Assisting with the <strong>upgrade from Ostendo Build 242 to Build 243 Continuum</strong>, including testing existing scripts, workflows and customisations.</p></li></ul><p><strong>About You</strong></p><p><strong>To be successful in this role, you will have:</strong></p><ul><li><p>Demonstrated <strong>hands-on Ostendo development experience</strong>.</p></li><li><p>Strong experience with <strong>Ostendo scripting</strong>.</p></li><li><p>Experience designing and implementing <strong>Ostendo workflows and automation</strong>.</p></li><li><p>Experience with Ostendo customisation, including data screens and reports.</p></li><li><p>Good understanding of SQL and relational databases.</p></li><li><p>Strong analytical and problem-solving skills.</p></li><li><p>The ability to understand business requirements and translate them into effective technical solutions.</p></li><li><p>The ability to work independently and hit the ground running.</p></li><li><p>Strong communication skills and a practical, solutions-focused approach.</p></li></ul><p><strong>Why Join Us?</strong></p><p>This is an opportunity to work on meaningful Ostendo development projects where your skills will have a direct impact on improving business processes and automation.</p><p>The initial engagement is <strong>short term at $100 per hour</strong>, with the <strong>possibility of extension</strong> for the right person.</p><p>If you are an experienced Ostendo Developer with strong scripting and workflow skills, we would like to hear from you.</p><p><strong>Apply now with your CV and a brief summary of your Ostendo experience and availability.</strong></p>",
-      "keywords": [
-        "ostendo",
-        "developer",
-        "short"
-      ]
-    },
-    {
-      "job_id": "93871619",
-      "job_title": "Sharepoint, Power Apps and M365 Administrator",
-      "business_name": "Capital Talent Consulting Pty Ltd",
-      "work_type": "Contract/Temp",
-      "job_type": "Networks & Systems Administration",
-      "pay_range": "",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93871619",
-      "advertiser_id": "28554175",
-      "posted_date": "2026-08-10T05:38:16Z",
-      "job_description": "<p>We are working with a large Govt Dept to source a Program Officer (Digital Solutions - Sharepoint Admin). The role focuses on the practical development, administration and support of SharePoint Online, Power Apps, Power Automate and other Microsoft 365 technologies to meet business needs. The position contributes to business improvement initiatives by working with stakeholders to understand operational requirements, develop low-code solutions, and provide ongoing support and training to users.</p><p>Accountabilities include:</p><ul><li><p>Develop, configure and maintain SharePoint Online sites, libraries, lists and related content management solutions.</p></li><li><p>Develop, configure, maintain and support business systems, digital solutions and information management platforms, including but not limited to SharePoint Online, Microsoft 365 applications and other systems.</p></li><li><p>Design and support Power Platform applications, workflows and automations using Power Apps and Power Automate.</p></li><li><p>Design, develop and support digital solutions, workflows, automations and business improvement initiatives using approved departmental systems and technologies, including but not limited to Microsoft Power Platform applications.</p></li><li><p>Assist with identifying opportunities to improve business processes through the use of Microsoft 365 technologies and digital solutions.</p></li><li><p>Provide technical advice and support to users regarding SharePoint Online, Power Platform and other Microsoft 365 tools.</p></li><li><p>Provide technical advice, user support and training relating to business systems, digital solutions and approved software applications used across the region.</p></li><li><p>Participate in digital and business improvement projects, including testing, implementation and user support activities.</p></li></ul><p>To be suitable for the role, you will have the following skills and experience:</p><ul><li><p>Knowledge and experience with SharePoint Online, Power Apps, Power Automate and Microsoft 365 technologies.</p></li><li><p>Experience supporting, administering or developing business systems and digital solutions, including Microsoft 365 applications and other enterprise software platforms.</p></li><li><p>Ability to analyse business processes and identify opportunities for improvement through digital solutions.</p></li><li><p>Experience configuring and maintaining SharePoint Online environments, including permissions, document libraries, metadata and content structures.</p></li><li><p>Ability to develop low-code solutions using Power Platform tools.</p></li></ul><p>This is a 12 month contract with extension possible. Whilst it is a hybrid position, you will need to attend the Gold Coast offices and therefore will need to be based in Brisbane or the Gold Coast.</p>",
-      "keywords": [
-        "sharepoint",
-        "power",
-        "apps",
-        "m365",
-        "administrator"
-      ]
-    },
-    {
-      "job_id": "93861051",
-      "job_title": "Health Information Manager",
-      "business_name": "Gold Coast Hospital & Health Service",
-      "work_type": "Contract/Temp",
-      "job_type": "Management",
-      "pay_range": "$4,102.90 - $4,487.10 per fortnight + 12.75% super",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93861051",
-      "advertiser_id": "32285403",
-      "posted_date": "2026-08-10T00:17:06Z",
-      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Health Information Manager</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Actively support, promote and participate in the management of Hospital Based Corporate Information System</li>\n<li>Conduct audits and provide health information management advice and education</li>\n<li>Monitor and reconcile data captured in patient information systems</li>\n<li>Assist in the development and maintenance of work instructions, procedures and training materials and deliver training&nbsp;</li>\n<li>Actively support, promote and participate in quality activities aimed at improving the documentation of clinical information</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>A Bachelor's degree in Health Information Management or equivalent</li>\n<li>Proof of qualification and/or registration with the appropriate registration authority</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Temporary full time (six months, with the possibility of extension)</li>\n<li>Base salary ranging from $4102.90 - $4,487.10 per fortnight</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) Division drives innovation and transformation within the Gold Coast Health Service. Aligned with the Gold Coast Health Strategic Plan (G28) we are dedicated to improving healthcare delivery through digital solutions and strategic initiatives that enhance service quality and operational efficiency.</p>\n<p>DHI encompasses a range of interconnected teams including Digital Project Delivery, Digital Experience, Technology Operations, Digital Security and Architecture, Health Information, and the Investment Management Office. Together, these teams collaborate to optimise healthcare service delivery, improve performance, and drive innovation. Through strategic partnerships and forward-thinking initiatives, we're committed to enhancing patient outcomes and creating lasting improvements in healthcare services.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Friday, 21 August 2026</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC689823</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
-      "keywords": [
-        "health",
-        "information",
-        "manager"
-      ]
-    },
     {
       "job_id": "93834239",
       "job_title": "Business Analyst - Accounting Expert",
@@ -882,7 +798,7 @@
       "url": "https://www.seek.com.au/job/93708654",
       "advertiser_id": "20551487",
       "posted_date": "2026-08-02T23:52:38Z",
-      "job_description": "<p><strong>As Australia’s first private non-profit university, Bond University seeks to be recognised internationally as a leading independent university, imbued with a spirit to innovate, a commitment to influence and a dedication to inspire tomorrow’s professionals who share a personalised and transformational student experience.</strong></p><p><br></p><p><strong>Advisor and Data Analyst, Timetabling and Examinations</strong><br><strong>Student Business Services&nbsp;</strong><br><strong>Full time, Continuing Appointment&nbsp;</strong><br><strong>Position Reference No:</strong>&nbsp;<strong>184666763</strong></p><p><br></p><p><strong>Join Australia’s top university for teaching* and enjoy staff benefits including</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free staff car parking</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 36.75 hour standard work week</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Access to flexible work/work from home arrangements#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 18/26 weeks of parental leave#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Salary packaging options for FBT and Non-FBT items#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17.5% of base salary leave loading</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Staff wellbeing program</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free &amp; Confidential Employee Assistance Program available for all staff</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Study assistance for staff and dependents#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Corporate health and finance discounts</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Medical Centre and Counselling Services</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Sports Centre including gym, fitness classes and pool#</p><p><br></p><p><strong>About the Position:&nbsp;</strong></p><p>The Student Business Services Department aims to deliver efficient and professional administrative services to students and staff for activities associated with the enrolment, examination, and graduation of students in conjunction with a demonstrated commitment to ongoing process review and improvement.</p><p><br></p><p>Reporting to the Manager, Timetabling &amp; Examinations, the Advisor and Data Analyst will work as part of a team on the timely and accurate production of class and examination timetables for each semester of study (three times per year) and advising students in the class registration process. This involves data analysis and interpretation of course information and requirements into effective timetables, as well as providing advice and customer service to staff and students in resolving their queries regarding class and examination timetables and subsequent class registration.</p><p><strong>&nbsp;</strong></p><p><strong>About the Person:&nbsp; <br></strong>Ideally, the successful candidate will have:</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A degree level qualification from a recognised educational institution.&nbsp;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrated knowledge of timetabling systems, student class registration systems and student management systems.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Problem solving, high-level time management and organisational skills.&nbsp;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrated high level analytical and problem-solving skills including attention to detail</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well-developed computer skills particularly in the use of databases and student management systems.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The ability to build relationships with a wide range of internal and external stakeholders</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A great work ethic and feel confident in progressing multiple tasks.</p><p><br></p><p><strong>Salary details: <br></strong>The salary for this full-time position (36.75 hours per week) commences at $85,707.07 per annum plus 12% superannuation.</p><p><br></p><p><strong>Further information: <br></strong>Position related enquiries can be directed to Todd Rogers, Senior Manager, Business Services on <a href=\"tel:(07) 5595 5531\">(07) 5595 5531</a> or <a href=\"mailto:torogers@bond.edu.au\" target=\"_blank\">torogers@bond.edu.au</a></p><p><br></p><p><strong>How to apply for this position:</strong><br>For further details regarding this appointment, please reference the <a href=\"https://bond.edu.au/sites/default/files/2026-08/PD%20Advisor%20and%20Data%20Analyst%2C%20Timetabling%20and%20Examinations%20August%202026.v2.pdf\" target=\"_blank\">Position Description and Selection Criteria</a></p><p><br></p><p>Click&nbsp;<em>Apply Now</em>&nbsp;and&nbsp;<em>Create New Account</em>&nbsp;to get started. You can:</p><ul><li><p>Upload your Resume – your account will be created automatically, or</p></li><li><p>Manually enter your details to set up your account.</p></li></ul><p>Please ensure your application includes:</p><ul><li><p>A current resume</p></li><li><p>A cover letter addressing the Selection Criteria outlined in the Position Description above</p></li></ul><p><br></p><p>For current Bond University staff, apply directly via <a href=\"https://hrconnect.bond.edu.au/\" target=\"_blank\">People Connect</a>, log in with staff credentials, from the Home dashboard select Careers, select the role and apply.</p><p><br><br>If you require any assistance with your application submission, please visit <a href=\"https://bond.edu.au/about-bond/careers-bond/applying-jobs-bond\" target=\"_blank\">Applying for jobs at Bond</a>.</p><p><strong>&nbsp;</strong></p><p><strong>Applications close: 11:59pm, Sunday 16 August 2026</strong></p><p><br></p><p><em>Pre-employment checks: Appointment is subject to satisfactory pre-employment checks (including working rights verification, reference checks and a certified copy of your highest qualification). In line with the National Higher Education Code to Prevent and Respond to Gender-based Violence 2025, preferred candidates must complete a Gender-Based Violence (GBV) Declaration, and any offer of employment will be conditional upon the University’s review of the declaration. For more information, please visit our website via this link: </em><a href=\"https://bond.edu.au/our-university/careers-at-bond/applying-for-jobs-at-bond\" target=\"_blank\"><em>Applying for Jobs at Bond</em></a></p><p><strong>&nbsp;</strong></p><p><strong>Conditions of employment are offered under a Bond Workplace Agreement (BWA).</strong></p><p><br></p><p>Bond University is an equal opportunity employer, and we encourage our students and staff to respect individuality, inclusiveness and diversity.&nbsp; In line with Bond University’s values, people from diverse backgrounds, women, Aboriginal and Torres Strait Islander people, people who identify as LGBTIQ+, and people with a disability are encouraged to apply for positions at the University<strong>.</strong></p><p><br></p><p>Please advise the Talent Acquisition Team if you require any reasonable accommodations to assist you at anytime during the recruitment process.</p><p><strong>&nbsp;</strong></p><p><strong>For more information, visit </strong><a href=\"https://bond.edu.au/our-university/supporting-diversity-at-bond#:~:text=At%20Bond%2C%20we%20foster%20diversity%20and%20inclusion%20through,students%20and%20staff%20from%20more%20than%2090%20countries.\" target=\"_blank\">Supporting diversity at Bond | Bond University | Gold Coast, Queensland, Australia</a></p><p><a href=\"https://bond.edu.au/privacy\" target=\"_blank\">Bond University Privacy Policy</a></p><p>#Eligibility criteria or membership fees apply<br>*Australian Financial Review’s Best Universities Ranking 2024</p>",
+      "job_description": "<p><strong>As Australia’s first private non-profit university, Bond University seeks to be recognised internationally as a leading independent university, imbued with a spirit to innovate, a commitment to influence and a dedication to inspire tomorrow’s professionals who share a personalised and transformational student experience.</strong></p><p><br></p><p><strong>Advisor and Data Analyst, Timetabling and Examinations</strong><br><strong>Student Business Services&nbsp;</strong><br><strong>Full time, Continuing Appointment&nbsp;</strong><br><strong>Position Reference No:</strong>&nbsp;<strong>184666763</strong></p><p><br></p><p><strong>Join Australia’s top university for teaching* and enjoy staff benefits including</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free staff car parking</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 36.75 hour standard work week</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Access to flexible work/work from home arrangements#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 18/26 weeks of parental leave#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Salary packaging options for FBT and Non-FBT items#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17.5% of base salary leave loading</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Staff wellbeing program</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free &amp; Confidential Employee Assistance Program available for all staff</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Study assistance for staff and dependents#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Corporate health and finance discounts</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Medical Centre and Counselling Services</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Sports Centre including gym, fitness classes and pool#</p><p><br></p><p><strong>About the Position:&nbsp;</strong></p><p>The Student Business Services Department aims to deliver efficient and professional administrative services to students and staff for activities associated with the enrolment, examination, and graduation of students in conjunction with a demonstrated commitment to ongoing process review and improvement.</p><p><br></p><p>Reporting to the Manager, Timetabling &amp; Examinations, the Advisor and Data Analyst will work as part of a team on the timely and accurate production of class and examination timetables for each semester of study (three times per year) and advising students in the class registration process. This involves data analysis and interpretation of course information and requirements into effective timetables, as well as providing advice and customer service to staff and students in resolving their queries regarding class and examination timetables and subsequent class registration.</p><p><strong>&nbsp;</strong></p><p><strong>About the Person:&nbsp; <br></strong>Ideally, the successful candidate will have:</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A degree level qualification from a recognised educational institution.&nbsp;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrated knowledge of timetabling systems, student class registration systems and student management systems.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Problem solving, high-level time management and organisational skills.&nbsp;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrated high level analytical and problem-solving skills including attention to detail</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well-developed computer skills particularly in the use of databases and student management systems.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The ability to build relationships with a wide range of internal and external stakeholders</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A great work ethic and feel confident in progressing multiple tasks.</p><p><br></p><p><strong>Salary details: <br></strong>The salary for this full-time position (36.75 hours per week) commences at $85,707.07 per annum plus 12% superannuation.</p><p><br></p><p><strong>Further information: <br></strong>Position related enquiries can be directed to Todd Rogers, Senior Manager, Business Services on <a href=\"tel:(07) 5595 5531\">(07) 5595 5531</a> or <a href=\"mailto:torogers@bond.edu.au\" target=\"_blank\">torogers@bond.edu.au</a></p><p><br></p><p><strong>How to apply for this position:</strong><br>For further details regarding this appointment, please reference the <a href=\"https://bond.edu.au/sites/default/files/2025-02/PD_Advisor%20and%20Data%20Analyst%20Timetabling%20and%20Examinations.pdf\" target=\"_blank\">Position Description and Selection Criteria</a></p><p><br></p><p>Click&nbsp;<em>Apply Now</em>&nbsp;and&nbsp;<em>Create New Account</em>&nbsp;to get started. You can:</p><ul><li><p>Upload your Resume – your account will be created automatically, or</p></li><li><p>Manually enter your details to set up your account.</p></li></ul><p>Please ensure your application includes:</p><ul><li><p>A current resume</p></li><li><p>A cover letter addressing the Selection Criteria outlined in the Position Description above</p></li></ul><p><br></p><p>For current Bond University staff, apply directly via <a href=\"https://hrconnect.bond.edu.au/\" target=\"_blank\">People Connect</a>, log in with staff credentials, from the Home dashboard select Careers, select the role and apply.</p><p><br><br>If you require any assistance with your application submission, please visit <a href=\"https://bond.edu.au/about-bond/careers-bond/applying-jobs-bond\" target=\"_blank\">Applying for jobs at Bond</a>.</p><p><strong>&nbsp;</strong></p><p><strong>Applications close: 11:59pm, Sunday 16 August 2026</strong></p><p><br></p><p><em>Pre-employment checks: Appointment is subject to satisfactory pre-employment checks (including working rights verification, reference checks and a certified copy of your highest qualification). In line with the National Higher Education Code to Prevent and Respond to Gender-based Violence 2025, preferred candidates must complete a Gender-Based Violence (GBV) Declaration, and any offer of employment will be conditional upon the University’s review of the declaration. For more information, please visit our website via this link: </em><a href=\"https://bond.edu.au/our-university/careers-at-bond/applying-for-jobs-at-bond\" target=\"_blank\"><em>Applying for Jobs at Bond</em></a></p><p><strong>&nbsp;</strong></p><p><strong>Conditions of employment are offered under a Bond Workplace Agreement (BWA).</strong></p><p><br></p><p>Bond University is an equal opportunity employer, and we encourage our students and staff to respect individuality, inclusiveness and diversity.&nbsp; In line with Bond University’s values, people from diverse backgrounds, women, Aboriginal and Torres Strait Islander people, people who identify as LGBTIQ+, and people with a disability are encouraged to apply for positions at the University<strong>.</strong></p><p><br></p><p>Please advise the Talent Acquisition Team if you require any reasonable accommodations to assist you at anytime during the recruitment process.</p><p><strong>&nbsp;</strong></p><p><strong>For more information, visit </strong><a href=\"https://bond.edu.au/our-university/supporting-diversity-at-bond#:~:text=At%20Bond%2C%20we%20foster%20diversity%20and%20inclusion%20through,students%20and%20staff%20from%20more%20than%2090%20countries.\" target=\"_blank\">Supporting diversity at Bond | Bond University | Gold Coast, Queensland, Australia</a></p><p><a href=\"https://bond.edu.au/privacy\" target=\"_blank\">Bond University Privacy Policy</a></p><p>#Eligibility criteria or membership fees apply<br>*Australian Financial Review’s Best Universities Ranking 2024</p>",
       "keywords": [
         "advisor",
         "data",
@@ -908,6 +824,26 @@
         "coordinator",
         "ict",
         "operations"
+      ]
+    },
+    {
+      "job_id": "93681673",
+      "job_title": "Microsoft Fabric Platform Administrator",
+      "business_name": "City of Gold Coast",
+      "work_type": "Full time",
+      "job_type": "Database Development & Administration",
+      "pay_range": "$111,401-$117,924 p/a plus superannuation",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93681673",
+      "advertiser_id": "16652581",
+      "posted_date": "2026-07-31T05:54:15Z",
+      "job_description": "<ul> <li><strong>Full Time | 9-day fortnight | 36 hours per week </strong></li> <li> <strong>Salary: </strong>From $111,401 - $117,924 per annum plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG1901/assets/31724193\">Platform Administrator</a> </li> </ul> <p><strong>Shape the future of data and analytics at the City of Gold Coast</strong></p> <p>The City of Gold Coast is investing in a modern, enterprise-scale data and analytics ecosystem, and we're looking for a Microsoft Fabric Platform Administrator to play a key role in its success.</p> <p>This is an exciting opportunity to become the technical custodian of our Microsoft Fabric platform, helping drive the evolution of a modern data environment that enables trusted insights, self-service analytics and smarter decision-making across one of Australia's largest local governments.</p> <p>Working alongside specialists in Azure, Data Engineering, Data Analytics, Information Security and Data Governance, you'll help shape the future of enterprise data capabilities while ensuring our Microsoft Fabric environment remains secure, scalable and high performing.<strong> </strong></p> <p><strong>About the Team<br></strong></p> <p>The Chief Technology Office is entering an exciting new chapter.</p> <p>Following the introduction of our new IT Operating Model and the transition of key technology services in-house, we're transforming how technology is delivered across the City. Our focus is on building modern platforms, accelerating innovation and creating technology services that are responsive, secure and aligned to organisational outcomes.</p> <p>As part of the Enterprise Data &amp; Analytics Platform team, you'll contribute to the growth of a modern Microsoft-based data platform spanning Microsoft Fabric, Power BI, Azure and Purview. <br><br>You'll work in a highly collaborative environment with specialists across cloud, data engineering, analytics and governance to deliver meaningful outcomes for our organisation and community.</p> <p><strong>About the role </strong></p> <p>As the Microsoft Fabric Platform Administrator (internally referred to as Platform Administrator), you will take ownership of the City's Microsoft Fabric environment and help drive its ongoing maturity and adoption.<br><br></p> <p>You will be responsible for platform administration, optimisation, governance and operational excellence, ensuring the platform supports the City's growing demand for advanced analytics and data-driven decision making.<br><br></p> <p>This role offers the opportunity to influence platform standards, contribute to technical roadmaps and help shape how enterprise data services are delivered across the organisation.<br><br></p> <p>Key Responsibilities</p> <ul> <li>Administer and optimise the City's Microsoft Fabric environment, including capacities, workspaces, OneLake, Data Warehouses, Lakehouses, Pipelines and Power BI services.</li> <li>Manage tenant configuration, security settings, access controls and governance standards.</li> <li>Monitor platform utilisation, performance and capacity consumption to ensure optimal service delivery.</li> <li>Drive continuous improvement by evaluating and implementing new Microsoft Fabric capabilities and platform enhancements.</li> <li>Develop and maintain operational standards, support procedures and technical documentation.</li> <li>Partner with Azure platform teams to ensure effective integration, networking, security and operational management across the broader cloud environment.</li> <li>Collaborate with Data Governance and Purview teams to support enterprise information management and governance objectives.</li> <li>Provide guidance and support to business and technology teams leveraging Fabric and Power BI services.</li> <li>Contribute to platform roadmap planning, technology uplift initiatives and service improvement programs.</li> <li>Promote best practices across the Microsoft data and analytics ecosystem</li> </ul> <p><strong>About You</strong></p> <p>You are passionate about modern cloud data platforms and enjoy combining technical expertise with stakeholder engagement.</p> <p>You're curious, solutions-focused and excited by the opportunity to work with emerging Microsoft technologies in a large and complex environment.</p> <p>You'll bring:</p> <ul> <li>Experience administering Microsoft Fabric, Power BI, Azure data platforms or similar enterprise analytics environments.</li> <li>Strong understanding of cloud platform administration, security, identity, governance and operational best practice.</li> <li>Experience managing access controls, platform configuration and enterprise service operations.</li> <li>Knowledge of Microsoft Fabric workloads, including workspace administration, capacity management and tenant management.</li> <li>An understanding of enterprise analytics platforms, data services and self-service reporting environments.</li> <li>Strong troubleshooting, analytical and problem-solving skills.</li> <li>Excellent communication skills with the ability to work effectively across technical and non-technical stakeholder groups.</li> <li>Relevant tertiary qualifications in Information Technology, Computer Science or a related discipline, or equivalent industry experience.</li> </ul> <p><strong>Highly Regarded:</strong></p> <p>The following certifications are advantageous but not essential:</p> <ul> <li>Microsoft Certified: Azure Administrator Associate (AZ-104)</li> <li>Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)</li> <li>Microsoft Certified: Fabric Data Engineer Associate (DP-700)</li> <li>Microsoft Certified: Power BI Data Analyst Associate (PL-300)</li> </ul> <p>Equivalent practical experience and demonstrated capability will be considered equally valuable.</p> <p><strong>Be part of shaping the Gold Coast’s future </strong></p> <p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p> <p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p> <ul> <li>9-day fortnight </li> </ul> <ul> <li>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations </li> </ul> <ul> <li>Personal and professional development courses </li> </ul> <ul> <li>Access to 350+ fitness facilities through Fitness Passport </li> </ul> <ul> <li>4 free confidential counselling sessions a year for you or an immediate family member </li> </ul> <ul> <li>1 free nutritionist and financial advice session per year </li> </ul> <p> </p> <p>We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p> <p><strong>How to apply</strong><br>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p> <p><strong>Contact Person</strong> Ashley Shannon </p> <p><strong>Contact Email</strong> <a href=\"mailto:ashannon@goldcoast.qld.gov.au\">ashannon@goldcoast.qld.gov.au</a> </p> <p><strong>Closing Date</strong> Monday 10th August 2026/ 11:59pm AEDT </p> <p> </p> <p>Our selection process may include a one-way video interview via Criteria, a face-to-face or virtual interview via Microsoft Teams, reference checks via Xref and additional checks including police checks, employment history checks, qualification checks, pre-employment medical reviews and drug and alcohol testing. </p> <p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
+      "keywords": [
+        "microsoft",
+        "fabric",
+        "platform",
+        "administrator"
       ]
     },
     {
@@ -1027,6 +963,24 @@
       ]
     },
     {
+      "job_id": "93619451",
+      "job_title": "Senior Network Engineer",
+      "business_name": "City of Gold Coast",
+      "work_type": "Full time",
+      "job_type": "Engineering - Network",
+      "pay_range": "$111,401-$117,924 p/a plus superannuation",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93619451",
+      "advertiser_id": "16652581",
+      "posted_date": "2026-07-29T01:33:03Z",
+      "job_description": "<ul> <li>Full Time | 9-day fortnight | 36 hours per week </li> <li>From $111,401 - $117,924 per annum plus Superannuation</li> <li>Position Brief - <a href=\"https://applynow.net.au/jobs/COG1700/assets/31072020\">Senior Network Engineer</a> </li> </ul><p> </p><p><strong>About the team</strong></p><p>We're entering a new chapter for the Chief Technology Office at the City of Gold Coast as we deliver bold, future-focused solutions. With the launch of our IT Operating Model and the transition of critical IT services in-house, we are transforming the way we deliver technology, making it faster, more responsive, and more aligned with the needs of our organisation and customers.</p><p>As part of this transformation, we're growing our network engineering capability and have two exciting Senior Network Engineer opportunities available. Whether you're passionate about delivering strategic technology uplift projects or supporting and enhancing enterprise network operations, there's an opportunity to make a significant impact.</p><p><strong>About the role </strong></p><p>This Senior Network Engineering role is responsible for delivering complex network infrastructure projects and providing ongoing support for the City's enterprise network environment.</p><p>You will take ownership of network design, implementation, commissioning, optimisation, and operational support across a diverse range of City facilities. This hands-on role combines project delivery with operational excellence and offers the opportunity to work across a broad range of technologies and environments.</p><p>Participation in an on-call roster is required for the position.</p><h2>What you'll be doing</h2><ul> <li>Designing, implementing, and supporting enterprise network solutions</li> <li>Managing routing, switching, firewall, and network security technologies</li> <li>Delivering network infrastructure projects from design through to implementation</li> <li>Monitoring, troubleshooting, and optimising network performance</li> <li>Supporting cloud networking and hybrid connectivity solutions</li> <li>Collaborating with stakeholders across technology and business teams</li> <li>Producing technical documentation, designs, and diagrams</li> <li>Contributing to continuous improvement and operational excellence</li> <li>Participating in after-hours support and incident response when required</li> </ul><h2>What we're looking for</h2><ul> <li>Extensive experience in enterprise network engineering within large and complex environments</li> <li>Strong understanding of network architecture, security principles, and best practices</li> <li>Expert proficiency in routing protocols including OSPF and BGP</li> <li>Experience with enterprise firewall technologies, including Cisco and Check Point</li> <li>Experience with Cisco DNA Centre (DNAC) and Cisco Identity Services Engine (ISE)</li> <li>Cloud networking experience, particularly within Microsoft Azure environments</li> <li>Strong troubleshooting, analytical, and problem-solving skills</li> <li>Excellent written and verbal communication skills, with the ability to translate technical concepts for diverse audiences</li> <li>Experience producing technical designs and documentation using tools such as Microsoft Visio</li> <li>A valid driver's licence and willingness to travel throughout the Gold Coast region</li> </ul><h2>Qualifications</h2><ul> <li>CCNA, JNCIA, or equivalent industry certification (desirable)</li> </ul><p><strong>Be part of shaping the Gold Coast’s future </strong></p><p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p><p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p><ul> <li>9-day fortnight</li> <li>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations</li> <li>Personal and professional development courses</li> <li>Access to 350+ fitness facilities through Fitness Passport</li> <li>4 free confidential counselling sessions a year for you or an immediate family member</li> <li>1 free nutritionist and financial advice session per year </li> </ul><p>We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p><p><strong>How to apply</strong></p><p>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p><p><strong>Contact Person</strong> Ashley Shannon</p><p><strong>Contact Email</strong> <a href=\"mailto:ashannon@goldcoast.qld.gov.au\">ashannon@goldcoast.qld.gov.au</a></p><p><strong>Closing Date</strong> Monday 10th August 2026/11:59pm AEDT </p><p>Our selection process may include a one-way video interview via Criteria, a face-to-face or virtual interview via Microsoft Teams, reference checks via Xref and additional checks including police checks, employment history checks, qualification checks, pre-employment medical reviews and drug and alcohol testing. </p><p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We consider all qualified candidates for employment, irrespective of race, age, religion, gender identity, sexual orientation, disability, or other protected characteristics by law.</em> </p>",
+      "keywords": [
+        "network",
+        "engineer"
+      ]
+    },
+    {
       "job_id": "93614626",
       "job_title": "Project Officer FFS",
       "business_name": "Department of Health - Queensland",
@@ -1043,6 +997,25 @@
         "project",
         "officer",
         "ffs"
+      ]
+    },
+    {
+      "job_id": "93589471",
+      "job_title": "POS Support Technician",
+      "business_name": "Paimnt",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "$80,000 – $100,000 per year",
+      "area": "Helensvale, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93589471",
+      "advertiser_id": "62258641",
+      "posted_date": "2026-07-27T23:51:58Z",
+      "job_description": "<h2>Gold Coast | Full Time | Hospitality Technology</h2><p>At Paimnt, we don't just answer support calls.</p><p>We keep venues trading.</p><p>When a club can't process payments, a pub loses connectivity, or a venue needs help understanding how to get the most from their POS system, our Support Team is the first line of defence.</p><p>We're looking for a <strong>POS Support Technician</strong> who enjoys solving problems, helping customers, and learning how hospitality technology works from the inside out.</p><p>This role is primarily focused on <strong>technical support</strong>, helping venues across Australia using Paimnt and legacy POS systems. While you may occasionally assist with installations or go-live activities, your core focus will be ensuring customers receive exceptional support and their businesses remain operational.</p><hr><h2>Why Join Paimnt?</h2><p>Paimnt is one of Australia's newest and fastest-growing hospitality technology companies.</p><p>We're building modern POS, payments, loyalty and hospitality solutions designed specifically for Australian venues.</p><p>As part of our support team, you'll have direct exposure to:</p><ul><li><p>Hospitality operations</p></li><li><p>POS technology</p></li><li><p>EFTPOS integrations</p></li><li><p>Networking and Wi-Fi troubleshooting</p></li><li><p>Cloud platforms</p></li><li><p>Loyalty and membership systems</p></li><li><p>Product development feedback and testing</p></li></ul><p>You'll work closely with our development, installation and management teams and have a genuine opportunity to influence the future of the product.</p><hr><h2>What You'll Be Doing</h2><h2>Technical Support</h2><ul><li><p>Responding to customer support requests via phone, email and remote support tools</p></li><li><p>Diagnosing and resolving software, hardware and networking issues</p></li><li><p>Supporting EFTPOS and third-party integrations</p></li><li><p>Troubleshooting venue connectivity issues</p></li><li><p>Escalating complex issues appropriately</p></li><li><p>Maintaining accurate ticket notes and documentation</p></li><li><p>Working with customers to ensure issues are fully resolved</p></li><li><p>Take part in after - hours support on a rotational basis</p></li></ul><h2>Product Support</h2><ul><li><p>Developing expert knowledge of the Paimnt platform</p></li><li><p>Assisting customers with system configuration and best practice</p></li><li><p>Providing feedback to our development team</p></li><li><p>Helping improve support processes and documentation</p></li><li><p>Supporting venues transitioning from legacy POS systems</p></li></ul><h2>Additional Opportunities</h2><p>Depending on experience and business requirements, you may also:</p><ul><li><p>Assist with venue installations and go-live support</p></li><li><p>Participate in software testing and quality assurance</p></li><li><p>Assist with customer training</p></li><li><p>Support managed service customers</p></li></ul><hr><h2>Experience We're Looking For</h2><h2>Highly Regarded</h2><ul><li><p>Previous Point of Sale (POS) support experience</p></li><li><p>Experience with <strong>SwiftPOS, H&amp;L, BEPOZ, IdealPOS, OrderMate, Triniteq, Lightspeed, Square, Oracle Simphony</strong> or other hospitality POS platforms</p></li><li><p>Strong understanding of POS operations, workflows and venue procedures</p></li><li><p>Experience supporting hospitality venues including clubs, pubs, restaurants and entertainment venues</p></li><li><p>Strong reconciliation experience, including end-of-day balancing, payment reconciliation, cash management and troubleshooting discrepancies</p></li><li><p>EFTPOS integration knowledge and troubleshooting experience</p></li><li><p>Networking and Wi-Fi troubleshooting experience</p></li><li><p>Hardware deployment and configuration experience</p></li><li><p>Managed services or remote support experience</p></li></ul><h2>Don't Tick Every Box?</h2><p>That's okay.</p><p>We're far more interested in finding someone with curiosity, initiative and a genuine desire to learn than someone who already knows everything.</p><p>If you're technically minded, enjoy solving problems and take pride in helping customers, we'd still love to hear from you.</p><h2>The Person We're Looking For</h2><p>You enjoy:</p><p>✔ Solving problems</p><p>✔ Helping customers</p><p>✔ Learning new technology</p><p>✔ Working in a fast-moving environment</p><p>✔ Taking ownership of issues</p><p>✔ Finding the root cause rather than applying temporary fixes</p><p>You're the type of person who doesn't stop at \"it's working now\" and instead wants to understand <strong>why it broke in the first place.</strong></p><hr><h2>Career Growth</h2><p>As Paimnt continues to grow, opportunities exist to progress into:</p><ul><li><p>Senior Support Technician</p></li><li><p>Technical Specialist</p></li><li><p>Product Specialist</p></li><li><p>Customer Success</p></li><li><p>Installation &amp; Deployment</p></li><li><p>Managed Services</p></li><li><p>Support Management</p></li><li><p>Operations Leadership</p></li></ul><hr><h2>What Makes This Different?</h2><p>We're not looking for someone to read scripts.</p><p>We're looking for someone who wants to become an expert in hospitality technology.</p><p>Someone who enjoys a challenge.</p><p>Someone who takes pride in helping customers.</p><p>And someone who wants to be part of a growing Australian software company where their contribution genuinely matters.</p><p>If that sounds like you, we'd love to hear from you.</p><p><strong>Apply now by sending your resume and a short introduction via this job ad.</strong></p><p><strong>Paimnt – Built in Australia. Supported in Australia. Growing across Australia.</strong></p>",
+      "keywords": [
+        "pos",
+        "support",
+        "technician"
       ]
     },
     {
@@ -1247,6 +1220,24 @@
       "job_description": "<p><strong>Technical Lead / Software Architect (.NET / React / Azure) | Permanent | $180,000-$185,000 + Super | Broadbeach, Gold Coast (Hybrid) | AI Agentic | Modernisation Project | Scaling Business </strong></p><p><strong>About the Company</strong></p><p>Our client is a leading travel technology business with ambitious international growth plans and a significant investment in modernising its technology landscape. Operating as an independent technology team, they're embarking on a major transformation to replace a 20-year legacy platform with a modern Microsoft ecosystem that will support the business for years to come.</p><p>With a strategic partnership with Microsoft, the engineering team works closely with Microsoft's own solution architects to shape best practice architecture, leverage emerging technologies and deliver innovative digital products across the travel industry.</p><p>This role would suit someone with extensive experience in a Microsoft environment, combining deep Azure architecture expertise with hands-on .NET development.</p><p><strong>About the Role</strong></p><p>This is a senior individual contributor position that combines technical leadership, software architecture and hands-on engineering. Reporting to the Head of Engineering, you'll own the technical direction for a team of five engineers while partnering closely with the Solution Architect to design scalable, cloud-native solutions.</p><p>You'll spend approximately 70% of your time driving architecture, mentoring engineers and making key technical decisions, with the remaining 30% remaining hands-on across full-stack development.</p><p>A key focus of the role will be designing and operating Azure infrastructure, building scalable API integrations and modern microservices architecture that powers real-time travel booking platforms. You'll also play a leading role in the team's adoption of AI-assisted software engineering, establishing standards and best practices for tools such as Claude Code and GitHub Copilot.</p><p>Working across customer booking platforms, consultant portals and partner applications, you'll help shape the architecture that underpins the next phase of the company's international growth.</p><p><strong>Key Skills</strong></p><ul><li>Extensive experience as a Technical Lead, Lead Software Engineer or Software Architect within a Microsoft environment.</li><li>Deep expertise designing, building and operating Azure infrastructure, including Landing Zones, Bicep (Infrastructure as Code), Container Apps, Networking, Azure API Management, Key Vault and RBAC.</li><li>Strong experience designing scalable cloud-native and microservices architectures.</li><li>Hands-on .NET development experience building REST APIs and modern web applications.</li><li>Experience with React and TypeScript front-end development.</li><li>Strong understanding of API integration patterns, enterprise integration and high-volume transactional systems.</li><li>Experience mentoring engineers through technical leadership, code reviews and engineering best practices.</li><li>Experience with Azure DevOps, GitHub Actions, CI/CD pipelines and DevOps practices.</li><li>Exposure to AI-assisted software engineering tools such as Claude Code, GitHub Copilot or similar.</li><li>Strong understanding of software architecture, scalability, security and engineering quality.</li><li>Experience working within a digital product or technology-led environment.</li><li>Experience with Microsoft Dynamics 365 Business Central will be highly regarded.</li></ul><p><strong>Benefits</strong></p><ul><li>$180,000-$185,000 + Super.</li><li>Permanent leadership opportunity within a growing technology business.</li><li>Hybrid working with three days per week onsite in Broadbeach.</li><li>Opportunity to shape the architecture of a large-scale platform transformation.</li><li>Work directly alongside Microsoft's solution architects through a strategic partnership.</li><li>Modern technology stack including Azure, .NET, React, TypeScript, Business Central and AI engineering tools.</li><li>High-impact role with genuine influence over engineering strategy and technical direction.</li></ul><p>If you're an experienced Technical Lead or Software Architect who enjoys balancing architecture, cloud engineering and hands-on development while mentoring high-performing engineering teams, we'd love to hear from you. Apply now or reach out for a confidential discussion.</p><p><strong>Technical Lead / Software Architect (.NET / React / Azure) | Permanent | $180,000-$185,000 + Super | Broadbeach, Gold Coast (Hybrid) | AI Agentic | Modernisation Project | Scaling Business </strong></p><p> </p>",
       "keywords": [
         "technical"
+      ]
+    },
+    {
+      "job_id": "93525222",
+      "job_title": "Technology Officer",
+      "business_name": "Department of Health - Queensland",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93525222",
+      "advertiser_id": "32285210",
+      "posted_date": "2026-07-23T18:45:03Z",
+      "job_description": "<div>\n \n <p>Take the next step in your career with this exciting opportunity within eHealth. The Digital Partnership teams provide effective and efficient ICT support services across Queensland. This role primarily provides on-site and remote level 2 technical support, incident management and request fulfilment in one or more technology domains to ensure defined enterprise service levels are met. The technical domains include End User Computing; Servers and Networks and Unified Communications.</p>\n </div>\n<div>\n <p><strong>What you'll do&nbsp;</strong>&nbsp;</p>\n<ul>\n<li>Provide timely support to clients by conducting thorough investigation and diagnosis of incidents and providing remedial action to ensure agreed Service Levels are maintained.</li>\n<li>Work within procedures for the maintenance and support of one or more technical domains – refer Appendix 1.</li>\n<li>Provide excellent customer service by applying effective organisational and communication skills.</li>\n<li>Assist in meeting enterprise service levels by applying eHealth incident management processes.</li>\n</ul>\n<p><strong>About you&nbsp;</strong>&nbsp;</p>\n<p>We are searching for someone who has:</p>\n<ul>\n<li>Technical knowledge and/or experience in the management, configuration, monitoring and implementation of ICT environments in one or more technical domains.</li>\n<li>Ability to deliver high quality ICT support to clients, with an emphasis on managing workloads and prioritising tasks.</li>\n<li>Ability to identify and resolve ICT related problems within defined Service Level Agreements.</li>\n<li>Demonstrated interpersonal skills and personal qualities that facilitate the development of good working relationships and enhance the provision of quality client service in a team environment.</li>\n<li>Sound oral and written communication skills to assist with the creation and/or maintenance of system documentation and work instructions.</li>\n<li>Demonstrated experience or the ability to quickly learn ServiceNow and ITIL Service Management processes.</li>\n</ul>\n<p><strong>Why work with us?&nbsp;</strong>&nbsp;</p>\n<p>Work alongside passionate professionals in a supportive and inclusive environment that values people and prioritises employee success and wellbeing.&nbsp;</p>\n<p><strong>Competitive salaries</strong>&nbsp;</p>\n<ul>\n<li>12.75% superannuation&nbsp;&nbsp;</li>\n<li>17.5% leave loading&nbsp;</li>\n</ul>\n<p><strong>Employee wellbeing &amp; development</strong>&nbsp;</p>\n<ul>\n<li>Access to 24/7 confidential employee support providers and counsellors including for immediate family members&nbsp;</li>\n<li>Additional flexibility to support your work life balance including access to generous leave entitlements, such as purchased leave, domestic violence leave, reproductive health leave, cultural leave, study and examination leave.&nbsp;</li>\n<li>Access to a variety of programs and initiatives to support training and career growth.&nbsp;&nbsp;</li>\n<li>Grow your skills through hands-on experience and access to internal training opportunities and additional financial and leave benefits for approved external training and development.&nbsp;</li>\n</ul>\n<p><strong>Our commitment to equity, diversity and inclusion</strong><strong> </strong>&nbsp;</p>\n<p>At Queensland Health, our work environment is inclusive and supportive, and we value our employees. We are an equal opportunity employer and encourage applications from people of all cultures, abilities and backgrounds.&nbsp;&nbsp;</p>\n<p>Our commitment to cultural safety, equity, diversity and inclusion means we understand some people may need changes to the recruitment process. If you need support during the recruitment process, such as meeting with the panel virtually instead of in person, please reach out to the hiring manager. We value diverse candidates and your need for adjustments will not affect our hiring decisions. &nbsp;</p>\n<p><strong>Ready to apply?</strong>&nbsp;</p>\n<p>For further information on how to apply please review the attached Role Description.&nbsp;&nbsp;</p>\n </div>",
+      "keywords": [
+        "technology",
+        "officer"
       ]
     },
     {
