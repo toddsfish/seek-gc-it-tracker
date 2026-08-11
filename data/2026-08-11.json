@@ -1,623 +1,471 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-11",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-12T06:35:27.372136+10:00",
-  "total_jobs": 72,
+  "scraped_at": "2026-08-11T06:32:12.210094+10:00",
+  "total_jobs": 66,
   "keywords": [
     {
       "term": "analyst",
       "count": 13,
-      "share": 0.1806
+      "share": 0.197
     },
     {
       "term": "manager",
-      "count": 13,
-      "share": 0.1806
-    },
-    {
-      "term": "support",
-      "count": 10,
-      "share": 0.1389
+      "count": 12,
+      "share": 0.1818
     },
     {
       "term": "business",
       "count": 9,
-      "share": 0.125
-    },
-    {
-      "term": "developer",
-      "count": 9,
-      "share": 0.125
+      "share": 0.1364
     },
     {
       "term": "it",
       "count": 9,
-      "share": 0.125
+      "share": 0.1364
+    },
+    {
+      "term": "support",
+      "count": 9,
+      "share": 0.1364
     },
     {
       "term": "engineer",
       "count": 8,
-      "share": 0.1111
+      "share": 0.1212
     },
     {
-      "term": "officer",
-      "count": 6,
-      "share": 0.0833
+      "term": "developer",
+      "count": 7,
+      "share": 0.1061
     },
     {
       "term": "ict",
       "count": 6,
-      "share": 0.0833
-    },
-    {
-      "term": "software",
-      "count": 5,
-      "share": 0.0694
+      "share": 0.0909
     },
     {
       "term": "project",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0606
     },
     {
       "term": "specialist",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0606
+    },
+    {
+      "term": "software",
+      "count": 4,
+      "share": 0.0606
     },
     {
       "term": "technical",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0606
     },
     {
-      "term": "technician",
+      "term": "officer",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0606
     },
     {
-      "term": "digital",
+      "term": "systems",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0606
+    },
+    {
+      "term": "administrator",
+      "count": 4,
+      "share": 0.0606
     },
     {
       "term": "development",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0606
     },
     {
       "term": "ai",
       "count": 3,
-      "share": 0.0417
+      "share": 0.0455
     },
     {
       "term": "network",
       "count": 3,
-      "share": 0.0417
+      "share": 0.0455
     },
     {
       "term": "operations",
       "count": 3,
-      "share": 0.0417
+      "share": 0.0455
     },
     {
-      "term": "systems",
+      "term": "digital",
       "count": 3,
-      "share": 0.0417
-    },
-    {
-      "term": "administrator",
-      "count": 3,
-      "share": 0.0417
-    },
-    {
-      "term": "solutions",
-      "count": 2,
-      "share": 0.0278
+      "share": 0.0455
     },
     {
       "term": "ongc",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0303
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0278
-    },
-    {
-      "term": "shopify",
-      "count": 2,
-      "share": 0.0278
+      "share": 0.0303
     },
     {
       "term": "php",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0303
     },
     {
       "term": "platform",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0303
     },
     {
-      "term": "deployment",
+      "term": "technician",
       "count": 2,
-      "share": 0.0278
-    },
-    {
-      "term": "wsr",
-      "count": 2,
-      "share": 0.0278
+      "share": 0.0303
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0303
     },
     {
       "term": "ffs",
       "count": 2,
-      "share": 0.0278
-    },
-    {
-      "term": "health",
-      "count": 2,
-      "share": 0.0278
-    },
-    {
-      "term": "information",
-      "count": 2,
-      "share": 0.0278
+      "share": 0.0303
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0303
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0278
-    },
-    {
-      "term": "architect",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0303
     },
     {
       "term": "leader",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
+    },
+    {
+      "term": "architect",
+      "count": 1,
+      "share": 0.0152
+    },
+    {
+      "term": "solutions",
+      "count": 1,
+      "share": 0.0152
     },
     {
       "term": "accounting",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "timetabling",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "examinations",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "insights",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
+    },
+    {
+      "term": "shopify",
+      "count": 1,
+      "share": 0.0152
     },
     {
       "term": "commerce",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "wordpress",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "heads",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "days",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "per",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "week",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "dotnet",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "laravel",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "stack",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "java",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
+    },
+    {
+      "term": "stack",
+      "count": 1,
+      "share": 0.0152
+    },
+    {
+      "term": "java",
+      "count": 1,
+      "share": 0.0152
     },
     {
       "term": "architecture",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "program",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "ao4",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "api",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "tech",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "back",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "office",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
+    },
+    {
+      "term": "application",
+      "count": 1,
+      "share": 0.0152
+    },
+    {
+      "term": "custodian",
+      "count": 1,
+      "share": 0.0152
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
+    },
+    {
+      "term": "health",
+      "count": 1,
+      "share": 0.0152
+    },
+    {
+      "term": "information",
+      "count": 1,
+      "share": 0.0152
     },
     {
       "term": "workplace",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "apps",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "m365",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "fibre",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "splicer",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "telecommunications",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "rod",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "rope",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "cable",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "hauler",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "ui",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "ux",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "landing",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "page",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "leadify",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "seo",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0152
     }
   ],
   "jobs": [
-    {
-      "job_id": "93914099",
-      "job_title": "Senior Deployment Technician WSR",
-      "business_name": "Department of Health - Queensland",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93914099",
-      "advertiser_id": "32285210",
-      "posted_date": "2026-08-11T19:44:20Z",
-      "job_description": "<div>\n \n <p>Take the next step in your career with this exciting opportunity within eHealth. This role is primarily responsible for technical and administrative activities associated with workstation replacement (WSR) program in line with guidelines related to technical investigations, lifecycle schedule and stock management.\nThis role support’s the Deployment Coordinator in delivering on replacement activities to meet Queensland Health’s approved asset lifecycle processes within a geographical area. This role will be required to engage with customers and handle escalation of technical issues related to the run up and delivery of devices. The workstation replacement (WSR) program performs the replacement of computing devices to improve performance and reduce interruption to clinical and non-clinical staff working within Queensland Health.\n</p>\n </div>\n<div>\n <p><strong>What you'll do&nbsp;</strong>&nbsp;</p>\n<ul>\n<li>Provide timely support to clients by conducting investigation and diagnosis of incidents and providing eHealth incident management processes to ensure agreed Service Levels are maintained.</li>\n<li>Supporting the local Deployment Coordinator to manage team members and activities to deliver the WSR program for supported sites.</li>\n<li>Engagement as a member of the team to ensure WSR activities (including WSR stock management of new and replaced devices, run up, deployment and installation of devices) are completed as per documented work processes.</li>\n<li>Ensure asset management integrity is maintained by ensuring work processes are implemented correctly and involvement with regular asset activities as identified.</li>\n<li>Provide financial administrative support, within the domain of WSR, by undertaking activities associated with quoting &amp; ICT asset and equipment management.</li>\n</ul>\n<p><strong>About you&nbsp;</strong>&nbsp;</p>\n<p>We are searching for someone who has:</p>\n<ul>\n<li>Demonstrated technical expertise in the management, configuration, monitoring and implementation of ICT environments in one or more technical domains – See Appendix 1.</li>\n<li>Ability to deliver high quality ICT support to clients, with an emphasis on managing workloads, prioritising tasks and working unsupervised.</li>\n<li>Demonstrated ability to identify and resolve ICT related problems within defined Service Level Agreements.</li>\n<li>Interpersonal skills and personal qualities that facilitate the development of good working relationships, including mentoring of junior staff to enhance the provision of quality client service in a team environment.</li>\n<li>Developed oral and written communication skills that enable the creation and/or maintenance of system documentation, work instructions and technical reports for management.</li>\n<li>Ability to quickly learn ServiceNow and ITIL Service Management processes (primarily request / CMDB / asset management)</li>\n<li>Proven experience or ability to deliver on small to medium scale projects, focused on scheduling and customer engagement. Ability to coordinate multiple tasks within agreed priorities, timeframes and accountabilities.</li>\n</ul>\n<p><strong>Why work with us?&nbsp;</strong>&nbsp;</p>\n<p>Work alongside passionate professionals in a supportive and inclusive environment that values people and prioritises employee success and wellbeing.&nbsp;</p>\n<p><strong>Competitive salaries</strong>&nbsp;</p>\n<ul>\n<li>12.75% superannuation&nbsp;&nbsp;</li>\n<li>17.5% leave loading&nbsp;</li>\n</ul>\n<p><strong>Employee wellbeing &amp; development</strong>&nbsp;</p>\n<ul>\n<li>Access to 24/7 confidential employee support providers and counsellors including for immediate family members&nbsp;</li>\n<li>Additional flexibility to support your work life balance including access to generous leave entitlements, such as purchased leave, domestic violence leave, reproductive health leave, cultural leave, study and examination leave.&nbsp;</li>\n<li>Access to a variety of programs and initiatives to support training and career growth.&nbsp;&nbsp;</li>\n<li>Grow your skills through hands-on experience and access to internal training opportunities and additional financial and leave benefits for approved external training and development.&nbsp;</li>\n</ul>\n<p><strong>Our commitment to equity, diversity and inclusion</strong><strong> </strong>&nbsp;</p>\n<p>At Queensland Health, our work environment is inclusive and supportive, and we value our employees. We are an equal opportunity employer and encourage applications from people of all cultures, abilities and backgrounds.&nbsp;&nbsp;</p>\n<p>Our commitment to cultural safety, equity, diversity and inclusion means we understand some people may need changes to the recruitment process. If you need support during the recruitment process, such as meeting with the panel virtually instead of in person, please reach out to the hiring manager. We value diverse candidates and your need for adjustments will not affect our hiring decisions. &nbsp;</p>\n<p><strong>Ready to apply?</strong>&nbsp;</p>\n<p>For further information on how to apply please review the attached Role Description.&nbsp;&nbsp;</p>\n </div>",
-      "keywords": [
-        "deployment",
-        "technician",
-        "wsr"
-      ]
-    },
-    {
-      "job_id": "93911544",
-      "job_title": "Senior Deployment Technician WSR",
-      "business_name": "Department of Health - Queensland",
-      "work_type": "Contract/Temp",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$94,012 - $103,572 per annum + super",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93911544",
-      "advertiser_id": "32285210",
-      "posted_date": "2026-08-11T14:01:05Z",
-      "job_description": "<p><strong>What you'll do&nbsp;</strong>&nbsp;</p>\n<ul>\n<li>Provide timely support to clients by conducting investigation and diagnosis of incidents and providing eHealth incident management processes to ensure agreed Service Levels are maintained.</li>\n<li>Supporting the local Deployment Coordinator to manage team members and activities to deliver the WSR program for supported sites.</li>\n<li>Engagement as a member of the team to ensure WSR activities (including WSR stock management of new and replaced devices, run up, deployment and installation of devices) are completed as per documented work processes.</li>\n<li>Ensure asset management integrity is maintained by ensuring work processes are implemented correctly and involvement with regular asset activities as identified.</li>\n<li>Provide financial administrative support, within the domain of WSR, by undertaking activities associated with quoting &amp; ICT asset and equipment management.</li>\n</ul>\n<p><strong>About you&nbsp;</strong>&nbsp;</p>\n<p>We are searching for someone who has:</p>\n<ul>\n<li>Demonstrated technical expertise in the management, configuration, monitoring and implementation of ICT environments in one or more technical domains – See Appendix 1.</li>\n<li>Ability to deliver high quality ICT support to clients, with an emphasis on managing workloads, prioritising tasks and working unsupervised.</li>\n<li>Demonstrated ability to identify and resolve ICT related problems within defined Service Level Agreements.</li>\n<li>Interpersonal skills and personal qualities that facilitate the development of good working relationships, including mentoring of junior staff to enhance the provision of quality client service in a team environment.</li>\n<li>Developed oral and written communication skills that enable the creation and/or maintenance of system documentation, work instructions and technical reports for management.</li>\n<li>Ability to quickly learn ServiceNow and ITIL Service Management processes (primarily request / CMDB / asset management)</li>\n<li>Proven experience or ability to deliver on small to medium scale projects, focused on scheduling and customer engagement. Ability to coordinate multiple tasks within agreed priorities, timeframes and accountabilities.</li>\n</ul>\n<p><strong>Why work with us?&nbsp;</strong>&nbsp;</p>\n<p>Work alongside passionate professionals in a supportive and inclusive environment that values people and prioritises employee success and wellbeing.&nbsp;</p>\n<p><strong>Competitive salaries</strong>&nbsp;</p>\n<ul>\n<li>12.75% superannuation&nbsp;&nbsp;</li>\n<li>17.5% leave loading&nbsp;</li>\n</ul>\n<p><strong>Employee wellbeing &amp; development</strong>&nbsp;</p>\n<ul>\n<li>Access to 24/7 confidential employee support providers and counsellors including for immediate family members&nbsp;</li>\n<li>Additional flexibility to support your work life balance including access to generous leave entitlements, such as purchased leave, domestic violence leave, reproductive health leave, cultural leave, study and examination leave.&nbsp;</li>\n<li>Access to a variety of programs and initiatives to support training and career growth.&nbsp;&nbsp;</li>\n<li>Grow your skills through hands-on experience and access to internal training opportunities and additional financial and leave benefits for approved external training and development.&nbsp;</li>\n</ul>\n<p><strong>Our commitment to equity, diversity and inclusion</strong><strong> </strong>&nbsp;</p>\n<p>At Queensland Health, our work environment is inclusive and supportive, and we value our employees. We are an equal opportunity employer and encourage applications from people of all cultures, abilities and backgrounds.&nbsp;&nbsp;</p>\n<p>Our commitment to cultural safety, equity, diversity and inclusion means we understand some people may need changes to the recruitment process. If you need support during the recruitment process, such as meeting with the panel virtually instead of in person, please reach out to the hiring manager. We value diverse candidates and your need for adjustments will not affect our hiring decisions. &nbsp;</p>\n<p><strong>Ready to apply?</strong>&nbsp;</p>\n<p>For further information on how to apply please review the attached Role Description.&nbsp;&nbsp;</p>",
-      "keywords": [
-        "deployment",
-        "technician",
-        "wsr"
-      ]
-    },
-    {
-      "job_id": "93899847",
-      "job_title": "Fibre Splicer",
-      "business_name": "Comms-X pty ltd",
-      "work_type": "Full time",
-      "job_type": "Telecommunications",
-      "pay_range": "$85,000 – $90,000 per year",
-      "area": "Burleigh Heads, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93899847",
-      "advertiser_id": "400387620",
-      "posted_date": "2026-08-11T06:06:41Z",
-      "job_description": "<h2>💥 FIBRE OPTIC SPLICER – GOLD COAST</h2><h2>Join a Growing Telecommunications Team</h2><p><strong>Gold Coast | Full-Time | Immediate Start</strong></p><p>We are looking for an <strong>experienced Fibre Optic Splicer</strong> to join our growing telecommunications team on the Gold Coast.</p><p>If you’re a reliable, hands-on technician who takes pride in producing <strong>high-quality fibre work</strong>, we want to hear from you.</p><h2>🔧 The Role</h2><p>You’ll be responsible for fibre optic installation, splicing, testing and fault finding across a range of telecommunications projects throughout the Gold Coast and surrounding areas.</p><p><strong>Your duties will include:</strong></p><ul><li><p>Fibre optic splicing and jointing</p></li><li><p>Fibre testing using OTDR and power meter</p></li><li><p>Fibre fault finding and rectification</p></li><li><p>Working in pits, conduits, cabinets and telecommunications infrastructure</p></li><li><p>Reading fibre plans and network diagrams</p></li><li><p>Completing job documentation and test results</p></li><li><p>Working safely and maintaining a high standard of workmanship</p></li><li><p>Liaising with supervisors, clients and other field crews</p></li></ul><h2>✅ What We're Looking For</h2><p><strong>Essential:</strong></p><ul><li><p>Previous experience as a Fibre Splicer / Fibre Technician</p></li><li><p>Strong knowledge of fibre optic networks</p></li><li><p>Experience with fusion splicing</p></li><li><p>Competent with OTDR and fibre testing equipment</p></li><li><p>Current driver's licence</p></li><li><p>Strong attention to detail</p></li><li><p>Reliable and punctual</p></li><li><p>Ability to work independently and as part of a team</p></li><li><p>Good communication skills</p></li></ul><p><strong>Highly regarded:</strong></p><ul><li><p>Experience with <strong>FTTP, FTTN, HFC or carrier networks</strong></p></li><li><p>NBN experience</p></li><li><p>Relevant telecommunications qualifications</p></li><li><p>Traffic control / working-at-heights tickets</p></li><li><p>Experience with <strong>FJL,BJL, multiports, and fibre distribution equipment</strong></p></li></ul><h2>💰 What We Offer</h2><ul><li><p><strong>Competitive hourly rate – based on experience</strong></p></li><li><p>Full-time position</p></li><li><p>Consistent Gold Coast work</p></li><li><p>Company vehicle and equipment</p></li><li><p>Ongoing training and development</p></li><li><p>Great team environment</p></li><li><p>Opportunity for overtime</p></li><li><p>Immediate start available</p></li></ul><h2>📍 Location</h2><p><strong>Gold Coast, QLD</strong></p><p>Work will cover the Gold Coast and surrounding areas.</p><h2>📲 Apply Now</h2><p>If you're an experienced fibre splicer looking for <strong>steady work, good money and a company that values quality workmanship</strong>, we'd like to hear from you.</p><p><strong>Send your resume and a brief summary of your experience to apply.</strong></p><p><strong>Immediate start available for the right person.</strong></p>",
-      "keywords": [
-        "fibre",
-        "splicer"
-      ]
-    },
-    {
-      "job_id": "93887421",
-      "job_title": "Program Officer - Digital Solutions (AO4)",
-      "business_name": "Kingston Human Capital",
-      "work_type": "Contract/Temp",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$60.05 - $66.00 per Hour + 12% Super",
-      "area": "Nerang, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93887421",
-      "advertiser_id": "29457840",
-      "posted_date": "2026-08-11T00:42:28Z",
-      "job_description": "Working with our State Government client, we are seeking a Program Officer to join their Nerang based team for an initial 12-month contract, with potential extension.<br><strong><br>Your Role</strong><br>In this role, you will support the delivery of digital business solutions that improve efficiency, collaboration and information management across the region.<br><br>You will focus on the practical development, administration and support of SharePoint Online, Power Apps, Power Automate and other Microsoft 365 technologies to meet business needs.<br> <br>You will contribute to business improvement initiatives by working with stakeholders to understand operational requirements, develop low-code solutions, and provide ongoing support and training to users.<br> &nbsp;<br> Key responsibilities and tasks will include:<br> <ul> <li>Develop, configure, maintain and support digital business solutions and information management platforms, including SharePoint Online sites, libraries and lists, Microsoft 365 applications and other approved departmental systems.</li> <li>Design, develop and support low-code solutions, workflows and automations using Microsoft Power Platform, including Power Apps and Power Automate.</li> <li>Work with customers and stakeholders to identify business needs, gather and document requirements, and identify opportunities for process and service improvement through digital technologies.</li> <li>Provide technical advice, user support and training for SharePoint Online, Power Platform, Microsoft 365 and other approved business systems and applications.</li> <li>Participate in digital and business improvement projects, including solution testing, implementation, enhancements and change activities.</li> <li>Ensure digital solutions comply with departmental policies, information and records management requirements, cyber security controls and governance frameworks.</li> <li>Create and maintain system documentation, procedures, user guides and training materials.</li> <li>Monitor solution performance, troubleshoot issues and implement enhancements and improvements where appropriate.</li> <li>Maintain awareness of emerging Microsoft 365 and digital capabilities and recommend opportunities for continuous improvement.</li> </ul> <strong>Skills &amp; Experience</strong><br> To be successful, you will need to demonstrate:<br> <ul> <li>Demonstrated knowledge and experience with SharePoint Online, Power Apps, Power Automate and Microsoft 365 technologies.</li> <li>Demonstrated experience supporting, administering or developing business systems and digital solutions, including Microsoft 365 applications and other enterprise software platforms.</li> <li>Ability to analyse business processes and identify opportunities for improvement through digital solutions.</li> <li>Experience configuring and maintaining SharePoint Online environments, including permissions, document libraries, metadata and content structures.</li> <li>Ability to develop low-code solutions using Power Platform tools.</li> <li>Well-developed problem-solving and troubleshooting skills.</li> <li>Ability to effectively communicate technical concepts to non-technical users.</li> <li>Strong organisational skills with the ability to manage multiple tasks and competing priorities.</li> <li>Demonstrated commitment to delivering customer-focused outcomes and continuous improvement.</li> </ul> <em>Desirable</em><br> <ul> <li>Experience developing and administering SharePoint Online sites and solutions.</li> <li>Experience developing solutions using Power Apps and Power Automate.</li> </ul> <strong>Benefits</strong><br> <ul> <li>Role commencing early September</li> <li>Initial 12-month contract, with potential extension</li> <li>$60.05 - $66.00 per Hour + 12% Superannuation (PAYG)</li> <li>37.5 hours per week, Monday to Friday</li> <li>Nerang office location</li> <li>Hybrid working arrangements</li> <li>Weekly pay cycles, with no payroll deductions from Kingston</li> </ul> <strong>What you need to do now&nbsp;&nbsp;<br> </strong>Click APPLY NOW and upload your CV (MS Word preferred)<br> &nbsp;&nbsp;<br> We actively encourage the use of Cover Letters to highlight your relevant skills and experience aligning to the role.<br> &nbsp;&nbsp;<br> We are interviewing and shortlisting this role immediately, so do not delay your application.<br> <br> Confidential enquiries can be directed to:<br><br> <strong>James Flanagan </strong>/ <a href=\"mailto:james@kingstonhumancapital.com.au\">james@kingstonhumancapital.com.au</a> / <a href=\"tel:0499 040 756\">0499 040 756</a>&nbsp;<br> <strong>Adele Fernandez </strong>/<strong>&nbsp;</strong><a href=\"mailto:adele@kingstonhumancapital.com.au\">adele@kingstonhumancapital.com.au</a> / <a href=\"tel:07 3050 0098\">07 3050 0098</a><strong><br> <em><br> </em></strong><em>Kingston Human Capital specialises in recruitment for the Queensland Government and Public Sector.<br> <br> If this role isn’t quite right for you, but you are seeking a similar opportunity, reach out for a confidential discussion about your career.</em>",
-      "keywords": [
-        "program",
-        "officer",
-        "digital",
-        "solutions",
-        "ao4"
-      ]
-    },
-    {
-      "job_id": "93887114",
-      "job_title": "Software Developer",
-      "business_name": "Odoo",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "$80,000 – $90,000 per year + super",
-      "area": "Varsity Lakes, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93887114",
-      "advertiser_id": "47971668",
-      "posted_date": "2026-08-11T00:29:54Z",
-      "job_description": "<h2><strong>About</strong> Odoo</h2><p>At Odoo, we value independence, flexibility, and personal growth. We're a fast-growing company that embraces innovation and encourages our team members to push boundaries and reach new heights. With our Australian office nestled in the beautiful Gold Coast's Varsity Lakes, we offer the perfect blend of exciting work and an amazing lifestyle.</p><p><br></p><h2><strong>About the job</strong></h2><p>Software Developers handle the full technical lifecycle—from analysis and development to support—while collaborating with Business Analysts who manage customer requirements. The team also supports Odoo partners directly, making strong English communication skills essential. We value collaboration, adaptability, and a hands-on approach in a fast-paced, growing environment.</p><strong>Working tools</strong><ul><li><p>Programming languages: Python &amp; JavaScript</p></li><li><p>Database: PostgreSQL (with object-relational mapping)</p></li><li><p>Collaboration platform: GitHub</p></li><li><p>Development model: Open with external community</p></li><li><p>Framework: Odoo (ORM, Workflows, Report Engine, BI, AI)</p></li></ul><strong>Why You’ll Love This Job</strong><ul><li><p>Build high-quality applications</p></li><li><p>Collaborate on innovative and impactful projects</p></li><li><p>Take ownership of the solutions you develop</p></li><li><p>Work hands-on with the software you design and code</p></li></ul><strong>Responsibilities</strong><ul><li><p>Provide technical support to existing customers regarding bugs or system errors</p></li><li><p>Maintain and refactor existing code and customisations</p></li><li><p>Provide support for clients upgrading to the latest Odoo versions</p></li><li><p>Train partners on best practices for Odoo implementation</p></li><li><p>Work on R&amp;D projects aimed at localising Odoo for the ANZ market</p></li></ul><h2><strong>About you</strong></h2><p><strong>At Odoo, we value your skills more than your resume.</strong><br>Here's what we expect from you:</p><strong>Must have</strong><ul><li><p>Permanent working rights in Australia</p></li><li><p>Knowledge of several programming languages</p></li><li><p>Object-oriented programming language</p></li><li><p>Experience with relational databases</p></li><li><p>Problem-solving skills</p></li><li><p>Strong passion for software development</p></li><li><p>Excellent communication and interpersonal skills</p></li><li><p>Quick &amp; autonomous learner</p></li></ul><strong>Nice to have</strong><ul><li><p>Contribution to Open Source projects</p></li><li><p>Bachelor or Master Degree</p><p>The diploma is not the most important.</p></li><li><p>Python, JavaScript, XML, CSS</p><p>We don't expect you to master our technologies but a strong foundation in any programming language is required.</p></li><li><p>Experience working with Unix/Linux systems</p></li></ul><p><br></p>",
-      "keywords": [
-        "software",
-        "developer"
-      ]
-    },
-    {
-      "job_id": "93886661",
-      "job_title": "IT Support Officer",
-      "business_name": "East Coast Car Rentals",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$68,500 – $75,000 per year",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93886661",
-      "advertiser_id": "22796821",
-      "posted_date": "2026-08-11T00:08:44Z",
-      "job_description": "<p><strong>IT Support Officer</strong><br><strong>Southport, Gold Coast QLD • Full-time • Technology</strong><br><br>Join a growing national brand and take real ownership of the technology that keeps us<br>moving.</p><p>East Coast Car Rentals is one of Australia's established car rental brands, with 14 locations across the<br>country. Behind the scenes, we run a modern Microsoft 365 and Azure environment and we're steadily<br>bringing more of our systems in-house. It's a genuinely interesting time to join our small, capable technology team.<br><br>We're looking for a hands-on IT Support Officer to be the go-to person for technology across the business. Supporting to the CTO and working alongside our software engineering team, you'll keep our people productive and our systems secure — from everyday desktop support through to our cloud identity, contact centre, network and shuttle platforms. If you're technically curious, security-minded and enjoy helping people, you'll fit right in.<br><br><strong>What you'll do</strong><br><br>• Be first-line support for staff across all 14 locations — in person and via email, Teams and phone — managing the Zendesk helpdesk queue and keeping tickets moving.<br>• Set up and support workstations, laptops, printers, tablets, iPads and mobiles, and handle hardware upgrades, repairs and ordering.<br>• Administer Microsoft 365 and Entra ID — onboarding and offboarding users, mailboxes, licensing, groups and directory sync.<br>• Manage devices and mobile fleets through Microsoft Intune and Hexnode MDM, keeping compliance and BitLocker encryption in good shape.<br>• Look after endpoint security via Bitdefender GravityZone and manage business-wide email signatures with CodeTwo.<br>• Configure and troubleshoot Single Sign-On across our business applications, with a careful eye on protecting customer data.<br>• Administer and monitor network hardware (switches, access points and gateways) across sites via Ubiquiti UniFi.<br>• Support our contact centre and telephony platforms (RingCentral and NICE CXone), our shuttle app, in-vehicle tablets and the We-Capture vehicle condition platform.<br>• Liaise with IT vendors, research new technology, and pitch in on rollouts and improvements.<br><br><strong>What you'll bring</strong><br><br>• Solid experience in an IT support or helpdesk role — multi-site experience is a real plus.<br>• Hands-on Microsoft 365 and Entra ID (Azure AD) administration, including user lifecycle, licensing and SSO.<br>• Experience with endpoint management / MDM (Intune, Hexnode or similar) and Windows 11 support.<br>• Strong all-round troubleshooting across hardware, software and networking.<br>• A security-conscious mindset and good judgement around data protection.<br>• A friendly, clear communicator who enjoys helping non-technical colleagues.</p><p><strong>Nice to have</strong><br><br>• Zendesk or similar ticketing; contact centre platforms (RingCentral, NICE CXone); endpoint security (Bitdefender GravityZone); network controllers (Ubiquiti UniFi); macOS support; and an interest in automation.<br><br><strong>Why East Coast Car Rentals</strong><br><br>• A broad, hands-on role with genuine variety — no two days the same.<br>• A modern cloud stack and the chance to grow your skills as we bring systems in-house.<br>• A small, supportive team where your work has visible impact.<br>• Based at our Corporate Southport head office on the Gold Coast.<br><strong><br>How to apply</strong><br><br>If this sounds like you, we'd love to hear from you. Please submit your Resume and a Cover Letter telling<br>us why you're a great fit.<br><br><strong>East Coast Car Rentals is an equal opportunity employer. We welcome applications from people of all<br>backgrounds and are committed to a diverse and inclusive workplace.</strong></p>",
-      "keywords": [
-        "it",
-        "support",
-        "officer"
-      ]
-    },
-    {
-      "job_id": "93885209",
-      "job_title": "Junior Shopify Developer",
-      "business_name": "Lucent Globe",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "",
-      "area": "Yatala, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93885209",
-      "advertiser_id": "62521678",
-      "posted_date": "2026-08-10T22:51:03Z",
-      "job_description": "<p><strong>About Us</strong></p><p>At Lucent Globe, we're on a mission to make sustainable living simple. We've built a brand focused on eco-friendly products that actually work. We're growing our in-house ecommerce &amp; web development team to keep our website and Shopify store fast, reliable, and ready to scale as the business grows.</p><p><strong>About the Role</strong></p><p>We're looking for a Junior Shopify Developer to join our in-house team in Yatala. Reporting to our Head of Ecommerce and working closely with our Web Developer, you'll help keep our Shopify store and website running smoothly. Building landing pages, fixing bugs, and customising our theme, all while growing your own skills in a hands-on, supportive team.</p><p>If you know your way around HTML, CSS and JavaScript, have built or edited Shopify themes using Liquid, and you love finding creative ways to use AI to work faster and smarter, we want to hear from you.</p><p><strong>What you'll be doing</strong></p><ul><li><p>Building and customising Shopify theme sections, product pages, landing pages and templates using Liquid, HTML, CSS and JavaScript</p></li><li><p>Creating new landing and product pages from design briefs, and testing them across devices and browsers</p></li><li><p>Setting up and troubleshooting apps like Recharge, Rebuy and Judge.me</p></li><li><p>Helping diagnose and resolve front-end and site functionality issues across browsers and devices</p></li><li><p>Finding and fixing bugs, and running QA checks before changes go live</p></li><li><p>Checking tracking tags (Google Analytics, Meta Pixel) are firing correctly</p></li><li><p>Monitoring site performance, page speed, and Core Web Vitals, flagging issues before they impact customers</p></li><li><p>Help diagnose and resolve front-end and site functionality issues across browsers and devices</p></li><li><p>Using AI tools daily to speed up development, QA and troubleshooting</p></li></ul><p><strong>What we're looking for</strong></p><ul><li><p>Background in ecommerce development, web development, or technical product delivery, ideally within ecommerce, retail, or a high-growth digital business</p></li><li><p>Solid HTML, CSS and JavaScript skills</p></li><li><p>Hands-on experience building or editing Shopify themes using Liquid</p></li><li><p>Previous experience working on a Shopify Plus store</p></li><li><p>Understanding of ecommerce architecture, integrations, APIs and platform ecosystems</p></li><li><p>Confidence working on general web pages and staging environments</p></li><li><p>A sharp eye for detail and a natural problem-solver's mindset</p></li><li><p>A team player who communicates clearly and works well with others</p></li><li><p>A genuine curiosity for AI</p></li></ul><p><strong>What you'll get</strong></p><ul><li><p>Full-time hybrid role (4 days in our Yatala office, 1 day from home)</p></li><li><p>Hands-on mentoring and real experience across Shopify and ecommerce development</p></li><li><p>A clear path to grow your technical skills, with a supportive team backing you</p></li></ul><p><br></p>",
-      "keywords": [
-        "shopify",
-        "developer"
-      ]
-    },
     {
       "job_id": "93873391",
       "job_title": "Ostendo Developer – Short-Term Contract",
@@ -638,37 +486,18 @@
       ]
     },
     {
-      "job_id": "93872518",
-      "job_title": "Health Information Manager",
-      "business_name": "Department of Health - Queensland",
-      "work_type": "Full time",
-      "job_type": "Networks & Systems Administration",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93872518",
-      "advertiser_id": "32285210",
-      "posted_date": "2026-08-10T06:02:42Z",
-      "job_description": "<div>\n \n <p>You will provide advice and support on Information Management practices and ensure data is collected accurately and promptly to meet reporting requirements.</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Health Information Manager</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Actively support, promote and participate in the management of Hospital Based Corporate Information System</li>\n<li>Conduct audits and provide health information management advice and education</li>\n<li>Monitor and reconcile data captured in patient information systems</li>\n<li>Assist in the development and maintenance of work instructions, procedures and training materials and deliver training&nbsp;</li>\n<li>Actively support, promote and participate in quality activities aimed at improving the documentation of clinical information</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>A Bachelor's degree in Health Information Management or equivalent</li>\n<li>Proof of qualification and/or registration with the appropriate registration authority</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Temporary full time (six months, with the possibility of extension)</li>\n<li>Base salary ranging from $4102.90 - $4,487.10 per fortnight</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) Division drives innovation and transformation within the Gold Coast Health Service. Aligned with the Gold Coast Health Strategic Plan (G28) we are dedicated to improving healthcare delivery through digital solutions and strategic initiatives that enhance service quality and operational efficiency.</p>\n<p>DHI encompasses a range of interconnected teams including Digital Project Delivery, Digital Experience, Technology Operations, Digital Security and Architecture, Health Information, and the Investment Management Office. Together, these teams collaborate to optimise healthcare service delivery, improve performance, and drive innovation. Through strategic partnerships and forward-thinking initiatives, we're committed to enhancing patient outcomes and creating lasting improvements in healthcare services.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Friday, 21 August 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC689823</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
-      "keywords": [
-        "health",
-        "information",
-        "manager"
-      ]
-    },
-    {
       "job_id": "93871619",
       "job_title": "Sharepoint, Power Apps and M365 Administrator",
       "business_name": "Capital Talent Consulting Pty Ltd",
       "work_type": "Contract/Temp",
       "job_type": "Networks & Systems Administration",
-      "pay_range": "$65 – $73 per hour",
+      "pay_range": "",
       "area": "Gold Coast QLD",
       "region": "Gold Coast",
       "url": "https://www.seek.com.au/job/93871619",
       "advertiser_id": "28554175",
       "posted_date": "2026-08-10T05:38:16Z",
-      "job_description": "<p>We are working with a large Govt Dept to source a Program Officer (Digital Solutions - Sharepoint Admin). <br>The role is focused on supporting and enhancing existing business solutions rather than specialist application development. The position contributes to business improvement initiatives by working with stakeholders to understand operational requirements, develop low-code solutions, and provide ongoing support and training to users.  We are seeking candidates with intermediate experience in SharePoint, Microsoft 365 digital solutions and business process improvement. Experience maintaining existing Power Apps, Power Automate workflows and reporting solutions would be desirable.</p><p>Accountabilities include:</p><ul><li><p>Develop, configure and maintain SharePoint Online sites, libraries, lists and related content management solutions.</p></li><li><p>Develop, configure, maintain and support business systems, digital solutions and information management platforms, including but not limited to SharePoint Online, Microsoft 365 applications and other systems.</p></li><li><p>Design and support Power Platform applications, workflows and automations using Power Apps and Power Automate (exp desirable)</p></li><li><p>Design, develop and support digital solutions, workflows, automations and business improvement initiatives using approved departmental systems and technologies</p></li><li><p>Assist with identifying opportunities to improve business processes through the use of Microsoft 365 technologies and digital solutions.</p></li><li><p>Provide technical advice and support to users regarding SharePoint Online, Power Platform and other Microsoft 365 tools.</p></li><li><p>Provide technical advice, user support and training relating to business systems, digital solutions and approved software applications used across the region.</p></li><li><p>Participate in digital and business improvement projects, including testing, implementation and user support activities.</p></li></ul><p>To be suitable for the role, you will have the following skills and experience:</p><ul><li><p>Intermediate experience in SharePoint, Microsoft 365 digital solutions and business process improvement. </p></li><li><p>Experience maintaining existing Power Apps, Power Automate workflows and reporting solutions would be desirable.</p></li><li><p>Ability to analyse business processes and identify opportunities for improvement through digital solutions.</p></li><li><p>Experience configuring and maintaining SharePoint Online environments, including permissions, document libraries, metadata and content structures.</p></li></ul><p>This is a 12-month contract with extension possible. Whilst it is a hybrid position, you will need to attend the Gold Coast offices and therefore will need to be based in Brisbane or the Gold Coast.</p>",
+      "job_description": "<p>We are working with a large Govt Dept to source a Program Officer (Digital Solutions - Sharepoint Admin). The role focuses on the practical development, administration and support of SharePoint Online, Power Apps, Power Automate and other Microsoft 365 technologies to meet business needs. The position contributes to business improvement initiatives by working with stakeholders to understand operational requirements, develop low-code solutions, and provide ongoing support and training to users.</p><p>Accountabilities include:</p><ul><li><p>Develop, configure and maintain SharePoint Online sites, libraries, lists and related content management solutions.</p></li><li><p>Develop, configure, maintain and support business systems, digital solutions and information management platforms, including but not limited to SharePoint Online, Microsoft 365 applications and other systems.</p></li><li><p>Design and support Power Platform applications, workflows and automations using Power Apps and Power Automate.</p></li><li><p>Design, develop and support digital solutions, workflows, automations and business improvement initiatives using approved departmental systems and technologies, including but not limited to Microsoft Power Platform applications.</p></li><li><p>Assist with identifying opportunities to improve business processes through the use of Microsoft 365 technologies and digital solutions.</p></li><li><p>Provide technical advice and support to users regarding SharePoint Online, Power Platform and other Microsoft 365 tools.</p></li><li><p>Provide technical advice, user support and training relating to business systems, digital solutions and approved software applications used across the region.</p></li><li><p>Participate in digital and business improvement projects, including testing, implementation and user support activities.</p></li></ul><p>To be suitable for the role, you will have the following skills and experience:</p><ul><li><p>Knowledge and experience with SharePoint Online, Power Apps, Power Automate and Microsoft 365 technologies.</p></li><li><p>Experience supporting, administering or developing business systems and digital solutions, including Microsoft 365 applications and other enterprise software platforms.</p></li><li><p>Ability to analyse business processes and identify opportunities for improvement through digital solutions.</p></li><li><p>Experience configuring and maintaining SharePoint Online environments, including permissions, document libraries, metadata and content structures.</p></li><li><p>Ability to develop low-code solutions using Power Platform tools.</p></li></ul><p>This is a 12 month contract with extension possible. Whilst it is a hybrid position, you will need to attend the Gold Coast offices and therefore will need to be based in Brisbane or the Gold Coast.</p>",
       "keywords": [
         "sharepoint",
         "power",
@@ -887,6 +716,25 @@
       ]
     },
     {
+      "job_id": "93784759",
+      "job_title": "IT Systems Administrator",
+      "business_name": "Infinite Care",
+      "work_type": "Full time",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93784759",
+      "advertiser_id": "34630605",
+      "posted_date": "2026-08-04T22:31:14Z",
+      "job_description": "<div><div>\n<p><strong>With growth comes opportunity and we’re expanding our ICT capability. </strong></p>\n<p>Due to continued growth and an expanding technology portfolio, we are seeking an additional <strong>IT</strong> <strong>Systems Administrator</strong> to join our IT team. Working alongside our existing Systems Administrator and broader IT team, you will help support and enhance our technology environment across multiple aged care sites. The role will focus on infrastructure, cloud services, cybersecurity, networking, automation, and technical project delivery, while also assisting with operational workloads, improving documentation, and helping drive continuous improvement across our IT systems and processes.</p>\n<p>Reporting to our <strong>Head of Infrastructure</strong>, this role is all about ensuring our systems are secure, reliable, and performing at their best, enabling our teams to work efficiently and ensuring residents receive the highest standard of care.</p>\n<p>As our<strong> IT Systems Administrator</strong>, you’ll play a key part in maintaining and improving Infinite Care’s technology environment. You’ll manage servers, networks, software, security, and documentation, while supporting staff with technical issues and contributing to continuous improvement across the organisation.</p>\n<p>Ideally located on the Gold Coast in our National Support Office in Bundall, this role suits someone who is proactive, values security and stability, and enjoys working collaboratively to solve problems and uplift digital capability.</p>\n<p><strong>The key responsibilities for this role are, but not limited to:&nbsp;</strong></p>\n<p><strong>Systems management</strong> - Maintain servers, storage, and infrastructure to ensure optimal performance and minimal downtime.</p>\n<p><strong>Network administration</strong> - Configure, monitor, and troubleshoot LAN, WAN, and wireless networks, ensuring strong security and reliability.</p>\n<p><strong>Software &amp; vendor management</strong> - Install, update, and manage applications used across our homes, ensuring compliance and coordinating with vendors when needed.</p>\n<p><strong>Data backup &amp; IT security</strong> - Implement backup procedures, disaster recovery plans, and security policies; conduct audits and vulnerability assessments.</p>\n<p><strong>User support &amp; training</strong> - Provide technical support and deliver training to uplift staff confidence with systems and applications.</p>\n<p><strong>Technology upgrades &amp; projects</strong> - Assist with system upgrades, migrations, and new technology evaluations.</p>\n<p><strong>About You</strong></p>\n<p>You’re someone who thrives in a fast‑paced environment, communicates clearly, and enjoys helping others navigate technology with confidence. You bring strong problem‑solving skills, a collaborative mindset, and a commitment to secure, reliable systems.</p>\n<ul>\n<li>Diploma or degree in IT, Computer Science, or related field</li>\n<li>Strong technical knowledge across hardware, software, operating systems, and networking</li>\n<li>Understanding of information security principles and data protection practices&nbsp;</li>\n<li>Experience in aged care, healthcare, or similar environments is highly desirable</li>\n<li>A valid NDIS Workers Screening Clearance (or have the ability to get one)</li>\n</ul>\n<p><strong>Technical Environment</strong></p>\n<ul>\n<li>Microsoft 365, Azure and Entra ID</li>\n<li>Endpoint management and device administration</li>\n<li>Cybersecurity and identity management</li>\n<li>Enterprise networking and wireless technologies</li>\n<li>Server and cloud infrastructure</li>\n<li>PowerShell automation</li>\n<li>VoIP and collaboration platforms</li>\n</ul>\n<p><strong>Infinite Care’s Employee Benefits:</strong></p>\n<ul>\n<li>Fitness Passport to access discounted fitness and wellbeing sessions.</li>\n<li>Discounted Health Insurance.</li>\n<li>Access to in-house and online training programs - FREE to all employees.</li>\n<li>Access to our EAP.</li>\n<li>Work-Rite Micro professional development - FREE to all employees.</li>\n<li>Access to non-for-profit (NFP) salary sacrificing employee benefits</li>\n<li>Defence/Military Veterans are encouraged to apply.</li>\n</ul>\n<p><strong>If you would like to know more about us or this position before applying, then please reach out to our recruitment specialist managing this assignment – Teri via email <a href=\"mailto:teri.vallely@infin8care.com.au\">teri.vallely@infin8care.com.au</a> </strong></p>\n<p><strong>As part of being an Infinite Aged care employee you will be required to complete pre-employment checks.</strong></p>\n<p><strong>We regret we cannot receive applications via email.</strong></p>\n</div></div>",
+      "keywords": [
+        "it",
+        "systems",
+        "administrator"
+      ]
+    },
+    {
       "job_id": "93752512",
       "job_title": "Senior PHP Laravel AI Developer",
       "business_name": "SustainRecruit",
@@ -1002,6 +850,24 @@
       "keywords": [
         "applications",
         "analyst"
+      ]
+    },
+    {
+      "job_id": "93725201",
+      "job_title": "Application Custodian",
+      "business_name": "Infinite Care",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93725201",
+      "advertiser_id": "34630605",
+      "posted_date": "2026-08-03T02:40:55Z",
+      "job_description": "<div><div>\n<p><strong>Exciting times!!! With growth comes new opportunities!!!</strong></p>\n<p>At<strong> Infinite Care </strong>we are seeking another Application Custodian to join our already amazing team.</p>\n<p>Residential Aged Care Providers Australia | Infinite Aged Care</p>\n<p>Reporting to our <strong>Head of Application Support</strong>, the <strong>Application Custodian </strong>will be responsible for overseeing all company-used applications - research, procure, install, configure, monitor, and maintain software applications. Ensure applications are functional, secure, and meet organisational needs. This role ensures the effective management of security groups, permissions, and documentation of all of our applications. The Application Custodian will also develop documentation and user guides, provide training to the ICT team for level 1 support, and offer end-user training to promote user adoption. Additionally, they will manage cybersecurity related to applications, ensuring best practices are met, and assist with application interoperability.&nbsp;</p>\n<p>This role is full time and remote or hybrid opportunities may be available for the right candidate.</p>\n<p><strong>The key responsibilities for this role are, but not limited to:</strong>&nbsp;</p>\n<ul>\n<li>Oversee the management of security groups and permissions for all applications to ensure secure and efficient access control.</li>\n<li>Develop and maintain comprehensive documentation for all applications, including user guides and technical manuals.</li>\n<li>Provide training to the IT team for level 1 support and offer end-user training to promote user adoption and effective use of applications.</li>\n<li>Manage cybersecurity aspects related to applications, ensuring that all security protocols and best practices are followed.</li>\n<li>Collaborate with other IT team members and departments to resolve complex technical issues, share knowledge, and implement IT projects and improvements.</li>\n<li>Identify recurring issues and propose solutions to prevent future incidents. Contribute to the improvement of IT processes and procedures to enhance overall service delivery.</li>\n<li>Provide remote assistance to off-site or remote users, ensuring consistent and efficient support regardless of the user's location.&nbsp;</li>\n</ul>\n<p><strong>About You:</strong></p>\n<ul>\n<li>\n<strong>Resident-Centric Mindset:</strong>&nbsp;Hold a resident-centric mindset which flows through to all aspects of your work.</li>\n<li>\n<strong>Communication Skills</strong>:&nbsp;Excellent verbal and written communication skills to effectively interact with end-users, translate technical jargon into layman's terms, and produce clear and concise documentation.</li>\n<li>\n<strong>Customer Service Orientation</strong>:&nbsp;A strong commitment to customer satisfaction and service excellence. The ability to remain calm, patient, and empathetic when dealing with end-users' technical frustrations.</li>\n<li>\n<strong>Problem-Solving Ability</strong>:&nbsp;Strong analytical and problem-solving skills to identify and resolve technical issues promptly and efficiently.</li>\n<li>\n<strong>Team</strong> <strong>Player</strong>:&nbsp;A collaborative attitude and the ability to work effectively as part of a team to achieve common goals.</li>\n<li>\n<strong>Qualifications: </strong>A degree in Information Technology, Computer Science, or a related field is preferred.</li>\n<li>\n<strong>Experience </strong>with any of the following applications would be highly regarded: Clinical Manager, Resident Manager, BestMed, CarePage, iChris (Frontier), TechnologyOne, Humanforce WFM, Atlassian (Jira/JSM), DocuSign, Ausmed, Simple Food, Zipline, and Microsoft 365/Entra ID.</li>\n<li>\n<strong>You have:</strong> Proven experience in application management and cyber security within a clinical environment, ideally aged care and demonstrated experience with vendor engagement and service delivery.</li>\n</ul>\n<p><strong>As part of being an Infinite Aged care employee you will be required to complete pre-employment checks.</strong></p>\n<p><strong>Infinite Care’s Employee Benefits:</strong></p>\n<ul>\n<li>Fitness Passport to access discounted fitness and wellbeing sessions.</li>\n<li>Discounted Health Insurance.</li>\n<li>Access to in-house and online training programs - FREE to all employees.</li>\n<li>Access to our EAP.</li>\n<li>Work-Rite Micro professional development - FREE to all employees.</li>\n<li>Access to non-for-profit (NFP) salary sacrificing employee benefits</li>\n<li>Defence/Military Veterans are encouraged to apply.</li>\n</ul>\n<p><strong>If you would like to know more about us or this position before applying, then please reach out to our recruitment specialist managing this assignment – Teri via email </strong><a href=\"mailto:teri.vallely@infin8care.com.au\">teri.vallely@infin8care.com.au</a><strong> </strong></p>\n<p><strong>We regret we cannot receive applications via email.</strong></p>\n</div></div>",
+      "keywords": [
+        "application",
+        "custodian"
       ]
     },
     {
@@ -1222,7 +1088,7 @@
     },
     {
       "job_id": "93572144",
-      "job_title": "Lead Engineer ",
+      "job_title": "Lead Engineer",
       "business_name": "Randstad Digital",
       "work_type": "Full time",
       "job_type": "Engineering - Software",
@@ -1836,7 +1702,7 @@
     },
     {
       "job_id": "93274673",
-      "job_title": "Business Development Manager - Infrastructure ",
+      "job_title": "Business Development Manager - Infrastructure",
       "business_name": "GIGACOMM PTY LTD",
       "work_type": "Full time",
       "job_type": "Telecommunications",
