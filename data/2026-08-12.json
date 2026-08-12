@@ -1,468 +1,488 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-12",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-13T06:34:06.468368+10:00",
-  "total_jobs": 69,
+  "scraped_at": "2026-08-12T06:35:27.372136+10:00",
+  "total_jobs": 72,
   "keywords": [
     {
       "term": "analyst",
       "count": 13,
-      "share": 0.1884
+      "share": 0.1806
     },
     {
       "term": "manager",
-      "count": 11,
-      "share": 0.1594
-    },
-    {
-      "term": "it",
-      "count": 10,
-      "share": 0.1449
+      "count": 13,
+      "share": 0.1806
     },
     {
       "term": "support",
       "count": 10,
-      "share": 0.1449
+      "share": 0.1389
+    },
+    {
+      "term": "business",
+      "count": 9,
+      "share": 0.125
     },
     {
       "term": "developer",
       "count": 9,
-      "share": 0.1304
+      "share": 0.125
     },
     {
-      "term": "business",
-      "count": 8,
-      "share": 0.1159
+      "term": "it",
+      "count": 9,
+      "share": 0.125
     },
     {
       "term": "engineer",
       "count": 8,
-      "share": 0.1159
+      "share": 0.1111
+    },
+    {
+      "term": "officer",
+      "count": 6,
+      "share": 0.0833
     },
     {
       "term": "ict",
       "count": 6,
-      "share": 0.087
-    },
-    {
-      "term": "officer",
-      "count": 5,
-      "share": 0.0725
+      "share": 0.0833
     },
     {
       "term": "software",
+      "count": 5,
+      "share": 0.0694
+    },
+    {
+      "term": "project",
       "count": 4,
-      "share": 0.058
+      "share": 0.0556
     },
     {
       "term": "specialist",
       "count": 4,
-      "share": 0.058
+      "share": 0.0556
+    },
+    {
+      "term": "technical",
+      "count": 4,
+      "share": 0.0556
     },
     {
       "term": "technician",
       "count": 4,
-      "share": 0.058
+      "share": 0.0556
     },
     {
       "term": "digital",
       "count": 4,
-      "share": 0.058
+      "share": 0.0556
     },
     {
-      "term": "systems",
+      "term": "development",
       "count": 4,
-      "share": 0.058
-    },
-    {
-      "term": "administrator",
-      "count": 4,
-      "share": 0.058
+      "share": 0.0556
     },
     {
       "term": "ai",
       "count": 3,
-      "share": 0.0435
-    },
-    {
-      "term": "project",
-      "count": 3,
-      "share": 0.0435
+      "share": 0.0417
     },
     {
       "term": "network",
       "count": 3,
-      "share": 0.0435
-    },
-    {
-      "term": "technical",
-      "count": 3,
-      "share": 0.0435
+      "share": 0.0417
     },
     {
       "term": "operations",
       "count": 3,
-      "share": 0.0435
+      "share": 0.0417
     },
     {
-      "term": "development",
+      "term": "systems",
       "count": 3,
-      "share": 0.0435
+      "share": 0.0417
+    },
+    {
+      "term": "administrator",
+      "count": 3,
+      "share": 0.0417
     },
     {
       "term": "solutions",
       "count": 2,
-      "share": 0.029
+      "share": 0.0278
     },
     {
       "term": "ongc",
       "count": 2,
-      "share": 0.029
+      "share": 0.0278
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.029
+      "share": 0.0278
     },
     {
       "term": "shopify",
       "count": 2,
-      "share": 0.029
+      "share": 0.0278
     },
     {
       "term": "php",
       "count": 2,
-      "share": 0.029
+      "share": 0.0278
     },
     {
       "term": "platform",
       "count": 2,
-      "share": 0.029
+      "share": 0.0278
     },
     {
       "term": "deployment",
       "count": 2,
-      "share": 0.029
+      "share": 0.0278
     },
     {
       "term": "wsr",
       "count": 2,
-      "share": 0.029
+      "share": 0.0278
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.029
+      "share": 0.0278
+    },
+    {
+      "term": "ffs",
+      "count": 2,
+      "share": 0.0278
     },
     {
       "term": "health",
       "count": 2,
-      "share": 0.029
+      "share": 0.0278
     },
     {
       "term": "information",
       "count": 2,
-      "share": 0.029
+      "share": 0.0278
+    },
+    {
+      "term": "infrastructure",
+      "count": 2,
+      "share": 0.0278
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.029
+      "share": 0.0278
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "leader",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "accounting",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "timetabling",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "examinations",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "insights",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "commerce",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "wordpress",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "heads",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "days",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "per",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "week",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "dotnet",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "laravel",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "java",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
+    },
+    {
+      "term": "engineering",
+      "count": 1,
+      "share": 0.0139
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "architecture",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "program",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "ao4",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "tech",
-      "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "api",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
+    },
+    {
+      "term": "tech",
+      "count": 1,
+      "share": 0.0139
     },
     {
       "term": "back",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "office",
       "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "ffs",
-      "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "application",
-      "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "custodian",
-      "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "workplace",
       "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "infrastructure",
-      "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "apps",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "m365",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
+    },
+    {
+      "term": "telecommunications",
+      "count": 1,
+      "share": 0.0139
+    },
+    {
+      "term": "rod",
+      "count": 1,
+      "share": 0.0139
+    },
+    {
+      "term": "rope",
+      "count": 1,
+      "share": 0.0139
+    },
+    {
+      "term": "cable",
+      "count": 1,
+      "share": 0.0139
+    },
+    {
+      "term": "hauler",
+      "count": 1,
+      "share": 0.0139
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "ui",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "ux",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "landing",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "page",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "leadify",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "seo",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     }
   ],
   "jobs": [
@@ -610,7 +630,7 @@
       "url": "https://www.seek.com.au/job/93873391",
       "advertiser_id": "",
       "posted_date": "2026-08-10T06:33:53Z",
-      "job_description": "<p><strong>$100 per hour | Short-term contract | Potential for extension</strong></p><p>We are seeking an experienced <strong>Ostendo Developer</strong> to join our team on a short-term contract, with the potential for extension. <strong>If you do not have specific Ostendo development experience, do not apply as your application will not be considered</strong>.</p><p>This is a hands-on development role focused on <strong>Ostendo scripting, workflow implementation, automation and system improvement</strong>. You will work closely with the business to develop practical solutions that improve processes, efficiency and the user experience.</p><p><strong>About the Role</strong></p><p>You will be responsible for developing and enhancing our Ostendo ERP environment, with a particular focus on scripting and workflow automation.</p><p><strong>Key responsibilities include:</strong></p><ul><li><p>Developing, maintaining and modifying <strong>Ostendo scripts</strong>.</p></li><li><p>Automating business processes, data updates and repetitive tasks.</p></li><li><p>Developing scripts for <strong>business rules, validations, calculations and automated actions</strong>.</p></li><li><p>Designing and implementing <strong>Ostendo workflows</strong> to streamline business processes.</p></li><li><p>Translating manual processes into automated workflows, including approvals, validations, notifications and system actions.</p></li><li><p>Troubleshooting and improving existing scripts, workflows and customisations.</p></li><li><p>Developing and maintaining <strong>custom data screens</strong> and functionality.</p></li><li><p>Developing reports, queries and data solutions within Ostendo.</p></li><li><p>Working with SQL and Ostendo data to investigate issues and develop solutions.</p></li><li><p>Working with users and stakeholders to understand requirements and deliver practical solutions.</p></li><li><p>Testing and documenting new functionality and system changes.</p></li><li><p>Providing technical support and troubleshooting for Ostendo users.</p></li><li><p>Assisting with the <strong>upgrade from Ostendo Build 242 to Build 243 Continuum</strong>, including testing existing scripts, workflows and customisations.</p></li></ul><p><strong>About You</strong></p><p><strong>To be successful in this role, you will have:</strong></p><ul><li><p>Demonstrated <strong>hands-on Ostendo development experience</strong>.</p></li><li><p>Strong experience with <strong>Ostendo scripting</strong>.</p></li><li><p>Experience designing and implementing <strong>Ostendo workflows and automation</strong>.</p></li><li><p>Experience with Ostendo customisation, including data screens and reports.</p></li><li><p>Good understanding of SQL and relational databases.</p></li><li><p>Strong analytical and problem-solving skills.</p></li><li><p>The ability to understand business requirements and translate them into effective technical solutions.</p></li><li><p>The ability to work independently and hit the ground running.</p></li><li><p>Strong communication skills and a practical, solutions-focused approach.</p></li></ul><p><strong>Why Join Us?</strong></p><p>This is an opportunity to work on meaningful Ostendo development projects where your skills will have a direct impact on improving business processes and automation.</p><p>The initial engagement is <strong>short term at $100 per hour</strong>, with the <strong>possibility of extension</strong> for the right person.</p><p>If you are an experienced Ostendo Developer with strong scripting and workflow skills, we would like to hear from you.</p><p><strong>Apply now with your CV and a brief summary of your Ostendo experience and availability.</strong></p>",
+      "job_description": "<p><strong>$100 per hour | Short-term contract | Potential for extension</strong></p><p>We are seeking an experienced <strong>Ostendo Developer</strong> to join our team on a short-term contract, with the potential for extension.</p><p>This is a hands-on development role focused on <strong>Ostendo scripting, workflow implementation, automation and system improvement</strong>. You will work closely with the business to develop practical solutions that improve processes, efficiency and the user experience.</p><p><strong>About the Role</strong></p><p>You will be responsible for developing and enhancing our Ostendo ERP environment, with a particular focus on scripting and workflow automation.</p><p><strong>Key responsibilities include:</strong></p><ul><li><p>Developing, maintaining and modifying <strong>Ostendo scripts</strong>.</p></li><li><p>Automating business processes, data updates and repetitive tasks.</p></li><li><p>Developing scripts for <strong>business rules, validations, calculations and automated actions</strong>.</p></li><li><p>Designing and implementing <strong>Ostendo workflows</strong> to streamline business processes.</p></li><li><p>Translating manual processes into automated workflows, including approvals, validations, notifications and system actions.</p></li><li><p>Troubleshooting and improving existing scripts, workflows and customisations.</p></li><li><p>Developing and maintaining <strong>custom data screens</strong> and functionality.</p></li><li><p>Developing reports, queries and data solutions within Ostendo.</p></li><li><p>Working with SQL and Ostendo data to investigate issues and develop solutions.</p></li><li><p>Working with users and stakeholders to understand requirements and deliver practical solutions.</p></li><li><p>Testing and documenting new functionality and system changes.</p></li><li><p>Providing technical support and troubleshooting for Ostendo users.</p></li><li><p>Assisting with the <strong>upgrade from Ostendo Build 242 to Build 243 Continuum</strong>, including testing existing scripts, workflows and customisations.</p></li></ul><p><strong>About You</strong></p><p><strong>To be successful in this role, you will have:</strong></p><ul><li><p>Demonstrated <strong>hands-on Ostendo development experience</strong>.</p></li><li><p>Strong experience with <strong>Ostendo scripting</strong>.</p></li><li><p>Experience designing and implementing <strong>Ostendo workflows and automation</strong>.</p></li><li><p>Experience with Ostendo customisation, including data screens and reports.</p></li><li><p>Good understanding of SQL and relational databases.</p></li><li><p>Strong analytical and problem-solving skills.</p></li><li><p>The ability to understand business requirements and translate them into effective technical solutions.</p></li><li><p>The ability to work independently and hit the ground running.</p></li><li><p>Strong communication skills and a practical, solutions-focused approach.</p></li></ul><p><strong>Why Join Us?</strong></p><p>This is an opportunity to work on meaningful Ostendo development projects where your skills will have a direct impact on improving business processes and automation.</p><p>The initial engagement is <strong>short term at $100 per hour</strong>, with the <strong>possibility of extension</strong> for the right person.</p><p>If you are an experienced Ostendo Developer with strong scripting and workflow skills, we would like to hear from you.</p><p><strong>Apply now with your CV and a brief summary of your Ostendo experience and availability.</strong></p>",
       "keywords": [
         "ostendo",
         "developer",
@@ -867,25 +887,6 @@
       ]
     },
     {
-      "job_id": "93784759",
-      "job_title": "IT Systems Administrator",
-      "business_name": "Infinite Care",
-      "work_type": "Full time",
-      "job_type": "Networks & Systems Administration",
-      "pay_range": "",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93784759",
-      "advertiser_id": "34630605",
-      "posted_date": "2026-08-04T22:31:14Z",
-      "job_description": "<div><div>\n<p><strong>With growth comes opportunity and we’re expanding our ICT capability. </strong></p>\n<p>Due to continued growth and an expanding technology portfolio, we are seeking an additional <strong>IT</strong> <strong>Systems Administrator</strong> to join our IT team. Working alongside our existing Systems Administrator and broader IT team, you will help support and enhance our technology environment across multiple aged care sites. The role will focus on infrastructure, cloud services, cybersecurity, networking, automation, and technical project delivery, while also assisting with operational workloads, improving documentation, and helping drive continuous improvement across our IT systems and processes.</p>\n<p>Reporting to our <strong>Head of Infrastructure</strong>, this role is all about ensuring our systems are secure, reliable, and performing at their best, enabling our teams to work efficiently and ensuring residents receive the highest standard of care.</p>\n<p>As our<strong> IT Systems Administrator</strong>, you’ll play a key part in maintaining and improving Infinite Care’s technology environment. You’ll manage servers, networks, software, security, and documentation, while supporting staff with technical issues and contributing to continuous improvement across the organisation.</p>\n<p>Ideally located on the Gold Coast in our National Support Office in Bundall, this role suits someone who is proactive, values security and stability, and enjoys working collaboratively to solve problems and uplift digital capability.</p>\n<p><strong>The key responsibilities for this role are, but not limited to:&nbsp;</strong></p>\n<p><strong>Systems management</strong> - Maintain servers, storage, and infrastructure to ensure optimal performance and minimal downtime.</p>\n<p><strong>Network administration</strong> - Configure, monitor, and troubleshoot LAN, WAN, and wireless networks, ensuring strong security and reliability.</p>\n<p><strong>Software &amp; vendor management</strong> - Install, update, and manage applications used across our homes, ensuring compliance and coordinating with vendors when needed.</p>\n<p><strong>Data backup &amp; IT security</strong> - Implement backup procedures, disaster recovery plans, and security policies; conduct audits and vulnerability assessments.</p>\n<p><strong>User support &amp; training</strong> - Provide technical support and deliver training to uplift staff confidence with systems and applications.</p>\n<p><strong>Technology upgrades &amp; projects</strong> - Assist with system upgrades, migrations, and new technology evaluations.</p>\n<p><strong>About You</strong></p>\n<p>You’re someone who thrives in a fast‑paced environment, communicates clearly, and enjoys helping others navigate technology with confidence. You bring strong problem‑solving skills, a collaborative mindset, and a commitment to secure, reliable systems.</p>\n<ul>\n<li>Diploma or degree in IT, Computer Science, or related field</li>\n<li>Strong technical knowledge across hardware, software, operating systems, and networking</li>\n<li>Understanding of information security principles and data protection practices&nbsp;</li>\n<li>Experience in aged care, healthcare, or similar environments is highly desirable</li>\n<li>A valid NDIS Workers Screening Clearance (or have the ability to get one)</li>\n</ul>\n<p><strong>Technical Environment</strong></p>\n<ul>\n<li>Microsoft 365, Azure and Entra ID</li>\n<li>Endpoint management and device administration</li>\n<li>Cybersecurity and identity management</li>\n<li>Enterprise networking and wireless technologies</li>\n<li>Server and cloud infrastructure</li>\n<li>PowerShell automation</li>\n<li>VoIP and collaboration platforms</li>\n</ul>\n<p><strong>Infinite Care’s Employee Benefits:</strong></p>\n<ul>\n<li>Fitness Passport to access discounted fitness and wellbeing sessions.</li>\n<li>Discounted Health Insurance.</li>\n<li>Access to in-house and online training programs - FREE to all employees.</li>\n<li>Access to our EAP.</li>\n<li>Work-Rite Micro professional development - FREE to all employees.</li>\n<li>Access to non-for-profit (NFP) salary sacrificing employee benefits</li>\n<li>Defence/Military Veterans are encouraged to apply.</li>\n</ul>\n<p><strong>If you would like to know more about us or this position before applying, then please reach out to our recruitment specialist managing this assignment – Teri via email <a href=\"mailto:teri.vallely@infin8care.com.au\">teri.vallely@infin8care.com.au</a> </strong></p>\n<p><strong>As part of being an Infinite Aged care employee you will be required to complete pre-employment checks.</strong></p>\n<p><strong>We regret we cannot receive applications via email.</strong></p>\n</div></div>",
-      "keywords": [
-        "it",
-        "systems",
-        "administrator"
-      ]
-    },
-    {
       "job_id": "93752512",
       "job_title": "Senior PHP Laravel AI Developer",
       "business_name": "SustainRecruit",
@@ -1001,24 +1002,6 @@
       "keywords": [
         "applications",
         "analyst"
-      ]
-    },
-    {
-      "job_id": "93725201",
-      "job_title": "Application Custodian",
-      "business_name": "Infinite Care",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93725201",
-      "advertiser_id": "34630605",
-      "posted_date": "2026-08-03T02:40:55Z",
-      "job_description": "<div><div>\n<p><strong>Exciting times!!! With growth comes new opportunities!!!</strong></p>\n<p>At<strong> Infinite Care </strong>we are seeking another Application Custodian to join our already amazing team.</p>\n<p>Residential Aged Care Providers Australia | Infinite Aged Care</p>\n<p>Reporting to our <strong>Head of Application Support</strong>, the <strong>Application Custodian </strong>will be responsible for overseeing all company-used applications - research, procure, install, configure, monitor, and maintain software applications. Ensure applications are functional, secure, and meet organisational needs. This role ensures the effective management of security groups, permissions, and documentation of all of our applications. The Application Custodian will also develop documentation and user guides, provide training to the ICT team for level 1 support, and offer end-user training to promote user adoption. Additionally, they will manage cybersecurity related to applications, ensuring best practices are met, and assist with application interoperability.&nbsp;</p>\n<p>This role is full time and remote or hybrid opportunities may be available for the right candidate.</p>\n<p><strong>The key responsibilities for this role are, but not limited to:</strong>&nbsp;</p>\n<ul>\n<li>Oversee the management of security groups and permissions for all applications to ensure secure and efficient access control.</li>\n<li>Develop and maintain comprehensive documentation for all applications, including user guides and technical manuals.</li>\n<li>Provide training to the IT team for level 1 support and offer end-user training to promote user adoption and effective use of applications.</li>\n<li>Manage cybersecurity aspects related to applications, ensuring that all security protocols and best practices are followed.</li>\n<li>Collaborate with other IT team members and departments to resolve complex technical issues, share knowledge, and implement IT projects and improvements.</li>\n<li>Identify recurring issues and propose solutions to prevent future incidents. Contribute to the improvement of IT processes and procedures to enhance overall service delivery.</li>\n<li>Provide remote assistance to off-site or remote users, ensuring consistent and efficient support regardless of the user's location.&nbsp;</li>\n</ul>\n<p><strong>About You:</strong></p>\n<ul>\n<li>\n<strong>Resident-Centric Mindset:</strong>&nbsp;Hold a resident-centric mindset which flows through to all aspects of your work.</li>\n<li>\n<strong>Communication Skills</strong>:&nbsp;Excellent verbal and written communication skills to effectively interact with end-users, translate technical jargon into layman's terms, and produce clear and concise documentation.</li>\n<li>\n<strong>Customer Service Orientation</strong>:&nbsp;A strong commitment to customer satisfaction and service excellence. The ability to remain calm, patient, and empathetic when dealing with end-users' technical frustrations.</li>\n<li>\n<strong>Problem-Solving Ability</strong>:&nbsp;Strong analytical and problem-solving skills to identify and resolve technical issues promptly and efficiently.</li>\n<li>\n<strong>Team</strong> <strong>Player</strong>:&nbsp;A collaborative attitude and the ability to work effectively as part of a team to achieve common goals.</li>\n<li>\n<strong>Qualifications: </strong>A degree in Information Technology, Computer Science, or a related field is preferred.</li>\n<li>\n<strong>Experience </strong>with any of the following applications would be highly regarded: Clinical Manager, Resident Manager, BestMed, CarePage, iChris (Frontier), TechnologyOne, Humanforce WFM, Atlassian (Jira/JSM), DocuSign, Ausmed, Simple Food, Zipline, and Microsoft 365/Entra ID.</li>\n<li>\n<strong>You have:</strong> Proven experience in application management and cyber security within a clinical environment, ideally aged care and demonstrated experience with vendor engagement and service delivery.</li>\n</ul>\n<p><strong>As part of being an Infinite Aged care employee you will be required to complete pre-employment checks.</strong></p>\n<p><strong>Infinite Care’s Employee Benefits:</strong></p>\n<ul>\n<li>Fitness Passport to access discounted fitness and wellbeing sessions.</li>\n<li>Discounted Health Insurance.</li>\n<li>Access to in-house and online training programs - FREE to all employees.</li>\n<li>Access to our EAP.</li>\n<li>Work-Rite Micro professional development - FREE to all employees.</li>\n<li>Access to non-for-profit (NFP) salary sacrificing employee benefits</li>\n<li>Defence/Military Veterans are encouraged to apply.</li>\n</ul>\n<p><strong>If you would like to know more about us or this position before applying, then please reach out to our recruitment specialist managing this assignment – Teri via email </strong><a href=\"mailto:teri.vallely@infin8care.com.au\">teri.vallely@infin8care.com.au</a><strong> </strong></p>\n<p><strong>We regret we cannot receive applications via email.</strong></p>\n</div></div>",
-      "keywords": [
-        "application",
-        "custodian"
       ]
     },
     {
@@ -1175,6 +1158,25 @@
         "software",
         "engineer",
         "php"
+      ]
+    },
+    {
+      "job_id": "93614626",
+      "job_title": "Project Officer FFS",
+      "business_name": "Department of Health - Queensland",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93614626",
+      "advertiser_id": "32285210",
+      "posted_date": "2026-07-28T17:35:12Z",
+      "job_description": "<div>\n \n <p>Take the next step in your career with this exciting opportunity within eHealth. The Digital Partnership Team requires a Project Officer to assist in supporting and coordinating the delivery of a medium scale Information Management (IM) and Information and Communication Technology (ICT) project, by ensuring successful completion within agreed acceptance criteria to enable enhanced service delivery. </p>\n </div>\n<div>\n <p><strong>What you'll do&nbsp;</strong>&nbsp;</p>\n<ul>\n<li>Support and coordinate the delivery of specialized small to medium work packages involving the delivery of IM/ICT and ensure solutions are responsive to customer needs and sustainable in an enterprise environment.</li>\n<li>Ensure compliance with best practice guidelines and the Queensland Health formal project management approach and methodologies, to enable the achievement of consistent and quality project outcomes.</li>\n<li>Develop or assist with the development of project management documentation, including formal project plans, budgets and estimates.</li>\n<li>Monitor and report on work package activities against agreed criteria.</li>\n<li>Support risk and issue identification, assessment and mitigation activities by ensuring risks and issues are documented, reviewed and escalated as appropriate.</li>\n<li>Develop and review project deliverables to ensure they meet quality standards and comply with Queensland Health policies, strategies and architecture.</li>\n</ul>\n<p><strong>About you&nbsp;</strong>&nbsp;</p>\n<p>We are searching for someone who has:</p>\n<ul>\n<li>Demonstrated experience in the delivery of high quality customer service in a large complex environment</li>\n<li>Proven high level oral and written communication skills and a high-level ability to apply contemporary leadership principles to develop and maintain effective relationships within both the project team and external stakeholders</li>\n<li>Proven experience and high level knowledge to design and coordinate small to medium scale projects, including the planning, scheduling and tracking of project activities and deliverables, utilising available project management tools and methodologies</li>\n<li>Demonstrated analytical, conceptual and problem solving skills and an ability to work unsupervised whilst coordinating multiple tasks within agreed priorities, timeframes and accountabilities</li>\n</ul>\n<p><strong>Why work with us?&nbsp;</strong>&nbsp;</p>\n<p>Work alongside passionate professionals in a supportive and inclusive environment that values people and prioritises employee success and wellbeing.&nbsp;</p>\n<p><strong>Competitive salaries</strong>&nbsp;</p>\n<ul>\n<li>12.75% superannuation&nbsp;&nbsp;</li>\n<li>17.5% leave loading&nbsp;</li>\n</ul>\n<p><strong>Employee wellbeing &amp; development</strong>&nbsp;</p>\n<ul>\n<li>Access to 24/7 confidential employee support providers and counsellors including for immediate family members&nbsp;</li>\n<li>Additional flexibility to support your work life balance including access to generous leave entitlements, such as purchased leave, domestic violence leave, reproductive health leave, cultural leave, study and examination leave.&nbsp;</li>\n<li>Access to a variety of programs and initiatives to support training and career growth.&nbsp;&nbsp;</li>\n<li>Grow your skills through hands-on experience and access to internal training opportunities and additional financial and leave benefits for approved external training and development.&nbsp;</li>\n</ul>\n<p><strong>Our commitment to equity, diversity and inclusion</strong><strong> </strong>&nbsp;</p>\n<p>At Queensland Health, our work environment is inclusive and supportive, and we value our employees. We are an equal opportunity employer and encourage applications from people of all cultures, abilities and backgrounds.&nbsp;&nbsp;</p>\n<p>Our commitment to cultural safety, equity, diversity and inclusion means we understand some people may need changes to the recruitment process. If you need support during the recruitment process, such as meeting with the panel virtually instead of in person, please reach out to the hiring manager. We value diverse candidates and your need for adjustments will not affect our hiring decisions. &nbsp;</p>\n<p><strong>Ready to apply?</strong>&nbsp;</p>\n<p>For further information on how to apply please review the attached Role Description.&nbsp;&nbsp;</p>\n </div>",
+      "keywords": [
+        "project",
+        "officer",
+        "ffs"
       ]
     },
     {
@@ -1773,6 +1775,83 @@
       "keywords": [
         "ict",
         "manager"
+      ]
+    },
+    {
+      "job_id": "93292208",
+      "job_title": "Telecommunications Rod & Rope / Cable Hauler",
+      "business_name": "Tech Four Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Telecommunications",
+      "pay_range": "$36 – $48 per hour",
+      "area": "Yatala, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93292208",
+      "advertiser_id": "63365897",
+      "posted_date": "2026-07-13T10:56:43Z",
+      "job_description": "<h2>Telecommunications Rod &amp; Rope / Cable Hauler</h2><p><strong>Gold Coast, QLD | Brisbane, QLD | Full Time</strong></p><h2>About Tech Four</h2><p>Tech Four is a Gold Coast-based telecommunications company delivering fibre optic infrastructure projects throughout Queensland.</p><p>We work with major telecommunications clients across a range of projects including new fibre construction, network upgrades, maintenance, underground civil works, vacuum excavation, cable hauling and fibre splicing.&nbsp;</p><p>As our business continues to grow, we're looking for reliable, hardworking people to join our field crews.</p><hr><h2>About the Role</h2><p>As a <strong>Telecommunications Rod &amp; Rope / Cable Hauler</strong>, you'll be involved in the construction and maintenance of underground telecommunications infrastructure.</p><p>Your responsibilities may include:</p><ul><li><p>Rod and rope installation through underground conduit networks</p></li><li><p>Hauling fibre optic cable</p></li><li><p>Assisting with fibre optic installations</p></li><li><p>Locating and exposing underground services</p></li><li><p>Vacuum excavation</p></li><li><p>Pit and pipe construction and maintenance</p></li><li><p>Working safely around live underground assets</p></li></ul><hr><h2>Why Join Us?</h2><p>We invest in our people by providing the training, support, quality equipment, and career opportunities needed to help you succeed.</p><ul><li><p>Competitive pay with overtime and away work opportunities with LAFHA</p></li><li><p>Work on major telecommunications infrastructure projects across Queensland and beyond.</p></li><li><p>Be part of a growing company where your hard work is recognised and rewarded.</p></li><li><p>Ongoing training and support to help you gain new skills and industry qualifications.</p></li><li><p>Genuine opportunities for career progression into leading hand, supervisor, or specialist roles.</p></li><li><p>Modern vehicles, quality equipment, and the right tools to get the job done safely and efficiently.</p></li><li><p>Supportive, down-to-earth team culture where everyone pitches in and has each other's backs.</p></li><li><p>Variety in your work – no two days are the same, with projects ranging from rod &amp; rope and cable hauling to civil works, conduit remediation, and fibre network construction.</p></li><li><p>Stable, long-term employment with a strong pipeline of work.</p></li></ul><hr><h2>About You</h2><p>You are someone who:</p><ul><li><p>Has full working rights in Australia</p></li><li><p>Has a white card/driver's licence/first aid-CPR</p></li><li><p>Can work away from home when required for short periods of time</p></li><li><p>Has current police check clearances</p></li><li><p>Is prepared to undertake various tasks as requested</p></li></ul><p>Experience in telecommunications, cable hauling or civil construction is highly regarded</p><hr><h2>Desirable Tickets &amp; Qualifications</h2><p>The following are highly regarded:</p><ul><li><p>HR Licence</p></li><li><p>Asbestos Awareness</p></li><li><p>Silica Awareness</p></li><li><p>Traffic Management (TMI)</p></li><li><p>Underground Asset Locating</p></li><li><p>Confined Space</p></li><li><p>Working at Heights</p></li><li><p>Excavator Ticket</p></li><li><p>Skid Steer Ticket</p></li><li><p>Vacuum Excavation experience</p></li><li><p>Rod &amp; Rope experience</p></li><li><p>Fibre cable hauling experience</p></li><li><p>Civil construction experience</p></li></ul><hr><h2>Why Tech Four?</h2><p>At Tech Four, we're building a team of people who want to develop a long-term career in the telecommunications industry.</p><p>If you're looking for a company that values hard work, invests in its people and offers genuine opportunities to progress, we'd love to hear from you.</p><p>Click <strong>Apply Now</strong> and submit your resume. Include any relevant licences, tickets and experience with your application.</p>",
+      "keywords": [
+        "telecommunications",
+        "rod",
+        "rope",
+        "cable",
+        "hauler"
+      ]
+    },
+    {
+      "job_id": "93279658",
+      "job_title": "Technical Lead",
+      "business_name": "Just Digital People",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93279658",
+      "advertiser_id": "29028300",
+      "posted_date": "2026-07-13T04:13:09Z",
+      "job_description": "<strong>Technical Lead | Azure | .NET | React</strong><br> &nbsp;<br> &nbsp;<br> <strong>Gold Coast | Hybrid (3 days in the office)</strong><br> &nbsp;<br> We're partnering with an established Australian technology business that's investing heavily in modern cloud architecture, AI-assisted software engineering and the continued evolution of its customer-facing platforms.<br> We're looking for a Technical Lead who enjoys staying hands-on while providing technical leadership across a high-performing engineering team. This is a genuine technical leadership position where you'll influence architecture, mentor developers and help shape engineering standards, while continuing to build software yourself.<br> &nbsp;<br> &nbsp;<br> <strong>What you'll be doing</strong><br> <ul> <li>Providing day-to-day technical leadership across the software engineering team.</li> <li>Designing, building and maintaining enterprise Azure infrastructure using Infrastructure as Code.</li> <li>Developing modern full-stack applications using .NET, React and TypeScript.</li> <li>Building secure REST APIs and integrating with internal and third-party platforms.</li> <li>Driving the adoption of AI-assisted engineering tools such as GitHub Copilot and Claude Code.</li> <li>Working closely with architecture and engineering leadership to shape technical direction.</li> <li>Leading code reviews and mentoring engineers to deliver high-quality, secure and maintainable software.</li> <li>Championing engineering best practices across cloud, DevOps, scalability and security.</li> </ul> &nbsp;<br> <strong>What we're looking for</strong><br> <ul> <li>Proven experience as a Technical Lead or senior hands-on engineering leader.</li> <li>Strong commercial experience designing and operating enterprise Azure environments.</li> <li>Excellent C#/.NET development skills.</li> <li>Experience building modern applications using React and TypeScript.</li> <li>Strong understanding of REST APIs, SQL and microservices architecture.</li> <li>Experience with Infrastructure as Code (Bicep, Terraform or similar).</li> <li>Experience with Azure DevOps, GitHub Actions or modern CI/CD tooling.</li> <li>Exposure to AI-assisted software engineering tools in a commercial environment.</li> <li>Strong communication skills and experience mentoring engineers.</li> </ul> &nbsp;<br> <strong>Nice to have</strong><br> <ul> <li>AWS experience.</li> <li>Experience with Microsoft Dynamics 365 Business Central.</li> <li>Azure certifications.</li> <li>Experience working within highly available, customer-facing digital platforms.</li> </ul> &nbsp;<br> <strong>What's on offer</strong><br> <ul> <li>Hybrid working model with 3 days per week in the office.</li> <li>Opportunity to work with modern cloud-native technologies and AI-assisted engineering tools.</li> <li>Genuine influence over technical direction and engineering standards.</li> <li>A collaborative engineering culture with strong technical leadership.</li> <li>Ongoing professional development and career growth.</li> <li>Competitive salary and benefits package.</li> </ul> &nbsp;<br> If you're an experienced Technical Lead who enjoys remaining hands-on while helping shape engineering teams and technical direction, we'd love to hear from you.",
+      "keywords": [
+        "technical"
+      ]
+    },
+    {
+      "job_id": "93277416",
+      "job_title": "Software Engineering Manager",
+      "business_name": "Buildsafe Queensland Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Engineering - Software",
+      "pay_range": "",
+      "area": "Arundel, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93277416",
+      "advertiser_id": "24217835",
+      "posted_date": "2026-07-13T03:24:04Z",
+      "job_description": "<p><strong>Software Engineering Manager</strong></p><p><strong>Lead the team. Shape the technology. Drive the future.</strong></p><p>Buildsafe has spent the past 25 years building one of Australia's most respected providers of height safety, scaffolding and construction technology solutions.</p><p>Today we're a national business with operations across Australia, and we're investing heavily in the next chapter of our technology journey.</p><p>From modernising our core business systems to expanding our innovative BuildCam platform and embedding AI into the way we build software, we're creating technology that has a real impact on our people, our customers and the construction industry.</p><p>We're looking for an experienced <strong>Software Engineering Manager</strong> who wants to lead that journey.</p><p>This isn't a role where success is measured by how much code you write.</p><p>It's about building a high-performing engineering team, creating an environment where great engineers thrive, and delivering technology that moves the business forward.</p><p><strong>About the Opportunity</strong></p><p>You'll lead our software engineering function, working closely with our Executive team to shape technology strategy while mentoring and developing a talented group of developers.</p><p>In your first three months, you'll spend time understanding our platforms, building relationships with the team, assessing delivery processes and establishing engineering priorities before driving longer-term improvements.</p><p>You'll lead engineering across multiple business-critical platforms supporting a national operation, including our proprietary BuildCam platform, internal operational systems and AI initiatives that support thousands of active construction sites every day.</p><p>You'll help modernise existing platforms, guide architectural decisions, introduce AI-assisted development practices and ensure our team delivers high-quality software that supports a rapidly growing national business.</p><p>You understand that software exists to solve business problems. Working closely with business leaders, you'll translate ideas into practical technology solutions that improve operations, support our customers and create measurable business value.</p><p>If you enjoy helping developers do their best work, improving delivery, removing roadblocks and creating an engineering culture focused on innovation and continuous improvement, we'd love to hear from you.</p><p><br></p><p><strong>What You'll Be Doing</strong></p><p>You'll:</p><ul><li><p>Lead, coach and develop our software engineering team.</p></li><li><p>Set clear priorities and manage delivery across multiple projects.</p></li><li><p>Partner with business leaders to translate ideas into practical technology solutions.</p></li><li><p>Champion modern software development practices and AI-assisted engineering.</p></li><li><p>Guide technical decisions without becoming the team's primary coder.</p></li><li><p>Support the continued evolution of our BuildCam platform and internal business systems.</p></li><li><p>Drive continuous improvement across software delivery, quality and engineering capability.</p></li><li><p>Help shape Buildsafe's long-term technology roadmap.</p></li></ul><p><strong>About You</strong></p><p>You're an experienced engineering leader who enjoys enabling others to succeed.</p><p>You understand that software exists to solve business problems and that building a great engineering team delivers far greater value than personally writing the most code.</p><p>You'll bring:</p><ul><li><p>Experience leading software development or software engineering teams.</p></li><li><p>Strong communication and stakeholder management skills.</p></li><li><p>A practical, commercial approach to technology.</p></li><li><p>Experience delivering software in Agile environments.</p></li><li><p>A passion for mentoring developers and building capability.</p></li><li><p>Curiosity around emerging technologies, particularly AI-assisted development.</p></li><li><p>The ability to balance innovation with delivering reliable business outcomes.</p></li></ul><p><br></p><p><strong>Our Technology</strong></p><p>We're continually evolving our technology landscape as the business grows.</p><p>Our environment includes technologies such as:</p><ul><li><p>React</p></li><li><p>TypeScript</p></li><li><p>PHP</p></li><li><p>Node.js</p></li><li><p>REST APIs</p></li><li><p>SQL</p></li><li><p>Azure</p></li><li><p>Git</p></li><li><p>AI-assisted development tools</p></li></ul><p>You'll also help us modernise and evolve existing business-critical platforms while identifying new technologies that improve productivity and create competitive advantage.</p><p><br></p><p><strong>Why Buildsafe?</strong></p><p>This is an opportunity to join a business where technology has a genuine seat at the table.</p><p>As we celebrate our 25th year, we're investing in the future—not just maintaining what already exists.</p><p>You'll have the opportunity to:</p><ul><li><p>Lead a growing software engineering function.</p></li><li><p>Influence technology strategy across a national business.</p></li><li><p>Help shape the future of our innovative BuildCam platform.</p></li><li><p>Drive AI adoption and modern engineering practices.</p></li><li><p>Work directly with Executive Leadership.</p></li><li><p>Build and develop a high-performing technical team.</p></li><li><p>Make decisions that have a visible impact across the organisation.</p></li></ul><p><br></p><p>You'll also enjoy:</p><ul><li><p>Permanent full-time position based at our Arundel Head Office.</p></li><li><p>Stable Monday–Friday role.</p></li><li><p>Modern office environment.</p></li><li><p>Genuine autonomy and influence.</p></li><li><p>Ongoing professional development.</p></li><li><p>Monthly team lunches and social events.</p></li><li><p>Employee Assistance Program.</p></li><li><p>Fitness Passport memberships.</p></li><li><p>Free onsite parking.</p></li><li><p>A collaborative culture where ideas are valued.</p></li></ul><p><strong>Ready to help build what's next?</strong></p><p>If you're looking for an opportunity to lead people, shape technology and leave a lasting impact on a growing Australian business, we'd love to hear from you.</p>",
+      "keywords": [
+        "software",
+        "engineering",
+        "manager"
+      ]
+    },
+    {
+      "job_id": "93274673",
+      "job_title": "Business Development Manager - Infrastructure ",
+      "business_name": "GIGACOMM PTY LTD",
+      "work_type": "Full time",
+      "job_type": "Telecommunications",
+      "pay_range": "",
+      "area": "Surfers Paradise, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93274673",
+      "advertiser_id": "63543834",
+      "posted_date": "2026-07-13T02:14:48Z",
+      "job_description": "<p><strong>The Company</strong>&nbsp;</p><p>The future of the world is increasingly digital and\nconnected however many Australians suffer from frustratingly slow internet. </p><p>At Gigacomm, we believe in the power of\nconnectivity to improve the world we live in. We build and operate an independent\nnetwork which uses the latest technology to provide reliable, ultra-fast\ninternet to Australian homes and businesses up to 2GB/sec. </p><p>We are committed to building a diverse and inclusive team\nwho bring different perspectives, that help best represent the customer and\ncommunities we serve, and who contribute to building a rewarding culture. </p><p>&nbsp;</p><p><strong>About the role</strong></p><p>We are&nbsp;seeking&nbsp;a proactive and results-driven Business Development Manager (BDM) to join our property team. The BDM will&nbsp;be responsible for&nbsp;driving growth by&nbsp;identifying&nbsp;and&nbsp;acquiring&nbsp;properties for telecommunications infrastructure. The candidate will&nbsp;be responsible for&nbsp;building strong relationships with landlords, Strata managers and committees&nbsp;by&nbsp;ensuring a seamless onboarding process. This role is ideal for a motivated individual with a passion for real estate&nbsp;and telecommunications&nbsp;and a talent for sales and client engagement.&nbsp;</p><p></p><p><strong>Key Responsibilities:</strong>&nbsp;</p><ul>\n<li>Prospect and generate new leads through networking, referrals, and marketing campaigns.</li>\n<li>Introduce&nbsp;leads to the telecommunication network and onboard&nbsp;new buildings</li>\n<li>Build and&nbsp;maintain&nbsp;strong relationships with property owners,&nbsp;property&nbsp;investors, and developers.</li>\n<li>Collaborate with the&nbsp;planning and design&nbsp;team to ensure smooth onboarding and&nbsp;handover&nbsp;of new clients.&nbsp;</li>\n<li>Develop and implement strategies to&nbsp;increase the&nbsp;take up&nbsp;of infrastructure.&nbsp;</li>\n<li>Represent the company at industry events,&nbsp;information sessions, community&nbsp;functions&nbsp;and committee meetings.&nbsp;&nbsp;</li>\n<li>Maintain&nbsp;accurate&nbsp;records of leads, opportunities, and client interactions&nbsp;in company systems.&nbsp;&nbsp;</li>\n<li>Monitor market trends and competitor activity to identify new opportunities.&nbsp;</li>\n<li>Effectively explain and educate stakeholders on the telecommunication network and how it operates&nbsp;&nbsp;</li>\n</ul><p><strong>Required Qualifications &amp; Experience:</strong>&nbsp;</p><ul>\n<li>Proven experience in business development,&nbsp;sales&nbsp;or&nbsp;telecommunications&nbsp;&nbsp;</li>\n<li>Strong understanding of the Australian property market and landlord expectations.&nbsp;</li>\n<li>Excellent communication, negotiation, and interpersonal skills.&nbsp;</li>\n<li>Technical understanding of how telecommunication access networks&nbsp;operate&nbsp;and are installed (FTTP desired).&nbsp;</li>\n<li>Self-motivated with the ability to work independently and meet targets.&nbsp;</li>\n<li>Proficiency&nbsp;in CRM software and Microsoft Office Suite.&nbsp;</li>\n<li>Valid driver’s&nbsp;licence&nbsp;and reliable vehicle.&nbsp;</li>\n</ul><p><strong>Desirable:</strong>&nbsp;</p><ul>\n<li>Experience working in a real estate agency environment.&nbsp;</li>\n<li>Established network of property investors and landlords.&nbsp;</li>\n<li>Marketing or digital advertising experience.&nbsp;&nbsp;&nbsp;</li>\n</ul>",
+      "keywords": [
+        "business",
+        "development",
+        "manager",
+        "infrastructure"
       ]
     }
   ]
