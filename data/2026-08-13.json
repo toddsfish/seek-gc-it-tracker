@@ -1,544 +1,471 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-13",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-14T06:31:53.331583+10:00",
-  "total_jobs": 68,
+  "scraped_at": "2026-08-13T06:34:06.468368+10:00",
+  "total_jobs": 69,
   "keywords": [
     {
       "term": "analyst",
       "count": 13,
-      "share": 0.1912
+      "share": 0.1884
     },
     {
       "term": "manager",
       "count": 11,
-      "share": 0.1618
+      "share": 0.1594
     },
     {
       "term": "it",
       "count": 10,
-      "share": 0.1471
+      "share": 0.1449
+    },
+    {
+      "term": "support",
+      "count": 10,
+      "share": 0.1449
     },
     {
       "term": "developer",
       "count": 9,
-      "share": 0.1324
+      "share": 0.1304
     },
     {
-      "term": "support",
-      "count": 9,
-      "share": 0.1324
+      "term": "business",
+      "count": 8,
+      "share": 0.1159
     },
     {
       "term": "engineer",
       "count": 8,
-      "share": 0.1176
-    },
-    {
-      "term": "business",
-      "count": 7,
-      "share": 0.1029
-    },
-    {
-      "term": "digital",
-      "count": 5,
-      "share": 0.0735
+      "share": 0.1159
     },
     {
       "term": "ict",
+      "count": 6,
+      "share": 0.087
+    },
+    {
+      "term": "officer",
       "count": 5,
-      "share": 0.0735
+      "share": 0.0725
     },
     {
       "term": "software",
       "count": 4,
-      "share": 0.0588
+      "share": 0.058
     },
     {
       "term": "specialist",
       "count": 4,
-      "share": 0.0588
-    },
-    {
-      "term": "technical",
-      "count": 4,
-      "share": 0.0588
-    },
-    {
-      "term": "operations",
-      "count": 4,
-      "share": 0.0588
-    },
-    {
-      "term": "officer",
-      "count": 4,
-      "share": 0.0588
+      "share": 0.058
     },
     {
       "term": "technician",
       "count": 4,
-      "share": 0.0588
+      "share": 0.058
+    },
+    {
+      "term": "digital",
+      "count": 4,
+      "share": 0.058
     },
     {
       "term": "systems",
       "count": 4,
-      "share": 0.0588
+      "share": 0.058
     },
     {
       "term": "administrator",
       "count": 4,
-      "share": 0.0588
+      "share": 0.058
     },
     {
-      "term": "development",
-      "count": 4,
-      "share": 0.0588
+      "term": "ai",
+      "count": 3,
+      "share": 0.0435
     },
     {
       "term": "project",
       "count": 3,
-      "share": 0.0441
+      "share": 0.0435
     },
     {
       "term": "network",
       "count": 3,
-      "share": 0.0441
+      "share": 0.0435
     },
     {
-      "term": "data",
-      "count": 2,
-      "share": 0.0294
+      "term": "technical",
+      "count": 3,
+      "share": 0.0435
     },
     {
-      "term": "shopify",
-      "count": 2,
-      "share": 0.0294
+      "term": "operations",
+      "count": 3,
+      "share": 0.0435
     },
     {
-      "term": "php",
-      "count": 2,
-      "share": 0.0294
-    },
-    {
-      "term": "ai",
-      "count": 2,
-      "share": 0.0294
-    },
-    {
-      "term": "platform",
-      "count": 2,
-      "share": 0.0294
-    },
-    {
-      "term": "program",
-      "count": 2,
-      "share": 0.0294
+      "term": "development",
+      "count": 3,
+      "share": 0.0435
     },
     {
       "term": "solutions",
       "count": 2,
-      "share": 0.0294
+      "share": 0.029
+    },
+    {
+      "term": "ongc",
+      "count": 2,
+      "share": 0.029
+    },
+    {
+      "term": "data",
+      "count": 2,
+      "share": 0.029
+    },
+    {
+      "term": "shopify",
+      "count": 2,
+      "share": 0.029
+    },
+    {
+      "term": "php",
+      "count": 2,
+      "share": 0.029
+    },
+    {
+      "term": "platform",
+      "count": 2,
+      "share": 0.029
     },
     {
       "term": "deployment",
       "count": 2,
-      "share": 0.0294
+      "share": 0.029
     },
     {
       "term": "wsr",
       "count": 2,
-      "share": 0.0294
+      "share": 0.029
+    },
+    {
+      "term": "technology",
+      "count": 2,
+      "share": 0.029
     },
     {
       "term": "health",
       "count": 2,
-      "share": 0.0294
+      "share": 0.029
     },
     {
       "term": "information",
       "count": 2,
-      "share": 0.0294
+      "share": 0.029
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0294
+      "share": 0.029
+    },
+    {
+      "term": "architect",
+      "count": 1,
+      "share": 0.0145
     },
     {
       "term": "leader",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "accounting",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "timetabling",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "examinations",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "insights",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "commerce",
       "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "broadbeach",
-      "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "wordpress",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "heads",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "days",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "per",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "week",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "dotnet",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "laravel",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "java",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "architecture",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
-      "term": "service",
+      "term": "program",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "ao4",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "tech",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "api",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
-      "term": "ongc",
+      "term": "back",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
+    },
+    {
+      "term": "office",
+      "count": 1,
+      "share": 0.0145
+    },
+    {
+      "term": "ffs",
+      "count": 1,
+      "share": 0.0145
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "custodian",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "workplace",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "infrastructure",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "apps",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "m365",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "evolve",
-      "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "ui",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "ux",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "landing",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "page",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "leadify",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "seo",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "technology",
-      "count": 1,
-      "share": 0.0147
+      "share": 0.0145
     }
   ],
   "jobs": [
-    {
-      "job_id": "93953089",
-      "job_title": "IT Service Operations Analyst",
-      "business_name": "Gold Coast Convention & Exhibition Centre",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Broadbeach, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93953089",
-      "advertiser_id": "21889565",
-      "posted_date": "2026-08-13T05:19:11Z",
-      "job_description": "<p>At the Gold Coast Convention and Exhibition Centre (GCCEC), technology plays a critical role in both the day-to-day operation of our business and the successful delivery of major conferences, exhibitions and events.</p>\n<br><p>Looking for and IT support role that goes beyond resetting passwords and working through a ticket queue?</p>\n\n<p>We’re looking for an IT Service Operations Analyst to join our IT team and provide high-quality technical support across both environments. One day you might be helping a team member with Microsoft 365 or troubleshooting an endpoint issue; the next, you could be preparing network services for an upcoming event or helping resolve a technical issue while that event is live.</p>\n\n<p>It’s an ideal opportunity for someone with a foundation in IT support who wants to broaden their technical skills, gain exposure to enterprise and event technology, and build their career as part of a modern IT team.</p>\n\n<p>&nbsp;</p>\n\n<p><b>THE ROLE</b></p>\n\n<p>Reporting to the IT Manager and working closely with our Service Operations and Platform Engineering functions, you’ll provide&nbsp;Level 1 and Level 2 IT support&nbsp;to GCCEC team members while also helping deliver IT services for events held at the Centre.</p>\n\n<p>You’ll work across end user support, Microsoft 365, identity and access management, networking and endpoint technologies, while gaining hands-on exposure to the infrastructure and services required to support a busy convention and exhibition venue.</p>\n\n<p>A significant point of difference is&nbsp;event IT delivery. You’ll help prepare and configure IT services for the world class events held at GCCEC, complete readiness checks, deploy services in accordance with established designs and runbooks, and provide technical support when events are underway.&nbsp;</p>\n\n<p>This is a hands-on role where good technical skills matter, but so do customer service, attention to detail and the ability to remain composed when an issue needs to be solved quickly.</p>\n\n<p>&nbsp;</p>\n\n<p><b>What you’ll be doing</b></p>\n\n<ul>\n\t<li>Providing Level 1 and Level 2 support across end user technology, applications, Microsoft 365, identity and collaboration platforms</li>\n\t<li>Managing incidents and service requests from initial contact through to resolution or escalation</li>\n\t<li>Troubleshooting endpoint, application, connectivity and access issues</li>\n\t<li>Assisting with the preparation, configuration and deployment of IT services for conferences and events</li>\n\t<li>Completing pre-event technical readiness checks to make sure services are ready when our clients need them</li>\n\t<li>Providing on-site and remote IT support during live events</li>\n\t<li>Working with networking technologies including wired and wireless connectivity</li>\n\t<li>Following established processes, standards and runbooks to deliver consistent, reliable services</li>\n\t<li>Maintaining accurate support records, asset records, technical documentation and knowledge articles</li>\n\t<li>Identifying recurring issues and opportunities to improve the way we deliver IT services</li>\n\t<li>Working alongside experienced IT professionals and contributing to the continued development of our service management practices</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><b>ABOUT YOU</b></p>\n\n<p>You don’t need to know everything already. We’re looking for someone with a solid technical foundation, a strong customer-service mindset and, importantly, the curiosity and drive to keep developing.</p>\n\n<p>You’ll ideally bring experience in an IT support, Helpdesk or service delivery environment, together with exposure to technologies such as:</p>\n\n<ul>\n\t<li>Windows desktop and server environments</li>\n\t<li>Microsoft 365 and collaboration tools</li>\n\t<li>Active Directory and/or Microsoft Entra ID</li>\n\t<li>Endpoint management</li>\n\t<li>Basic networking, including switching, wireless and connectivity troubleshooting</li>\n</ul>\n\n<p>A tertiary qualification in Information Technology or a related discipline is desirable, although equivalent practical experience is equally relevant.</p>\n\n<p>Experience supporting events, venue technology, or IT service management processes would be an advantage, but isn’t essential.&nbsp;</p>\n\n<p>More importantly, you’ll be someone who communicates well, enjoys helping people, pays attention to the details and can work methodically under pressure. You’ll be comfortable following established processes while also speaking up when you see an opportunity to make something better.</p>\n\n<p>&nbsp;</p>\n\n<p><b>Why join GCCEC?</b></p>\n\n<p>This isn’t your typical IT support environment.</p>\n\n<p>You’ll work in a venue where technology supports both a corporate workplace&nbsp;and live events, giving you exposure to a much broader range of technology and operational scenarios than you might encounter in a conventional Helpdesk role.</p>\n\n<p>You’ll join an IT team that is building a more structured, service-focused operating model, with clear processes, modern technology and opportunities to learn from experienced technical specialists.</p>\n\n<p>For someone looking to establish or accelerate their IT career, the breadth of the environment provides an excellent opportunity to develop skills across&nbsp;end-user computing, Microsoft 365, identity, networking, service management and event technology.</p>\n\n<p>And because we’re an events business, you’ll get to see the outcome of your work first-hand: technology that you helped prepare and support being used to deliver real events for our clients and guests.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Ready for your next step?</strong></p>\n\n<p>If you’re passionate about technology, enjoy solving problems and want an IT role with more variety than the traditional Helpdesk, we’d love to hear from you.</p>\n\n<p>Apply now to join the IT team at the Gold Coast Convention and Exhibition Centre.</p>\n\n<p>&nbsp;</p>\n\n<p><b>WHY WORK WITH US?&nbsp; </b><i>“It’s not what we do, it’s how we do it”!&nbsp;</i></p>\n\n<p>&nbsp;</p>\n\n<p>We pride ourselves on our values of Community, Initiative, Respect, Teamwork and Welcoming.&nbsp; These values sit at the heart of how we work, how we treat our people, represent our business and deliver outstanding events.&nbsp; </p>\n\n<p>&nbsp;</p>\n\n<p>Plus, we offer the following people perks:</p>\n\n<ul>\n\t<li>Free undercover parking in the heart of Broadbeach</li>\n\t<li>Discounted onsite team member café</li>\n\t<li>Flexible work arrangements</li>\n\t<li>Paid parental leave</li>\n\t<li>Discounted food and beverage and accommodation at The Star Entertainment Group properties</li>\n\t<li>Access to health &amp; wellbeing programs</li>\n\t<li>Ongoing learning and development opportunities</li>\n\t<li>Reward &amp; Recognition Program</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>Reaching Earthcheck Master Certification status we are an environmentally conscious and sustainability focused organisation that seeks to continuously educate, support and ensure our team members foster and understand the importance of our environmental stewardship.</p>\n\n<p>Full Australian working rights are required for this position in addition to a probity check.</p>\n\n<p>&nbsp;</p>\n\n<p><b>The Gold Coast Convention and Exhibition Centre is part of The Star Entertainment Group.</b></p>\n\n<p><b>To apply, please upload your cover letter and resume.</b></p>",
-      "keywords": [
-        "it",
-        "service",
-        "operations",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "93946117",
-      "job_title": "Business Development Manager - Evolve",
-      "business_name": "Lyra Technology Group",
-      "work_type": "Full time",
-      "job_type": "Sales - Pre & Post",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93946117",
-      "advertiser_id": "62871597",
-      "posted_date": "2026-08-13T02:16:41Z",
-      "job_description": "<p><strong>Lyra Technology Group&nbsp;</strong>is a&nbsp;private&nbsp;equity-backed holding company that invests in and&nbsp;operates&nbsp;industry leading technology service businesses. Our companies are&nbsp;operated&nbsp;independently by exceptional management teams. Companies that join our group&nbsp;retain&nbsp;the employees, name, and culture that have made them successful. As a platform of&nbsp;</p><p>Evergreen&nbsp;Services&nbsp;Group, we never divest from businesses we partner with and approach every decision with the goal of driving sustainable and healthy growth over the long term. </p><p></p><p>Our Operating Company,&nbsp;<strong>Evolve</strong>, is looking for an experienced <strong>Business Development Manager</strong> to join their team in <strong>Southport, QLD</strong>. </p><p></p><p>This is a genuine opportunity to build something. You will be Evolve’s first dedicated BD hire, working directly alongside the CEO to build our sales function, create new opportunities and win new clients.</p><p></p><p><strong>Responsibilities</strong></p><ul>\n<li>Own new logo acquisition across South East Queensland, from prospecting through to close.</li>\n<li>Build and manage targeted account lists across our ideal SMB market.</li>\n<li>Generate your own pipeline through cold calling, email, LinkedIn, networking, referrals and industry events.</li>\n<li>Run Connect and Discovery calls with business owners, GMs, CFOs, practice managers and other key decision makers.</li>\n<li>Identify client needs and recommend the right technology and security solutions—not simply the solution with the biggest commission.</li>\n<li>Sell Evolve’s&nbsp;Evaluate&nbsp;service, providing prospects with a valuable, expert assessment of their IT environment.</li>\n<li>Lead on-site meetings, prepare proposals, negotiate terms and close profitable managed services contracts.</li>\n<li>Maintain accurate CRM records, pipeline, forecasts and activity.</li>\n<li>Report pipeline, conversion and sales performance to the CEO and leadership team.</li>\n<li>Identify opportunities for upsell and cross-sell within our existing client base.</li>\n<li>Work with Team Leaders on client relationships and regular business reviews.</li>\n<li>Take new Evolve offerings to market and identify opportunities for growth.</li>\n<li>Build referral and industry relationships throughout South East Queensland.</li>\n<li>Research competitors and market opportunities to identify new business.</li>\n<li>Share sales knowledge, tips and tactics with the wider team so opportunities are never missed.</li>\n<li>Complete weekly and monthly sales reporting.</li>\n</ul><p><strong>Skills required</strong></p><ul>\n<li>Minimum 3 years’ B2B sales experience, with a proven track record of delivering sales results.</li>\n<li>Experience in MSP, technology, telco or SaaS sales is highly desirable.</li>\n<li>Experience in the IT industry is essential.&nbsp;You need to understand IT terminology, managed services and technology solutions well enough to identify the right solution for a client.</li>\n<li>Proven success generating your own pipeline and winning new logos.</li>\n<li>Demonstrated results in&nbsp;new business, upselling and cross-selling&nbsp;in previous roles.</li>\n<li>Comfortable prospecting and creating opportunities rather than relying on an inherited pipeline.</li>\n<li>Strong understanding of the full sales lifecycle and consultative selling.</li>\n<li>Commercially minded, with strong pipeline, forecasting and conversion discipline.</li>\n<li>Confident communicating with business owners and senior decision makers.</li>\n<li>Highly disciplined with CRM and relationship management.</li>\n<li>A natural networker who wants to build a strong presence across South East Queensland.</li>\n<li>Working knowledge of Microsoft 365, managed services and cyber security.</li>\n<li>Experience with ConnectWise PSA, HubSpot or Mautic is advantageous, but sales discipline and results matter more than specific systems.</li>\n<li>Willingness to travel across the Gold Coast, Brisbane and Toowoomba.</li>\n<li>Alignment with our values of&nbsp;Excellence, Drive, Accountability and Respect.</li>\n</ul><p>Most importantly, you are commercially driven but client-focused. You understand that successful technology sales start with understanding the client’s business, not pushing the most expensive or highest-commission solution.</p><p></p><p><strong>Benefits</strong></p><ul>\n<li>Be Evolve’s first dedicated Business Development Manager and have a genuine influence on how our sales function grows.</li>\n<li>Work directly with the CEO with direct access to leadership, relationships and market knowledge.</li>\n<li>Represent proven IT, managed services and cyber security solutions, backed by an experienced delivery team and strong client success stories.</li>\n<li>Join an established, profitable business with clear EOS-driven priorities, ongoing training and genuine opportunity to grow your role as the business expands.</li>\n</ul>",
-      "keywords": [
-        "business",
-        "development",
-        "manager",
-        "evolve"
-      ]
-    },
-    {
-      "job_id": "93945596",
-      "job_title": "Technical Lead - Broadbeach, QLD",
-      "business_name": "Ignite",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "",
-      "area": "Broadbeach, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93945596",
-      "advertiser_id": "55324746",
-      "posted_date": "2026-08-13T02:03:15Z",
-      "job_description": "<p>&nbsp;</p>\n<p>We are looking for a Technical Lead to provide day-to-day technical leadership of software engineering across our development team, spanning the full software development life cycle: analysis, design, build, test, release and support. This is a senior individual-contributor role for a versatile engineer who moves fluidly between building and maintaining the Azure infrastructure our systems run on and delivering hands-on full-stack engineering across portfolio of travel booking applications, with the balance shifting as our business rapidly evolves and expands internationally. You will hold autonomy over technical decisions for the team, working closely with the Head of Engineering, our Solution Architect, and the wider engineering group.</p>\n<p>&nbsp;</p>\n<p><strong>A day in the life:</strong></p>\n<ul>\n<li>Design, build, maintain and operate the Azure platform that underpins our current and future architecture (Infrastructure as code via bicep, landing zones, networking, Container Apps, API Management, Key Vault), delivering new functionality while also maintaining high availability and security.</li>\n<li>Deliver hands-on full-stack engineering across our B2X applications built on a modern React/TypeScript front-end and .NET back-end, hosted on Azure</li>\n<li>Build API integrations between our applications and our various internal and external platforms to deliver dynamic accommodation, air and inventory connectivity into booking systems.</li>\n<li>Lead the team's adoption of agentic AI engineering tools (including but not limited to Claude Code, GitHub Copilot and GitHub Spec Kit), setting the standards and patterns for their effective use and mentoring others to raise capability</li>\n<li>Provide technical leadership within agile teams, owning code quality through peer review and ensuring high-quality, secure, testable and maintainable code</li>\n<li>Apply best practices for high performance, scalability and security, including PCI-compliant payment handling and data-privacy compliance across customer-facing systems</li>\n<li>Collaborate closely with the Solution Architect to define and validate delivery and architectural standards, applying the agreed architecture as an engineering discipline</li>\n<li>Stay across industry trends and continuously suggest process improvements to enhance team efficiency and software quality</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Who you are:</strong></p>\n<ul>\n<li>Proven hands-on experience with design, build and operation of Azure infrastructure and microservices architecture in an enterprise environment. Industry certifications highly desirable.</li>\n<li>Strong proficiency in agentic software engineering, utilising AI tools such as Claude Code to accelerate delivery in an enterprise environment</li>\n<li>Strong proficiency in full-stack development (focus on .NET): RESTful APIs and modern web application frameworks, Entity Framework, relational databases, data modelling and SQL queries</li>\n<li>Minimum 5 years professional experience as a Technical Lead or similar role, with a strong track record of delivering high-quality software products</li>\n<li>Experience with git version control, and managing CI/CD pipelines and related tools (Azure DevOps, GitHub Actions, Octopus Deploy)</li>\n<li>Strong experience in agile software development methodologies such as Scrum or Kanban</li>\n<li>Experience with DevOps, SRE and observability tooling and practices</li>\n<li>Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field</li>\n<li><strong>Highly desirable:</strong> Experience with Microsoft Dynamics 365 Business Central</li>\n<li><strong>Highly desirable:</strong> Experience with cloud platforms such as AWS</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>What you'll enjoy:</strong></p>\n<p>&nbsp;</p>\n<div>\n<p>📚 Ongoing skills development</p>\n</div>\n<div>\n<p>🚀 Catapult your career across a network of brands and businesses in an evolving industry</p>\n</div>\n<div>\n<p>✈️ Say no to full price! Nab discounts on travel and more thanks to our sweet rewards program</p>\n</div>\n<div>\n<p>👩‍⚕️ Access to industry leading health and well - being programs and financial advisors</p>\n</div>\n<div>\n<p>🌴 Set up shop in a swanky beachfront office in Broadbeach</p>\n</div>\n<div>\n<p>💃🏿 Enjoy social events to promote networking, celebration of wins, and sometimes just for fun!</p>\n</div>\n<div>\n<p>&nbsp;👐🏻 Take volunteer leave as part of giving back to the local community</p>\n<p> #LI-KP1#IGNT#LI-Onsite </p>\n</div>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
-      "keywords": [
-        "technical",
-        "broadbeach"
-      ]
-    },
-    {
-      "job_id": "93941076",
-      "job_title": "Program Officer (Digital Solutions)",
-      "business_name": "Eden Ritchie Recruitment",
-      "work_type": "Contract/Temp",
-      "job_type": "Programme & Project Management",
-      "pay_range": "",
-      "area": "Nerang, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93941076",
-      "advertiser_id": "46293223",
-      "posted_date": "2026-08-12T23:10:40Z",
-      "job_description": "Eden Ritchie Recruitment are seeking an experienced <strong>AO4 Program Officer – Digital Solutions</strong> to support the development and delivery of digital business solutions within a large Queensland Government environment.<br><br>This role will focus on the practical development, administration and support of <strong>SharePoint Online, Power Apps, Power Automate and Microsoft 365 technologies</strong>. You will work closely with stakeholders to understand operational requirements, develop low-code solutions and identify opportunities to improve business processes, collaboration and information management.<br><br><strong>Rate:</strong> $60.06 per hour + super<br> <strong>Location:</strong> Nerang<br> <strong>Contract Length:</strong> 12 months, with possible extension <br><br> <strong>Key Responsibilities</strong> <ul> <li>Develop, configure and maintain SharePoint Online sites, libraries, lists and content management solutions</li> <li>Design and support Power Apps, Power Automate workflows and other low-code digital solutions</li> <li>Identify opportunities to streamline and improve business processes using Microsoft 365 technologies</li> <li>Gather and document business requirements to support solution development</li> <li>Provide technical advice, troubleshooting and ongoing user support</li> <li>Assist with testing, implementation and enhancement of digital solutions</li> <li>Deliver user training and support the adoption of new systems and processes</li> <li>Develop user guides, procedures, system documentation and training materials</li> <li>Support information and records management requirements within SharePoint environments</li> <li>Ensure solutions align with relevant information management, cyber security and governance requirements.</li> </ul> About You To be successful in this role, you will bring:<br> <ul> <li>Demonstrated experience with <strong>SharePoint Online, Power Apps, Power Automate and Microsoft 365</strong></li> <li>Experience supporting, administering or developing business systems and digital solutions</li> <li>Hands-on experience configuring SharePoint environments, including permissions, document libraries, metadata and content structures</li> <li>Ability to develop low-code solutions using Microsoft Power Platform</li> <li>Ability to analyse business processes and identify opportunities for digital improvement</li> <li>Strong problem-solving and troubleshooting capability</li> <li>Confidence communicating technical concepts to non-technical users</li> <li>Strong organisational skills and the ability to manage competing priorities</li> <li>A customer-focused approach with a commitment to continuous improvement.</li> </ul> Experience developing and administering <strong>SharePoint Online sites and solutions</strong>, together with developing solutions using <strong>Power Apps and Power Automate</strong>, will be highly regarded.<br><br> <strong>This is a fantastic opportunity to apply your Microsoft 365 and Power Platform expertise to develop practical digital solutions that improve processes, collaboration and information management across a busy operational environment.<br></strong><br> For more information or to discuss the role, please contact <strong>Bree Woods</strong> on <strong><a href=\"mailto:bree@edenritchie.com.au\">bree@edenritchie.com.au</a></strong> or <strong><a href=\"tel:07 3230 0038\">07 3230 0038</a></strong>.",
-      "keywords": [
-        "program",
-        "officer",
-        "digital",
-        "solutions"
-      ]
-    },
     {
       "job_id": "93914099",
       "job_title": "Senior Deployment Technician WSR",
@@ -1213,6 +1140,25 @@
       ]
     },
     {
+      "job_id": "93641610",
+      "job_title": "Principal Technology Officer FFS",
+      "business_name": "Department of Health - Queensland",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93641610",
+      "advertiser_id": "32285210",
+      "posted_date": "2026-07-29T19:05:10Z",
+      "job_description": "<div>\n \n <p>Take the next step in your career with this exciting opportunity within eHealth. The Digital Partnership teams provide effective and efficient ICT support services across Queensland. This role primarily provides on-site and remote level 2 technical support, incident management and request fulfilment in one or more technology domains to ensure defined enterprise service levels are met. The technical domains include End User Computing; Servers and Networks and Unified Communications.</p>\n </div>\n<div>\n <p><strong>What you'll do&nbsp;</strong>&nbsp;</p>\n<ul>\n<li>Provide high level ICT technical expertise, support and administration across the main technical domains (End User Computing, Servers, Telecommunications and Networks) by maintaining the operational environment that supports the business.</li>\n<li>Provide support and assistance in the clarification and prioritisation of tasks by ensuring assigned priorities are met in accordance with defined enterprise service levels.</li>\n<li>Effectively supervise and manage visiting ICT support staff, such as suppliers, by adhering to unit and organisational goals, policies and procedures, and seek opportunities to improve service provision through mentoring.</li>\n<li>Effectively supervise/ mentor a technical team by adhering to unit and organisational goals, and procedures.</li>\n<li>Whilst part of a broader team, the position requires being able to work with minimal supervision and a substantial commitment to self-management in prioritising and managing workloads, commuting to supported sites and being able to represent eHealth Queensland in communications with senior staff within the HHS as required.</li>\n</ul>\n<p><strong>About you&nbsp;</strong>&nbsp;</p>\n<p>We are searching for someone who has:</p>\n<ul>\n<li>Demonstrated technical expertise in the management, configuration, monitoring and implementation of ICT environments in multiple technical domains.</li>\n<li>Experience and ability to deliver high quality ICT support to clients, with an emphasis on managing workloads, prioritising tasks and working unsupervised.</li>\n<li>Experience and ability to identify and resolve ICT related problems within defined Service Level Agreements.</li>\n<li>Ability to coordinate multiple tasks within agreed priorities, timeframes and accountabilities.</li>\n<li>Demonstrated interpersonal skills and personal qualities that facilitate the development of good working relationships, including supervising/mentoring of junior staff, and enhance the provision of quality client service in a team environment.</li>\n<li>Well-developed oral and written communication skills that enable the creation and/or maintenance of system documentation, work instructions and technical reports for management.</li>\n<li>Demonstrated experience or the ability to quickly learn ServiceNow© and ITIL Service Management processes.</li>\n<li>Ability to maintain an awareness and understanding of new and emerging ICT technologies and products as they relate to eHealth Queensland</li>\n</ul>\n<p><strong>Why work with us?&nbsp;</strong>&nbsp;</p>\n<p>Work alongside passionate professionals in a supportive and inclusive environment that values people and prioritises employee success and wellbeing.&nbsp;</p>\n<p><strong>Competitive salaries</strong>&nbsp;</p>\n<ul>\n<li>12.75% superannuation&nbsp;&nbsp;</li>\n<li>17.5% leave loading&nbsp;</li>\n</ul>\n<p><strong>Employee wellbeing &amp; development</strong>&nbsp;</p>\n<ul>\n<li>Access to 24/7 confidential employee support providers and counsellors including for immediate family members&nbsp;</li>\n<li>Additional flexibility to support your work life balance including access to generous leave entitlements, such as purchased leave, domestic violence leave, reproductive health leave, cultural leave, study and examination leave.&nbsp;</li>\n<li>Access to a variety of programs and initiatives to support training and career growth.&nbsp;&nbsp;</li>\n<li>Grow your skills through hands-on experience and access to internal training opportunities and additional financial and leave benefits for approved external training and development.&nbsp;</li>\n</ul>\n<p><strong>Our commitment to equity, diversity and inclusion</strong><strong> </strong>&nbsp;</p>\n<p>At Queensland Health, our work environment is inclusive and supportive, and we value our employees. We are an equal opportunity employer and encourage applications from people of all cultures, abilities and backgrounds.&nbsp;&nbsp;</p>\n<p>Our commitment to cultural safety, equity, diversity and inclusion means we understand some people may need changes to the recruitment process. If you need support during the recruitment process, such as meeting with the panel virtually instead of in person, please reach out to the hiring manager. We value diverse candidates and your need for adjustments will not affect our hiring decisions. &nbsp;</p>\n<p><strong>Ready to apply?</strong>&nbsp;</p>\n<p>For further information on how to apply please review the attached Role Description.&nbsp;&nbsp;</p>\n </div>",
+      "keywords": [
+        "technology",
+        "officer",
+        "ffs"
+      ]
+    },
+    {
       "job_id": "93630931",
       "job_title": "Software Engineer (PHP)",
       "business_name": "Nexigen Digital",
@@ -1749,6 +1695,84 @@
       "keywords": [
         "test",
         "analyst"
+      ]
+    },
+    {
+      "job_id": "93314205",
+      "job_title": "Back Office IT Support Officer",
+      "business_name": "Private Advertiser",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "$65,000 – $75,000 per year",
+      "area": "Ormeau, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93314205",
+      "advertiser_id": "",
+      "posted_date": "2026-07-14T07:04:06Z",
+      "job_description": "<h2>Back Office IT Support Officer</h2><p><strong>Join Our Team!</strong></p><p>We're looking for a reliable and proactive <strong>Back Office IT Support Officer</strong> to provide internal technical support and help keep our business systems running smoothly. This role is ideal for someone who enjoys troubleshooting, maintaining IT infrastructure, and supporting staff behind the scenes.</p><h2>About the Role</h2><p>As part of our internal IT team, you'll provide day-to-day support for employees, maintain hardware and software, manage user accounts, and assist with IT projects. You'll play a key role in ensuring our technology is secure, efficient, and available to support business operations.</p><h2>Key Responsibilities</h2><ul><li><p>Provide internal IT support to office staff across the business.</p></li><li><p>Set up, configure, and maintain desktops, laptops, mobile devices, and printers.</p></li><li><p>Manage user accounts, passwords, and access permissions.</p></li><li><p>Install, update, and maintain business software and operating systems.</p></li><li><p>Monitor system performance and resolve technical issues promptly.</p></li><li><p>Assist with network, server, and cloud-based services.</p></li><li><p>Maintain IT asset registers and equipment inventory.</p></li><li><p>Support data backup, cybersecurity, and disaster recovery processes.</p></li><li><p>Document IT procedures and maintain accurate support records.</p></li><li><p>Assist with technology upgrades and implementation projects.</p></li></ul><h2>About You</h2><ul><li><p>Experience in an internal IT support or systems support role.</p></li><li><p>Good knowledge of Windows, Microsoft 365, Active Directory, and basic networking.</p></li><li><p>Strong troubleshooting and analytical skills.</p></li><li><p>Well organised with excellent attention to detail.</p></li><li><p>Able to prioritise tasks and work independently.</p></li><li><p>Strong communication skills with the ability to explain technical issues in plain language.</p></li><li><p>IT qualifications or relevant certifications are desirable but not essential.</p></li></ul><h2>What We Offer</h2><ul><li><p>A supportive and collaborative work environment.</p></li><li><p>Opportunities for training and professional development.</p></li><li><p>A varied role with exposure to a broad range of technologies.</p></li><li><p>Competitive salary based on experience.</p></li><li><p>Stable, long-term career opportunities.</p></li></ul><p>If you're a dependable IT professional who enjoys supporting internal business operations and keeping systems running efficiently, we'd love to hear from you. Submit your resume and a brief cover letter to apply.</p>",
+      "keywords": [
+        "back",
+        "office",
+        "it",
+        "support",
+        "officer"
+      ]
+    },
+    {
+      "job_id": "93303058",
+      "job_title": "Principal Architect, AI Business solutions - ONGC",
+      "business_name": "Lyra Technology Group",
+      "work_type": "Full time",
+      "job_type": "Architects",
+      "pay_range": "",
+      "area": "Arundel, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93303058",
+      "advertiser_id": "62871597",
+      "posted_date": "2026-07-14T02:39:45Z",
+      "job_description": "<p><strong>Lyra Technology Group</strong>&nbsp;is a&nbsp;private&nbsp;equity-backed holding company that invests in and&nbsp;operates&nbsp;industry leading technology service businesses. Our companies are&nbsp;operated&nbsp;independently by exceptional management teams. Companies that join our group&nbsp;retain&nbsp;the employees, name, and culture that have made them successful. As a platform of&nbsp;</p><p>Evergreen&nbsp;Services&nbsp;Group, we never divest from businesses we partner with and approach every decision with the goal of driving sustainable and healthy growth over the long term. </p><p></p><p><strong>About The Position</strong></p><p>One of our operating companies, ONGC, is looking for an experienced<strong>&nbsp;AI Business Solutions Architect</strong> to join their team in the Gold Coast, Arundel.</p><p>In this role, you will lead the design, architecture and delivery of innovative AI Business Solutions across Microsoft Dynamics 365, Power Platform, Azure and emerging technologies.</p><p>You will combine technical leadership with hands-on solution delivery, working closely with clients to solve complex business challenges while mentoring a high-performing team of developers and consultants.</p><p></p><p><strong>Responsibilities</strong></p><ul>\n<li>Lead the end-to-end architecture, design and delivery of enterprise solutions across Dynamics 365, Power Platform, Azure, and AI technologies.</li>\n<li>Design and implement complex integrations, including Microsoft Copilot, HubSpot, SharePoint, Azure services, AWS migrations, APIs, and Power Automate Desktop.</li>\n<li>Partner with the General Manager – AI Business Solutions to scope projects, develop technical solutions and support presales activities.</li>\n<li>Translate business requirements into scalable, secure and maintainable technical architectures.</li>\n<li>Act as the senior technical escalation point, providing expert guidance on complex solution challenges.</li>\n<li>Mentor and support Senior and Mid-level Developers, promoting best practice development and architectural standards.</li>\n<li>Collaborate with clients and stakeholders to deliver innovative technology solutions that drive measurable business outcomes.</li>\n<li>Stay at the forefront of Microsoft technologies and AI innovation, identifying opportunities to enhance client solutions and internal capabilities.</li>\n</ul><p><strong>Skills Required</strong></p><ul>\n<li>10+ years in IT Advisory and Implementation</li>\n<li>Extensive experience designing and delivering Microsoft Dynamics 365, Power Platform and Azure solutions.</li>\n<li>Advanced expertise in Power Automate, including Desktop Flows, Power Apps, Dataverse and Azure integration patterns.</li>\n<li>Experience integrating Microsoft technologies with third-party platforms, APIs and cloud services.</li>\n<li>Proven ability to lead solution architecture for complex enterprise projects from discovery through to delivery.</li>\n<li>Excellent stakeholder engagement and communication skills, with the ability to confidently engage both technical teams and executive-level clients.</li>\n<li>Experience supporting presales, solution scoping and technical workshops.</li>\n<li>A hands-on approach with a genuine passion for solving complex technical problems and mentoring others.</li>\n<li>Microsoft certifications in Azure, Dynamics 365, or Power Platform will be highly regarded.</li>\n</ul><p><strong>Benefits</strong></p><ul>\n<li>Flexible working arrangements – 2 days WFH</li>\n<li>Clear career progression pathways</li>\n<li>Exposure to meaningful, enterprise technology projects</li>\n<li>Supportive, collaborative team culture focused on growth and innovation</li>\n<li>Opportunity to work with emerging AI technologies and innovative automation solutions</li>\n<li>Be part of a values-driven organisation committed to delivering exceptional outcomes for clients across Australia</li>\n</ul><p>&nbsp;</p><p>&nbsp;</p><p> </p>",
+      "keywords": [
+        "architect",
+        "ai",
+        "business",
+        "solutions",
+        "ongc"
+      ]
+    },
+    {
+      "job_id": "93299871",
+      "job_title": "Senior Business Analyst",
+      "business_name": "Just Digital People",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93299871",
+      "advertiser_id": "29028300",
+      "posted_date": "2026-07-14T01:10:11Z",
+      "job_description": "<strong>Senior Business Analyst | Digital Products | Agile | AI-Enabled Delivery</strong><br><strong> Gold Coast | Hybrid</strong><br><br><br> We're partnering with an established Australian technology business that's investing heavily in the next generation of its digital platforms.<br><br> We're looking for an experienced Senior Business Analyst to play a key role in delivering a new customer-facing platform while continuing to enhance existing business systems. You'll work closely with engineering, product and business stakeholders, helping shape requirements and ensuring high-quality software delivery.<br><br> This is an opportunity to join a modern engineering team that's embracing AI-assisted ways of working and is continually improving how software is delivered.<br><br><br> <strong>What you'll be doing<br></strong><br> <ul> <li>Gathering and documenting business requirements.</li> <li>Writing user stories, acceptance criteria and process flows.</li> <li>Managing and refining the product backlog.</li> <li>Facilitating workshops and stakeholder meetings.</li> <li>Acting as the bridge between business and engineering teams.</li> <li>Supporting UAT and ensuring solutions meet business requirements.</li> <li>Using AI tools to improve analysis, documentation and delivery.</li> <li>Helping drive continuous improvement across delivery practices.</li> </ul> <br><strong>What we're looking for</strong><br> <ul> <li>5+ years' experience as a Business Analyst.</li> <li>Strong Agile experience.</li> <li>Excellent stakeholder management and communication skills.</li> <li>Experience writing user stories, acceptance criteria and process documentation.</li> <li>Strong analytical and problem-solving skills.</li> <li>Experience with AI-assisted analysis or a genuine interest in adopting AI tooling.</li> <li>Experience within travel, retail or another high-volume digital environment is highly regarded.</li> <li>Experience with Microsoft Dynamics 365 Business Central is advantageous.</li> <li>UI/UX experience is a bonus.</li> </ul> <br><strong>What's on offer<br></strong><br> <ul> <li>Hybrid working.</li> <li>Modern engineering environment.</li> <li>Exposure to AI-enabled delivery practices.</li> <li>Ongoing professional development.</li> <li>Strong collaborative culture.</li> <li>Excellent long-term career opportunities.</li> </ul>",
+      "keywords": [
+        "business",
+        "analyst"
+      ]
+    },
+    {
+      "job_id": "93299117",
+      "job_title": "ICT Manager",
+      "business_name": "Davidson",
+      "work_type": "Full time",
+      "job_type": "Management",
+      "pay_range": "A competitive remuneration package",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93299117",
+      "advertiser_id": "39690466",
+      "posted_date": "2026-07-14T00:49:27Z",
+      "job_description": "<p><strong>About the Company</strong><br> <br>St Hilda's School is one of Australia's leading independent Anglican schools, educating students from Pre-Prep to Year 12, including boarding. Situated on the Gold Coast, the School is recognised for its commitment to academic excellence, and student wellbeing.</p><p><br>Built on strong Anglican values, St Hilda's encourages leadership, service and lifelong learning. Through innovative teaching practices, extensive co-curricular opportunities and a supportive community, students are equipped with the knowledge and character to succeed in an increasingly digital and interconnected world.<br><br>Guided by its motto, Non Nobis Solum (\"Not for Ourselves Alone\"), the School promotes integrity, responsibility and a genuine commitment to making a positive contribution to society.<br><br><strong>About the Role</strong><br><br>St Hilda's School is seeking an accomplished ICT Manager to lead the strategic direction, governance and operational performance of the School's technology environment.<br><br>Reporting to the Director of Business and Operations, this role provides leadership across all aspects of ICT, ensuring technology services enable outstanding educational outcomes while supporting the School's administrative and operational functions.<br><br>The position extends well beyond traditional ICT management. As a trusted adviser to senior leadership, the ICT Manager will shape the School's digital future by driving innovation, strengthening cybersecurity, enhancing data governance and supporting the responsible adoption of emerging technologies, including Artificial Intelligence.<br><br>Leading a dedicated ICT team, the successful candidate will foster a culture of service excellence while ensuring the School's technology ecosystem remains secure, resilient and aligned with strategic priorities.<br><br>The ICT Manager will:</p><ul><li>Develop and run the School's technology strategy, ensuring ICT initiatives support broader organisational objectives.</li><li>Lead the management and optimisation of core technology infrastructure, including networks, cloud services, Microsoft 365, Windows and Apple device environments.</li><li>Strengthen cybersecurity capability through effective governance, risk management and data protection practices.</li><li>Support the responsible adoption of emerging technologies, including Artificial Intelligence, while contributing to long-term digital innovation.</li><li>Oversee the delivery of responsive ICT support services that provide an exceptional experience for staff and students.</li><li>Manage relationships with external technology partners, including procurement, licensing, vendor performance and contract negotiations.</li><li>Collaborate with academic leaders to enhance digital learning environments and classroom technology outcomes.</li><li>Ensure appropriate disaster recovery, business continuity and system resilience measures are maintained.</li><li>Lead, coach and develop the ICT team, fostering collaboration, accountability and professional growth.</li><li>Manage technology budgets, project delivery and the successful implementation of new systems and initiatives.</li></ul><p><strong>About You</strong><br><br>You are a strategic technology leader who enjoys balancing long-term planning with operational excellence. You understand that technology exists to enable people and outcomes, and you thrive in environments where collaboration, innovation and service are equally important.<br><br>You'll bring:</p><ul><li>Demonstrated success leading ICT teams within a complex organisational environment, with education sector experience viewed favourably.</li><li>Broad technical knowledge spanning enterprise infrastructure, networking, cloud platforms and end-user computing.</li><li>Practical experience implementing cybersecurity frameworks, managing organisational risk and protecting critical information assets.</li><li>A proven record of delivering technology projects, digital transformation programs and enterprise system implementations.</li><li>The ability to move comfortably between strategic planning and operational execution.</li><li>Excellent communication skills, with the ability to build trusted relationships and explain technical concepts clearly to non-technical stakeholders.</li><li>Experience managing ICT budgets, supplier relationships and commercial contracts.</li><li>A commitment to delivering high-quality customer service and driving continuous improvement.</li><li>An appreciation for, and alignment with, the values and community-focused culture of an Anglican school.</li></ul><p><strong>Qualifications</strong></p><ul><li>Tertiary qualifications in Information Technology or a related discipline.</li><li>Industry certifications in cybersecurity, cloud technologies or enterprise infrastructure (highly regarded).</li><li>Current Blue Card (or eligibility to obtain).</li><li>Current Australian Driver Licence.</li><li>First Aid/CPR qualification, or willingness to obtain.</li></ul><p>Please apply with current resume in Microsoft Word format only (.doc or .docx). If you would like to have a confidential discussion, please contact Raffaelle Brancatella on <a href=\"mailto:raffaelle.brancatella@davidsonwp.com\">raffaelle.brancatella@davidsonwp.com</a>, quoting reference JN-072026-43760. Want to know more about Davidson? Visit us at www.davidsonwp.com</p>",
+      "keywords": [
+        "ict",
+        "manager"
       ]
     }
   ]
