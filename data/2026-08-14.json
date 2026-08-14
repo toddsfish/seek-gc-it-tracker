@@ -1,616 +1,466 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-14",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-15T06:22:53.197656+10:00",
-  "total_jobs": 72,
+  "scraped_at": "2026-08-14T06:31:53.331583+10:00",
+  "total_jobs": 68,
   "keywords": [
     {
       "term": "analyst",
       "count": 13,
-      "share": 0.1806
+      "share": 0.1912
     },
     {
       "term": "manager",
-      "count": 13,
-      "share": 0.1806
+      "count": 11,
+      "share": 0.1618
     },
     {
       "term": "it",
+      "count": 10,
+      "share": 0.1471
+    },
+    {
+      "term": "developer",
       "count": 9,
-      "share": 0.125
+      "share": 0.1324
     },
     {
       "term": "support",
       "count": 9,
-      "share": 0.125
+      "share": 0.1324
     },
     {
       "term": "engineer",
       "count": 8,
-      "share": 0.1111
-    },
-    {
-      "term": "developer",
-      "count": 8,
-      "share": 0.1111
+      "share": 0.1176
     },
     {
       "term": "business",
       "count": 7,
-      "share": 0.0972
-    },
-    {
-      "term": "software",
-      "count": 6,
-      "share": 0.0833
+      "share": 0.1029
     },
     {
       "term": "digital",
       "count": 5,
-      "share": 0.0694
+      "share": 0.0735
     },
     {
       "term": "ict",
       "count": 5,
-      "share": 0.0694
+      "share": 0.0735
     },
     {
-      "term": "administrator",
-      "count": 5,
-      "share": 0.0694
-    },
-    {
-      "term": "project",
+      "term": "software",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0588
+    },
+    {
+      "term": "specialist",
+      "count": 4,
+      "share": 0.0588
     },
     {
       "term": "technical",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0588
     },
     {
       "term": "operations",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0588
     },
     {
       "term": "officer",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0588
     },
     {
       "term": "technician",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0588
     },
     {
       "term": "systems",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0588
+    },
+    {
+      "term": "administrator",
+      "count": 4,
+      "share": 0.0588
     },
     {
       "term": "development",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0588
     },
     {
-      "term": "specialist",
+      "term": "project",
       "count": 3,
-      "share": 0.0417
+      "share": 0.0441
     },
     {
-      "term": "product",
+      "term": "network",
       "count": 3,
-      "share": 0.0417
+      "share": 0.0441
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
-      "term": "network",
+      "term": "shopify",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "php",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "ai",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "platform",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "solutions",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "deployment",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "wsr",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "health",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "information",
       "count": 2,
-      "share": 0.0278
-    },
-    {
-      "term": "owner",
-      "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "leader",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "accounting",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "timetabling",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "examinations",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "insights",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
-      "term": "shopify",
+      "term": "commerce",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "wordpress",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "heads",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "days",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "per",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "week",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "engineering",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "machines4u",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "dotnet",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "laravel",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "automation",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "java",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
+    },
+    {
+      "term": "automation",
+      "count": 1,
+      "share": 0.0147
     },
     {
       "term": "architecture",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "service",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "msp",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "ao4",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
+    },
+    {
+      "term": "msp",
+      "count": 1,
+      "share": 0.0147
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "api",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "ongc",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "tech",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
+    },
+    {
+      "term": "api",
+      "count": 1,
+      "share": 0.0147
+    },
+    {
+      "term": "ongc",
+      "count": 1,
+      "share": 0.0147
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "custodian",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "computer",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "kingston",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "state",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "college",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "workplace",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "infrastructure",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "apps",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "m365",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
-      "term": "delivery",
+      "term": "product",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "evolve",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "test",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "seo",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "ui",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "ux",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "landing",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "page",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "leadify",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
+    },
+    {
+      "term": "seo",
+      "count": 1,
+      "share": 0.0147
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "technology",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     }
   ],
   "jobs": [
-    {
-      "job_id": "93993325",
-      "job_title": "Computer Systems Administrator - Kingston State College",
-      "business_name": "Queensland Department of Education",
-      "work_type": "Full time",
-      "job_type": "Management",
-      "pay_range": "",
-      "area": "Beaudesert, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93993325",
-      "advertiser_id": "20931168",
-      "posted_date": "2026-08-14T16:33:31Z",
-      "job_description": "<div>\n \n <p>We are seeking an experienced and solutions-focused Computer Systems Administrator to lead and manage our school’s ICT operations and team. This is an exciting opportunity for an ICT professional to provide strategic advice, strengthen technology services and ensure staff and students have reliable, \neffective ICT systems to support teaching, learning and school operations. We are looking for an ICT professional who combines technical expertise with strong leadership, communication and problem-solving skills.</p>\n </div>\n<div>\n <p><strong>About us:</strong></p>\n<p>Kingston State College is a leading co-educational independent public school in Logan, supporting students across Years 7-12 through its High School and Kingston Learning College. With a strong focus on personalised learning, the College provides flexible opportunities to meet individual student needs and welcomes enrolments from across the community. Guided by the motto “Progress with Pride”, the College promotes a positive culture built on Commitment, Courtesy, Cooperation and Common Sense. With a philosophy of “Nothing left to Chance”, staff work collaboratively to support every student's academic, social and emotional development and prepare them for successful pathways into employment, apprenticeships, traineeships and further education.</p>\n<p><strong>Your opportunity:</strong></p>\n<ul>\n<li>Lead and manage the Information and Communication Technology (ICT) team and ICT operations of the school to ensure that the day-to-day aspects of the school's ICT systems are managed professionally and align with departmental priorities.</li>\n</ul>\n<p><strong>Responsibilities:</strong></p>\n<ul>\n<li>ICT leadership: Provide strategic advice and lead the school's ICT team and operations.</li>\n<li>Technology: Implement innovative ICT solutions and maintain school systems.</li>\n<li>Team management: Supervise, train and manage ICT staff, workflows and performance.</li>\n<li>Technical support: Ensure high-quality support, troubleshooting, maintenance and repairs.</li>\n<li>Policies &amp; compliance: Follow relevant legislation, departmental policies and safety requirements.</li>\n<li>Procurement: Manage ICT purchasing, hardware and software procurement.</li>\n<li>Systems management: Install, maintain and improve ICT and educational systems.</li>\n<li>Asset management: Manage ICT assets, registers, disposal and annual stocktake.</li>\n<li>Resources: Manage human, financial and physical resources effectively.</li>\n<li>Administration: Maintain equipment registers, databases, spreadsheets and reports.</li>\n<li>Continuous improvement: Review ICT services, procedures and work practices.</li>\n</ul>\n<p><strong>Interested? To Apply:&nbsp;</strong></p>\n<ul>\n<li>Attach a brief resume including contact details for 2 referees (referees should have an understanding of your relevant work history)</li>\n<li>Attach a 2-page written statement about how your achievements and capabilities meet the requirements of the role.</li>\n<li>Attach a copy of your mandatory qualifications/registration outlined in the attached role description.</li>\n</ul>\n<p>We welcome all applicants to share any support needed to ensure our recruitment process is inclusive.Applications remain current for 12 months from the closing date and may be considered for appointment to identical or similar vacancies within the Department.Applications from recruitment agencies will not be accepted.</p>\n </div>",
-      "keywords": [
-        "computer",
-        "systems",
-        "administrator",
-        "kingston",
-        "state",
-        "college"
-      ]
-    },
-    {
-      "job_id": "93992376",
-      "job_title": "Engineering Manager, Machines4U",
-      "business_name": "carsales",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93992376",
-      "advertiser_id": "2762928",
-      "posted_date": "2026-08-14T05:29:29Z",
-      "job_description": "<div>\n<strong>Company Description</strong><br>\n</div>\n<div>\n<p><strong>Are you ready to be a big part of something big?</strong></p>\n<p>At <strong>Machines4U </strong>machinery&nbsp;part of carsales, we’re all about making buying and selling a great experience. We’ve been evolving with the new economy to help people choose how they move today and tomorrow.</p>\n<p>When it comes to your career, we want to<strong> </strong>offer meaningful opportunities that empower you to make a lasting impact. But for that to happen, we strive to feel small, small enough to stay agile, learn across teams, and connect authentically with each other.</p>\n<p>With a vision to be the global leader in online vehicle marketplaces, we’re transforming how people buy and sell across the world. We discover new ideas and bring them to life. We continue to grow, and we continue to evolve and we’re not afraid to take bold steps to get there.</p>\n<p>A career in&nbsp;Software Engineering&nbsp;will see you working on products that are used every single day by our millions of customers all over the world. This position is within our&nbsp;ACIL&nbsp;(Auto, Corporate, Industry &amp; Leisure)&nbsp;team. The team focuses on high availability product for Dealership customers to buy and sell their inventory. It plays a vital role in allowing them to maximise their online customer interaction and sale funnels.</p>\n<p>We embrace hybrid working combining the flexibility of remote work with the energy and connection of in-person collaboration. We champion flexibility and offer a range of policies and leave options to support your wellbeing.</p>\n<p><strong>What’s on offer</strong></p>\n<ul>\n<li>Recognition as one of Australia’s Best Workplaces™ by Great Place to Work®, a Family Friendly Workplace, a WORK180 endorsed employer.</li>\n<li>A highly engaged, collaborative team where you’ll learn from exceptional talent.</li>\n<li>24 weeks paid parental leave for primary caregivers, four weeks for secondary caregivers, and six weeks paid gender-affirming care leave.</li>\n<li>Regular hackathons, continuous learning opportunities, and wellbeing initiatives that support your mental, emotional, and physical health.</li>\n</ul>\n</div>\n<div>\n<strong>Job Description</strong><br>\n</div>\n<div>\n<p><strong>What you’ll be doing</strong></p>\n<ul>\n<li>Own engineering execution for Machines4U, from product development and platform reliability to engineering practices and delivery cadence</li>\n<li>Translate business priorities set by senior leadership into a clear, sequenced engineering roadmap and deliver against it</li>\n<li>Lead a high-performing, distributed engineering team, and hold the behavioural and technical bar</li>\n<li>Partner closely with product and carsales engineering counterparts to shape the Machines4U technology landscape and ensure engineering decisions serve commercial outcomes</li>\n<li>Lead the progressive modernisation of Machines4U’s technology stack, balancing legacy platform stability with migration to scalable, secure and group-aligned modern systems.</li>\n<li>Oversee key platform integrations and third-party technical dependencies, ensuring reliable interfaces across marketplace, CRM, payments, marketing, reporting and group systems.</li>\n<li>Own engineering input into security, reliability and compliance practices, ensuring risks are understood, prioritised and remediated pragmatically.</li>\n<li>Actively contribute to engineering practices, tooling, and culture across the carsales Engineering community</li>\n<li>Provide clear, credible engineering perspectives to senior leadership, including assessments of risk, trade-offs, and capacity</li>\n</ul>\n</div>\n<div>\n<strong>Qualifications</strong><br>\n</div>\n<div>\n<p><strong>What we're looking for</strong></p>\n<ul>\n<li>Proven experience leading engineering teams in a product-led, commercially-driven environment, ideally in a marketplace or B2B SaaS context</li>\n<li>Strong technical depth across modern web stacks (backend and frontend), cloud infrastructure, and API design</li>\n<li>Track record delivering practical engineering roadmaps that move the needle on business outcomes</li>\n<li>Experience operating in a mixed legacy and modern technology environment, with a pragmatic approach to modernisation and risk reduction.</li>\n<li>Natural relationship builder who can work effectively across functions, holding your own with stakeholders while staying accountable to a broader group</li>\n<li>Credible operating range: from coding standards and incident response to roadmap trade-offs and senior leadership updates</li>\n<li>Hands-on enough to review architecture, unblock engineers, and spot quality problems early</li>\n<li>Pragmatic experience balancing delivery pace and meeting standards for security, reliability, and scalability</li>\n</ul>\n<p><strong>We know not everyone will meet every requirement, and that’s okay. If you’re excited about the role and believe you can make a difference, we’d love to hear from you.</strong></p>\n</div>\n<div>\n<strong>Additional Information</strong><br>\n</div>\n<div>\n<p><strong>A few other things we want you to know...</strong></p>\n<ul>\n<li>As an equal opportunity employer, Machines4U and carsales welcomes applications from individuals of all backgrounds, identities, abilities, and life experiences. We are committed to fostering a diverse and inclusive workplace where everyone feels valued and supported.</li>\n<li>If you have a disability or require adjustments to participate fully in the recruitment process, please let us know - we’re here to support you.</li>\n<li>We understand the importance of work-life balance and offer flexible working arrangements, including part-time options. If you’d like to explore this, just ask during the process.</li>\n<li>We’re also a proud Circle Back Initiative employer, which means we commit to responding to every applicant.</li>\n<li>Successful candidates joining the Machines4U and carsales team will need to complete a National Police Record check and must have full-time Australian working rights.</li>\n</ul>\n<p><strong>So&nbsp;come&nbsp;and&nbsp;join&nbsp;our&nbsp;team&nbsp;-&nbsp;because&nbsp;every&nbsp;role&nbsp;is&nbsp;a&nbsp;big&nbsp;role&nbsp;in&nbsp;our&nbsp;plans&nbsp;to&nbsp;go&nbsp;big.</strong></p>\n</div>",
-      "keywords": [
-        "engineering",
-        "manager",
-        "machines4u"
-      ]
-    },
-    {
-      "job_id": "93977377",
-      "job_title": "Product Owner",
-      "business_name": "Department of Health - Queensland",
-      "work_type": "Full time",
-      "job_type": "Product Management & Development",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93977377",
-      "advertiser_id": "32285210",
-      "posted_date": "2026-08-14T04:01:32Z",
-      "job_description": "<div>\n \n <p>Lead the vision, strategy and roadmaps for a portfolio of digital products across Gold Coast Hospital and Health Service.</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Product Owner</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.<strong>&nbsp;</strong></p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide authoritative and timely advice to stakeholders on the strategy, optimisation and support for digital products</li>\n<li>Engage and collaborate with the Digital Experience team and other stakeholders in the delivery of product initiatives</li>\n<li>Provide well engineered solutions with minimal technical direction and supervision</li>\n<li>Manage a set of actionable performance criteria/success metrics specific for each product</li>\n<li>Lead in the development of solution options, product improvement priorities, emerging trend analysis and cost estimates for digital product initiatives</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, at least five years working in a digital environment, at least 2 years working in products and a relevant tertiary qualification would be highly regarded</li>\n<li>Two years or more experience leading and managing a digital product team would be advantageous</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $140,796 - $151,101 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services Strategic Plan 2028.</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture. DHI is responsible for enhancing efficiency and service delivery improvements to optimise Health Service performance. It also oversees strategic partnerships that help the Health Service implement alternative models of service delivery, ensuring value for money, and driving improvements in performance, and innovation.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Thursday, 27 August 2026</strong><strong>&nbsp;</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC690237</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
-      "keywords": [
-        "product",
-        "owner"
-      ]
-    },
-    {
-      "job_id": "93972192",
-      "job_title": "Product Owner",
-      "business_name": "Gold Coast Hospital & Health Service",
-      "work_type": "Full time",
-      "job_type": "Product Management & Development",
-      "pay_range": "$140,796 - $151,101 per annum + 12.75% super",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93972192",
-      "advertiser_id": "32285403",
-      "posted_date": "2026-08-14T01:54:06Z",
-      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Product Owner</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.<strong>&nbsp;</strong></p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide authoritative and timely advice to stakeholders on the strategy, optimisation and support for digital products</li>\n<li>Engage and collaborate with the Digital Experience team and other stakeholders in the delivery of product initiatives</li>\n<li>Provide well engineered solutions with minimal technical direction and supervision</li>\n<li>Manage a set of actionable performance criteria/success metrics specific for each product</li>\n<li>Lead in the development of solution options, product improvement priorities, emerging trend analysis and cost estimates for digital product initiatives</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, at least five years working in a digital environment, at least 2 years working in products and a relevant tertiary qualification would be highly regarded</li>\n<li>Two years or more experience leading and managing a digital product team would be advantageous</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $140,796 - $151,101 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services Strategic Plan 2028.</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture. DHI is responsible for enhancing efficiency and service delivery improvements to optimise Health Service performance. It also oversees strategic partnerships that help the Health Service implement alternative models of service delivery, ensuring value for money, and driving improvements in performance, and innovation.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Thursday, 27 August 2026</em></strong><strong>&nbsp;</strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC690237</p>\n<p><strong>&nbsp;</strong></p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
-      "keywords": [
-        "product",
-        "owner"
-      ]
-    },
-    {
-      "job_id": "93971863",
-      "job_title": "Junior Software Engineer",
-      "business_name": "Shred-X",
-      "work_type": "Full time",
-      "job_type": "Engineering - Software",
-      "pay_range": "",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93971863",
-      "advertiser_id": "21275137",
-      "posted_date": "2026-08-14T01:45:18Z",
-      "job_description": "<p>We are looking for a curious and motivated Junior Software Engineer with an interest in AI, data analytics and automation to help develop practical business solutions that improve reporting, decision-making and operational efficiency. </p><p>Embedded with the Software Engineering team, this is a hands-on role focused on AI workflows, data analysis, automation and business intelligence. It is not a social media or content-writing role. </p><p><strong>What you'll do</strong></p><ul> <li>Develop and improve AI prompts and workflows.</li> <li>Transform Excel, CSV and other business data into useful reports, dashboards and summaries.</li> <li>Help automate repetitive business and compliance processes.</li> <li>Build AI tools that help managers understand business performances.</li> <li>Assist in the development of AI agents that monitor areas such as: <ul> <li>Safety and Compliance</li> <li>Operations</li> <li>Finance</li> <li>Customer Experience</li> <li>Driver Performance</li> </ul> </li> <li>Help identify data quality issues and problems within reporting systems.</li> <li>Use AI tools such as Microsoft Copilot to assist with SQL, Power BI, DAX, Python and documentation.</li> <li>Test AI outputs to ensure they are accurate, reliable and fit for purpose.</li> <li>Document processes so they can be easily used by other staff.</li> <li>Work closely with Compliance and business teams.</li> <li>Contribute to projects involving: <ul> <li>Vehicle maintenance forecasting and asset optimisation analytics</li> <li>AI-powered executive reporting</li> <li>AI-assisted decision support</li> <li>Business process automation</li> </ul> </li> </ul><p><strong>What we're looking for</strong></p><p><strong>Essential</strong></p><p>Applicants should meet one of the following criteria:</p><ul> <li>1-2 years of relevant industry experience; or</li> <li>Final-year undergraduate student; or</li> <li>Master's student in Computer Science, Information Technology, Data Analytics, Business Analytics, Engineering, or a related discipline. </li> </ul><p>In addition, you should have:</p><ul> <li>Strong Excel skills.</li> <li>Good analytical and problem-solving skills. </li> <li>Excellent attention to detail.</li> <li>A genuine interest in AI, automation and data.</li> <li>The ability to work independently and take ownership of projects.</li> <li>Good documentation and communication skills. </li> </ul><p><strong>Desirable</strong></p><p>Experience with any of the following would be advantageous:</p><ul> <li>Python</li> <li>SQL</li> <li>Power BI and DAX</li> <li>Microsoft Fabric</li> <li>PySpark</li> <li>Azure AI / Azure OpenAI</li> <li>Copilot Studio</li> <li>Machine Learning</li> <li>AI prompt engineering</li> <li>Git and version control</li> <li>REST APIs</li> </ul><p>You don't need experience with all these technologies. We are looking for someone who is curious, analytical and willing to learn.</p><p><strong>Your Initial Projects</strong></p><p>We will initially focus on projects that can deliver quick business value, including:</p><ul> <li>AI-powered executive Q&amp;A</li> <li>Automated reporting and commentary</li> <li>Data quality monitoring</li> <li>AI-assisted development using Microsoft Copilot</li> </ul><p>These projects may later expand into predictive analytics, AI agents and more advanced automation solutions. </p><p><strong>What You'll Gain</strong></p><ul> <li>Hands-on experience working with real AI and business data.</li> <li>Experience with modern Microsoft AI and data technologies.</li> <li>Exposure to Compliance, Operations and business processes.</li> <li>Ownership of real projects with measurable outcomes.</li> <li>Mentoring and support from experienced professionals.</li> <li>Practical experience that goes beyond university theory.</li> </ul><p><strong>Why Join Us?</strong></p><p>This is an opportunity to build real AI solutions that will be used across the business.</p><p>You will have the opportunity to learn, take ownership and make a measurable difference while developing valuable skills in AI, automation, data analytics and business intelligence.</p><p>We are proud to be an equal opportunity employer and welcome applicants from diverse backgrounds, experiences and perspectives. </p>",
-      "keywords": [
-        "software",
-        "engineer"
-      ]
-    },
-    {
-      "job_id": "93971606",
-      "job_title": "Senior Project Manager – Software Delivery",
-      "business_name": "MaxSoft Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Programme & Project Management",
-      "pay_range": "",
-      "area": "Surfers Paradise, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93971606",
-      "advertiser_id": "20222129",
-      "posted_date": "2026-08-14T01:38:39Z",
-      "job_description": "<p>If you enjoy managing software projects, coordinating work across different teams and keeping delivery on track, this role offers plenty of variety. MaxSoft is a remote-first Australian software company supporting the strata management industry. We are looking for someone who is experienced in software project delivery, steady under pressure, clear in communication and comfortable working with both technical and non-technical teams.</p><p>This role combines software project delivery, internal business projects and process improvement. You will work closely with product owners, business analysts, developers, testers, support teams and leaders to ensure projects are properly planned, progress is clearly communicated and risks are addressed early.</p><p>This is a newly created role reporting to the Managing Director, and you would be our first dedicated project manager, shaping how projects are planned and delivered across the business from the ground up. The role has no direct reports and will cover a broad mix of work, from smaller operational improvements and software enhancements through to larger cross-functional projects and strategic initiatives. Some projects may involve coordinating a handful of contributors, while others may span multiple teams and business areas.</p><p><strong>About Us</strong></p><p>We are a certified Great Place to Work for 2024, 2025 and 2026, with a culture grounded in collaboration, learning and autonomy. Our remote-first model allows all employees to work from home, with the option to hot desk at our Varsity Lakes office for those living locally. We focus on practical support, flexibility and meaningful professional development.</p><p><strong>What the role involves</strong></p><p><strong>Project Planning and Delivery</strong></p><ul><li><p>Manage software development and internal business projects from kick-off through to release or implementation.</p></li><li><p>Projects may range from small enhancements and process improvements through to larger software initiatives involving multiple teams.</p></li><li><p>Work with product owners, business analysts, developers and stakeholders to agree on project scope, objectives and success measures.</p></li><li><p>Build and maintain project plans, timelines, resource requirements and delivery schedules.</p></li><li><p>Coordinate project activities across development, testing, support and other areas of the business.</p></li><li><p>Manage dependencies and coordinate work across multiple projects, escalating priority conflicts where required.</p></li><li><p>Monitor progress against agreed milestones and address delays, risks and blockers early.</p></li><li><p>Support the release and rollout of new software features, enhancements and system changes.</p></li></ul><p><strong>Project Coordination and Communication</strong></p><ul><li><p>Maintain a clear and accurate register of projects underway across MaxSoft.</p></li><li><p>Apply the level of project planning, documentation and oversight appropriate to the size, risk and complexity of each project.</p></li><li><p>Maintain accurate project plans, status reports, risk registers and decision records.</p></li><li><p>Facilitate project meetings, planning sessions, reviews and stakeholder updates as required.</p></li><li><p>Provide clear updates to leadership on project status, timelines, resourcing and risks.</p></li><li><p>Ensure changes to project scope, priorities or timelines are documented and communicated.</p></li><li><p>Present project information and recommendations clearly to technical and non-technical audiences.</p></li><li><p>Participate in occasional client or external stakeholder discussions where project delivery input is required.</p></li></ul><p><strong>Leadership and Continuous Improvement</strong></p><ul><li><p>Provide leadership to project teams and contributors without direct reporting authority.</p></li><li><p>Build strong working relationships across product, development, testing, support and other areas of the business.</p></li><li><p>Guide contributors, follow up agreed actions and work with stakeholders to keep projects moving.</p></li><li><p>Promote accountability, collaboration and clear communication within project teams.</p></li><li><p>Identify opportunities to improve project delivery, reporting, tools and ways of working.</p></li><li><p>Assist team members in understanding and adopting improved project practices.</p></li><li><p>Use AI tools appropriately to support project planning, delivery, reporting and administration.</p></li><li><p>This is a hands-on role where you'll be expected to coordinate delivery, follow up actions, solve problems and keep momentum across projects rather than simply report on project status.</p></li></ul><p><strong>What you bring</strong></p><ul><li><p>Senior-level project management experience in software development, SaaS, technology or a similar environment.</p></li><li><p>Experience managing software or technology projects from initial planning through to release or implementation.</p></li><li><p>A healthy balance of business understanding and technical knowledge.</p></li><li><p>Confidence working with product owners, business analysts, developers, testers and other technical specialists.</p></li><li><p>The ability to manage multiple projects, changing priorities and competing deadlines.</p></li><li><p>Strong leadership and stakeholder management skills.</p></li><li><p>The ability to build effective working relationships and influence people who do not report directly to you.</p></li><li><p>Strong analytical, problem-solving, decision-making and prioritisation skills.</p></li><li><p>The ability to identify project risks early and take appropriate action.</p></li><li><p>Exceptional written and verbal communication skills.</p></li><li><p>Strong interpersonal skills and the ability to communicate clearly with technical and non-technical audiences.</p></li><li><p>High attention to detail and a resilient approach in a fast-paced environment.</p></li><li><p>The ability to learn quickly across different products, technologies and business areas.</p></li><li><p>Experience establishing or improving project delivery processes, tools and reporting.</p></li><li><p>Confidence using AI tools to support project management and delivery.</p></li><li><p>Familiarity with Agile, Scrum or hybrid project delivery methodologies.</p></li></ul><p>Experience in strata management, property services or property technology would also be beneficial but is not required.</p><p><strong>Eligibility and Additional Information</strong></p><p>Applicants must be Australian Citizens or Permanent Residents living in Australia.</p><p>Because our software supports trust account and financial processes in the strata industry, MaxSoft has obligations under the Anti-Money Laundering and Counter-Terrorism Financing Act. Background screening is therefore a condition of employment, and may include identity verification, reference checks, criminal history checks, immigration checks, verification of academic qualifications and bankruptcy checks.</p><p><strong>What you can expect:</strong></p><ul><li><p>A remote-first work environment that supports work-life balance.</p></li><li><p>A varied role combining software project delivery, internal business projects and process improvement.</p></li><li><p>The opportunity to contribute to how projects are planned and managed across MaxSoft.</p></li><li><p>A supportive team environment with access to experienced technical and business professionals.</p></li><li><p>Opportunities to broaden your knowledge of software development, business operations and the strata management industry.</p></li><li><p>The opportunity to work closely with experienced leaders and contribute directly to how projects and initiatives are delivered across the business.</p></li></ul><p><strong>How to Apply</strong></p><p>Submit your resume and a cover letter via SEEK, detailing your experience and how your skills align with this role. Highlight your experience managing software or technology projects, coordinating work across multiple teams and improving project delivery processes.</p><p>If you’re passionate about software project delivery and enjoy combining planning, communication and problem-solving, we’d love to hear from you.</p><p>Join MaxSoft Group and be part of a high-performing team shaping the future of body corporate and strata management.</p><p>Apply now to join our team and be part of the exciting future of MaxSoft Pty Ltd.</p><p>(Pro Tip: only applications supported by a cover letter will be viewed)</p><p><br></p>",
-      "keywords": [
-        "project",
-        "manager",
-        "software",
-        "delivery"
-      ]
-    },
     {
       "job_id": "93953089",
       "job_title": "IT Service Operations Analyst",
@@ -623,7 +473,7 @@
       "url": "https://www.seek.com.au/job/93953089",
       "advertiser_id": "21889565",
       "posted_date": "2026-08-13T05:19:11Z",
-      "job_description": "<p>At the Gold Coast Convention and Exhibition Centre (GCCEC), technology plays a critical role in both the day-to-day operation of our business and the successful delivery of major conferences, exhibitions and events.</p>\n<br><p>Looking for and IT support role that goes beyond resetting passwords and working through a ticket queue?</p>\n\n<p>We’re looking for an IT Service Operations Analyst to join our IT team and provide high-quality technical support across both environments. One day you might be helping a team member with Microsoft 365 or troubleshooting an endpoint issue; the next, you could be preparing network services for an upcoming event or helping resolve a technical issue while that event is live.</p>\n\n<p>It’s an ideal opportunity for someone with a foundation in IT support who wants to broaden their technical skills, gain exposure to enterprise and event technology, and build their career as part of a modern IT team.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>THE ROLE</strong></p>\n\n<p>Reporting to the IT Manager and working closely with our Service Operations and Platform Engineering functions, you’ll provide&nbsp;Level 1 and Level 2 IT support&nbsp;to GCCEC team members while also helping deliver IT services for events held at the Centre.</p>\n\n<p>You’ll work across end user support, Microsoft 365, identity and access management, networking and endpoint technologies, while gaining hands-on exposure to the infrastructure and services required to support a busy convention and exhibition venue.</p>\n\n<p>A significant point of difference is&nbsp;event IT delivery. You’ll help prepare and configure IT services for the world class events held at GCCEC, complete readiness checks, deploy services in accordance with established designs and runbooks, and provide technical support when events are underway.&nbsp;</p>\n\n<p>This is a hands-on role where good technical skills matter, but so do customer service, attention to detail and the ability to remain composed when an issue needs to be solved quickly.</p>\n\n\n\n<p><br>\n<strong>What you’ll be doing</strong></p>\n\n<ul>\n\t<li>Providing Level 1 and Level 2 support across end user technology, applications, Microsoft 365, identity and collaboration platforms</li>\n\t<li>Managing incidents and service requests from initial contact through to resolution or escalation</li>\n\t<li>Troubleshooting endpoint, application, connectivity and access issues</li>\n\t<li>Assisting with the preparation, configuration and deployment of IT services for conferences and events</li>\n\t<li>Completing pre-event technical readiness checks to make sure services are ready when our clients need them</li>\n\t<li>Providing on-site and remote IT support during live events</li>\n\t<li>Working with networking technologies including wired and wireless connectivity</li>\n\t<li>Following established processes, standards and runbooks to deliver consistent, reliable services</li>\n\t<li>Maintaining accurate support records, asset records, technical documentation and knowledge articles</li>\n\t<li>Identifying recurring issues and opportunities to improve the way we deliver IT services</li>\n\t<li>Working alongside experienced IT professionals and contributing to the continued development of our service management practices</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><strong>ABOUT YOU</strong></p>\n\n<p>You don’t need to know everything already. We’re looking for someone with a solid technical foundation, a strong customer-service mindset and, importantly, the curiosity and drive to keep developing.</p>\n\n<p>You’ll ideally bring experience in an IT support, Helpdesk or service delivery environment, together with exposure to technologies such as:</p>\n\n<ul>\n\t<li>Windows desktop and server environments</li>\n\t<li>Microsoft 365 and collaboration tools</li>\n\t<li>Active Directory and/or Microsoft Entra ID</li>\n\t<li>Endpoint management</li>\n\t<li>Basic networking, including switching, wireless and connectivity troubleshooting</li>\n\t<li>A tertiary qualification in Information Technology or a related discipline is desirable, although equivalent practical experience is equally relevant.</li>\n\t<li>Experience supporting events, venue technology, or IT service management processes would be an advantage, but isn’t essential.&nbsp;</li>\n\t<li>More importantly, you’ll be someone who communicates well, enjoys helping people, pays attention to the details and can work methodically under pressure. You’ll be comfortable following established processes while also speaking up when you see an opportunity to make something better.</li>\n</ul>\n\n<p>Full Australian working rights are required for this position in addition to a probity check.</p>\n\n<p><br>\n<strong>Why join GCCEC?</strong></p>\n\n<p>This isn’t your typical IT support environment.</p>\n\n<p>You’ll work in a venue where technology supports both a corporate workplace&nbsp;and live events, giving you exposure to a much broader range of technology and operational scenarios than you might encounter in a conventional Helpdesk role.</p>\n\n<p>You’ll join an IT team that is building a more structured, service-focused operating model, with clear processes, modern technology and opportunities to learn from experienced technical specialists.</p>\n\n<p>For someone looking to establish or accelerate their IT career, the breadth of the environment provides an excellent opportunity to develop skills across&nbsp;end-user computing, Microsoft 365, identity, networking, service management and event technology.</p>\n\n<p>And because we’re an events business, you’ll get to see the outcome of your work first-hand: technology that you helped prepare and support being used to deliver real events for our clients and guests.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Ready for your next step?</strong></p>\n\n<p>If you’re passionate about technology, enjoy solving problems and want an IT role with more variety than the traditional Helpdesk, we’d love to hear from you.</p>\n\n<p>Apply now to join the IT team at the Gold Coast Convention and Exhibition Centre.</p>\n\n<p>&nbsp;</p>\n\n<p><b>WHY WORK WITH US?&nbsp; </b><i>“It’s not what we do, it’s how we do it”!&nbsp;</i></p>\n\n<p>&nbsp;</p>\n\n<p>We pride ourselves on our values of Community, Initiative, Respect, Teamwork and Welcoming.&nbsp; These values sit at the heart of how we work, how we treat our people, represent our business and deliver outstanding events.&nbsp; </p>\n\n<p>&nbsp;</p>\n\n<p>Plus, we offer the following people perks:</p>\n\n<ul>\n\t<li>Free undercover parking in the heart of Broadbeach</li>\n\t<li>Discounted onsite team member café</li>\n\t<li>Flexible work arrangements</li>\n\t<li>Paid parental leave</li>\n\t<li>Discounted food and beverage and accommodation at The Star Entertainment Group properties</li>\n\t<li>Access to health &amp; wellbeing programs</li>\n\t<li>Ongoing learning and development opportunities</li>\n\t<li>Reward &amp; Recognition Program</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>Reaching Earthcheck Master Certification status we are an environmentally conscious and sustainability focused organisation that seeks to continuously educate, support and ensure our team members foster and understand the importance of our environmental stewardship.</p>\n\n<p>&nbsp;</p>\n\n<p><b>The Gold Coast Convention and Exhibition Centre is part of The Star Entertainment Group.</b></p>\n\n<p><b>To apply, please upload your cover letter and resume.</b></p>",
+      "job_description": "<p>At the Gold Coast Convention and Exhibition Centre (GCCEC), technology plays a critical role in both the day-to-day operation of our business and the successful delivery of major conferences, exhibitions and events.</p>\n<br><p>Looking for and IT support role that goes beyond resetting passwords and working through a ticket queue?</p>\n\n<p>We’re looking for an IT Service Operations Analyst to join our IT team and provide high-quality technical support across both environments. One day you might be helping a team member with Microsoft 365 or troubleshooting an endpoint issue; the next, you could be preparing network services for an upcoming event or helping resolve a technical issue while that event is live.</p>\n\n<p>It’s an ideal opportunity for someone with a foundation in IT support who wants to broaden their technical skills, gain exposure to enterprise and event technology, and build their career as part of a modern IT team.</p>\n\n<p>&nbsp;</p>\n\n<p><b>THE ROLE</b></p>\n\n<p>Reporting to the IT Manager and working closely with our Service Operations and Platform Engineering functions, you’ll provide&nbsp;Level 1 and Level 2 IT support&nbsp;to GCCEC team members while also helping deliver IT services for events held at the Centre.</p>\n\n<p>You’ll work across end user support, Microsoft 365, identity and access management, networking and endpoint technologies, while gaining hands-on exposure to the infrastructure and services required to support a busy convention and exhibition venue.</p>\n\n<p>A significant point of difference is&nbsp;event IT delivery. You’ll help prepare and configure IT services for the world class events held at GCCEC, complete readiness checks, deploy services in accordance with established designs and runbooks, and provide technical support when events are underway.&nbsp;</p>\n\n<p>This is a hands-on role where good technical skills matter, but so do customer service, attention to detail and the ability to remain composed when an issue needs to be solved quickly.</p>\n\n<p>&nbsp;</p>\n\n<p><b>What you’ll be doing</b></p>\n\n<ul>\n\t<li>Providing Level 1 and Level 2 support across end user technology, applications, Microsoft 365, identity and collaboration platforms</li>\n\t<li>Managing incidents and service requests from initial contact through to resolution or escalation</li>\n\t<li>Troubleshooting endpoint, application, connectivity and access issues</li>\n\t<li>Assisting with the preparation, configuration and deployment of IT services for conferences and events</li>\n\t<li>Completing pre-event technical readiness checks to make sure services are ready when our clients need them</li>\n\t<li>Providing on-site and remote IT support during live events</li>\n\t<li>Working with networking technologies including wired and wireless connectivity</li>\n\t<li>Following established processes, standards and runbooks to deliver consistent, reliable services</li>\n\t<li>Maintaining accurate support records, asset records, technical documentation and knowledge articles</li>\n\t<li>Identifying recurring issues and opportunities to improve the way we deliver IT services</li>\n\t<li>Working alongside experienced IT professionals and contributing to the continued development of our service management practices</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><b>ABOUT YOU</b></p>\n\n<p>You don’t need to know everything already. We’re looking for someone with a solid technical foundation, a strong customer-service mindset and, importantly, the curiosity and drive to keep developing.</p>\n\n<p>You’ll ideally bring experience in an IT support, Helpdesk or service delivery environment, together with exposure to technologies such as:</p>\n\n<ul>\n\t<li>Windows desktop and server environments</li>\n\t<li>Microsoft 365 and collaboration tools</li>\n\t<li>Active Directory and/or Microsoft Entra ID</li>\n\t<li>Endpoint management</li>\n\t<li>Basic networking, including switching, wireless and connectivity troubleshooting</li>\n</ul>\n\n<p>A tertiary qualification in Information Technology or a related discipline is desirable, although equivalent practical experience is equally relevant.</p>\n\n<p>Experience supporting events, venue technology, or IT service management processes would be an advantage, but isn’t essential.&nbsp;</p>\n\n<p>More importantly, you’ll be someone who communicates well, enjoys helping people, pays attention to the details and can work methodically under pressure. You’ll be comfortable following established processes while also speaking up when you see an opportunity to make something better.</p>\n\n<p>&nbsp;</p>\n\n<p><b>Why join GCCEC?</b></p>\n\n<p>This isn’t your typical IT support environment.</p>\n\n<p>You’ll work in a venue where technology supports both a corporate workplace&nbsp;and live events, giving you exposure to a much broader range of technology and operational scenarios than you might encounter in a conventional Helpdesk role.</p>\n\n<p>You’ll join an IT team that is building a more structured, service-focused operating model, with clear processes, modern technology and opportunities to learn from experienced technical specialists.</p>\n\n<p>For someone looking to establish or accelerate their IT career, the breadth of the environment provides an excellent opportunity to develop skills across&nbsp;end-user computing, Microsoft 365, identity, networking, service management and event technology.</p>\n\n<p>And because we’re an events business, you’ll get to see the outcome of your work first-hand: technology that you helped prepare and support being used to deliver real events for our clients and guests.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Ready for your next step?</strong></p>\n\n<p>If you’re passionate about technology, enjoy solving problems and want an IT role with more variety than the traditional Helpdesk, we’d love to hear from you.</p>\n\n<p>Apply now to join the IT team at the Gold Coast Convention and Exhibition Centre.</p>\n\n<p>&nbsp;</p>\n\n<p><b>WHY WORK WITH US?&nbsp; </b><i>“It’s not what we do, it’s how we do it”!&nbsp;</i></p>\n\n<p>&nbsp;</p>\n\n<p>We pride ourselves on our values of Community, Initiative, Respect, Teamwork and Welcoming.&nbsp; These values sit at the heart of how we work, how we treat our people, represent our business and deliver outstanding events.&nbsp; </p>\n\n<p>&nbsp;</p>\n\n<p>Plus, we offer the following people perks:</p>\n\n<ul>\n\t<li>Free undercover parking in the heart of Broadbeach</li>\n\t<li>Discounted onsite team member café</li>\n\t<li>Flexible work arrangements</li>\n\t<li>Paid parental leave</li>\n\t<li>Discounted food and beverage and accommodation at The Star Entertainment Group properties</li>\n\t<li>Access to health &amp; wellbeing programs</li>\n\t<li>Ongoing learning and development opportunities</li>\n\t<li>Reward &amp; Recognition Program</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>Reaching Earthcheck Master Certification status we are an environmentally conscious and sustainability focused organisation that seeks to continuously educate, support and ensure our team members foster and understand the importance of our environmental stewardship.</p>\n\n<p>Full Australian working rights are required for this position in addition to a probity check.</p>\n\n<p>&nbsp;</p>\n\n<p><b>The Gold Coast Convention and Exhibition Centre is part of The Star Entertainment Group.</b></p>\n\n<p><b>To apply, please upload your cover letter and resume.</b></p>",
       "keywords": [
         "it",
         "service",
@@ -1148,6 +998,26 @@
       ]
     },
     {
+      "job_id": "93745484",
+      "job_title": "IT SYSTEMS & NETWORK ENGINEER",
+      "business_name": "Fibrecycle",
+      "work_type": "Full time",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "",
+      "area": "Helensvale, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93745484",
+      "advertiser_id": "43359605",
+      "posted_date": "2026-08-04T04:01:48Z",
+      "job_description": "<p></p>\n\n<p>At <strong>Kent Consumer Brands APAC</strong>, technology plays a critical role in supporting our manufacturing, warehouse, and distribution operations across the region. We're looking for an experienced <strong>IT Systems &amp; Network Engineer</strong> to join our team and take ownership of our infrastructure, networks, cloud platforms, cybersecurity controls, and end-user computing environments across multiple sites. Based on the Gold Coast, this role offers the opportunity to work across both strategic projects and hands-on technical support, partnering with local teams, global IT teams, and external vendors.</p>\n\n<p><strong>About the Role</strong></p>\n\n<p>Reporting to the Director of IT, you will be responsible for designing, implementing, supporting, securing, and continuously improving our infrastructure and network environment across APAC. You will act as a technical escalation point while helping deliver infrastructure modernisation, cybersecurity initiatives, cloud services, and manufacturing technology projects.</p>\n\n<p><strong>Key Responsibilities</strong></p>\n\n<ul><li>Design, deploy, manage and support enterprise infrastructure across on-premises and cloud environments</li>\n\t<li>Manage servers, storage, backups and disaster recovery solutions</li>\n\t<li>Monitor infrastructure performance, availability and capacity</li>\n\t<li>Support and maintain LAN, WAN, Wi-Fi and internet connectivity across multiple sites</li>\n\t<li>Manage networking equipment including routers, switches, firewalls and wireless infrastructure</li>\n\t<li>Support Microsoft 365 environments and Azure cloud technologies</li>\n\t<li>Partner with operational technology (OT) teams to support manufacturing site infrastructure</li>\n\t<li>Lead and participate in infrastructure, network and technology projects</li>\n\t<li>Identify infrastructure and cybersecurity risks and implement mitigation strategies</li>\n\t<li>Support incident response, threat management and security improvement initiatives</li>\n\t<li>Provide technical expertise and escalation support to the broader IT team</li>\n</ul>\n\n<p>To succeed in this role, you'll bring a combination of strong technical capability, business partnership and problem-solving skills.</p>\n\n<p><strong>Essential Experience &amp; Skills</strong></p>\n\n<ul><li>5+ years' experience supporting enterprise infrastructure environments</li>\n\t<li>5+ years' experience supporting complex network environments</li>\n\t<li>Strong Microsoft 365 administration experience</li>\n\t<li>Experience supporting Microsoft Azure cloud technologies</li>\n\t<li>Strong knowledge of enterprise networking technologies</li>\n\t<li>Experience with VMware or equivalent virtualisation platforms</li>\n\t<li>Experience working across multiple sites and geographically dispersed teams</li>\n\t<li>Strong troubleshooting and analytical skills</li>\n\t<li>Excellent communication and stakeholder engagement skills</li>\n\t<li>Ability to prioritise competing demands and manage projects effectively</li>\n</ul>\n\n<p><strong>Desirable Qualifications &amp; Certifications</strong></p>\n\n<ul><li>Degree in Information Technology, Computer Science, Networking or related discipline</li>\n\t<li>CCNA or equivalent networking certification</li>\n\t<li>Microsoft certifications</li>\n\t<li>VMware certifications</li>\n\t<li>ITIL Foundation certification</li>\n\t<li>Experience supporting manufacturing or industrial environments<strong>&nbsp;</strong></li>\n</ul>\n\n<p><strong>Why Join Us?</strong></p>\n\n<ul><li>Opportunity to make a genuine impact across a regional APAC business</li>\n\t<li>Exposure to both infrastructure and cybersecurity initiatives</li>\n\t<li>Work closely with global IT teams and manufacturing operations</li>\n\t<li>Diverse technology environment spanning cloud, infrastructure, networking and manufacturing systems</li>\n\t<li>Supportive, collaborative culture with opportunities for growth and development</li>\n</ul>\n\n<p><strong>Apply Now</strong></p>\n\n<p>If you're a hands-on IT professional who enjoys solving complex technical challenges while helping drive business performance, we'd love to hear from you.</p>\n\n<p>Apply today and become part of a team that's building reliable, secure and future-focused technology solutions across APAC.</p>\n\n<p><em>Based between Helensvale and Yatala with occasional travel required between sites </em></p>\n\n<p></p>\n\nSee job description\n\n",
+      "keywords": [
+        "it",
+        "systems",
+        "network",
+        "engineer"
+      ]
+    },
+    {
       "job_id": "93743617",
       "job_title": "Cyber Security and/or Software Development Course Coach",
       "business_name": "Equinim College of Technology",
@@ -1563,6 +1433,26 @@
       "job_description": "<p><strong>Technical Lead / Software Architect (.NET / React / Azure) | Permanent | $180,000-$185,000 + Super | Broadbeach, Gold Coast (Hybrid) | AI Agentic | Modernisation Project | Scaling Business </strong></p><p><strong>About the Company</strong></p><p>Our client is a leading travel technology business with ambitious international growth plans and a significant investment in modernising its technology landscape. Operating as an independent technology team, they're embarking on a major transformation to replace a 20-year legacy platform with a modern Microsoft ecosystem that will support the business for years to come.</p><p>With a strategic partnership with Microsoft, the engineering team works closely with Microsoft's own solution architects to shape best practice architecture, leverage emerging technologies and deliver innovative digital products across the travel industry.</p><p>This role would suit someone with extensive experience in a Microsoft environment, combining deep Azure architecture expertise with hands-on .NET development.</p><p><strong>About the Role</strong></p><p>This is a senior individual contributor position that combines technical leadership, software architecture and hands-on engineering. Reporting to the Head of Engineering, you'll own the technical direction for a team of five engineers while partnering closely with the Solution Architect to design scalable, cloud-native solutions.</p><p>You'll spend approximately 70% of your time driving architecture, mentoring engineers and making key technical decisions, with the remaining 30% remaining hands-on across full-stack development.</p><p>A key focus of the role will be designing and operating Azure infrastructure, building scalable API integrations and modern microservices architecture that powers real-time travel booking platforms. You'll also play a leading role in the team's adoption of AI-assisted software engineering, establishing standards and best practices for tools such as Claude Code and GitHub Copilot.</p><p>Working across customer booking platforms, consultant portals and partner applications, you'll help shape the architecture that underpins the next phase of the company's international growth.</p><p><strong>Key Skills</strong></p><ul><li>Extensive experience as a Technical Lead, Lead Software Engineer or Software Architect within a Microsoft environment.</li><li>Deep expertise designing, building and operating Azure infrastructure, including Landing Zones, Bicep (Infrastructure as Code), Container Apps, Networking, Azure API Management, Key Vault and RBAC.</li><li>Strong experience designing scalable cloud-native and microservices architectures.</li><li>Hands-on .NET development experience building REST APIs and modern web applications.</li><li>Experience with React and TypeScript front-end development.</li><li>Strong understanding of API integration patterns, enterprise integration and high-volume transactional systems.</li><li>Experience mentoring engineers through technical leadership, code reviews and engineering best practices.</li><li>Experience with Azure DevOps, GitHub Actions, CI/CD pipelines and DevOps practices.</li><li>Exposure to AI-assisted software engineering tools such as Claude Code, GitHub Copilot or similar.</li><li>Strong understanding of software architecture, scalability, security and engineering quality.</li><li>Experience working within a digital product or technology-led environment.</li><li>Experience with Microsoft Dynamics 365 Business Central will be highly regarded.</li></ul><p><strong>Benefits</strong></p><ul><li>$180,000-$185,000 + Super.</li><li>Permanent leadership opportunity within a growing technology business.</li><li>Hybrid working with three days per week onsite in Broadbeach.</li><li>Opportunity to shape the architecture of a large-scale platform transformation.</li><li>Work directly alongside Microsoft's solution architects through a strategic partnership.</li><li>Modern technology stack including Azure, .NET, React, TypeScript, Business Central and AI engineering tools.</li><li>High-impact role with genuine influence over engineering strategy and technical direction.</li></ul><p>If you're an experienced Technical Lead or Software Architect who enjoys balancing architecture, cloud engineering and hands-on development while mentoring high-performing engineering teams, we'd love to hear from you. Apply now or reach out for a confidential discussion.</p><p><strong>Technical Lead / Software Architect (.NET / React / Azure) | Permanent | $180,000-$185,000 + Super | Broadbeach, Gold Coast (Hybrid) | AI Agentic | Modernisation Project | Scaling Business </strong></p><p> </p>",
       "keywords": [
         "technical"
+      ]
+    },
+    {
+      "job_id": "93517312",
+      "job_title": "Shopify Developer & E-commerce Specialist",
+      "business_name": "Roam Gear",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "$85,000 - $105,000 + Super + Staff Discounts",
+      "area": "Ormeau, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93517312",
+      "advertiser_id": "60475597",
+      "posted_date": "2026-07-23T07:44:10Z",
+      "job_description": "<p>Are you the kind of person who opens a Shopify theme and immediately starts seeing ways to</p><p>make the storefront work harder?<br><br>Or notices a clunky product-page interaction and can't help wanting to fix it?<br><br>You are? Perfect. Keep reading...</p><p><br></p><p>────────────────────────</p><p><br></p><h2><strong>WHAT WERE LOOKING FOR</strong></h2><p><br></p><p><strong>A genuine Shopify specialist</strong> with commercial theme-development experience who cares about how the website helps customers choose, trust and buy.</p><p><strong>A proactive problem-solver and executor</strong> who can take an approved idea from brief to clean, tested release.</p><p><strong>A collaborative professional </strong>who can contribute experience, challenge an approach constructively, and then get the right work over the line.</p><p><br></p><p>────────────────────────</p><p><br></p><h2><strong>NEED TO KNOW</strong></h2><p><br></p><p><strong>Competitive Salary:</strong> $85,000 - $105,000 + Super, based on experience.</p><p><strong>Location:</strong> Ormeau, Gold Coast QLD. This is a full-time, primarily on-site role.</p><p><strong>Role Focus:</strong> Shopify theme development, storefront ownership and e-commerce optimisation from day one.</p><p><strong>Team Discounts:</strong> Save up to 50% on products we stock.</p><p><strong>A Genuine Growth Path:</strong> Start by helping launch our Shopify store, then grow into analytics-led optimisation, Al workflows, internal tools, and new digital sales channels.</p><p><strong>Tools:</strong> Shopify and Google Workspace are central, with modern Al development tools such as Codex, Cursor or Claude Code used where they genuinely improve your workflow.</p><p><strong>Work Rights:</strong> You must already have unrestricted Australian working rights. Sponsorship is not available for this role.</p><p><br></p><h2>────────────────────────</h2><h2><br><strong>ABOUT THE ROLE</strong></h2><p><br></p><p>Substantial work has already gone into a highly customised Roam Gear Shopify store. We are now looking for someone with the technical judgement and follow-through to help finish the important work, get the store ready to launch, and then champion it as a sales channel that keeps improving.</p><p>Your first focus will include completing product-page implementation and conditional logic, refining theme code, building customer-facing features such as an order-tracking page, and safely rolling out approved website changes, features and integrations.</p><p>You will work directly with our Director and Digital Manager, alongside design and marketing. We will provide commercial priorities, structure, copy, design assets and briefs. We want you to bring the Shopify experience needed to turn them into robust, responsive experiences - and to speak up when you see a better, safer or more effective approach.</p><p>We use development or preview themes and a clear approval path. At first, live-theme changes will require Director approval. Once you have shown sound judgement and reliable execution, you will have room to publish routine, low-risk improvements independently.</p><p><br></p><p>────────────────────────</p><p><br></p><h2><strong>HOW THE ROLE GROWS</strong></h2><p><br></p><p><strong>Phase One - Launch: </strong>Finish launch-critical theme and product-page work, implement approved customer journeys, and help us release the store with confidence.</p><p><strong>After Launch - Ownership and Optimisation: </strong>Own ongoing catalogue, product, variant, metafield, collection, navigation and merchandising updates, with support from team members who already know these areas. Use Shopify Analytics and captured data to identify, implement and assess improvements.</p><p><strong>Over Time - New Digital Ground: </strong>Explore AI workflows, lightweight internal applications and new commerce channels such as Cin7 B2B, eBay and Amazon alongside the wider digital team.</p><p><em>Once the foundations are strong, you won't be stuck making the same small theme edits forever. We want you to help us explore what comes next.</em></p><p><br></p><p>────────────────────────</p><p><br></p><h2><strong>THE DAY-TO-DAY</strong></h2><p><br></p><p><strong>Implement and improve</strong> Shopify theme code using Liquid, HTML, responsive CSS and JavaScript.</p><p><strong>Build and refine</strong> product pages, sections, blocks, templates, conditional logic and customer-facing features.</p><p><strong>Maintain</strong> products, variants, metafields, collections, navigation and merchandising as the store moves into ongoing operation.</p><p><strong>Prepare changes</strong> in development or preview themes, test them across devices and key customer journeys, and maintain a safe rollback path.</p><p><strong>Install, configure and validate</strong> Shopify apps, integrations, native features and new sales-channel capabilities.</p><p><strong>Use Shopify Analytics</strong> and practical data capture to understand what is working and where the storefront can improve.</p><p><strong>Use tools such as Codex or Claude</strong> responsibly where they improve speed or quality, while remaining accountable for every change you release.</p><p><br></p><p>────────────────────────</p><p><br></p><h2><strong>ABOUT YOU</strong></h2><p><br></p><p>You have around 3+ years of hands-on commercial Shopify theme-development experience, or equivalent demonstrated capability.</p><p>You can show us 2-3 live Shopify stores and clearly explain exactly what you personally built or changed.</p><p>You are strong in Shopify Liquid, HTML and responsive CSS, with enough JavaScript to read, troubleshoot and safely modify dynamic theme behaviour.</p><p>You understand Online Store 2.0, JSON templates and schema, sections, blocks, snippets, metafields, app blocks, and product, variant and cart behaviour.</p><p>You are comfortable using development or preview themes, version control, structured testing and rollback practices.</p><p>You can take an approved brief through implementation, QA and release with minimal supervision once you understand the business.</p><p>You bring proactive problem-solving and strong execution, communicate clearly, and can challenge an idea respectfully when a better option exists.</p><p><em>Degrees and Shopify certifications are optional. Agency or in-house experience is ideal. Demonstrated capability and execution matters most.</em></p><p><br></p><p>────────────────────────</p><p><br></p><h2><strong>NICE TO HAVE</strong></h2><p><br></p><p>- Proficiency in <strong>Klaviyo Flows</strong> and / or basic EDM template creation.<br><br>- Conversion-rate optimisation using <strong>GA4</strong> or broader e-commerce analytics experience.<br><br>- Experience with <strong>AI-assisted development</strong>, lightweight applications, APIs or automation.<br><br>- Experience with <strong>Cin7 B2B</strong>, <strong>eBay</strong>, <strong>Amazon</strong> or other multichannel commerce platforms.<br><br>- Camping, outdoor or <strong>12V</strong> product knowledge.</p><p><br></p><p>────────────────────────</p><p><br></p><h2><strong>WE'RE KEEN TO SEE YOUR SHOPIFY WORK!</strong></h2><p><br></p><p>Please include links to 2-3 live Shopify stores and tell us exactly what you personally built or changed on each. We care more about what you owned and what you enjoyed about the project.</p><p>This is not compulsory to be successful, but If you're interested, send us an email at <strong><a href=\"mailto:hello@roamgear.com.au\">hello@roamgear.com.au</a></strong> with the subject line: <strong>Your Name | Shopify Store Links</strong></p><p>Finalists may be invited to complete a short paid practical assessment using fictional work, followed by a walkthrough of their approach.</p><p><br></p><p>────────────────────────</p><p><br></p><h2><strong>OUR STORY</strong></h2><p><br></p><p>Roam Gear started small but soon grew beyond just being a brand. It became a community built on authentic conversations, lasting friendships, off-grid living and a shared love of travel and the outdoors.</p><p>We believe nature has a way of recharging the soul. Our mission is to help customers stay out there long enough to feel it. By simplifying off-grid living, we help more people say yes to that extra night under the stars, that morning coffee with a view, or that spontaneous detour off the beaten track.<br><br><strong>The freedom to stay. That's what we create. That's what inspires us.</strong></p><p><br></p><p>────────────────────────</p><p><br></p><h2><strong>YOU'RE INTERESTED? FANTASTIC!</strong></h2><p><br></p><p><strong>We'd love to hear from you!</strong></p><p>Hit<strong> Apply </strong>and send through your resume. Your details will be handled confidentially and respectfully.</p><p>We'll connect directly with candidates who truly resonate with what we're after, and we'll do our best to get back to everyone who applies.</p><p>Cheers for checking us out, and best of luck!</p><p><strong>RG</strong></p>",
+      "keywords": [
+        "shopify",
+        "developer",
+        "commerce",
+        "specialist"
       ]
     },
     {
