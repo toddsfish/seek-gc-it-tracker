@@ -1,505 +1,501 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-15",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-16T06:12:24.645579+10:00",
-  "total_jobs": 69,
+  "scraped_at": "2026-08-15T06:22:53.197656+10:00",
+  "total_jobs": 72,
   "keywords": [
+    {
+      "term": "analyst",
+      "count": 13,
+      "share": 0.1806
+    },
     {
       "term": "manager",
       "count": 13,
-      "share": 0.1884
-    },
-    {
-      "term": "analyst",
-      "count": 12,
-      "share": 0.1739
+      "share": 0.1806
     },
     {
       "term": "it",
       "count": 9,
-      "share": 0.1304
+      "share": 0.125
     },
     {
       "term": "support",
       "count": 9,
-      "share": 0.1304
-    },
-    {
-      "term": "business",
-      "count": 8,
-      "share": 0.1159
+      "share": 0.125
     },
     {
       "term": "engineer",
-      "count": 7,
-      "share": 0.1014
+      "count": 8,
+      "share": 0.1111
     },
     {
       "term": "developer",
+      "count": 8,
+      "share": 0.1111
+    },
+    {
+      "term": "business",
       "count": 7,
-      "share": 0.1014
+      "share": 0.0972
     },
     {
       "term": "software",
       "count": 6,
-      "share": 0.087
+      "share": 0.0833
     },
     {
       "term": "digital",
       "count": 5,
-      "share": 0.0725
+      "share": 0.0694
+    },
+    {
+      "term": "ict",
+      "count": 5,
+      "share": 0.0694
     },
     {
       "term": "administrator",
       "count": 5,
-      "share": 0.0725
+      "share": 0.0694
     },
     {
       "term": "project",
       "count": 4,
-      "share": 0.058
+      "share": 0.0556
     },
     {
       "term": "technical",
       "count": 4,
-      "share": 0.058
+      "share": 0.0556
     },
     {
       "term": "operations",
       "count": 4,
-      "share": 0.058
+      "share": 0.0556
     },
     {
       "term": "officer",
       "count": 4,
-      "share": 0.058
+      "share": 0.0556
     },
     {
       "term": "technician",
       "count": 4,
-      "share": 0.058
+      "share": 0.0556
     },
     {
-      "term": "ict",
+      "term": "systems",
       "count": 4,
-      "share": 0.058
+      "share": 0.0556
     },
     {
       "term": "development",
       "count": 4,
-      "share": 0.058
+      "share": 0.0556
     },
     {
       "term": "specialist",
       "count": 3,
-      "share": 0.0435
-    },
-    {
-      "term": "systems",
-      "count": 3,
-      "share": 0.0435
+      "share": 0.0417
     },
     {
       "term": "product",
       "count": 3,
-      "share": 0.0435
+      "share": 0.0417
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.029
+      "share": 0.0278
     },
     {
       "term": "network",
       "count": 2,
-      "share": 0.029
+      "share": 0.0278
     },
     {
       "term": "php",
       "count": 2,
-      "share": 0.029
+      "share": 0.0278
     },
     {
       "term": "ai",
       "count": 2,
-      "share": 0.029
+      "share": 0.0278
     },
     {
       "term": "platform",
       "count": 2,
-      "share": 0.029
-    },
-    {
-      "term": "deployment",
-      "count": 2,
-      "share": 0.029
-    },
-    {
-      "term": "wsr",
-      "count": 2,
-      "share": 0.029
+      "share": 0.0278
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.029
+      "share": 0.0278
     },
     {
       "term": "solutions",
       "count": 2,
-      "share": 0.029
+      "share": 0.0278
+    },
+    {
+      "term": "deployment",
+      "count": 2,
+      "share": 0.0278
+    },
+    {
+      "term": "wsr",
+      "count": 2,
+      "share": 0.0278
     },
     {
       "term": "health",
       "count": 2,
-      "share": 0.029
+      "share": 0.0278
     },
     {
       "term": "information",
       "count": 2,
-      "share": 0.029
+      "share": 0.0278
     },
     {
       "term": "owner",
       "count": 2,
-      "share": 0.029
+      "share": 0.0278
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.029
+      "share": 0.0278
     },
     {
       "term": "leader",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "accounting",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "intelligence",
-      "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "timetabling",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "examinations",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
+    },
+    {
+      "term": "insights",
+      "count": 1,
+      "share": 0.0139
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "wordpress",
-      "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "burleigh",
-      "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "heads",
-      "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "days",
-      "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "per",
-      "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "week",
-      "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
+    },
+    {
+      "term": "wordpress",
+      "count": 1,
+      "share": 0.0139
+    },
+    {
+      "term": "burleigh",
+      "count": 1,
+      "share": 0.0139
+    },
+    {
+      "term": "heads",
+      "count": 1,
+      "share": 0.0139
+    },
+    {
+      "term": "days",
+      "count": 1,
+      "share": 0.0139
+    },
+    {
+      "term": "per",
+      "count": 1,
+      "share": 0.0139
+    },
+    {
+      "term": "week",
+      "count": 1,
+      "share": 0.0139
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "dotnet",
-      "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
+    },
+    {
+      "term": "dotnet",
+      "count": 1,
+      "share": 0.0139
     },
     {
       "term": "laravel",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
+    },
+    {
+      "term": "salesforce",
+      "count": 1,
+      "share": 0.0139
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "java",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "architecture",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "service",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "ao4",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "api",
       "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "tech",
-      "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
+    },
+    {
+      "term": "tech",
+      "count": 1,
+      "share": 0.0139
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "custodian",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "kingston",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "state",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "workplace",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
+    },
+    {
+      "term": "infrastructure",
+      "count": 1,
+      "share": 0.0139
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "apps",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "m365",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "evolve",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
+    },
+    {
+      "term": "test",
+      "count": 1,
+      "share": 0.0139
     },
     {
       "term": "seo",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "ui",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "ux",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "landing",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "page",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "leadify",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     },
     {
       "term": "technology",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0139
     }
   ],
   "jobs": [
-    {
-      "job_id": "93994783",
-      "job_title": "Senior Business Analyst - Business Intelligence",
-      "business_name": "Travel + Leisure Co. International",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93994783",
-      "advertiser_id": "62299334",
-      "posted_date": "2026-08-15T00:05:20Z",
-      "job_description": "<p><strong>About the role</strong></p><p>Reporting to the Director - Financial Planning &amp; Analysis, you'll develop and maintain business intelligence reporting, deliver KPI-driven insights, support financial modelling and forecasting, and partner with stakeholders to drive smarter business decisions.</p><p><strong>How You'll Shine</strong></p><ul><li><p>Develop and maintain dashboards and reports using Tableau, Power BI, and Oracle Fusion</p></li><li><p>Deliver meaningful KPI reporting and business insights</p></li><li><p>Support budgeting, forecasting, financial modelling, and variance analysis</p></li><li><p>Partner with business stakeholders to improve reporting, processes, and data management</p></li><li><p>Provide reporting expertise across financial systems and business intelligence platforms</p></li><li><p>Support bonus plan calculations and related business analysis</p></li><li><p>Drive continuous improvement through innovative reporting solutions<br></p></li></ul><p><strong>What You'll Bring</strong></p><ul><li><p>Degree in Finance, Business Analysis, Data Science, Statistics, Economics, Engineering, or a related discipline</p></li><li><p>5+ years' experience in Business Intelligence, Data Analytics, Business Analysis, or similar roles</p></li><li><p>Advanced Tableau and/or Power BI reporting skills</p></li><li><p>Strong Oracle Fusion and financial reporting experience</p></li><li><p>Advanced Excel and financial modelling capability</p></li><li><p>Strong analytical, problem-solving, and stakeholder management skills</p></li><li><p>High attention to detail with the ability to manage competing priorities<br></p></li></ul><p><strong>How You'll Be Rewarded</strong></p><ul><li><p>Professional development and career advancement opportunities</p></li><li><p>Discounted hotel stays across Australia, Fiji, New Zealand</p></li><li><p>Birthday Leave</p></li><li><p>Monthly, Quarterly and Yearly Recognition Programs</p></li></ul><p><strong>About us</strong></p><p>Travel + Leisure Co. is the world's leading vacation ownership and travel membership company, with a dynamic and growing portfolio of resort, travel club, and lifestyle travel brands. Our dedicated associates help the company achieve its mission to put the world on vacation. Innovation and growth keep our work interesting and fun. Every day is a chance to learn something new and turn vacation inspiration into exceptional experiences for millions of travelers worldwide.</p>",
-      "keywords": [
-        "business",
-        "analyst",
-        "intelligence"
-      ]
-    },
     {
       "job_id": "93993325",
       "job_title": "Computer Systems Administrator - Kingston State College",
@@ -1789,6 +1785,80 @@
         "ai",
         "automation",
         "specialist"
+      ]
+    },
+    {
+      "job_id": "93363703",
+      "job_title": "Principal Insights Analyst",
+      "business_name": "G8 Education Limited",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "",
+      "area": "Varsity Lakes, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93363703",
+      "advertiser_id": "22363191",
+      "posted_date": "2026-07-16T05:44:47Z",
+      "job_description": "<p>Nurturing the greatness in every child - and in you.</p>\n<p>&nbsp;</p>\n<p><strong>Join one of Australia’s Largest Leading Early Education Providers!&nbsp;&nbsp;</strong></p>\n<p>At G8 Education, we’re on a mission to shape the future! With 350+ early education and care centres under 21 brands, our 7,000+ dedicated team members nurture over 40,000 children every day.&nbsp;&nbsp;</p>\n<p>As an ASX listed growth company, we’re committed to empowering, rewarding, and supporting every team member – from our centre educators to our leadership and support team.&nbsp;&nbsp;</p>\n<p><strong>The Opportunity</strong>&nbsp;</p>\n<p>We are looking for a Principal Insights Analyst to join our Finance team.</p>\n<p>Reporting to the Head of Data and Analytics, you'll play a key role in transforming complex data into meaningful insights that influence strategic business decisions across the organisation. As the most senior individual contributor within the analytics team, you'll provide technical leadership, mentor analysts and help shape the future direction of our analytics capability.</p>\n<p>While this role is advertised as a Principal Insights Analyst, we also welcome applications from experienced Senior Insights Analysts.</p>\n<p><strong>Key Responsibilities </strong></p>\n<ul>\n<li>Lead strategic analysis and deliver actionable insights that support business decision making.</li>\n<li>Translate complex data into clear, compelling stories for executive and operational stakeholders.</li>\n<li>Partner with teams across Finance, Marketing, Operations and Digital to solve business challenges through data.</li>\n<li>Drive market and competitor analysis to identify trends and growth opportunities.</li>\n<li>Improve reporting efficiency through automation and scalable analytical frameworks.</li>\n<li>Develop and maintain engaging Power BI dashboards and reporting solutions.</li>\n<li>Mentor and coach analysts, promoting best practice and continuous improvement across the analytics team.</li>\n<li>Support data governance initiatives, ensuring high standards of data quality and consistency.</li>\n</ul>\n<p><strong>About You</strong>&nbsp;</p>\n<p>You will be a commercially minded analytics professional who enjoys influencing business outcomes through data. You're naturally curious, highly collaborative and confident engaging with stakeholders at all levels.</p>\n<p>You will also bring:</p>\n<ul>\n<li>Extensive experience in analytics, business intelligence or insights roles.</li>\n<li>Experience using Power BI, Python, SQL, PySpark, Microsoft Fabric, or equivalent tools to analyse data, automate workflows, and deliver reporting and analytical solutions.</li>\n<li>Advanced Excel modelling capabilities.</li>\n<li>Experience working with large, complex datasets and building automated reporting solutions.</li>\n<li>Exceptional communication and data storytelling skills.</li>\n<li>Strong stakeholder management and influencing abilities.</li>\n<li>Experience mentoring or coaching analysts.</li>\n<li>A focus on continuous improvement, data quality and governance.</li>\n<li>Tertiary qualifications in Data Science, Mathematics, Statistics or a related discipline will be highly regarded.</li>\n<li><em>Hold a valid working with children check or willingness to obtain upon commencement. </em></li>\n</ul>\n<p><strong>Benefits at G8</strong></p>\n<ul>\n<li>Competitive salary package.</li>\n<li>Eligibility to participate in our Short-Term Incentive program which is an annualised bonus each year.</li>\n<li>Hybrid working conditions with 3 days in office and 2 from home.</li>\n<li>Monthly RDO.</li>\n<li>Located in Varsity Lakes.</li>\n<li>Career development opportunities as part of a large ASX-listed company&nbsp;</li>\n<li>Access a 50% discount on early education and childcare fees at any G8 Education Centre.&nbsp;</li>\n<li>Exclusive access to our G8 Rewards Program with benefits across more than 600 retailers, exclusive cash discounts and more!</li>\n</ul>\n<p><em>Find out more here: </em>G8 Education</p>\n<p><strong>United by purpose. Guided by values.</strong></p>\n<p>At G8 Education, we’re proud to celebrate, support, and inspire our 10,000+ team members as they make a lasting difference in the lives of children and their own.</p>\n<p>Driven by our purpose “to nurture the greatness in every child to grow, thrive and learn” and guided by our values, we’re shaping bright futures for children, families, communities, and each other.</p>\n<p><strong>Our values:</strong> Safety First &amp; Always, Thriving Together, Owning the Outcome, Being the Difference, Building Bright Futures.</p>\n<p><strong>Our Recruitment Process</strong></p>\n<p><em><strong>Recruitment Process<br></strong></em></p>\n<p>Our recruitment process includes police checks and verification of qualifications and right-to-work status.</p>\n<p>Please note that the advertised closing date is indicative only, and applications may close earlier. We encourage you to apply as soon as possible.</p>\n<p><em>G8 Education is a committed advocate for child protection, safety and wellbeing. We have a zero tolerance for any form of child abuse or harm. The safety and wellbeing of children will always be our priority, and all team members are expected to embrace this shared commitment.</em></p>",
+      "keywords": [
+        "insights",
+        "analyst"
+      ]
+    },
+    {
+      "job_id": "93360870",
+      "job_title": "Systems Engineer - (ICT Infrastructure Engineer)",
+      "business_name": "Propelum Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "$95,000 – $100,000 per year",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93360870",
+      "advertiser_id": "62440960",
+      "posted_date": "2026-07-16T04:51:29Z",
+      "job_description": "<p>Systems Engineer - Gold Coast (ICT Infrastructure Engineer)</p><p>This is an opportunity to join a small, highly skilled engineering team where you'll take ownership of enterprise infrastructure.</p><p><strong>Full Job Description</strong></p><p><strong>ICT Infrastructure Engineer</strong><br><strong>Gold Coast | Enterprise Infrastructure | Hybrid Cloud | Windows | Linux<br></strong><br>Looking for something more than another BAU infrastructure role?<br>We're representing a well-established global technology company that delivers mission-critical communications and enterprise infrastructure solutions supporting essential government services across Australia.<br><br><strong>You'll be working across technologies including:</strong></p><ul><li><p>Windows Server</p></li><li><p>Linux</p></li><li><p>VMware virtualisation</p></li><li><p>Kubernetes</p></li><li><p>Microsoft SQL Server &amp; PostgreSQL</p></li><li><p>Enterprise Storage</p></li><li><p>Hybrid Cloud</p></li><li><p>Backup &amp; Disaster Recovery</p></li><li><p>Infrastructure Monitoring</p></li></ul><p><strong>We're looking for someone with:</strong></p><ul><li><p>Minimum&nbsp;<strong>5 years' commercial ICT infrastructure engineering experience</strong></p></li><li><p>Strong Windows Server administration</p></li><li><p>Linux experience</p></li><li><p>VMware (or similar virtualisation)</p></li><li><p>Enterprise storage and backup technologies</p></li><li><p>SQL Server and/or PostgreSQL</p></li><li><p>Excellent troubleshooting and communication skills</p></li></ul><p>Experience with Azure, Kubernetes, Docker, PowerShell or enterprise monitoring platforms will be highly regarded.<br>&nbsp;&nbsp;<br><strong>Why consider this opportunity?</strong></p><ul><li><p>Work on enterprise infrastructure supporting nationally critical services</p></li><li><p>Join a collaborative, technically capable engineering team</p></li><li><p>Exposure to modern infrastructure and cloud technologies</p></li><li><p>Long-term career opportunity with ongoing technical development</p></li><li><p>Gold Coast location with a supportive engineering culture</p></li></ul><p>Applicants must be eligible to complete a National Police Check and obtain customer security clearances where required.&nbsp; PR or citizenship is required.<br><br><strong>Interested?</strong><br>To request a&nbsp;<strong>detailed Job Description</strong>&nbsp;or submit your application, please email:&nbsp;<strong><a href=\"mailto:recruitment@propelum.com.au\">recruitment@propelum.com.au</a><br></strong><br>All enquiries and applications will be handled in the strictest confidence.</p>",
+      "keywords": [
+        "systems",
+        "engineer",
+        "ict",
+        "infrastructure"
+      ]
+    },
+    {
+      "job_id": "93359431",
+      "job_title": "Salesforce Developer",
+      "business_name": "Localsearch",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "",
+      "area": "Robina, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93359431",
+      "advertiser_id": "20750014",
+      "posted_date": "2026-07-16T03:48:32Z",
+      "job_description": "<p><strong>Who are we?</strong></p><p>At Localsearch, we've been empowering Australian businesses with top-tier digital marketing solutions since 1993. Today, we stand as one of the largest digital marketing powerhouses in Australia, helping over 300,000 businesses grow online. Based in the heart of Robina, just steps from Robina Town Centre, our modern office is equipped with everything you need to thrive - including an on-site café with barista-made coffee, high-tech tools, and a collaborative, fun culture where your skills will shine!</p><p></p><p><strong>What will you do?</strong></p><p>You'll design, build and extend robust solutions across the Salesforce platform to meet business objectives. You'll develop custom functionality using Apex and Lightning Web Components, deliver integrations between Salesforce and surrounding systems, and get hands-on with next-generation capabilities including Agentforce, Data Cloud and Einstein/AI features. You'll also apply modern, AI-assisted development practices - including AI-powered CLI tooling and MCP integrations - to accelerate delivery while upholding quality, security and platform standards.</p><p></p><ul>\n<li>Design, develop, test and deploy custom Salesforce solutions using Apex, LWC and declarative automation (Flows)</li>\n<li>Build and maintain integrations between Salesforce and external systems using REST/SOAP APIs, Platform Events and middleware</li>\n<li>Model, ingest and activate data within Salesforce Data Cloud</li>\n<li>Apply AI-assisted development workflows using AI-powered CLIs and MCP servers to accelerate build, testing and documentation</li>\n<li>Perform code review, unit testing and QA to ensure secure, maintainable, performant code</li>\n<li>Manage source-driven development, version control and CI/CD deployment across sandboxes and production</li>\n<li>Translate requirements from Business Analysts and stakeholders into technical designs and solution documentation</li>\n</ul><p></p><p><strong>Who are you &amp; what will you bring?</strong></p><p>You're a hands-on Salesforce Developer who's just as comfortable deep in Apex as you are exploring how AI tooling can accelerate your build. You bring strong technical fundamentals, sound judgement on when to code vs. configure, and genuine curiosity about where the platform is heading.</p><p></p><p><strong>Skills &amp; Experience:</strong></p><p><strong>Mandatory</strong></p><ul>\n<li>Minimum 3–5 years’ hands-on Salesforce development experience across Sales and/or Service Cloud</li>\n<li>Strong proficiency in Apex — classes, triggers, and asynchronous processing (Batch, Queueable, Scheduled, Future)</li>\n<li>Proven experience building Lightning Web Components (LWC); Aura framework experience</li>\n<li>Strong command of SOQL and SOSL, and deep understanding of the Salesforce data and sharing/security model</li>\n<li>Declarative automation with Flows and a sound judgement of when to code vs. configure</li>\n<li>Salesforce CLI (sf/sfdx), source-driven development and scratch orgs</li>\n<li>Version control with Git and experience with CI/CD tooling (DevOps Center, Gearset, Copado or equivalent)</li>\n<li>Integration experience using REST/SOAP APIs, Platform Events, Named Credentials and external services</li>\n<li>Solid understanding of governor limits, bulkification and performance optimisation</li>\n<li>Apex unit testing, maintaining code coverage, and sandbox/deployment management</li>\n</ul><p><strong>New-world Salesforce &amp; AI</strong></p><ul>\n<li>Experience or strong exposure to Agentforce — building agents, topics, actions and integrating with Apex/Flow</li>\n<li>Prompt engineering using Prompt Builder and the Einstein/Models (LLM) API</li>\n<li>Salesforce Data Cloud — data streams, Data Model Objects (DMOs), identity resolution, calculated insights and segmentation/activation</li>\n<li>Practical use of AI-powered developer CLIs (e.g. Claude Code, Cursor, GitHub Copilot) to build, refactor and document</li>\n<li>Understanding and use of Model Context Protocol (MCP) servers to connect AI tooling to Salesforce and other data sources</li>\n<li>Exposure to workflow automation and orchestration tooling (e.g. n8n, MuleSoft or equivalent)</li>\n</ul><p><strong>Advantageous</strong></p><ul>\n<li>Previous experience working in AWS infrastructure and Integrations</li>\n<li>Previous experience working with Zuora (billing) and Salesforce in an integrated environment</li>\n<li>Knowledge of query languages such as SQL, data tools and reporting platforms</li>\n<li>Proficiency in the Atlassian suite (Jira, Confluence) or equivalent tools</li>\n<li>Previous large project and/or system migration experience</li>\n<li>Exposure to collaboration with external vendors</li>\n<li>Experience with MarTech platforms (e.g. Marketing Cloud)</li>\n<li>Demonstrated ability to work with users, stakeholders, BAs, QA and leadership</li>\n<li>Ability to work autonomously</li>\n</ul><p></p><p><strong>Why it's great to work with us!</strong></p><ul>\n<li>Barista-made coffee daily at our on-site café - because great work deserves great coffee</li>\n<li>Prime location in Robina, opposite Robina Town Centre, perfect for lunch breaks or errands</li>\n<li>Fun &amp; supportive culture - we celebrate wins, support each other, and challenge complacency</li>\n<li>Access to the latest tools &amp; training - stay ahead in the fast-moving world of Salesforce and AI</li>\n<li>Flexible work-life balance - we know life happens, and we support balance</li>\n<li>Career growth &amp; mentorship - access our internal mentoring program and upskilling opportunities</li>\n<li>Comprehensive wellness program supporting mental, financial and physical health, including free access to an onsite exercise physiologist</li>\n<li>Employee perks - paid parental leave, free parking, gym discounts, 24/7 retail discounts and cashback offers, and special rewards for birthdays and tenure</li>\n<li>We celebrate success BIG! Annual company-wide conference, recognition programs, and team events to reward high performers</li>\n</ul><p></p><p><strong>APPLY NOW!</strong></p><p><strong></strong></p><p>At Localsearch we are committed to providing an inclusive workplace and are proud to be an equal-opportunity employer. We celebrate, support, and thrive on diversity. We seek to recruit, develop, and retain the most talented people based on merit, competence, and performance. Our goal is to represent, at all job levels, the clients we serve.</p>",
+      "keywords": [
+        "salesforce",
+        "developer"
+      ]
+    },
+    {
+      "job_id": "93358628",
+      "job_title": "Test Analyst",
+      "business_name": "Localsearch",
+      "work_type": "Full time",
+      "job_type": "Testing & Quality Assurance",
+      "pay_range": "",
+      "area": "Robina, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93358628",
+      "advertiser_id": "20750014",
+      "posted_date": "2026-07-16T03:26:41Z",
+      "job_description": "<p><strong>Who are we?</strong></p><p>At Localsearch, we've been empowering Australian businesses with top-tier digital marketing solutions since 1993. Today, we stand as one of the largest digital marketing powerhouses in Australia, helping over 300,000 businesses grow online. Based in the heart of Robina, just steps from Robina Town Centre, our modern office is equipped with everything you need to thrive - including an on-site café with barista-made coffee, high-tech tools, and a collaborative, fun culture where your skills will shine!</p><p></p><p><strong>What will you do?</strong></p><p>As our Test Analyst, you'll plan and execute testing activities across Localsearch's technology platforms,  including our Salesforce environment, to ensure the quality, stability and reliability our business relies on. </p><p></p><ul>\n<li>End-to-end testing of Localsearch systems and databases, following our core testing methodologies</li>\n<li>Identification of test conditions using a range of test design techniques</li>\n<li>Production, validation and management of manual test cases and scripts</li>\n<li>Development of test strategies and associated test plans</li>\n<li>Integration of test plans and methodologies into overall project and service delivery</li>\n<li>Management and preparation of test data</li>\n<li>Defect management and change management activities as required</li>\n<li>Liaison with developers, system and network administrators, database administrators, clients, project managers and end users</li>\n<li>Development, maintenance and execution of automated test scripts using tools such as Tricentis Testim</li>\n<li>Use of AI-assisted tools (e.g. Claude) to support testing and other work tasks</li>\n</ul><p></p><p><strong>Who are you &amp; what will you bring?</strong></p><p><strong>Required:</strong></p><ul>\n<li>A minimum of 3 years' experience in software testing</li>\n<li>Extensive experience in both functional and non-functional testing activities</li>\n<li>Knowledge of testing types such as black box, regression, systems integration, exploratory and acceptance testing</li>\n<li>Thorough knowledge of software testing methodologies</li>\n<li>Experience working in an agile development environment</li>\n<li>Experience using defect tracking tools such as JIRA and Confluence</li>\n<li>API testing experience</li>\n<li>Strong SQL query skills</li>\n</ul><p></p><p><strong>Nice to have:</strong></p><ul>\n<li>Experience with Salesforce and/or Zuora highly regarded</li>\n<li>A Bachelor degree in Computer Science, Software Engineering or equivalent highly regarded</li>\n<li>ISTQB Foundation Level Certification or equivalent</li>\n<li>Familiarity with source control management tools such as GitLab</li>\n<li>Experience with automated testing tools, e.g. Tricentis Testim or an equivalent test automation platform</li>\n<li>Familiarity with AI-assisted tools (e.g. Claude)</li>\n</ul><p></p><p><strong>Why it's great to work with us!</strong></p><ul>\n<li>Barista-made coffee daily at our on-site café - because great work deserves great coffee.</li>\n<li>Prime location in Robina, opposite Robina Town Centre, perfect for lunch breaks or errands.</li>\n<li>Fun &amp; supportive culture - we celebrate wins, support each other, and challenge complacency.</li>\n<li>Access to the latest tools &amp; training - stay ahead in the fast-moving world of digital marketing.</li>\n<li>Flexible work-life balance - we know life happens, and we support balance.</li>\n<li>Career growth &amp; mentorship - access our internal mentoring program and upskilling opportunities.</li>\n<li>We offer a comprehensive program supporting mental, financial and physical wellness, including free access to an onsite exercise physiologist.</li>\n<li>Employee perks! Paid parental leave, free parking, gym discounts, 24/7 retail discounts and cashback offers, and special rewards for birthdays and tenure.</li>\n<li>We celebrate success BIG! Annual company-wide conference, recognition programs, and team events to reward high performers.</li>\n</ul><p></p><p><strong>APPLY NOW!</strong></p><p>At Localsearch we are committed to providing an inclusive workplace and are proud to be an equal-opportunity employer. We celebrate, support, and thrive on diversity. We seek to recruit, develop, and retain the most talented people based on merit, competence, and performance. Our goal is to represent, at all job levels, the clients we serve.</p><p></p>",
+      "keywords": [
+        "test",
+        "analyst"
       ]
     }
   ]
