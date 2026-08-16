@@ -1,458 +1,483 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-16",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-17T06:11:29.112946+10:00",
-  "total_jobs": 64,
+  "scraped_at": "2026-08-16T06:12:24.645579+10:00",
+  "total_jobs": 69,
   "keywords": [
     {
       "term": "manager",
       "count": 13,
-      "share": 0.2031
+      "share": 0.1884
     },
     {
       "term": "analyst",
-      "count": 10,
-      "share": 0.1562
+      "count": 12,
+      "share": 0.1739
     },
     {
       "term": "it",
       "count": 9,
-      "share": 0.1406
+      "share": 0.1304
     },
     {
       "term": "support",
       "count": 9,
-      "share": 0.1406
+      "share": 0.1304
     },
     {
       "term": "business",
-      "count": 7,
-      "share": 0.1094
+      "count": 8,
+      "share": 0.1159
     },
     {
       "term": "engineer",
       "count": 7,
-      "share": 0.1094
+      "share": 0.1014
     },
     {
       "term": "developer",
       "count": 7,
-      "share": 0.1094
+      "share": 0.1014
     },
     {
       "term": "software",
       "count": 6,
-      "share": 0.0938
+      "share": 0.087
+    },
+    {
+      "term": "digital",
+      "count": 5,
+      "share": 0.0725
+    },
+    {
+      "term": "administrator",
+      "count": 5,
+      "share": 0.0725
     },
     {
       "term": "project",
       "count": 4,
-      "share": 0.0625
+      "share": 0.058
     },
     {
       "term": "technical",
       "count": 4,
-      "share": 0.0625
+      "share": 0.058
     },
     {
       "term": "operations",
       "count": 4,
-      "share": 0.0625
-    },
-    {
-      "term": "technician",
-      "count": 4,
-      "share": 0.0625
+      "share": 0.058
     },
     {
       "term": "officer",
       "count": 4,
-      "share": 0.0625
+      "share": 0.058
     },
     {
-      "term": "digital",
+      "term": "technician",
       "count": 4,
-      "share": 0.0625
+      "share": 0.058
     },
     {
       "term": "ict",
       "count": 4,
-      "share": 0.0625
-    },
-    {
-      "term": "administrator",
-      "count": 4,
-      "share": 0.0625
+      "share": 0.058
     },
     {
       "term": "development",
       "count": 4,
-      "share": 0.0625
+      "share": 0.058
+    },
+    {
+      "term": "specialist",
+      "count": 3,
+      "share": 0.0435
     },
     {
       "term": "systems",
       "count": 3,
-      "share": 0.0469
+      "share": 0.0435
     },
     {
       "term": "product",
       "count": 3,
-      "share": 0.0469
+      "share": 0.0435
+    },
+    {
+      "term": "data",
+      "count": 2,
+      "share": 0.029
     },
     {
       "term": "network",
       "count": 2,
-      "share": 0.0312
+      "share": 0.029
     },
     {
       "term": "php",
       "count": 2,
-      "share": 0.0312
+      "share": 0.029
+    },
+    {
+      "term": "ai",
+      "count": 2,
+      "share": 0.029
+    },
+    {
+      "term": "platform",
+      "count": 2,
+      "share": 0.029
     },
     {
       "term": "deployment",
       "count": 2,
-      "share": 0.0312
+      "share": 0.029
     },
     {
       "term": "wsr",
       "count": 2,
-      "share": 0.0312
+      "share": 0.029
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.0312
+      "share": 0.029
     },
     {
       "term": "solutions",
       "count": 2,
-      "share": 0.0312
+      "share": 0.029
     },
     {
       "term": "health",
       "count": 2,
-      "share": 0.0312
+      "share": 0.029
     },
     {
       "term": "information",
       "count": 2,
-      "share": 0.0312
+      "share": 0.029
     },
     {
       "term": "owner",
       "count": 2,
-      "share": 0.0312
+      "share": 0.029
     },
     {
-      "term": "specialist",
+      "term": "web",
       "count": 2,
-      "share": 0.0312
+      "share": 0.029
     },
     {
       "term": "leader",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "accounting",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "intelligence",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
+    },
+    {
+      "term": "advisor",
+      "count": 1,
+      "share": 0.0145
+    },
+    {
+      "term": "timetabling",
+      "count": 1,
+      "share": 0.0145
+    },
+    {
+      "term": "examinations",
+      "count": 1,
+      "share": 0.0145
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0156
-    },
-    {
-      "term": "data",
-      "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0156
-    },
-    {
-      "term": "broadbeach",
-      "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "wordpress",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "heads",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "days",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "per",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "week",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
+    },
+    {
+      "term": "broadbeach",
+      "count": 1,
+      "share": 0.0145
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "dotnet",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "laravel",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
-      "term": "ai",
+      "term": "automation",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "java",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "architecture",
       "count": 1,
-      "share": 0.0156
-    },
-    {
-      "term": "platform",
-      "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "service",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "ao4",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "api",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "tech",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "custodian",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "kingston",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "state",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
+    },
+    {
+      "term": "workplace",
+      "count": 1,
+      "share": 0.0145
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "apps",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "m365",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "evolve",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.0156
-    },
-    {
-      "term": "web",
-      "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "seo",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "ui",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "ux",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "landing",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "page",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "leadify",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     },
     {
       "term": "technology",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0145
     }
   ],
   "jobs": [
@@ -992,6 +1017,25 @@
       ]
     },
     {
+      "job_id": "93794071",
+      "job_title": "Digital Workplace Platform Lead",
+      "business_name": "City of Gold Coast",
+      "work_type": "Full time",
+      "job_type": "Management",
+      "pay_range": "$138,896-$156,527 p/a plus superannuation",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93794071",
+      "advertiser_id": "16652581",
+      "posted_date": "2026-08-05T23:44:06Z",
+      "job_description": "<ul> <li><strong>Full Time / 10-day fortnight / 40 hours per week</strong></li> <li> <strong>Salary Range from: </strong>$138,896 to $156,527 per annum, plus superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG1958/assets/31852407\">Digital Workplace Platform Lead</a> </li> </ul> <p><strong>About the role </strong></p> <p>We are seeking an experienced Digital Workplace Platform Lead to provide strategic and operational leadership across our end-user computing (EUC) and digital workplace technologies.</p> <p>In this role, you will own the end-to-end lifecycle of workplace platforms and services that enable our workforce to be productive, secure, and connected. This includes mobility solutions, PCs and tablets, peripherals, enterprise printing, audiovisual systems, smart meeting rooms, and hardware standards across the organisation.</p> <p>You will lead and mentor a team of technical specialists, set the strategic roadmap for digital workplace technologies, and drive continuous improvement in user experience, performance, security, and cost efficiency.</p> <p><strong>We’re looking for people who have: </strong></p> <ul> <li>Bachelor’s degree in IT, Computer Science, or a related discipline or relevant experience</li> <li>7+ years’ experience in digital workplace or end-user computing leadership roles</li> <li>Proven experience leading high-performing technical teams in structured, ITIL-aligned environments</li> <li>Strong experience with application packaging and automated deployments at scale</li> <li>Demonstrated success managing EUC technologies in medium to large enterprise environments</li> <li>Deep knowledge of modern workplace platforms including Windows 10/11, Microsoft 365, Teams, OneDrive, Intune/Endpoint Manager, and SCCM</li> <li>Experience defining and maintaining hardware standards, lifecycle processes, and asset management practices</li> <li>Proven ability to lead EUC projects from initiation through to delivery</li> <li>Experience supporting enterprise printing, AV systems, and smart meeting room technologies</li> <li>Solid understanding of IT service management frameworks and tools (e.g. ITIL, ServiceNow)</li> <li>Strong stakeholder engagement and communication skills, with the ability to translate technical concepts into business outcomes</li> <li>Project leadership experience within Agile, ITIL, or hybrid delivery frameworks</li> </ul> <p> </p> <p><strong>Be part of shaping the Gold Coast’s future </strong></p> <p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p> <p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p> <ul> <li>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations</li> <li>Personal and professional development courses</li> <li>Access to 350+ fitness facilities through Fitness Passport</li> <li>4 free confidential counselling sessions a year for you or an immediate family member</li> <li>1 free nutritionist and financial advice session per year </li> </ul> <p>We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p> <p><strong>How to apply</strong></p> <p>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p> <p><strong>Contact Person</strong> Ashley Shannon</p> <p><strong>Contact Email</strong> <a href=\"mailto:ashannon@goldcoast.qld.gov.au\">ashannon@goldcoast.qld.gov.au</a></p> <p><strong>Closing Date</strong> Sunday 16th August 2026 @11:59pm AEDT</p> <p> </p> <p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
+      "keywords": [
+        "digital",
+        "workplace",
+        "platform"
+      ]
+    },
+    {
       "job_id": "93781801",
       "job_title": "Digital Operations Manager",
       "business_name": "Department of Health - Queensland",
@@ -1182,6 +1226,27 @@
       "keywords": [
         "application",
         "custodian"
+      ]
+    },
+    {
+      "job_id": "93708654",
+      "job_title": "Advisor and Data Analyst, Timetabling and Examinations",
+      "business_name": "Bond University",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "$85,707 per annum plus 12% super",
+      "area": "Robina, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93708654",
+      "advertiser_id": "20551487",
+      "posted_date": "2026-08-02T23:52:38Z",
+      "job_description": "<p><strong>As Australia’s first private non-profit university, Bond University seeks to be recognised internationally as a leading independent university, imbued with a spirit to innovate, a commitment to influence and a dedication to inspire tomorrow’s professionals who share a personalised and transformational student experience.</strong></p><p><br></p><p><strong>Advisor and Data Analyst, Timetabling and Examinations</strong><br><strong>Student Business Services&nbsp;</strong><br><strong>Full time, Continuing Appointment&nbsp;</strong><br><strong>Position Reference No:</strong>&nbsp;<strong>184666763</strong></p><p><br></p><p><strong>Join Australia’s top university for teaching* and enjoy staff benefits including</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free staff car parking</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 36.75 hour standard work week</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Access to flexible work/work from home arrangements#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 18/26 weeks of parental leave#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Salary packaging options for FBT and Non-FBT items#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17.5% of base salary leave loading</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Staff wellbeing program</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free &amp; Confidential Employee Assistance Program available for all staff</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Study assistance for staff and dependents#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Corporate health and finance discounts</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Medical Centre and Counselling Services</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Sports Centre including gym, fitness classes and pool#</p><p><br></p><p><strong>About the Position:&nbsp;</strong></p><p>The Student Business Services Department aims to deliver efficient and professional administrative services to students and staff for activities associated with the enrolment, examination, and graduation of students in conjunction with a demonstrated commitment to ongoing process review and improvement.</p><p><br></p><p>Reporting to the Manager, Timetabling &amp; Examinations, the Advisor and Data Analyst will work as part of a team on the timely and accurate production of class and examination timetables for each semester of study (three times per year) and advising students in the class registration process. This involves data analysis and interpretation of course information and requirements into effective timetables, as well as providing advice and customer service to staff and students in resolving their queries regarding class and examination timetables and subsequent class registration.</p><p><strong>&nbsp;</strong></p><p><strong>About the Person:&nbsp; <br></strong>Ideally, the successful candidate will have:</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A degree level qualification from a recognised educational institution.&nbsp;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrated knowledge of timetabling systems, student class registration systems and student management systems.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Problem solving, high-level time management and organisational skills.&nbsp;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrated high level analytical and problem-solving skills including attention to detail</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well-developed computer skills particularly in the use of databases and student management systems.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The ability to build relationships with a wide range of internal and external stakeholders</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A great work ethic and feel confident in progressing multiple tasks.</p><p><br></p><p><strong>Salary details: <br></strong>The salary for this full-time position (36.75 hours per week) commences at $85,707.07 per annum plus 12% superannuation.</p><p><br></p><p><strong>Further information: <br></strong>Position related enquiries can be directed to Todd Rogers, Senior Manager, Business Services on <a href=\"tel:(07) 5595 5531\">(07) 5595 5531</a> or <a href=\"mailto:torogers@bond.edu.au\" target=\"_blank\">torogers@bond.edu.au</a></p><p><br></p><p><strong>How to apply for this position:</strong><br>For further details regarding this appointment, please reference the <a href=\"https://bond.edu.au/sites/default/files/2026-08/PD%20Advisor%20and%20Data%20Analyst%2C%20Timetabling%20and%20Examinations%20August%202026.v2.pdf\" target=\"_blank\">Position Description and Selection Criteria</a></p><p><br></p><p>Click&nbsp;<em>Apply Now</em>&nbsp;and&nbsp;<em>Create New Account</em>&nbsp;to get started. You can:</p><ul><li><p>Upload your Resume – your account will be created automatically, or</p></li><li><p>Manually enter your details to set up your account.</p></li></ul><p>Please ensure your application includes:</p><ul><li><p>A current resume</p></li><li><p>A cover letter addressing the Selection Criteria outlined in the Position Description above</p></li></ul><p><br></p><p>For current Bond University staff, apply directly via <a href=\"https://hrconnect.bond.edu.au/\" target=\"_blank\">People Connect</a>, log in with staff credentials, from the Home dashboard select Careers, select the role and apply.</p><p><br><br>If you require any assistance with your application submission, please visit <a href=\"https://bond.edu.au/about-bond/careers-bond/applying-jobs-bond\" target=\"_blank\">Applying for jobs at Bond</a>.</p><p><strong>&nbsp;</strong></p><p><strong>Applications close: 11:59pm, Sunday 16 August 2026</strong></p><p><br></p><p><em>Pre-employment checks: Appointment is subject to satisfactory pre-employment checks (including working rights verification, reference checks and a certified copy of your highest qualification). In line with the National Higher Education Code to Prevent and Respond to Gender-based Violence 2025, preferred candidates must complete a Gender-Based Violence (GBV) Declaration, and any offer of employment will be conditional upon the University’s review of the declaration. For more information, please visit our website via this link: </em><a href=\"https://bond.edu.au/our-university/careers-at-bond/applying-for-jobs-at-bond\" target=\"_blank\"><em>Applying for Jobs at Bond</em></a></p><p><strong>&nbsp;</strong></p><p><strong>Conditions of employment are offered under a Bond Workplace Agreement (BWA).</strong></p><p><br></p><p>Bond University is an equal opportunity employer, and we encourage our students and staff to respect individuality, inclusiveness and diversity.&nbsp; In line with Bond University’s values, people from diverse backgrounds, women, Aboriginal and Torres Strait Islander people, people who identify as LGBTIQ+, and people with a disability are encouraged to apply for positions at the University<strong>.</strong></p><p><br></p><p>Please advise the Talent Acquisition Team if you require any reasonable accommodations to assist you at anytime during the recruitment process.</p><p><strong>&nbsp;</strong></p><p><strong>For more information, visit </strong><a href=\"https://bond.edu.au/our-university/supporting-diversity-at-bond#:~:text=At%20Bond%2C%20we%20foster%20diversity%20and%20inclusion%20through,students%20and%20staff%20from%20more%20than%2090%20countries.\" target=\"_blank\">Supporting diversity at Bond | Bond University | Gold Coast, Queensland, Australia</a></p><p><a href=\"https://bond.edu.au/privacy\" target=\"_blank\">Bond University Privacy Policy</a></p><p>#Eligibility criteria or membership fees apply<br>*Australian Financial Review’s Best Universities Ranking 2024</p>",
+      "keywords": [
+        "advisor",
+        "data",
+        "analyst",
+        "timetabling",
+        "examinations"
       ]
     },
     {
@@ -1669,6 +1734,61 @@
         "business",
         "development",
         "manager"
+      ]
+    },
+    {
+      "job_id": "93389403",
+      "job_title": "Business Analyst",
+      "business_name": "CKA Yatala Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "$75,000 – $85,000 per year",
+      "area": "Yatala, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93389403",
+      "advertiser_id": "63786337",
+      "posted_date": "2026-07-17T04:47:13Z",
+      "job_description": "<p><strong>CKA Windows &amp; Doors, Yatala</strong> | <strong>Full-time role | $75,000 - 85,000 annual salary</strong></p><p>CKA Windows &amp; Doors is a growing commercial aluminium windows and doors business working across residential and commercial projects throughout&nbsp;South-East&nbsp;Queensland.&nbsp;</p><p><strong>Role Overview</strong></p><p>The Business Analyst will work closely with cross-functional teams to identify business needs, document requirements, analyse processes, and support the delivery of technology solutions that improve business performance, system functionality, and user outcomes.</p><p><strong>Key Responsibilities</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Engage with business users and stakeholders to elicit, analyse, and document business and system requirements.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Review current business processes, procedures, systems, and workflows to identify inefficiencies and improvement opportunities.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Translate business needs into clear functional specifications, user stories, process maps, and system requirements for technical teams.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work with stakeholders to support solution design and delivery.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use data and process modelling techniques to define current state and future state business processes.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support project planning activities, including scope definition, resource estimates, risk identification, implementation planning, and system integration.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assist with system testing, user acceptance testing, defect management, and quality assurance activities.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prepare user documentation, training materials, procedures, and support guides for new or changed systems.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Provide advice and act as a central reference point for business and system-related decisions throughout the project lifecycle.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support change management activities to ensure successful adoption of new technology solutions.</p><p><strong>Required Skills and Experience</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Preferred demonstrated experience as a Business Analyst, Business Systems Analyst, or similar role.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong ability to gather, document, and validate business requirements with diverse stakeholders.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience preparing functional specifications, business process models, use cases, user stories, and acceptance criteria.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understanding software development lifecycle methodologies, including Agile and/or Waterfall approaches.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong analytical, problem-solving, communication, and facilitation skills.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ability to work collaboratively with technical and non-technical stakeholders.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience with system testing, user acceptance testing, and implementation support.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; High attention to detail and ability to manage competing priorities in a project environment.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience with the Microsoft ecosystem including SharePoint, Power BI and Power Automate.</p><p><strong>Qualifications</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor’s degree or higher qualification in Information Technology, Computer Science, Business Information Systems, Business Analysis, or a related discipline is preferred.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience working in manufacturing, construction, or a related industry is advantageous.</p>",
+      "keywords": [
+        "business",
+        "analyst"
+      ]
+    },
+    {
+      "job_id": "93379380",
+      "job_title": "Web Administrator",
+      "business_name": "Rapid LED Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Web Development & Production",
+      "pay_range": "$85,800 per year",
+      "area": "Upper Coomera, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93379380",
+      "advertiser_id": "41050745",
+      "posted_date": "2026-07-16T22:33:53Z",
+      "job_description": "<p>Rapid LED Pty Ltd have an excellent opportunity for a full-time Web Administrator to join our team.</p><p>The successful candidate will be responsible for:</p><ul><li><p>Designing, building, maintaining and continually improving the company's production websites and internal web applications that run our daily logistics operations — freight quoting, booking, dispatch, delivery tracking, warehouse labelling and operational reporting — keeping them reliable and responsive as the needs of our dispatch, warehouse and delivery teams change.</p></li><li><p>Installing, configuring and administering web server software and cloud hosting for our Python (Flask) and Node.js (Express) web applications, including deployments, uptime and health monitoring, and performance tuning.</p></li><li><p>Assessing and specifying the software and hardware needed to keep the web systems running and to resolve operational problems, and installing, configuring and integrating the required applications and tools.</p></li><li><p>Configuring and maintaining the connectivity that links the web systems — HTTPS/SSL, cross-origin access, single sign-on, server-to-server API connectivity, and the network links to on-site label printers.</p></li><li><p>Administering and maintaining the PostgreSQL databases that support these web applications, including schema changes, data migrations, backups and data-integrity controls.</p></li><li><p>Administering, maintaining, enhancing and troubleshooting the REST API integrations between our web applications and external platforms — shipping carriers, ERP, mapping and communication services — including webhooks.</p></li><li><p>Implementing and maintaining web-application security controls — access control, rate limiting and denial-of-service protection, security headers and CSRF protection — monitoring the web systems for errors, suspicious activity and access issues, and reporting security incidents where required.</p></li><li><p>Monitoring website traffic, usage and performance, and reporting on the reliability and efficient use of the web systems and applications.</p></li><li><p>Installing, supporting, troubleshooting and replacing label printers, barcode scanners and other operational equipment used with the company's web-based warehouse systems.</p></li><li><p>Developing and maintaining automated data-synchronisation and reporting jobs and continuous-integration (CI) pipelines that keep the web systems up to date.</p></li><li><p>Providing first-line technical support to internal users and troubleshooting software and hardware problems related to the websites and web applications, and producing technical documentation.</p></li></ul><p><br></p><p>Applicants for this position should:</p><ul><li><p>Have relevant formal qualifications in information technology.</p></li><li><p>Have at least 1 year of relevant full-time experience, in addition to their formal qualifications.</p></li><li><p>In some cases, 3–5 years of relevant full-time experience may be considered in place of formal qualifications.</p></li><li><p>Have practical skills in web development and administration — including Python and/or JavaScript/Node.js, web server administration and cloud deployment, PostgreSQL/SQL database administration, REST API integration, web networking and security, monitoring, and version control with Git.</p></li></ul><p><br></p><p><strong>Remuneration</strong></p><p>$85,800 per annum plus superannuation.</p><p><strong>Applications open</strong></p><p>This position is open to applications and expressions of interest for a minimum 28 days from the date of publication.</p>",
+      "keywords": [
+        "web",
+        "administrator"
+      ]
+    },
+    {
+      "job_id": "93378993",
+      "job_title": "AI Automation Specialist",
+      "business_name": "VERVE Fitness",
+      "work_type": "Contract/Temp",
+      "job_type": "Engineering - Software",
+      "pay_range": "$75 – $90 per hour",
+      "area": "Upper Coomera, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93378993",
+      "advertiser_id": "46716527",
+      "posted_date": "2026-07-16T21:08:09Z",
+      "job_description": "<p><strong>Make ten people faster, not one dashboard prettier.</strong></p><p>VERVE Fitness is one of Australia's fastest growing commercial and home gym equipment brands. We're profitable, we run lean, and we're further down the AI road than almost any business our size: autonomous marketing agents, AI customer service, a company work OS, scheduled agents doing real jobs every day. The plumbing exists. The gap is people.</p><p>Our finance, sales and marketing teams are busy people with real work piling up, and most of them use a fraction of what's already built for them. We need someone whose whole job is closing that gap: sit next to a real person, understand the work they hate, automate it with AI tools, and, this is the part most people fail at, make sure they're still using it a month later.</p><p><strong>What you'll actually do</strong></p><ul><li><p><strong>Embed with named people, one at a time.</strong> Finance, sales, marketing, and the CEO's own workflows. You watch how they work, find the hours being wasted, and delete those hours.</p></li><li><p><strong>Build small and sharp.</strong> Python scripts, API integrations (email, CRM, ERP, spreadsheets), Claude-powered workflows. We already have a large working codebase of automations to build on; you extend the estate, you don't rebuild it.</p></li><li><p><strong>Train and embed.</strong> Teach non technical people to use AI tools properly. Your wins are measured in their adoption, not your output. A perfect tool nobody opens counts as zero.</p></li><li><p><strong>Kill things.</strong> Every automation you ship has usage telemetry and a review date. If it isn't used, you kill it and learn why. We've had tools rot before; your job includes making sure they don't.</p></li></ul><p><strong>You're probably right for this if:</strong></p><ul><li><p>You're an operator technologist, not a software engineer: strong Python and API skills, but your instinct is to fix a workflow, not to architect a platform.</p></li><li><p>You use Claude, GPT or similar daily and know how to turn \"AI could probably do this\" into a thing that runs every morning without being babysat.</p></li><li><p>You're patient and likeable with non technical people. A finance officer who's nervous about AI has to enjoy working with you, or nothing you build survives.</p></li><li><p>You measure yourself in hours deleted and weekly active users, and you're comfortable being judged that way.</p></li></ul><p><strong>The deal</strong></p><ul><li><p>$600 to $750/day depending on experience, 3 days/week on the Gold Coast, potentially expandable to 4-5 days, 3-month initial engagement.</p></li><li><p>If the queue is real and the adoption numbers are real, we'll talk about a permanent role ($90k to $120k + super). If four weeks of good work clears the backlog, we part as friends. We're telling you that upfront because it's the truth.</p></li><li><p>Direct access to the CEO, who is himself a heavy AI user. You will not spend your days explaining what an API is to your boss.</p></li></ul><p><strong>How to apply</strong></p><p>Send a CV plus a short note describing one automation you built that a non-technical person still uses today: what it replaced, how you know they still use it, and what you'd do differently. That second question matters more than your CV.</p>",
+      "keywords": [
+        "ai",
+        "automation",
+        "specialist"
       ]
     }
   ]
