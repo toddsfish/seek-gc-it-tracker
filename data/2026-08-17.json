@@ -1,529 +1,478 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-17",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-18T06:16:05.542455+10:00",
-  "total_jobs": 66,
+  "scraped_at": "2026-08-17T06:11:29.112946+10:00",
+  "total_jobs": 64,
   "keywords": [
     {
       "term": "manager",
-      "count": 14,
-      "share": 0.2121
-    },
-    {
-      "term": "support",
-      "count": 10,
-      "share": 0.1515
+      "count": 13,
+      "share": 0.2031
     },
     {
       "term": "analyst",
-      "count": 9,
-      "share": 0.1364
+      "count": 10,
+      "share": 0.1562
     },
     {
       "term": "it",
       "count": 9,
-      "share": 0.1364
+      "share": 0.1406
+    },
+    {
+      "term": "support",
+      "count": 9,
+      "share": 0.1406
     },
     {
       "term": "business",
       "count": 7,
-      "share": 0.1061
+      "share": 0.1094
     },
     {
       "term": "engineer",
       "count": 7,
-      "share": 0.1061
+      "share": 0.1094
     },
     {
       "term": "developer",
       "count": 7,
-      "share": 0.1061
+      "share": 0.1094
     },
     {
       "term": "software",
       "count": 6,
-      "share": 0.0909
-    },
-    {
-      "term": "technical",
-      "count": 5,
-      "share": 0.0758
-    },
-    {
-      "term": "operations",
-      "count": 5,
-      "share": 0.0758
+      "share": 0.0938
     },
     {
       "term": "project",
       "count": 4,
-      "share": 0.0606
+      "share": 0.0625
+    },
+    {
+      "term": "technical",
+      "count": 4,
+      "share": 0.0625
+    },
+    {
+      "term": "operations",
+      "count": 4,
+      "share": 0.0625
     },
     {
       "term": "technician",
       "count": 4,
-      "share": 0.0606
+      "share": 0.0625
     },
     {
       "term": "officer",
       "count": 4,
-      "share": 0.0606
+      "share": 0.0625
     },
     {
       "term": "digital",
       "count": 4,
-      "share": 0.0606
+      "share": 0.0625
     },
     {
       "term": "ict",
       "count": 4,
-      "share": 0.0606
+      "share": 0.0625
     },
     {
       "term": "administrator",
       "count": 4,
-      "share": 0.0606
-    },
-    {
-      "term": "product",
-      "count": 4,
-      "share": 0.0606
+      "share": 0.0625
     },
     {
       "term": "development",
       "count": 4,
-      "share": 0.0606
+      "share": 0.0625
     },
     {
       "term": "systems",
       "count": 3,
-      "share": 0.0455
+      "share": 0.0469
+    },
+    {
+      "term": "product",
+      "count": 3,
+      "share": 0.0469
     },
     {
       "term": "network",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0312
     },
     {
       "term": "php",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0312
     },
     {
       "term": "deployment",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0312
     },
     {
       "term": "wsr",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0312
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0312
     },
     {
       "term": "solutions",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0312
     },
     {
       "term": "health",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0312
     },
     {
       "term": "information",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0312
     },
     {
       "term": "owner",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0312
     },
     {
       "term": "specialist",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0312
     },
     {
       "term": "leader",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "accounting",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
-      "term": "system",
+      "term": "intelligence",
       "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "zoho",
-      "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "user",
-      "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "data",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "wordpress",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "heads",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "days",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "per",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "week",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "dotnet",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "laravel",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "ai",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "java",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "architecture",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "service",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "ao4",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "api",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "tech",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "custodian",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "kingston",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "state",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "apps",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "m365",
       "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "industry",
-      "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "equipment",
-      "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "evolve",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "writer",
-      "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "machinery",
-      "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "seo",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "ui",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "ux",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "landing",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "page",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "leadify",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     },
     {
       "term": "technology",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0156
     }
   ],
   "jobs": [
     {
-      "job_id": "94017568",
-      "job_title": "Technical Writer – Machinery & Operations",
-      "business_name": "Stacked Farm",
-      "work_type": "Contract/Temp",
-      "job_type": "Technical Writing",
-      "pay_range": "",
-      "area": "Arundel, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94017568",
-      "advertiser_id": "39488667",
-      "posted_date": "2026-08-17T06:09:28Z",
-      "job_description": "<h2><strong>Help us make complex machinery simple to operate.</strong></h2><p><br></p><p>Stacked Farm designs, builds and operates highly automated indoor vertical farms, using proprietary technology to control the journey from seed to finished product.</p><p>Our next major farm in Melbourne takes that technology to another level. We’re looking for a Technical Writer to help make the machinery behind it simple to operate, maintain and troubleshoot.</p><p>In 2025, Stacked Farm was recognised by <strong>TIME and Statista, the Australian Financial Review, InnovationAus and the global FoodTech 500</strong> for our technology, innovation and sustainability.</p><h2><strong>The Opportunity</strong></h2><p>This is a <strong>six-month fixed term contract</strong> working alongside our Engineering, Operations, Projects, Compliance, P&amp;C, WH&amp;S and Training teams.</p><p>Your mission:</p><p>Capture what our teams know and turn it into documentation that helps people operate, maintain and troubleshoot our machinery with confidence.</p><p>You’ll create and improve Operation and Maintenance manuals, machinery guides, SOPs, troubleshooting material, preventative maintenance documentation and quick-reference guides.</p><p>You won’t be starting from scratch. We already have engineering drawings, technical information, existing documentation and experienced people who know our systems inside out. We need you to ask the right questions, bring structure to that knowledge and turn it into documentation people can actually use.</p><p>This is a hands-on role based primarily at our Arundel facility, with some flexibility for hybrid work where it meets operational requirements.</p><h2><strong>What You’ll Do</strong></h2><ul><li><p>Create and improve Operation and Maintenance manuals, machinery guides, SOPs and preventative maintenance documentation.</p></li><li><p>Spend time on the floor understanding how our machinery and production processes actually work.</p></li><li><p>Work collaborative with engineers, technicians and operators to capture their knowledge.</p></li><li><p>Turn complex technical information, drawings and specifications into clear, practical instructions.</p></li><li><p>Develop troubleshooting guides, quick-reference material, diagrams and flowcharts.</p></li><li><p>Review existing documentation, identify gaps and establish practical document-control and version-management standards.</p></li><li><p>Test documentation with the people who use it and improve it based on feedback.</p></li><li><p>Work closely with our compliance team to support training, onboarding and knowledge transfer.</p></li></ul><h2><strong>About You</strong></h2><p>You don’t need to know our machinery on day one. We care more about your ability to learn quickly, ask smart questions and turn complicated information into documentation that is clear, accurate and easy to follow.</p><p>You’ll ideally need:</p><ul><li><p>Experience writing technical manuals, SOPs, procedures, training material or operational documentation.</p></li><li><p>Excellent writing, editing and proofreading skills.</p></li><li><p>A knack for simplifying complex or incomplete information.</p></li><li><p>Confidence working with engineers, technicians, operators and other subject-matter experts.</p></li><li><p>Excellent attention to detail, organisation and the ability to manage your own workload.</p></li><li><p>Experience with document control, templates or version management.</p></li></ul><p>Experience interpreting engineering drawings, specifications or schematics would be useful. Experience in machinery, manufacturing, automation, engineering, food production or another technical environment would also be valuable.</p><p><strong>Don’t tick every box? Apply anyway.</strong><br>We’re not looking for a perfect CV. If you’re a strong technical writer, documentation specialist, engineer, operations professional or come from an adjacent technical field and think you could do this job well, we’d still love to hear from you.</p><h2><strong>Why Stacked Farm?</strong></h2><ul><li><p><strong>Work on genuinely interesting technology.</strong> Our teams design and build proprietary automation and machinery for a completely different way of growing food.</p></li><li><p><strong>See your work in action.</strong> You’ll work directly with the machinery and the people operating it.</p></li><li><p><strong>Own something meaningful.</strong> Farm teams will use what you create every day.</p></li><li><p><strong>Help us scale.</strong> The documentation standards you build will support Melbourne and future Stacked Farm facilities.</p></li><li><p><strong>Take on a defined six-month mission.</strong> Come in, get under the hood, build something valuable and leave a lasting impact.</p></li></ul><h2><strong>Apply Now</strong></h2><p>If you enjoy figuring out how things work and making them easier for other people to understand, we’d love to hear from you.</p><p>Send us your CV and, if you have them, examples of technical documentation you’ve produced. Shortlisted candidates will complete a practical writing exercise.</p>",
-      "keywords": [
-        "technical",
-        "writer",
-        "machinery",
-        "operations"
-      ]
-    },
-    {
-      "job_id": "94015050",
-      "job_title": "Senior Product Manager - Industry & Equipment",
-      "business_name": "carsales",
+      "job_id": "93994783",
+      "job_title": "Senior Business Analyst - Business Intelligence",
+      "business_name": "Travel + Leisure Co. International",
       "work_type": "Full time",
-      "job_type": "Product Management & Development",
+      "job_type": "Business/Systems Analysts",
       "pay_range": "",
-      "area": "Gold Coast QLD",
+      "area": "Bundall, Gold Coast QLD",
       "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94015050",
-      "advertiser_id": "2762928",
-      "posted_date": "2026-08-16T23:22:56Z",
-      "job_description": "<div>\n<strong>Company Description</strong><br>\n</div>\n<div>\n<p><strong>Are you ready to be a big part of something big?</strong></p>\n<p>At&nbsp;<strong>Machines4U&nbsp;</strong>machinery&nbsp;part of carsales, we’re all about making buying and selling a great experience. We’ve been evolving with the new economy to help people choose how they move today and tomorrow.</p>\n<p>When it comes to your career, we want to<strong> </strong>offer meaningful opportunities that empower you to make a lasting impact. But for that to happen, we strive to feel small, small enough to stay agile, learn across teams, and connect authentically with each other.</p>\n<p>With a vision to be the global leader in online vehicle marketplaces, we’re transforming how people buy and sell across the world. We discover new ideas and bring them to life. We continue to grow, and we continue to evolve and we’re not afraid to take bold steps to get there.</p>\n<p>We embrace hybrid working combining the flexibility of remote work with the energy and connection of in-person collaboration. We champion flexibility and offer a range of policies and leave options to support your wellbeing.</p>\n<p><strong>What’s on offer</strong></p>\n<ul>\n<li>Recognition as one of Australia’s Best Workplaces™ by Great Place to Work®, a Family Friendly Workplace, a WORK180 endorsed employer.</li>\n<li>A highly engaged, collaborative team where you’ll learn from exceptional talent.</li>\n<li>24 weeks paid parental leave for primary caregivers, four weeks for secondary caregivers, and six weeks paid gender-affirming care leave.</li>\n<li>Regular hackathons, continuous learning opportunities, and wellbeing initiatives that support your mental, emotional, and physical health.</li>\n</ul>\n</div>\n<div>\n<strong>Job Description</strong><br>\n</div>\n<div>\n<p><strong>What&nbsp;you’ll&nbsp;be doing:&nbsp;</strong></p>\n<ul>\n<li>Lead the product vision: shape&nbsp;strategy and deliver experiences that drive engagement, growth and&nbsp;customer value.&nbsp;</li>\n<li>Drive channel performance: maximise the buyer and seller&nbsp;experience and commercial impact through optimisation,&nbsp;experimentation&nbsp;and strong ownership of targets.&nbsp;</li>\n<li>Discover and shape new opportunities: identify emerging needs and opportunities, design product solutions and deliver them to market to unlock growth.&nbsp;</li>\n<li>Validate ideas at speed: run experiments and tests to rapidly improve key metrics and outcomes.&nbsp;</li>\n<li>Turn data into decisions: synthesise&nbsp;customer, product and market insights into clear actions.&nbsp;</li>\n<li>Drive cross-squad alignment: manage&nbsp;dependencies and deliver outcomes with cross functional teams.&nbsp;</li>\n<li>Build strong partnerships: Work with teams, vendors, and partners to&nbsp;deliver effectively.&nbsp;</li>\n<li>Influence at the highest level: define and communicate compelling product strategies to senior stakeholders.&nbsp;</li>\n</ul>\n</div>\n<div>\n<strong>Qualifications</strong><br>\n</div>\n<div>\n<p>We’re looking for an experienced,&nbsp;hands-on&nbsp;Product Manager&nbsp;with a proven track record of turning ideas into reality. You thrive in ambiguity, enjoy solving complex problems, and are confident using data to test and validate your instincts.&nbsp;</p>\n<ul>\n<li>Proven experience building products from the ground up, taking ideas from concept to launch.&nbsp;</li>\n<li>Experience in product management, product design, or a commercially focused product role.&nbsp;</li>\n<li>Shows natural curiosity and originality, confidently questioning norms and approaching ideas from fresh perspectives.&nbsp;</li>\n<li>A strong product toolkit, knowing when to apply the right tools, frameworks, and processes for the problem at hand.&nbsp;</li>\n<li>Demonstrated success working cross‑functionally, influencing stakeholders and driving change beyond your immediate team.&nbsp;</li>\n</ul>\n<p><strong>We know not everyone will meet every requirement, and that’s okay. If you’re excited about the role and believe you can make a difference, we’d love to hear from you.</strong></p>\n</div>\n<div>\n<strong>Additional Information</strong><br>\n</div>\n<div>\n<p><strong>A few other things we want you to know...</strong></p>\n<ul>\n<li>As an equal opportunity employer, Machines4U and carsales welcomes applications from individuals of all backgrounds, identities, abilities, and life experiences. We are committed to fostering a diverse and inclusive workplace where everyone feels valued and supported.</li>\n<li>If you have a disability or require adjustments to participate fully in the recruitment process, please let us know - we’re here to support you.</li>\n<li>We understand the importance of work-life balance and offer flexible working arrangements, including part-time options. If you’d like to explore this, just ask during the process.</li>\n<li>We’re also a proud Circle Back Initiative employer, which means we commit to responding to every applicant.</li>\n<li>Successful candidates joining the Machines4U and carsales team will need to complete a National Police Record check and must have full-time Australian working rights.</li>\n</ul>\n<p><strong>So&nbsp;come&nbsp;and&nbsp;join&nbsp;our&nbsp;team&nbsp;-&nbsp;because&nbsp;every&nbsp;role&nbsp;is&nbsp;a&nbsp;big&nbsp;role&nbsp;in&nbsp;our&nbsp;plans&nbsp;to&nbsp;go&nbsp;big.</strong></p>\n</div>",
+      "url": "https://www.seek.com.au/job/93994783",
+      "advertiser_id": "62299334",
+      "posted_date": "2026-08-15T00:05:20Z",
+      "job_description": "<p><strong>About the role</strong></p><p>Reporting to the Director - Financial Planning &amp; Analysis, you'll develop and maintain business intelligence reporting, deliver KPI-driven insights, support financial modelling and forecasting, and partner with stakeholders to drive smarter business decisions.</p><p><strong>How You'll Shine</strong></p><ul><li><p>Develop and maintain dashboards and reports using Tableau, Power BI, and Oracle Fusion</p></li><li><p>Deliver meaningful KPI reporting and business insights</p></li><li><p>Support budgeting, forecasting, financial modelling, and variance analysis</p></li><li><p>Partner with business stakeholders to improve reporting, processes, and data management</p></li><li><p>Provide reporting expertise across financial systems and business intelligence platforms</p></li><li><p>Support bonus plan calculations and related business analysis</p></li><li><p>Drive continuous improvement through innovative reporting solutions<br></p></li></ul><p><strong>What You'll Bring</strong></p><ul><li><p>Degree in Finance, Business Analysis, Data Science, Statistics, Economics, Engineering, or a related discipline</p></li><li><p>5+ years' experience in Business Intelligence, Data Analytics, Business Analysis, or similar roles</p></li><li><p>Advanced Tableau and/or Power BI reporting skills</p></li><li><p>Strong Oracle Fusion and financial reporting experience</p></li><li><p>Advanced Excel and financial modelling capability</p></li><li><p>Strong analytical, problem-solving, and stakeholder management skills</p></li><li><p>High attention to detail with the ability to manage competing priorities<br></p></li></ul><p><strong>How You'll Be Rewarded</strong></p><ul><li><p>Professional development and career advancement opportunities</p></li><li><p>Discounted hotel stays across Australia, Fiji, New Zealand</p></li><li><p>Birthday Leave</p></li><li><p>Monthly, Quarterly and Yearly Recognition Programs</p></li></ul><p><strong>About us</strong></p><p>Travel + Leisure Co. is the world's leading vacation ownership and travel membership company, with a dynamic and growing portfolio of resort, travel club, and lifestyle travel brands. Our dedicated associates help the company achieve its mission to put the world on vacation. Innovation and growth keep our work interesting and fun. Every day is a chance to learn something new and turn vacation inspiration into exceptional experiences for millions of travelers worldwide.</p>",
       "keywords": [
-        "product",
-        "manager",
-        "industry",
-        "equipment"
+        "business",
+        "analyst",
+        "intelligence"
       ]
     },
     {
@@ -1390,27 +1339,6 @@
       "keywords": [
         "business",
         "analyst"
-      ]
-    },
-    {
-      "job_id": "93571634",
-      "job_title": "Business System Support/ ZOHO User",
-      "business_name": "HOMEMAX ACCOUNTING SERVICES PTY LTD",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "$35 – $50 per hour Depending on the experience",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/93571634",
-      "advertiser_id": "63802119",
-      "posted_date": "2026-07-27T04:37:04Z",
-      "job_description": "<p><strong>Job Summary:</strong>We are seeking a skilled and detail-oriented Zoho Business System Support Specialist to join our team. In this role, you will provide ongoing support, maintenance, and development for our Zoho ecosystem, ensuring our business processes run smoothly and efficiently. You will work closely with internal teams to understand requirements, implement solutions, and troubleshoot issues as they arise.</p><p><strong>Key Responsibilities:</strong></p><ul><li><p>Provide day-to-day technical support for Zoho applications (Zoho CRM, Zoho Projects, Zoho Forms, etc.).</p></li><li><p>Configure and customize Zoho modules, workflows, and automation to meet business needs.</p></li><li><p>Troubleshoot and resolve issues related to data integrity, user access, and system performance.</p></li><li><p>Collaborate with team members to gather requirements and translate them into Zoho solutions.</p></li><li><p>Maintain and update Zoho integrations.</p></li><li><p>Train and support end-users on best practices and new features.</p></li><li><p>Monitor system logs and performance metrics to proactively identify and resolve potential issues.</p></li><li><p>Document processes, configurations, and changes for future reference.</p></li></ul><p><strong>Qualifications:</strong></p><ul><li><p>Proven experience with Zoho CRM, and other Zoho products.</p></li><li><p>Strong understanding of database concepts, data structures, and relational databases.</p></li><li><p>Experience with Zoho Flow, Zoho Creator, and Zoho Deluge scripting is a plus.</p></li><li><p>Familiarity with API integrations and webhooks.</p></li><li><p>Strong problem-solving and analytical skills.</p></li><li><p>Excellent communication and interpersonal skills.</p></li><li><p>Ability to work independently and manage multiple priorities.</p></li></ul><p><strong>Preferred Skills:</strong></p><ul><li><p>Experience with Zoho One or Zoho Business Suite.</p></li><li><p>Knowledge of SQL or other database query languages.</p></li><li><p>Basic understanding of web development (HTML, CSS, JavaScript) for customizations.</p></li><li><p>Experience with automation tools and workflow optimization.</p></li></ul><p><br>If you are passionate about Zoho and enjoy solving complex business problems, we’d love to hear from you!</p>",
-      "keywords": [
-        "business",
-        "system",
-        "support",
-        "zoho",
-        "user"
       ]
     },
     {
