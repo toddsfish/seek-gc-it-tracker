@@ -1,514 +1,506 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-19",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-20T06:16:47.176805+10:00",
-  "total_jobs": 62,
+  "scraped_at": "2026-08-19T06:13:21.230633+10:00",
+  "total_jobs": 63,
   "keywords": [
     {
       "term": "it",
       "count": 11,
-      "share": 0.1774
+      "share": 0.1746
     },
     {
-      "term": "analyst",
-      "count": 10,
-      "share": 0.1613
+      "term": "manager",
+      "count": 11,
+      "share": 0.1746
     },
     {
       "term": "support",
       "count": 10,
-      "share": 0.1613
+      "share": 0.1587
     },
     {
-      "term": "manager",
-      "count": 10,
-      "share": 0.1613
+      "term": "analyst",
+      "count": 9,
+      "share": 0.1429
     },
     {
       "term": "business",
       "count": 7,
-      "share": 0.1129
+      "share": 0.1111
     },
     {
       "term": "developer",
       "count": 7,
-      "share": 0.1129
+      "share": 0.1111
     },
     {
       "term": "engineer",
       "count": 6,
-      "share": 0.0968
+      "share": 0.0952
     },
     {
       "term": "software",
       "count": 6,
-      "share": 0.0968
+      "share": 0.0952
     },
     {
       "term": "technical",
       "count": 5,
-      "share": 0.0806
+      "share": 0.0794
     },
     {
       "term": "technician",
       "count": 5,
-      "share": 0.0806
+      "share": 0.0794
     },
     {
       "term": "officer",
       "count": 4,
-      "share": 0.0645
+      "share": 0.0635
     },
     {
       "term": "administrator",
       "count": 4,
-      "share": 0.0645
+      "share": 0.0635
     },
     {
       "term": "product",
       "count": 4,
-      "share": 0.0645
+      "share": 0.0635
+    },
+    {
+      "term": "development",
+      "count": 4,
+      "share": 0.0635
     },
     {
       "term": "project",
       "count": 3,
-      "share": 0.0484
-    },
-    {
-      "term": "development",
-      "count": 3,
-      "share": 0.0484
+      "share": 0.0476
     },
     {
       "term": "network",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0317
     },
     {
       "term": "php",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0317
     },
     {
       "term": "ai",
       "count": 2,
-      "share": 0.0323
-    },
-    {
-      "term": "deployment",
-      "count": 2,
-      "share": 0.0323
-    },
-    {
-      "term": "wsr",
-      "count": 2,
-      "share": 0.0323
+      "share": 0.0317
     },
     {
       "term": "service",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0317
+    },
+    {
+      "term": "deployment",
+      "count": 2,
+      "share": 0.0317
+    },
+    {
+      "term": "wsr",
+      "count": 2,
+      "share": 0.0317
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0317
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0317
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0317
     },
     {
       "term": "solutions",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0317
     },
     {
       "term": "ict",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0317
     },
     {
       "term": "health",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0317
     },
     {
       "term": "information",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0317
     },
     {
       "term": "systems",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0317
     },
     {
       "term": "owner",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0317
     },
     {
       "term": "specialist",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0317
     },
     {
       "term": "leader",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "accounting",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "system",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "zoho",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "user",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "data",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "wordpress",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "heads",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "days",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "per",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "week",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "dotnet",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "laravel",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "java",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "architecture",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "ao4",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0161
-    },
-    {
-      "term": "tech",
-      "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "api",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
+    },
+    {
+      "term": "tech",
+      "count": 1,
+      "share": 0.0159
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
+    },
+    {
+      "term": "application",
+      "count": 1,
+      "share": 0.0159
+    },
+    {
+      "term": "custodian",
+      "count": 1,
+      "share": 0.0159
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "kingston",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "state",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "apps",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "m365",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "regional",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "supervisor",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "evolve",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "writer",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "machinery",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "ui",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "ux",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "landing",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "page",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "leadify",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     },
     {
       "term": "technology",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0159
     }
   ],
   "jobs": [
-    {
-      "job_id": "94066770",
-      "job_title": "Business Analyst",
-      "business_name": "Ringers Western",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "",
-      "area": "Helensvale, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94066770",
-      "advertiser_id": "62403670",
-      "posted_date": "2026-08-19T02:35:10Z",
-      "job_description": "<p>Ringers Western is growing, and so is our technology team. We are looking for a Business Analyst to join our high performing tech team and grow into a career in business analysis and systems delivery.</p><p>You will be the person who drives improvement, forms part of key project teams and picks up the issues that are too tricky for support - the ones that need real investigation, some detective work, and a properly thought through solution. Alongside that, you will get hands on exposure to systems documentation, data analysis and process improvement, working closely with every member of the team.</p><p>If you are an analytical thinker who loves solving problems, enjoys talking to people as much as systems, and wants a genuine pathway into a Business Analyst career, we would love to hear from you.</p><p><strong>About the role</strong></p><p>You will be the person who drives improvement, forms part of key project teams and picks up the issues that are too tricky for support - the ones that need real investigation, some detective work, and a properly thought through solution. Alongside that, you will get hands on exposure to systems documentation, data analysis and process improvement, working closely with every member of the team.</p><p><strong>Key responsibilities</strong></p><ul><li><p>Drive improvement and form part of key project teams</p></li><li><p>Investigate complex issues requiring detective work and properly thought through solutions</p></li><li><p>Gather, document, and sign off requirements independently</p></li><li><p>Engage directly with business stakeholders at manager/head-of level, including running workshops and handling conflicting priorities</p></li><li><p>Write test cases, run UAT with business users, and manage defect triage through to go-live</p></li><li><p>Manage vendor and implementation-partner relationships, holding third parties to account on scope, defects, and delivery dates</p></li><li><p>Produce strong written documentation including requirements docs, process maps, and user stories</p></li><li><p>Perform systems documentation, data analysis and process improvement work</p></li></ul><p><strong>About you</strong></p><ul><li><p>3–5+ years in a delivery BA role, not a support or reporting role with \"analyst\" in the title</p></li><li><p>Hands-on ERP experience - has worked on an ERP implementation, upgrade, or as ongoing BA for a live ERP, with ability to discuss specific modules (inventory, purchasing, order management, finance integration)</p></li><li><p>Independent requirements ownership - has gathered, documented, and signed off requirements without a senior BA reviewing their work</p></li><li><p>Direct business stakeholder engagement at manager/head-of level, including running workshops and handling conflicting priorities</p></li><li><p>UAT ownership - has written test cases, run UAT with business users, and managed defect triage through to go-live</p></li><li><p>Vendor and implementation-partner management experience - can hold a third party to account on scope, defects, and delivery dates</p></li><li><p>Strong written documentation capability</p></li><li><p>Retail, e-commerce, wholesale, or apparel/consumer goods domain experience strongly considered</p></li><li><p>Multi-channel systems exposure: ERP + e-commerce platform + WMS/3PL + POS, and the integrations between them strongly considered</p></li><li><p>Integration literacy - can read an API spec, follow data between systems, and specify a mapping strongly considered</p></li></ul><p><strong>Nice to have (not essential)</strong></p><ul><li><p>Agile delivery (backlogs, sprints, refinement) alongside more traditional documentation</p></li><li><p>Process mapping tooling: Visio, Lucidchart, Miro</p></li><li><p>SQL or reporting capability for self-service data investigation</p></li><li><p>Prior experience being the sole BA in an organisation</p></li></ul><h2><strong>Why Join Us</strong></h2><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clear growth path within a supportive, close knit tech team</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Direct mentoring from skilled &amp; experienced team members</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Variety. No two days look the same between support, projects and process improvement across varied systems, departments and channels</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Laptop and equipment provided</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Based at our Helensvale office, Monday to Friday, 8am to 4pm</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Generous staff discount on Ringers products</p>",
-      "keywords": [
-        "business",
-        "analyst"
-      ]
-    },
     {
       "job_id": "94055545",
       "job_title": "AI Regional Supervisor",
@@ -1247,6 +1239,24 @@
       ]
     },
     {
+      "job_id": "93725201",
+      "job_title": "Application Custodian",
+      "business_name": "Infinite Care",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93725201",
+      "advertiser_id": "34630605",
+      "posted_date": "2026-08-03T02:40:55Z",
+      "job_description": "<div><div>\n<p><strong>Exciting times!!! With growth comes new opportunities!!!</strong></p>\n<p>At<strong> Infinite Care </strong>we are seeking another Application Custodian to join our already amazing team.</p>\n<p>Residential Aged Care Providers Australia | Infinite Aged Care</p>\n<p>Reporting to our <strong>Head of Application Support</strong>, the <strong>Application Custodian </strong>will be responsible for overseeing all company-used applications - research, procure, install, configure, monitor, and maintain software applications. Ensure applications are functional, secure, and meet organisational needs. This role ensures the effective management of security groups, permissions, and documentation of all of our applications. The Application Custodian will also develop documentation and user guides, provide training to the ICT team for level 1 support, and offer end-user training to promote user adoption. Additionally, they will manage cybersecurity related to applications, ensuring best practices are met, and assist with application interoperability.&nbsp;</p>\n<p>This role is full time and remote or hybrid opportunities may be available for the right candidate.</p>\n<p><strong>The key responsibilities for this role are, but not limited to:</strong>&nbsp;</p>\n<ul>\n<li>Oversee the management of security groups and permissions for all applications to ensure secure and efficient access control.</li>\n<li>Develop and maintain comprehensive documentation for all applications, including user guides and technical manuals.</li>\n<li>Provide training to the IT team for level 1 support and offer end-user training to promote user adoption and effective use of applications.</li>\n<li>Manage cybersecurity aspects related to applications, ensuring that all security protocols and best practices are followed.</li>\n<li>Collaborate with other IT team members and departments to resolve complex technical issues, share knowledge, and implement IT projects and improvements.</li>\n<li>Identify recurring issues and propose solutions to prevent future incidents. Contribute to the improvement of IT processes and procedures to enhance overall service delivery.</li>\n<li>Provide remote assistance to off-site or remote users, ensuring consistent and efficient support regardless of the user's location.&nbsp;</li>\n</ul>\n<p><strong>About You:</strong></p>\n<ul>\n<li>\n<strong>Resident-Centric Mindset:</strong>&nbsp;Hold a resident-centric mindset which flows through to all aspects of your work.</li>\n<li>\n<strong>Communication Skills</strong>:&nbsp;Excellent verbal and written communication skills to effectively interact with end-users, translate technical jargon into layman's terms, and produce clear and concise documentation.</li>\n<li>\n<strong>Customer Service Orientation</strong>:&nbsp;A strong commitment to customer satisfaction and service excellence. The ability to remain calm, patient, and empathetic when dealing with end-users' technical frustrations.</li>\n<li>\n<strong>Problem-Solving Ability</strong>:&nbsp;Strong analytical and problem-solving skills to identify and resolve technical issues promptly and efficiently.</li>\n<li>\n<strong>Team</strong> <strong>Player</strong>:&nbsp;A collaborative attitude and the ability to work effectively as part of a team to achieve common goals.</li>\n<li>\n<strong>Qualifications: </strong>A degree in Information Technology, Computer Science, or a related field is preferred.</li>\n<li>\n<strong>Experience </strong>with any of the following applications would be highly regarded: Clinical Manager, Resident Manager, BestMed, CarePage, iChris (Frontier), TechnologyOne, Humanforce WFM, Atlassian (Jira/JSM), DocuSign, Ausmed, Simple Food, Zipline, and Microsoft 365/Entra ID.</li>\n<li>\n<strong>You have:</strong> Proven experience in application management and cyber security within a clinical environment, ideally aged care and demonstrated experience with vendor engagement and service delivery.</li>\n</ul>\n<p><strong>As part of being an Infinite Aged care employee you will be required to complete pre-employment checks.</strong></p>\n<p><strong>Infinite Care’s Employee Benefits:</strong></p>\n<ul>\n<li>Fitness Passport to access discounted fitness and wellbeing sessions.</li>\n<li>Discounted Health Insurance.</li>\n<li>Access to in-house and online training programs - FREE to all employees.</li>\n<li>Access to our EAP.</li>\n<li>Work-Rite Micro professional development - FREE to all employees.</li>\n<li>Access to non-for-profit (NFP) salary sacrificing employee benefits</li>\n<li>Defence/Military Veterans are encouraged to apply.</li>\n</ul>\n<p><strong>If you would like to know more about us or this position before applying, then please reach out to our recruitment specialist managing this assignment – Teri via email </strong><a href=\"mailto:teri.vallely@infin8care.com.au\">teri.vallely@infin8care.com.au</a><strong> </strong></p>\n<p><strong>We regret we cannot receive applications via email.</strong></p>\n</div></div>",
+      "keywords": [
+        "application",
+        "custodian"
+      ]
+    },
+    {
       "job_id": "93681242",
       "job_title": "Software Developer",
       "business_name": "Sandwai Software",
@@ -1378,7 +1388,7 @@
       "url": "https://www.seek.com.au/job/93583229",
       "advertiser_id": "62403670",
       "posted_date": "2026-07-27T10:06:15Z",
-      "job_description": "<p>Ringers Western is growing, and so is our technology team. We are looking for a Business Analyst to join our high performing tech team and grow into a career in business analysis and systems delivery.</p><p>You will be the person who drives improvement, forms part of key project teams and picks up the issues that are too tricky for support - the ones that need real investigation, some detective work, and a properly thought through solution. Alongside that, you will get hands on exposure to systems documentation, data analysis and process improvement, working closely with every member of the team.</p><p>If you are an analytical thinker who loves solving problems, enjoys talking to people as much as systems, and wants a genuine pathway into a Business Analyst career, we would love to hear from you.</p><h2>Must-haves</h2><ul><li><p><strong>Approximately 1–2 years’ experience in a Business Analyst or related delivery role</strong>, with exposure to gathering requirements, documenting processes and supporting system or process improvements.</p></li><li><p><strong>Practical ERP exposure</strong>—has supported an ERP implementation, upgrade or live ERP environment and can discuss relevant functions such as inventory, purchasing, order management or finance integration.</p></li><li><p><strong>Requirements gathering experience</strong>—has assisted with stakeholder interviews or workshops and can translate business needs into clear requirements, user stories or process documentation.</p></li><li><p><strong>Business stakeholder engagement</strong>—comfortable communicating with operational teams, subject-matter experts and managers, with support from a senior team member where required.</p></li><li><p><strong>UAT experience</strong>—has helped prepare test cases, coordinate testing, record defects and support business users through UAT.</p></li><li><p><strong>Strong written documentation skills</strong>—able to produce clear requirements, process maps, user stories, meeting notes or training materials.</p></li><li><p><strong>Organised and proactive approach</strong>—able to manage assigned tasks, follow up actions and raise risks or issues promptly.</p></li><li><p><strong>Willingness to learn</strong>—open to coaching and able to gradually take greater ownership as their knowledge and confidence develop.</p></li></ul><h2>Strongly considered</h2><ul><li><p>Experience in <strong>retail, e-commerce, wholesale, apparel or consumer goods</strong>.</p></li><li><p>Exposure to the <strong>order-to-cash and stock lifecycle</strong>, including purchasing, inventory, fulfilment, returns or financial processing.</p></li><li><p>Familiarity with multiple business systems, such as an <strong>ERP, e-commerce platform, WMS/3PL or POS</strong>.</p></li><li><p>Basic understanding of <strong>system integrations and data flows</strong>, with an interest in developing API and data-mapping knowledge.</p></li><li><p>Experience working with external vendors or implementation partners, including tracking actions, defects and delivery dates.</p></li><li><p>Availability to start promptly to allow for a structured handover with the outgoing Senior Business Analyst.</p></li><li><p>Comfortable working in a small team and assisting with a combination of project delivery, system triage, user support and BAU activities.</p></li></ul><h2>Development opportunities</h2><p>The successful candidate will be supported to develop capability in:</p><ul><li><p>Independently leading requirements workshops.</p></li><li><p>Managing requirements through to formal sign-off.</p></li><li><p>Taking greater ownership of UAT and defect triage.</p></li><li><p>Working directly with senior stakeholders.</p></li><li><p>Managing vendors against scope and delivery commitments.</p></li><li><p>Understanding integrations, APIs and system data mapping.</p></li></ul><h2><strong>What You Will Bring</strong></h2><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 to 2 years' experience in a business analyst role</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A knack for problem solving and getting to the why, not just the what</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong written communication. You can turn a messy problem into a clear, simple document</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Great attention to detail</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The ability to juggle a support ticket and a project deadline in the same afternoon</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience in business process definition &amp; improvement</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A friendly and approachable demeanour, able to convey information to users at all skill levels</p><h2>Nice to have (not essential)</h2><ul><li><p>Agile delivery (backlogs, sprints, refinement) alongside more traditional documentation</p></li><li><p>Process mapping tooling: Visio, Lucidchart, Miro</p></li><li><p>SQL or reporting capability for self-service data investigation</p></li><li><p>Prior experience being the sole BA in an organisation</p></li></ul><h2><strong>Why Join Us</strong></h2><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clear growth path within a supportive, close knit tech team</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Direct mentoring from skilled &amp; experienced team members</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Variety. No two days look the same between support, projects and process improvement across varied systems, departments and channels</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Laptop and equipment provided</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Based at our Helensvale office, Monday to Friday, 8am to 4pm</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Generous staff discount on Ringers products</p>",
+      "job_description": "<p>Ringers Western is growing, and so is our technology team. We are looking for a Business Analyst to join our high performing tech team and grow into a career in business analysis and systems delivery.</p><p>You will be the person who drives improvement, forms part of key project teams and picks up the issues that are too tricky for support - the ones that need real investigation, some detective work, and a properly thought through solution. Alongside that, you will get hands on exposure to systems documentation, data analysis and process improvement, working closely with every member of the team.</p><p>If you are an analytical thinker who loves solving problems, enjoys talking to people as much as systems, and wants a genuine pathway into a Business Analyst career, we would love to hear from you.</p><h2><strong>What You Will Be Doing</strong></h2><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Owning escalations. </strong>Taking on the support issues &amp; change requests that need deeper digging, and working out not just what is wrong, but the best way to solve it</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Writing it up. </strong>Documenting requirements, user stories, SOPs and user guides so solutions stick and users &amp; developers have clarity</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Getting into projects. </strong>Supporting system rollouts, testing (UAT), and change management alongside our current Business Analyst and Data Lead</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Mapping how things work. </strong>Helping spot where processes can be simpler, faster or more automated</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Talking to people. </strong>Being the friendly, capable go between for business users, our IT team, and external vendors</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Building systems knowledge. </strong>Getting real exposure and deep understanding of enterprise applications&nbsp;</p><h2><strong>What You Will Bring</strong></h2><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 to 2 years' experience in a business analyst role</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A knack for problem solving and getting to the why, not just the what</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong written communication. You can turn a messy problem into a clear, simple document</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Great attention to detail</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The ability to juggle a support ticket and a project deadline in the same afternoon</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience in business process definition &amp; improvement</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A friendly and approachable demeanour, able to convey information to users at all skill levels</p><p><strong>Nice to have (not essential):</strong></p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exposure to retail, e-commerce or logistics systems (ERP, WMS, POS)</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Familiarity with agile ways of working (user stories, backlogs, sprints)</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prior experience in Level 2 IT or systems support</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience with process mapping tools like Visio, Lucidchart or Miro</p><h2><strong>Why Join Us</strong></h2><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clear growth path within a supportive, close knit tech team</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Direct mentoring from skilled &amp; experienced team members</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Variety. No two days look the same between support, projects and process improvement across varied systems, departments and channels</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Laptop and equipment provided</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Based at our Helensvale office, Monday to Friday, 8am to 4pm</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Generous staff discount on Ringers products</p>",
       "keywords": [
         "it",
         "business",
@@ -1674,6 +1684,25 @@
       "keywords": [
         "dotnet",
         "technical"
+      ]
+    },
+    {
+      "job_id": "93423248",
+      "job_title": "Business Development Manager",
+      "business_name": "XO Recruitment",
+      "work_type": "Full time",
+      "job_type": "Sales - Pre & Post",
+      "pay_range": "$100,000 to $120,000 + commissions",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93423248",
+      "advertiser_id": "45719685",
+      "posted_date": "2026-07-20T03:39:46Z",
+      "job_description": "<strong>The role in a nutshell: </strong><br> <ul> <li>You will develop strategies to gain new clients, penetrate new markets and gain new business.</li> <li>You will attend networking events, industry functions and conferences to generate new opportunities and build and maintain a robust sales pipeline. &nbsp;</li> <li>You will conduct discovery meetings to understand customer challenges, business objectives and technology requirements, and maintain a consultative sales approach focused on business outcomes rather than product sales.</li> <li>As this is a newly created role, you will also use your knowledge to build and document procedures and processes internally.</li> </ul> &nbsp;&nbsp;<br> &nbsp;&nbsp;<br> <strong>To be successful, you will need:</strong><br> <ul> <li>Previous experience as a business development manager, preferably in a Managed Services Provider environment. You have a demonstrated track record of meeting or exceeding sales targets and revenue goals.</li> <li>You have strong knowledge of the technology sector, including current trends and their business applications.</li> <li>You are a hunter, and enjoy looking for new business and building relationships. &nbsp;</li> <li>Excellent communication and relationship-building skills and ability to work with technical and non-technical stakeholders.</li> <li>You must be based on the Gold Coast, with a valid work permit as my client isn’t able to sponsor a visa.</li> </ul> &nbsp;&nbsp;<br> &nbsp;&nbsp;<br> &nbsp;&nbsp;<br> <strong>Why should you apply?</strong><br> <ul> <li>This is an opportunity to work with a strong business and a variety of customers, where no 2 days will be the same</li> <li>Located on the Gold Coast: need I say more?</li> <li>This is your opportunity for you to start and build a role from scratch and potentially grow a team.</li> </ul> &nbsp;&nbsp;<br> &nbsp;&nbsp;<br> &nbsp;&nbsp;<br> <strong>About our client: </strong><br> Our client is a managed IT solutions provider, and their priority is to ensure business continuity for their customers. They work closely with businesses to allow them to be more productive through the right utilisation of technology.<br> Partnership being key, they know businesses and know how critical the stability of their operations is. They provide a variety of technical services including managed services, cloud services, web hosting and development, taking the load of their customers and ensuring their peace of mind. The results are there: over 230 businesses trust them to manage their IT requirements.<br> This position serves as a crucial intermediary role, acting as a buffer between senior management and daily operational issues.<br> &nbsp;&nbsp;<br> &nbsp;&nbsp;<br> &nbsp;&nbsp;<br> <strong>How to Apply?</strong>&nbsp;&nbsp;<br> If this sounds like you or for a confidential discussion about the vacancy and your situation, please contact me on Whats’app on <a href=\"tel:+6421 786 160\">+6421 786 160</a> or email me your CV on <a href=\"mailto:chloe@xorecruitment.co.nz\">chloe@xorecruitment.co.nz</a> . If you are interested in this position but your experience doesn’t align perfectly with every point in the description above, please get in touch anyway! Our client is about building a diverse and inclusive workplace and recognizes that everyone possesses a unique set of skills, knowledge, experience, and that everybody is different and unique! You may just be the right candidate for this role, or any other we may be recruiting now or in the future. &nbsp;<br> &nbsp;&nbsp;<br> <strong>We are a Circle Back Initiative Agency – We commit to respond to every applicant.&nbsp;</strong>&nbsp;",
+      "keywords": [
+        "business",
+        "development",
+        "manager"
       ]
     }
   ]
