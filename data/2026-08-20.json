@@ -1,548 +1,496 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-20",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-21T06:18:19.650900+10:00",
-  "total_jobs": 61,
+  "scraped_at": "2026-08-20T06:16:47.176805+10:00",
+  "total_jobs": 62,
   "keywords": [
-    {
-      "term": "analyst",
-      "count": 11,
-      "share": 0.1803
-    },
     {
       "term": "it",
       "count": 11,
-      "share": 0.1803
+      "share": 0.1774
+    },
+    {
+      "term": "analyst",
+      "count": 10,
+      "share": 0.1613
     },
     {
       "term": "support",
       "count": 10,
-      "share": 0.1639
+      "share": 0.1613
     },
     {
       "term": "manager",
-      "count": 9,
-      "share": 0.1475
-    },
-    {
-      "term": "developer",
-      "count": 8,
-      "share": 0.1311
+      "count": 10,
+      "share": 0.1613
     },
     {
       "term": "business",
       "count": 7,
-      "share": 0.1148
+      "share": 0.1129
     },
     {
-      "term": "software",
+      "term": "developer",
       "count": 7,
-      "share": 0.1148
+      "share": 0.1129
     },
     {
       "term": "engineer",
       "count": 6,
-      "share": 0.0984
+      "share": 0.0968
+    },
+    {
+      "term": "software",
+      "count": 6,
+      "share": 0.0968
+    },
+    {
+      "term": "technical",
+      "count": 5,
+      "share": 0.0806
     },
     {
       "term": "technician",
       "count": 5,
-      "share": 0.082
-    },
-    {
-      "term": "ai",
-      "count": 4,
-      "share": 0.0656
+      "share": 0.0806
     },
     {
       "term": "officer",
       "count": 4,
-      "share": 0.0656
+      "share": 0.0645
     },
     {
       "term": "administrator",
       "count": 4,
-      "share": 0.0656
+      "share": 0.0645
     },
     {
       "term": "product",
       "count": 4,
-      "share": 0.0656
+      "share": 0.0645
     },
     {
-      "term": "solutions",
+      "term": "project",
       "count": 3,
-      "share": 0.0492
-    },
-    {
-      "term": "technical",
-      "count": 3,
-      "share": 0.0492
+      "share": 0.0484
     },
     {
       "term": "development",
       "count": 3,
-      "share": 0.0492
-    },
-    {
-      "term": "project",
-      "count": 2,
-      "share": 0.0328
+      "share": 0.0484
     },
     {
       "term": "network",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0323
     },
     {
       "term": "php",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0323
+    },
+    {
+      "term": "ai",
+      "count": 2,
+      "share": 0.0323
     },
     {
       "term": "deployment",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0323
     },
     {
       "term": "wsr",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0323
     },
     {
       "term": "service",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0323
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0323
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0323
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0323
+    },
+    {
+      "term": "solutions",
+      "count": 2,
+      "share": 0.0323
+    },
+    {
+      "term": "ict",
+      "count": 2,
+      "share": 0.0323
     },
     {
       "term": "health",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0323
     },
     {
       "term": "information",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0323
     },
     {
       "term": "systems",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0323
     },
     {
       "term": "owner",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0323
     },
     {
       "term": "specialist",
       "count": 2,
-      "share": 0.0328
-    },
-    {
-      "term": "cyber",
-      "count": 2,
-      "share": 0.0328
+      "share": 0.0323
     },
     {
       "term": "leader",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "accounting",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "system",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "zoho",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "user",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "data",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
+    },
+    {
+      "term": "broadbeach",
+      "count": 1,
+      "share": 0.0161
     },
     {
       "term": "wordpress",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "heads",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "days",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "per",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "week",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
+    },
+    {
+      "term": "dotnet",
+      "count": 1,
+      "share": 0.0161
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "laravel",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "java",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "architecture",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "ao4",
       "count": 1,
-      "share": 0.0164
-    },
-    {
-      "term": "ict",
-      "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "tech",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "api",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "kingston",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "state",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "apps",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "m365",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "regional",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "supervisor",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "evolve",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
-      "term": "incident",
+      "term": "cyber",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "writer",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "machinery",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "ui",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "ux",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "landing",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "page",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "leadify",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "plant",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     },
     {
       "term": "technology",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0161
     }
   ],
   "jobs": [
-    {
-      "job_id": "94099921",
-      "job_title": "AI Software Developer",
-      "business_name": "Princess Polly",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "",
-      "area": "Burleigh Heads, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94099921",
-      "advertiser_id": "27507146",
-      "posted_date": "2026-08-20T05:10:36Z",
-      "job_description": "<div><div>\n<p><b><strong>About the role</strong></b></p>\n<p>We're growing our investment in modern, AI-assisted engineering, and we're looking for an AI Software Developer to own the end-to-end development of our enterprise merchandising application and other core line-of-business systems. Reporting to our Global Tech Director, you'll bring together strong software engineering fundamentals with modern AI-assisted and agentic development technologies,&nbsp; including large language models such as Claude,&nbsp; to build secure, scalable solutions that keep pace with a fast-growing retail business.</p>\n<p>This role has&nbsp; real scope to shape how we build and support software at Princess Polly. You'll own work across the full development lifecycle from requirements through to deployment and production support, partnering with teams across our Global business.&nbsp;</p>\n<p><b><strong>What You'll Do</strong></b></p>\n<ul>\n<li>Own the end-to-end development and ongoing maintenance of our enterprise merchandising application.</li>\n<li>Design and build internal line-of-business applications, integrations, automations and supporting services, integrating with our existing enterprise platforms, databases, APIs and third-party services.</li>\n<li>Use AI-assisted and agentic development technologies, including large language models such as Claude, to improve development speed, quality and capability.</li>\n<li>Gather and translate business requirements into clear, well-documented technical solutions.</li>\n<li>Manage testing, deployment, monitoring, troubleshooting and production support to keep everything running smoothly.</li>\n<li>Stay ahead of emerging AI and software development technologies and recommend where we should adopt them.</li>\n<li>Work autonomously while keeping our Global Technology Director informed of progress, risks and delivery timelines.</li>\n</ul>\n<p><b><strong>What You'll Bring</strong></b></p>\n<ul>\n<li>Proven experience as a software developer, with demonstrated ownership of applications across the full development lifecycle (design, build, test, deploy, support).</li>\n<li>Practical experience using AI-assisted and agentic development tools (e.g. Claude, Claude Code, GitHub Copilot or similar) as part of a modern engineering workflow.</li>\n<li>Strong AI/agentic programming skills across relevant languages and frameworks, comfortable working across front-end, back-end and database layers.</li>\n<li>Experience integrating applications with enterprise platforms, databases, APIs and third-party services, plus cloud infrastructure, CI/CD pipelines and modern DevOps practices.</li>\n<li>Working knowledge of information security, data privacy and secure coding principles.</li>\n<li>Self-directed and comfortable working autonomously, with a pragmatic, ownership-driven approach to problem solving and a genuine interest in emerging technology.</li>\n</ul>\n<p><b><strong>Why You'll Love The Role</strong></b><b><strong> </strong></b></p>\n<ul>\n<li>The chance to shape how AI-assisted and agentic development is used across Princess Polly's technology function.</li>\n<li>Real autonomy and scope to own systems end-to-end, from architecture through to production support.</li>\n<li>Direct collaboration with key departments across the business, with the chance to see the impact of your work firsthand.</li>\n<li>The chance to build deep, in-demand expertise in AI-assisted and agentic engineering.</li>\n</ul>\n<p>Beyond the benefits and perks you already know and love as part of the team, this role is a chance to make a real impact on a fast-growing, global business. It's your opportunity to pursue your passion and shape your own future here at Princess Polly.</p>\n<p>Princess Polly is an Equal Opportunity Employer (EOE). We're committed to a diverse and inclusive workplace and encourage applications from all backgrounds and walks of life. Different makes us better.</p>\n<p>Ready to make the move?</p>\n<p>#PrincessPolly #PursueYourPassion #PrincessPollyCareers</p>\n</div></div>",
-      "keywords": [
-        "ai",
-        "software",
-        "developer"
-      ]
-    },
-    {
-      "job_id": "94098702",
-      "job_title": "AI Solutions Analyst",
-      "business_name": "Dreamworld",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "",
-      "area": "Coomera, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94098702",
-      "advertiser_id": "21549994",
-      "posted_date": "2026-08-20T04:33:39Z",
-      "job_description": "<p><strong>Turn “could AI help us with this?” into solutions that actually work.</strong></p><p>Dreamworld is looking for an AI Solutions Analyst to join our Information Technology team and help turn real business challenges into practical, well-governed AI solutions across Dreamworld, WhiteWater World and SkyPoint.<br>This is a hands-on role for someone who enjoys getting close to the problem, understanding what teams actually need, and then building, testing and supporting the solution themselves.<br>Using approved platforms including <strong>Microsoft Copilot, Anthropic Claude and OpenAI ChatGPT Business</strong>, you will help us make generative AI useful, safe and genuinely valuable across the organisation.</p><p><strong>What’s the gig?</strong></p><p>Reporting to the Business Systems Solutions Manager, you will work with teams across the business to understand operational challenges, translate requirements into clear solution briefs and identify the right solution — including when AI isn’t the answer.</p><p>You will build and configure AI-supported solutions, workflows and automations, test and refine them with users, document what you create and support adoption through practical training and guidance.<br>You will also play an important role in ensuring every solution meets our Generative AI Usage Policy, data governance and security requirements.</p><p><strong>What we need from you</strong></p><p>You will bring <strong>3–6 years’ experience in business analysis, systems analysis or a similar role bridging business and technology</strong>, plus hands-on workplace experience using generative AI tools such as Microsoft Copilot, ChatGPT or Claude.<br>You will be confident gathering requirements, designing workflows, prompt engineering, testing solutions with users and communicating with both technical and non-technical stakeholders.<br>Experience with <strong>Power Automate, Power Platform, scripting, Microsoft 365, SharePoint or Power BI </strong>would be well regarded.<br>Most importantly, you will bring curiosity, sound judgement and the ability to recognise both where AI can add value — and where it shouldn’t be used.</p><p><strong>Diversity and Inclusion</strong></p><p>At Dreamworld, WhiteWater World and SkyPoint, we’re committed to creating an inclusive and accessible environment where everyone, guests and Team Members alike, feel valued and respected. We celebrate the cultural and personal differences of our team, representative of the diverse community in which we operate. By drawing on the unique talents and contributions of each individual, we create unforgettable memories for our guests.</p><p>Our selection process may include a one-way video interview, face-to-face or group interview, health assessment, reference checks, criminal history check, and verification of your working rights. We are committed to an inclusive and accessible recruitment experience, therefore you will be provided opportunity to advise of any accessibility needs or required accommodations, as you progress through the recruitment process. &nbsp;&nbsp;</p><p><strong>Why Dreamworld?</strong></p><p>You will be based at our <strong>Coomera, Gold Coast</strong> site, with hybrid working considered, and have the opportunity to help shape how AI is used across one of Australia’s most unique operating environments.<br>Our Team Members also enjoy complimentary entry to Dreamworld, WhiteWater World and SkyPoint, discounts, free onsite parking and access to Perkbox savings.</p><p><strong>Ready to help turn AI possibilities into practical solutions?</strong></p><p><strong>APPLY ONLINE NOW!!</strong></p>\n\n",
-      "keywords": [
-        "ai",
-        "solutions",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "94090660",
-      "job_title": "Cyber Incident Manager",
-      "business_name": "Solis Security",
-      "work_type": "Full time",
-      "job_type": "Security",
-      "pay_range": "",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94090660",
-      "advertiser_id": "11413832",
-      "posted_date": "2026-08-20T01:11:07Z",
-      "job_description": "<strong>Description</strong><div><strong>Help organisations navigate cyber incidents when it matters most</strong></div><div>\n<br>Are you calm under pressure, confident making decisions, and able to communicate effectively with people at every level of an organisation?<br><br>\n</div><div>We're looking for a <strong>Cyber Incident Manager</strong> to coordinate and manage cyber incidents from initial notification through to resolution. Whilst you'll work closely with technical specialists, this role is focused on <strong>project coordination, stakeholder management, communication, organisation and decision-making</strong> rather than hands-on technical cybersecurity.<br><br>\n</div><div>You will become the central point of coordination during an incident, ensuring the right people are engaged, actions are progressing, stakeholders are informed, and clients receive an exceptional experience during what is often a challenging and stressful time.<br><br>\n</div><div>This role is ideal for someone with strong organisational skills, professional confidence, excellent communication abilities and the judgement to assess information, make decisions and back themselves.<br><br><strong>Location: </strong>Gold Coast/Brisbane</div><br><br><strong>What You'll Be Doing</strong><ul>\n<li>Managing cyber incidents from triage through to resolution.</li>\n<li>Acting as the primary point of contact for clients during an incident.</li>\n<li>Coordinating technical specialists, investigators and support teams to ensure actions are completed.</li>\n<li>Leading incident calls and stakeholder meetings.</li>\n<li>Managing action plans, timelines, priorities and deliverables.</li>\n<li>Providing regular updates to clients, insurers, legal counsel and internal stakeholders.</li>\n<li>Translating technical information into clear business-focused communication.</li>\n<li>Working closely with executives and senior leaders to support decision making.</li>\n<li>Maintaining incident records, reports and documentation.</li>\n<li>Supporting lessons learned and continuous improvement activities.</li>\n<li>Building trusted relationships with clients and key stakeholders.</li>\n<li>Identifying risks, issues and opportunities for improvement throughout the incident lifecycle.</li>\n</ul><br><br><strong>What We're Looking For</strong><ul>\n<li>Exceptional communication and stakeholder management skills.</li>\n<li>Confidence speaking with people at all levels, including CEOs, CFOs, General Managers, IT Managers and business owners.</li>\n<li>Strong decision-making skills and the confidence to make recommendations and stand behind them.</li>\n<li>Strong project coordination or project management skills.</li>\n<li>Excellent attention to detail and organisational capability.</li>\n<li>Ability to manage multiple priorities and competing deadlines.</li>\n<li>Strong written communication and report-writing skills.</li>\n<li>Professional judgement and problem-solving ability.</li>\n<li>Commitment to delivering an exceptional customer experience.</li>\n</ul><div><strong>Highly Regarded</strong></div><ul>\n<li>Experience in incident management, project management, operations, client service, consulting or professional services environments.</li>\n<li>Experience coordinating complex projects or stakeholder groups.</li>\n<li>Cybersecurity knowledge is beneficial but not required.</li>\n<li>Experience working in insurance, legal, technology or risk-related industries.</li>\n</ul><br><br><strong>Why You'll Love Working With Us</strong><ul>\n<li>Be part of a GLOBAL team (we have offices in the USA, UK and Australia)</li>\n<li>State of the art modern office</li>\n<li>Supportive team culture and modern office environment</li>\n<li>Opportunities to grow your skills and take on more responsibility</li>\n<li>Above award wages + performance bonuses</li>\n<li>Fun team events and a workplace that values your contribution</li>\n<li>No formal qualifications needed — we care more about your attitude, work ethic, and willingness to learn.<br>&nbsp;<br>&nbsp;We love our workplace, and we think you will too.</li>\n</ul>",
-      "keywords": [
-        "cyber",
-        "incident",
-        "manager"
-      ]
-    },
     {
       "job_id": "94066770",
       "job_title": "Business Analyst",
@@ -817,6 +765,24 @@
         "development",
         "manager",
         "evolve"
+      ]
+    },
+    {
+      "job_id": "93945596",
+      "job_title": "Technical Lead - Broadbeach, QLD",
+      "business_name": "Ignite",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "",
+      "area": "Broadbeach, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93945596",
+      "advertiser_id": "55324746",
+      "posted_date": "2026-08-13T02:03:15Z",
+      "job_description": "<p>&nbsp;</p>\n<p>We are looking for a Technical Lead to provide day-to-day technical leadership of software engineering across our development team, spanning the full software development life cycle: analysis, design, build, test, release and support. This is a senior individual-contributor role for a versatile engineer who moves fluidly between building and maintaining the Azure infrastructure our systems run on and delivering hands-on full-stack engineering across portfolio of travel booking applications, with the balance shifting as our business rapidly evolves and expands internationally. You will hold autonomy over technical decisions for the team, working closely with the Head of Engineering, our Solution Architect, and the wider engineering group.</p>\n<p>&nbsp;</p>\n<p><strong>A day in the life:</strong></p>\n<ul>\n<li>Design, build, maintain and operate the Azure platform that underpins our current and future architecture (Infrastructure as code via bicep, landing zones, networking, Container Apps, API Management, Key Vault), delivering new functionality while also maintaining high availability and security.</li>\n<li>Deliver hands-on full-stack engineering across our B2X applications built on a modern React/TypeScript front-end and .NET back-end, hosted on Azure</li>\n<li>Build API integrations between our applications and our various internal and external platforms to deliver dynamic accommodation, air and inventory connectivity into booking systems.</li>\n<li>Lead the team's adoption of agentic AI engineering tools (including but not limited to Claude Code, GitHub Copilot and GitHub Spec Kit), setting the standards and patterns for their effective use and mentoring others to raise capability</li>\n<li>Provide technical leadership within agile teams, owning code quality through peer review and ensuring high-quality, secure, testable and maintainable code</li>\n<li>Apply best practices for high performance, scalability and security, including PCI-compliant payment handling and data-privacy compliance across customer-facing systems</li>\n<li>Collaborate closely with the Solution Architect to define and validate delivery and architectural standards, applying the agreed architecture as an engineering discipline</li>\n<li>Stay across industry trends and continuously suggest process improvements to enhance team efficiency and software quality</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Who you are:</strong></p>\n<ul>\n<li>Proven hands-on experience with design, build and operation of Azure infrastructure and microservices architecture in an enterprise environment. Industry certifications highly desirable.</li>\n<li>Strong proficiency in agentic software engineering, utilising AI tools such as Claude Code to accelerate delivery in an enterprise environment</li>\n<li>Strong proficiency in full-stack development (focus on .NET): RESTful APIs and modern web application frameworks, Entity Framework, relational databases, data modelling and SQL queries</li>\n<li>Minimum 5 years professional experience as a Technical Lead or similar role, with a strong track record of delivering high-quality software products</li>\n<li>Experience with git version control, and managing CI/CD pipelines and related tools (Azure DevOps, GitHub Actions, Octopus Deploy)</li>\n<li>Strong experience in agile software development methodologies such as Scrum or Kanban</li>\n<li>Experience with DevOps, SRE and observability tooling and practices</li>\n<li>Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field</li>\n<li><strong>Highly desirable:</strong> Experience with Microsoft Dynamics 365 Business Central</li>\n<li><strong>Highly desirable:</strong> Experience with cloud platforms such as AWS</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>What you'll enjoy:</strong></p>\n<p>&nbsp;</p>\n<div>\n<p>📚 Ongoing skills development</p>\n</div>\n<div>\n<p>🚀 Catapult your career across a network of brands and businesses in an evolving industry</p>\n</div>\n<div>\n<p>✈️ Say no to full price! Nab discounts on travel and more thanks to our sweet rewards program</p>\n</div>\n<div>\n<p>👩‍⚕️ Access to industry leading health and well - being programs and financial advisors</p>\n</div>\n<div>\n<p>🌴 Set up shop in a swanky beachfront office in Broadbeach</p>\n</div>\n<div>\n<p>💃🏿 Enjoy social events to promote networking, celebration of wins, and sometimes just for fun!</p>\n</div>\n<div>\n<p>&nbsp;👐🏻 Take volunteer leave as part of giving back to the local community</p>\n<p> #LI-KP1#IGNT#LI-Onsite </p>\n</div>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+      "keywords": [
+        "technical",
+        "broadbeach"
       ]
     },
     {
@@ -1491,6 +1457,24 @@
       ]
     },
     {
+      "job_id": "93538099",
+      "job_title": "ICT Manager",
+      "business_name": "Trinity Lutheran College",
+      "work_type": "Full time",
+      "job_type": "Management",
+      "pay_range": "School Officer Level 7 - $113,018 to $121,343",
+      "area": "Ashmore, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93538099",
+      "advertiser_id": "20481382",
+      "posted_date": "2026-07-24T05:42:30Z",
+      "job_description": "<p><strong>ICT Manager</strong></p><p><strong>Full-time |Permanent | Monday to Friday&nbsp; &nbsp;</strong></p><p>Are you an ICT leader who wants to make a genuine difference every day?</p><p>Trinity Lutheran College is a Prep to Year 12 Christian co-educational College on the Gold Coast, where exceptional teaching, authentic relationships and a commitment to helping every student flourish are at the heart of everything we do.</p><p>We are looking for someone who approaches their work with curiosity and initiative, demonstrates compassion and care for the people they support, brings ownership and purpose to solving problems, and builds authentic, trusted relationships with a small and growing team.</p><p><strong>About the role</strong></p><p>Reporting to our Chief Operating Officer, the ICT Manager leads our growing ICT team. You'll be responsible for the reliability, security and day-to-day support of our technology, while bringing order and clarity to a large and growing systems landscape.</p><p>This is a role where technical expertise is important, but what will set you apart is the way you lead, think and solve problems. We need someone who takes genuine ownership of issues, works through challenges methodically rather than stopping at the first roadblock, and instinctively wants to understand how things fit together before recommending something new.</p><p><strong>Who we’re looking for</strong></p><p>You are a collaborative ICT leader who enjoys solving complex problems and making technology work better for people. You bring a service mindset, lead with integrity and accountability, and understand that the best technology solutions are those that are reliable, secure and genuinely improve the experience of staff, students and families.</p><p>You will demonstrate the ability to:</p><ul><li><p>Lead and grow a small ICT team, holding people accountable with fairness and clarity.</p></li><li><p>Provide a consistently high standard of service to staff, students and families, keeping their experience front of mind in every decision.</p></li><li><p>Build a clear, documented picture of our software and systems estate, and use it to steer us away from redundant or duplicated systems.</p></li><li><p>Manage vendors, contracts and budgets, including forecasting and reporting.</p></li><li><p>Stay current on network, cybersecurity, cloud and general IT practices – enough to guide the team and make sound decisions, without needing to chase every new trend.</p></li><li><p>Actively support the Christian ethos and values of Trinity Lutheran College through your everyday interactions and professional practice.</p></li></ul><p>A covering letter is important to us. Please tell us about a time you identified an issue affecting end users, took ownership of it, investigated the options and implemented a solution that made a real difference to their day-to-day experience.</p><p><strong>Why Trinity?&nbsp;</strong></p><p>Join a college that genuinely invests in its people, where technology exists to serve students, staff and families - not the other way around.</p><ul><li><p>Help shape how a fast-growing College manages a sprawling technology footprint.</p></li><li><p>Lead and grow a small, close-knit team.</p></li><li><p>Ongoing professional learning and opportunities to grow as a leader.</p></li><li><p>Modern facilities in a central Gold Coast location, including free parking and gym.</p></li></ul><p>The College expects all staff, students, and the community to embody the values and beliefs of our Lutheran school, reflecting commitment to our policies and educational excellence.</p><p>For further information about our school, please visit our website: tlc.qld.edu.au</p><p><strong>How to apply</strong></p><p>If this role sounds like a good fit for you, we invite you to submit your current CV and include a one-page cover letter, this forms an important part of our selection process.</p><p>Any further queries about the role can be directed to John McDiardmid by calling <a href=\"tel:(07) 5556 8231\">(07) 5556 8231</a> or emailing <a href=\"mailto:careers@tlc.qld.edu.au\" target=\"_blank\">careers@tlc.qld.edu.au</a></p><p><em>Please note: We are managing this recruitment process directly and are not accepting applications or enquiries from recruitment agencies.</em></p><p><strong><em>Trinity Lutheran College supports the rights of children and young people and is committed to the safety and wellbeing of students. Applicants must hold current Queensland College of Teachers (QCT) registration to be eligible for this role. </em>Interviews of suitable candidates will commence as soon as they are identified.</strong></p>",
+      "keywords": [
+        "ict",
+        "manager"
+      ]
+    },
+    {
       "job_id": "93531416",
       "job_title": "IT Support Level 1",
       "business_name": "JTIT PTY LTD",
@@ -1654,6 +1638,42 @@
         "plant",
         "technology",
         "manager"
+      ]
+    },
+    {
+      "job_id": "93454566",
+      "job_title": "Project Manager",
+      "business_name": "Downer EDI Limited",
+      "work_type": "Full time",
+      "job_type": "Telecommunications",
+      "pay_range": "",
+      "area": "Molendinar, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93454566",
+      "advertiser_id": "63047675",
+      "posted_date": "2026-07-21T03:06:25Z",
+      "job_description": "<p><br> <br> </p><p>At Downer we plan, create and sustain. Downer is the leading provider of integrated services in Australia and New Zealand. Through trusted relationships and world leading insight we work closely with our customers to design, build and sustain assets, infrastructure, and facilities. <br> </p><p><strong>The Opportunity</strong><br> <br>Downer's Energy &amp; Utilities business unit has an opportunity for a Project Manager to join our Metering team working with Local Councils. Reporting to the National Operations Manager, this role is responsible for the successful delivery and performance of contracts and projects. <br> <br>The role oversees project planning, financial performance, compliance, stakeholder management, risk management, safety and resource allocation to ensure contractual obligations are met safely, efficiently and profitably. <br> <br>As the primary point of accountability for contract delivery, you will ensure timely delivery in accordance with client expectations, legislative requirements and organisational standards. <br> <br><strong>What we are looking for</strong></p><ul><li>Demonstrated experience managing contracts and/or projects, including project budgets, forecasting and financial performance</li><li>Background in Water, plumbing or metering preferred</li><li>Strong client relationship and stakeholder management skills, with the ability to build positive relationships with clients, contractors, suppliers and internal stakeholders</li><li>Strong understanding of project management methodologies and principles</li><li>High-level communication and reporting skills</li><li>Ability to lead, coach and support multidisciplinary teams to achieve business objectives</li><li>Strong planning, organisational and problem-solving abilities</li><li>Experience within the Metering industry is desirable</li></ul><p><strong>What we offer</strong></p><ul><li>Opportunity for career growth with structured frameworks and supportive-inclusive team</li><li>Competitive Salary and Employee Benefits</li><li>Valued and respected position, with supportive and experienced team</li><li>Work for a major ASX-listed company</li></ul><p><strong>About Energy &amp; Utilities…</strong>Downer's Energy &amp; Utilities business unit is an integrated trans-Tasman team, providing services and solutions that connect communities to essential networks and infrastructure. We design, build, operate and maintain today's critical assets and networks, delivering complete services across the water, electricity, telecommunications, industrial and power generation sectors. Our expertise spans in-house technical smarts, specialist engineering, integrated OEM partners, and dedicated crews of qualified tradespeople.<br> <br><em>Downer Group is an employer that acknowledges and embraces the importance of our people's diverse experiences, talents, and cultures. As an inclusive employer, we welcome applications from everyone.</em><br> <br><strong>How to apply</strong><br> <br>Click \"Apply\" to start your application. We look forward to hearing from you! <br> <br>Downer does not accept unsolicited resumes, fees, or costs from recruitment agencies, search firms, or third parties. Candidates are welcome to submit their applications via the advertisement.<br> </p>",
+      "keywords": [
+        "project",
+        "manager"
+      ]
+    },
+    {
+      "job_id": "93449091",
+      "job_title": "DotNet Technical Lead",
+      "business_name": "Akkodis",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "",
+      "area": "Broadbeach, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93449091",
+      "advertiser_id": "25886139",
+      "posted_date": "2026-07-21T00:23:01Z",
+      "job_description": "<p><strong>Technical Lead</strong><br> <br><strong>What's in it for you?</strong><br> <br>· Join a leading organisation delivering innovative digital solutions using modern cloud technologies.<br> <br>· Lead technical decision-making while remaining hands-on across Azure infrastructure and full-stack development.<br> <br>· Work with cutting-edge technologies including Azure, .NET, React, TypeScript and AI-assisted engineering tools.<br> <br>· Enjoy a hybrid working model with opportunities to influence technical direction and mentor engineers.<br> <br><strong>Role</strong><br> <br>We are seeking an experienced Technical Lead to provide technical leadership across the full software development lifecycle, including analysis, design, development, testing, deployment and support. This is a senior hands-on role that combines Azure cloud engineering with full-stack software development. You will work closely with senior engineering stakeholders to deliver secure, scalable and high-performing applications while driving engineering best practices and mentoring the development team.<br> <br><strong>Employment Type and Duration</strong><br> </p><ul><li>Permanent</li></ul><p><strong>Work Model</strong><br> </p><ul><li>Hybrid (3 days per week in the office)</li></ul><p><strong>Location</strong><br> </p><ul><li>Broadbeach, Queensland</li></ul><p><strong>Key Responsibilities</strong><br> <br>· Design, build and manage Azure infrastructure using Infrastructure as Code (Bicep), Container Apps, API Management, Key Vault, networking and landing zones.<br> <br>· Develop and maintain full-stack applications using .NET, React and TypeScript.<br> <br>· Build and maintain API integrations with internal and external platforms.<br> <br>· Lead the adoption of AI-powered engineering tools such as Claude Code and GitHub Copilot, establishing best practices across the team.<br> <br>· Provide technical leadership through code reviews, mentoring and engineering standards.<br> <br>· Ensure solutions are secure, scalable, highly available and aligned with PCI and data privacy requirements.<br> <br>· Collaborate with Solution Architects to implement enterprise architecture and technical standards.<br> <br>· Drive continuous improvement across development practices, DevOps processes and software quality.<br> <br><strong>Required Skills &amp; Experience</strong><br> <br>· Proven experience designing, building and operating Azure cloud infrastructure and microservices in enterprise environments.<br> <br>· Strong hands-on experience with .NET development, REST APIs, React, TypeScript, Entity Framework, SQL and relational databases.<br> <br>· Minimum 5 years' experience as a Technical Lead or in a similar senior technical role.<br> <br>· Experience using AI-assisted software engineering tools such as Claude Code, GitHub Copilot or similar.<br> <br>· Experience with Azure DevOps, GitHub Actions, Octopus Deploy and CI/CD pipelines.<br> <br>· Strong understanding of Agile delivery methodologies (Scrum/Kanban).<br> <br>· Experience with DevOps, Site Reliability Engineering (SRE) and observability practices.<br> <br>· Excellent communication, stakeholder management and technical leadership skills.<br> <br>· Experience with Microsoft Dynamics 365 Business Central and AWS will be highly regarded.<br> <br><strong>Qualifications &amp; Clearance</strong><br> <br>· Bachelor's or Master's degree in Computer Science, Software Engineering or a related discipline.<br> <br>· Microsoft Azure certifications are highly desirable.<br> <br>· Full Australian working rights.<br> <br>If you have what it takes to thrive in this role and want to know more, please reach out to <strong>Isha Khanna</strong> at <strong><a href=\"mailto:isha.khanna@akkodisgroup.com\">isha.khanna@akkodisgroup.com</a></strong> <br> <br><strong>Privacy</strong> <br> <br>Due to new privacy laws regarding the collection and handling of personal information, all applications must be submitted online. Once you click on the \"apply for this job\" button below you will be directed to our Online Centre where you will have the opportunity to read and agree to our Privacy and Consent statements and it will allow your details to be formally lodged and processed correctly. <br> <br>\"Akkodis is an Equal Opportunity employer, committed to all forms of workforce inclusion. We actively invite and encourage applications by candidates from diverse backgrounds\" <br> </p>",
+      "keywords": [
+        "dotnet",
+        "technical"
       ]
     }
   ]
