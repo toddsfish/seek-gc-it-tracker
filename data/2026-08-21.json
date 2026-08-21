@@ -1,677 +1,491 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-21",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-22T06:15:28.322064+10:00",
-  "total_jobs": 66,
+  "scraped_at": "2026-08-21T06:18:19.650900+10:00",
+  "total_jobs": 61,
   "keywords": [
     {
       "term": "analyst",
-      "count": 14,
-      "share": 0.2121
+      "count": 11,
+      "share": 0.1803
     },
     {
       "term": "it",
-      "count": 12,
-      "share": 0.1818
+      "count": 11,
+      "share": 0.1803
     },
     {
       "term": "support",
-      "count": 11,
-      "share": 0.1667
+      "count": 10,
+      "share": 0.1639
+    },
+    {
+      "term": "manager",
+      "count": 9,
+      "share": 0.1475
     },
     {
       "term": "developer",
-      "count": 10,
-      "share": 0.1515
+      "count": 8,
+      "share": 0.1311
     },
     {
       "term": "business",
-      "count": 8,
-      "share": 0.1212
-    },
-    {
-      "term": "engineer",
       "count": 7,
-      "share": 0.1061
+      "share": 0.1148
     },
     {
       "term": "software",
       "count": 7,
-      "share": 0.1061
+      "share": 0.1148
     },
     {
-      "term": "manager",
+      "term": "engineer",
       "count": 6,
-      "share": 0.0909
-    },
-    {
-      "term": "officer",
-      "count": 5,
-      "share": 0.0758
+      "share": 0.0984
     },
     {
       "term": "technician",
       "count": 5,
-      "share": 0.0758
+      "share": 0.082
     },
     {
       "term": "ai",
       "count": 4,
-      "share": 0.0606
+      "share": 0.0656
     },
     {
-      "term": "service",
+      "term": "officer",
       "count": 4,
-      "share": 0.0606
+      "share": 0.0656
     },
     {
       "term": "administrator",
       "count": 4,
-      "share": 0.0606
+      "share": 0.0656
+    },
+    {
+      "term": "product",
+      "count": 4,
+      "share": 0.0656
     },
     {
       "term": "solutions",
       "count": 3,
-      "share": 0.0455
+      "share": 0.0492
     },
     {
       "term": "technical",
       "count": 3,
-      "share": 0.0455
-    },
-    {
-      "term": "program",
-      "count": 3,
-      "share": 0.0455
-    },
-    {
-      "term": "product",
-      "count": 3,
-      "share": 0.0455
-    },
-    {
-      "term": "cyber",
-      "count": 3,
-      "share": 0.0455
+      "share": 0.0492
     },
     {
       "term": "development",
       "count": 3,
-      "share": 0.0455
+      "share": 0.0492
     },
     {
       "term": "project",
       "count": 2,
-      "share": 0.0303
-    },
-    {
-      "term": "data",
-      "count": 2,
-      "share": 0.0303
+      "share": 0.0328
     },
     {
       "term": "network",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0328
     },
     {
       "term": "php",
       "count": 2,
-      "share": 0.0303
-    },
-    {
-      "term": "desk",
-      "count": 2,
-      "share": 0.0303
+      "share": 0.0328
     },
     {
       "term": "deployment",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0328
     },
     {
       "term": "wsr",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0328
+    },
+    {
+      "term": "service",
+      "count": 2,
+      "share": 0.0328
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0328
+    },
+    {
+      "term": "program",
+      "count": 2,
+      "share": 0.0328
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0328
+    },
+    {
+      "term": "health",
+      "count": 2,
+      "share": 0.0328
+    },
+    {
+      "term": "information",
+      "count": 2,
+      "share": 0.0328
     },
     {
       "term": "systems",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0328
     },
     {
       "term": "owner",
       "count": 2,
-      "share": 0.0303
-    },
-    {
-      "term": "security",
-      "count": 2,
-      "share": 0.0303
-    },
-    {
-      "term": "delivery",
-      "count": 2,
-      "share": 0.0303
+      "share": 0.0328
     },
     {
       "term": "specialist",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0328
+    },
+    {
+      "term": "cyber",
+      "count": 2,
+      "share": 0.0328
     },
     {
       "term": "leader",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "accounting",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "jetstar",
-      "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "retail",
-      "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "system",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "zoho",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "user",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
-      "term": "integration",
+      "term": "data",
       "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "backend",
-      "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "frontend",
-      "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "wordpress",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "heads",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "days",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "per",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "week",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "laravel",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "java",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "architecture",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "broadbeach",
-      "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "ict",
-      "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "ao4",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
+    },
+    {
+      "term": "ict",
+      "count": 1,
+      "share": 0.0164
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "api",
-      "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "tech",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
+    },
+    {
+      "term": "api",
+      "count": 1,
+      "share": 0.0164
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "kingston",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "state",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "apps",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "m365",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
-      "term": "uplift",
+      "term": "financial",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
+    },
+    {
+      "term": "delivery",
+      "count": 1,
+      "share": 0.0164
     },
     {
       "term": "regional",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "supervisor",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "evolve",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
+    },
+    {
+      "term": "security",
+      "count": 1,
+      "share": 0.0164
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "writer",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "machinery",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "ui",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "ux",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "landing",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "page",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
     },
     {
       "term": "leadify",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0164
+    },
+    {
+      "term": "plant",
+      "count": 1,
+      "share": 0.0164
+    },
+    {
+      "term": "technology",
+      "count": 1,
+      "share": 0.0164
     }
   ],
   "jobs": [
-    {
-      "job_id": "94130760",
-      "job_title": "IT Support Officer - Broadbeach, QLD",
-      "business_name": "Ignite",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Broadbeach, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94130760",
-      "advertiser_id": "55324746",
-      "posted_date": "2026-08-21T07:01:10Z",
-      "job_description": "<p>&nbsp;</p>\n<div>Ignite Travel Group is looking for an IT Support Analyst to join our Technology team and play a key role in keeping our people connected, productive, and supported. Reporting to the IT Operations Manager, you will work closely with managers and team members across the business, delivering exceptional technical support and maintaining a reliable computing environment. This is a hands-on opportunity where you'll troubleshoot issues, support network infrastructure, deploy new technology, and contribute to continuous improvement initiatives that enhance the overall employee experience.</div>\n<p>&nbsp;</p>\n<p><strong>A day in the life:</strong></p>\n<div>\n<ul>\n<li>Provide first-line technical support to end-users, resolving hardware, software, and system issues in a timely manner.</li>\n<li>Manage incidents and service requests through the ticketing system, ensuring accurate documentation and SLA compliance.</li>\n<li>Install, configure, maintain, and troubleshoot computer hardware, peripherals, and software applications.</li>\n<li>Perform system upgrades, software updates, and security patching activities.</li>\n<li>Support LAN, WAN, and WLAN environments, including troubleshooting connectivity and network-related issues.</li>\n<li>Deploy and configure new laptops, workstations, mobile devices, and user accounts in line with security requirements.</li>\n<li>Maintain IT security standards through user access management, malware protection, backups, and policy compliance.</li>\n<li>Identify and implement opportunities to improve IT processes, service delivery, and operational efficiency.</li>\n<li>Contribute to a safe, inclusive, and accessible work environment where all Flighties feel welcomed, respected, and supported to thrive.</li>\n</ul>\n</div>\n<p>&nbsp;</p>\n<p><strong>Who you are:</strong></p>\n<div>\n<ul>\n<li>Bachelor's degree in Information Technology, Computer Science, or a related discipline, or equivalent practical experience.</li>\n<li>Proven experience in an IT Helpdesk, Service Desk, Desktop Support, or similar technical support environment.</li>\n<li>Demonstrated experience supporting users, ICT systems, and multi-site technology environments.</li>\n<li>Strong knowledge of LAN, WAN, WLAN infrastructure, networking fundamentals, and troubleshooting techniques.</li>\n<li>Experience supporting routers, switches, wireless access points, and network connectivity.</li>\n<li>Proficiency supporting Windows, macOS, and common business software applications.</li>\n<li>Strong understanding of IT security standards, controls, and best practices.</li>\n<li>Excellent communication, problem-solving, and customer service skills, with the ability to work independently and collaboratively.</li>\n</ul>\n</div>\n<p>&nbsp;</p>\n<p><strong>What you'll enjoy:</strong></p>\n<p>&nbsp;</p>\n<div>\n<p>📚&nbsp;Ongoing skills development</p>\n</div>\n<div>\n<p>🚀&nbsp;Catapult your career across a network of brands and businesses in an evolving industry</p>\n</div>\n<div>\n<p>✈️&nbsp;Say no to full price! Nab discounts on travel and more thanks to our sweet rewards program</p>\n</div>\n<div>\n<p>👩‍⚕️&nbsp;Access to industry leading health and well - being programs and financial advisors</p>\n</div>\n<div>\n<p>🌴&nbsp;Set up shop in a swanky beachfront office in Broadbeach</p>\n</div>\n<div>\n<p>💃🏿&nbsp;Enjoy social events to promote networking, celebration of wins, and sometimes just for fun!</p>\n</div>\n<div>\n<p>&nbsp;👐🏻&nbsp;Take volunteer leave as part of giving back to the local community</p>\n<p>#LI-KP1#IGNT#LI-Onsite</p>\n</div>\n<p>&nbsp;</p>",
-      "keywords": [
-        "it",
-        "support",
-        "officer",
-        "broadbeach"
-      ]
-    },
-    {
-      "job_id": "94128100",
-      "job_title": "Senior Service Desk Analyst",
-      "business_name": "Feros Care",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "Based on experience + Super + NFP Salary packaging",
-      "area": "Coolangatta, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94128100",
-      "advertiser_id": "61736371",
-      "posted_date": "2026-08-21T05:42:35Z",
-      "job_description": "<p><strong>Senior Service Desk Analyst </strong></p><p><strong>We're Feros Care, and we're pleased to meet you.</strong></p><p><strong>And what we care most about is helping people live healthier, happier, better connected lives.</strong></p><p>Since 1990, we've been making it happen, both for older Australians and people with disability. We are proud to be Game Changers. Dream Makers. Kindness Champions. Culture Shapers. Vibrant <br> Creators. And it's not just us who thinks so; We've won many awards on the local and international <br> stage for our approach.</p><p>We're looking for a <strong>Senior Service Desk Analyst</strong> to provide advanced IT support and operational guidance within our Service Desk team.</p><p>In this role, you'll resolve complex technical issues, coordinate escalations, coach team members and contribute to the day to day success of the Service Desk. Working closely with internal teams and stakeholders, you'll help minimise downtime, enhance the support experience and drive continuous service improvements across the organisation.</p><p><strong>What you'll do</strong></p><ul><li>Provide advanced technical support and resolve complex IT issues.</li><li>Coordinate daily Service Desk operations and manage escalations.</li><li>Coach and support Service Desk Analysts with case reviews and technical guidance.</li><li>Identify recurring issues and contribute to root cause investigations.</li><li>Support improvements to Service Desk processes, knowledge resources and user self service capabilities.</li><li>Support the response to critical incidents and help coordinate timely service restoration.</li><li>Contribute to IT projects, system upgrades and technology rollouts.</li><li>Coordinate hardware procurement, replacements, warranties and vendor relationships.</li><li>Develop user resources and support training for new systems and technologies.</li><li>Deliver exceptional customer service, while minimising disruption to business operations.</li><li>Act as the delegated Service Desk lead when required.</li></ul><p><strong>What you'll bring</strong></p><ul><li>Minimum 2 years' Service Desk experience, including Level 2 support and managing complex incidents and escalations.</li><li>Experience coordinating workloads, prioritising requests and supporting Service Desk operations.</li><li>Strong experience supporting Windows 10/11, Microsoft 365, Exchange, Entra ID, Intune and Active Directory environments.</li><li>Knowledge of IT service management practices, including incident, request, problem and change management.</li><li>Strong troubleshooting and problem solving skills.</li><li>Excellent communication and customer service skills.</li><li>Experience creating documentation, knowledge articles or user guides.</li><li>Experience coaching, mentoring or supporting team members.</li><li>A proactive approach to continuous improvement and service quality.</li><li>Ability to participate in an on call roster and travel to Feros Care sites as required.</li></ul><p><strong>Qualifications &amp; Checks</strong></p><ul><li>Relevant Diploma or Bachelor's degree in Information Technology, or equivalent experience.</li><li>Current Australian Driver Licence.</li><li>Undergo a Nationally Coordinated Criminal History Check.</li><li>Valid Australian working rights.</li></ul><p><strong>Desirable Criteria</strong></p><ul><li>ITIL 4 Foundation certification or similar IT service management experience.</li><li>Experience with SysAid or a similar IT service management platform.</li><li>Experience with Windows Autopilot, application deployment and mobile device management.</li><li>Experience contributing to problem management, knowledge management, self-service or workflow improvements.</li><li>Experience supporting technology projects, procurement activities or device lifecycle management.</li><li>Working knowledge of networking concepts including LAN/WAN, DNS, DHCP and VPN.</li><li>Experience working in aged care, health, disability, community services or another regulated environment.</li></ul><p><strong>Why Feros Care?</strong><br> At Feros Care, we value our people and offer:</p><ul><li>Not for Profit Salary Packaging of up to $15,900 per annum, and meal and entertainment salary sacrifice of up to $2,650 per annum, all tax free, stretching your income further.</li><li>Flexible Working Arrangements, including a hybrid model with a combination of working from our Coolangatta office and the flexibility to work remotely.</li><li>17.5% Annual Leave loading.</li><li>Cultural Leave Days for eligible employees.</li><li>Enjoy exclusive discounts, financial tips, and wellness programs through our ForME employee benefits platform.</li><li>Private Health Insurance Discount with Medibank.</li><li>Employee Assistance Program (EAP).</li><li>Paid Parental Leave (9 weeks) for eligible employees.</li><li>Access to Fitness Passport - discounted gym and pool memberships for you and your family.</li><li>$200 referral bonus per successful referral.</li></ul><p><em>Feros Care acknowledges and pays respect to the Traditional Custodians of this land on which we work. </em></p><p><em>We actively seek to include, welcome and value the unique contributions of all people. We encourage applications from Aboriginal and Torres Strait Islander people, people from cultural and linguistically backgrounds, and people with disability.</em></p><p>If you would like to discuss accessibility requirements, preferred communication methods or other possibilities, please contact <a href=\"mailto:talent@feroscare.com.au\">talent@feroscare.com.au</a></p>",
-      "keywords": [
-        "service",
-        "desk",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "94124964",
-      "job_title": "Service Desk Analyst",
-      "business_name": "Aurec",
-      "work_type": "Contract/Temp",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$450pd",
-      "area": "Bilinga, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94124964",
-      "advertiser_id": "28031400",
-      "posted_date": "2026-08-21T04:13:48Z",
-      "job_description": "<h2>Service Desk Analyst - Windows 11 Deployment</h2><strong>Coolangatta, Gold Coast | 4 days onsite per week | Contract <br><br>2 Positions: 1 x 2months, 1 x 6months.</strong> <br>We are looking for a hands-on <strong>Service Desk Analyst</strong> to join an established IT team in Coolangatta, supporting day-to-day users while assisting with a major <strong>Windows 11 rollout</strong> across the organisation. <br>This is a great opportunity for someone with around <strong>1-2+ years' Service Desk/Desktop Support experience</strong> who enjoys working directly with users and wants exposure to a broad IT environment. <h2><strong>What you'll be doing</strong></h2><ul><li>Provide Level 1 and Level 2 IT support to users across the organisation</li><li>Assist with the rollout and deployment of <strong>Windows 11</strong></li><li>Set up, configure and troubleshoot laptops, desktops and other end-user devices</li><li>Provide remote and onsite support to users</li><li>Troubleshoot Windows, Microsoft 365 and general desktop issues</li><li>Manage incidents and service requests through the Service Desk</li><li>Support Active Directory and user access requirements</li><li>Assist with hardware replacements, warranties and IT inventory</li><li>Escalate more complex incidents to the appropriate technical teams</li><li>Document solutions, procedures and support processes</li><li>Work with internal stakeholders and external technology vendors</li></ul><h2><strong>What we're looking for<br></strong></h2><ul><li><strong>Experience in a Service Desk, Help Desk or Desktop Support role</strong></li><li>Good knowledge of <strong>Windows desktop environments</strong></li><li>Experience with <strong>Microsoft 365</strong></li><li>Exposure to <strong>Active Directory</strong></li><li>Windows 10/11 deployment, migration or device rollout experience would be highly regarded</li><li>Basic networking knowledge</li><li>Strong troubleshooting and problem-solving skills</li><li>Excellent communication and customer service skills</li><li>Comfortable providing hands-on support directly to end users</li><li>Australian driver's licence</li></ul><h2><strong>The opportunity</strong></h2><ul><li><strong>Based in Coolangatta, Gold Coast</strong></li><li><strong>4 days per week in the office</strong></li><li>Work on a significant <strong>Windows 11 rollout</strong></li><li>Broad Level 1/2 support exposure</li><li>Join a friendly, established internal IT environment</li><li>Immediate contract opportunity</li></ul><br>If you're a Service Desk or Desktop Support professional looking for your next contract on the Gold Coast, we'd love to hear from you.<br> <br><strong>Apply now for a confidential discussion.</strong>",
-      "keywords": [
-        "service",
-        "desk",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "94123681",
-      "job_title": "Mid-Level Backend Developer",
-      "business_name": "East Coast Car Rentals",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "$95,000 – $110,000 per year",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94123681",
-      "advertiser_id": "22796821",
-      "posted_date": "2026-08-21T03:39:12Z",
-      "job_description": "<h2>Backend Developer (PHP / Laravel)</h2><p><strong>Southport, Gold Coast QLD • Full-time • Technology</strong></p><p>Join a growing national brand and help build the systems that keep our business moving.</p><p>East Coast Car Rentals is one of Australia's established car rental brands, with 14 locations across the country. Behind the scenes, we're investing heavily in technology and building modern platforms in-house on AWS. It's an exciting time to join our software engineering team as we continue to develop the systems, integrations and services that power our operations and customer experience.</p><p>We're looking for a Backend Developer who enjoys solving complex problems, building reliable APIs and creating scalable systems that make a real difference. Working closely with the Head of Software Engineering and collaborating with frontend developers, you'll play a key role in developing the applications and integrations that support our customers and teams every day.</p><p>If you're technically curious, enjoy building well-structured solutions and take pride in delivering high-quality code, we'd love to hear from you.</p><h2>What you'll do</h2><p>• Build and enhance our Laravel-based backend applications and APIs.</p><p>• Design, develop and maintain scalable services that support business-critical systems.</p><p>• Create and optimise MySQL and Amazon Aurora database structures, queries and performance.</p><p>• Develop and maintain integrations with third-party platforms, including communication and operational systems.</p><p>• Build secure authentication and authorisation workflows across our applications.</p><p>• Write clean, maintainable and well-documented code that supports long-term growth.</p><p>• Participate in code reviews and contribute to backend development standards and best practices.</p><p>• Collaborate closely with frontend developers to define API requirements and deliver reliable integrations.</p><p>• Help deliver new technology initiatives that improve both customer and operational outcomes.</p><h2>What you'll bring</h2><p>• 2+ years commercial experience in a Backend Developer role within a collaborative software development environment.</p><p>• Strong PHP and Laravel development experience.</p><p>• Solid understanding of MySQL database design, optimisation and performance tuning.</p><p>• Experience designing and developing RESTful APIs.</p><p>• Experience with Laravel queues, events and background job processing.</p><p>• Knowledge of authentication and security patterns, including Sanctum, OAuth or JWT.</p><p>• Experience using Git, pull requests and code review processes.</p><p>• Strong analytical and problem-solving skills with a focus on reliability and maintainability.</p><p>• The ability to communicate effectively and work within a small, agile team.</p><h2>Nice to have</h2><p>• Experience with AWS services such as RDS, Aurora, S3 or SES.</p><p>• Experience integrating third-party APIs, including Twilio or similar communication platforms.</p><p>• Familiarity with PHPUnit, Pest or automated testing practices.</p><p>• Experience working with Docker and local development environments.</p><p>• Experience working with Jira and Bitbucket.</p><p>• Interest in modern AI-powered development tools such as GitHub Copilot, Cursor or Claude.</p><p>• Experience integrating payment gateways, inventory platforms or other external business systems.</p><h2>What success looks like</h2><p>• APIs are reliable, well-documented and easy for other developers to consume.</p><p>• Database changes are delivered safely and without production disruption.</p><p>• Third-party integrations are robust and handle failure scenarios gracefully.</p><p>• New features are delivered on time and support sprint commitments.</p><p>• Test coverage and code quality remain high as the platform evolves.</p><p>• Solutions are designed with security, scalability and long-term maintainability in mind.</p><h2>Why East Coast Car Rentals</h2><p>• Work on meaningful platforms that support a national operation across Australia.</p><p>• A modern technology environment with opportunities to influence architecture and development practices.</p><p>• A collaborative engineering team where your ideas and expertise are valued.</p><p>• A broad, hands-on role with genuine variety and visible impact.</p><p>• Opportunities to learn, grow and expand your technical capabilities.</p><p>• Based at our Corporate Southport head office on the Gold Coast.</p><h2>How to apply</h2><p>If this sounds like you, we'd love to hear from you. Please submit your Resume and a short Cover Letter telling us about a backend application, integration or API you've built, what challenges you faced, and what you learned from the experience.</p><p><strong>East Coast Car Rentals is an equal opportunity employer. We welcome applications from people of all backgrounds and are committed to creating a diverse, inclusive and supportive workplace.</strong></p>",
-      "keywords": [
-        "backend",
-        "developer"
-      ]
-    },
-    {
-      "job_id": "94122430",
-      "job_title": "Mid-Level Frontend Developer",
-      "business_name": "East Coast Car Rentals",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "$85,000 – $95,000 per year",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94122430",
-      "advertiser_id": "22796821",
-      "posted_date": "2026-08-21T03:05:07Z",
-      "job_description": "<hr><h2>Mid-Level Frontend Developer (Vue 3 / Next.js)</h2><p><strong>Southport, Gold Coast QLD • Full-time • Technology</strong></p><p>Join a growing national brand and help build the digital products that power the future of our business.</p><p>East Coast Car Rentals is one of Australia's established car rental brands, with 14 locations across the country. Behind the scenes, we're investing heavily in technology and building modern platforms in-house on AWS. It's an exciting time to join our software engineering team as we continue to develop products that support our customers, operations and future growth.</p><p>We're looking for a Frontend Developer who enjoys building clean, scalable user experiences and takes pride in writing high-quality code. Working closely with the Head of Software Engineering and collaborating with backend developers, you'll play a key role in designing, developing and improving the applications our customers and staff use every day.</p><p>If you're technically curious, enjoy solving problems, and want your work to have visible impact in a growing business, we'd love to hear from you.</p><h2>What you'll do</h2><p>• Build and maintain modern web applications using Vue 3, Next.js, React and TypeScript.</p><p>• Develop reusable components and frontend frameworks that improve consistency and speed across our products.</p><p>• Integrate APIs and collaborate closely with backend developers to deliver reliable, scalable features.</p><p>• Participate in code reviews and contribute to frontend development standards and best practices.</p><p>• Work on responsive user interfaces that perform well across desktop and mobile devices.</p><p>• Help plan and deliver new technology initiatives and customer-facing digital experiences.</p><p>• Contribute to application performance, usability, accessibility and maintainability.</p><p>• Identify opportunities to improve development workflows, tooling and automation.</p><h2>What you'll bring</h2><p>• 2 + Years commercial experience in a Frontend Developer role within a collaborative software development environment.</p><p>• Strong experience with Vue 3 (Composition API).</p><p>• Experience with Next.js and React.</p><p>• Solid JavaScript and TypeScript skills.</p><p>• Experience integrating REST APIs and working with backend services.</p><p>• Strong understanding of responsive design, component architecture and modern CSS practices.</p><p>• Experience using Git, pull requests and code review processes.</p><p>• A problem-solving mindset and commitment to building maintainable, high-quality software.</p><p>• Strong communication skills and the ability to work effectively within a small, agile team.</p><h2>Nice to have</h2><p>• React Native development experience.</p><p>• Exposure to testing frameworks such as Vitest, Cypress or Playwright.</p><p>• Experience with Tailwind CSS.</p><p>• Familiarity with AWS services such as S3 and CloudFront.</p><p>• Experience working with Jira and Bitbucket.</p><p>• Interest in modern AI-powered development tools such as GitHub Copilot, Cursor or Claude.</p><p>• Understanding of SEO and emerging AI search optimisation practices.</p><h2>What success looks like</h2><p>• Features are delivered on time and meet sprint commitments.</p><p>• Components are built once and reused across applications rather than duplicated.</p><p>• API integration challenges are identified early and resolved collaboratively.</p><p>• New releases are stable, reliable and minimise regressions.</p><p>• Documentation remains current and enables effective team collaboration.</p><p>• Code reviews improve quality while supporting knowledge sharing across the team.</p><h2>Why East Coast Car Rentals</h2><p>• Work on meaningful products used by customers and employees across Australia.</p><p>• A modern technology stack with the opportunity to influence how our platforms evolve.</p><p>• A collaborative engineering environment where your ideas are valued.</p><p>• A small, capable team where your contributions are visible and impactful.</p><p>• Opportunities to learn, grow and expand your technical skills.</p><p>• Based at our Corporate Southport head office on the Gold Coast.</p><h2>How to apply</h2><p>If this sounds like you, we'd love to hear from you. Please submit your Resume and a short Cover Letter telling us about a frontend project you're particularly proud of, what challenges it presented, and how you approached them.</p><p><strong>East Coast Car Rentals is an equal opportunity employer. We welcome applications from people of all backgrounds and are committed to creating a diverse, inclusive and supportive workplace.</strong></p>",
-      "keywords": [
-        "frontend",
-        "developer"
-      ]
-    },
-    {
-      "job_id": "94117750",
-      "job_title": "Program Manager - Cyber Security Uplift",
-      "business_name": "Limelight People",
-      "work_type": "Contract/Temp",
-      "job_type": "Programme & Project Management",
-      "pay_range": "",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94117750",
-      "advertiser_id": "35360276",
-      "posted_date": "2026-08-21T00:47:43Z",
-      "job_description": "Our client a leading Higher Education organisation is seeking an experienced <strong>Program Manager</strong> to lead the coordination and delivery of a significant <strong>Cyber Security Uplift Program</strong>.<br><br> This is a high-profile engagement focused on driving program governance, managing dependencies across multiple technology and business workstreams, and ensuring successful execution of critical cyber security initiatives across the organisation.<br><br> Working closely with senior stakeholders, technology teams and business leaders, you will be responsible for orchestrating delivery across cyber security, identity, endpoint, infrastructure, applications, service desk, communications and business functions.<br><br>This is initially a 6 month contract, with a view to extend.&nbsp;<br><br><strong> Key Responsibilities</strong> <ul> <li>Coordinate and oversee the Cyber Security Uplift Program across multiple workstreams.</li> <li>Manage program sequencing, scheduling and delivery dependencies.</li> <li>Ensure alignment between cyber security, identity, endpoint, infrastructure, applications, service desk, communications and business teams.</li> <li>Track and report on milestones, deliverables and program outcomes.</li> <li>Identify and manage risks, issues and change impacts across the program.</li> <li>Drive stakeholder engagement and facilitate communication between technical and business teams.</li> <li>Prepare clear and concise executive reporting, steering committee updates and governance documentation.</li> <li>Support decision-making through proactive management of program impacts, dependencies and delivery risks.</li> <li>Ensure appropriate governance, reporting and escalation processes are maintained throughout the program lifecycle.</li> </ul> <strong>About You To be successful in this role, you will possess:</strong><br> <ul> <li>Demonstrated experience delivering technology transformation, cyber security or uplift initiatives within complex enterprise environments.</li> <li>Strong program and project management capabilities.</li> <li>Proven experience managing dependencies, risks, issues, change and stakeholder impacts across multiple workstreams.</li> <li>Exceptional stakeholder management and communication skills.</li> <li>Experience producing executive-level reporting and presenting to senior leadership.</li> <li>Ability to navigate complex organisational environments and drive outcomes through collaboration and influence.</li> </ul> <strong>Desirable Experience</strong> <ul> <li>Project or Program Management qualification (PMP, PRINCE2, MSP or equivalent).</li> <li>Experience within large and complex organisations such as Higher Education, Government or Enterprise environments.</li> <li>Exposure to cyber security, identity management, infrastructure or enterprise technology programs.</li> </ul> <strong>What's on Offer?</strong> <ul> <li>Initial 6-month contract.</li> <li>Opportunity to contribute to a high-profile cyber security transformation program.</li> <li>Hybrid working environment.</li> <li>Work with a recognised and respected Australian university.</li> <li>Immediate start available.</li> </ul> <strong>Apply now or contact us for a confidential discussion.</strong><br> &nbsp;",
-      "keywords": [
-        "program",
-        "manager",
-        "cyber",
-        "security",
-        "uplift"
-      ]
-    },
-    {
-      "job_id": "94117643",
-      "job_title": "Delivery Lead",
-      "business_name": "Southern Cross University",
-      "work_type": "Full time",
-      "job_type": "Programme & Project Management",
-      "pay_range": "$134,939 - $140,896 plus 17% Superannuation",
-      "area": "Bilinga, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94117643",
-      "advertiser_id": "15012749",
-      "posted_date": "2026-08-21T00:42:55Z",
-      "job_description": "<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing <a href=\"https://www.scu.edu.au/southern-cross-model/\" target=\"_self\">Southern Cross Model</a> brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity</strong></p>\n<p>Technology is central to how a modern university operates, connects with its students and staff, and delivers its strategic priorities.</p>\n<p>As Delivery Lead, you’ll take ownership of complex, multi-stream technology programs spanning key University portfolios, bringing together technology, business and external partners to deliver measurable outcomes.</p>\n<p>This is a senior delivery leadership role where you’ll provide strategic oversight across significant programs, navigate complex dependencies and risks, and bring clarity to competing priorities. You’ll work closely with senior executives, program sponsors and stakeholders to ensure delivery remains aligned, transparent and focused on outcomes.</p>\n<p>You’ll work across the full breadth of the University, supporting technology initiatives across Future Students, Current Students, Teaching &amp; Learning, and Research &amp; Enterprise.</p>\n<p>You will make an impact by:</p>\n<ul>\n<li>Establishing delivery plans, governance and quality controls across programs</li>\n<li>Bringing together Project Managers, technology teams, vendors and stakeholders</li>\n<li>Managing program risks, dependencies, resources and critical delivery paths</li>\n<li>Providing clear reporting and insights to executives and governance forums</li>\n<li>Leading change and embedding new ways of working across the University</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<p>You’re an experienced Delivery Lead or Program Manager who thrives in complex environments where technology, people and business priorities intersect.</p>\n<p>You bring strategic thinking and strong delivery discipline, with the confidence to take ownership of significant programs, navigate ambiguity and bring clarity to complex problems.</p>\n<p>You’ll be comfortable working with senior executives and governance forums, leading multidisciplinary teams and making decisions that keep delivery moving while maintaining strong risk, financial and governance disciplines.</p>\n<p>To succeed in this role, you will also need:</p>\n<ul>\n<li>Extensive experience delivering complex, multi-stream technology programs</li>\n<li>Proven leadership across governance, risk and benefits realization</li>\n<li>Experience leading multidisciplinary teams across complex environments</li>\n<li>Strong financial, resource and stakeholder management capability</li>\n<li>Strategic thinking and the ability to navigate ambiguity and complexity</li>\n</ul>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/gold-coast/\" target=\"_self\">Gold Coast</a>, <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/coffs-harbour/\" target=\"_self\">Coffs Harbour</a> and the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/lismore/\" target=\"_self\">Northern Rivers</a> region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li>Full-time, continuing (permanent)</li>\n<li>Located at Gold Coast, QLD 4225. Relocation assistance is available, making it easier to join our regional communities</li>\n<li>HEW Level 9. The base salary ranges from $134,393 - $140,896 per annum, plus 17% employer’s contribution to superannuation. The total remuneration package is up to $164,848.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit <a href=\"https://www.scu.edu.au/about/jobs-at-southern-cross/why-work-at-southern-cross-university/\" target=\"_self\">Why work at Southern Cross University?</a></p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>To view the full position advertisement and details of the application process, please click on the APPLY button where you will be redirected to the Southern Cross University website. &nbsp;&nbsp;</p>\n<p><strong>Applications close 11.30pm 6 September 2026.</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. &nbsp;Employer visa sponsorship is not available for this position.</p>\n<p>Applicants must apply online and attach a CV and cover letter. The cover letter must clearly address each selection criterion in the position description. Information to support you prepare your application is available on our <a href=\"https://www.scu.edu.au/about/jobsscu/vacancies/applying-for-a-position/\" target=\"_self\">website.</a></p>\n<p><em>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to </em><a href=\"mailto:jobs@scu.edu.au\" target=\"_self\"><em>jobs@scu.edu.au.</em></a></p>\n<p><strong>#LI-VC1</strong></p>\n<p><strong>#GC</strong></p>\n",
-      "keywords": [
-        "delivery"
-      ]
-    },
-    {
-      "job_id": "94117574",
-      "job_title": "Business Analyst - Jetstar Retail",
-      "business_name": "dnata catering",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "",
-      "area": "Coolangatta, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94117574",
-      "advertiser_id": "36579635",
-      "posted_date": "2026-08-21T00:39:13Z",
-      "job_description": "<p><strong>Start your journey with dnata catering &amp; retail, where the sky is the limit!</strong></p><p><strong>About Us</strong></p><p>Part of the Emirates Group, dnata catering &amp; retail is Australia’s leading inflight catering and retail partner. We support many of the world’s most recognised airlines, delivering award‑winning meals and exceptional service that create memorable inflight dining experiences for thousands of travelers each day.</p><p><em><strong>This is a full-time position located at the dnata catering &amp; retail facility in Coolangatta. For the right candidate, we are open to a Brisbane-based arrangement, with regular travel to Coolangatta 1-2 days per week.</strong></em></p><p><strong>About the Role</strong></p><p>We are currently seeking a <strong>Business Analyst</strong> to join our retail partner Jetstar team, supporting reporting, analytics and business intelligence across our inflight retail operations.</p><p><strong>Reporting to the Finance Manager, Jetstar</strong>, this role is ideal for a commercially minded analyst with a strong finance background and technical reporting expertise. You will deliver insights that support business performance, profitability and strategic decision-making.</p><p>Working closely with Finance and operational stakeholders, you will enhance reporting capability, drive data-informed decisions and identify opportunities to improve commercial outcomes.</p><p><strong>Key responsibilities include:</strong></p><ul><li>Develop and enhance commercial reporting, dashboards and management reporting to support business performance.</li><li>Analyse financial and operational data to identify trends, risks, opportunities and insights that drive informed decision-making.</li><li>Support P&amp;L analysis, profitability reporting, forecasting and budgeting processes.</li><li>Build and maintain KPI frameworks, reporting standards and governance processes to ensure trusted data outcomes.</li><li>Identify opportunities to automate reporting, improve data quality and strengthen analytics capability.</li><li>Partner with Finance, Operations and key stakeholders to deliver business analysis, process improvements and reporting solutions that create value.</li></ul><p><strong>About you:</strong></p><ul><li>Experience in a Commercial Finance, FP&amp;A or Financial Analyst role is highly preferred.</li><li>Experience with P&amp;L reporting, budgeting, forecasting and profitability analysis.</li><li>Demonstrated experience in reporting, analytics, business intelligence or business analysis.</li><li>Advanced Excel skills and experience with Power BI, SQL or other reporting tools.</li><li>Strong analytical, problem-solving and stakeholder management skills.</li><li>Ability to partner with Finance and operational stakeholders to drive commercial outcomes.</li><li>Relevant qualifications in Finance, Commerce, Business, Analytics or a related discipline.</li><li>Experience in aviation, retail, food manufacturing or operational environments is advantageous.</li></ul><p><strong>Benefits</strong></p><ul><li>5 weeks annual leave and competitive salary.</li><li>Employee Assistance Program (EAP) available 24/7.</li><li>Career development and progression.</li><li>Corporate Parking Allowance (Broadbeach).</li><li>Career development and progression supported by dedicated training.</li><li>Discounts at hundreds of retailers, novated leasing and wellbeing resources.</li></ul><p><em>At dnata, we value an inclusive and respectful workplace and welcome applications from all backgrounds and abilities. For support or adjustments, contact <a href=\"mailto:recruitment-dc-aus@dnata.com\">recruitment-dc-aus@dnata.com</a>&nbsp;</em></p><p><strong>The Recruitment process</strong> may include interviews, health checks, reference and criminal history checks, and verification of working rights. Please note, only shortlisted candidates will be contacted.</p>",
-      "keywords": [
-        "business",
-        "analyst",
-        "jetstar",
-        "retail"
-      ]
-    },
-    {
-      "job_id": "94116032",
-      "job_title": "Data and Integration Engineer",
-      "business_name": "Bindaree Food Group",
-      "work_type": "Full time",
-      "job_type": "Database Development & Administration",
-      "pay_range": "",
-      "area": "Burleigh Heads, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94116032",
-      "advertiser_id": "35925340",
-      "posted_date": "2026-08-20T23:13:49Z",
-      "job_description": "<p>Bindaree Food Group is one of Australia's largest privately owned beef processing and value-adding businesses. Our Azure data platform carries the reporting that runs the Group - livestock, production, finance, workforce, safety and commercial and exchanges data daily with our major grocery customers.</p>\n\n<p>We are looking for a Data &amp; Integration Engineer to own it. You will report directly to the Chief Information Officer, and the data team is being built around this role.</p>\n<br><p><b>What you'll be doing:</b></p>\n\n<ul>\n\t<li>Own a production Azure integration estate -&nbsp;20+ Logic Apps (Standard), 200+ workflows, supported by Azure Functions.</li>\n\t<li>Administer and tune Azure SQL Managed Instance across roughly 25 databases.</li>\n\t<li>Maintain EDI and file exchange with our major grocery customers.</li>\n\t<li>Lead the migration from Azure Analysis Services to Microsoft Fabric.</li>\n\t<li>Build Power BI semantic models and set the standards the team builds to.</li>\n\t<li>Introduce source control and automated deployment.</li>\n\t<li>Make sure the platform underneath our AI work is governed and trustworthy.</li>\n</ul>\n<br><p><b>What you will bring:</b></p>\n\n<ul>\n\t<li>Five or more years in data engineering, integration engineering or BI development.</li>\n\t<li>Strong, current, hands-on Azure -&nbsp;Logic Apps or a comparable integration platform, Azure Functions, Azure SQL.</li>\n\t<li>Deep SQL and T-SQL, including performance tuning.</li>\n\t<li>Proven Power BI -&nbsp;DAX, data modelling, semantic models and workspace administration.</li>\n\t<li>Microsoft Entra ID, managed identities and Key Vault.</li>\n\t<li>Integration patterns in production -&nbsp;SFTP, EDI, REST, queueing and incremental loads.</li>\n\t<li>The judgement and self-sufficiency to own a production platform.</li>\n</ul>\n\n<p><b>Not essential, but nice to have experience with:</b><br>\nMicrosoft Fabric. Azure DevOps, Bicep or Terraform. Food manufacturing, agribusiness or FMCG. Plant, SCADA or weighing data. Applied AI on operational data.</p>\n\n<p><b>Why this opportunity?</b></p>\n\n<ul>\n\t<li>Genuine ownership of the Group's data platform, and a path to lead the team.</li>\n\t<li>Our data is already consolidated and ready -&nbsp;the AI work starts now, not in a strategy document.</li>\n\t<li>A privately owned Australian business where decisions get made quickly and you will see your work used on the floor.</li>\n</ul>\n\n<p><b>About Bindaree</b></p>\n\n<p>Bindaree Food Group is a true paddock‑to‑plate business, with operations spanning livestock, processing, value‑add, logistics and corporate roles across regional NSW and Queensland. From Inverell and Cooma through to Burleigh Heads, Brisbane and Sydney, our teams help deliver quality beef products to major supermarkets, quick service restaurants and export customers.</p>\n\n<p>We’re a people business at our core. Our values of Culture of Care, Agility, Exceed Expectations and Openness guide how we work together, and our tagline People, Passion, Flavour reflects the energy we look for in every new team member.</p>\n\n<p><b>Location &amp; next steps</b></p>\n\n<p>Base yourself at Brisbane (Lytton), Burleigh Heads, or Inverell, with regular travel between our sites. Some out-of-hours work is required to support scheduled overnight integration workloads.&nbsp;</p>\n\n<p>Pre‑employment checks, including medical, physical, and police screening, may apply.&nbsp;Apply with your CV and a short note telling us which parts of the platform above you have run before.</p>",
-      "keywords": [
-        "data",
-        "integration",
-        "engineer"
-      ]
-    },
     {
       "job_id": "94099921",
       "job_title": "AI Software Developer",
@@ -1177,6 +991,25 @@
       ]
     },
     {
+      "job_id": "93872518",
+      "job_title": "Health Information Manager",
+      "business_name": "Department of Health - Queensland",
+      "work_type": "Full time",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93872518",
+      "advertiser_id": "32285210",
+      "posted_date": "2026-08-10T06:02:42Z",
+      "job_description": "<div>\n \n <p>You will provide advice and support on Information Management practices and ensure data is collected accurately and promptly to meet reporting requirements.</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Health Information Manager</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Actively support, promote and participate in the management of Hospital Based Corporate Information System</li>\n<li>Conduct audits and provide health information management advice and education</li>\n<li>Monitor and reconcile data captured in patient information systems</li>\n<li>Assist in the development and maintenance of work instructions, procedures and training materials and deliver training&nbsp;</li>\n<li>Actively support, promote and participate in quality activities aimed at improving the documentation of clinical information</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>A Bachelor's degree in Health Information Management or equivalent</li>\n<li>Proof of qualification and/or registration with the appropriate registration authority</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Temporary full time (six months, with the possibility of extension)</li>\n<li>Base salary ranging from $4102.90 - $4,487.10 per fortnight</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) Division drives innovation and transformation within the Gold Coast Health Service. Aligned with the Gold Coast Health Strategic Plan (G28) we are dedicated to improving healthcare delivery through digital solutions and strategic initiatives that enhance service quality and operational efficiency.</p>\n<p>DHI encompasses a range of interconnected teams including Digital Project Delivery, Digital Experience, Technology Operations, Digital Security and Architecture, Health Information, and the Investment Management Office. Together, these teams collaborate to optimise healthcare service delivery, improve performance, and drive innovation. Through strategic partnerships and forward-thinking initiatives, we're committed to enhancing patient outcomes and creating lasting improvements in healthcare services.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Friday, 21 August 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC689823</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
+      "keywords": [
+        "health",
+        "information",
+        "manager"
+      ]
+    },
+    {
       "job_id": "93871619",
       "job_title": "Sharepoint, Power Apps and M365 Administrator",
       "business_name": "Capital Talent Consulting Pty Ltd",
@@ -1195,6 +1028,25 @@
         "apps",
         "m365",
         "administrator"
+      ]
+    },
+    {
+      "job_id": "93861051",
+      "job_title": "Health Information Manager",
+      "business_name": "Gold Coast Hospital & Health Service",
+      "work_type": "Contract/Temp",
+      "job_type": "Management",
+      "pay_range": "$4,102.90 - $4,487.10 per fortnight + 12.75% super",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93861051",
+      "advertiser_id": "32285403",
+      "posted_date": "2026-08-10T00:17:06Z",
+      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Health Information Manager</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Actively support, promote and participate in the management of Hospital Based Corporate Information System</li>\n<li>Conduct audits and provide health information management advice and education</li>\n<li>Monitor and reconcile data captured in patient information systems</li>\n<li>Assist in the development and maintenance of work instructions, procedures and training materials and deliver training&nbsp;</li>\n<li>Actively support, promote and participate in quality activities aimed at improving the documentation of clinical information</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>A Bachelor's degree in Health Information Management or equivalent</li>\n<li>Proof of qualification and/or registration with the appropriate registration authority</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Temporary full time (six months, with the possibility of extension)</li>\n<li>Base salary ranging from $4102.90 - $4,487.10 per fortnight</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) Division drives innovation and transformation within the Gold Coast Health Service. Aligned with the Gold Coast Health Strategic Plan (G28) we are dedicated to improving healthcare delivery through digital solutions and strategic initiatives that enhance service quality and operational efficiency.</p>\n<p>DHI encompasses a range of interconnected teams including Digital Project Delivery, Digital Experience, Technology Operations, Digital Security and Architecture, Health Information, and the Investment Management Office. Together, these teams collaborate to optimise healthcare service delivery, improve performance, and drive innovation. Through strategic partnerships and forward-thinking initiatives, we're committed to enhancing patient outcomes and creating lasting improvements in healthcare services.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Friday, 21 August 2026</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC689823</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
+      "keywords": [
+        "health",
+        "information",
+        "manager"
       ]
     },
     {
@@ -1764,6 +1616,44 @@
       "keywords": [
         "network",
         "administrator"
+      ]
+    },
+    {
+      "job_id": "93489588",
+      "job_title": "Financial Product Manager",
+      "business_name": "G8 Education Limited",
+      "work_type": "Full time",
+      "job_type": "Product Management & Development",
+      "pay_range": "",
+      "area": "Varsity Lakes, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93489588",
+      "advertiser_id": "22363191",
+      "posted_date": "2026-07-22T06:25:15Z",
+      "job_description": "<p>Nurturing the greatness in every child - and in you.</p>\n<p>&nbsp;</p>\n<p><strong>Join one of Australia’s Largest Leading Early Education Providers!&nbsp;&nbsp;</strong></p>\n<p>At G8 Education, we’re on a mission to shape the future! With 350+ early education and care centres under 21 brands, our 7,000+ dedicated team members nurture over 40,000 children every day.&nbsp;&nbsp;</p>\n<p>As an ASX listed growth company, we’re committed to empowering, rewarding, and supporting every team member – from our centre educators to our leadership and support team.&nbsp;&nbsp;</p>\n<p><strong>The Opportunity</strong>&nbsp;</p>\n<p>We're looking for an experienced Product Manager to join our Digital Solutions team.</p>\n<p>Reporting to the Head of Enterprise Architecture, you will own the strategy, roadmap and ongoing performance of G8's Finance Technology portfolio, ensuring our finance systems continue to support the evolving needs of the business.</p>\n<p>Working closely with Finance, and external vendors, you'll be responsible for the operational performance of our finance technology services while identifying opportunities to enhance capability, improve user experience and deliver measurable business value.</p>\n<p>This is a highly collaborative role that requires someone who can confidently engage senior stakeholders, lead technology change initiatives and balance strategic planning with operational excellence.</p>\n<p><strong>Key Responsibilities </strong></p>\n<ul>\n<li>Own the product strategy and roadmap for G8's Finance Technology portfolio.</li>\n<li>Ensure the effective operation and continuous improvement of finance technology services across the organisation.</li>\n<li>Partner with Finance and business leaders to understand operational needs and translate them into technology solutions.</li>\n<li>Lead product discovery, prioritisation and delivery of enhancements that drive business value.</li>\n<li>Monitor market trends and emerging technologies, identifying opportunities to strengthen the product strategy.</li>\n<li>Build and maintain strong relationships with internal stakeholders and external technology vendors.</li>\n<li>Lead change initiatives across the Finance Operations portfolio, ensuring successful adoption of new capabilities.</li>\n<li>Manage product performance, budgets, priorities and success metrics to maximise business outcomes.</li>\n</ul>\n<p><strong>About You</strong>&nbsp;</p>\n<p>You will be a commercially minded Product Manager with strong finance systems experience and a passion for delivering technology solutions that improve business performance.</p>\n<ul>\n<li><strong>Strong understanding of finance and accounting processes</strong>.</li>\n<li>Demonstrated experience managing Finance solutions including Back Office General Ledger (GL) systems.</li>\n<li>Proven ability to influence and manage relationships with senior business stakeholders.</li>\n<li>Experience managing third-party technology vendors and strategic partnerships.</li>\n<li>Strong experience leading business and technology change initiatives.</li>\n<li>Experience developing product strategies, roadmaps and continuous improvement initiatives.</li>\n<li>Excellent analytical, problem-solving and communication skills.</li>\n<li>Experience with Coupa and Microsoft Dynamics 365 (D365) will be highly regarded.</li>\n<li>A tertiary qualification in Business, Information Technology, Finance or a related discipline.</li>\n<li><em>Hold a valid working with children check or willingness to obtain upon commencement. </em></li>\n</ul>\n<p><strong>Benefits at G8</strong></p>\n<ul>\n<li>Competitive salary package</li>\n<li>Eligibility to participate in our Short-Term Incentive program which is an annualised bonus each year</li>\n<li>Hybrid working conditions with 3 days in office and 2 from home.</li>\n<li>Monthly RDO</li>\n<li>Located in Varsity Lakes.</li>\n<li>Career development opportunities as part of a large ASX-listed company&nbsp;</li>\n<li>Access a 50% discount on early education and childcare fees at any G8 Education Centre.&nbsp;</li>\n</ul>\n<p><em>Find out more here: </em>G8 Education</p>\n<p><strong>United by purpose. Guided by values.</strong></p>\n<p>At G8 Education, we’re proud to celebrate, support, and inspire our 7,000+ team members as they make a lasting difference in the lives of children and their own.</p>\n<p>Driven by our purpose “to nurture the greatness in every child to grow, thrive and learn” and guided by our values, we’re shaping bright futures for children, families, communities, and each other.</p>\n<p><strong>Our values:</strong> Safety First &amp; Always, Thriving Together, Owning the Outcome, Being the Difference, Building Bright Futures.</p>\n<p><strong>Our Recruitment Process</strong></p>\n<p><em><strong>Recruitment Process<br></strong></em></p>\n<p>Our recruitment process includes police checks and verification of qualifications and right-to-work status.</p>\n<p>Please note that the advertised closing date is indicative only, and applications may close earlier. We encourage you to apply as soon as possible.</p>\n<p><em><br>G8 Education is a committed advocate for child protection, safety and wellbeing. We have a zero tolerance for any form of child abuse or harm. The safety and wellbeing of children will always be our priority, and all team members are expected to embrace this shared commitment.</em></p>",
+      "keywords": [
+        "financial",
+        "product",
+        "manager"
+      ]
+    },
+    {
+      "job_id": "93476982",
+      "job_title": "Plant Technology Manager",
+      "business_name": "VENTORA",
+      "work_type": "Full time",
+      "job_type": "Other",
+      "pay_range": "",
+      "area": "Stapylton, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93476982",
+      "advertiser_id": "37243726",
+      "posted_date": "2026-07-22T00:24:20Z",
+      "job_description": "<p><strong>About our Organisation</strong>&nbsp;</p><p>VENTORA&nbsp;is the name behind iconic Australian brands including A&amp;L Windows &amp; Doors, Breezway louvres, Corinthian Doors, Stegbar Windows &amp; Doors and Trend Windows &amp; Doors.</p><p>As an established manufacturer with over 4,500 employees, our vision is to inspire our customers through leading brands, great service, innovative new products and solutions leveraging the full&nbsp;VENTORA&nbsp;portfolio, while significantly enhancing our ease of doing business built on operational excellence.</p><p><strong>About the Opportunity</strong></p><p>Due to internal promotion, we are now seeking our next Plant Technology Manager to oversee and manage the IT operational technology environment. In this pivotal role you will ensure that all systems are up to date, fit for purpose, reliable, secure and efficient. As the bridge between operational technology (OT) and IT, you will ensure seamless integration, collaboration and alignment of technological goals with business objectives.</p><p>Responsibilities include:</p><ul><li>Oversee the implementation, maintenance and optimisation of IT operational technology systems across all business units, including multi-function devices and barcode scanners</li><li>Ensure seamless integration between enterprise IT systems (ERP, CRM) and OT systems (SCADA, MES)</li><li>Support the convergence of IT and OT environments to enable data-driven decision making and predictive maintenance strategies</li><li>Work closely with cross-functional teams to ensure alignment with operational and business objectives</li><li>Develop and enforce technology standards, policies and procedures</li><li>Participate in operational technology projects from conception to completion, ensuring timely delivery in adherence to defined standards and policies</li><li>Implement robust cyber security measures to protect assets and data</li><li>Conduct regular testing, auditing and assessments</li></ul><p><strong>About You</strong></p><p><strong>&nbsp;</strong></p><p>While ideally you will bring similar experience from a manufacturing environment, what is vital is your natural ability to communicate and work effectively with multiple stakeholders and cross functional teams.</p><p>You will also have:</p><ul><li>Diploma or above in IT (ideal but not essential)</li><li>A good understanding of networking, cyber security and general IT infrastructure</li><li>Knowledge of manufacturing processes and related technology systems eg. SCADA, PLCs, MES (highly regarded)</li><li>Previous experience with remote access systems</li><li>Previous experience using InTune</li><li>The ability to work with and support multiple sites across multiple time zones</li></ul><p><strong>About the Benefits</strong></p><p><strong>&nbsp;</strong></p><ul><li>Competitive remuneration</li><li>Flexible work arrangements, with 2 days per week WFH</li><li>Generous discounts on our extensive range of products</li><li>Ability to schedule leave every year over the Christmas period.</li><li>Additional paid day’s leave on your birthday</li><li>Flare benefits program - salary packaging, discounts and premium perks</li><li>Employee Assistance Program access</li><li>Career progression opportunities as part of a 4,500-employee organisation</li></ul><p><strong>Your Next Steps</strong></p><p>Apply now to become VENTORA’s new Plant Technology Manager and help drive operational excellence!</p><p><em>Eligible applications must have legal rights to work full time in Australia.<br><br>Agencies will only be engaged if required. Please do not contact us or send applicants to us unless requested by the Talent Acquisition Team.</em></p><p>Curious about VENTORA Group? Check out our website at&nbsp;https://www.ventora.com.au&nbsp;for comprehensive insights into our operations. Prefer visuals? Watch our short overview video here:&nbsp;https://www.youtube.com/@VENTORA_GROUP</p>",
+      "keywords": [
+        "plant",
+        "technology",
+        "manager"
       ]
     }
   ]
