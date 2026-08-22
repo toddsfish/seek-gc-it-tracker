@@ -1,505 +1,506 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-08-22",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-23T06:12:55.935417+10:00",
-  "total_jobs": 63,
+  "scraped_at": "2026-08-22T06:15:28.322064+10:00",
+  "total_jobs": 66,
   "keywords": [
     {
       "term": "analyst",
-      "count": 15,
-      "share": 0.2381
+      "count": 14,
+      "share": 0.2121
     },
     {
       "term": "it",
       "count": 12,
-      "share": 0.1905
+      "share": 0.1818
     },
     {
       "term": "support",
-      "count": 10,
-      "share": 0.1587
+      "count": 11,
+      "share": 0.1667
     },
     {
       "term": "developer",
       "count": 10,
-      "share": 0.1587
+      "share": 0.1515
     },
     {
       "term": "business",
       "count": 8,
-      "share": 0.127
+      "share": 0.1212
+    },
+    {
+      "term": "engineer",
+      "count": 7,
+      "share": 0.1061
     },
     {
       "term": "software",
       "count": 7,
-      "share": 0.1111
+      "share": 0.1061
     },
     {
       "term": "manager",
       "count": 6,
-      "share": 0.0952
+      "share": 0.0909
     },
     {
-      "term": "engineer",
+      "term": "officer",
       "count": 5,
-      "share": 0.0794
-    },
-    {
-      "term": "service",
-      "count": 5,
-      "share": 0.0794
+      "share": 0.0758
     },
     {
       "term": "technician",
       "count": 5,
-      "share": 0.0794
+      "share": 0.0758
     },
     {
       "term": "ai",
       "count": 4,
-      "share": 0.0635
+      "share": 0.0606
     },
     {
-      "term": "officer",
+      "term": "service",
       "count": 4,
-      "share": 0.0635
+      "share": 0.0606
+    },
+    {
+      "term": "administrator",
+      "count": 4,
+      "share": 0.0606
     },
     {
       "term": "solutions",
       "count": 3,
-      "share": 0.0476
+      "share": 0.0455
     },
     {
       "term": "technical",
       "count": 3,
-      "share": 0.0476
-    },
-    {
-      "term": "desk",
-      "count": 3,
-      "share": 0.0476
+      "share": 0.0455
     },
     {
       "term": "program",
       "count": 3,
-      "share": 0.0476
-    },
-    {
-      "term": "administrator",
-      "count": 3,
-      "share": 0.0476
+      "share": 0.0455
     },
     {
       "term": "product",
       "count": 3,
-      "share": 0.0476
+      "share": 0.0455
     },
     {
       "term": "cyber",
       "count": 3,
-      "share": 0.0476
+      "share": 0.0455
     },
     {
       "term": "development",
       "count": 3,
-      "share": 0.0476
+      "share": 0.0455
     },
     {
       "term": "project",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0303
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0303
+    },
+    {
+      "term": "network",
+      "count": 2,
+      "share": 0.0303
     },
     {
       "term": "php",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0303
     },
     {
-      "term": "operations",
+      "term": "desk",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0303
     },
     {
       "term": "deployment",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0303
     },
     {
       "term": "wsr",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0303
+    },
+    {
+      "term": "operations",
+      "count": 2,
+      "share": 0.0303
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0303
     },
     {
       "term": "systems",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0303
     },
     {
       "term": "owner",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0303
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0303
     },
     {
       "term": "delivery",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0303
     },
     {
       "term": "specialist",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0303
     },
     {
       "term": "leader",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "accounting",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "jetstar",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "retail",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "system",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "zoho",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "user",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "frontend",
-      "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
+    },
+    {
+      "term": "frontend",
+      "count": 1,
+      "share": 0.0152
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "wordpress",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "heads",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "days",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "per",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "week",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "laravel",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "java",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
+    },
+    {
+      "term": "architecture",
+      "count": 1,
+      "share": 0.0152
+    },
+    {
+      "term": "platform",
+      "count": 1,
+      "share": 0.0152
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
+    },
+    {
+      "term": "ict",
+      "count": 1,
+      "share": 0.0152
     },
     {
       "term": "ao4",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "api",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "tech",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "kingston",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "state",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "apps",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "m365",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "regional",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "supervisor",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "evolve",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "writer",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "machinery",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "ui",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "ux",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "landing",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "page",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     },
     {
       "term": "leadify",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0152
     }
   ],
   "jobs": [
-    {
-      "job_id": "94143028",
-      "job_title": "Service Desk Analyst",
-      "business_name": "Edison Talent",
-      "work_type": "Contract/Temp",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "Competitive",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94143028",
-      "advertiser_id": "34041211",
-      "posted_date": "2026-08-22T03:03:06Z",
-      "job_description": "Service Desk Analyst - Contract Opportunity<br><br> Gold Coast Location<br><br> &nbsp;<br><br> We are proud to be partnered with this National Business, providing outstanding services to everyday Australians.<br><br> Due to a digital transformation they require some temporary Service Desk Analysts to support the existing team.<br><br> &nbsp;<br><br> The role acts as a central point of contact between customers and the IT department, providing support to help users resume work as quickly as possible following IT service disruptions.<br><br> <strong>Key responsibilities include:</strong><br><br><ul><li>Providing phone, remote and central support to sites and users.</li><li>Delivering Level 1 and partial Level 2 support across IT hardware and software.</li><li>Detecting, recording, resolving and escalating incidents and known problems.</li><li>Providing ongoing user training and documenting procedures and processes.</li><li>Reporting data from information systems and monitoring communications service usage and performance.</li><li>Processing approved technology and communications orders, coordinating hardware and warranty replacements, and maintaining inventory records.</li><li>Liaising with software and hardware vendors regarding incident resolution, advice, quotes and upgrades.</li></ul><strong>Essential requirements:</strong><br><br><ul><li>At least 1 year of Service Desk experience, or a recent graduate with a strong desire to learn and succeed in a fast-paced environment.</li><li>Strong customer service, problem-solving, verbal and written communication skills.</li><li>Strong attention to detail.</li><li>IT Diploma or above.</li><li>Valid Australian driver’s licence.</li></ul><strong>Desirable:</strong><br><br><ul><li>Bachelor of Computer Science.</li><li>Experience with Office 365 and other cloud-based platforms.</li><li>Experience with Active Directory.</li><li>Knowledge of core networking.</li><li>Experience with Windows Server operating systems.</li><li>A Nationally Coordinated Criminal History Check is required for the successful candidate.</li></ul>&nbsp;<br><br> We are looking for candidates that can start immediately.<br><br> &nbsp;<br><br> Contact <a href=\"mailto:Charlie@edisontalent.com.au\">Charlie@edisontalent.com.au</a> for more information.",
-      "keywords": [
-        "service",
-        "desk",
-        "analyst"
-      ]
-    },
     {
       "job_id": "94130760",
       "job_title": "IT Support Officer - Broadbeach, QLD",
@@ -1689,6 +1690,80 @@
       "job_description": "<p><strong>Technical Lead / Software Architect (.NET / React / Azure) | Permanent | $180,000-$185,000 + Super | Broadbeach, Gold Coast (Hybrid) | AI Agentic | Modernisation Project | Scaling Business </strong></p><p><strong>About the Company</strong></p><p>Our client is a leading travel technology business with ambitious international growth plans and a significant investment in modernising its technology landscape. Operating as an independent technology team, they're embarking on a major transformation to replace a 20-year legacy platform with a modern Microsoft ecosystem that will support the business for years to come.</p><p>With a strategic partnership with Microsoft, the engineering team works closely with Microsoft's own solution architects to shape best practice architecture, leverage emerging technologies and deliver innovative digital products across the travel industry.</p><p>This role would suit someone with extensive experience in a Microsoft environment, combining deep Azure architecture expertise with hands-on .NET development.</p><p><strong>About the Role</strong></p><p>This is a senior individual contributor position that combines technical leadership, software architecture and hands-on engineering. Reporting to the Head of Engineering, you'll own the technical direction for a team of five engineers while partnering closely with the Solution Architect to design scalable, cloud-native solutions.</p><p>You'll spend approximately 70% of your time driving architecture, mentoring engineers and making key technical decisions, with the remaining 30% remaining hands-on across full-stack development.</p><p>A key focus of the role will be designing and operating Azure infrastructure, building scalable API integrations and modern microservices architecture that powers real-time travel booking platforms. You'll also play a leading role in the team's adoption of AI-assisted software engineering, establishing standards and best practices for tools such as Claude Code and GitHub Copilot.</p><p>Working across customer booking platforms, consultant portals and partner applications, you'll help shape the architecture that underpins the next phase of the company's international growth.</p><p><strong>Key Skills</strong></p><ul><li>Extensive experience as a Technical Lead, Lead Software Engineer or Software Architect within a Microsoft environment.</li><li>Deep expertise designing, building and operating Azure infrastructure, including Landing Zones, Bicep (Infrastructure as Code), Container Apps, Networking, Azure API Management, Key Vault and RBAC.</li><li>Strong experience designing scalable cloud-native and microservices architectures.</li><li>Hands-on .NET development experience building REST APIs and modern web applications.</li><li>Experience with React and TypeScript front-end development.</li><li>Strong understanding of API integration patterns, enterprise integration and high-volume transactional systems.</li><li>Experience mentoring engineers through technical leadership, code reviews and engineering best practices.</li><li>Experience with Azure DevOps, GitHub Actions, CI/CD pipelines and DevOps practices.</li><li>Exposure to AI-assisted software engineering tools such as Claude Code, GitHub Copilot or similar.</li><li>Strong understanding of software architecture, scalability, security and engineering quality.</li><li>Experience working within a digital product or technology-led environment.</li><li>Experience with Microsoft Dynamics 365 Business Central will be highly regarded.</li></ul><p><strong>Benefits</strong></p><ul><li>$180,000-$185,000 + Super.</li><li>Permanent leadership opportunity within a growing technology business.</li><li>Hybrid working with three days per week onsite in Broadbeach.</li><li>Opportunity to shape the architecture of a large-scale platform transformation.</li><li>Work directly alongside Microsoft's solution architects through a strategic partnership.</li><li>Modern technology stack including Azure, .NET, React, TypeScript, Business Central and AI engineering tools.</li><li>High-impact role with genuine influence over engineering strategy and technical direction.</li></ul><p>If you're an experienced Technical Lead or Software Architect who enjoys balancing architecture, cloud engineering and hands-on development while mentoring high-performing engineering teams, we'd love to hear from you. Apply now or reach out for a confidential discussion.</p><p><strong>Technical Lead / Software Architect (.NET / React / Azure) | Permanent | $180,000-$185,000 + Super | Broadbeach, Gold Coast (Hybrid) | AI Agentic | Modernisation Project | Scaling Business </strong></p><p> </p>",
       "keywords": [
         "technical"
+      ]
+    },
+    {
+      "job_id": "93516025",
+      "job_title": "Principal Engineer - (Architecture & Platform)",
+      "business_name": "Pair People Pty Limited",
+      "work_type": "Full time",
+      "job_type": "Engineering - Software",
+      "pay_range": "$180,000 – $190,000 per year",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93516025",
+      "advertiser_id": "63048868",
+      "posted_date": "2026-07-23T06:59:59Z",
+      "job_description": "<h2>Principal Software Engineer</h2><h2>Build the Platform That Powers Our Next Phase of Growth</h2><p><strong>Location:</strong> Gold Coast, QLD<br><strong>Salary:</strong> $180,000 - $190,000 + Super (Flexible)<br><strong>Employment Type:</strong> Full-Time<br><strong>Work Arrangement:</strong> Hybrid</p><hr><h2>About:</h2><p>I'm working with an Australian business redefining a traditionally outdated industry through technology, data and automation. With a strong in-house engineering capability, the company is investing heavily in building the next generation of proprietary platforms that power operations, compliance, sales and future acquisitions.</p><p>This is a business that thinks like a startup, moves quickly, embraces AI-driven development and gives engineers genuine ownership over architecture and technical direction. For the right person, it's a rare opportunity to work on large-scale greenfield and re-architecture projects while having a direct impact on the growth and future strategy of the company.</p><p>This role will primarily operate as an individual contributor position, working directly alongside business leaders and the Head of Engineering to rethink, redesign and rebuild the platforms that support operations, acquisitions, integrations and future product strategy.</p><hr><h2>The Opportunity</h2><p>We're looking for a hands-on Principal or Staff Engineer who thrives in ambiguity, enjoys solving complex business problems and can take ownership of technical decisions from architecture through to production.</p><p>You'll be working across a suite of systems that support internal operations, sales enablement, compliance workflows and acquisition integration. Much of the functionality already exists today, giving you the opportunity to learn from real-world usage while reimagining the future architecture.</p><p>Working closely with the Head of Engineering and leadership team, you'll play a key role in defining how these platforms evolve as the business continues to scale.</p><p>This role is ideal for someone who enjoys operating at the intersection of engineering, architecture and product thinking.</p><hr><h2>What You'll Be Doing</h2><ul><li><p>Design and build scalable software platforms from the ground up.</p></li><li><p>Make key architecture decisions that will shape the future direction of the technology landscape.</p></li><li><p>Work directly with founders and stakeholders to translate ideas, prototypes and business requirements into production-ready systems.</p></li><li><p>Re-engineer existing platforms to improve scalability, maintainability and performance.</p></li><li><p>Build backend services, integrations and core application functionality.</p></li><li><p>Leverage AI-assisted development tools to accelerate delivery and improve engineering productivity.</p></li><li><p>Evaluate technologies, frameworks and architectural patterns to determine the best solution for business requirements.</p></li><li><p>Collaborate with senior technical leaders on long-term platform strategy.</p></li><li><p>Take ownership of technical outcomes from concept through deployment.</p></li></ul><hr><h2>What We're Looking For</h2><h2>Essential</h2><ul><li><p>Extensive experience building and shipping commercial software products.</p></li><li><p>Strong software architecture and system design experience.</p></li><li><p>Proven ability to design and build scalable applications from scratch.</p></li><li><p>Deep backend engineering expertise.</p></li><li><p>Experience operating at Staff Engineer, Principal Engineer or equivalent level.</p></li><li><p>Strong understanding of cloud architecture and modern engineering practices.</p></li><li><p>Ability to work independently and make sound technical decisions.</p></li><li><p>Excellent communication skills and the ability to work directly with business stakeholders.</p></li><li><p>Comfortable operating in fast-moving and evolving environments.</p></li></ul><h2>Highly Regarded</h2><ul><li><p>Experience with Python, Ruby, Node.js, Go or similar backend technologies.</p></li><li><p>React, Next.js or modern frontend development experience.</p></li><li><p>Startup, scale-up or product company experience.</p></li><li><p>Experience modernising or re-architecting legacy systems.</p></li><li><p>Exposure to AI-enabled software products and workflows.</p></li><li><p>M&amp;A, acquisition integration or operational software experience.</p></li></ul><hr><h2>AI-First Engineering</h2><p>We believe modern software engineering is changing rapidly, and AI is becoming a fundamental part of how great engineers work.</p><p>You'll be expected to incorporate AI-assisted development tools into your daily workflow. Whether that's Cursor, Claude, GitHub Copilot, ChatGPT or emerging AI technologies, we're looking for engineers who view AI as a force multiplier and are excited about what it enables.</p><p>This isn't a business that's experimenting with AI.</p><p>It's becoming part of how we build.</p><hr><h2>What Success Looks Like</h2><p>Within your first 12 months, you'll:</p><ul><li><p>Influence the future architecture of multiple business-critical platforms.</p></li><li><p>Help define how our systems evolve as the company grows through acquisition and expansion.</p></li><li><p>Work alongside highly capable engineers in a lean, high-impact environment.</p></li><li><p>Deliver solutions that directly improve operational efficiency and business outcomes.</p></li><li><p>Become a trusted technical voice within the organisation.</p></li></ul><hr><h2>What You Won't Find Here</h2><ul><li><p>Layers of management</p></li><li><p>Endless meetings</p></li><li><p>Excessive process</p></li><li><p>Ticket factories</p></li><li><p>Heavy bureaucracy</p></li><li><p>Micromanagement</p></li></ul><p>Instead, you'll find autonomy, ownership, challenging technical problems and the opportunity to build systems that genuinely matter.</p><hr><h2>Interested?</h2><p>If you're an experienced engineer who enjoys architecture, wants meaningful ownership and is excited about building the next generation of business-critical software within an AI-enabled engineering environment, we'd love to hear from you</p>",
+      "keywords": [
+        "engineer",
+        "architecture",
+        "platform"
+      ]
+    },
+    {
+      "job_id": "93504914",
+      "job_title": "ICT Support Officer",
+      "business_name": "Men Of Business Academy",
+      "work_type": "Part time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93504914",
+      "advertiser_id": "45997943",
+      "posted_date": "2026-07-23T02:00:24Z",
+      "job_description": "<p><strong>ABOUT US</strong></p><p>At Men of Business Academy (MOB), We’re more than a school — we’re a movement, and we are growing!!!</p><p>This is an exciting opportunity to join us at a time of growth and be a key member of the MOB community.</p><p>If you’re seeking a workplace that’s genuinely different—where values are lived, connections run deep, and every day is fueled by purpose—MOB Academy is the place for you. This isn’t your typical workplace. At MOB, we live our values, work with purpose, and support each other like family.</p><p><strong>ABOUT THE OPPORTUNITY</strong></p><p>As MOB Academy continues to grow, we are seeking an ICT Support Officer for this newly created entry level role supporting our Head of Finance and MOB's IT Managed service provider. This role would be a perfect fit for someone still studying or just starting out with their IT career.</p><p>The ICT Support Officer is a customer service-focused, hands-on role responsible for providing first-level IT support to staff and students across MOB Academy. As a key member of the MOB community, the role supports the effective day-to-day operation of technology systems, devices, and digital platforms that enable teaching, learning, communication, and school operations.</p><p>The role requires a proactive, solutions-focused individual who enjoys helping others, communicates effectively, and is confident working across a broad range of technologies in a fast-paced educational environment.</p><p>This is a permanent part-time role working 3 days per week.</p><p><strong>KEY RESPONSIBILITIES</strong></p><ul><li><p>Act as a primary point of contact for ICT related enquiries via helpdesk systems, phone, email, and face-to-face support</p></li><li><p>Log, prioritise, track, and resolve ICT support requests in accordance with service standards and response time expectations</p></li><li><p>Identify recurring technical issues and recommended long-term solutions or service improvements</p></li><li><p>Support onboarding and offboarding processes for staff and students, ensuring timely access to required ICT systems and services</p></li><li><p>Escalate unresolved or complex technical issues to senior ICT personnel or external vendors where required</p></li><li><p>Maintain accurate ICT asset registers, including hardware, software licences, device allocations etc. as part of onboarding and offboarding</p></li><li><p>Monitor and report potential security risks, vulnerabilities, cyber incidents, or breaches</p></li><li><p>Build strong, respectful connections with staff and students</p></li><li><p>Uphold MOB Academy values at all times</p></li><li><p>Provide operational and administrative support to the Head of Finance/IT as required</p></li></ul><p><strong>REQUIRED</strong></p><ul><li><p>Currently studying or recently completed a qualification in Information Technology (ICT) or similar</p></li><li><p>Demonstrated interest in IT support, systems, administration, or educational technology environments</p></li><li><p>Basic understanding of Microsoft 365, Windows operating systems, network concepts, and cloud-based technologies</p></li><li><p>Ability to troubleshoot technical issues and provide customer focused support</p></li><li><p>Current Working with Children Check or willing to obtain</p></li><li><p>Availability for an immediate start for the right candidate/s</p></li></ul><p><strong>MOB BENEFITS</strong></p><ul><li><p>Up to 12 weeks paid leave</p></li><li><p>Opportunity to work by the Broadwater — with beaches, parks, and oceanfront spaces at your doorstep</p></li><li><p>EAP – Employee Assistance program for you and your immediate family</p></li><li><p>Staff wellbeing gatherings</p></li><li><p>Access to inspiring events and activities as part of our vibrant community.</p></li></ul><p>Become part of a movement making a real difference in young lives!</p><p><strong>If you are a passionate, adaptable educator who is excited about making a difference, apply now and join the MOB Academy journey!</strong></p><p><br></p><p>Men of Business Academy is committed to ensuring the safety and wellbeing of all young people and maintains a zero-tolerance approach to harm, abuse or neglect. All staff are expected to uphold our safeguarding standards. Successful applicants will undergo screening checks and participate in ongoing training to meet their safeguarding responsibilities.</p>",
+      "keywords": [
+        "ict",
+        "support",
+        "officer"
+      ]
+    },
+    {
+      "job_id": "93504483",
+      "job_title": "Network Engineer",
+      "business_name": "Ethos BeathChapman",
+      "work_type": "Contract/Temp",
+      "job_type": "Consultants",
+      "pay_range": "AUD 110000 per annum",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93504483",
+      "advertiser_id": "20361318",
+      "posted_date": "2026-07-23T01:46:05Z",
+      "job_description": "<strong>About the Client</strong><br> Our client is a large, complex organisation operating across multiple sites and business units throughout Australia. With a strong focus on operational excellence, reliability, and customer experience, they continue to invest in modern infrastructure, cloud technologies, and secure network solutions to support business growth and innovation.<br><br> <strong>About the Role</strong><br>We are seeking an experienced Network Engineer to join a high-performing infrastructure team responsible for the design, support, and continuous improvement of enterprise network services across a 24/7 operational environment.<br>This role will play a key part in ensuring the stability, security, and performance of critical network infrastructure while supporting ongoing technology initiatives across cloud, security, and connectivity platforms. Working closely with internal stakeholders and technology partners, you will deliver scalable and resilient network solutions that support business operations today and into the future.<br><strong>Location</strong>: Gold Coast<br><br> <strong>Required Experience:</strong><br>Demonstrated experience designing, implementing, and supporting enterprise network environments.<br>Strong hands-on experience with Palo Alto Next Generation Firewalls, including security policy management, troubleshooting, and optimisation.<br>Extensive experience supporting Aruba networking infrastructure, including wireless and switching technologies.<br>Experience working with Cisco networking technologies within complex enterprise environments.<br>Proven experience supporting routing and switching technologies, including BGP and OSPF.<br>Strong troubleshooting and problem-solving skills across network, wireless, and security platforms.<br>Experience supporting cloud networking environments across Microsoft Azure and AWS.<br>Exposure to cloud connectivity solutions and hybrid network architectures.<br>Experience with SD-WAN technologies, ideally Palo Alto SD-WAN and Prisma solutions.<br>Ability to design and implement secure, scalable, and highly available network solutions.<br>Strong understanding of network security principles, governance, and best practice frameworks.<br>Experience working within ITIL-based operational environments and service management processes.<br>Ability to work collaboratively with vendors, technology partners, and internal stakeholders to deliver successful outcomes.<br>Maintain high-quality network documentation, standards, and operational procedures.<br>Excellent communication and stakeholder management skills, with the ability to engage technical and non-technical audiences.<br>Relevant certifications such as CCNA, Palo Alto, Aruba, or Cisco certifications will be highly regarded.<br><br> If you are interested to find out more and meet the key requirements outlined, please apply with your CV.",
+      "keywords": [
+        "network",
+        "engineer"
+      ]
+    },
+    {
+      "job_id": "93417149",
+      "job_title": "Network Administrator",
+      "business_name": "R & B IMAGE PTY LTD",
+      "work_type": "Full time",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "$85,000 – $95,000 per year",
+      "area": "Stapylton, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93417149",
+      "advertiser_id": "39730290",
+      "posted_date": "2026-07-22T23:52:50Z",
+      "job_description": "<p>We are seeking an experienced Network Administrator to manage, maintain and optimise our enterprise network infrastructure, production equipment connectivity and IT systems.</p><p>The role is responsible for ensuring the availability, security, reliability and performance of the company's network environment, including the integration and ongoing support of digital production systems, ERP systems, file servers, business applications, cloud services and other IT infrastructure.</p><p>The successful candidate will also administer and maintain connectivity across more than a dozen computers and other networked devices, configure and manage user access in accordance with company policies, and roactively monitor, maintain and enhance the IT environment to support secure and efficient business operations.</p><p>Key Responsibilities</p><p>• Manage and maintain the organisation’s network infrastructure, including LAN,</p><p>WAN, wireless networks, internet connectivity and associated hardware and software.</p><p>• Configure, maintain and troubleshoot network connections for production equipment, including digital printers, cutters, laser cutting and engraving systems.</p><p>• Optimise connectivity between production equipment, design systems, servers, storage platforms and business applications.</p><p>• Manage network security systems, including firewalls, VPNs, access controls and security monitoring.</p><p>• Monitor network performance, availability and capacity, proactively identifying and resolving infrastructure issues.</p><p>• Manage and maintain Microsoft 365, cloud services, Windows-based systems, ERP systems, file servers and associated IT infrastructure, including system</p><p>administration, upgrades, performance optimisation, backup, recovery and security management.</p><p>• Maintain server and storage infrastructure, ensuring data security, availability and integrity through effective backup, access control and antivirus protection.</p><p>• Support technology improvement projects, including system integration, network expansion and infrastructure upgrades.</p><p>• Perform troubleshooting, root cause analysis and resolution of complex network and system issues.</p><p>• Maintain IT documentation, network records and operational procedures.</p><p>• Support communication systems, including VoIP and business connectivity solutions.</p><p><br></p><p>Skills and experience</p><p>• Minimum 3 years’ experience in network administration, IT infrastructure management or a similar technical role.</p><p>• Diploma or higher qualification</p><p>• Experience with industrial production equipment network integration or manufacturing technology environments will be highly regarded.</p><p>• Strong technical knowledge of Windows Server, cloud platforms, network infrastructure, LAN/WAN environments and network security.</p><p>• Experience managing network hardware, servers, backups, virtualization and system monitoring solutions.</p><p>• Proven ability to troubleshoot and resolve complex network and infrastructure issues independently.</p><p>• Strong understanding of network optimization, security practices and continuous improvement processes.</p><p>• Excellent communication skills, with the ability to document technical solutions and work independently.</p>",
+      "keywords": [
+        "network",
+        "administrator"
       ]
     }
   ]
