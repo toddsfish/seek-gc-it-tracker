@@ -1,473 +1,483 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-23",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-24T06:12:34.828893+10:00",
-  "total_jobs": 57,
+  "scraped_at": "2026-08-23T06:12:55.935417+10:00",
+  "total_jobs": 63,
   "keywords": [
     {
       "term": "analyst",
-      "count": 14,
-      "share": 0.2456
+      "count": 15,
+      "share": 0.2381
+    },
+    {
+      "term": "it",
+      "count": 12,
+      "share": 0.1905
+    },
+    {
+      "term": "support",
+      "count": 10,
+      "share": 0.1587
     },
     {
       "term": "developer",
       "count": 10,
-      "share": 0.1754
+      "share": 0.1587
     },
     {
       "term": "business",
       "count": 8,
-      "share": 0.1404
-    },
-    {
-      "term": "support",
-      "count": 8,
-      "share": 0.1404
-    },
-    {
-      "term": "it",
-      "count": 8,
-      "share": 0.1404
+      "share": 0.127
     },
     {
       "term": "software",
       "count": 7,
-      "share": 0.1228
+      "share": 0.1111
     },
     {
       "term": "manager",
       "count": 6,
-      "share": 0.1053
+      "share": 0.0952
     },
     {
       "term": "engineer",
       "count": 5,
-      "share": 0.0877
+      "share": 0.0794
     },
     {
       "term": "service",
       "count": 5,
-      "share": 0.0877
+      "share": 0.0794
+    },
+    {
+      "term": "technician",
+      "count": 5,
+      "share": 0.0794
     },
     {
       "term": "ai",
       "count": 4,
-      "share": 0.0702
+      "share": 0.0635
     },
     {
       "term": "officer",
       "count": 4,
-      "share": 0.0702
-    },
-    {
-      "term": "technician",
-      "count": 4,
-      "share": 0.0702
+      "share": 0.0635
     },
     {
       "term": "solutions",
       "count": 3,
-      "share": 0.0526
+      "share": 0.0476
+    },
+    {
+      "term": "technical",
+      "count": 3,
+      "share": 0.0476
     },
     {
       "term": "desk",
       "count": 3,
-      "share": 0.0526
+      "share": 0.0476
     },
     {
       "term": "program",
       "count": 3,
-      "share": 0.0526
+      "share": 0.0476
+    },
+    {
+      "term": "administrator",
+      "count": 3,
+      "share": 0.0476
     },
     {
       "term": "product",
       "count": 3,
-      "share": 0.0526
+      "share": 0.0476
     },
     {
       "term": "cyber",
       "count": 3,
-      "share": 0.0526
+      "share": 0.0476
     },
     {
       "term": "development",
       "count": 3,
-      "share": 0.0526
+      "share": 0.0476
     },
     {
       "term": "project",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0317
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0317
     },
     {
       "term": "php",
       "count": 2,
-      "share": 0.0351
-    },
-    {
-      "term": "technical",
-      "count": 2,
-      "share": 0.0351
+      "share": 0.0317
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0317
     },
     {
       "term": "deployment",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0317
     },
     {
       "term": "wsr",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0317
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0317
     },
     {
-      "term": "administrator",
+      "term": "systems",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0317
     },
     {
       "term": "owner",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0317
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0317
     },
     {
       "term": "delivery",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0317
     },
     {
       "term": "specialist",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0317
     },
     {
       "term": "leader",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "accounting",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "jetstar",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "retail",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "system",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "zoho",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "user",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "frontend",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "wordpress",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "heads",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "days",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "per",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "week",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "laravel",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "java",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "ao4",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
-      "term": "ongc",
+      "term": "helpdesk",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
+    },
+    {
+      "term": "api",
+      "count": 1,
+      "share": 0.0159
     },
     {
       "term": "tech",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
+    },
+    {
+      "term": "ongc",
+      "count": 1,
+      "share": 0.0159
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0175
-    },
-    {
-      "term": "systems",
-      "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "kingston",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "state",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "apps",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "m365",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "regional",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "supervisor",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "evolve",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "writer",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "machinery",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "ui",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "ux",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "landing",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "page",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     },
     {
       "term": "leadify",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0159
     }
   ],
   "jobs": [
@@ -1301,6 +1311,25 @@
       ]
     },
     {
+      "job_id": "93784759",
+      "job_title": "IT Systems Administrator",
+      "business_name": "Infinite Care",
+      "work_type": "Full time",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93784759",
+      "advertiser_id": "34630605",
+      "posted_date": "2026-08-04T22:31:14Z",
+      "job_description": "<div><div>\n<p><strong>With growth comes opportunity and we’re expanding our ICT capability. </strong></p>\n<p>Due to continued growth and an expanding technology portfolio, we are seeking an additional <strong>IT</strong> <strong>Systems Administrator</strong> to join our IT team. Working alongside our existing Systems Administrator and broader IT team, you will help support and enhance our technology environment across multiple aged care sites. The role will focus on infrastructure, cloud services, cybersecurity, networking, automation, and technical project delivery, while also assisting with operational workloads, improving documentation, and helping drive continuous improvement across our IT systems and processes.</p>\n<p>Reporting to our <strong>Head of Infrastructure</strong>, this role is all about ensuring our systems are secure, reliable, and performing at their best, enabling our teams to work efficiently and ensuring residents receive the highest standard of care.</p>\n<p>As our<strong> IT Systems Administrator</strong>, you’ll play a key part in maintaining and improving Infinite Care’s technology environment. You’ll manage servers, networks, software, security, and documentation, while supporting staff with technical issues and contributing to continuous improvement across the organisation.</p>\n<p>Ideally located on the Gold Coast in our National Support Office in Bundall, this role suits someone who is proactive, values security and stability, and enjoys working collaboratively to solve problems and uplift digital capability.</p>\n<p><strong>The key responsibilities for this role are, but not limited to:&nbsp;</strong></p>\n<p><strong>Systems management</strong> - Maintain servers, storage, and infrastructure to ensure optimal performance and minimal downtime.</p>\n<p><strong>Network administration</strong> - Configure, monitor, and troubleshoot LAN, WAN, and wireless networks, ensuring strong security and reliability.</p>\n<p><strong>Software &amp; vendor management</strong> - Install, update, and manage applications used across our homes, ensuring compliance and coordinating with vendors when needed.</p>\n<p><strong>Data backup &amp; IT security</strong> - Implement backup procedures, disaster recovery plans, and security policies; conduct audits and vulnerability assessments.</p>\n<p><strong>User support &amp; training</strong> - Provide technical support and deliver training to uplift staff confidence with systems and applications.</p>\n<p><strong>Technology upgrades &amp; projects</strong> - Assist with system upgrades, migrations, and new technology evaluations.</p>\n<p><strong>About You</strong></p>\n<p>You’re someone who thrives in a fast‑paced environment, communicates clearly, and enjoys helping others navigate technology with confidence. You bring strong problem‑solving skills, a collaborative mindset, and a commitment to secure, reliable systems.</p>\n<ul>\n<li>Diploma or degree in IT, Computer Science, or related field</li>\n<li>Strong technical knowledge across hardware, software, operating systems, and networking</li>\n<li>Understanding of information security principles and data protection practices&nbsp;</li>\n<li>Experience in aged care, healthcare, or similar environments is highly desirable</li>\n<li>A valid NDIS Workers Screening Clearance (or have the ability to get one)</li>\n</ul>\n<p><strong>Technical Environment</strong></p>\n<ul>\n<li>Microsoft 365, Azure and Entra ID</li>\n<li>Endpoint management and device administration</li>\n<li>Cybersecurity and identity management</li>\n<li>Enterprise networking and wireless technologies</li>\n<li>Server and cloud infrastructure</li>\n<li>PowerShell automation</li>\n<li>VoIP and collaboration platforms</li>\n</ul>\n<p><strong>Infinite Care’s Employee Benefits:</strong></p>\n<ul>\n<li>Fitness Passport to access discounted fitness and wellbeing sessions.</li>\n<li>Discounted Health Insurance.</li>\n<li>Access to in-house and online training programs - FREE to all employees.</li>\n<li>Access to our EAP.</li>\n<li>Work-Rite Micro professional development - FREE to all employees.</li>\n<li>Access to non-for-profit (NFP) salary sacrificing employee benefits</li>\n<li>Defence/Military Veterans are encouraged to apply.</li>\n</ul>\n<p><strong>If you would like to know more about us or this position before applying, then please reach out to our recruitment specialist managing this assignment – Teri via email <a href=\"mailto:teri.vallely@infin8care.com.au\">teri.vallely@infin8care.com.au</a> </strong></p>\n<p><strong>As part of being an Infinite Aged care employee you will be required to complete pre-employment checks.</strong></p>\n<p><strong>We regret we cannot receive applications via email.</strong></p>\n</div></div>",
+      "keywords": [
+        "it",
+        "systems",
+        "administrator"
+      ]
+    },
+    {
       "job_id": "93752512",
       "job_title": "Senior PHP Laravel AI Developer",
       "business_name": "SustainRecruit",
@@ -1570,6 +1599,96 @@
       "keywords": [
         "data",
         "analyst"
+      ]
+    },
+    {
+      "job_id": "93543641",
+      "job_title": "Level 2/3 IT Technician (onsite)",
+      "business_name": "Klearnet Solutions Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "$80,000 per year",
+      "area": "Upper Coomera, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93543641",
+      "advertiser_id": "43879338",
+      "posted_date": "2026-07-24T07:31:18Z",
+      "job_description": "<p>Take ownership of IT service delivery at a large, busy school campus in Upper Coomera, with an established support team behind you and a Level 1 technician working alongside you.</p><h2>About Klearnet Solutions</h2><p>Klearnet Solutions has been supporting businesses and schools across Brisbane, Logan and the Gold Coast since 1999. We deliver everything from day-to-day support through to networking, security and cloud projects, and we pride ourselves on long-standing client relationships built on genuinely good service.</p><h2>About the role</h2><p>Based onsite five days a week, you will manage the operation of the campus ICT network and end-user computing environment, act as the Level 2/3 escalation point for the site and oversee and mentor a Level 1 onsite technician.</p><p>This is a hands-on role with plenty of variety. One minute you might be working on server or network infrastructure, the next you are rolling out devices or helping a staff member get their classroom technology working. You will have the autonomy to run the site day to day, with the wider Klearnet team behind you when you need it.</p><h2>Key responsibilities</h2><ul><li><p>Manage the day-to-day operation of the campus ICT network and associated services</p></li><li><p>Oversee, mentor and coordinate the work of a Level 1 onsite technician</p></li><li><p>Provide advice and assistance on maximising ICT operations across the campus, including acquisition, installation, operation, maintenance, repair and replacement of equipment</p></li><li><p>Provide effective and efficient support to staff and students, resolving problems with computing facilities while maintaining a strong customer focus</p></li><li><p>Support the campus community with technical advice, instruction and assistance with electronic equipment, in line with site and manufacturer policies, guidelines and network standards</p></li><li><p>Assist with training staff on the effective application of ICT tools</p></li><li><p>Carry out regular preventative maintenance, along with routine and emergency repairs, across ICT facilities and associated equipment</p></li><li><p>Maintain accurate records and documentation relating to ICT support and infrastructure</p></li><li><p>Communicate with various stakeholders, including site leadership, vendors and external support teams, and provide technical advice when required</p></li></ul><h2>About you</h2><ul><li><p>Strong technical knowledge of server hardware, configuration and networking peripherals</p></li><li><p>A high level of understanding of PC desktop and laptop systems, Apple iPads and printer support</p></li><li><p>Solid understanding of Local Area Networks and Wide Area Networks</p></li><li><p>Experience using remote support tools to manage servers and workstations</p></li><li><p>Sound working knowledge of network security and security protocols</p></li><li><p>Excellent communication and interpersonal skills with a strong client focus</p></li><li><p>Strong analytical and problem-solving skills, with the ability to research, identify and apply creative solutions</p></li><li><p>Able to work as part of a team, with the confidence to guide and develop a junior technician</p></li><li><p>Previous experience in a school or education environment will be highly regarded</p></li></ul><h2>Requirements</h2><ul><li><p>A current Working with Children Check (paid Blue Card), or the ability to obtain one prior to commencement</p></li><li><p>Willingness to complete site-specific inductions and certifications required to administer the campus network</p></li></ul><h2>Why join Klearnet</h2><ul><li><p>$80,000 per year plus superannuation</p></li><li><p>Stable, full-time role with consistent Monday to Friday hours</p></li><li><p>The autonomy of running your own site, backed by an experienced technical team</p></li><li><p>Ongoing training and development, including vendor certifications</p></li><li><p>A supportive, down-to-earth team that has been doing this for over 25 years</p></li></ul><h2>How to apply</h2><p>Click Apply Now and include your resume along with a short cover letter telling us about your experience supporting busy, multi-user environments and any team leadership you have had along the way.</p>",
+      "keywords": [
+        "it",
+        "technician"
+      ]
+    },
+    {
+      "job_id": "93540172",
+      "job_title": "IT Helpdesk",
+      "business_name": "Sandwai Software",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Varsity Lakes, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93540172",
+      "advertiser_id": "35145462",
+      "posted_date": "2026-07-24T06:19:03Z",
+      "job_description": "<p><strong>About Sandwai</strong></p><p>Sandwai is an award-winning Australian software company delivering industry-leading solutions for the aged care, disability and community services sectors. Our cloud-based platform supports providers across Australia, helping them deliver better care through innovative technology.</p><p>As a fast-growing organisation, we’re passionate about creating exceptional customer experiences and building software that makes a genuine difference in people’s lives. We’re also pride ourselves on our collaborative culture, commitment to innovation, and continuous improvement.</p><p>Sandwai is also an ISO 27001 certified organisation.</p><p><strong>About the Role</strong></p><p>As an IT Help Desk Specialist, you’ll be a valuable point of contact for our customers, helping them get the most out of the Sandwai platform.</p><p>You’ll investigate technical issues, troubleshoot software problems, and work closely with our Product, Implementation, Customer Success and Development teams to deliver exceptional customer outcomes.</p><p>This role is perfect for someone who enjoys solving problems, learning new technologies, and building a long-term career in a growing SaaS company.</p><p><strong>What You’ll Be Doing</strong></p><ul><li><p>Deliver exceptional customer support via phone and email.</p></li><li><p>Troubleshoot software issues and investigate customer enquiries.</p></li><li><p>Escalate and collaborate with Product Specialists and Software Developers to resolve complex issues.</p></li><li><p>Test new functionality and assist with quality assurance before software releases.</p></li><li><p>Create and maintain knowledge base articles, user guides and customer documentation.</p></li><li><p>Identify recurring issues and proactively recommend product or process improvements.</p></li><li><p>Build trusted relationships with customers while ensuring an outstanding support experience.</p></li><li><p>Continuously expand your technical knowledge across our platform, APIs and integrations.</p></li></ul><p><strong>About You</strong></p><p>You’re someone who enjoys helping people, has a curious mindset, and thrives on solving technical challenges.</p><p><strong>Essential Skills &amp; Experience</strong></p><ul><li><p>A minimum of one year as a Help Desk, Technical Support or Customer Support role.</p></li><li><p>Outstanding customer service and communication skills.</p></li><li><p>Strong analytical thinking and problem-solving ability.</p></li><li><p>Excellent written communication and attention to detail.</p></li><li><p>Ability to prioritise multiple tasks in a fast-paced environment.</p></li><li><p>A positive attitude and willingness to learn.</p></li><li><p>A clear National Police check (We will complete the check for you).&nbsp;</p></li></ul><p><strong>Which skills will give me an advantage?</strong></p><p>While not essential, experience in any of the following will be highly regarded:</p><ul><li><p>Supporting SaaS or cloud-based software applications.</p></li><li><p>Zoho Desk or Zoho CRM.</p></li><li><p>Experience with web development languages, SQL, CRM, or&nbsp;Git&nbsp;is not mandatory but may be an advantage.&nbsp;</p></li><li><p>Creating knowledge base articles or technical documentation.</p></li><li><p>Experience working within the healthcare, aged care or disability sectors.</p></li></ul><p>Don’t worry if you don’t tick every box, we’re looking for someone with the right attitude and a passion for learning.</p><p><strong>Why Join Sandwai?</strong></p><p>At Sandwai, we believe our people are our greatest strength. We foster an environment where ideas are encouraged, achievements are recognised, and everyone has the opportunity to grow.</p><p>When you join our team, you’ll enjoy:</p><ul><li><p>A supportive, collaborative and genuinely friendly team culture.</p></li><li><p>The opportunity to make a meaningful impact on Australia’s aged care and disability sectors.</p></li><li><p>Ongoing mentoring, training and professional development.</p></li><li><p>Exposure to modern SaaS technologies, APIs and software integrations.</p></li><li><p>The opportunity to work alongside experienced Software Developers and Product Specialists while expanding your technical skillset.</p></li><li><p>Competitive remuneration.</p></li><li><p>Hybrid working arrangements that support work-life balance.</p></li><li><p>Modern open-plan offices in Varsity Lakes, surrounded by cafés and local amenities.</p></li></ul><p><strong>Ready to Join Us?</strong></p><p>If you’re passionate about technology, love helping customers, and want to build your career with an innovative Australian software company making a real difference, we’d love to hear from you.</p><p>Apply today with your resume and a cover letter telling us why you’d be a great addition to the Sandwai team.</p><p><strong>Applications will be reviewed as they’re received, and the position may be filled before the closing date, so don’t wait to apply!</strong></p>",
+      "keywords": [
+        "it",
+        "helpdesk"
+      ]
+    },
+    {
+      "job_id": "93531416",
+      "job_title": "IT Support Level 1",
+      "business_name": "JTIT PTY LTD",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "$70,000 – $85,000 per year",
+      "area": "Broadbeach, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93531416",
+      "advertiser_id": "400018964",
+      "posted_date": "2026-07-24T02:30:16Z",
+      "job_description": "<p>Are you looking for an exciting opportunity to continue your career in IT? Do you have a passion for technology and a desire to learn? If so, we have the perfect role for you!</p><p>JTIT, a 16-year-old company based in Springwood, is seeking a Level 1 Support Technician to join our team. As a Level 1 Support Technician, you will be responsible for providing technical support to our clients in Broadbeach, both remotely and on-site. You will work closely with other efficient staff members, providing them with the support they need to ensure our clients receive the best possible service.</p><p>Your main responsibilities will include:</p><ul><li><p>Providing technical support to clients, both remotely and on-site.</p></li><li><p>Troubleshooting technical issues and providing solutions in a timely manner.</p></li><li><p>Maintaining accurate and up-to-date documentation of technical procedures and processes.</p></li><li><p>Communicating with clients in a clear, professional, and friendly manner, both verbally and in writing.</p></li><li><p>Collaborating with other team members to identify opportunities for process improvement and contribute to the development of best practices.</p></li></ul><p>To be successful in this role, you will need:</p><ul><li><p>A basic understanding of Microsoft Server, 365, Azure, and network technology.</p></li><li><p>Strong communication and interpersonal skills, with the ability to communicate technical information in a clear and concise manner.</p></li><li><p>Excellent problem-solving skills and attention to detail.</p></li><li><p>The ability to work independently and as part of a team.</p></li><li><p>A commitment to providing exceptional customer service.</p></li><li><p>A willingness to learn and keep up-to-date with the latest industry trends and best practices.</p></li></ul><p>We are offering a competitive salary, paying between $70,000 to $85,000 depending on the skills and experience of the successful candidate. Additionally, we offer opportunities for professional development and advancement within the company.</p><p>At JTIT, we believe in investing in our team members and providing a supportive and inclusive work environment. We are looking for someone who is passionate about technology, eager to learn, and committed to providing exceptional customer service.</p><p>If you are an enthusiastic and motivated individual with a desire to work a career in IT, we encourage you to apply for this exciting opportunity. Join our team at JTIT, and take your career to new heights!</p>",
+      "keywords": [
+        "it",
+        "support"
+      ]
+    },
+    {
+      "job_id": "93527952",
+      "job_title": "API Support Analyst",
+      "business_name": "HUB24",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93527952",
+      "advertiser_id": "41588958",
+      "posted_date": "2026-07-24T00:35:06Z",
+      "job_description": "<p><strong>Job Summary</strong></p><p>We're seeking an API &amp; Integration Support Analyst to help customers and partners successfully integrate with HUB24's platforms. This role combines technical support, partner onboarding, integration delivery and API enablement, making it ideal for someone who enjoys solving technical problems while working closely with customers and internal teams.<br><br>You will be responsible for supporting API users, troubleshooting integration issues, assisting with partner onboarding, improving documentation and helping drive the adoption of HUB24's API ecosystem. Working closely with Product, Engineering and external partners, you'll play a key role in delivering a seamless integration experience.</p><p><br></p><p><strong>Responsibilities</strong></p><p>API Support &amp; Troubleshooting</p><ul><li><p>Investigate and resolve API and integration-related issues raised by customers and partners</p></li><li><p>Analyse API requests, responses, payloads and system logs to identify root causes</p></li><li><p>Manage and own API-related escalations through to resolution</p></li><li><p>Provide recommendations for product and platform improvements based on customer feedback and support trends</p></li></ul><p><br></p><p>Partner Onboarding &amp; Enablement</p><ul><li><p>Support the onboarding of new API partners and integration providers</p></li><li><p>Assist customers and developers with API implementation and best practices</p></li><li><p>Deliver training, technical guidance and ongoing support to API consumers</p></li><li><p>Help improve API adoption and customer experience</p></li></ul><p><br></p><p>Integration Delivery</p><ul><li><p>Collaborate with Product and Engineering teams to support the delivery of new integrations</p></li><li><p>Assist with API design reviews, testing and release activities</p></li><li><p>Contribute to integration documentation, standards and onboarding processes</p></li><li><p>Support API lifecycle management activities</p></li></ul><p><br></p><p>Documentation &amp; Continuous Improvement</p><ul><li><p>Create and maintain knowledge articles, FAQs and technical documentation</p></li><li><p>Identify recurring issues and opportunities for automation or process improvement</p></li><li><p>Monitor API usage, performance and adoption metrics</p></li><li><p>Contribute to a reliable, secure and scalable API ecosystem</p></li></ul><p><br></p><p><strong>Requirements</strong></p><p>Essential</p><ul><li><p>2+ years' experience in API support, integrations, technical consulting or a similar role</p></li><li><p>Experience working with REST APIs and API troubleshooting</p></li><li><p>Understanding of authentication methods such as OAuth2 and OpenID Connect</p></li><li><p>Experience using tools such as Postman, Swagger/OpenAPI or similar</p></li><li><p>Strong analytical and problem-solving skills</p></li><li><p>Ability to communicate technical concepts to both technical and non-technical audiences</p></li><li><p>Customer-focused mindset with strong stakeholder management skills</p></li></ul><p><br></p><p>Desirable</p><ul><li><p>Experience supporting or implementing third-party integrations</p></li><li><p>Exposure to API gateway technologies such as Apigee, Kong or AWS API Gateway</p></li><li><p>Basic knowledge of SQL, scripting or software development concepts</p></li><li><p>Experience within financial services, wealth management or fintech</p></li><li><p>Familiarity with Agile delivery environments</p></li></ul><h2></h2><h2>Ideal Candidate</h2><ul><li><p>Enjoys solving technical problems and working directly with customers</p></li><li><p>Has a blend of technical, customer-facing and stakeholder management skills</p></li><li><p>Interested in API technologies, integrations and developer experience</p></li><li><p>Wants exposure to both operational support and project-based integration work</p></li><li><p>Thrives in a collaborative, fast-paced environment</p></li></ul><p><br></p><p><br></p>",
+      "keywords": [
+        "api",
+        "support",
+        "analyst"
+      ]
+    },
+    {
+      "job_id": "93527894",
+      "job_title": "Technical Lead",
+      "business_name": "Talenza",
+      "work_type": "Full time",
+      "job_type": "Engineering - Software",
+      "pay_range": "$170k - $180k p.a.",
+      "area": "Broadbeach, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93527894",
+      "advertiser_id": "37849505",
+      "posted_date": "2026-07-24T00:31:41Z",
+      "job_description": "<p><strong>Technical Lead / Software Architect (.NET / React / Azure) | Permanent | $180,000-$185,000 + Super | Broadbeach, Gold Coast (Hybrid) | AI Agentic | Modernisation Project | Scaling Business </strong></p><p><strong>About the Company</strong></p><p>Our client is a leading travel technology business with ambitious international growth plans and a significant investment in modernising its technology landscape. Operating as an independent technology team, they're embarking on a major transformation to replace a 20-year legacy platform with a modern Microsoft ecosystem that will support the business for years to come.</p><p>With a strategic partnership with Microsoft, the engineering team works closely with Microsoft's own solution architects to shape best practice architecture, leverage emerging technologies and deliver innovative digital products across the travel industry.</p><p>This role would suit someone with extensive experience in a Microsoft environment, combining deep Azure architecture expertise with hands-on .NET development.</p><p><strong>About the Role</strong></p><p>This is a senior individual contributor position that combines technical leadership, software architecture and hands-on engineering. Reporting to the Head of Engineering, you'll own the technical direction for a team of five engineers while partnering closely with the Solution Architect to design scalable, cloud-native solutions.</p><p>You'll spend approximately 70% of your time driving architecture, mentoring engineers and making key technical decisions, with the remaining 30% remaining hands-on across full-stack development.</p><p>A key focus of the role will be designing and operating Azure infrastructure, building scalable API integrations and modern microservices architecture that powers real-time travel booking platforms. You'll also play a leading role in the team's adoption of AI-assisted software engineering, establishing standards and best practices for tools such as Claude Code and GitHub Copilot.</p><p>Working across customer booking platforms, consultant portals and partner applications, you'll help shape the architecture that underpins the next phase of the company's international growth.</p><p><strong>Key Skills</strong></p><ul><li>Extensive experience as a Technical Lead, Lead Software Engineer or Software Architect within a Microsoft environment.</li><li>Deep expertise designing, building and operating Azure infrastructure, including Landing Zones, Bicep (Infrastructure as Code), Container Apps, Networking, Azure API Management, Key Vault and RBAC.</li><li>Strong experience designing scalable cloud-native and microservices architectures.</li><li>Hands-on .NET development experience building REST APIs and modern web applications.</li><li>Experience with React and TypeScript front-end development.</li><li>Strong understanding of API integration patterns, enterprise integration and high-volume transactional systems.</li><li>Experience mentoring engineers through technical leadership, code reviews and engineering best practices.</li><li>Experience with Azure DevOps, GitHub Actions, CI/CD pipelines and DevOps practices.</li><li>Exposure to AI-assisted software engineering tools such as Claude Code, GitHub Copilot or similar.</li><li>Strong understanding of software architecture, scalability, security and engineering quality.</li><li>Experience working within a digital product or technology-led environment.</li><li>Experience with Microsoft Dynamics 365 Business Central will be highly regarded.</li></ul><p><strong>Benefits</strong></p><ul><li>$180,000-$185,000 + Super.</li><li>Permanent leadership opportunity within a growing technology business.</li><li>Hybrid working with three days per week onsite in Broadbeach.</li><li>Opportunity to shape the architecture of a large-scale platform transformation.</li><li>Work directly alongside Microsoft's solution architects through a strategic partnership.</li><li>Modern technology stack including Azure, .NET, React, TypeScript, Business Central and AI engineering tools.</li><li>High-impact role with genuine influence over engineering strategy and technical direction.</li></ul><p>If you're an experienced Technical Lead or Software Architect who enjoys balancing architecture, cloud engineering and hands-on development while mentoring high-performing engineering teams, we'd love to hear from you. Apply now or reach out for a confidential discussion.</p><p><strong>Technical Lead / Software Architect (.NET / React / Azure) | Permanent | $180,000-$185,000 + Super | Broadbeach, Gold Coast (Hybrid) | AI Agentic | Modernisation Project | Scaling Business </strong></p><p> </p>",
+      "keywords": [
+        "technical"
       ]
     }
   ]
