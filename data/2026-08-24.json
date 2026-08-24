@@ -1,519 +1,476 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-24",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-25T06:19:25.198634+10:00",
-  "total_jobs": 58,
+  "scraped_at": "2026-08-24T06:12:34.828893+10:00",
+  "total_jobs": 57,
   "keywords": [
     {
       "term": "analyst",
-      "count": 13,
-      "share": 0.2241
-    },
-    {
-      "term": "it",
-      "count": 9,
-      "share": 0.1552
+      "count": 14,
+      "share": 0.2456
     },
     {
       "term": "developer",
-      "count": 9,
-      "share": 0.1552
+      "count": 10,
+      "share": 0.1754
     },
     {
       "term": "business",
       "count": 8,
-      "share": 0.1379
+      "share": 0.1404
     },
     {
       "term": "support",
-      "count": 7,
-      "share": 0.1207
+      "count": 8,
+      "share": 0.1404
+    },
+    {
+      "term": "it",
+      "count": 8,
+      "share": 0.1404
     },
     {
       "term": "software",
       "count": 7,
-      "share": 0.1207
+      "share": 0.1228
     },
     {
       "term": "manager",
-      "count": 7,
-      "share": 0.1207
+      "count": 6,
+      "share": 0.1053
     },
     {
       "term": "engineer",
-      "count": 6,
-      "share": 0.1034
+      "count": 5,
+      "share": 0.0877
     },
     {
       "term": "service",
       "count": 5,
-      "share": 0.0862
+      "share": 0.0877
+    },
+    {
+      "term": "ai",
+      "count": 4,
+      "share": 0.0702
     },
     {
       "term": "officer",
       "count": 4,
-      "share": 0.069
+      "share": 0.0702
     },
     {
       "term": "technician",
       "count": 4,
-      "share": 0.069
-    },
-    {
-      "term": "ai",
-      "count": 3,
-      "share": 0.0517
+      "share": 0.0702
     },
     {
       "term": "solutions",
       "count": 3,
-      "share": 0.0517
+      "share": 0.0526
     },
     {
       "term": "desk",
       "count": 3,
-      "share": 0.0517
+      "share": 0.0526
     },
     {
       "term": "program",
       "count": 3,
-      "share": 0.0517
-    },
-    {
-      "term": "administrator",
-      "count": 3,
-      "share": 0.0517
+      "share": 0.0526
     },
     {
       "term": "product",
       "count": 3,
-      "share": 0.0517
+      "share": 0.0526
     },
     {
       "term": "cyber",
       "count": 3,
-      "share": 0.0517
+      "share": 0.0526
     },
     {
       "term": "development",
       "count": 3,
-      "share": 0.0517
+      "share": 0.0526
     },
     {
       "term": "project",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0351
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0351
     },
     {
       "term": "php",
       "count": 2,
-      "share": 0.0345
-    },
-    {
-      "term": "engineering",
-      "count": 2,
-      "share": 0.0345
+      "share": 0.0351
     },
     {
       "term": "technical",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0351
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0351
     },
     {
       "term": "deployment",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0351
     },
     {
       "term": "wsr",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0351
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0351
     },
     {
-      "term": "systems",
+      "term": "administrator",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0351
     },
     {
       "term": "owner",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0351
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0351
     },
     {
       "term": "delivery",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0351
     },
     {
       "term": "specialist",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0351
     },
     {
       "term": "leader",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "accounting",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "jetstar",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "retail",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "system",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "zoho",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "user",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "frontend",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "wordpress",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "heads",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "days",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "per",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "week",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
-      "term": "laravel",
+      "term": "engineering",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
+    },
+    {
+      "term": "laravel",
+      "count": 1,
+      "share": 0.0175
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "java",
       "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "groundworks",
-      "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "ao4",
       "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "tech",
-      "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
+    },
+    {
+      "term": "tech",
+      "count": 1,
+      "share": 0.0175
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
+    },
+    {
+      "term": "systems",
+      "count": 1,
+      "share": 0.0175
     },
     {
       "term": "kingston",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "state",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "apps",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "m365",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "regional",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "supervisor",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "evolve",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "writer",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "machinery",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "ui",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "ux",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "landing",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "page",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     },
     {
       "term": "leadify",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0175
     }
   ],
   "jobs": [
-    {
-      "job_id": "94156246",
-      "job_title": "IT Systems Administrator",
-      "business_name": "Aster Home Care",
-      "work_type": "Full time",
-      "job_type": "Networks & Systems Administration",
-      "pay_range": "",
-      "area": "Miami, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94156246",
-      "advertiser_id": "45848280",
-      "posted_date": "2026-08-24T01:41:24Z",
-      "job_description": "<p>Tired of being one voice in a sprawling IT team, chasing tickets that never really get closed? At Aster, you won't be lost in a queue, you'll own the whole system. We're looking for a hands-on IT Systems Administrator who wants autonomy, a seat at the table and the satisfaction of building something that works.</p><p><strong>About Us:</strong></p><p>Aster Home Care was built by nurses who got tired of the same frustrations you have, so they created something better. We're a Northern NSW &amp; Southeast QLD based community nursing provider that is run by nurses, for nurses. Our team delivers exceptional 24/7 care to clients in their own homes, and the people leading that work are the same ones shaping how it's done. At Aster, everything we do is guided by our BRAVE values, and we look for people who live them too.</p><p><strong>B </strong>– Bold Decisions <strong>R </strong>– Remember &amp; Respect <strong>A</strong> – Anchored in Excellence <strong>V</strong> – Value Each Other <strong>E</strong> – Elevate Our Team</p><p><strong>About the Role:</strong></p><p>As our IT Systems Administrator, you'll be the sole IT resource for a 24/7 community nursing service, working directly with our Nursing General Manager to own the systems roadmap. You'll be the first responder when something breaks and the person who makes sure it doesn't happen again.</p><p>This includes:</p><ul><li><p>Administering our SharePoint records storage and Pulse intranet, including permission groups and access.</p></li><li><p>Managing starter, mover and leaver access provisioning, and building onboarding/offboarding processes as system features rather than manual admin.</p></li></ul><ul><li><p>Administering our 3CX telephony platform and MessageMedia messaging, including phone group management and weekly call reporting.</p></li><li><p>Managing Workspace ONE mobile device management across our field and office fleet.</p></li><li><p>Leading information security and business continuity: incident response, patching, and backup/restore testing.</p></li><li><p>Building and maintaining the Power BI dashboards our business runs on.</p></li><li><p>Writing clear how-to documentation and IT policy for a non-technical team.</p></li></ul><p><strong>Why Join Aster Home Care?</strong></p><p>At Aster, you'll do work that matters and you'll see the impact every day. You'll have genuine ownership of your domain, direct access to leadership and the autonomy to bring decisions rather than just questions. You won't be one of many in a large IT team; you'll be the person who makes the whole thing run.</p><p>In addition to a competitive package, you'll enjoy a generous birthday bonus, employee referral incentives and access to our Employee Assistance Program (EAP).</p><p><strong>Role Requirements:</strong></p><p>Naturally, you will require relevant experience and qualifications including:</p><ul><li><p>Demonstrated experience administering business systems end to end (accounts, permissions, integrations and change control).</p></li><li><p>Microsoft suite knowledge, including Defender.</p></li><li><p>Experience with identity and access management (starter, mover, leaver provisioning).</p></li><li><p>Experience administering a VoIP or cloud telephony platform, with call reporting.</p></li><li><p>Experience with mobile device management across a distributed, non-office workforce.</p></li><li><p>Practical information security capability, including incident response, patching, and backup/restore testing.</p></li><li><p>Ability to write clear how-to documentation for non-technical staff.</p></li><li><p>Ability to work autonomously as the sole IT resource, and know when to escalate.</p></li><li><p>Demonstrated ability to build and maintain business dashboards in Power BI or equivalent.</p></li><li><p>National Police Clearance and right to work in Australia.</p></li></ul><p>Desirable (but not essential):</p><ul><li><p>Experience with 3CX, Omnissa Workspace ONE, SharePoint, or MessageMedia specifically.</p></li><li><p>Experience in healthcare, aged care or another regulated environment.</p></li><li><p>Familiarity with the Privacy Act 1988 and Notifiable Data Breaches scheme.</p></li><li><p>Relevant tertiary qualification or IT/security certification.</p></li><li><p>Power Automate and Power App capability.</p></li></ul><p>If this sounds like the role you've been looking for?</p><p>Hit \"Apply\" now or email <a href=\"mailto:recruitment@asterhomecare.com.au\">recruitment@asterhomecare.com.au</a>, we'd love to have a conversation with you.</p><p><br></p>",
-      "keywords": [
-        "it",
-        "systems",
-        "administrator"
-      ]
-    },
-    {
-      "job_id": "94153662",
-      "job_title": "Software Engineering Manager",
-      "business_name": "Buildsafe Queensland Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Engineering - Software",
-      "pay_range": "",
-      "area": "Arundel, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94153662",
-      "advertiser_id": "24217835",
-      "posted_date": "2026-08-24T00:03:49Z",
-      "job_description": "<p><strong>About Us</strong></p><p>For 25 years, Buildsafe has grown to become one of Australia’s leading providers of height safety, scaffolding and construction technology solutions.&nbsp;Today, we operate nationally across Australia and are investing in the next phase of our technology capability; modernising our core business systems, growing our innovative BuildCam platform, and exploring how AI can improve the way we develop software and operate our business.</p><p><strong>The Role</strong></p><p>We’re now looking for an experienced Software Engineering Manager to lead our engineering function and help shape what comes next. Based at our Arundel Head Office on the Gold Coast, you’ll lead and develop our software engineering team while working closely with our Executive Leadership Team and key stakeholders across the business. This isn’t a role where success is measured by how much code you personally write.</p><p>Your focus will be on people leadership, engineering capability, delivery and technology strategy; creating an environment where great developers can do their best work and ensuring our technology delivers genuine value to the business.&nbsp;You’ll oversee engineering across multiple business-critical platforms, including our proprietary BuildCam technology, internal operational systems and emerging AI initiatives.In your first few months, you’ll focus on understanding our platforms and business, building relationships with the team, assessing our current development and delivery processes, and establishing clear engineering priorities. From there, you’ll play a key role in modernising our technology environment, improving software delivery and helping shape Buildsafe’s longer-term technology roadmap.</p><p><strong>What You’ll Be Doing</strong></p><ul><li><p>Lead, coach and develop our software engineering team.</p></li><li><p>Set clear engineering priorities and manage delivery across multiple projects.</p></li><li><p>Build capability within the team through mentoring, feedback and development.</p></li><li><p>Partner with business leaders to translate operational needs into practical technology solutions.</p></li><li><p>Champion modern software development practices and AI-assisted engineering.</p></li><li><p>Guide technical and architectural decisions without becoming the team’s primary coder.</p></li><li><p>Support the continued evolution of our BuildCam platform and internal business systems.</p></li><li><p>Improve software delivery, quality, scalability and development processes.</p></li><li><p>Remove roadblocks and create an environment where engineers can perform at their best.</p></li><li><p>Contribute to Buildsafe’s broader technology strategy and roadmap.</p></li></ul><p><strong>About You</strong></p><p>You’re an experienced software or engineering leader who gets genuine satisfaction from helping others succeed.You understand technology, but you also understand the business behind it. You can communicate with developers, senior leaders and operational teams and translate between technical requirements and commercial outcomes.</p><p>You’ll ideally bring:</p><ul><li><p>Experience leading software development or engineering teams.</p></li><li><p>Strong people leadership, coaching and mentoring capability.</p></li><li><p>Experience managing software delivery across multiple projects or platforms.</p></li><li><p>Strong communication and stakeholder management skills.</p></li><li><p>A practical and commercially minded approach to technology.</p></li><li><p>Experience working within Agile development environments.</p></li><li><p>An understanding of modern software engineering and architecture principles.</p></li><li><p>Curiosity around emerging technology, particularly AI-assisted development.</p></li><li><p>The ability to balance innovation with reliable, practical business outcomes.</p></li></ul><p><strong>Our Technology</strong></p><p>Our technology environment continues to evolve as the business grows and includes:</p><ul><li><p>React</p></li><li><p>TypeScript</p></li><li><p>PHP</p></li><li><p>Node.js</p></li><li><p>REST APIs</p></li><li><p>SQL</p></li><li><p>Azure</p></li><li><p>Git</p></li><li><p>AI-assisted development tools</p></li></ul><p>You’ll have the opportunity to help us modernise existing business-critical platforms while identifying new technologies and development practices that improve productivity and create competitive advantage.</p><p><strong>What’s in It for You?</strong></p><p>This is an opportunity to join a growing Australian business where technology has a genuine seat at the table.</p><p>You’ll enjoy:</p><ul><li><p>Permanent full-time position based at our Arundel Head Office.</p></li><li><p>Monday–Friday role.</p></li><li><p>Direct exposure to and collaboration with Executive Leadership.</p></li><li><p>Genuine autonomy and influence over our engineering function.</p></li><li><p>Opportunity to shape technology strategy across a national business.</p></li><li><p>Lead the continued evolution of our BuildCam platform.</p></li><li><p>Drive AI adoption and modern engineering practices.</p></li><li><p>Build, mentor and develop a high-performing technical team.</p></li><li><p>Monthly team lunches and social events.</p></li><li><p>Employee Assistance Program.</p></li><li><p>Fitness Passport membership options.</p></li><li><p>Free onsite parking.</p></li><li><p>A collaborative environment where new ideas are encouraged.</p></li></ul><p><br></p>",
-      "keywords": [
-        "software",
-        "engineering",
-        "manager"
-      ]
-    },
     {
       "job_id": "94143028",
       "job_title": "Service Desk Analyst",
@@ -559,35 +516,17 @@
       "business_name": "Feros Care",
       "work_type": "Full time",
       "job_type": "Help Desk & IT Support",
-      "pay_range": "Salary aligned with experience + NFP benefits",
+      "pay_range": "Based on experience + Super + NFP Salary packaging",
       "area": "Coolangatta, Gold Coast QLD",
       "region": "Gold Coast",
       "url": "https://www.seek.com.au/job/94128100",
       "advertiser_id": "61736371",
       "posted_date": "2026-08-21T05:42:35Z",
-      "job_description": "<p><strong>Senior Service Desk Analyst </strong></p><p><strong>We're Feros Care, and we're pleased to meet you.</strong></p><p><strong>And what we care most about is helping people live healthier, happier, better connected lives.</strong></p><p>Since 1990, we've been making it happen, both for older Australians and people with disability. We are proud to be Game Changers. Dream Makers. Kindness Champions. Culture Shapers. Vibrant <br> Creators. And it's not just us who thinks so; We've won many awards on the local and international <br> stage for our approach.</p><p>We're looking for a <strong>Senior Service Desk Analyst</strong> to join our team in <strong>Coolangatta</strong> to provide advanced IT support and operational guidance within our Service Desk team.</p><p>In this role, you'll resolve complex technical issues, coordinate escalations, coach team members and contribute to the day to day success of the Service Desk. Working closely with internal teams and stakeholders, you'll help minimise downtime, enhance the support experience and drive continuous service improvements across the organisation.</p><p><strong>What you'll do</strong></p><ul><li>Provide advanced technical support and resolve complex IT issues.</li><li>Coordinate daily Service Desk operations and manage escalations.</li><li>Coach and support Service Desk Analysts with case reviews and technical guidance.</li><li>Identify recurring issues and contribute to root cause investigations.</li><li>Support improvements to Service Desk processes, knowledge resources and user self service capabilities.</li><li>Support the response to critical incidents and help coordinate timely service restoration.</li><li>Contribute to IT projects, system upgrades and technology rollouts.</li><li>Coordinate hardware procurement, replacements, warranties and vendor relationships.</li><li>Develop user resources and support training for new systems and technologies.</li><li>Deliver exceptional customer service, while minimising disruption to business operations.</li><li>Act as the delegated Service Desk lead when required.</li></ul><p><strong>What you'll bring</strong></p><ul><li>Minimum 2 years' Service Desk experience, including Level 2 support and managing complex incidents and escalations.</li><li>Experience coordinating workloads, prioritising requests and supporting Service Desk operations.</li><li>Strong experience supporting Windows 10/11, Microsoft 365, Exchange, Entra ID, Intune and Active Directory environments.</li><li>Knowledge of IT service management practices, including incident, request, problem and change management.</li><li>Strong troubleshooting and problem solving skills.</li><li>Excellent communication and customer service skills.</li><li>Experience creating documentation, knowledge articles or user guides.</li><li>Experience coaching, mentoring or supporting team members.</li><li>A proactive approach to continuous improvement and service quality.</li><li>Ability to participate in an on call roster and travel to Feros Care sites as required.</li></ul><p><strong>Qualifications &amp; Checks</strong></p><ul><li>Relevant Diploma or Bachelor's degree in Information Technology, or equivalent experience.</li><li>Current Australian Driver Licence.</li><li>Undergo a Nationally Coordinated Criminal History Check.</li><li>Valid Australian working rights.</li></ul><p><strong>Desirable Criteria</strong></p><ul><li>ITIL 4 Foundation certification or similar IT service management experience.</li><li>Experience with SysAid or a similar IT service management platform.</li><li>Experience with Windows Autopilot, application deployment and mobile device management.</li><li>Experience contributing to problem management, knowledge management, self-service or workflow improvements.</li><li>Experience supporting technology projects, procurement activities or device lifecycle management.</li><li>Working knowledge of networking concepts including LAN/WAN, DNS, DHCP and VPN.</li><li>Experience working in aged care, health, disability, community services or another regulated environment.</li></ul><p><strong>Why Feros Care?</strong><br> At Feros Care, we value our people and offer:</p><ul><li>Not for Profit Salary Packaging of up to $15,900 per annum, and meal and entertainment salary sacrifice of up to $2,650 per annum, all tax free, stretching your income further.</li><li>Flexible Working Arrangements, including a hybrid model with a combination of working from our Coolangatta office and the flexibility to work remotely.</li><li>17.5% Annual Leave loading.</li><li>Cultural Leave Days for eligible employees.</li><li>Enjoy exclusive discounts, financial tips, and wellness programs through our ForME employee benefits platform.</li><li>Private Health Insurance Discount with Medibank.</li><li>Employee Assistance Program (EAP).</li><li>Paid Parental Leave (9 weeks) for eligible employees.</li><li>Access to Fitness Passport - discounted gym and pool memberships for you and your family.</li><li>$200 referral bonus per successful referral.</li></ul><p><em>Feros Care acknowledges and pays respect to the Traditional Custodians of this land on which we work. </em></p><p><em>We actively seek to include, welcome and value the unique contributions of all people. We encourage applications from Aboriginal and Torres Strait Islander people, people from cultural and linguistically backgrounds, and people with disability.</em></p><p>If you would like to discuss accessibility requirements, preferred communication methods or other possibilities, please contact <a href=\"mailto:talent@feroscare.com.au\">talent@feroscare.com.au</a></p>",
+      "job_description": "<p><strong>Senior Service Desk Analyst </strong></p><p><strong>We're Feros Care, and we're pleased to meet you.</strong></p><p><strong>And what we care most about is helping people live healthier, happier, better connected lives.</strong></p><p>Since 1990, we've been making it happen, both for older Australians and people with disability. We are proud to be Game Changers. Dream Makers. Kindness Champions. Culture Shapers. Vibrant <br> Creators. And it's not just us who thinks so; We've won many awards on the local and international <br> stage for our approach.</p><p>We're looking for a <strong>Senior Service Desk Analyst</strong> to provide advanced IT support and operational guidance within our Service Desk team.</p><p>In this role, you'll resolve complex technical issues, coordinate escalations, coach team members and contribute to the day to day success of the Service Desk. Working closely with internal teams and stakeholders, you'll help minimise downtime, enhance the support experience and drive continuous service improvements across the organisation.</p><p><strong>What you'll do</strong></p><ul><li>Provide advanced technical support and resolve complex IT issues.</li><li>Coordinate daily Service Desk operations and manage escalations.</li><li>Coach and support Service Desk Analysts with case reviews and technical guidance.</li><li>Identify recurring issues and contribute to root cause investigations.</li><li>Support improvements to Service Desk processes, knowledge resources and user self service capabilities.</li><li>Support the response to critical incidents and help coordinate timely service restoration.</li><li>Contribute to IT projects, system upgrades and technology rollouts.</li><li>Coordinate hardware procurement, replacements, warranties and vendor relationships.</li><li>Develop user resources and support training for new systems and technologies.</li><li>Deliver exceptional customer service, while minimising disruption to business operations.</li><li>Act as the delegated Service Desk lead when required.</li></ul><p><strong>What you'll bring</strong></p><ul><li>Minimum 2 years' Service Desk experience, including Level 2 support and managing complex incidents and escalations.</li><li>Experience coordinating workloads, prioritising requests and supporting Service Desk operations.</li><li>Strong experience supporting Windows 10/11, Microsoft 365, Exchange, Entra ID, Intune and Active Directory environments.</li><li>Knowledge of IT service management practices, including incident, request, problem and change management.</li><li>Strong troubleshooting and problem solving skills.</li><li>Excellent communication and customer service skills.</li><li>Experience creating documentation, knowledge articles or user guides.</li><li>Experience coaching, mentoring or supporting team members.</li><li>A proactive approach to continuous improvement and service quality.</li><li>Ability to participate in an on call roster and travel to Feros Care sites as required.</li></ul><p><strong>Qualifications &amp; Checks</strong></p><ul><li>Relevant Diploma or Bachelor's degree in Information Technology, or equivalent experience.</li><li>Current Australian Driver Licence.</li><li>Undergo a Nationally Coordinated Criminal History Check.</li><li>Valid Australian working rights.</li></ul><p><strong>Desirable Criteria</strong></p><ul><li>ITIL 4 Foundation certification or similar IT service management experience.</li><li>Experience with SysAid or a similar IT service management platform.</li><li>Experience with Windows Autopilot, application deployment and mobile device management.</li><li>Experience contributing to problem management, knowledge management, self-service or workflow improvements.</li><li>Experience supporting technology projects, procurement activities or device lifecycle management.</li><li>Working knowledge of networking concepts including LAN/WAN, DNS, DHCP and VPN.</li><li>Experience working in aged care, health, disability, community services or another regulated environment.</li></ul><p><strong>Why Feros Care?</strong><br> At Feros Care, we value our people and offer:</p><ul><li>Not for Profit Salary Packaging of up to $15,900 per annum, and meal and entertainment salary sacrifice of up to $2,650 per annum, all tax free, stretching your income further.</li><li>Flexible Working Arrangements, including a hybrid model with a combination of working from our Coolangatta office and the flexibility to work remotely.</li><li>17.5% Annual Leave loading.</li><li>Cultural Leave Days for eligible employees.</li><li>Enjoy exclusive discounts, financial tips, and wellness programs through our ForME employee benefits platform.</li><li>Private Health Insurance Discount with Medibank.</li><li>Employee Assistance Program (EAP).</li><li>Paid Parental Leave (9 weeks) for eligible employees.</li><li>Access to Fitness Passport - discounted gym and pool memberships for you and your family.</li><li>$200 referral bonus per successful referral.</li></ul><p><em>Feros Care acknowledges and pays respect to the Traditional Custodians of this land on which we work. </em></p><p><em>We actively seek to include, welcome and value the unique contributions of all people. We encourage applications from Aboriginal and Torres Strait Islander people, people from cultural and linguistically backgrounds, and people with disability.</em></p><p>If you would like to discuss accessibility requirements, preferred communication methods or other possibilities, please contact <a href=\"mailto:talent@feroscare.com.au\">talent@feroscare.com.au</a></p>",
       "keywords": [
         "service",
         "desk",
         "analyst"
-      ]
-    },
-    {
-      "job_id": "94125889",
-      "job_title": "Groundworks Engineer",
-      "business_name": "Mabey Hire Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Engineering - Software",
-      "pay_range": "",
-      "area": "Yatala, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94125889",
-      "advertiser_id": "26986230",
-      "posted_date": "2026-08-21T04:47:52Z",
-      "job_description": "<h2><strong>Build Your Future with Mabey Hire</strong></h2><p><strong>Where Trust, Service &amp; Progress Drive Success</strong></p><p><strong>Mabey Hire Pty Ltd</strong> is an industry leader in engineered products and services for the civil construction and infrastructure sectors across Australia and New Zealand. We specialise in groundworks and shoring equipment—helping build the foundations of tomorrow’s infrastructure.</p><p>We are passionate about what we do, proud of the role we play in major projects, and driven by results that matter.</p><p><br></p><p>Due to continued growth and success, we are looking for a <strong>civil engineer</strong> with experience in <strong>groundworks</strong> to join our supportive and inclusive engineering team <strong>based in Yatala, Queensland.</strong></p><p>This is an exciting opportunity for an engineer who is ready to take the next step in their career, working across engineering design, customer solutions, site support and project delivery.</p><p><br></p><p><strong>The Role: Temporary Works Engineer – Groundworks</strong></p><p>This is a multi-functional engineering role that sits at the intersection of engineering, construction and business.</p><p>You will work closely with contractors, consultants, sales teams and managers to develop safe, practical and cost-effective temporary works solutions using Mabey's range of shoring and groundworks equipment.</p><p>You'll be involved throughout the project lifecycle — from pre-tender design and equipment selection through to construction, site support and project completion.</p><p>The role provides an opportunity to apply your existing engineering knowledge while continuing to develop your expertise in temporary works, structural steel and geotechnical engineering.</p><p><strong>Your Key Responsibilities</strong></p><ul><li><p>Provide technical engineering support to customers from pre-tender through to project completion.</p></li><li><p>Develop safe, practical and cost-effective temporary works and groundworks solutions using Mabey's range of equipment.</p></li><li><p>Prepare engineering calculations, designs, drawings and technical documentation.</p></li><li><p>Specify appropriate Mabey equipment based on project requirements, engineering principles and construction methodology.</p></li><li><p>Apply structural engineering principles to the analysis and design of temporary steel structures in accordance with AS 4100.</p></li><li><p>Apply geotechnical engineering principles to excavation support, retaining walls, sheet piling and groundworks solutions.</p></li><li><p>Review site conditions, drawings and geotechnical information to develop practical engineering solutions.</p></li><li><p>Provide technical and engineering support for live projects and assist customers with installation and de-installation methodologies.</p></li><li><p>Attend customer meetings, site visits and project discussions as required.</p></li><li><p>Support the Sales team by providing technical input during tenders, quotations and customer presentations.</p></li><li><p>Develop and maintain strong relationships with contractors, consultants and internal stakeholders.</p></li><li><p>Support the development of engineering knowledge and product understanding across local branches.</p></li><li><p>Assist with training and mentoring less experienced engineers and team members.</p></li><li><p>Contribute to the growth and promotion of Mabey Engineering Services and the broader capabilities of Mabey.</p></li></ul><p><br></p><p><strong>What We're Looking For</strong></p><p>We're looking for an engineer who combines solid technical capability with a practical, solutions-focused mindset.</p><p><strong>Essential</strong></p><ul><li><p>Bachelor's degree in civil or structural engineering or equivalent.</p></li><li><p>An interest in structural, geotechnical, temporary works or construction engineering.</p></li><li><p>Strong skills in structural steel analysis and design applying AS 4100.</p></li><li><p>Experience or demonstrated capability in geotechnical design, including retaining walls, excavation support and/or sheet piling.</p></li><li><p>Experience with temporary works design methodologies and/or temporary support systems.</p></li><li><p>Good working knowledge of Autodesk software: AutoCAD, Revit &amp; Inventor and engineering drafting.</p></li><li><p>Ability to develop safe and practical installation and de-installation methodologies for temporary support equipment.</p></li><li><p>Strong analytical and problem-solving skills.</p></li><li><p>Good communication skills and the ability to work effectively with customers, contractors, consultants and internal teams.</p></li><li><p>Ability to work independently while also contributing positively to a collaborative team environment.</p></li></ul><p><strong>Desirable</strong></p><p>Experience or knowledge in one or more of the following would be advantageous:</p><ul><li><p>RPEQ / CPEng with a clear pathway to completion.</p></li><li><p>Sheet piling and retaining wall design</p></li><li><p>Trench shoring and excavation support</p></li><li><p>Hydraulic shoring and temporary propping systems</p></li><li><p>Structural steel and aluminium design</p></li><li><p>Bailey or panel bridging systems</p></li><li><p>Construction methodology and site-based engineering</p></li></ul><p><br></p><p><strong>What’s in It for You?</strong></p><ul><li><p>Competitive salary</p></li><li><p>Regular salary review periods</p></li><li><p>Career growth and promotion opportunities</p></li><li><p>On-the-job coaching and technical development</p></li><li><p>In-house technical training</p></li><li><p>External training opportunities with equipment suppliers</p></li></ul><ul><li><p>Exposure to a diverse range of construction and infrastructure projects</p></li><li><p>A supportive and inclusive team environment</p></li><li><p>The opportunity to build and develop your career within a growing engineering business</p></li></ul><p><br></p><p><strong>Why Mabey Hire?</strong></p><p>Our Vision is clear:</p><p><strong>Uncompromising Service to Deliver Successful Projects.</strong></p><p>When you join Mabey Hire, you become part of a business that lives its values every day:</p><p><strong>Trust</strong> – Doing the right thing, always<br><strong>Service</strong> – Going above and beyond for our customers<br><strong>Progress</strong> – Constant improvement, personally and professionally</p><p>We invest in our people, reward effort, and value those who take ownership and pride in their work.</p>",
-      "keywords": [
-        "groundworks",
-        "engineer"
       ]
     },
     {
@@ -720,6 +659,25 @@
         "data",
         "integration",
         "engineer"
+      ]
+    },
+    {
+      "job_id": "94099921",
+      "job_title": "AI Software Developer",
+      "business_name": "Princess Polly",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "",
+      "area": "Burleigh Heads, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94099921",
+      "advertiser_id": "27507146",
+      "posted_date": "2026-08-20T05:10:36Z",
+      "job_description": "<div><div>\n<p><b><strong>About the role</strong></b></p>\n<p>We're growing our investment in modern, AI-assisted engineering, and we're looking for an AI Software Developer to own the end-to-end development of our enterprise merchandising application and other core line-of-business systems. Reporting to our Global Tech Director, you'll bring together strong software engineering fundamentals with modern AI-assisted and agentic development technologies,&nbsp; including large language models such as Claude,&nbsp; to build secure, scalable solutions that keep pace with a fast-growing retail business.</p>\n<p>This role has&nbsp; real scope to shape how we build and support software at Princess Polly. You'll own work across the full development lifecycle from requirements through to deployment and production support, partnering with teams across our Global business.&nbsp;</p>\n<p><b><strong>What You'll Do</strong></b></p>\n<ul>\n<li>Own the end-to-end development and ongoing maintenance of our enterprise merchandising application.</li>\n<li>Design and build internal line-of-business applications, integrations, automations and supporting services, integrating with our existing enterprise platforms, databases, APIs and third-party services.</li>\n<li>Use AI-assisted and agentic development technologies, including large language models such as Claude, to improve development speed, quality and capability.</li>\n<li>Gather and translate business requirements into clear, well-documented technical solutions.</li>\n<li>Manage testing, deployment, monitoring, troubleshooting and production support to keep everything running smoothly.</li>\n<li>Stay ahead of emerging AI and software development technologies and recommend where we should adopt them.</li>\n<li>Work autonomously while keeping our Global Technology Director informed of progress, risks and delivery timelines.</li>\n</ul>\n<p><b><strong>What You'll Bring</strong></b></p>\n<ul>\n<li>Proven experience as a software developer, with demonstrated ownership of applications across the full development lifecycle (design, build, test, deploy, support).</li>\n<li>Practical experience using AI-assisted and agentic development tools (e.g. Claude, Claude Code, GitHub Copilot or similar) as part of a modern engineering workflow.</li>\n<li>Strong AI/agentic programming skills across relevant languages and frameworks, comfortable working across front-end, back-end and database layers.</li>\n<li>Experience integrating applications with enterprise platforms, databases, APIs and third-party services, plus cloud infrastructure, CI/CD pipelines and modern DevOps practices.</li>\n<li>Working knowledge of information security, data privacy and secure coding principles.</li>\n<li>Self-directed and comfortable working autonomously, with a pragmatic, ownership-driven approach to problem solving and a genuine interest in emerging technology.</li>\n</ul>\n<p><b><strong>Why You'll Love The Role</strong></b><b><strong> </strong></b></p>\n<ul>\n<li>The chance to shape how AI-assisted and agentic development is used across Princess Polly's technology function.</li>\n<li>Real autonomy and scope to own systems end-to-end, from architecture through to production support.</li>\n<li>Direct collaboration with key departments across the business, with the chance to see the impact of your work firsthand.</li>\n<li>The chance to build deep, in-demand expertise in AI-assisted and agentic engineering.</li>\n</ul>\n<p>Beyond the benefits and perks you already know and love as part of the team, this role is a chance to make a real impact on a fast-growing, global business. It's your opportunity to pursue your passion and shape your own future here at Princess Polly.</p>\n<p>Princess Polly is an Equal Opportunity Employer (EOE). We're committed to a diverse and inclusive workplace and encourage applications from all backgrounds and walks of life. Different makes us better.</p>\n<p>Ready to make the move?</p>\n<p>#PrincessPolly #PursueYourPassion #PrincessPollyCareers</p>\n</div></div>",
+      "keywords": [
+        "ai",
+        "software",
+        "developer"
       ]
     },
     {
@@ -1456,6 +1414,24 @@
       "keywords": [
         "software",
         "developer"
+      ]
+    },
+    {
+      "job_id": "93651825",
+      "job_title": "Support Analyst",
+      "business_name": "Queensland Airports Limited",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Bilinga, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93651825",
+      "advertiser_id": "24200181",
+      "posted_date": "2026-07-30T04:09:14Z",
+      "job_description": "<p><b>Who is QAL?</b></p>\n\n<p>Queensland Airports Limited (QAL) is an accomplished airport operator which owns and operates Gold Coast, Townsville, Longreach and Mount Isa airports – connecting the Gold Coast and northern NSW, along with regional Queensland, to the rest of the country and beyond. Our company has a vision to engage customers, connect communities and deliver exceptional experiences – and a commitment to delivering for the communities where we operate. We have been formally recognised as a ‘Great Place to Work – Certified’ organisation four times and recently was awarded Work180 accreditation as a champion for gender equity for the second year in a row. Our company is dedicated to a target of net zero Scope 1 and Scope 2 emissions by 2030.</p>\n\n<p>There has never been a better time to join us.</p>\n\n<p>&nbsp;</p>\n\n<p><b>What you’ll contribute to:</b></p>\n\n<p>This role is responsible for providing customer focused support for QAL employees and customers across the technology used at QAL. These tools are both customer facing (laptops, PC’s, phones) but also internal (servers, network etc.) and are integral to the operation of QAL. The role is responsible for maintaining, supporting, monitoring and identifying and rectifying issues related to these wide arrays of products and infrastructures and to provide excellent customer service in delivering this service.</p>\n\n<p>&nbsp;</p>\n\n<p>Aryan, a QAL Support Analyst, shares his unique experience working with us below:</p>\n\n<p><i>“I joined QAL because of its strong emphasis on professionalism and teamwork. What I value most is the collaborative culture, where team members actively share knowledge and support one another’s growth.</i></p>\n\n<p><i>I contribute by bringing in new ideas and sharing new skills and knowledge that I continuously learn.</i></p>\n\n<p><i>QAL provides me with a supportive and motivating environment, and I am proud to be part of the organisation.”</i></p>\n\n<p>&nbsp;</p>\n\n<p><b>How will you make an impact?</b></p>\n\n<p>We’re looking for someone with basic entry-level IT skills, a friendly and approachable attitude, and a strong customer service focus. If you’re keen to learn and grow in a dynamic environment, this role is for you! Recent graduates are welcome, and while 1-2 years of experience would be an advantage, it’s not essential- we value enthusiasm and a willingness to develop your skills.</p>\n\n<p>&nbsp;</p>\n\n<p>Candidates with knowledge and experience in support for Microsoft Office365, Cisco network infrastructure and Cloud services will be highly regarded.</p>\n\n<p>&nbsp;</p>\n\n<p><b>Key deliverables/responsibilities include but are not limited to:</b></p>\n\n<ul>\n\t<li>Provides application maintenance and support services, either directly to users of the systems or to service delivery functions</li>\n\t<li>Investigation and resolution of issues that may also include performance monitoring, asset rebuilds, and other technical work required to resolve issues with technology</li>\n\t<li>Provide advice or training to users, by devising corrections (permanent or temporary) for faults, making general or site-specific modifications, updating documentation, manipulating data, or defining enhancements</li>\n\t<li>Demonstrates a willingness to “go the extra mile” and have a “can do attitude” to solve problems and support users</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><b>What we offer you?</b></p>\n\n<p>This is an opportunity to be part of a progressive organisation with a great culture and assist in the transformation and growth of the business. Flexible working options are available for all employees. At QAL, we uphold the philosophy that the smooth integration of life and work benefits all. We call it ‘Living Well’.</p>\n\n<p>QAL supports an inclusive approach and values diversity within the workplace. We aim to provide opportunities that allow individuals to reach their full potential regardless of their background, gender, age, work status, religious or cultural identity. Aboriginal and Torres Strait Islander peoples are encouraged to apply.</p>\n\n<p>The successful candidate will be required to adhere to QAL’s Drug and Alcohol Management Plan (DAMP), which includes pre-employment Drug and Alcohol Testing and have the ability to obtain an Aviation Security Identification Card (ASIC).</p>\n\n<p>Please obtain the Position Description by clicking HERE, or if you are on Seek, by copying the following location into your browser to access the Position Description through our careers site: https://qal.elmotalent.com.au/careers/QALcareers/job/view/373</p>",
+      "keywords": [
+        "support",
+        "analyst"
       ]
     },
     {
