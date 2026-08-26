@@ -1,499 +1,481 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-26",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-27T08:36:13.331220+10:00",
-  "total_jobs": 56,
+  "scraped_at": "2026-08-26T06:18:27.654330+10:00",
+  "total_jobs": 59,
   "keywords": [
     {
       "term": "analyst",
-      "count": 11,
-      "share": 0.1964
+      "count": 13,
+      "share": 0.2203
+    },
+    {
+      "term": "it",
+      "count": 10,
+      "share": 0.1695
     },
     {
       "term": "developer",
       "count": 9,
-      "share": 0.1607
+      "share": 0.1525
     },
     {
-      "term": "it",
-      "count": 9,
-      "share": 0.1607
+      "term": "business",
+      "count": 8,
+      "share": 0.1356
     },
     {
       "term": "support",
       "count": 8,
-      "share": 0.1429
+      "share": 0.1356
     },
     {
       "term": "software",
       "count": 7,
-      "share": 0.125
+      "share": 0.1186
     },
     {
       "term": "manager",
       "count": 7,
-      "share": 0.125
-    },
-    {
-      "term": "business",
-      "count": 6,
-      "share": 0.1071
+      "share": 0.1186
     },
     {
       "term": "engineer",
       "count": 6,
-      "share": 0.1071
+      "share": 0.1017
     },
     {
       "term": "technician",
       "count": 5,
-      "share": 0.0893
+      "share": 0.0847
     },
     {
       "term": "service",
       "count": 5,
-      "share": 0.0893
+      "share": 0.0847
     },
     {
       "term": "officer",
-      "count": 5,
-      "share": 0.0893
+      "count": 4,
+      "share": 0.0678
     },
     {
       "term": "ai",
       "count": 3,
-      "share": 0.0536
+      "share": 0.0508
     },
     {
       "term": "solutions",
       "count": 3,
-      "share": 0.0536
+      "share": 0.0508
     },
     {
       "term": "desk",
       "count": 3,
-      "share": 0.0536
+      "share": 0.0508
     },
     {
       "term": "program",
       "count": 3,
-      "share": 0.0536
+      "share": 0.0508
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0536
+      "share": 0.0508
     },
     {
       "term": "product",
       "count": 3,
-      "share": 0.0536
+      "share": 0.0508
     },
     {
       "term": "cyber",
       "count": 3,
-      "share": 0.0536
+      "share": 0.0508
     },
     {
       "term": "development",
       "count": 3,
-      "share": 0.0536
+      "share": 0.0508
     },
     {
       "term": "project",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0339
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0339
     },
     {
       "term": "php",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0339
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0339
     },
     {
       "term": "technical",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0339
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0339
     },
     {
       "term": "deployment",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0339
     },
     {
       "term": "wsr",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0339
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0339
     },
     {
       "term": "systems",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0339
     },
     {
       "term": "owner",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0339
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0339
     },
     {
       "term": "delivery",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0339
     },
     {
       "term": "specialist",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0339
     },
     {
       "term": "leader",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "accounting",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "jetstar",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "retail",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
+    },
+    {
+      "term": "system",
+      "count": 1,
+      "share": 0.0169
+    },
+    {
+      "term": "zoho",
+      "count": 1,
+      "share": 0.0169
+    },
+    {
+      "term": "user",
+      "count": 1,
+      "share": 0.0169
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "frontend",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "wordpress",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "heads",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "days",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "per",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "week",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "laravel",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "groundworks",
-      "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "java",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
+    },
+    {
+      "term": "groundworks",
+      "count": 1,
+      "share": 0.0169
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "ao4",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "tech",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "kingston",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "state",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "application",
-      "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "apps",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "m365",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
+    },
+    {
+      "term": "regional",
+      "count": 1,
+      "share": 0.0169
+    },
+    {
+      "term": "supervisor",
+      "count": 1,
+      "share": 0.0169
     },
     {
       "term": "evolve",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "writer",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "machinery",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "ui",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "ux",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "landing",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "page",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     },
     {
       "term": "leadify",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0169
     }
   ],
   "jobs": [
-    {
-      "job_id": "94220093",
-      "job_title": "Data and AI Engineer",
-      "business_name": "Alder Constructions Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Other",
-      "pay_range": "",
-      "area": "Helensvale, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94220093",
-      "advertiser_id": "20961859",
-      "posted_date": "2026-08-26T08:45:04Z",
-      "job_description": "<p></p><p>Alder Group is proudly celebrating 23 years in 2026, bringing engineering and construction teams together under one roof to deliver high-quality building, civil and infrastructure projects across Queensland and Northern NSW.</p><p>&nbsp;</p><p>At Alder, we're not just building communities, we're building the future.</p><p>As we continue to transform how we leverage technology, data and artificial intelligence across our business, we're looking for an exceptional <strong>Data &amp; AI Engineer</strong> to establish and lead our enterprise data and AI capability from the ground up.</p><p>&nbsp;</p><p>This is a rare opportunity to join a growing business at a pivotal stage of its digital transformation journey. You'll have the autonomy, influence and support to design and develop the data foundations, reporting frameworks, automation opportunities and AI solutions that will drive smarter decisions and unlock business performance across the organisation. </p><p>&nbsp;</p><p><strong>About the Role</strong></p><p>Reporting to the General Manager - Information, Data &amp; Technology, you will lead the development of Alder's enterprise data platform and serve as the technical owner of our data, analytics and AI capabilities.</p><p>&nbsp;</p><p>You'll be responsible for designing the architecture, governance frameworks and reporting solutions that transform business data into trusted information assets, while identifying opportunities to leverage automation, analytics and AI to improve business outcomes. </p><p>&nbsp;</p><p>This is a hands-on role where you will participate and lead the initial requirements gathering, options analysis and design phases and then build the data platform, integrations and reporting from ground up.</p><p>&nbsp;</p><p>Key responsibilities include:</p><ul><li>Design and develop Alder's enterprise data platform, architecture and governance frameworks</li><li>Build scalable data models, pipelines, integrations and reporting solutions</li><li>Deliver business insights through Power BI, analytics and AI-enabled solutions</li><li>Drive automation and process improvement initiatives across the organisation</li><li>Champion data quality, governance and emerging technology opportunities</li><li>Partner with stakeholders to translate business needs into actionable data solutions</li><li>Develop and support AI-enabled prototypes and solutions that improve productivity, decision-making and operational efficiency</li></ul><p>&nbsp;</p><p><strong>About You</strong></p><p>You're a strategic thinker with strong technical capability who enjoys solving complex business challenges through data.</p><ul><li>Experience with enterprise data platforms, modern data architectures or data warehousing</li><li>Strong skills in data modelling, integration, reporting and analytics</li><li>Knowledge of data governance, automation and AI technologies</li><li>Experience with Power BI and platforms such as Fabric, Snowflake or Databricks</li><li>Strong stakeholder engagement and communication skills</li><li>A proactive mindset and passion for continuous improvement</li><li>Degree in Data Analytics, Data Science, Information Technology, Computer Science, Software Engineering or a related discipline is highly desirable.</li></ul><p>&nbsp;</p><p><strong>About Alder Group</strong></p><p>At Alder Group, we deliver award-winning construction and infrastructure projects that positively impact communities across Queensland and Northern NSW. Our diverse portfolio spans Infrastructure, Water and Wastewater, Education, Health, Commercial, Industrial, Hospitality and Community sectors.</p><p>&nbsp;</p><p><strong>What We Offer</strong></p><ul><li>A supportive and collaborative workplace where people are valued, respected and encouraged to do their best work.</li><li>A genuine \"One Team\" mindset and focus on continuous improvement.</li><li>Opportunities to develop your capability, expand your experience and grow your career within a dynamic and evolving business.</li><li>Exposure to a broad range of technologies, projects and business operations.</li><li>A structured pathway into systems administration and infrastructure-focused roles.</li><li>A competitive remuneration package aligned to your experience and the value you bring to the role.</li></ul><p></p><p></p>",
-      "keywords": [
-        "data",
-        "ai",
-        "engineer"
-      ]
-    },
-    {
-      "job_id": "94202095",
-      "job_title": "Application Support Officer",
-      "business_name": "City of Gold Coast",
-      "work_type": "Full time",
-      "job_type": "Networks & Systems Administration",
-      "pay_range": "$$111,401-$117,924 p/a plus superannuation",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94202095",
-      "advertiser_id": "16652581",
-      "posted_date": "2026-08-25T23:07:53Z",
-      "job_description": "<ul> <li><strong>Full Time (2x positions available | 9-day fortnight | 36 hours per week </strong></li> <li> <strong>Salary: </strong>From $111,401 - $117,924 per annum plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG2068/assets/32182697\">Application Support Officer</a> </li> </ul><p> </p><p><strong>About the role </strong></p><p>It is an exciting time to be joining the Chief Technology Office, where you can be a key driver in enacting meaningful change. We are seeking 2 experienced and enthusiastic Application Support Officers to join our team.</p><p>In this role, you will play a vital part in implementing and maintaining the City’s employee experience platforms and services including HR, Payroll, Performance Management, Learning and Development, Talent Acquisition and Onboarding. You will ensure they are reliable, secure, continually evolving to meet the needs of our employees and take full advantage of available features.</p><p>Working under the Enterprise Platform Entity Lead (Employee Experience), you will provide critical application guidance and support to drive ICT employee experience outcomes citywide. This includes contributing to service improvement initiatives, user experience improvements, problem resolution, system enhancements, and ensuring our digital platforms are well positioned to support the City’s vision of being a ‘utility for the future’. You will collaborate closely with ICT specialists and business stakeholders to deliver high-quality outcomes that enhance the City’s employee experience.</p><p>If you are passionate about technology, digital transformation, and supporting innovative service delivery, this is a fantastic opportunity to be part of a forward-thinking team helping shape the future of technology at the City of Gold Coast.</p><p><strong>We’re looking for people who have: </strong></p><ul> <li>A degree in Information Technology, Computer Science or a related field, or experience in a similar role.</li> <li>Proficiency in digital HRM applications (e.g. Workday, Chris21, SAP SuccessFactors), databases (e.g. SQL), web tools and user interfaces and data analytics tools.</li> <li>Good understanding of core HR business processes such as HR / employee lifecycle, payroll, learning and performance, recruitment and onboarding.</li> <li>Excellent customer service skills and experience with ticketing/service management platforms (e.g. Service Now).</li> <li>Attention to detail and strong analytical / problem solving skills.</li> <li>Strong stakeholder engagement skills, including requirements gathering and training.</li> <li>Excellent communication skills and ability to explain technical issues to non-technical stakeholders.</li> <li>Awareness of privacy, data security, HR compliance and records management requirements.</li> <li>Strong understanding of ITIL service management (incident/problem/change) and ITIL certification or willingness to obtain </li> <li>Understands AGILE methodology and has experience working in AGILE teams. Experience in breaking technical tasks into user stories and tasks.</li> <li>Communicates clearly and confidently, translating technical concepts into practical solutions.</li> <li>Works collaboratively, thrives in a fast-moving environment and embraces change.</li> <li>Brings a proactive, can-do attitude and a genuine passion for improving digital services for our employees.</li> </ul><p><strong>Be part of shaping the Gold Coast’s future </strong></p><p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p><p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p><ul> <li>9-day fortnight </li> </ul><ul> <li>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations </li> </ul><ul> <li>Personal and professional development courses </li> </ul><ul> <li>Access to 350+ fitness facilities through Fitness Passport </li> </ul><ul> <li>4 free confidential counselling sessions a year for you or an immediate family member </li> </ul><ul> <li>1 free nutritionist and financial advice session per year </li> </ul><p> </p><p>We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p><p><strong>How to apply</strong><br>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p><p><strong>Contact Person</strong> Ashley Shannon </p><p><strong>Contact Email</strong> <a href=\"mailto:ashannon@goldcoast.qld.gov.au\">ashannon@goldcoast.qld.gov.au</a></p><p><strong>Closing Date</strong> Sunday 6th September 2026/11:59pm AEDT </p><p> </p><p>Our selection process may include a one-way video interview via Criteria, a face-to-face or virtual interview via Microsoft Teams, reference checks via Xref and additional checks including police checks, employment history checks, qualification checks, pre-employment medical reviews and drug and alcohol testing. </p><p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
-      "keywords": [
-        "application",
-        "support",
-        "officer"
-      ]
-    },
     {
       "job_id": "94196255",
       "job_title": "IT Support Technician - Gold Coast",
@@ -813,6 +795,46 @@
       "keywords": [
         "business",
         "analyst"
+      ]
+    },
+    {
+      "job_id": "94055545",
+      "job_title": "AI Regional Supervisor",
+      "business_name": "World Wide Technology",
+      "work_type": "Contract/Temp",
+      "job_type": "Programme & Project Management",
+      "pay_range": "",
+      "area": "Australia Fair, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94055545",
+      "advertiser_id": "63349325",
+      "posted_date": "2026-08-18T11:16:31Z",
+      "job_description": "<p><strong>About the role</strong></p><p>The AI Regional Supervisor is the regional delivery authority for the physical build of AI factory infrastructure. You lead the AI Foremen running individual sites across your region, and you own the standard to which every one of those sites is delivered: installation quality, safety discipline, schedule integrity and documentation accuracy. Where the Foreman runs a site, you run the region – multiple concurrent builds, each with its own customer, partners and critical path.</p><p>This is a field-track leadership role at 100% delivery execution. You do not produce designs; you receive the issued design – low-level designs, rack elevations, P2P schedules and RBI workbooks – from the Domain Architect – AI Facilities (Layer 1) and are accountable for its faithful physical execution. You are the seam between site reality and the design authority: field deviations flow up through you with evidence and issued design changes flow down through you to the floor with superseded versions withdrawn.</p><p>The bar for this role is the same as for the Foremen you lead, raised one level: proven command of large-scale data centre deployments, the authority to stop work when safety or quality demands it, and reporting that stands behind every sign-off given in your region. When a build is on the critical path, you work the problem, not the clock; sustained site presence across the region is a firm requirement.</p><p><strong>Key responsibilities</strong></p><ul><li><p>Own delivery execution across all active sites in the region, holding each build to the issued design version, the installation quality standard and the committed schedule</p></li><li><p>Sequence foremen, field staff and partner crews across concurrent builds, and rebalance the region when a site's critical path moves</p></li><li><p>Maintain the regional installation schedule and dependency view across all builds, feeding it into the project plans owned by the Project Managers</p></li><li><p>Lead, direct and develop the AI Foremen in the region; set and enforce the operating standard for daily briefings, installation trackers, issue logging and quality gates on every site</p></li><li><p>Verify that every Foreman sign-off is backed by evidence – test results, inspection records and tracker entries – before it is presented for customer acceptance</p></li><li><p>Hold stop-work authority across the region; enforce site safety standards, PPE regimes and duty of care for all staff, partners and visitors under supervision</p></li><li><p>Own S1 and S2 issue response for the region: same-day notification of the Project Manager and Principal Architect for stop-work events, and within-day escalation of critical-path blockers</p></li><li><p>Enforce that sites cable and build only to the current issued design version, and that superseded versions are withdrawn from the floor</p></li><li><p>Channel field deviations to the Domain Architect – AI Facilities (Layer 1) with photographs and evidence, and hold work until adjudication where the deviation is structural</p></li><li><p>Set and audit the regional QA bar: copper and fibre certification test results, fibre end-face cleanliness, bend radius, labelling, grounding and bonding verification, and liquid-cooling leak-detection checks</p></li></ul><p><strong>About you</strong></p><ul><li><p>Proven supervision of large-scale data centre physical deployments across multiple concurrent sites, directing foremen, installers and subcontractor crews</p></li><li><p>Structured cabling at high density: single-mode and multimode fibre, direct-attach copper, polarity, bend radius, pathway fill and cable management standards</p></li><li><p>Copper and fibre certification testing: interpreting test results, enforcing fibre inspection and cleanliness to IEC 61300-3-35, and rejecting marginal results</p></li><li><p>Three-phase rack power verification: voltage, phase and amperage checks, PDU installation to design, and grounding and bonding to electrical code</p></li><li><p>Working awareness of direct liquid cooling installation practices, leak detection verification and the constraints of powered high-density halls</p></li><li><p>Fluent reading of rack elevations, floor plans, P2P schedules and RBI workbooks; runs installation trackers as the single source of site truth</p></li><li><p>Working command of project management fundamentals applied to multi-site, multi-project builds: installation scheduling, critical-path and dependency management, resource levelling across a shared crew pool, and risk identification with mitigation tracked to closure</p></li><li><p>Construction-site safety regimes: 5-point PPE enforcement, site inductions, hearing protection in powered halls, and the judgement to stop work without hesitation</p></li><li><p>WHS site safety accreditation (White Card in Australia, or local equivalent) – required before unescorted site access</p></li></ul><p><br></p>",
+      "keywords": [
+        "ai",
+        "regional",
+        "supervisor"
+      ]
+    },
+    {
+      "job_id": "93571634",
+      "job_title": "Business System Support/ ZOHO User",
+      "business_name": "HOMEMAX ACCOUNTING SERVICES PTY LTD",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "$35 – $50 per hour Depending on the experience",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93571634",
+      "advertiser_id": "63802119",
+      "posted_date": "2026-08-17T23:31:30Z",
+      "job_description": "<p><strong>Job Summary:</strong>We are seeking a skilled and detail-oriented Zoho Business System Support Specialist to join our team. In this role, you will provide ongoing support, maintenance, and development for our Zoho ecosystem, ensuring our business processes run smoothly and efficiently. You will work closely with internal teams to understand requirements, implement solutions, and troubleshoot issues as they arise.</p><p><strong>Key Responsibilities:</strong></p><ul><li><p>Provide day-to-day technical support for Zoho applications (Zoho CRM, Zoho Projects, Zoho Forms, etc.).</p></li><li><p>Configure and customize Zoho modules, workflows, and automation to meet business needs.</p></li><li><p>Troubleshoot and resolve issues related to data integrity, user access, and system performance.</p></li><li><p>Collaborate with team members to gather requirements and translate them into Zoho solutions.</p></li><li><p>Maintain and update Zoho integrations.</p></li><li><p>Train and support end-users on best practices and new features.</p></li><li><p>Monitor system logs and performance metrics to proactively identify and resolve potential issues.</p></li><li><p>Document processes, configurations, and changes for future reference.</p></li></ul><p><strong>Qualifications:</strong></p><ul><li><p>Proven experience with Zoho CRM, and other Zoho products.</p></li><li><p>Strong understanding of database concepts, data structures, and relational databases.</p></li><li><p>Experience with Zoho Flow, Zoho Creator, and Zoho Deluge scripting is a plus.</p></li><li><p>Familiarity with API integrations and webhooks.</p></li><li><p>Strong problem-solving and analytical skills.</p></li><li><p>Excellent communication and interpersonal skills.</p></li><li><p>Ability to work independently and manage multiple priorities.</p></li></ul><p><strong>Preferred Skills:</strong></p><ul><li><p>Experience with Zoho One or Zoho Business Suite.</p></li><li><p>Knowledge of SQL or other database query languages.</p></li><li><p>Basic understanding of web development (HTML, CSS, JavaScript) for customizations.</p></li><li><p>Experience with automation tools and workflow optimization.</p></li></ul><p><br>If you are passionate about Zoho and enjoy solving complex business problems, we’d love to hear from you!</p>",
+      "keywords": [
+        "business",
+        "system",
+        "support",
+        "zoho",
+        "user"
       ]
     },
     {
@@ -1537,6 +1559,60 @@
         "days",
         "per",
         "week"
+      ]
+    },
+    {
+      "job_id": "93583229",
+      "job_title": "IT Business Analyst",
+      "business_name": "Ringers Western",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "",
+      "area": "Helensvale, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93583229",
+      "advertiser_id": "62403670",
+      "posted_date": "2026-07-27T10:06:15Z",
+      "job_description": "<p>Ringers Western is growing, and so is our technology team. We are looking for a Business Analyst to join our high performing tech team and grow into a career in business analysis and systems delivery.</p><p>You will be the person who drives improvement, forms part of key project teams and picks up the issues that are too tricky for support - the ones that need real investigation, some detective work, and a properly thought through solution. Alongside that, you will get hands on exposure to systems documentation, data analysis and process improvement, working closely with every member of the team.</p><p>If you are an analytical thinker who loves solving problems, enjoys talking to people as much as systems, and wants a genuine pathway into a Business Analyst career, we would love to hear from you.</p><h2>Must-haves</h2><ul><li><p><strong>Approximately 1–2 years’ experience in a Business Analyst or related delivery role</strong>, with exposure to gathering requirements, documenting processes and supporting system or process improvements.</p></li><li><p><strong>Practical ERP exposure</strong>—has supported an ERP implementation, upgrade or live ERP environment and can discuss relevant functions such as inventory, purchasing, order management or finance integration.</p></li><li><p><strong>Requirements gathering experience</strong>—has assisted with stakeholder interviews or workshops and can translate business needs into clear requirements, user stories or process documentation.</p></li><li><p><strong>Business stakeholder engagement</strong>—comfortable communicating with operational teams, subject-matter experts and managers, with support from a senior team member where required.</p></li><li><p><strong>UAT experience</strong>—has helped prepare test cases, coordinate testing, record defects and support business users through UAT.</p></li><li><p><strong>Strong written documentation skills</strong>—able to produce clear requirements, process maps, user stories, meeting notes or training materials.</p></li><li><p><strong>Organised and proactive approach</strong>—able to manage assigned tasks, follow up actions and raise risks or issues promptly.</p></li><li><p><strong>Willingness to learn</strong>—open to coaching and able to gradually take greater ownership as their knowledge and confidence develop.</p></li></ul><h2>Strongly considered</h2><ul><li><p>Experience in <strong>retail, e-commerce, wholesale, apparel or consumer goods</strong>.</p></li><li><p>Exposure to the <strong>order-to-cash and stock lifecycle</strong>, including purchasing, inventory, fulfilment, returns or financial processing.</p></li><li><p>Familiarity with multiple business systems, such as an <strong>ERP, e-commerce platform, WMS/3PL or POS</strong>.</p></li><li><p>Basic understanding of <strong>system integrations and data flows</strong>, with an interest in developing API and data-mapping knowledge.</p></li><li><p>Experience working with external vendors or implementation partners, including tracking actions, defects and delivery dates.</p></li><li><p>Availability to start promptly to allow for a structured handover with the outgoing Senior Business Analyst.</p></li><li><p>Comfortable working in a small team and assisting with a combination of project delivery, system triage, user support and BAU activities.</p></li></ul><h2>Development opportunities</h2><p>The successful candidate will be supported to develop capability in:</p><ul><li><p>Independently leading requirements workshops.</p></li><li><p>Managing requirements through to formal sign-off.</p></li><li><p>Taking greater ownership of UAT and defect triage.</p></li><li><p>Working directly with senior stakeholders.</p></li><li><p>Managing vendors against scope and delivery commitments.</p></li><li><p>Understanding integrations, APIs and system data mapping.</p></li></ul><h2><strong>What You Will Bring</strong></h2><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 to 2 years' experience in a business analyst role</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A knack for problem solving and getting to the why, not just the what</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong written communication. You can turn a messy problem into a clear, simple document</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Great attention to detail</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The ability to juggle a support ticket and a project deadline in the same afternoon</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience in business process definition &amp; improvement</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A friendly and approachable demeanour, able to convey information to users at all skill levels</p><h2>Nice to have (not essential)</h2><ul><li><p>Agile delivery (backlogs, sprints, refinement) alongside more traditional documentation</p></li><li><p>Process mapping tooling: Visio, Lucidchart, Miro</p></li><li><p>SQL or reporting capability for self-service data investigation</p></li><li><p>Prior experience being the sole BA in an organisation</p></li></ul><h2><strong>Why Join Us</strong></h2><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clear growth path within a supportive, close knit tech team</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Direct mentoring from skilled &amp; experienced team members</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Variety. No two days look the same between support, projects and process improvement across varied systems, departments and channels</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Laptop and equipment provided</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Based at our Helensvale office, Monday to Friday, 8am to 4pm</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Generous staff discount on Ringers products</p>",
+      "keywords": [
+        "it",
+        "business",
+        "analyst"
+      ]
+    },
+    {
+      "job_id": "93572144",
+      "job_title": "Lead Engineer ",
+      "business_name": "Randstad Digital",
+      "work_type": "Full time",
+      "job_type": "Engineering - Software",
+      "pay_range": "plus super",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93572144",
+      "advertiser_id": "26537413",
+      "posted_date": "2026-07-27T04:27:12Z",
+      "job_description": "<p>Are you a Lead Engineer looking for your next challenge? We are seeking a highly skilled data integration specialist to drive the design, development, and support of robust ETL/ELT pipelines. This is a fantastic opportunity to act as a subject matter expert, partner with architects on major cloud migration initiatives, and champion engineering excellence in a dynamic environment.</p><h2>What You Will Do:</h2><ul><li><p>Design, develop, and support robust data integration solutions using Informatica IDMC across on-premises, hybrid, and cloud environments.</p></li><li><p>Act as the subject matter expert for Informatica and IDMC, actively defining engineering standards, patterns, and best practices.</p></li><li><p>Partner closely with architects and key stakeholders to support critical cloud migration and modernisation initiatives.</p></li><li><p>Engineer for non-functional excellence, ensuring optimal system reliability, security, performance, observability, and operability.</p></li><li><p>Apply an AI-first approach to automate coding, testing, data mappings, orchestration, and documentation processes.</p></li></ul><h2>What You Need to Apply for This Role:</h2><ul><li><p>Expert-level experience with Informatica PowerCenter and IDMC (Cloud Data Integration, Cloud Application Integration, Data Quality).</p></li><li><p>Strong SQL skills combined with extensive experience working with large, complex relational datasets.</p></li><li><p>Proven experience designing and supporting high-volume, time-critical batch data pipelines.</p></li><li><p>Practical exposure to modern version control tools, specifically Git and Bitbucket.</p></li><li><p>A degree in Computer Science (or a closely related field) with a major in software engineering or equivalent experience.</p></li></ul><br>Interested? Apply Now! If you are a Lead Engineer with experience in Informatica, we want to hear from you. Click \"Apply Now\". Alternatively, please reach out to Will for more information - <a href=\"mailto:will.denford@randstaddigital.com.au\">will.denford@randstaddigital.com.au</a> <p>At Randstad, we are passionate about providing equal employment opportunities and embracing diversity to the benefit of all. We actively encourage applications from any background.</p><p> </p><p></p>",
+      "keywords": [
+        "engineer"
+      ]
+    },
+    {
+      "job_id": "93562016",
+      "job_title": "Data Analyst",
+      "business_name": "East Coast Car Rentals",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "$81,000 per year",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93562016",
+      "advertiser_id": "22796821",
+      "posted_date": "2026-07-26T21:42:43Z",
+      "job_description": "<h2>Data Analyst</h2><p><strong>Southport | Gold Coast, QLD | Full-Time | Immediate Start</strong></p><p><br></p><p>East Coast Car Rentals has been putting Australians on the road since 1979.</p><p>We operate a national fleet across 14 locations, and our commercial team at Southport is where the pricing, yield and performance decisions for the whole network get made.</p><p>That team is growing. We’re looking for a Data Analyst to join it, reporting to our Revenue Analyst. It’s a hands-on analytical role with direct line of sight to commercial decisions - the analysis you produce goes to the people who act on it.</p><p><br></p><h2><strong>What you’ll do</strong></h2><ul><li><p>Acquire, validate and cleanse data from our reservations, fleet and finance systems, and maintain the integrity of the underlying data sets</p></li><li><p>Analyse rate, utilisation, yield and margin data to identify trends and patterns across branches, vehicle categories and distribution channels</p></li><li><p>Build and maintain pricing, forecasting and scenario-analysis models, and quantify the impact of proposed pricing changes</p></li><li><p>Develop and maintain dashboards and automated reporting for branch, channel and fleet performance</p></li><li><p>Conduct market and competitor rate analysis to inform pricing positioning</p></li><li><p>Load and maintain pricing and inventory data in our subscription products platform</p></li><li><p>Work with branch managers and the commercial team to turn analysis into practical recommendations</p></li><li><p>Prepare reporting and presentations for senior management setting out findings and recommended actions</p></li></ul><p><br></p><h2><strong>What you’ll bring</strong></h2><ul><li><p>A degree in a quantitative, commercial or business discipline - data analytics, statistics, finance, economics, engineering or similar</p></li><li><p>At least two years’ experience in a data, pricing or commercial analyst role</p></li><li><p>Strong Excel skills, including modelling and scenario analysis</p></li><li><p>Working knowledge of SQL for data extraction and querying</p></li><li><p>Experience building dashboards and visualisations in Power BI, Tableau or equivalent</p></li><li><p>Sound data quality and validation discipline</p></li><li><p>The ability to explain analysis clearly to non-technical people across sales, finance and operations</p></li><li><p>Full working rights in Australia</p></li></ul><p><br></p><h2><strong>Nice to have</strong></h2><ul><li><p>Experience in a high-volume, perishable-inventory industry - car rental, travel, transport, logistics or hospitality</p></li><li><p>Exposure to ERP or revenue management systems</p></li><li><p>Experience supporting tender or contract pricing</p></li></ul><p><br></p><h2><strong>Why ECCR</strong></h2><p>Privately owned, nationally operating, and small enough that your analysis actually gets used. You’ll work directly with the people making the calls, based at our Southport head office on the Gold Coast.</p><p><br></p><h2><strong>Our Culture</strong></h2><p>Our people are our edge. We invest heavily in training, development, and internal progression.</p><p>Our values: <strong>Honesty, Respect, Transparency, Customers, Innovation, and Our People</strong> guide how we show up every day.</p><p>Expect a fun, fast-moving, supportive culture where hard work is recognised and success is celebrated.</p><p>East Coast Car Rentals is proud to be an inclusive employer. We welcome applicants from all backgrounds who want to grow, lead, and make a real impact.</p><p><br></p><p><strong>Applications close Sunday 23 August, 2026.</strong></p><p>Please apply with a current CV and a short covering note outlining your analytical experience. All applications will be assessed against the criteria above.</p><p><br></p><p>🔗 <em>Check out our Employee Value Proposition (EVP) below to see why our people love working here!</em></p>",
+      "keywords": [
+        "data",
+        "analyst"
       ]
     }
   ]
