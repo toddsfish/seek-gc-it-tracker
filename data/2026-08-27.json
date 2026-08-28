@@ -1,469 +1,461 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-27",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-28T13:55:58.304989+10:00",
-  "total_jobs": 50,
+  "scraped_at": "2026-08-27T08:36:13.331220+10:00",
+  "total_jobs": 56,
   "keywords": [
     {
       "term": "analyst",
-      "count": 12,
-      "share": 0.24
+      "count": 11,
+      "share": 0.1964
     },
     {
       "term": "developer",
-      "count": 8,
-      "share": 0.16
+      "count": 9,
+      "share": 0.1607
+    },
+    {
+      "term": "it",
+      "count": 9,
+      "share": 0.1607
     },
     {
       "term": "support",
       "count": 8,
-      "share": 0.16
+      "share": 0.1429
     },
     {
-      "term": "it",
-      "count": 8,
-      "share": 0.16
+      "term": "software",
+      "count": 7,
+      "share": 0.125
     },
     {
       "term": "manager",
       "count": 7,
-      "share": 0.14
+      "share": 0.125
     },
     {
       "term": "business",
       "count": 6,
-      "share": 0.12
+      "share": 0.1071
     },
     {
-      "term": "software",
+      "term": "engineer",
+      "count": 6,
+      "share": 0.1071
+    },
+    {
+      "term": "technician",
       "count": 5,
-      "share": 0.1
+      "share": 0.0893
     },
     {
       "term": "service",
       "count": 5,
-      "share": 0.1
+      "share": 0.0893
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.1
-    },
-    {
-      "term": "engineer",
-      "count": 4,
-      "share": 0.08
+      "share": 0.0893
     },
     {
       "term": "ai",
       "count": 3,
-      "share": 0.06
+      "share": 0.0536
     },
     {
       "term": "solutions",
       "count": 3,
-      "share": 0.06
-    },
-    {
-      "term": "technician",
-      "count": 3,
-      "share": 0.06
+      "share": 0.0536
     },
     {
       "term": "desk",
       "count": 3,
-      "share": 0.06
+      "share": 0.0536
     },
     {
       "term": "program",
       "count": 3,
-      "share": 0.06
+      "share": 0.0536
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.06
+      "share": 0.0536
+    },
+    {
+      "term": "product",
+      "count": 3,
+      "share": 0.0536
     },
     {
       "term": "cyber",
       "count": 3,
-      "share": 0.06
+      "share": 0.0536
     },
     {
       "term": "development",
       "count": 3,
-      "share": 0.06
+      "share": 0.0536
     },
     {
       "term": "project",
       "count": 2,
-      "share": 0.04
+      "share": 0.0357
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.04
+      "share": 0.0357
+    },
+    {
+      "term": "php",
+      "count": 2,
+      "share": 0.0357
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.04
+      "share": 0.0357
     },
     {
       "term": "technical",
       "count": 2,
-      "share": 0.04
+      "share": 0.0357
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.04
+      "share": 0.0357
+    },
+    {
+      "term": "deployment",
+      "count": 2,
+      "share": 0.0357
+    },
+    {
+      "term": "wsr",
+      "count": 2,
+      "share": 0.0357
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.04
+      "share": 0.0357
     },
     {
       "term": "systems",
       "count": 2,
-      "share": 0.04
+      "share": 0.0357
+    },
+    {
+      "term": "owner",
+      "count": 2,
+      "share": 0.0357
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.04
+      "share": 0.0357
     },
     {
       "term": "delivery",
       "count": 2,
-      "share": 0.04
+      "share": 0.0357
     },
     {
       "term": "specialist",
       "count": 2,
-      "share": 0.04
-    },
-    {
-      "term": "solution",
-      "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "architect",
-      "count": 1,
-      "share": 0.02
+      "share": 0.0357
     },
     {
       "term": "leader",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "accounting",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "jetstar",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "retail",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "frontend",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
+    },
+    {
+      "term": "wordpress",
+      "count": 1,
+      "share": 0.0179
+    },
+    {
+      "term": "burleigh",
+      "count": 1,
+      "share": 0.0179
+    },
+    {
+      "term": "heads",
+      "count": 1,
+      "share": 0.0179
+    },
+    {
+      "term": "days",
+      "count": 1,
+      "share": 0.0179
+    },
+    {
+      "term": "per",
+      "count": 1,
+      "share": 0.0179
+    },
+    {
+      "term": "week",
+      "count": 1,
+      "share": 0.0179
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "php",
-      "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "laravel",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "groundworks",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "java",
       "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "desktop",
-      "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "month",
-      "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "field",
-      "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "break",
-      "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "fix",
-      "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "goldcoast",
-      "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
+    },
+    {
+      "term": "field",
+      "count": 1,
+      "share": 0.0179
+    },
+    {
+      "term": "break",
+      "count": 1,
+      "share": 0.0179
+    },
+    {
+      "term": "fix",
+      "count": 1,
+      "share": 0.0179
+    },
+    {
+      "term": "goldcoast",
+      "count": 1,
+      "share": 0.0179
     },
     {
       "term": "ao4",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
+    },
+    {
+      "term": "tech",
+      "count": 1,
+      "share": 0.0179
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "kingston",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "state",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "apps",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "m365",
       "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "product",
-      "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "evolve",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "writer",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "machinery",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "ui",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "ux",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "landing",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "page",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "leadify",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     }
   ],
   "jobs": [
-    {
-      "job_id": "94258460",
-      "job_title": "Solution Architect",
-      "business_name": "Southern Cross University",
-      "work_type": "Full time",
-      "job_type": "Architects",
-      "pay_range": "",
-      "area": "Bilinga, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94258460",
-      "advertiser_id": "15012749",
-      "posted_date": "2026-08-28T01:13:27Z",
-      "job_description": "<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing <a href=\"https://www.scu.edu.au/southern-cross-model/\" target=\"_self\">Southern Cross Model</a> brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity</strong></p>\n<p>Southern Cross University is on an ambitious journey to redefine how technology empowers learning, research, and community impact. We’re building a future-ready technology organisation – modern, secure, adaptable, and driven by innovation.&nbsp; Our teams are embracing emerging technologies, including&nbsp;artificial intelligence, to deliver smarter services and real-world benefits for students, staff, and the wider community.</p>\n<p>Within Technology Services, our five dynamic work units – Data, Architecture &amp; Integration, Cyber Resilience, Digital Delivery &amp; Innovation, Technology Platforms, and Operations &amp; Services – work collaboratively to deliver high-impact solutions across the University.</p>\n<p>We are seeking a Solution Architect to lead the design and delivery of complex, enterprise-wide solutions that span multiple systems, platforms, and business domains.&nbsp; This senior technical role offers the chance to shape architectural direction, establish design standards, and drive strategic solution initiatives across the University’s teaching, learning, research, and administrative functions.</p>\n<p>Reporting to the Enterprise Architect, you will work closely with development teams, project managers, and business stakeholders to deliver high-impact solutions aligned with the University’s enterprise architecture vision</p>\n<p>You will make an impact by:</p>\n<ul>\n<li>Designing and delivering robust enterprise-grade solution architectures that support teaching, research, student services, and operations across all major university domains</li>\n<li>Leading the integration of core platforms such as TechnologyOne, Microsoft Dynamics, Blackboard, Microsoft Teams, and custom applications, ensuring seamless connectivity across all systems</li>\n<li>Establishing and promoting architectural standards and frameworks that ensure scalability, security, and maintainability across all digital initiatives</li>\n<li>Providing expert guidance and mentorship to develop teams, driving best practices in solution design, technology selection, and implementation</li>\n<li>Collaborating with stakeholders and contributing to the university technology roadmap, championing innovation, emerging technologies, and long term strategic planning</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<p>You’re an experienced and forward-thinking Solution Architect with deep technical knowledge, strong leadership skills, and a collaborative approach to problem solving.&nbsp; You thrive in complex environments, enjoy working across multiple business domains, and are passionate about delivering scalable, impactful technology solutions.</p>\n<p>To succeed in this role, you will also need:</p>\n<ul>\n<li>A Bachelor’s degree in Information Technology, Computer Science, or a related field</li>\n<li>Ideally 8+ years in technical roles with at least 5 years in solution architecture</li>\n<li>Proven experience in designing and integrating enterprise platforms including TechnologyOne, Dynamics 365, Blackboard, and Microsoft Teams</li>\n<li>Strong understanding of solution design patterns, architectural frameworks, and integration practices</li>\n<li>Demonstrate ability to lead large scale architecture initiatives and collaborate with cross-functional teams</li>\n<li>Excellent stakeholder engagement and communication skills, translating business needs into technical strategy</li>\n<li>A commitment to innovation, continuous improvement, and delivering real world impact</li>\n</ul>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/gold-coast/\" target=\"_self\">Gold Coast</a>, <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/coffs-harbour/\" target=\"_self\">Coffs Harbour</a> and the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/lismore/\" target=\"_self\">Northern Rivers</a> region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li>Full-time, continuing (permanent)</li>\n<li>Located at either Coffs Harbour, NSW 2450, Gold Coast, QLD 4225, or Lismore, NSW 2480. Relocation Assistance, making it easier to join our regional communities</li>\n<li>The level of appointment will be commensurate with the candidate’s qualifications, skills and experience.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit <a href=\"https://www.scu.edu.au/about/jobs-at-southern-cross/why-work-at-southern-cross-university/\" target=\"_self\">Why work at Southern Cross University?</a></p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>Name: Vivian Cormier<br>Email: <a href=\"mailto:Vivian.cormier@scu.edu.au\">Vivian.cormier@scu.edu.au</a></p>\n<p><strong>Applications close 11.30pm AEST 13 September 2026</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. &nbsp;Employer visa sponsorship is not available for this position.</p>\n<p>To view the full position advertisement and details of the application process, please click on the <strong>APPLY</strong> button where you will be redirected to the Southern Cross University website. Applicants must apply online and attach a CV and cover letter responding to the selection criteria within the position description. Information to support you prepare your application is available on our <a href=\"https://www.scu.edu.au/about/jobsscu/vacancies/applying-for-a-position/\" target=\"_self\">website.</a></p>\n<p><em>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to </em><a href=\"mailto:jobs@scu.edu.au\" target=\"_self\"><em>jobs@scu.edu.au.</em></a></p>\n",
-      "keywords": [
-        "solution",
-        "architect"
-      ]
-    },
-    {
-      "job_id": "94225795",
-      "job_title": "Desktop Support Analyst (6-Month Fixed-Term Contract)",
-      "business_name": "HUB24",
-      "work_type": "Contract/Temp",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94225795",
-      "advertiser_id": "41588958",
-      "posted_date": "2026-08-26T23:55:51Z",
-      "job_description": "<p><strong>About HUB24</strong></p><p>At HUB24, we’re rethinking the way wealth management works, combining platform, technology and data to create better outcomes for financial professionals and their clients.</p><p>Our purpose is simple:&nbsp;<strong> Empower better financial futures,&nbsp;together</strong>.</p><p>What sets us apart is how we work.&nbsp;We back <strong>bold thinking,</strong> move with pace, and turn ideas into action. You’ll have the opportunity to make a real impact across your team, the business, and for the clients we support every day.</p><p>HUB24 Limited is&nbsp;an ASX-listed company (ASX: HUB) and part of the ASX100.&nbsp;We have over 1,100 employees across Australia, with offices in Sydney, Melbourne, Brisbane, Perth and the Gold Coast.&nbsp;<br></p><p><strong>Why you’ll enjoy working here</strong></p><p>We create an environment where you can do your best work and see the impact of it.</p><ul><li><p>Work with smart, collaborative people who get things done.</p></li><li><p>Your ideas won’t sit in a backlog, they’ll be&nbsp;heard, tested and actioned.</p></li><li><p>Grow your career your way, with support to&nbsp;learn, stretch and explore new opportunities.<br></p></li></ul><p>We also offer benefits to support you inside and outside of work:</p><ul><li><p>Genuinely flexible&nbsp;and hybrid&nbsp;ways of working.</p></li><li><p>Employee Share Scheme.</p></li><li><p>Additional leave and wellbeing support.</p></li><li><p>Enhanced parental leave and support through different life stages.</p></li><li><p>Everyday benefits, including discounts and financial wellbeing support.<br></p></li></ul><p><strong>Why this is an exciting opportunity</strong><br><br>The IT Service Delivery team provides timely and expert technical services to support the products and services of the HUB24 Group and external clients. These include managed services and hosting, infrastructure support, application support, and end user support.<br>The primary objective of the Desktop Support Analyst is to deliver reliable, customer-focused workplace technology support for HUB24’s Queensland offices, ensuring incidents, service requests and end-user technology needs are resolved efficiently and in line with agreed service levels. The role acts as the local on-site technology contact for Queensland office locations, supporting desktop, device, access and collaboration services while partnering with centralised technology teams to maintain consistent, secure and compliant service delivery.<br><br>This role operates on a hybrid working arrangement, with four days per week on-site and one day working from home. The primary location is our Gold Coast office. As a key member of the support team, you will also be required to travel between our Queensland offices in Brisbane and the Gold Coast on a rotating basis to provide onsite support.<br></p><p><strong>What you’ll be doing</strong></p><ul><li><p>Deliver high-quality end-to-end support for incidents, service requests and workplace technology issues across interstate offices, ensuring timely resolution, clear communication and adherence to service levels.</p></li><li><p>Act as the primary on-site technology contact, providing hands-on desktop support, troubleshooting hardware, software, workplace technology and access-related issues, and coordinating local technology needs.</p></li><li><p>Manage and resolve tickets through the ITSM platform, ensuring accurate categorisation, documentation, prioritisation and ownership through to resolution, with escalation to specialist teams as required.</p></li><li><p>Support onboarding, offboarding and access management activities, including device provisioning, system access and lifecycle management of workplace technology assets.</p></li><li><p>Collaborate with Service Desk, Desktop Support and Service Operations teams to deliver a consistent, high-quality user experience across all locations.</p></li><li><p>Create and maintain knowledge articles, documentation and operating procedures, while identifying opportunities to improve support processes, technology services and user experience.</p></li><li><p>Ensure compliance with IT governance, security and asset management standards, and contribute to service reporting, metrics and the identification of recurring issues and risks.<br></p></li></ul><p><strong>What you bring</strong></p><p>You don’t need to tick every box, but experience in the below will set you up for success.</p><p><strong>Experience &amp; Skills</strong></p><ul><li><p>Minimum 2 years' experience in an IT Support role within a medium to large enterprise environment, supporting end-user computing and workplace technologies.</p></li><li><p>Relevant tertiary qualification in Information Technology or a related discipline, or equivalent practical experience.</p></li><li><p>Strong understanding of IT Service Management (ITSM) principles, including incident, request, problem and change management, with experience using ITSM platforms.</p></li><li><p>Demonstrated experience providing remote and on-site technical support across hardware, software, operating systems, workplace technologies and access-related issues.</p></li><li><p>Knowledge of Microsoft 365, endpoint management (e.g. Intune), identity and access management, and modern collaboration platforms.</p></li><li><p>Experience supporting device provisioning, asset lifecycle management, onboarding, offboarding and user access management in a secure and compliant manner.</p></li><li><p>Strong analytical and problem-solving skills, with the ability to diagnose issues, assess impact and deliver effective resolutions.</p></li><li><p>Excellent communication and interpersonal skills, with the ability to build trusted relationships, establish credibility and engage effectively with end users, stakeholders and technical teams.</p></li><li><p>Ability to work independently in a geographically distributed environment, manage competing priorities and maintain high service standards.</p></li><li><p>Experience creating and maintaining documentation, knowledge articles and standard operating procedures.</p></li><li><p>Understanding of IT governance, security, risk and compliance requirements, with a continuous improvement mindset and a focus on enhancing service delivery.<br></p></li></ul><p><strong>Our process</strong></p><p>We aim to keep the process simple and respectful of your time:</p><ul><li><p>You’ll receive an acknowledgement after applying.</p></li><li><p>Our Talent team will review your application and keep you updated.</p></li><li><p>If shortlisted, we’ll connect to learn more about you.</p></li><li><p>Interviews may be virtual or in person.</p></li><li><p>You’ll receive an outcome and feedback.</p></li></ul><p><br></p><p>If you need any adjustments, please let us know - we’re here to support you.<br></p><p><strong>Our commitment</strong></p><p>We’re committed to building an inclusive environment where everyone feels valued and supported to do their best work. We welcome applications from people of all backgrounds, identities and experiences.</p><p>Agencies, we work with a panel of preferred suppliers and are not accepting any unsolicited CVs.</p>",
-      "keywords": [
-        "desktop",
-        "support",
-        "analyst",
-        "month"
-      ]
-    },
     {
       "job_id": "94220093",
       "job_title": "Data and AI Engineer",
@@ -798,7 +790,7 @@
       "url": "https://www.seek.com.au/job/94090660",
       "advertiser_id": "11413832",
       "posted_date": "2026-08-20T01:11:07Z",
-      "job_description": "<strong>Description</strong><div><strong>Help organisations navigate cyber incidents when it matters most</strong></div><div>\n<br>Are you calm under pressure, confident making decisions, and able to communicate effectively with people at every level of an organisation?<br><br>\n</div><div>We're looking for a <strong>Cyber Incident Manager</strong> to coordinate and manage cyber incidents from initial notification through to resolution. Whilst you'll work closely with technical specialists, this role is focused on <strong>project coordination, stakeholder management, communication, organisation and decision-making</strong> rather than hands-on technical cybersecurity.<br><br>\n</div><div>You will become the central point of coordination during an incident, ensuring the right people are engaged, actions are progressing, stakeholders are informed, and clients receive an exceptional experience during what is often a challenging and stressful time.<br><br>\n</div><div>This role is ideal for someone with strong organisational skills, professional confidence, excellent communication abilities and the judgement to assess information, make decisions and back themselves.<br><br><strong>Location: </strong>Gold Coast/Brisbane</div><br><br><strong>What You'll Be Doing</strong><ul>\n<li>Managing cyber incidents from triage through to resolution.</li>\n<li>Acting as the primary point of contact for clients during an incident.</li>\n<li>Coordinating technical specialists, investigators and support teams to ensure actions are completed.</li>\n<li>Leading incident calls and stakeholder meetings.</li>\n<li>Managing action plans, timelines, priorities and deliverables.</li>\n<li>Providing regular updates to clients, insurers, legal counsel and internal stakeholders.</li>\n<li>Translating technical information into clear business-focused communication.</li>\n<li>Working closely with executives and senior leaders to support decision making.</li>\n<li>Maintaining incident records, reports and documentation.</li>\n<li>Supporting lessons learned and continuous improvement activities.</li>\n<li>Building trusted relationships with clients and key stakeholders.</li>\n<li>Identifying risks, issues and opportunities for improvement throughout the incident lifecycle.</li>\n</ul><br><br><strong>What We're Looking For</strong><ul>\n<li>Exceptional communication and stakeholder management skills.</li>\n<li>Confidence speaking with people at all levels, including CEOs, CFOs, General Managers, IT Managers and business owners.</li>\n<li>Strong decision-making skills and the confidence to make recommendations and stand behind them.</li>\n<li>Strong project coordination or project management skills.</li>\n<li>Excellent attention to detail and organisational capability.</li>\n<li>Ability to manage multiple priorities and competing deadlines.</li>\n<li>Strong written communication and report-writing skills.</li>\n<li>Professional judgement and problem-solving ability.</li>\n<li>Commitment to delivering an exceptional customer experience.</li>\n</ul><div><strong>Highly Regarded</strong></div><ul>\n<li>Experience in incident management, project management, operations, client service, consulting or professional services environments.</li>\n<li>Experience coordinating complex projects or stakeholder groups.</li>\n<li>Cybersecurity knowledge is beneficial but not required.</li>\n<li>Experience working in insurance, legal, technology or risk-related industries.</li>\n</ul><br><br><strong>Why You'll Love Working With Us</strong><ul>\n<li>Be part of a GLOBAL team (we have offices in the USA, UK and Australia)</li>\n<li>State of the art modern office</li>\n<li>Supportive team culture and modern office environment</li>\n<li>Opportunities to grow your skills and take on more responsibility</li>\n<li>Above award wages + performance bonuses</li>\n<li>Fun team events and a workplace that values your contribution</li>\n<li>No formal qualifications needed — we care more about your attitude, work ethic, and willingness to learn.</li>\n</ul>",
+      "job_description": "<strong>Description</strong><div><strong>Help organisations navigate cyber incidents when it matters most</strong></div><div>\n<br>Are you calm under pressure, confident making decisions, and able to communicate effectively with people at every level of an organisation?<br><br>\n</div><div>We're looking for a <strong>Cyber Incident Manager</strong> to coordinate and manage cyber incidents from initial notification through to resolution. Whilst you'll work closely with technical specialists, this role is focused on <strong>project coordination, stakeholder management, communication, organisation and decision-making</strong> rather than hands-on technical cybersecurity.<br><br>\n</div><div>You will become the central point of coordination during an incident, ensuring the right people are engaged, actions are progressing, stakeholders are informed, and clients receive an exceptional experience during what is often a challenging and stressful time.<br><br>\n</div><div>This role is ideal for someone with strong organisational skills, professional confidence, excellent communication abilities and the judgement to assess information, make decisions and back themselves.<br><br><strong>Location: </strong>Gold Coast/Brisbane</div><br><br><strong>What You'll Be Doing</strong><ul>\n<li>Managing cyber incidents from triage through to resolution.</li>\n<li>Acting as the primary point of contact for clients during an incident.</li>\n<li>Coordinating technical specialists, investigators and support teams to ensure actions are completed.</li>\n<li>Leading incident calls and stakeholder meetings.</li>\n<li>Managing action plans, timelines, priorities and deliverables.</li>\n<li>Providing regular updates to clients, insurers, legal counsel and internal stakeholders.</li>\n<li>Translating technical information into clear business-focused communication.</li>\n<li>Working closely with executives and senior leaders to support decision making.</li>\n<li>Maintaining incident records, reports and documentation.</li>\n<li>Supporting lessons learned and continuous improvement activities.</li>\n<li>Building trusted relationships with clients and key stakeholders.</li>\n<li>Identifying risks, issues and opportunities for improvement throughout the incident lifecycle.</li>\n</ul><br><br><strong>What We're Looking For</strong><ul>\n<li>Exceptional communication and stakeholder management skills.</li>\n<li>Confidence speaking with people at all levels, including CEOs, CFOs, General Managers, IT Managers and business owners.</li>\n<li>Strong decision-making skills and the confidence to make recommendations and stand behind them.</li>\n<li>Strong project coordination or project management skills.</li>\n<li>Excellent attention to detail and organisational capability.</li>\n<li>Ability to manage multiple priorities and competing deadlines.</li>\n<li>Strong written communication and report-writing skills.</li>\n<li>Professional judgement and problem-solving ability.</li>\n<li>Commitment to delivering an exceptional customer experience.</li>\n</ul><div><strong>Highly Regarded</strong></div><ul>\n<li>Experience in incident management, project management, operations, client service, consulting or professional services environments.</li>\n<li>Experience coordinating complex projects or stakeholder groups.</li>\n<li>Cybersecurity knowledge is beneficial but not required.</li>\n<li>Experience working in insurance, legal, technology or risk-related industries.</li>\n</ul><br><br><strong>Why You'll Love Working With Us</strong><ul>\n<li>Be part of a GLOBAL team (we have offices in the USA, UK and Australia)</li>\n<li>State of the art modern office</li>\n<li>Supportive team culture and modern office environment</li>\n<li>Opportunities to grow your skills and take on more responsibility</li>\n<li>Above award wages + performance bonuses</li>\n<li>Fun team events and a workplace that values your contribution</li>\n<li>No formal qualifications needed — we care more about your attitude, work ethic, and willingness to learn.<br>&nbsp;<br>&nbsp;We love our workplace, and we think you will too.</li>\n</ul>",
       "keywords": [
         "cyber",
         "incident",
@@ -928,6 +920,60 @@
       ]
     },
     {
+      "job_id": "93977377",
+      "job_title": "Product Owner",
+      "business_name": "Department of Health - Queensland",
+      "work_type": "Full time",
+      "job_type": "Product Management & Development",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93977377",
+      "advertiser_id": "32285210",
+      "posted_date": "2026-08-14T04:01:32Z",
+      "job_description": "<div>\n \n <p>Lead the vision, strategy and roadmaps for a portfolio of digital products across Gold Coast Hospital and Health Service.</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Product Owner</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.<strong>&nbsp;</strong></p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide authoritative and timely advice to stakeholders on the strategy, optimisation and support for digital products</li>\n<li>Engage and collaborate with the Digital Experience team and other stakeholders in the delivery of product initiatives</li>\n<li>Provide well engineered solutions with minimal technical direction and supervision</li>\n<li>Manage a set of actionable performance criteria/success metrics specific for each product</li>\n<li>Lead in the development of solution options, product improvement priorities, emerging trend analysis and cost estimates for digital product initiatives</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, at least five years working in a digital environment, at least 2 years working in products and a relevant tertiary qualification would be highly regarded</li>\n<li>Two years or more experience leading and managing a digital product team would be advantageous</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $140,796 - $151,101 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services Strategic Plan 2028.</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture. DHI is responsible for enhancing efficiency and service delivery improvements to optimise Health Service performance. It also oversees strategic partnerships that help the Health Service implement alternative models of service delivery, ensuring value for money, and driving improvements in performance, and innovation.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Thursday, 27 August 2026</strong><strong>&nbsp;</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC690237</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
+      "keywords": [
+        "product",
+        "owner"
+      ]
+    },
+    {
+      "job_id": "93972192",
+      "job_title": "Product Owner",
+      "business_name": "Gold Coast Hospital & Health Service",
+      "work_type": "Full time",
+      "job_type": "Product Management & Development",
+      "pay_range": "$140,796 - $151,101 per annum + 12.75% super",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93972192",
+      "advertiser_id": "32285403",
+      "posted_date": "2026-08-14T01:54:06Z",
+      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Product Owner</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.<strong>&nbsp;</strong></p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide authoritative and timely advice to stakeholders on the strategy, optimisation and support for digital products</li>\n<li>Engage and collaborate with the Digital Experience team and other stakeholders in the delivery of product initiatives</li>\n<li>Provide well engineered solutions with minimal technical direction and supervision</li>\n<li>Manage a set of actionable performance criteria/success metrics specific for each product</li>\n<li>Lead in the development of solution options, product improvement priorities, emerging trend analysis and cost estimates for digital product initiatives</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, at least five years working in a digital environment, at least 2 years working in products and a relevant tertiary qualification would be highly regarded</li>\n<li>Two years or more experience leading and managing a digital product team would be advantageous</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $140,796 - $151,101 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services Strategic Plan 2028.</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture. DHI is responsible for enhancing efficiency and service delivery improvements to optimise Health Service performance. It also oversees strategic partnerships that help the Health Service implement alternative models of service delivery, ensuring value for money, and driving improvements in performance, and innovation.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Thursday, 27 August 2026</em></strong><strong>&nbsp;</strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC690237</p>\n<p><strong>&nbsp;</strong></p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
+      "keywords": [
+        "product",
+        "owner"
+      ]
+    },
+    {
+      "job_id": "93971863",
+      "job_title": "Junior Software Engineer",
+      "business_name": "Shred-X",
+      "work_type": "Full time",
+      "job_type": "Engineering - Software",
+      "pay_range": "",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93971863",
+      "advertiser_id": "21275137",
+      "posted_date": "2026-08-14T01:45:18Z",
+      "job_description": "<p>We are looking for a curious and motivated Junior Software Engineer with an interest in AI, data analytics and automation to help develop practical business solutions that improve reporting, decision-making and operational efficiency. </p><p>Embedded with the Software Engineering team, this is a hands-on role focused on AI workflows, data analysis, automation and business intelligence. It is not a social media or content-writing role. </p><p><strong>What you'll do</strong></p><ul> <li>Develop and improve AI prompts and workflows.</li> <li>Transform Excel, CSV and other business data into useful reports, dashboards and summaries.</li> <li>Help automate repetitive business and compliance processes.</li> <li>Build AI tools that help managers understand business performances.</li> <li>Assist in the development of AI agents that monitor areas such as: <ul> <li>Safety and Compliance</li> <li>Operations</li> <li>Finance</li> <li>Customer Experience</li> <li>Driver Performance</li> </ul> </li> <li>Help identify data quality issues and problems within reporting systems.</li> <li>Use AI tools such as Microsoft Copilot to assist with SQL, Power BI, DAX, Python and documentation.</li> <li>Test AI outputs to ensure they are accurate, reliable and fit for purpose.</li> <li>Document processes so they can be easily used by other staff.</li> <li>Work closely with Compliance and business teams.</li> <li>Contribute to projects involving: <ul> <li>Vehicle maintenance forecasting and asset optimisation analytics</li> <li>AI-powered executive reporting</li> <li>AI-assisted decision support</li> <li>Business process automation</li> </ul> </li> </ul><p><strong>What we're looking for</strong></p><p><strong>Essential</strong></p><p>Applicants should meet one of the following criteria:</p><ul> <li>1-2 years of relevant industry experience; or</li> <li>Final-year undergraduate student; or</li> <li>Master's student in Computer Science, Information Technology, Data Analytics, Business Analytics, Engineering, or a related discipline. </li> </ul><p>In addition, you should have:</p><ul> <li>Strong Excel skills.</li> <li>Good analytical and problem-solving skills. </li> <li>Excellent attention to detail.</li> <li>A genuine interest in AI, automation and data.</li> <li>The ability to work independently and take ownership of projects.</li> <li>Good documentation and communication skills. </li> </ul><p><strong>Desirable</strong></p><p>Experience with any of the following would be advantageous:</p><ul> <li>Python</li> <li>SQL</li> <li>Power BI and DAX</li> <li>Microsoft Fabric</li> <li>PySpark</li> <li>Azure AI / Azure OpenAI</li> <li>Copilot Studio</li> <li>Machine Learning</li> <li>AI prompt engineering</li> <li>Git and version control</li> <li>REST APIs</li> </ul><p>You don't need experience with all these technologies. We are looking for someone who is curious, analytical and willing to learn.</p><p><strong>Your Initial Projects</strong></p><p>We will initially focus on projects that can deliver quick business value, including:</p><ul> <li>AI-powered executive Q&amp;A</li> <li>Automated reporting and commentary</li> <li>Data quality monitoring</li> <li>AI-assisted development using Microsoft Copilot</li> </ul><p>These projects may later expand into predictive analytics, AI agents and more advanced automation solutions. </p><p><strong>What You'll Gain</strong></p><ul> <li>Hands-on experience working with real AI and business data.</li> <li>Experience with modern Microsoft AI and data technologies.</li> <li>Exposure to Compliance, Operations and business processes.</li> <li>Ownership of real projects with measurable outcomes.</li> <li>Mentoring and support from experienced professionals.</li> <li>Practical experience that goes beyond university theory.</li> </ul><p><strong>Why Join Us?</strong></p><p>This is an opportunity to build real AI solutions that will be used across the business.</p><p>You will have the opportunity to learn, take ownership and make a measurable difference while developing valuable skills in AI, automation, data analytics and business intelligence.</p><p>We are proud to be an equal opportunity employer and welcome applicants from diverse backgrounds, experiences and perspectives. </p>",
+      "keywords": [
+        "software",
+        "engineer"
+      ]
+    },
+    {
       "job_id": "93971606",
       "job_title": "Senior Project Manager – Software Delivery",
       "business_name": "MaxSoft Pty Ltd",
@@ -1005,6 +1051,44 @@
         "officer",
         "digital",
         "solutions"
+      ]
+    },
+    {
+      "job_id": "93914099",
+      "job_title": "Senior Deployment Technician WSR",
+      "business_name": "Department of Health - Queensland",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93914099",
+      "advertiser_id": "32285210",
+      "posted_date": "2026-08-11T19:44:20Z",
+      "job_description": "<div>\n \n <p>Take the next step in your career with this exciting opportunity within eHealth. This role is primarily responsible for technical and administrative activities associated with workstation replacement (WSR) program in line with guidelines related to technical investigations, lifecycle schedule and stock management.\nThis role support’s the Deployment Coordinator in delivering on replacement activities to meet Queensland Health’s approved asset lifecycle processes within a geographical area. This role will be required to engage with customers and handle escalation of technical issues related to the run up and delivery of devices. The workstation replacement (WSR) program performs the replacement of computing devices to improve performance and reduce interruption to clinical and non-clinical staff working within Queensland Health.\n</p>\n </div>\n<div>\n <p><strong>What you'll do&nbsp;</strong>&nbsp;</p>\n<ul>\n<li>Provide timely support to clients by conducting investigation and diagnosis of incidents and providing eHealth incident management processes to ensure agreed Service Levels are maintained.</li>\n<li>Supporting the local Deployment Coordinator to manage team members and activities to deliver the WSR program for supported sites.</li>\n<li>Engagement as a member of the team to ensure WSR activities (including WSR stock management of new and replaced devices, run up, deployment and installation of devices) are completed as per documented work processes.</li>\n<li>Ensure asset management integrity is maintained by ensuring work processes are implemented correctly and involvement with regular asset activities as identified.</li>\n<li>Provide financial administrative support, within the domain of WSR, by undertaking activities associated with quoting &amp; ICT asset and equipment management.</li>\n</ul>\n<p><strong>About you&nbsp;</strong>&nbsp;</p>\n<p>We are searching for someone who has:</p>\n<ul>\n<li>Demonstrated technical expertise in the management, configuration, monitoring and implementation of ICT environments in one or more technical domains – See Appendix 1.</li>\n<li>Ability to deliver high quality ICT support to clients, with an emphasis on managing workloads, prioritising tasks and working unsupervised.</li>\n<li>Demonstrated ability to identify and resolve ICT related problems within defined Service Level Agreements.</li>\n<li>Interpersonal skills and personal qualities that facilitate the development of good working relationships, including mentoring of junior staff to enhance the provision of quality client service in a team environment.</li>\n<li>Developed oral and written communication skills that enable the creation and/or maintenance of system documentation, work instructions and technical reports for management.</li>\n<li>Ability to quickly learn ServiceNow and ITIL Service Management processes (primarily request / CMDB / asset management)</li>\n<li>Proven experience or ability to deliver on small to medium scale projects, focused on scheduling and customer engagement. Ability to coordinate multiple tasks within agreed priorities, timeframes and accountabilities.</li>\n</ul>\n<p><strong>Why work with us?&nbsp;</strong>&nbsp;</p>\n<p>Work alongside passionate professionals in a supportive and inclusive environment that values people and prioritises employee success and wellbeing.&nbsp;</p>\n<p><strong>Competitive salaries</strong>&nbsp;</p>\n<ul>\n<li>12.75% superannuation&nbsp;&nbsp;</li>\n<li>17.5% leave loading&nbsp;</li>\n</ul>\n<p><strong>Employee wellbeing &amp; development</strong>&nbsp;</p>\n<ul>\n<li>Access to 24/7 confidential employee support providers and counsellors including for immediate family members&nbsp;</li>\n<li>Additional flexibility to support your work life balance including access to generous leave entitlements, such as purchased leave, domestic violence leave, reproductive health leave, cultural leave, study and examination leave.&nbsp;</li>\n<li>Access to a variety of programs and initiatives to support training and career growth.&nbsp;&nbsp;</li>\n<li>Grow your skills through hands-on experience and access to internal training opportunities and additional financial and leave benefits for approved external training and development.&nbsp;</li>\n</ul>\n<p><strong>Our commitment to equity, diversity and inclusion</strong><strong> </strong>&nbsp;</p>\n<p>At Queensland Health, our work environment is inclusive and supportive, and we value our employees. We are an equal opportunity employer and encourage applications from people of all cultures, abilities and backgrounds.&nbsp;&nbsp;</p>\n<p>Our commitment to cultural safety, equity, diversity and inclusion means we understand some people may need changes to the recruitment process. If you need support during the recruitment process, such as meeting with the panel virtually instead of in person, please reach out to the hiring manager. We value diverse candidates and your need for adjustments will not affect our hiring decisions. &nbsp;</p>\n<p><strong>Ready to apply?</strong>&nbsp;</p>\n<p>For further information on how to apply please review the attached Role Description.&nbsp;&nbsp;</p>\n </div>",
+      "keywords": [
+        "deployment",
+        "technician",
+        "wsr"
+      ]
+    },
+    {
+      "job_id": "93911544",
+      "job_title": "Senior Deployment Technician WSR",
+      "business_name": "Department of Health - Queensland",
+      "work_type": "Contract/Temp",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "$94,012 - $103,572 per annum + super",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93911544",
+      "advertiser_id": "32285210",
+      "posted_date": "2026-08-11T14:01:05Z",
+      "job_description": "<p><strong>What you'll do&nbsp;</strong>&nbsp;</p>\n<ul>\n<li>Provide timely support to clients by conducting investigation and diagnosis of incidents and providing eHealth incident management processes to ensure agreed Service Levels are maintained.</li>\n<li>Supporting the local Deployment Coordinator to manage team members and activities to deliver the WSR program for supported sites.</li>\n<li>Engagement as a member of the team to ensure WSR activities (including WSR stock management of new and replaced devices, run up, deployment and installation of devices) are completed as per documented work processes.</li>\n<li>Ensure asset management integrity is maintained by ensuring work processes are implemented correctly and involvement with regular asset activities as identified.</li>\n<li>Provide financial administrative support, within the domain of WSR, by undertaking activities associated with quoting &amp; ICT asset and equipment management.</li>\n</ul>\n<p><strong>About you&nbsp;</strong>&nbsp;</p>\n<p>We are searching for someone who has:</p>\n<ul>\n<li>Demonstrated technical expertise in the management, configuration, monitoring and implementation of ICT environments in one or more technical domains – See Appendix 1.</li>\n<li>Ability to deliver high quality ICT support to clients, with an emphasis on managing workloads, prioritising tasks and working unsupervised.</li>\n<li>Demonstrated ability to identify and resolve ICT related problems within defined Service Level Agreements.</li>\n<li>Interpersonal skills and personal qualities that facilitate the development of good working relationships, including mentoring of junior staff to enhance the provision of quality client service in a team environment.</li>\n<li>Developed oral and written communication skills that enable the creation and/or maintenance of system documentation, work instructions and technical reports for management.</li>\n<li>Ability to quickly learn ServiceNow and ITIL Service Management processes (primarily request / CMDB / asset management)</li>\n<li>Proven experience or ability to deliver on small to medium scale projects, focused on scheduling and customer engagement. Ability to coordinate multiple tasks within agreed priorities, timeframes and accountabilities.</li>\n</ul>\n<p><strong>Why work with us?&nbsp;</strong>&nbsp;</p>\n<p>Work alongside passionate professionals in a supportive and inclusive environment that values people and prioritises employee success and wellbeing.&nbsp;</p>\n<p><strong>Competitive salaries</strong>&nbsp;</p>\n<ul>\n<li>12.75% superannuation&nbsp;&nbsp;</li>\n<li>17.5% leave loading&nbsp;</li>\n</ul>\n<p><strong>Employee wellbeing &amp; development</strong>&nbsp;</p>\n<ul>\n<li>Access to 24/7 confidential employee support providers and counsellors including for immediate family members&nbsp;</li>\n<li>Additional flexibility to support your work life balance including access to generous leave entitlements, such as purchased leave, domestic violence leave, reproductive health leave, cultural leave, study and examination leave.&nbsp;</li>\n<li>Access to a variety of programs and initiatives to support training and career growth.&nbsp;&nbsp;</li>\n<li>Grow your skills through hands-on experience and access to internal training opportunities and additional financial and leave benefits for approved external training and development.&nbsp;</li>\n</ul>\n<p><strong>Our commitment to equity, diversity and inclusion</strong><strong> </strong>&nbsp;</p>\n<p>At Queensland Health, our work environment is inclusive and supportive, and we value our employees. We are an equal opportunity employer and encourage applications from people of all cultures, abilities and backgrounds.&nbsp;&nbsp;</p>\n<p>Our commitment to cultural safety, equity, diversity and inclusion means we understand some people may need changes to the recruitment process. If you need support during the recruitment process, such as meeting with the panel virtually instead of in person, please reach out to the hiring manager. We value diverse candidates and your need for adjustments will not affect our hiring decisions. &nbsp;</p>\n<p><strong>Ready to apply?</strong>&nbsp;</p>\n<p>For further information on how to apply please review the attached Role Description.&nbsp;&nbsp;</p>",
+      "keywords": [
+        "deployment",
+        "technician",
+        "wsr"
       ]
     },
     {
@@ -1276,6 +1360,25 @@
       ]
     },
     {
+      "job_id": "93748572",
+      "job_title": "IT Tech Support",
+      "business_name": "Alder Constructions Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Helensvale, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93748572",
+      "advertiser_id": "20961859",
+      "posted_date": "2026-08-04T05:34:25Z",
+      "job_description": "<p>Alder Group is proudly celebrating 23 years in 2026, bringing engineering and construction teams together under one roof to deliver high-quality building, civil and infrastructure projects across Queensland and Northern NSW.</p><p>&nbsp;</p><p><strong>Are you a hands-on IT professional who enjoys solving problems and helping people get the most from technology?</strong></p><p>Alder Group is looking for an <strong>IT Tech Support</strong> professional to provide frontline IT support across our offices and project sites. This is a varied, customer-focused role where you'll be the go-to person for Level 1 and Level 2 support, device deployments, Microsoft 365 support, and onsite technology assistance.</p><p>&nbsp;</p><p>Working closely with our IT Operations Specialist, you'll gain exposure to broader infrastructure and systems administration activities, making this an excellent opportunity for someone with a continuous learning mindset with a desire to develop into more advanced infrastructure and systems administration responsibilities.</p><p>&nbsp;</p><p><strong>Key Responsibilities</strong></p><ul><li>Provide Level 1 and Level 2 IT support for staff across the business.</li><li>Manage incidents and service requests through the service desk system.</li><li>Deploy, configure and troubleshoot laptops, desktops, mobile devices and peripherals.</li><li>Support Microsoft 365 applications including Outlook, Teams, OneDrive and SharePoint.</li><li>Assist with user onboarding, offboarding and account management.</li><li>Travel to offices and project sites to provide onsite support and equipment setup.</li><li>Support meeting rooms, collaboration technology and workplace devices.</li><li>Maintain asset registers, inventory records and equipment lifecycle activities.</li><li>Provide basic infrastructure and smart-hands support for networks, server rooms and technology vendors.</li><li>Contribute to cybersecurity, patching and continuous improvement initiatives.</li></ul><p></p><p><strong>About You</strong></p><p>You'll be a proactive and customer-focused IT professional who enjoys solving problems, building strong relationships and delivering exceptional support to end users.</p><p>&nbsp;</p><p>To be successful in this role, you'll have:</p><ul><li>An IT qualification or equivalent industry experience.</li><li>Experience supporting Windows 11 and Microsoft 365 environments.</li><li>Experience with service desk or ticketing systems.</li><li>Experience configuring and troubleshooting end-user devices.</li><li>Knowledge of Active Directory and/or Microsoft Entra ID.</li><li>A strong customer service focus and commitment to user satisfaction.</li><li>Excellent verbal and written communication skills.</li><li>Strong problem-solving and troubleshooting abilities.</li><li>The ability to work independently and effectively manage competing priorities.</li><li>High attention to detail and a disciplined approach to documentation and record keeping.</li><li>Professionalism, integrity and accountability in all interactions.</li><li>A current driver's licence and willingness to travel regularly between offices and project sites.</li></ul><p></p><p><strong>About Alder Group</strong></p><p>At Alder Group, we deliver award-winning construction and infrastructure projects that positively impact communities across Queensland and Northern NSW. Our diverse portfolio spans Infrastructure, Water and Wastewater, Education, Health, Commercial, Industrial, Hospitality and Community sectors.</p><p>What sets us apart is our people. We foster a collaborative and supportive culture where individuals are empowered to grow, contribute and make a genuine impact. When you join Alder Group, you become part of a team that takes pride in delivering quality outcomes safely, efficiently and with integrity.</p><p>&nbsp;</p><p><strong>What We Offer</strong></p><ul><li>A supportive and collaborative workplace where people are valued, respected and encouraged to do their best work.</li><li>A genuine \"One Team\" mindset and focus on continuous improvement.</li><li>Opportunities to develop your capability, expand your experience and grow your career within a dynamic and evolving business.</li><li>Exposure to a broad range of technologies, projects and business operations.</li><li>A structured pathway into systems administration and infrastructure-focused roles.</li><li>A competitive remuneration package aligned to your experience and the value you bring to the role.</li></ul><p>&nbsp;</p><p><strong>If you're looking for a role where you can make a real impact, work with great people and continue building your IT career, we'd love to hear from you.</strong></p>",
+      "keywords": [
+        "it",
+        "tech",
+        "support"
+      ]
+    },
+    {
       "job_id": "93743617",
       "job_title": "Cyber Security and/or Software Development Course Coach",
       "business_name": "Equinim College of Technology",
@@ -1392,6 +1495,48 @@
         "page",
         "specialist",
         "leadify"
+      ]
+    },
+    {
+      "job_id": "93630931",
+      "job_title": "Software Engineer (PHP)",
+      "business_name": "Nexigen Digital",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93630931",
+      "advertiser_id": "25685289",
+      "posted_date": "2026-07-29T06:28:36Z",
+      "job_description": "<p><strong>About Nexigen Digital</strong></p><p><br>We are Australia’s largest privately-owned group of online service providers, which includes brands such as VentraIP, Synergy Wholesale and Intaserve.</p><p>Every day our all-Australian team delivers exceptional service and outstanding support to our 200,000+ customers who choose us for their domain names, website hosting and digital marketing.</p><p><br></p><p>Over the past fifteen years, we have been constant game-changers, industry innovators, award winners, and community leaders - and now is your chance to join our team.</p><p><br></p><br><p><br><strong>The Position</strong></p><p><br></p><p>As a Software Engineer at Nexigen Digital, you will work with a close, agile team to deliver new projects and continuous improvements to our internal and customer facing systems. We're looking for someone who is passionate, proactive, goal oriented and possesses excellent problem solving skills.</p><p><br></p><p>We know first hand that brilliant software engineers come from a variety of backgrounds and experiences, in fact, some of our developers started out on our own customer service help desk. We pride ourselves on maintaining a team culture that provides opportunities through collaboration, knowledge sharing and continuous learning and development, and as such are able to provide opportunities to a range of developers with different skillsets and experience.</p><p><br></p><p>An average day may include any or all of the following tasks:</p><ul><li>Building secure, reliable and scalable code that can be used across our platforms</li><li>Working with the latest PHP web technologies such as Laravel 12 and PHP 8.4</li><li>Maintaining and improving our core billing and CRM systems, domain registrar platforms and our new projects in the pipeline, with opportunities to work across projects and teams</li><li>Work with our product managers and fellow software engineers to scope, build, test and deploy new features and fixes across our projects and products</li><li>Solving complex integration scenarios with external providers and suppliers</li><li>Learning something new</li></ul><p><br></p><p>The right person (is it you?)</p><ul><li>Has three or more years' experience in PHP development (we'll take personal &amp; self taught experience into consideration as well)</li><li>Has a strong understanding of PHP and common web application design patterns, such as MVC</li><li>Has experience using PHP frameworks such as Laravel, Symfony, and Phalcon</li><li>Knows their way around a command line and has an understanding of Linux environments</li><li>Has a good understanding of relational databases using MySQL/MariaDB and is familiar with designing database schemas</li><li>Has previously worked with external API providers and integrated them into existing projects</li><li>Knows their way around git and git hosting platforms such as GitHub, with a strong understanding of version control systems</li><li>Is able to work collaboratively within a team environment and follow established standard processes</li><li>Can follow and maintain PER Coding Style guidelines</li><li>Maintains a great attention to detail and able to thoroughly test their own work to ensure a high quality hand over</li><li>Doesn't practice \"ego driven development\"</li></ul><p><br></p><p>Handy things to have (or are able to learn)</p><ul><li>Experience with using HTML5, CSS3, Bootstrap, SASS/SCSS, JavaScript, jQuery, and Tailwind</li><li>Experience with the React.js framework</li><li>Have an understanding regarding implementation of good UI/UX in web development</li><li>Familiar with semantic versioning and changelogs</li><li>Knowledge of the Domain Name and Web Hosting (cPanel, WHM, Plesk, etc.) industry is valuable</li><li>Experience and know how to work with Perl and Python languages</li><li>Experience with Agile Methodology</li></ul><p><br><br></p><p><strong>The Benefits of Working With the Nexigen Digital Team</strong></p><p><br>Aside from being awarded “Employer of Choice” in the Australian Business Awards, we are often referred to as the Google of south-east Melbourne thanks to our unique facilities and team culture, and a top-down mandate to take care of the people who take care of our customers.</p><p>Some of the office perks include:</p><ul><li>A weekly selection of delicious meals prepared in our on-site kitchen for breakfast and lunch.</li><li>A fully-stocked snack bar featuring an assortment of chips, chocolates, nuts, protein bars and fresh fruit.</li><li>A drink fridge loaded with an assortment of soft drinks, juices and water.</li><li>A fully equipped private gym with weekly on-site personal training sessions.</li><li>A team wellness centre with a sound-proof gaming stadium featuring an 85” 4K TV, racing car simulator, pinball machine, arcade machine, and air hockey table.</li><li>An on-site salon where our resident barber and stylist provide free haircuts on a regular basis.</li></ul><p>We actively encourage training and upskilling for personal development and will fund courses that have a beneficial impact on the business.</p><p>Please note that due to strict security requirements the successful applicant will be required to complete a National Police Check as a condition of employment.</p><p><br></p><br><br><p>PI<a href=\"tel:286118643\">286118643</a></p>",
+      "keywords": [
+        "software",
+        "engineer",
+        "php"
+      ]
+    },
+    {
+      "job_id": "93589409",
+      "job_title": "Senior WordPress Developer Burleigh Heads | 3 Days Per Week | Contract",
+      "business_name": "Talentd Pty Ltd",
+      "work_type": "Contract/Temp",
+      "job_type": "Developers/Programmers",
+      "pay_range": "",
+      "area": "Burleigh Heads, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93589409",
+      "advertiser_id": "62437426",
+      "posted_date": "2026-07-27T23:49:52Z",
+      "job_description": "<p><strong>Senior WordPress Developer</strong></p><p><strong>Burleigh Heads | Contract | 3 Days Per Week</strong></p><p>We build websites that win work, not just awards.</p><p>This is an in-house contract role based in Burleigh Heads. Applicants must have full Australian working rights and be available to work from our office three days per week.</p><p>Our agency is recognised as a web industry award finalist, and we’ve built a strong reputation for delivering high-quality digital experiences for ambitious Australian businesses.</p><p>Our design standards are high. We care about the details. And the quality of our work has been a major part of our growth.</p><p>We’re now looking for a Senior WordPress Developer to become a long-term extension of our team and help us continue lifting the standard of our digital output.</p><p>This is not a maintenance-only role, and it is not a junior stepping-stone.</p><p>We’re looking for an experienced developer who understands what good design looks like and knows how to translate polished Figma designs into responsive, high-performing WordPress websites.</p><p>You’ll work closely with our Senior Designer and creative team, take ownership of builds and be trusted to make sound technical and responsive decisions without needing close supervision.</p><p><strong>The Role</strong></p><p>You’ll be responsible for developing, maintaining and optimising high-quality WordPress websites for a mix of established brands and growing Australian businesses.</p><p>Designs and content will be supplied. Your role is to bring those designs to life accurately, make considered decisions across different screen sizes and ensure the finished product performs as well as it looks.</p><p>Your responsibilities will include:</p><ul><li><p>Developing custom WordPress websites from Figma designs</p></li><li><p>Building bespoke themes, templates and functionality</p></li><li><p>Writing clean, maintainable PHP, HTML, CSS and JavaScript</p></li><li><p>Translating designs accurately across desktop, tablet and mobile</p></li><li><p>Making responsive design decisions where every breakpoint has not been explicitly designed</p></li><li><p>Optimising websites for performance, usability and technical SEO</p></li><li><p>Managing website deployments and hosting environments</p></li><li><p>Troubleshooting technical issues across active projects</p></li><li><p>Integrating APIs, platforms and third-party tools</p></li><li><p>Contributing to technical recommendations and project scoping</p></li><li><p>Collaborating closely with our design, content and strategy teams</p></li></ul><p>You won’t be handed a vague brief and expected to rescue a poorly planned project.</p><p>We provide clear direction, structured content and well-considered designs. We’re looking for someone who can take those foundations and turn them into websites we are all proud to deliver.</p><p><strong>What We’re Looking For</strong></p><p><strong>Essential</strong></p><ul><li><p>At least five years of commercial web development experience</p></li><li><p>Strong PHP and custom WordPress development skills</p></li><li><p>Advanced HTML, CSS and modern JavaScript knowledge</p></li><li><p>Experience building custom WordPress themes</p></li><li><p>Strong understanding of responsive development</p></li><li><p>Confidence working directly from Figma</p></li><li><p>A good eye for design, spacing, typography and visual hierarchy</p></li><li><p>Solid understanding of performance optimisation and SEO fundamentals</p></li><li><p>Experience using Git and version control</p></li><li><p>Ability to scope technical requirements and estimate work accurately</p></li><li><p>Strong troubleshooting and problem-solving skills</p></li><li><p>High attention to detail</p></li><li><p>Clear and proactive communication</p></li><li><p>Ability to work autonomously and take ownership of projects</p></li></ul><p>We’re open to speaking with strong mid-weight developers as well as established senior developers. What matters most is the quality of your work, your technical foundations and your ability to understand and execute good design.</p><p><strong>Desirable</strong></p><ul><li><p>Experience with AI-assisted development tools and emerging technologies</p></li><li><p>Experience with APIs and third-party integrations</p></li><li><p>WooCommerce or broader eCommerce experience</p></li><li><p>Hosting and server management knowledge</p></li><li><p>Experience with modern JavaScript frameworks</p></li><li><p>Headless WordPress experience</p></li><li><p>Technical leadership or agency experience</p></li></ul><p><strong>You’ll Fit In If You</strong></p><ul><li><p>Care about quality and notice when the small details are off</p></li><li><p>Understand that development is part of the overall customer experience</p></li><li><p>Take responsibility for your work from build through to launch</p></li><li><p>Communicate early when something needs clarification</p></li><li><p>Can work independently without disappearing into a project</p></li><li><p>Value clean code and maintainable solutions</p></li><li><p>Enjoy working alongside designers and creative people</p></li><li><p>Prefer thoughtful solutions over quick shortcuts</p></li><li><p>Want to build websites you’re genuinely proud to show</p></li></ul><p>We’re not looking for someone who simply converts a desktop Figma file into WordPress.</p><p>We’re looking for someone who understands the intention behind the design, thinks through how it should behave across devices and knows when to raise a better technical or user experience solution.</p><p><strong>The Contract</strong></p><p>This is an ongoing contract position based in our Burleigh Heads office for approximately three days per week.</p><p>It would suit an experienced contractor, freelancer or developer who already manages their own work but is looking for a reliable, long-term agency partnership.</p><p>The exact working arrangement and contract rate will be based on experience, capability and availability.</p><p>Due to the nature of our client work, the successful contractor will be required to enter into confidentiality and non-disclosure agreements.</p><p><strong>What You’ll Get</strong></p><ul><li><p>Consistent work across approximately three days per week</p></li><li><p>High-quality Figma designs and organised project handovers</p></li><li><p>Content supplied before development begins</p></li><li><p>A steady pipeline of quality website projects</p></li><li><p>Real input into technical direction and recommendations</p></li><li><p>A collaborative design and creative team</p></li><li><p>Variety across brands, industries and project requirements</p></li><li><p>A team that values standards, accountability and good communication</p></li><li><p>The opportunity to build a long-term working relationship with an established agency</p></li></ul><p>If you’re an experienced WordPress developer who understands both good development and good design, we’d like to hear from you.</p><p>Apply with your CV, a brief introduction and examples of WordPress websites you have personally built. Please also outline your availability and your role in the projects submitted.</p>",
+      "keywords": [
+        "wordpress",
+        "developer",
+        "burleigh",
+        "heads",
+        "days",
+        "per",
+        "week"
       ]
     }
   ]
