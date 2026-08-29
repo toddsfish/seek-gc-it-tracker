@@ -1,398 +1,423 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-29",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-30T08:07:41.286655+10:00",
-  "total_jobs": 48,
+  "scraped_at": "2026-08-29T12:37:09.987367+10:00",
+  "total_jobs": 49,
   "keywords": [
     {
       "term": "analyst",
       "count": 12,
-      "share": 0.25
+      "share": 0.2449
     },
     {
       "term": "developer",
       "count": 8,
-      "share": 0.1667
+      "share": 0.1633
     },
     {
       "term": "manager",
       "count": 7,
-      "share": 0.1458
+      "share": 0.1429
     },
     {
       "term": "support",
       "count": 7,
-      "share": 0.1458
+      "share": 0.1429
     },
     {
       "term": "it",
       "count": 7,
-      "share": 0.1458
+      "share": 0.1429
     },
     {
       "term": "business",
       "count": 6,
-      "share": 0.125
+      "share": 0.1224
     },
     {
       "term": "software",
       "count": 5,
-      "share": 0.1042
+      "share": 0.102
     },
     {
       "term": "service",
       "count": 5,
-      "share": 0.1042
+      "share": 0.102
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.1042
+      "share": 0.102
     },
     {
       "term": "ai",
       "count": 3,
-      "share": 0.0625
+      "share": 0.0612
     },
     {
       "term": "solutions",
       "count": 3,
-      "share": 0.0625
+      "share": 0.0612
     },
     {
       "term": "engineer",
       "count": 3,
-      "share": 0.0625
+      "share": 0.0612
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0625
+      "share": 0.0612
     },
     {
       "term": "desk",
       "count": 3,
-      "share": 0.0625
+      "share": 0.0612
     },
     {
       "term": "program",
       "count": 3,
-      "share": 0.0625
+      "share": 0.0612
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0625
+      "share": 0.0612
     },
     {
       "term": "cyber",
       "count": 3,
-      "share": 0.0625
+      "share": 0.0612
     },
     {
       "term": "development",
       "count": 3,
-      "share": 0.0625
+      "share": 0.0612
     },
     {
       "term": "project",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "technical",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "systems",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "delivery",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
+    },
+    {
+      "term": "specialist",
+      "count": 2,
+      "share": 0.0408
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "leader",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "accounting",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "jetstar",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "retail",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "frontend",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "php",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "laravel",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "groundworks",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "java",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "desktop",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "month",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "ao4",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "kingston",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "state",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "apps",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "m365",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "evolve",
       "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "specialist",
-      "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "writer",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "machinery",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
+    },
+    {
+      "term": "ui",
+      "count": 1,
+      "share": 0.0204
+    },
+    {
+      "term": "ux",
+      "count": 1,
+      "share": 0.0204
+    },
+    {
+      "term": "landing",
+      "count": 1,
+      "share": 0.0204
+    },
+    {
+      "term": "page",
+      "count": 1,
+      "share": 0.0204
+    },
+    {
+      "term": "leadify",
+      "count": 1,
+      "share": 0.0204
     }
   ],
   "jobs": [
@@ -1320,6 +1345,28 @@
       "keywords": [
         "software",
         "developer"
+      ]
+    },
+    {
+      "job_id": "93643152",
+      "job_title": "UI/UX & Landing Page Specialist - Leadify",
+      "business_name": "Leadify",
+      "work_type": "Full time",
+      "job_type": "Web Development & Production",
+      "pay_range": "",
+      "area": "Varsity Lakes, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93643152",
+      "advertiser_id": "61704049",
+      "posted_date": "2026-07-29T23:31:19Z",
+      "job_description": "<p><strong>About Us</strong>&nbsp;</p><p>Leadify is an Australian lead generation company running high-volume, performance-driven campaigns. We're part of the GJI Group, and this role has direct visibility into revenue-driving work - the pages you build feed straight into lead sales performance and gross profit margin.</p><p><strong>The Role</strong>&nbsp;</p><p>We're looking for a UI/UX &amp; Landing Page Specialist to own the design, build, testing and technical performance of our campaign landing pages. This role sits at the intersection of design, conversion optimisation and marketing technology - you'll be responsible for how our landing pages look, how they convert, and how accurately they track and route leads.</p><p><strong>Responsibilities</strong></p><ul><li><p>Design and build high-converting landing pages, from wireframe/Figma through to live deployment</p></li><li><p>Own technical campaign setup and ensure pages meet requirements before launch</p></li><li><p>Manage ongoing website updates and maintain a consistent design system across campaign pages</p></li><li><p>Troubleshoot and resolve technical issues on live pages quickly, minimising downtime and lead loss</p></li><li><p>Design, implement and analyse A/B tests, translating results into design and copy changes</p></li><li><p>Build and maintain a funnel optimisation roadmap based on performance data</p></li><li><p>Monitor pixel and attribution setup across all landing pages via Google Tag Manager</p></li><li><p>Validate conversion tracking end-to-end before and after campaign launches</p></li><li><p>Support lead routing strategy and implementation in LeadExec</p></li><li><p>Manage lead and deal data hygiene in LeadExec and Pipedrive</p></li><li><p>Complete QA on all new pages and tracking implementations prior to go-live</p></li><li><p>Own compliance and consent requirements on landing pages, ensuring forms and opt-ins meet regulatory and privacy standards</p></li><li><p>Set priorities and provide technical direction to developers on landing page and website projects</p></li></ul><p><strong>What You Bring</strong></p><ul><li><p>Proven experience in UI/UX design and landing page development, ideally in performance marketing or lead generation</p></li><li><p>Hands-on proficiency with Webflow (build and publish, not just templates)</p></li><li><p>Strong Figma skills for wireframing, prototyping and design handoff</p></li><li><p>Working knowledge of Google Tag Manager and pixel-based tracking (Meta, Google Ads)</p></li><li><p>Experience with LeadExec or comparable lead distribution/routing platforms</p></li><li><p>Familiarity with Pipedrive or similar CRM tools</p></li><li><p>Experience running structured A/B tests and translating results into action</p></li><li><p>High attention to detail - this role owns QA on pages that directly affect lead volume and revenue</p></li><li><p>Confident working autonomously and reporting on outcomes with data, not just activity</p></li></ul><p><strong>What's On Offer</strong></p><ul><li><p>Competitive salary + Super (details discussed during the process)</p></li><li><p>Full-time, on-site at our Varsity Lakes, Gold Coast office</p></li><li><p>Direct visibility into revenue-driving work, working closely with the COO and performance team</p></li><li><p>A high-growth, performance-driven environment where your work has measurable impact</p></li></ul><p><strong>Requirements</strong></p><ul><li><p>You must have the right to live and work in this location to apply for this job</p></li></ul><p><strong>Apply</strong> If this sounds like you, apply now with your resume and a portfolio or examples of landing pages you've built.</p><p><strong>Diversity &amp; Inclusion</strong> Leadify is an equal opportunity employer. We welcome applications from candidates of all backgrounds and are committed to a diverse and inclusive workplace.</p>",
+      "keywords": [
+        "ui",
+        "ux",
+        "landing",
+        "page",
+        "specialist",
+        "leadify"
       ]
     }
   ]
