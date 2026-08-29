@@ -1,423 +1,428 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-28",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-29T12:37:09.987367+10:00",
-  "total_jobs": 49,
+  "scraped_at": "2026-08-28T13:55:58.304989+10:00",
+  "total_jobs": 50,
   "keywords": [
     {
       "term": "analyst",
       "count": 12,
-      "share": 0.2449
+      "share": 0.24
     },
     {
       "term": "developer",
       "count": 8,
-      "share": 0.1633
+      "share": 0.16
+    },
+    {
+      "term": "support",
+      "count": 8,
+      "share": 0.16
+    },
+    {
+      "term": "it",
+      "count": 8,
+      "share": 0.16
     },
     {
       "term": "manager",
       "count": 7,
-      "share": 0.1429
-    },
-    {
-      "term": "support",
-      "count": 7,
-      "share": 0.1429
-    },
-    {
-      "term": "it",
-      "count": 7,
-      "share": 0.1429
+      "share": 0.14
     },
     {
       "term": "business",
       "count": 6,
-      "share": 0.1224
+      "share": 0.12
     },
     {
       "term": "software",
       "count": 5,
-      "share": 0.102
+      "share": 0.1
     },
     {
       "term": "service",
       "count": 5,
-      "share": 0.102
+      "share": 0.1
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.102
+      "share": 0.1
+    },
+    {
+      "term": "engineer",
+      "count": 4,
+      "share": 0.08
     },
     {
       "term": "ai",
       "count": 3,
-      "share": 0.0612
+      "share": 0.06
     },
     {
       "term": "solutions",
       "count": 3,
-      "share": 0.0612
-    },
-    {
-      "term": "engineer",
-      "count": 3,
-      "share": 0.0612
+      "share": 0.06
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0612
+      "share": 0.06
     },
     {
       "term": "desk",
       "count": 3,
-      "share": 0.0612
+      "share": 0.06
     },
     {
       "term": "program",
       "count": 3,
-      "share": 0.0612
+      "share": 0.06
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0612
+      "share": 0.06
     },
     {
       "term": "cyber",
       "count": 3,
-      "share": 0.0612
+      "share": 0.06
     },
     {
       "term": "development",
       "count": 3,
-      "share": 0.0612
+      "share": 0.06
     },
     {
       "term": "project",
       "count": 2,
-      "share": 0.0408
+      "share": 0.04
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0408
+      "share": 0.04
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0408
+      "share": 0.04
     },
     {
       "term": "technical",
       "count": 2,
-      "share": 0.0408
+      "share": 0.04
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0408
+      "share": 0.04
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0408
+      "share": 0.04
     },
     {
       "term": "systems",
       "count": 2,
-      "share": 0.0408
+      "share": 0.04
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0408
+      "share": 0.04
     },
     {
       "term": "delivery",
       "count": 2,
-      "share": 0.0408
+      "share": 0.04
     },
     {
       "term": "specialist",
       "count": 2,
-      "share": 0.0408
+      "share": 0.04
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "leader",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "accounting",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "jetstar",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "retail",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "frontend",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "php",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "laravel",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "groundworks",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "java",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "desktop",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "month",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "ao4",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
+    },
+    {
+      "term": "ongc",
+      "count": 1,
+      "share": 0.02
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "kingston",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "state",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "apps",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "m365",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "evolve",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "writer",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "machinery",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "ui",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "ux",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "landing",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "page",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     },
     {
       "term": "leadify",
       "count": 1,
-      "share": 0.0204
+      "share": 0.02
     }
   ],
   "jobs": [
@@ -1345,6 +1350,26 @@
       "keywords": [
         "software",
         "developer"
+      ]
+    },
+    {
+      "job_id": "93647306",
+      "job_title": "IT Support Engineer, Level 2 - ONGC",
+      "business_name": "Lyra Technology Group",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Arundel, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93647306",
+      "advertiser_id": "62871597",
+      "posted_date": "2026-07-30T02:09:35Z",
+      "job_description": "<p><strong>Lyra Technology Group&nbsp;</strong>is a&nbsp;private&nbsp;equity-backed holding company that invests in and&nbsp;operates&nbsp;industry leading technology service businesses. Our companies are&nbsp;operated&nbsp;independently by exceptional management teams. Companies that join our group&nbsp;retain&nbsp;the employees, name, and culture that have made them successful. As a platform of&nbsp;Evergreen&nbsp;Services&nbsp;Group, we never divest from businesses we partner with and approach every decision with the goal of driving sustainable and healthy growth over the long term.  </p><p></p><p>Our Operating Company, <strong>ONGC</strong>, is looking for an experienced <strong>IT Support Engineer, Level 2 </strong>to join their team in Arundel, GQ.</p><p></p><p><strong></strong></p><p><strong>About The Role</strong></p><p>As a <strong>Level 2 IT Support Engineer</strong>, you'll provide advanced technical support across a diverse range of client environments while managing escalated issues from the Level 1 team. You'll take ownership of incidents from diagnosis through to resolution, contribute to infrastructure improvements, and help deliver an exceptional customer experience.</p><p></p><p><strong>Key Responsibilities</strong></p><ul>\n<li>Provide Level 2 technical support across desktop, server, network, and cloud environments.</li>\n<li>Manage escalated incidents and service requests, ensuring timely resolution.</li>\n<li>Troubleshoot Microsoft 365, Azure, Active Directory, Exchange, and Windows environments.</li>\n<li>Support networking technologies including firewalls, switches, VPNs, and wireless infrastructure.</li>\n<li>Maintain accurate documentation and ticket updates within the PSA system.</li>\n<li>Build strong client relationships through professional communication and outstanding customer service.</li>\n<li>Assist with infrastructure upgrades, migrations, and technology projects.</li>\n<li>Collaborate with Level 3 Engineers on complex technical issues when required.</li>\n</ul><p><strong>About You</strong></p><p>To succeed in this role, you will ideally have MSP experience, excellent troubleshooting skills, and a proactive approach to customer support.</p><p></p><p><strong>Essential Skills &amp; Experience</strong></p><ul>\n<li>3+years' experience in an MSP or similar IT support environment.</li>\n<li>Relevant IT qualifications or equivalent industry experience.</li>\n<li>Experience providing Level 2 support across Microsoft environments.</li>\n<li>Strong knowledge of Microsoft 365, Azure, Active Directory, Exchange Online, andWindows Server.</li>\n<li>Experience supporting networking technologies including switches, firewalls, VPNs and Wi-Fi.</li>\n<li>Excellent communication and customer service skills.</li>\n</ul><p><strong>Preferred Experience</strong></p><ul>\n<li>Microsoft certifications (MS-900, AZ-900, MD-102, MS-102, AZ-104, or similar).</li>\n<li>CompTIA, Cisco, or ITIL certifications.</li>\n<li>Experience with ConnectWise PSA and ConnectWise RMM.</li>\n<li>Exposure to Microsoft Intune, SharePoint, Microsoft Defender, or Azure Virtual Desktop</li>\n</ul><p><strong>Benefits</strong></p><ul>\n<li>Flexible working arrangements – 2 days WFH</li>\n<li>Clear career progression pathways</li>\n<li>Exposure to meaningful, enterprise technology projects</li>\n<li>Supportive, collaborative team culture focused on growth and innovation</li>\n<li>Opportunity to work with emerging AI technologies and innovative automation solutions</li>\n<li>Be part of a values-driven organisation committed to delivering exceptional outcomes for clients across Australia</li>\n</ul><ul><p>&nbsp;</p></ul>",
+      "keywords": [
+        "it",
+        "support",
+        "engineer",
+        "ongc"
       ]
     },
     {
