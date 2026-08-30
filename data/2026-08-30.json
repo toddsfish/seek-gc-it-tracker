@@ -1,378 +1,398 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-08-30",
   "region": "Gold Coast",
-  "scraped_at": "2026-08-31T08:14:36.237413+10:00",
-  "total_jobs": 46,
+  "scraped_at": "2026-08-30T08:07:41.286655+10:00",
+  "total_jobs": 48,
   "keywords": [
     {
       "term": "analyst",
       "count": 12,
-      "share": 0.2609
+      "share": 0.25
     },
     {
       "term": "developer",
-      "count": 7,
-      "share": 0.1522
+      "count": 8,
+      "share": 0.1667
     },
     {
       "term": "manager",
       "count": 7,
-      "share": 0.1522
+      "share": 0.1458
     },
     {
       "term": "support",
       "count": 7,
-      "share": 0.1522
+      "share": 0.1458
     },
     {
       "term": "it",
       "count": 7,
-      "share": 0.1522
+      "share": 0.1458
     },
     {
       "term": "business",
       "count": 6,
-      "share": 0.1304
+      "share": 0.125
+    },
+    {
+      "term": "software",
+      "count": 5,
+      "share": 0.1042
     },
     {
       "term": "service",
       "count": 5,
-      "share": 0.1087
+      "share": 0.1042
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.1087
-    },
-    {
-      "term": "software",
-      "count": 4,
-      "share": 0.087
+      "share": 0.1042
     },
     {
       "term": "ai",
       "count": 3,
-      "share": 0.0652
+      "share": 0.0625
     },
     {
       "term": "solutions",
       "count": 3,
-      "share": 0.0652
+      "share": 0.0625
     },
     {
       "term": "engineer",
       "count": 3,
-      "share": 0.0652
+      "share": 0.0625
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0652
+      "share": 0.0625
     },
     {
       "term": "desk",
       "count": 3,
-      "share": 0.0652
+      "share": 0.0625
     },
     {
       "term": "program",
       "count": 3,
-      "share": 0.0652
+      "share": 0.0625
+    },
+    {
+      "term": "administrator",
+      "count": 3,
+      "share": 0.0625
     },
     {
       "term": "cyber",
       "count": 3,
-      "share": 0.0652
+      "share": 0.0625
     },
     {
       "term": "development",
       "count": 3,
-      "share": 0.0652
+      "share": 0.0625
     },
     {
       "term": "project",
       "count": 2,
-      "share": 0.0435
+      "share": 0.0417
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0435
+      "share": 0.0417
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0435
+      "share": 0.0417
     },
     {
       "term": "technical",
       "count": 2,
-      "share": 0.0435
+      "share": 0.0417
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0435
+      "share": 0.0417
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0435
+      "share": 0.0417
     },
     {
-      "term": "administrator",
+      "term": "systems",
       "count": 2,
-      "share": 0.0435
+      "share": 0.0417
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0435
+      "share": 0.0417
     },
     {
       "term": "delivery",
       "count": 2,
-      "share": 0.0435
+      "share": 0.0417
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "leader",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "accounting",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "jetstar",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "retail",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "frontend",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "php",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "laravel",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "groundworks",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "java",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "desktop",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "month",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "ao4",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
-      "term": "systems",
+      "term": "computer",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
+    },
+    {
+      "term": "kingston",
+      "count": 1,
+      "share": 0.0208
+    },
+    {
+      "term": "state",
+      "count": 1,
+      "share": 0.0208
+    },
+    {
+      "term": "college",
+      "count": 1,
+      "share": 0.0208
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "apps",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "m365",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "evolve",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "specialist",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "writer",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "machinery",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.0217
+      "share": 0.0208
     }
   ],
   "jobs": [
@@ -811,6 +831,28 @@
         "manager",
         "industry",
         "equipment"
+      ]
+    },
+    {
+      "job_id": "93993325",
+      "job_title": "Computer Systems Administrator - Kingston State College",
+      "business_name": "Queensland Department of Education",
+      "work_type": "Full time",
+      "job_type": "Management",
+      "pay_range": "",
+      "area": "Beaudesert, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93993325",
+      "advertiser_id": "20931168",
+      "posted_date": "2026-08-14T16:33:31Z",
+      "job_description": "<div>\n \n <p>We are seeking an experienced and solutions-focused Computer Systems Administrator to lead and manage our school’s ICT operations and team. This is an exciting opportunity for an ICT professional to provide strategic advice, strengthen technology services and ensure staff and students have reliable, \neffective ICT systems to support teaching, learning and school operations. We are looking for an ICT professional who combines technical expertise with strong leadership, communication and problem-solving skills.</p>\n </div>\n<div>\n <p><strong>About us:</strong></p>\n<p>Kingston State College is a leading co-educational independent public school in Logan, supporting students across Years 7-12 through its High School and Kingston Learning College. With a strong focus on personalised learning, the College provides flexible opportunities to meet individual student needs and welcomes enrolments from across the community. Guided by the motto “Progress with Pride”, the College promotes a positive culture built on Commitment, Courtesy, Cooperation and Common Sense. With a philosophy of “Nothing left to Chance”, staff work collaboratively to support every student's academic, social and emotional development and prepare them for successful pathways into employment, apprenticeships, traineeships and further education.</p>\n<p><strong>Your opportunity:</strong></p>\n<ul>\n<li>Lead and manage the Information and Communication Technology (ICT) team and ICT operations of the school to ensure that the day-to-day aspects of the school's ICT systems are managed professionally and align with departmental priorities.</li>\n</ul>\n<p><strong>Responsibilities:</strong></p>\n<ul>\n<li>ICT leadership: Provide strategic advice and lead the school's ICT team and operations.</li>\n<li>Technology: Implement innovative ICT solutions and maintain school systems.</li>\n<li>Team management: Supervise, train and manage ICT staff, workflows and performance.</li>\n<li>Technical support: Ensure high-quality support, troubleshooting, maintenance and repairs.</li>\n<li>Policies &amp; compliance: Follow relevant legislation, departmental policies and safety requirements.</li>\n<li>Procurement: Manage ICT purchasing, hardware and software procurement.</li>\n<li>Systems management: Install, maintain and improve ICT and educational systems.</li>\n<li>Asset management: Manage ICT assets, registers, disposal and annual stocktake.</li>\n<li>Resources: Manage human, financial and physical resources effectively.</li>\n<li>Administration: Maintain equipment registers, databases, spreadsheets and reports.</li>\n<li>Continuous improvement: Review ICT services, procedures and work practices.</li>\n</ul>\n<p><strong>Interested? To Apply:&nbsp;</strong></p>\n<ul>\n<li>Attach a brief resume including contact details for 2 referees (referees should have an understanding of your relevant work history)</li>\n<li>Attach a 2-page written statement about how your achievements and capabilities meet the requirements of the role.</li>\n<li>Attach a copy of your mandatory qualifications/registration outlined in the attached role description.</li>\n</ul>\n<p>We welcome all applicants to share any support needed to ensure our recruitment process is inclusive.Applications remain current for 12 months from the closing date and may be considered for appointment to identical or similar vacancies within the Department.Applications from recruitment agencies will not be accepted.</p>\n </div>",
+      "keywords": [
+        "computer",
+        "systems",
+        "administrator",
+        "kingston",
+        "state",
+        "college"
       ]
     },
     {
@@ -1260,6 +1302,24 @@
       "keywords": [
         "applications",
         "analyst"
+      ]
+    },
+    {
+      "job_id": "93681242",
+      "job_title": "Software Developer",
+      "business_name": "Sandwai Software",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "",
+      "area": "Varsity Lakes, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93681242",
+      "advertiser_id": "35145462",
+      "posted_date": "2026-07-31T05:42:45Z",
+      "job_description": "<p>Sandwai is an award-winning software development company providing industry leading, high quality software products and services to aged and disability health care providers nationally. We are seeking an enthusiastic Software Developer&nbsp;to join the team in our Varsity&nbsp;Lakes office.</p><p><br></p><p><strong>About Sandwai</strong></p><p>Sandwai's customers are typically medium to large sized organisations with a fleet of support workers who provide services such as personal care and domestic assistance into the homes and community of people who are aged or have a disability. Sandwai provides B2B software (SaaS) to these organisations which assists them with client and clinical care, scheduling, compliance, claiming, client engagement, timesheets, workforce management and reporting. The software utilises modern web and mobile technologies, and can make a transformative difference to the organisations we assist, improving their operational efficiency and helping to deliver better outcomes for their clients.</p><p>The aged and disability care industries are two of the fastest growing industries in Australia. The federal government has a significant focus and investment in strategies to keep aged people in their homes, and service providers are looking to Sandwai to provide the software that they need to remain competitive.</p><p>Sandwai is a well-established and fast-growing software solution provider with a warm, fun and supportive culture. We value the wellbeing of our team first and foremost, the importance of team work, and recognising and rewarding good performance.</p><p><br></p><p><strong>The Software Developer Role?</strong></p><p>The Software Developer will work with modern technologies to help develop our B2B (SaaS) web and mobile applications. Sandwai's platform includes a web application for administrative tasks, a mobile app for workers providing services, a client and family app for service recipients, and a suite of integrations and APIs. This is an opportunity to work with modern technologies and develop solutions across the full ecosystem.</p><p>Workshop with product specialists to create new designs and implement changes, assist with quality control, liaise with stakeholders and solution partners, and build solutions that make a positive and tangible difference to peoples lives.</p><p><br></p><p><strong>A Successful Software Developer at Sandwai</strong></p><p>You will have experience with the following technologies and will complement our positive and supportive team culture.</p><ul><li><p>Experience with PHP or similar, or a willingness to learn</p></li><li><p>An understanding of relational databases, MySQL, SQL etc</p></li><li><p>Ability to debug, analyse and solve complex problems</p></li><li><p>Have a thirst&nbsp;for innovating and&nbsp;a positive attitude</p></li><li><p>Excellent communication skills in both verbal and written English</p></li><li><p>Be highly organised with&nbsp;great time management skills</p></li><li><p>Motivated and have a great eye for detail</p></li></ul><p><br></p><p><strong>Which skills will give me an advantage but aren't mandatory?</strong></p><ul><li><p>Laravel</p></li><li><p>Vue.js or a similar reactive frontend framework</p></li><li><p>Docker</p></li><li><p>Flutter, NativeScript, or other mobile development</p></li><li><p>Experience with GitHub or similar</p></li><li><p>Experience with Zoho CRM &amp; Desk or similar</p></li></ul><p><br></p><p><strong>Working At Sandwai</strong></p><p>At Sandwai, we value the wellbeing of our team first and foremost. We put our people first and we're proud of being part of something that creates solutions that make a real difference in people's lives.</p><p>If you are looking for a challenging and engaging position where you can showcase your software development and product design skills, then this opportunity could be for you.</p><ul><li><p>Be part of a&nbsp;great culture with a warm, positive and supportive team</p></li><li><p>A fantastic&nbsp;opportunity to build life-changing products</p></li><li><p>An abundance of internal professional development support</p></li><li><p>Working with modern software technologies</p></li><li><p>An environment where good performance is recognised and rewarded</p></li><li><p>Generous remuneration</p></li><li><p>An open plan&nbsp;office in Varsity&nbsp;Lakes surrounded by cafes</p></li><li><p>A healthy balance of office and work from home</p></li><li><p>This position is available for an immediate start</p></li></ul><p><br></p><p>THIS POSITION IS BASED IN <strong>VARSITY LAKES</strong> ON THE <strong>GOLD COAST, QLD</strong>. THIS ROLE IS IN-OFFICE WITH HYBRID REMOTE OPTIONS.</p><p><br></p><p>Come and join a fantastic team here on the Gold Coast where your input into design and decisions is encouraged, and your contribution is rewarded. This position is available for an immediate start.</p><p>If this sounds like you, please submit your application for consideration at your earliest as <strong>applications will close when&nbsp;the right&nbsp;candidate is&nbsp;selected.</strong></p><p><br></p><p>No recruiters, thank you.</p>",
+      "keywords": [
+        "software",
+        "developer"
       ]
     }
   ]
