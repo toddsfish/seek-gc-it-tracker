@@ -1,484 +1,381 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-08-31",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-01T09:30:33.023576+10:00",
-  "total_jobs": 49,
+  "scraped_at": "2026-08-31T08:14:36.237413+10:00",
+  "total_jobs": 46,
   "keywords": [
     {
       "term": "analyst",
-      "count": 11,
-      "share": 0.2245
+      "count": 12,
+      "share": 0.2609
     },
     {
       "term": "developer",
-      "count": 8,
-      "share": 0.1633
-    },
-    {
-      "term": "it",
-      "count": 8,
-      "share": 0.1633
+      "count": 7,
+      "share": 0.1522
     },
     {
       "term": "manager",
       "count": 7,
-      "share": 0.1429
+      "share": 0.1522
     },
     {
       "term": "support",
       "count": 7,
-      "share": 0.1429
+      "share": 0.1522
+    },
+    {
+      "term": "it",
+      "count": 7,
+      "share": 0.1522
     },
     {
       "term": "business",
       "count": 6,
-      "share": 0.1224
+      "share": 0.1304
     },
     {
       "term": "service",
-      "count": 6,
-      "share": 0.1224
-    },
-    {
-      "term": "software",
       "count": 5,
-      "share": 0.102
+      "share": 0.1087
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.102
+      "share": 0.1087
     },
     {
-      "term": "engineer",
+      "term": "software",
       "count": 4,
-      "share": 0.0816
-    },
-    {
-      "term": "desk",
-      "count": 4,
-      "share": 0.0816
+      "share": 0.087
     },
     {
       "term": "ai",
       "count": 3,
-      "share": 0.0612
+      "share": 0.0652
+    },
+    {
+      "term": "solutions",
+      "count": 3,
+      "share": 0.0652
+    },
+    {
+      "term": "engineer",
+      "count": 3,
+      "share": 0.0652
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0612
+      "share": 0.0652
     },
     {
-      "term": "administrator",
+      "term": "desk",
       "count": 3,
-      "share": 0.0612
+      "share": 0.0652
+    },
+    {
+      "term": "program",
+      "count": 3,
+      "share": 0.0652
     },
     {
       "term": "cyber",
       "count": 3,
-      "share": 0.0612
+      "share": 0.0652
     },
     {
       "term": "development",
       "count": 3,
-      "share": 0.0612
+      "share": 0.0652
     },
     {
       "term": "project",
       "count": 2,
-      "share": 0.0408
-    },
-    {
-      "term": "solutions",
-      "count": 2,
-      "share": 0.0408
+      "share": 0.0435
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0408
-    },
-    {
-      "term": "stack",
-      "count": 2,
-      "share": 0.0408
+      "share": 0.0435
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0408
+      "share": 0.0435
+    },
+    {
+      "term": "technical",
+      "count": 2,
+      "share": 0.0435
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0408
+      "share": 0.0435
     },
     {
-      "term": "systems",
+      "term": "digital",
       "count": 2,
-      "share": 0.0408
+      "share": 0.0435
     },
     {
-      "term": "program",
+      "term": "administrator",
       "count": 2,
-      "share": 0.0408
+      "share": 0.0435
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0408
+      "share": 0.0435
     },
     {
       "term": "delivery",
       "count": 2,
-      "share": 0.0408
+      "share": 0.0435
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "leader",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "accounting",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "jetstar",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "retail",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "advisor",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "technology",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "risk",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "resilience",
-      "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "frontend",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "php",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "laravel",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "groundworks",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
+    },
+    {
+      "term": "stack",
+      "count": 1,
+      "share": 0.0217
     },
     {
       "term": "java",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "desktop",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "month",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "ict",
-      "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
+    },
+    {
+      "term": "ao4",
+      "count": 1,
+      "share": 0.0217
+    },
+    {
+      "term": "systems",
+      "count": 1,
+      "share": 0.0217
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "infrastructure",
-      "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "apps",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "m365",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "digital",
-      "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "evolve",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "specialist",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "technical",
-      "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "writer",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "machinery",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0217
     }
   ],
   "jobs": [
-    {
-      "job_id": "94314209",
-      "job_title": "ICT Support Officer",
-      "business_name": "Princess Polly",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Burleigh Heads, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94314209",
-      "advertiser_id": "27507146",
-      "posted_date": "2026-08-31T09:56:36Z",
-      "job_description": "<div>\n<div>\n<p>Princess Polly is the global fashion brand at the forefront of trend-driven, lower impact and accessible apparel. Established as an online force in the Australian retail scene in 2010, Princess Polly quickly became the clothing brand found in every influencer haul, viral TikTok, Instagram OOTD and celeb street looks. Now, one of the fastest-growing online women's fashion brands in the USA, Princess Polly has been delivering the best online shopping experience to customers worldwide for over 10 years. </p>\n<p>As a part of A.K.A Brands; we are a global player with offices located in Los Angeles and Australia’s Gold Coast. With big plans ahead, we're always on the hunt for new talent to join our global team. </p>\n</div>\n<div>\n<p>Are you passionate about tech, thrive in a fast-paced environment, and love solving problems on the go? Join Princess Polly as our ICT Support Officer, supporting our high-performing Head Office team and wider business.</p>\n<p>You’ll be the go-to tech expert at Head Office, supporting end users, ensuring our systems are running smoothly and securely, and helping us keep our workplace tech at the cutting edge. Reporting to the Global IT Director, we’re looking for someone proactive, solutions-focused, and excited to work in an agile environment with innovative tools.</p>\n<p><b><strong>What you'll dol; </strong></b></p>\n<ul>\n<li>Providing on-the-ground tech support for our HQ team and corporate functions.</li>\n<li>Troubleshooting IT hardware including laptops, desktop stations, monitors, video conferencing equipment, and printers.</li>\n<li>Supporting SaaS applications used across the business and liaising with third-party vendors to resolve system issues.</li>\n<li>Monitoring cybersecurity risks and taking proactive action to mitigate them.</li>\n<li>Managing the office network environment – routers, switches, Wi-Fi, and VPN.</li>\n<li>Ensuring SOX-compliant user access provisioning and reporting.</li>\n<li>Staying up to date with tech trends and bringing innovative support ideas to the table.</li>\n</ul>\n<p><b><strong>Skills and Experience we're looking for; </strong></b></p>\n<ul>\n<li>Strong experience in ICT support, ideally in a fast-paced corporate or HQ environment.</li>\n<li>Confident troubleshooting both Windows and macOS systems.</li>\n<li>Experience providing Level-2 support for a multi-vendor SaaS ecosystem, including direct liaison with third-party technical teams to drive issue resolution.</li>\n<li>Experience supporting mobile devices (Android and iOS).</li>\n<li>Solid knowledge of Microsoft 365 and Google Workspace.</li>\n<li>Understanding of cybersecurity best practices.</li>\n<li>Strong communication skills, able to explain technical concepts clearly and confidently.</li>\n<li>A self-starter who works autonomously and follows through with proactive problem-solving and escalation.</li>\n<li>A team player who thrives in a collaborative, high-energy office environment.</li>\n</ul>\n<p>We recognise that asking you to give 100% of yourself on a daily basis requires us to offer an amazing opportunity.</p>\n<ul>\n<li>Competitive salary package.</li>\n<li>Flexible working arrangements.</li>\n<li>Access to a best in class parental leave and family planning program.</li>\n<li>Exceptional employee discount program.</li>\n<li>A stunning newly renovated office in beautiful Burleigh Heads;</li>\n<li>Work as part of a team of dedicated individuals focused on doing their best each day.</li>\n<li>Staff social activities.</li>\n<li>Monthly birthday celebrations.</li>\n</ul>\n<p>Aside from the amazing array of tangible benefits and perks, Princess Polly offers you the chance to make an impact on a fast growing, global business. You have the opportunity to pursue your passion and plan your own future as part of our team!</p>\n<p>Princess Polly is an Equal Opportunity Employer (EOE) We're committed to a diverse and inclusive workplace and encourage applicants from all walks of life. Come join us, different makes us better. </p>\n<p>What are you waiting for? Come experience something different and amazing in the online fashion space!</p>\n<p>#PrincessPolly #PursueYourPassion #PrincessPollyCareers</p>\n</div>\n</div>",
-      "keywords": [
-        "ict",
-        "support",
-        "officer"
-      ]
-    },
-    {
-      "job_id": "94304793",
-      "job_title": "IT Service Desk Engineer",
-      "business_name": "TechConnect IT Solutions Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Runaway Bay, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94304793",
-      "advertiser_id": "43384701",
-      "posted_date": "2026-08-31T04:20:48Z",
-      "job_description": "<h2>Description</h2><p><strong>IT Service Desk Engineer</strong></p><p><strong>Hybrid Role | Managed Services | TechConnect</strong></p><p><strong>Join a High-Performing Service Desk Team</strong></p><p><strong></strong></p><p>Join a dynamic team where customer service, technical expertise, and teamwork come together to deliver outstanding outcomes.</p><p></p><p>This role supports customers remotely and offers significant flexibility. While the position is aligned to our Gold Coast team, we welcome applications from candidates located in Brisbane, the Gold Coast, or surrounding areas.</p><p>Occasional attendance at the Gold Coast office may be required for team collaboration, onboarding, training, or business needs.</p><p></p><p>At TechConnect, we’re more than just an IT services provider—we’re a team of problem-solvers, innovators, and trusted technology partners. As an AWS Advanced Consulting Partner, we help organisations unlock value from technology through cloud, data, analytics, and modern workplace solutions.</p><p></p><p>We’re looking for a customer-focused Service Desk Engineer who is passionate about technology and enjoys helping people. If you thrive in a fast-paced environment, enjoy troubleshooting a diverse range of IT issues, and take pride in delivering exceptional customer service, we’d love to hear from you.</p><p></p><p>This role delivers support remotely to users across multiple regions. While occasional travel may be required from time to time, this is not a regular requirement of the role.</p><p><strong></strong></p><p><strong>About the Role</strong></p><p><strong></strong></p><p>As a Service Desk Engineer, you’ll be the first point of contact for end-users seeking technical assistance. Working as part of a collaborative Managed Services team, you’ll provide high-quality support across End User Computing, Business Applications and Cloud Infrastructure services while delivering an exceptional customer experience.</p><p></p><p>You’ll be exposed to a broad range of technologies including Microsoft 365, Windows, macOS, cloud platforms, collaboration tools, and modern workplace technologies, making this an excellent opportunity to expand your technical capability and career.</p><p></p><p><strong>What You’ll Be Doing Technical</strong></p><p><strong>Support &amp; Incident Management</strong></p><p><strong></strong></p><ul>\n<li>Act as the first point of contact for IT incidents and service requests.</li>\n<li>Troubleshoot and resolve issues across End User Computing, Business Applications and Cloud Infrastructure services.</li>\n<li>Log, categorise, prioritise and manage incidents and requests through the ITSM platform.</li>\n<li>Escalate complex or out-of-scope issues to specialist teams when required.</li>\n<li>Maintain ownership of tickets through to resolution and keep users informed throughout the process.</li>\n</ul><p><strong>End User Support</strong></p><p><strong></strong></p><ul>\n<li>Deliver outstanding customer service with every interaction.</li>\n<li>Support users across Windows and macOS environments.</li>\n<li>Assist with hardware, software, mobile device, account access and connectivity issues.</li>\n<li>Guide users on the effective use of approved business applications and workplace technologies.</li>\n<li>Ensure all communications troubleshooting steps and resolutions are accurately documented.</li>\n</ul><p><strong>IT Service Management &amp; Knowledge Sharing</strong></p><p><strong></strong></p><ul>\n<li>Follow ITIL-aligned Incident, Request, Knowledge, Asset and Change Management processes.</li>\n<li>Create and maintain knowledge base articles and support documentation.</li>\n<li>Ensure ticket quality through accurate and detailed record keeping.</li>\n<li>Identify opportunities to improve service delivery, processes and customer satisfaction.</li>\n</ul><p><strong>Security &amp; Compliance</strong></p><p><strong></strong></p><ul>\n<li>Assist with account provisioning, access management and identity-related requests.</li>\n<li>Promote security best practices and assist users with security awareness.</li>\n<li>Support compliance with customer and organisational security standards.</li>\n</ul><p>&nbsp;<strong>What You’ll Bring Essential</strong></p><p><strong></strong></p><ul>\n<li>Experience in a Service Desk, IT Support, Desktop Support or End User Computing role.</li>\n<li>Strong troubleshooting and problem-solving skills.</li>\n<li>Experience supporting Microsoft 365 technologies including Outlook, Teams, OneDrive and SharePoint.</li>\n<li>Familiarity with ITSM platforms and structured service management practices.</li>\n<li>Exceptional customer service and communication skills.</li>\n<li>Strong attention to detail and commitment to quality.</li>\n<li>Ability to work independently while collaborating effectively within a distributed team environment.</li>\n</ul><p><strong>Desirable</strong></p><p><strong></strong></p><ul>\n<li>ITIL Foundation certification or equivalent practical experience.</li>\n<li>Experience supporting both Windows and macOS environments.</li>\n<li>Passion for learning and developing technical skills across modern workplace and cloud technologies.</li>\n</ul><p><strong>Why Join TechConnect?</strong></p><p><strong></strong></p><ul>\n<li>Hybrid working environment offering flexibility and autonomy.</li>\n<li>Supportive and collaborative team culture.</li>\n<li>Exposure to a broad range of technologies and environments.</li>\n<li>Ongoing learning, certification and professional development opportunities.</li>\n<li>Opportunities to work alongside experienced cloud, infrastructure and data specialists.</li>\n<li>A company committed to continuous improvement, innovation and service excellence.</li>\n</ul><p><strong>Our Values</strong></p><p><strong>Care •Collaboration • Commitment • Creativity • Clarity</strong></p><p></p><p>We’re looking for someone who shares these values and enjoys working in an environment where customer experience, teamwork and continuous improvement matter.</p><h2><strong>Working Hours</strong></h2><p>This role operates on a rotating roster that includes a combination of standard business hours and scheduled early morning support to ensure service coverage across key operating periods.</p><p></p><p>As part of the roster, team members will participate in:</p><ul>\n<li>Full Service Desk support across all support channels during standard business hours.</li>\n<li>Scheduled early morning on-call support, providing phone-based emergency assistance only (no ticket or chat responsibilities during these periods).</li>\n<li>Time Off In Lieu (TOIL) provided in accordance with the roster to recognise additional hours worked.</li>\n</ul><p>Occasional travel may be required at the client’s request. Candidates who are not based on the Gold Coast may also be required to attend the TechConnect Gold Coast office from time to time when the client is onsite, for collaboration sessions, or to support other business requirements.</p><p></p><p>Please note that rostered hours and shift requirements may be adjusted with reasonable notice to meet operational and client needs.</p><p><strong></strong></p><p><strong>Apply Now</strong></p><p><strong></strong></p><p>If you’re passionate about technology, enjoy solving problems, and want to join a team where you can continue developing your skills while making a genuine impact, we’d love to hear from you.</p><p></p><p><strong>Join TechConnect and help us create a company that everybody loves.</strong></p><h2>Company Overview</h2><p>At TechConnect, we help businesses unlock the insights that are hidden in their data and use cloud technology to make their world better. From developing more efficient processes that save time and money to creating new technologies that help solve global and social issues.</p>",
-      "keywords": [
-        "it",
-        "service",
-        "desk",
-        "engineer"
-      ]
-    },
-    {
-      "job_id": "94301798",
-      "job_title": "Advisor Technology Risk and Resilience",
-      "business_name": "City of Gold Coast",
-      "work_type": "Full time",
-      "job_type": "Consultants",
-      "pay_range": "From $111,401 plus superannuation",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94301798",
-      "advertiser_id": "16652581",
-      "posted_date": "2026-08-31T02:53:25Z",
-      "job_description": "<ul> <li><strong>Full Time | 9 day fortnight | 36 hours </strong></li> <li> <strong>Salary: </strong>From $111,401 plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG2074/assets/32222234\">Technology Risk Adviser </a> </li> </ul> <p> </p> <p><strong>About the role</strong></p> <p>Sitting within the City’s Enterprise Risk team, this role provides an organisation-wide perspective on technology risk and resilience.</p> <p>You will be a key conduit between the broader business, the Chief Technology Officer and Cyber Security - helping business leaders understand their technology risks and dependencies, while ensuring service impacts and priorities are visible to technology specialists.</p> <p>You will bring an independent enterprise risk lens to technology and cyber issues, translate technical information into practical business advice and help establish clear ownership of risks, controls and actions.</p> <p>This is more than a register-management role. You will help shape a developing capability, deliver meaningful assurance and strengthen the resilience of services that directly support the community.</p> <p><strong>What you’ll be doing</strong></p> <ul> <li>Facilitate technology and cyber risk assessments across business and technical teams.</li> <li>Translate technical issues into clear service, organisational and community impacts.</li> <li>Connect business areas with CTO and Cyber Security expertise and support.</li> <li>Develop an enterprise view of strategic and critical technology risks.</li> <li>Deliver targeted assurance over key technology and cybersecurity controls.</li> <li>Strengthen technology disaster recovery and its alignment with business continuity.</li> <li>Identify emerging risks, systemic issues and opportunities for improvement.</li> <li>Provide independent, practical advice and constructive challenge.</li> <li>Deliver clear, decision-focused reporting to senior leaders and governance forums.</li> </ul> <p><strong>What you’ll bring</strong></p> <ul> <li>Experience in technology risk, cybersecurity risk, IT governance, control assurance, disaster recovery or a related discipline.</li> <li>The ability to bridge technical and business perspectives and turn complex information into practical advice.</li> <li>Experience facilitating risk assessments, control reviews or assurance activities with technical and business stakeholders.</li> <li>A sound understanding of technology controls, system dependencies and operational resilience.</li> <li>Strong analytical, stakeholder engagement, influencing and communication skills.</li> <li>The confidence to provide independent advice and constructive challenge.</li> <li>The ability to work with a high degree of independence and professional judgement.</li> </ul> <p><strong>Highly regarded</strong></p> <ul> <li>Experience with recognised risk, technology or cybersecurity frameworks, such as ISO 31000, ISO 27001, NIST or COBIT.</li> <li>Experience in disaster recovery, business continuity or technology resilience.</li> <li>Knowledge of cloud, third-party or technology supply-chain risk.</li> <li>Experience in a complex, regulated, public-sector or essential-services environment.</li> <li>Relevant qualifications or certifications in risk, cybersecurity, IT governance, audit or business continuity.</li> </ul> <p><strong>Why join us?</strong></p> <p>You will join an Enterprise Risk team with an organisation-wide remit and a genuine opportunity to influence how technology risks are understood, governed and managed. You will work across Enterprise Risk, CTO, Cyber Security and the broader business—connecting different perspectives and helping the City make better-informed decisions about its technology risks and resilience.</p> <p>If you enjoy working at the intersection of technology, risk and business and want the opportunity to build, influence and make a visible impact we would like to hear from you. </p> <p>We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p> <p><strong>How to apply</strong></p> <p>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p> <p><strong>Contact Person</strong> Jansen Croft </p> <p><strong>Contact Email </strong> <a href=\"mailto:JCROFT@goldcoast.qld.gov.au\">JCROFT@goldcoast.qld.gov.au</a></p> <p><strong>Closing Date</strong> Thursday 10 September 2026 @11:59 pm AEST</p> <p>Our selection process may include a one-way video interview via Criteria, a face-to-face or virtual interview via Microsoft Teams, reference checks via Xref and additional checks including police checks, employment history checks, qualification checks, pre-employment medical reviews and drug and alcohol testing. </p> <p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
-      "keywords": [
-        "advisor",
-        "technology",
-        "risk",
-        "resilience"
-      ]
-    },
-    {
-      "job_id": "94299283",
-      "job_title": "Full Stack Software Developer",
-      "business_name": "SB Recruitment Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "90-100k plus super (depending on experience)",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94299283",
-      "advertiser_id": "25844743",
-      "posted_date": "2026-08-31T01:33:40Z",
-      "job_description": "<strong>The Company...</strong><br> Our client is a highly regarded Australian business with an established market presence, strong industry reputation, and an expanding technology function. As they continue to invest in digital transformation, they are seeking a Software Developer to join their close knit team and play a key role in delivering critical applications and platform enhancements.<br> This is an opportunity to work on meaningful projects, influence technical direction, and have genuine ownership of the solutions you build.<br><br> <strong>The Role...</strong><br>As a Software Developer, you'll work across a modern technology stack, contributing to both new development and the ongoing evolution of core business systems.<br><br> Key responsibilities include:<br> <ul> <li>Designing, building and maintaining full stack applications using React and modern backend technologies</li> <li>Developing and supporting custom APIs, an in house CRM platform, and new Point of Sale (POS) functionality</li> <li>Building serverless, event driven solutions leveraging Azure Functions and cloud native services</li> <li>Contributing to the ongoing development and optimisation of CRM data structures and architecture</li> <li>Taking ownership of projects and technical decisions, with the autonomy to recommend and implement best practice solutions</li> <li>Collaborating closely with a small, highly engaged internal technology team</li> </ul> <strong>About You...</strong><br>To be successful in this role, you will bring:<br> <ul> <li>Commercial experience as a Full Stack Developer or Backend Developer</li> <li>Strong JavaScript and TypeScript skills, along with hands on experience building modern React applications (React 18, Vite)</li> <li>The ability to work across the full development lifecycle, from user interface through to backend services and data</li> <li>Strong Python development experience</li> <li>Experience building serverless or event driven applications using Azure Functions or equivalent AWS or GCP services</li> <li>Knowledge of OAuth2 and token based authentication, with MSAL and Microsoft Entra ID experience highly regarded</li> <li>Experience working with Git, pull request workflows, and ideally Azure DevOps</li> <li>A pragmatic, solutions focused approach with strong communication skills and a commitment to writing clean, maintainable code</li> </ul> <strong>What's On Offer...</strong> <ul> <li>Genuine ownership and autonomy in a collaborative environment</li> <li>Exposure to modern cloud and serverless technologies</li> <li>The opportunity to influence architecture and technical direction</li> <li>A stable and growing Australian business investing in technology</li> <li>Long term career growth within a supportive team culture</li> </ul> <strong>How to Apply...</strong><br>This position is based full time onsite at the company's Gold Coast office. Please only apply if you are able to commit to working onsite five days per week.<br> To apply, click the Apply button or contact Jenny Quigley at SB Recruitment on <a href=\"tel:02 9002 5005\">02 9002 5005</a> for a confidential discussion.",
-      "keywords": [
-        "stack",
-        "software",
-        "developer"
-      ]
-    },
     {
       "job_id": "94258460",
       "job_title": "Solution Architect",
@@ -657,7 +554,7 @@
       "business_name": "Feros Care",
       "work_type": "Full time",
       "job_type": "Help Desk & IT Support",
-      "pay_range": "Super + NFP Salary packaging",
+      "pay_range": "Salary aligned with experience + NFP benefits",
       "area": "Coolangatta, Gold Coast QLD",
       "region": "Gold Coast",
       "url": "https://www.seek.com.au/job/94128100",
@@ -1057,6 +954,27 @@
       ]
     },
     {
+      "job_id": "93887421",
+      "job_title": "Program Officer - Digital Solutions (AO4)",
+      "business_name": "Kingston Human Capital",
+      "work_type": "Contract/Temp",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "$60.05 - $66.00 per Hour + 12% Super",
+      "area": "Nerang, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93887421",
+      "advertiser_id": "29457840",
+      "posted_date": "2026-08-11T00:42:28Z",
+      "job_description": "Working with our State Government client, we are seeking a Program Officer to join their Nerang based team for an initial 12-month contract, with potential extension.<br><strong><br>Your Role</strong><br>In this role, you will support the delivery of digital business solutions that improve efficiency, collaboration and information management across the region.<br><br>You will focus on the practical development, administration and support of SharePoint Online, Power Apps, Power Automate and other Microsoft 365 technologies to meet business needs.<br> <br>You will contribute to business improvement initiatives by working with stakeholders to understand operational requirements, develop low-code solutions, and provide ongoing support and training to users.<br> &nbsp;<br> Key responsibilities and tasks will include:<br> <ul> <li>Develop, configure, maintain and support digital business solutions and information management platforms, including SharePoint Online sites, libraries and lists, Microsoft 365 applications and other approved departmental systems.</li> <li>Design, develop and support low-code solutions, workflows and automations using Microsoft Power Platform, including Power Apps and Power Automate.</li> <li>Work with customers and stakeholders to identify business needs, gather and document requirements, and identify opportunities for process and service improvement through digital technologies.</li> <li>Provide technical advice, user support and training for SharePoint Online, Power Platform, Microsoft 365 and other approved business systems and applications.</li> <li>Participate in digital and business improvement projects, including solution testing, implementation, enhancements and change activities.</li> <li>Ensure digital solutions comply with departmental policies, information and records management requirements, cyber security controls and governance frameworks.</li> <li>Create and maintain system documentation, procedures, user guides and training materials.</li> <li>Monitor solution performance, troubleshoot issues and implement enhancements and improvements where appropriate.</li> <li>Maintain awareness of emerging Microsoft 365 and digital capabilities and recommend opportunities for continuous improvement.</li> </ul> <strong>Skills &amp; Experience</strong><br> To be successful, you will need to demonstrate:<br> <ul> <li>Demonstrated knowledge and experience with SharePoint Online, Power Apps, Power Automate and Microsoft 365 technologies.</li> <li>Demonstrated experience supporting, administering or developing business systems and digital solutions, including Microsoft 365 applications and other enterprise software platforms.</li> <li>Ability to analyse business processes and identify opportunities for improvement through digital solutions.</li> <li>Experience configuring and maintaining SharePoint Online environments, including permissions, document libraries, metadata and content structures.</li> <li>Ability to develop low-code solutions using Power Platform tools.</li> <li>Well-developed problem-solving and troubleshooting skills.</li> <li>Ability to effectively communicate technical concepts to non-technical users.</li> <li>Strong organisational skills with the ability to manage multiple tasks and competing priorities.</li> <li>Demonstrated commitment to delivering customer-focused outcomes and continuous improvement.</li> </ul> <em>Desirable</em><br> <ul> <li>Experience developing and administering SharePoint Online sites and solutions.</li> <li>Experience developing solutions using Power Apps and Power Automate.</li> </ul> <strong>Benefits</strong><br> <ul> <li>Role commencing early September</li> <li>Initial 12-month contract, with potential extension</li> <li>$60.05 - $66.00 per Hour + 12% Superannuation (PAYG)</li> <li>37.5 hours per week, Monday to Friday</li> <li>Nerang office location</li> <li>Hybrid working arrangements</li> <li>Weekly pay cycles, with no payroll deductions from Kingston</li> </ul> <strong>What you need to do now&nbsp;&nbsp;<br> </strong>Click APPLY NOW and upload your CV (MS Word preferred)<br> &nbsp;&nbsp;<br> We actively encourage the use of Cover Letters to highlight your relevant skills and experience aligning to the role.<br> &nbsp;&nbsp;<br> We are interviewing and shortlisting this role immediately, so do not delay your application.<br> <br> Confidential enquiries can be directed to:<br><br> <strong>James Flanagan </strong>/ <a href=\"mailto:james@kingstonhumancapital.com.au\">james@kingstonhumancapital.com.au</a> / <a href=\"tel:0499 040 756\">0499 040 756</a>&nbsp;<br> <strong>Adele Fernandez </strong>/<strong>&nbsp;</strong><a href=\"mailto:adele@kingstonhumancapital.com.au\">adele@kingstonhumancapital.com.au</a> / <a href=\"tel:07 3050 0098\">07 3050 0098</a><strong><br> <em><br> </em></strong><em>Kingston Human Capital specialises in recruitment for the Queensland Government and Public Sector.<br> <br> If this role isn’t quite right for you, but you are seeking a similar opportunity, reach out for a confidential discussion about your career.</em>",
+      "keywords": [
+        "program",
+        "officer",
+        "digital",
+        "solutions",
+        "ao4"
+      ]
+    },
+    {
       "job_id": "93887114",
       "job_title": "Software Developer",
       "business_name": "Odoo",
@@ -1186,6 +1104,25 @@
       "job_description": "<h2><strong>About&nbsp;Odoo</strong></h2><p>With a small team of smart people who like working hard and have fun too, we released the most disruptive enterprise management software in the world: Odoo. Fully open source, full-featured with apps like Accounting, HR, CRM, Manufacturing, and 4,000 more. Its online offer is 3 times more affordable than traditional competitors like SAP and Microsoft.</p><p>At Odoo, we value independence, flexibility, and personal growth. We're a fast-growing company that embraces innovation and encourages our team members to push boundaries and reach new heights. With our Australian office nestled in the beautiful Gold Coast's Varsity Lakes, we offer the perfect blend of exciting work and an amazing lifestyle.</p><p><br></p><h2><strong>About the team</strong></h2><p>Join a vibrant and innovative team, working within an organisation that values independence, flexibility and personal growth. We are looking for Project Leaders to join our team responsible for ERP implementation projects. As a Project&nbsp;Leader, you will be the single point of contact for customers / clients, leading a project from beginning to end.&nbsp;You will be joining our Australian office based in Varsity Lakes, Gold Coast.</p><p><strong>You'll never get bored!</strong></p><strong>Responsibilities</strong><ul><li><p>Analysing customer’s needs and business&nbsp;requirements</p></li><li><p>Suggesting business flows before implementing agreed upon solutions</p></li><li><p>Managing projects from&nbsp;A to Z, onboarding users on time and on budget</p></li><li><p>Implementing our Odoo business software and deliver tailor-made training</p></li><li><p>Steadily growing your expertise to provide customers with functional assistance</p></li><li><p>Collaborating with Odoo's developers to execute specific customers' business requirements, as well as working with sales team in pre &amp; post-sale</p></li><li><p>Supporting the growth of our partner network to become Odoo expert</p></li></ul><strong>Why You'll Love This Job</strong><ul><li><p>The opportunity to evolve with a great and fast-growing&nbsp;multinational&nbsp;company</p></li><li><p>Get full responsibility on your projects</p></li><li><p>Explore large business scopes: CRM, manufacturing, accounting, inventory, HR, project management,...</p></li><li><p>Coordinate with other Odoo departments: sales, developers, R&amp;D,...</p></li><li><p>Work with heaps of different customers and industries</p></li></ul><h2><strong>About you</strong></h2><p><strong>At Odoo, we value your skills more than your resume.</strong><br>Here's what we expect from you:</p><strong>Must have</strong><ul><li><p>Permanent working rights in Australia</p></li><li><p>Excellent communication and interpersonal&nbsp;skills</p></li><li><p>Bachelor or Master Degree</p></li><li><p>At ease with software &amp;&nbsp;IT</p></li><li><p>Strong passion for software development</p></li><li><p>Problem-solving skills</p></li><li><p>Quick &amp; autonomous learner</p></li></ul><strong>Nice to have</strong><ul><li><p>1-3 years of relevant experience</p></li><li><p>Immediate availability</p></li><li><p>Relevant background or experience</p></li></ul><p><br></p>",
       "keywords": [
         "business",
+        "analyst"
+      ]
+    },
+    {
+      "job_id": "93833355",
+      "job_title": "Technical Support Analyst (QLD)",
+      "business_name": "Nexigen Digital",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93833355",
+      "advertiser_id": "25685289",
+      "posted_date": "2026-08-07T05:03:38Z",
+      "job_description": "<p><strong>About Nexigen Digital</strong></p><p><br>We are Australia’s largest privately-owned group of online service providers, which includes brands such as VentraIP, Synergy Wholesale and Intaserve.</p><p><br>Every day, our all-Australian team delivers exceptional service and outstanding support to our 200,000+ customers who choose us for their domain names, website hosting and digital marketing.</p><p><br></p><p>Over the past fifteen years, we have been constant game-changers, industry innovators, award winners, and community leaders - and now is your chance to join our team.</p><p><br></p><br><p><strong>Joining our Technical Support Team</strong></p><p><br></p><p>We are looking for people who have a passion for I.T. and are looking for a stepping stone to kick-start their I.T. career. As part of our front-line team, you will be tasked with ensuring our customers continue to receive the best customer service and technical support in the industry, while providing a timely resolution to issues raised by our customers.</p><p><br></p><p><strong>The position</strong></p><ul><li>Monitor and respond to service alerts</li><li>Diagnose issues with domain names</li><li>Performing Linux and cPanel server administration and troubleshooting</li><li>Assist customers with technical support enquiries, via phone, live chats, and/or emails</li><li>Flexibility is key, as this is a permanent full-time position, on a 24/7 rotating roster.</li></ul><p><br></p><p><strong>The right person (is it you?)</strong></p><p>As this is an entry-level position, previous experience is <strong>not a requirement,</strong> as we provide comprehensive training to successful candidates. Although previous experience is not required, a love and a good understanding of technology will take you far.</p><p><br></p><p>To be the best in this role, we are looking for people with the following attributes:</p><ul><li>A passion for technology (cyber security, gaming, PC building, etc.)</li><li>The ability to absorb information and learn quickly</li><li>Efficient problem-solving skills</li><li>A positive attitude towards our customers and service delivery</li><li>Attention to detail</li></ul><p><br></p><p>Any previous experience in the following areas would be highly regarded:</p><ul><li>cPanel (WHM) control panel</li><li>Domain names</li><li>DNS</li><li>FTP, SSH and email protocols such as POP3, IMAP and SMTP</li><li>Linux (CentOS) and VMware<br><br></li></ul><p><strong>The Benefits of Working With the Nexigen Digital Team</strong></p><p><br>We pride ourselves on our unique facilities and team culture, and a top-down mandate to take care of the people who take care of our customers. There's a reason we were awarded “Employer of Choice” in the Australian Business Awards.</p><p><br></p><p>Some of the office perks include:</p><ul><li>A weekly selection of delicious meals prepared in our on-site kitchen for breakfast and lunch.</li><li>A fully-stocked snack bar featuring an assortment of chips, chocolates, nuts, protein bars and fresh fruit.</li><li>A drink fridge loaded with an assortment of soft drinks, juices and water.</li><li>A fully equipped private gym with weekly on-site personal training sessions.</li><li>A team wellness centre with a soundproof gaming stadium featuring an 85” 4K TV, racing car simulator, pinball machine, arcade machine, and air hockey table.</li><li>An on-site salon where our resident barber and stylist provide free haircuts on a regular basis.</li></ul><p><br></p><p>We actively encourage training and upskilling for personal development and will fund courses that have a beneficial impact on the business.</p><p><br></p><p>Please note that due to strict security requirements, the successful applicant will be required to complete a National Police Check as a condition of employment.</p><br><br><p>PI<a href=\"tel:286305987\">286305987</a></p>",
+      "keywords": [
+        "technical",
+        "support",
         "analyst"
       ]
     },
@@ -1323,25 +1260,6 @@
       "keywords": [
         "applications",
         "analyst"
-      ]
-    },
-    {
-      "job_id": "94310627",
-      "job_title": "Infrastructure & Systems Administrator",
-      "business_name": "Buildsafe Australia",
-      "work_type": "Full time",
-      "job_type": "Networks & Systems Administration",
-      "pay_range": "",
-      "area": "Arundel, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94310627",
-      "advertiser_id": "61590999",
-      "posted_date": "2026-07-01T02:54:20Z",
-      "job_description": "<div><div>\n<p>About Buildsafe</p>\n<p>Buildsafe is one of Australia's leading construction technology companies, delivering innovative software, AI-powered products and critical infrastructure that help improve safety, productivity and visibility across thousands of construction sites nationwide.&nbsp;Technology is at the centre of everything we do. As our BuildCam platform continues to grow, so does the infrastructure that supports it.</p>\n<p>About the Role</p>\n<p>We're looking for an<br>Infrastructure &amp; Systems Administrator to join our IT team, working alongside our Senior Infrastructure Administrator and reporting to the CIO. You'll play a key role in supporting and evolving the infrastructure that powers both Buildsafe and BuildCam.</p>\n<p>This is a hands-on role combining enterprise systems administration with physical infrastructure deployment. From commissioning servers, expanding storage and configuring networks to managing Windows Server, Docker, IIS and Microsoft 365 environments, no two days are the same.</p>\n<p>Key Responsibilities</p>\n<ul>\n<li>Build, deploy and maintain enterprise server, storage and network infrastructure.</li>\n<li>Administer Windows Server, Active Directory, Group Policy, DNS, IIS and Microsoft 365.</li>\n<li>Deploy and manage Docker containers and hosted applications.</li>\n<li>Monitor infrastructure performance, security, backups and disaster recovery.</li>\n<li>Configure and support switches, firewalls, VPNs and networking equipment.</li>\n<li>Troubleshoot infrastructure issues and support branch deployments.</li>\n<li>Contribute to infrastructure projects, automation, documentation and continuous improvement.</li>\n</ul>\n<p>AI-First Culture</p>\n<p>AI is embedded in how we work. We encourage our IT team to use AI to automate repetitive tasks, troubleshoot faster, generate documentation, develop scripts and improve operational efficiency. We're looking for someone who enjoys learning, embraces new technology and is always looking for smarter ways to work.</p>\n<p>About You</p>\n<p>You'll ideally have:</p>\n<ul>\n<li>Permanent working rights in Australia (essential)</li>\n<li>3+ years' experience in Infrastructure or Systems Administration.</li>\n<li>Strong Windows Server, Active Directory, DNS and Group Policy experience.</li>\n<li>Experience with IIS, Docker and Microsoft 365 administration.</li>\n<li>Hands-on experience with enterprise server hardware and NAS/storage platforms (Synology highly regarded).</li>\n<li>Solid networking knowledge (switches, VLANs, VPNs and firewalls).</li>\n<li>PowerShell or scripting experience.</li>\n<li>Strong troubleshooting, documentation and organisational skills.</li>\n<li>A passion for AI, automation and continuous improvement.</li>\n</ul>\n<p>What Buildsafe Can Offer You</p>\n<p>Join a scaling division backed by an established national brand, where your contributions genuinely make an impact.</p>\n<ul>\n<li>Permanent full-time role – salary paid weekly</li>\n<li>Office based role, Monday to Friday</li>\n<li>Corporate uniform allowance</li>\n<li>Fortnightly professional car cleaning on site</li>\n<li>Regular team bonding experiences</li>\n<li>Access to our Staff Care program and Employee Assistance Program</li>\n<li>Discounted gym memberships through Fitness Passport</li>\n<li>A culture that values innovation, safety, and collaboration</li>\n</ul>\n</div></div>",
-      "keywords": [
-        "infrastructure",
-        "systems",
-        "administrator"
       ]
     }
   ]
