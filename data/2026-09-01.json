@@ -1,608 +1,406 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-01",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-02T08:12:06.096827+10:00",
-  "total_jobs": 58,
+  "scraped_at": "2026-09-01T09:30:33.023576+10:00",
+  "total_jobs": 49,
   "keywords": [
     {
       "term": "analyst",
       "count": 11,
-      "share": 0.1897
+      "share": 0.2245
     },
     {
       "term": "developer",
-      "count": 9,
-      "share": 0.1552
+      "count": 8,
+      "share": 0.1633
     },
     {
       "term": "it",
-      "count": 9,
-      "share": 0.1552
+      "count": 8,
+      "share": 0.1633
     },
     {
       "term": "manager",
-      "count": 8,
-      "share": 0.1379
+      "count": 7,
+      "share": 0.1429
     },
     {
       "term": "support",
-      "count": 8,
-      "share": 0.1379
-    },
-    {
-      "term": "service",
       "count": 7,
-      "share": 0.1207
+      "share": 0.1429
     },
     {
       "term": "business",
       "count": 6,
-      "share": 0.1034
+      "share": 0.1224
     },
     {
-      "term": "engineer",
+      "term": "service",
       "count": 6,
-      "share": 0.1034
+      "share": 0.1224
     },
     {
       "term": "software",
-      "count": 6,
-      "share": 0.1034
-    },
-    {
-      "term": "ai",
       "count": 5,
-      "share": 0.0862
+      "share": 0.102
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.0862
+      "share": 0.102
+    },
+    {
+      "term": "engineer",
+      "count": 4,
+      "share": 0.0816
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.069
+      "share": 0.0816
     },
     {
-      "term": "project",
+      "term": "ai",
       "count": 3,
-      "share": 0.0517
+      "share": 0.0612
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0517
+      "share": 0.0612
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0517
-    },
-    {
-      "term": "product",
-      "count": 3,
-      "share": 0.0517
-    },
-    {
-      "term": "delivery",
-      "count": 3,
-      "share": 0.0517
+      "share": 0.0612
     },
     {
       "term": "cyber",
       "count": 3,
-      "share": 0.0517
+      "share": 0.0612
     },
     {
       "term": "development",
       "count": 3,
-      "share": 0.0517
+      "share": 0.0612
     },
     {
-      "term": "accounting",
+      "term": "project",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0408
     },
     {
       "term": "solutions",
       "count": 2,
-      "share": 0.0345
-    },
-    {
-      "term": "technology",
-      "count": 2,
-      "share": 0.0345
-    },
-    {
-      "term": "power",
-      "count": 2,
-      "share": 0.0345
+      "share": 0.0408
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0408
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0408
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0408
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0408
     },
     {
       "term": "systems",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0408
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0408
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0408
+    },
+    {
+      "term": "delivery",
+      "count": 2,
+      "share": 0.0408
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "leader",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
+    },
+    {
+      "term": "accounting",
+      "count": 1,
+      "share": 0.0204
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "jetstar",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "retail",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
+    },
+    {
+      "term": "technology",
+      "count": 1,
+      "share": 0.0204
     },
     {
       "term": "risk",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "resilience",
       "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "architech",
-      "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "dynamics",
-      "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "platform",
-      "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "native",
-      "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "frontend",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "php",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "laravel",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "network",
-      "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "groundworks",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "java",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "desktop",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "month",
       "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "ict",
-      "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
-      "term": "broadbeach",
+      "term": "ict",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
+    },
+    {
+      "term": "broadbeach",
+      "count": 1,
+      "share": 0.0204
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "sharepoint",
-      "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "apps",
-      "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "m365",
-      "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "infrastructure",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
-      "term": "owner",
+      "term": "sharepoint",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
-      "term": "payroll",
+      "term": "power",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
+    },
+    {
+      "term": "apps",
+      "count": 1,
+      "share": 0.0204
+    },
+    {
+      "term": "m365",
+      "count": 1,
+      "share": 0.0204
+    },
+    {
+      "term": "product",
+      "count": 1,
+      "share": 0.0204
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "coordinator",
-      "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "evolve",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "specialist",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "technical",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "writer",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "machinery",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "ecommerce",
-      "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "catalogue",
-      "count": 1,
-      "share": 0.0172
+      "share": 0.0204
     }
   ],
   "jobs": [
-    {
-      "job_id": "94333179",
-      "job_title": "AI Native Software Developer",
-      "business_name": "2Gen",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "",
-      "area": "Upper Coomera, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94333179",
-      "advertiser_id": "25168629",
-      "posted_date": "2026-09-01T05:50:02Z",
-      "job_description": "<h2><strong>2Gen Managed Services</strong></h2><p><strong>Graduate or early-career developer</strong></p><p>Gold Coast QLD</p><p>Full-time</p><h2><strong>About 2Gen</strong></h2><p>2Gen is a Gold Coast managed services provider. We look after business IT, cloud services, cyber security, networking, VoIP and automation for small and medium businesses across Southeast Queensland.</p><p>We also build software. Business applications, integrations, automation and AI systems that our clients rely on every day. We are a small team, we give honest advice, and we have gone all in on leveraging AI to build better software faster.</p><h2><strong>The role</strong></h2><p>We are looking for a developer who works with AI first. Not the occasional question to a chatbot, but AI as the environment you actually work in, and a real interest in seeing how far it can be pushed.</p><p>You will work on real customer projects alongside our senior developers and engineers, writing and shipping code that clients depend on. The work is mostly Python and Django, JavaScript and TypeScript with React and Node, API and platform integrations, and a growing amount of AI engineering: agents, local models, retrieval and automation that we design, build and run ourselves.</p><p>This role suits someone at graduate to junior level. If you are further along than that and the rest of this ad describes you, apply anyway.</p><h2><strong>The fundamentals matter here</strong></h2><p>AI is going to write a lot of the code. Your job is to know whether it is right. That means understanding how software actually works: data structures and which one to reach for, control flow, functions and state, structured and object-oriented design, relational databases and how to model data properly, HTTP and APIs, version control, testing, and enough about algorithms and complexity to spot something that will fall over at scale.</p><p>Most people who have this learned it at university, so a computer science, software engineering or IT degree with solid results is the most direct way to show us. It is not the only way. If you have worked through a proper structured course on your own - CS50, TAFE, a serious online program - and you can talk through the theory as comfortably as the code, we will take that just as seriously.</p><p>If you can generate a working app but cannot explain what the code is doing or why, this is not the role for you.</p><h2><strong>What you will do</strong></h2><ul><li><p>Build and ship features in Python and Django, and in JavaScript or TypeScript with React and Node, on real customer projects.</p></li><li><p>Build integrations against APIs such as Microsoft Graph and Microsoft 365, Xero, ERP platforms and client line-of-business systems.</p></li><li><p>Build practical AI systems: agents, tool integrations, retrieval and vector search, prompt and context design.</p></li><li><p>Help develop, test and deploy local LLMs and AI-assisted workflows, both internally and for clients.</p></li><li><p>Use Claude, Claude Code, Codex and similar tools as your day-to-day development environment, and review what they produce properly before it ships.</p></li><li><p>Write tests, read other people's code, and debug down to the actual cause rather than the first plausible one.</p></li><li><p>Deploy and support what you build on Azure, AWS, Google Cloud and Linux, with senior support behind you.</p></li><li><p>Document what you build so the next person, human or agent, can pick it up.</p></li></ul><h2><strong>What else we are looking for</strong></h2><ul><li><p>At least one language you can build something real in. Python, JavaScript or TypeScript are the most useful to us.</p></li><li><p>Working knowledge of Git, SQL and the command line.</p></li><li><p>Evidence that you finish things. Home labs, side projects, published repositories, coding experiments, AI projects. Half-built ideas are fine, as long as some of them get finished.</p></li><li><p>Serious AI habits already, and a genuine appetite to go deeper into agents, local models, automation and tooling.</p></li><li><p>The judgement to know when AI output is wrong. We want someone who uses AI constantly and still understands every line that ships.</p></li><li><p>Australian working rights.</p></li></ul><p>If you are coming from another technical industry rather than straight out of study, that is fine, provided the fundamentals above are there and you can show us where you picked them up.</p><h2><strong>Communication</strong></h2><p>You will be working closely with our senior developers and, before long, talking to clients directly. So this matters as much as the technical side.</p><p>We are looking for someone who can explain what they are building to a person who is not a developer, write things down clearly enough that the next person can pick them up, and ask for help rather than quietly burning three days on something. When we ask where something is up to, we want a straight answer. \"I am halfway through and I have hit a problem\" is far more use to us than an update that sounds fine and unravels a week later.</p><h2><strong>What we offer</strong></h2><ul><li><p>Real customer work from early on, with senior developers and engineers working alongside you.</p></li><li><p>Mentoring from experienced technical staff with deep MSP, cloud, infrastructure, security and automation backgrounds.</p></li><li><p>A team where AI-first development is simply how we work, not a trial.</p></li><li><p>Practical AI training and proper time to work with Claude, Claude Code, Codex, local LLMs and agent tooling.</p></li><li><p>Exposure to Python, Django, JavaScript, TypeScript, React, Node, APIs, Azure, AWS, Google Cloud, networking and cyber security.</p></li><li><p>A clear path into senior development, cloud, automation or AI specialist work.</p></li><li><p>A Gold Coast team with real client relationships and broad technology exposure.</p></li></ul><h2><strong>How to apply</strong></h2><p>Apply through SEEK with your CV and a short cover note, half a page or less.</p><p>Tell us who you are, where you learned your software fundamentals, why this role interests you, how you use AI in your own work now, and what you have built. Include links to anything you are proud of: a repository, a project, an agent, an app, a home lab. One thing you actually finished is worth more to us than a long list of technologies.</p>",
-      "keywords": [
-        "ai",
-        "native",
-        "software",
-        "developer"
-      ]
-    },
-    {
-      "job_id": "94332962",
-      "job_title": "Project and Service Delivery Coordinator",
-      "business_name": "Tradezone Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Programme & Project Management",
-      "pay_range": "",
-      "area": "Helensvale, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94332962",
-      "advertiser_id": "46711243",
-      "posted_date": "2026-09-01T05:40:03Z",
-      "job_description": "<p><strong>About Us</strong></p><p>Tradezone is the fastest growing electrical wholesaler in Australia. We launched in 2015 and now operate six state-of-the-art distribution centres across Australia - supplying electrical, solar, HVAC, data and safety products to trade professionals nationwide, with more sites to come.</p><p>We are a division of the Kingston Group, a private, family-owned Australian company that has been wholesaling and distributing for over 40 years. We combine the strength of a national business with the culture of a close-knit team, and pride ourselves on being at the forefront of technology and innovation - from our real-time online platform, live - stock visibility, to our own national delivery fleet with live delivery tracking.</p><p><br></p><p><strong>About The Role</strong></p><p>We have an exciting opportunity for a <strong>Project Service and Delivery Coordinator</strong> to join our newly form Technical team based in our Helensvale (Gold Coast) Head office</p><p>Reporting into the Technical Manager, this role will help keep the technology work across our business coordinated, on track and delivering to plan. You will help coordinate delivery of the technology programme by planning and scheduling work, tracking progress, keeping stakeholders informed, and following up actions to completion.</p><p>You will also support technology rollouts across our sites and manage the intake of technology requests through our ticketing platform, ensuring business needs are clearly captured, categorised and visible.</p><p>This role works across the business and will suit someone who builds relationships easily, gets things moving, and follows through.</p><p><br></p><p><strong>What We Offer</strong></p><ul><li><p>Permanent full-time opportunity based on the Gold Coast, with opportunity to Travel for work</p></li><li><p>Family oriented culture within the Kingston Group, where your contributions and ideas are valued</p></li><li><p>Opportunity to make hands on impact across a rapidly growing national business</p></li><li><p>Career development within a growing Technology Function</p></li><li><p>Collaboration within a supportive team in a vibrant, innovative workplace</p></li></ul><p><br></p><p>&nbsp;<strong>What You’ll Bring</strong></p><ul><li><p>Strong organisational skills, and the ability to keep several pieces of work moving at once without losing track of any of them</p></li><li><p>Background in an IT, technology or managed services environment is highly regarded</p></li><li><p>Experience with project or work management tooling as well as coordinating rollouts or change across multiple sites.</p></li><li><p>Project or delivery coordination experience: planning, scheduling, tracking and following through to completion.</p></li><li><p>Stakeholder engagement across a business.</p></li><li><p>Confident running the administrative side of delivery: meetings, agendas, minutes, actions and follow up.</p></li><li><p>Clear written and verbal communication with technical and non-technical people alike.</p></li></ul><p><br></p><p><br></p><p>If you’re looking for a role where you can help shape modernization rather than simply inherit it, we’d to hear from you. Apply today and be apart of Tradezones continued growth!</p><p><br></p><p><em>Please ensure your resume is updated with your most recent work history. Only shortlisted candidates will be contacted.</em></p>",
-      "keywords": [
-        "project",
-        "service",
-        "delivery",
-        "coordinator"
-      ]
-    },
-    {
-      "job_id": "94332661",
-      "job_title": "Senior Technology Lead",
-      "business_name": "Tradezone Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Programme & Project Management",
-      "pay_range": "",
-      "area": "Helensvale, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94332661",
-      "advertiser_id": "46711243",
-      "posted_date": "2026-09-01T05:30:11Z",
-      "job_description": "<p><strong>About Us</strong></p><p>Tradezone is the fastest growing electrical wholesaler in Australia. We launched in 2015 and now operate six state-of-the-art distribution centres across Australia - supplying electrical, solar, HVAC, data and safety products to trade professionals nationwide, with more sites to come.</p><p>We are a division of the Kingston Group, a private, family-owned Australian company that has been wholesaling and distributing for over 40 years. We combine the strength of a national business with the culture of a close-knit team, and pride ourselves on being at the forefront of technology and innovation - from our real-time online platform, live - stock visibility, to our own national delivery fleet with live delivery tracking.</p><p><br></p><p><strong>About the Role</strong></p><p>We're looking for an experienced <strong>Senior Technology Lead</strong> to join our Gold Coast team and play a key role in shaping Tradezone's national technology modernisation program.</p><p>This is a hands-on role focused on designing and delivering modern technology solutions, rather than simply maintaining existing systems. You'll work closely with the Technology Manager and our upcoming internal technology team to help shape our modern workplace platform, identity and device management, and how technology is delivered and supported across our national network.</p><p>This is a genuine opportunity to influence the direction of our technology environment and bring your experience of modern platforms, infrastructure and workplace technology to a growing Australian business.</p><p><br></p><p><strong>What We Offer</strong></p><ul><li><p>Permanent full-time role based on the Gold Coast, with the opportunity to travel to our sites</p></li><li><p>Opportunity to shape the direction of a rapidly growing national business</p></li><li><p>Hands-on modernisation projects from design through to implementation</p></li><li><p>National-level scope with visibility and impact across our Distribution Centre network</p></li><li><p>Career development within a growing technology function</p></li></ul><p><br></p><p><strong>Key Responsibilities</strong></p><ul><li><p>Design and deliver modern workplace, identity and endpoint management solutions across our national network</p></li><li><p>Lead technical delivery of modernisation projects from design through to implementation and handover</p></li><li><p>Define and maintain Tradezone's standard operating environment across our sites</p></li><li><p>Review and challenge technical designs, proposals and solutions from external technology partners</p></li><li><p>Work with the Technology Manager and internal technology team to shape the modernisation roadmap</p></li><li><p>Provide technical guidance and support to the wider technology team and business</p></li><li><p>Translate business outcomes into practical, scalable technology solutions</p></li><li><p><br></p></li></ul><p><strong>About You</strong></p><p>We're looking for a hands-on technology leader who enjoys solving complex problems and turning ideas into practical solutions.</p><p>You'll bring:</p><ul><li><p>Current hands-on experience designing and delivering cloud infrastructure services across <strong>Microsoft Azure</strong> and/or <strong>AWS</strong></p></li><li><p>Significant experience leading technology delivery across infrastructure, workplace, service management or a combination</p></li><li><p>Strong endpoint management and standard operating environment experience</p></li><li><p>Architecture knowledge across identity, security, networking and integration</p></li><li><p>The ability to confidently assess and challenge solutions proposed by external technology partners</p></li><li><p>Strong communication skills, with the ability to translate technical concepts into business outcomes</p></li><li><p>A proactive, practical approach with the ability to work autonomously and collaboratively</p></li></ul><p><strong>Highly regarded:</strong></p><ul><li><p>Experience with modern data platforms including <strong>Microsoft Fabric, Databricks, Azure Data Lake </strong>or equivalent.</p></li><li><p>ITIL or other service management experience</p></li><li><p>Experience assessing and modernising legacy application environments</p></li><li><p>Experience mentoring and developing junior technical team members</p></li></ul><p><br>If you're looking for a role where you can help shape modernisation rather than simply inherit it, we'd love to hear from you. Apply today and be part of Tradezone's continued growth! Please include a cover letter outlining your relevant experience and, in particular, a recent technology modernisation project you have personally designed and delivered.</p><p><em>Please ensure your resume is updated with your most recent work history. Only shortlisted candidates will be contacted.</em></p>",
-      "keywords": [
-        "technology"
-      ]
-    },
-    {
-      "job_id": "94331766",
-      "job_title": "Product Lead",
-      "business_name": "Refactor.",
-      "work_type": "Full time",
-      "job_type": "Product Management & Development",
-      "pay_range": "Up to $190k inc super",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94331766",
-      "advertiser_id": "63128884",
-      "posted_date": "2026-09-01T05:00:50Z",
-      "job_description": "<p><strong>Product Lead | Digital Marketplace</strong></p><p><strong>Gold Coast OR Brisbane | Hybrid | Relocation Assistance Available</strong></p><p><br></p><p>We should probably start by explaining what this role <strong>isn't</strong>.</p><p><br></p><p>It's not sitting three layers above delivery.</p><p>It's not spending six months designing the perfect product framework.</p><p>And it's definitely not being an armchair product expert.</p><p><br></p><p>Refactor is exclusively partnering with an established Australian digital marketplace to find a hands-on Product Lead to own the next phase of its product.</p><p><br></p><p>The brief was summed up brilliantly by the hiring team:</p><p><strong>They don't need another chef designing the menu. They need someone who can actually cook.</strong></p><p><br></p><p><strong>The opportunity:</strong></p><p><br></p><p>You'll become the key product person for an established B2B marketplace, owning the customer experience and working directly across Engineering, Design, Data, Sales and commercial leadership.</p><p><br></p><p>You'll help shape strategy.</p><p><br></p><p>But you'll also be expected to turn that strategy into things customers can actually use.</p><p><br></p><p>Think:</p><p><strong>Discover → validate → build → launch → measure → improve.</strong></p><p>Then go again.</p><p><br></p><p><strong>What you'll be doing</strong></p><ul><li>Owning product vision and priorities</li><li>Understanding buyer and seller behaviour</li><li>Identifying opportunities for customer and commercial growth</li><li>Running discovery and turning problems into product solutions</li><li>Taking ideas from concept through to launch</li><li>Testing assumptions and experimenting quickly</li><li>Using customer and product data to make decisions</li><li>Working side-by-side with engineering throughout delivery</li><li>Optimising engagement, conversion and customer value</li><li>Managing dependencies across a wider technology organisation</li><li>Communicating product direction to senior stakeholders</li></ul><p><br></p><p>The formal brief places a big emphasis on experimentation, channel performance, customer insight and taking ideas all the way through to market.</p><p><br></p><p><strong>What's in it for you?</strong></p><ul><li>Recognised as one of Australia's Best Workplaces, a Family Friendly Workplace and a WORK180 endorsed employer</li><li>24 weeks paid parental leave for primary carers, 4 weeks for secondary carers, 6 weeks paid gender affirming care leave</li><li>Genuine relocation support if the Gold Coast lifestyle is calling</li><li>Hybrid set up 2 days in office out of Brisbane or Gold Coast - 3 flexible days</li><li>Regular hackathons and a real learning budget, not just the promise of one</li></ul><p><br></p><p><strong>Who we're looking for:</strong></p><p><br></p><p>We're deliberately not getting hung up on title.</p><p><br></p><p>You might currently be a:</p><p><strong>Product Lead. Senior Product Manager. Principal Product Manager. Or even Head of Product within a smaller business.</strong></p><p><br></p><p>What matters is that you're still <strong>hands-on</strong>.</p><p><br></p><p>You can talk strategy with an executive in the morning, work through a customer problem with Sales before lunch and jump into a delivery session with Engineering that afternoon.</p><p><br></p><p>Experience across <strong>marketplaces, e-commerce, SaaS, FinTech, PropTech, travel or another customer-facing digital product</strong> would be particularly interesting.</p><p><br></p><p>We want someone who can tell us:</p><p><strong>“I found this problem. We tested it. We built this. We launched it. Here's what happened.”</strong></p><p><br></p><p>Not just:</p><p><strong>“My squad delivered…”</strong></p><p><br></p><p><strong>Why consider it?</strong></p><p>It's an unusual combination.</p><p><br></p><p>You get the customers, data, stability and resources of an established digital business, while retaining the ownership you'd normally associate with something much smaller.</p><p><br></p><p>There's also a genuine opportunity to bring newer technology, AI and product thinking into a market that's ripe for innovation.</p><p><br></p><p><strong>Established platform. Big backing. Genuine ownership.</strong></p><p><br></p><p>And it's based on the Gold Coast.</p><p>Could be worse.</p><p><br></p><p>Apply here or contact <strong>James at Refactor</strong> for a confidential conversation.</p><p><br></p><p><strong>James Farrey</strong></p><p><strong>Founder &amp; Managing Director</strong></p><p><strong><a href=\"mailto:james@re-factor.com.au\">james@re-factor.com.au</a></strong></p><p><strong>#SCR-james-farrey</strong></p><p><br></p><p><strong>﻿</strong></p><h2><br></h2>",
-      "keywords": [
-        "product"
-      ]
-    },
-    {
-      "job_id": "94329811",
-      "job_title": "Ecommerce Catalogue Manager",
-      "business_name": "Car Mods Australia Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Other",
-      "pay_range": "",
-      "area": "Arundel, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94329811",
-      "advertiser_id": "37547172",
-      "posted_date": "2026-09-01T04:15:08Z",
-      "job_description": "<p><strong>About the company:</strong></p><p>Car Mods Australia and 4x4 Mods Australia has been operating since 2010, growing to become an industry-leading automotive online parts reseller specialising in performance products. The company's retail showroom, office and warehouse is based in Arundel on the Gold Coast. Car Mods Australia is an importer, wholesaler and online retailer of a large catalogue of quality branded products from hundreds of suppliers around the world. We are a passionate and young team with a high performance culture that loves kicking goals!</p><p><strong>About the role:</strong></p><p>Car Mods Australia and 4x4 Mods Australia is seeking a <strong>Ecommerce Catalogue Manager</strong> to join our team of 40+ staff. The successful applicant will become an integral member of our growing team. As an Ecommerce Catalogue Manager you will be responsible for maintaining the catalogue of products on our website. This will include adding new brands to our site and refreshing existing brands with improved images, descriptions, vehicle fitment and other elements to ensure our online store always has the most in-depth and up to date product information. This process is carried out via bulk imports and API connections using pre-existing workflows and systems, you will be trained on these systems but should bring prior experience from a similar prior role so you pick these up quickly. You will have a team of people who will assist you with the bulk of the technical work with your primary focus on project management and roll out of the updates once the data is ready for import.</p><p>You will be responsible for ensuring deadlines are met and priorities are inline with company growth plans under the direction of our Ecommerce Manager, working within a team of 4 people in your department.</p><p><strong>Personal Skills &amp; Experience:</strong></p><ul><li><p>It is absolutely mandatory that you are an organised, methodical and thorough person</p></li><li><p>You must be an analytical problem solver</p></li><li><p>3+ years of technical skills and experience in excel, all major web platforms and ecommerce in general is mandatory</p></li><li><p>Effeciency driven, always optimising and finding streamlined solutions</p></li><li><p>Enjoy a fast paced environment and capable of managing/prioritising a lot of smaller tasks at the same time without being overwhelmed</p></li><li><p>Self starter &amp; positive team player</p></li><li><p>Experienced in working with offshore teams, able to communicate clearly with them, scope out tasks and make sure they adhere to deadlines</p></li></ul><p><strong>Responsibilities:</strong></p><ul><li><p>Maintain the accuracy of our catalogue, including product and fitment data</p></li><li><p>Scope tasks to a small offshore team in a concise and detailed manner, ensuring deliverables are accurate and on-time</p></li><li><p>Quality control of all updates that go live on our website</p></li><li><p>In collaboration with all team members, sustain and drive a high performing results-driven culture</p></li></ul><p><strong>The Car Mods Australia Difference:</strong></p><p>This is a one-of-a-kind opportunity to work for a fast-moving, performance driven business in the ecommerce space. If you are a hard worker, who works well under pressure to achieve results, this is the perfect opportunity for you and we want you now!</p><p>Perks of the role:</p><ul><li><p>Generous Employee Discount Program;</p></li><li><p>A edgy, newly renovated office in Arundel;</p></li><li><p>The chance to work with like-minded high achievers;</p></li><li><p>A performance driven company culture that celebrates both personal &amp; company growth;</p></li></ul><p>Aside from the amazing array of benefits and perks, Car Mods Australia offers you the chance to make a daily impact on the automotive performance market here in Australia. You have the opportunity to pursue your passion and plan your own future as part of our team!</p><p>Apply online sending your cover letter &amp; resume.</p>",
-      "keywords": [
-        "ecommerce",
-        "catalogue",
-        "manager"
-      ]
-    },
-    {
-      "job_id": "94324625",
-      "job_title": "Principal Architech (Dynamics, Ai & Power Platform)",
-      "business_name": "Rec4Tech",
-      "work_type": "Full time",
-      "job_type": "Consultants",
-      "pay_range": "$150K -$180K + Super",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94324625",
-      "advertiser_id": "62309954",
-      "posted_date": "2026-09-01T02:09:59Z",
-      "job_description": "We are partnering with an established Gold Coast technology business to recruit a Principal Architect who will become the senior technical authority within its growing AI and business solutions practice.<br><br> This is not a role where you create a diagram, hand it to the delivery team and disappear into another meeting.<br><br> You will design the architecture, contribute directly to complex development, solve high-level technical challenges and work alongside business leaders to turn client problems into commercially viable solutions.<br> <br> <strong>What’s in it for you…</strong><br> <ul> <li>Gold Coast or Sydney based hybrid position</li> <li>Competitive salary $150K - $180K + Super (based on experience)</li> <li>Work from office two days per week</li> <li>Awesome company culture</li> <li>Occasional travel to client and prospect sites across Brisbane and the Gold Coast</li> <li>Interstate travel is expected to be rare</li> </ul> <strong>What you’ll be doing…</strong><br> <ul> <li>Designing and actively building enterprise solutions across Microsoft Power Platform, Dynamics 365 and Azure</li> <li>Developing complex automation solutions using Power Automate Cloud, Power Automate Desktop and RPA</li> <li>Creating custom integrations, connectors and data pipelines across Microsoft and third-party platforms</li> <li>Working with Azure Functions, Logic Apps, API Management, Azure AI Search and modern authentication frameworks</li> <li>Developing custom components using technologies such as C#, JavaScript, Liquid and PCF controls</li> <li>Architecting secure AI and Copilot solutions, including grounded AI and Retrieval-Augmented Generation</li> <li>Establishing strong application lifecycle management, environment separation and solution-layering practices</li> <li>Leading technical discovery workshops with prospective and existing clients</li> <li>Translating business challenges into solution architectures, estimates and Statements of Work</li> <li>Presenting technical recommendations, commercial value and expected ROI to senior stakeholders</li> <li>Resolving complex technical escalations by working directly within code, integrations and automation workflows</li> <li>Reviewing architecture and code to reduce technical debt and improve long-term maintainability</li> <li>Mentoring senior and mid-level developers in engineering standards and advanced solution design</li> </ul> <strong>What we’re looking for…<br></strong><br> You will bring strong hands-on experience across the Microsoft business applications and cloud ecosystem, including:<br> <ul> <li>Expert-level experience with Microsoft Power Platform</li> <li>Advanced Power Automate Cloud and Desktop development</li> <li>Dynamics 365 architecture and extension experience</li> <li>Dataverse relational data modelling and schema design</li> <li>Power Pages configuration and development</li> <li>Azure Functions, Logic Apps, API Management and Azure AI services</li> <li>Custom API integration and authentication, including OAuth 2.0</li> <li>C# plugins, JavaScript, Liquid and custom component development</li> <li>Application lifecycle management across development, test and production environments</li> <li>Experience designing secure enterprise automation and AI solutions</li> <li>The ability to diagnose and permanently resolve complex delivery issues</li> </ul> Experience integrating disconnected platforms such as CRM, finance, document management and other SaaS systems will be highly regarded.<br> <br><strong>What will work well…<br></strong><br> Technical depth is essential, but this role also needs someone who can operate commercially.<br> <br>You should be comfortable:<br> <ul> <li>Leading client discovery conversations</li> <li>Challenging unclear or unrealistic requirements</li> <li>Producing accurate estimates and technical scopes</li> <li>Explaining complex architecture in straightforward business language</li> <li>Presenting to executives and financial decision-makers</li> <li>Demonstrating the commercial value of a proposed solution</li> <li>Working through unfamiliar APIs and legacy environments</li> <li>Mentoring developers without needing formal people-management responsibility</li> </ul> You will naturally bring curiosity, lateral thinking and a bit of a “hacker mindset” when faced with a difficult integration or automation challenge.<br> &nbsp;&nbsp;<br> <strong>Highly Regarded Certifications</strong><br> <ul> <li>Microsoft Certified: Power Platform Solution Architect Expert, <strong>PL-600</strong></li> <li>Microsoft Certified: Power Platform Developer Associate, <strong>PL-400</strong></li> <li>Microsoft Certified: Azure Solutions Architect Expert, <strong>AZ-305</strong></li> </ul> Certifications are valued, but they will not replace genuine hands-on architecture and development capability.<br> <br><strong><strong>How to get involved…<br><br></strong></strong> Ready to take your career to the next level? APPLY NOW! Submit your CV or contact Dean from rec4tech.jobs for a confidential chat at <a href=\"mailto:dean@rec4tech.jobs\">dean@rec4tech.jobs</a><br><br> <em>At Rec4Tech, we know that diversity isn't just important, it's what makes workplaces awesome!</em><br> <em>We don't care about labels like race, religion, gender identity, sexual orientation, age, or whether you prefer pineapple on pizza (no judgment here). What matters is your talent and passion. Need a tweak or two to make the application process work for you? No worries, let us know and we'll sort it out. Let's do this together!<br></em><br> Rec4Tech is managing this search exclusively. Please direct all queries to Deano.",
-      "keywords": [
-        "architech",
-        "dynamics",
-        "ai",
-        "power",
-        "platform"
-      ]
-    },
-    {
-      "job_id": "94323158",
-      "job_title": "Product Owner - Accounting & Payroll",
-      "business_name": "Odoo",
-      "work_type": "Full time",
-      "job_type": "Product Management & Development",
-      "pay_range": "$80,000 – $95,000 per year + super",
-      "area": "Varsity Lakes, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94323158",
-      "advertiser_id": "47971668",
-      "posted_date": "2026-09-01T01:33:22Z",
-      "job_description": "<h2><strong>About the job</strong></h2><p>As a Product Owner for Accounting &amp; Payroll Localisation, you will own the functional scope of Odoo’s Australian accounting and payroll localisations. Working closely with regulatory bodies, local stakeholders, and R&amp;D teams, you will ensure Odoo remains fully compliant with Australian legislation while fitting seamlessly into Odoo’s global product framework.</p><p>The role combines regulatory ownership, functional product management, writing functional specifications and documentation, testing solutions, and close collaboration with development teams, with a strong focus on compliance, accuracy, and real-world accounting and payroll use cases</p><strong>Why You'll Love This Job</strong><ul><li><p>Contribute to Australian accounting and payroll localisations end to end</p></li><li><p>Work at the intersection of regulation, and technology</p></li><li><p>See direct impact of your work on thousands of Australian businesses</p></li><li><p>Development model: Open with external community</p></li><li><p>Tackle meaningful, complex problems in a constantly evolving regulatory environment</p></li><li><p>Work and collaborate with Odoo Partners and customers to gather feedback and communicate new releases</p></li></ul><p><br></p><strong>Responsibilities</strong><ul><li><p>Odoo accounting &amp; payroll localisation ownership: own the functional scope of Odoo accounting and payroll localisations, including reporting, tax, and payroll obligations. Ensure full compliance with local legislation and official requirements (e.g. ATO, Clearing Houses)</p></li><li><p>Regulatory liaison &amp; compliance monitoring: stay in active contact with regulatory bodies and industry sources, monitor legislative and technical changes (STP, BAS, Super, etc.), and translate these into compliant Odoo localisation requirements</p></li><li><p>Local market &amp; business analysis: analyse the local business environment, customer needs, and real-life accounting/payroll use cases to identify localisation gaps, prioritise improvements, and ensure alignment with Odoo’s global framework</p></li><li><p>Localisation roadmap &amp; development pipeline management: define and maintain a structured localisation backlog. Manage priorities, dependencies, and delivery timelines based on compliance urgency, customer impact, and product strategy</p></li><li><p>Cross-team collaboration with R&amp;D: act as the functional interface between local stakeholders and development teams. Create clear functional specifications, clarify requirements, and ensure developments meet Odoo standards and localisation constraints</p></li><li><p>Testing, validation &amp; release readiness: test localisation features end-to-end (including reporting and electronic submissions), validate compliance with authorities, coordinate acceptance testing, and ensure production-ready releases</p></li></ul><p><br></p><h2><strong>About you</strong></h2><p><strong>At Odoo, we value your skills more than your resume.</strong><br>Here's what we expect from you:</p><strong>Must have</strong><ul><li><p>Professional proficiency in spoken and written English</p></li><li><p>Minimum of 2 years' experience</p></li><li><p>Strong understanding of Australian accounting and payroll localisation, including statutory reporting, taxation, and payroll obligations (e.g. BAS, GST, STP, Superannuation).</p></li><li><p>Hands-on experience in accounting or payroll product development and/or ERP implementation, ideally in a localisation or compliance-driven context.</p></li><li><p>Ability to translate accounting and payroll requirements into ERP logic, including chart of accounts, journals, workflows, reporting, and integrations.</p></li><li><p>Strong regulatory and compliance mindset, with the ability to monitor legislative changes and assess their functional and technical impact on the product.</p></li><li><p>Creative and autonomous</p></li></ul><p><br></p><strong>Nice to have</strong><ul><li><p>Exposure to global ERP frameworks or multi-country localisation projects</p></li><li><p>Previous experience as a Product Owner</p></li><li><p>Experience working with R&amp;D or software development teams</p></li></ul><p><br></p>",
-      "keywords": [
-        "product",
-        "owner",
-        "accounting",
-        "payroll"
-      ]
-    },
-    {
-      "job_id": "94320977",
-      "job_title": "Network Engineer",
-      "business_name": "Opus Recruitment Solutions",
-      "work_type": "Full time",
-      "job_type": "Engineering - Network",
-      "pay_range": "AUD 115000 - 125000 per annum",
-      "area": "Coolangatta, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94320977",
-      "advertiser_id": "32359972",
-      "posted_date": "2026-09-01T00:12:05Z",
-      "job_description": "An&nbsp;Australian&nbsp;household&nbsp;brand&nbsp;in&nbsp;the&nbsp;tourism&nbsp;sector&nbsp;is&nbsp;looking&nbsp;to&nbsp;take&nbsp;on&nbsp;a&nbsp;Network&nbsp;Engineer&nbsp;for&nbsp;an&nbsp;initial&nbsp;6&nbsp;month&nbsp;fixed-term&nbsp;period.&nbsp;The&nbsp;company&nbsp;has&nbsp;been&nbsp;in&nbsp;operation&nbsp;for&nbsp;over&nbsp;100&nbsp;years&nbsp;in&nbsp;Australia&nbsp;and&nbsp;they&nbsp;are&nbsp;continuing&nbsp;to&nbsp;expand.<br><br>They&nbsp;are&nbsp;looking&nbsp;for&nbsp;a&nbsp;mid-level&nbsp;Network&nbsp;/&nbsp;Infrastructure&nbsp;Engineer&nbsp;to&nbsp;join&nbsp;an&nbsp;existing&nbsp;team&nbsp;to&nbsp;help&nbsp;with&nbsp;Network&nbsp;&amp;&nbsp;Infrastructure&nbsp;operations.&nbsp;This&nbsp;will&nbsp;initially&nbsp;be&nbsp;a&nbsp;6&nbsp;month&nbsp;position&nbsp;but&nbsp;has&nbsp;good&nbsp;potential&nbsp;for&nbsp;extension&nbsp;or&nbsp;to&nbsp;be&nbsp;made&nbsp;permanent.<br><br>The&nbsp;position&nbsp;will&nbsp;be&nbsp;2&nbsp;days&nbsp;a&nbsp;week&nbsp;in&nbsp;the&nbsp;office&nbsp;in&nbsp;Coolangatta&nbsp;and&nbsp;3&nbsp;days&nbsp;from&nbsp;home.<br><br><strong>What&nbsp;you&nbsp;will&nbsp;be&nbsp;doing:</strong><br><br><ul><li>Provide&nbsp;excellent&nbsp;BAU&nbsp;operations&nbsp;to&nbsp;the&nbsp;company's&nbsp;vast&nbsp;Network</li><li>Configure,&nbsp;maintain&nbsp;&amp;&nbsp;deploy&nbsp;various&nbsp;Network&nbsp;devices&nbsp;such&nbsp;as&nbsp;Fortigate&nbsp;Firewalls</li><li>Perform&nbsp;Windows&nbsp;Server&nbsp;administration,&nbsp;hardening&nbsp;&amp;&nbsp;patching</li><li>Take&nbsp;ownership&nbsp;of&nbsp;escalated&nbsp;support&nbsp;from&nbsp;the&nbsp;service&nbsp;desk</li><li>Collaborate&nbsp;closely&nbsp;with&nbsp;other&nbsp;Network&nbsp;&amp;&nbsp;Infrastructure&nbsp;Engineers&nbsp;to&nbsp;ensure&nbsp;high&nbsp;availability&nbsp;of&nbsp;the&nbsp;company's&nbsp;IT&nbsp;Networks</li></ul><br><strong>What&nbsp;you&nbsp;need&nbsp;to&nbsp;succeed:</strong><br><br><ul><li>5+&nbsp;years&nbsp;experience&nbsp;in&nbsp;Network&nbsp;&amp;&nbsp;Infrastructure&nbsp;Engineering</li><li>Excellent&nbsp;troubleshooting&nbsp;and&nbsp;operational&nbsp;support&nbsp;experience</li><li>Proven&nbsp;hands-on&nbsp;experience&nbsp;supporting,&nbsp;deploying&nbsp;and&nbsp;upgrading&nbsp;Network&nbsp;Devices</li><li>Strong&nbsp;core&nbsp;routing&nbsp;&amp;&nbsp;switching&nbsp;experience</li><li>Network&nbsp;Security&nbsp;experience&nbsp;with&nbsp;Fortigate&nbsp;firewalls&nbsp;(&nbsp;or&nbsp;similar&nbsp;)</li><li>Demonstrated&nbsp;experience&nbsp;managing&nbsp;and&nbsp;patching&nbsp;Windows&nbsp;Servers</li></ul><br>If&nbsp;you&nbsp;think&nbsp;you&nbsp;can&nbsp;be&nbsp;the&nbsp;one&nbsp;to&nbsp;shine&nbsp;in&nbsp;this&nbsp;role&nbsp;then&nbsp;APPLY&nbsp;now&nbsp;for&nbsp;a&nbsp;confidential&nbsp;chat!",
-      "keywords": [
-        "network",
-        "engineer"
-      ]
-    },
     {
       "job_id": "94314209",
       "job_title": "ICT Support Officer",
@@ -1446,25 +1244,6 @@
         "support",
         "technician",
         "msp"
-      ]
-    },
-    {
-      "job_id": "94345873",
-      "job_title": "IT Support Engineer",
-      "business_name": "Gilmour Space Technologies",
-      "work_type": "Full time",
-      "job_type": "Networks & Systems Administration",
-      "pay_range": "",
-      "area": "Yatala, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94345873",
-      "advertiser_id": "43912085",
-      "posted_date": "2026-08-05T05:43:57Z",
-      "job_description": "<div><div> <p><strong>All Orbits, All Planets - Join us on our journey</strong></p>\n<p>Gilmour Space is a leading Australian space company, developing launch vehicles, satellite platforms, advanced propulsion technologies; and launching from our licensed orbital spaceport in Bowen, North Queensland.</p>\n<p>Are you a creative and experienced 'IT Support Officer' looking for a dynamic role where your skills will make a real impact? Have you ever dreamt of working with rockets right here in Australia? Well now’s your chance! Gilmour Space is seeking a talented individual to join our innovative team to send rockets to Space! Conveniently located in <strong>Bowen, North QLD</strong> near some of the best beaches in the world and sunsets, you will be based at Australia's first orbital Launch Site.&nbsp; So, what are you waiting for? Join us and be a part of a forward-thinking team dedicated to pushing the boundaries of space exploration and let’s send Australia to Space together!</p>\n<p><strong>How you will contribute to our mission in getting Australia to space:</strong></p>\n<p>The below is designed to give you an idea of the role you will play. There will be many more exciting and innovative things to do:</p>\n<ul>\n <li>Field incoming help requests from end users and provide exceptional support experience to internal staff (Level1/2 user and systems support) both on-premises and remotely.</li>\n <li>Troubleshoot HW/SW related issues in timely manners.</li>\n <li>Install and configure various HW/SW (desktops, servers, switches, routers, Aps, printers etc.).</li>\n <li>Provision HW/SW, licenses and keep asset inventory up to date.</li>\n <li>Apply diagnostic utilities to aid in troubleshooting.</li>\n <li>Develop, test, and deliver new systems and solutions.</li>\n <li>Performing preventative maintenance, including checking and cleaning of workstations, printers, and peripherals.</li>\n <li>Participate and contribute to the development and ongoing maintenance of the ICT support documentation.</li>\n <li>Assist with on/off-boarding of employees.</li>\n <li>Assist with purchasing HW/SW where required.</li>\n <li>Assist with research on latest technology and solutions.</li>\n <li>Intra-state travel (for up to 2 weeks) may be required to support manufacturing site operations.</li>\n <li>\n<b></b>Other duties as requested by Management.<b></b>\n</li>\n</ul>\n<div>\n <p><strong>Minimum Qualifications, Skills and Experience:</strong></p>\n <ul>\n <li>Bachelor in IT related field, system engineering or system administration and /or a Minimum of four (4) years hands-on IT support role experience.</li>\n <li>Demonstrated awareness of Data Security.</li>\n <li>Evidence of outstanding results and desire to become a star on our journey to Orbit.</li>\n <li>Experience of provisioning desktop/laptop/mobile hardware/software plus basic user &amp; security group Active Directory administration as well as security apps and VPN. Previous experience of hosted desktop applications and Office 365 environment is highly beneficial.</li>\n <li>Demonstrable knowledge and troubleshooting experience of TCP/IP networks and Microsoft based operating systems, enterprise applications (e.g. Exchange, Teams) and desktop applications (e.g. Word, Excel, Access, Visio) ideally in both an on-premise and cloud environment.</li>\n <li>Enthusiasm for learning new technologies and a strive for continuous improvement.</li>\n <li>Excellent verbal and written communication skills with a strong support-focused mindset.</li>\n <li>Excellent organisational skills with the ability to prioritise work.</li>\n <li>Experience in working in a remote team&nbsp;</li>\n </ul>\n <p><strong><b>Desired Qualifications, Skills and Experience:</b></strong></p>\n <ul>\n <li>Bachelor in IT related field, system engineering or system administration and /or a Minimum of four (4) years hands-on IT support role experience.</li>\n <li>Understanding of LAN environments &amp; VoIP.</li>\n <li>Knowledge in SharePoint and other online information systems.</li>\n <li>Experience with mobile platforms (iOS/Android) and MDM/MAM tools.</li>\n <li>Familiar with ITIL framework and best practices.</li>\n <li>NV1 Security Clearance eligible preferred.</li>\n </ul>\n <p><strong>How to Apply:</strong></p>\n <p>Applicants must be an Australian Citizen/Permanent Resident or have an appropriate Australian work visa or work entitlements.</p>\n <p>If you are a proactive team player with a passion to get Australia to space and a desire to succeed, please apply now by clicking the apply button and including your resume and cover letter or head to our&nbsp;<strong>careers page: www.gspace.com/career</strong></p>\n <p>Gilmour Space Technologies is proud to be an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all team members. We strongly encourage applications from Aboriginal and Torres Strait Islander peoples for all positions.</p>\n <p>No Recruitment Agencies Please<strong><b></b></strong></p>\n</div> </div></div>",
-      "keywords": [
-        "it",
-        "support",
-        "engineer"
       ]
     },
     {
