@@ -1,493 +1,456 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-02",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-03T08:09:59.098859+10:00",
-  "total_jobs": 59,
+  "scraped_at": "2026-09-02T08:12:06.096827+10:00",
+  "total_jobs": 58,
   "keywords": [
     {
       "term": "analyst",
-      "count": 10,
-      "share": 0.1695
+      "count": 11,
+      "share": 0.1897
     },
     {
       "term": "developer",
-      "count": 10,
-      "share": 0.1695
+      "count": 9,
+      "share": 0.1552
     },
     {
       "term": "it",
-      "count": 10,
-      "share": 0.1695
-    },
-    {
-      "term": "support",
       "count": 9,
-      "share": 0.1525
-    },
-    {
-      "term": "software",
-      "count": 8,
-      "share": 0.1356
+      "share": 0.1552
     },
     {
       "term": "manager",
       "count": 8,
-      "share": 0.1356
+      "share": 0.1379
     },
     {
-      "term": "engineer",
-      "count": 7,
-      "share": 0.1186
+      "term": "support",
+      "count": 8,
+      "share": 0.1379
     },
     {
       "term": "service",
       "count": 7,
-      "share": 0.1186
+      "share": 0.1207
     },
     {
       "term": "business",
       "count": 6,
-      "share": 0.1017
+      "share": 0.1034
+    },
+    {
+      "term": "engineer",
+      "count": 6,
+      "share": 0.1034
+    },
+    {
+      "term": "software",
+      "count": 6,
+      "share": 0.1034
     },
     {
       "term": "ai",
       "count": 5,
-      "share": 0.0847
+      "share": 0.0862
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.0847
-    },
-    {
-      "term": "administrator",
-      "count": 4,
-      "share": 0.0678
+      "share": 0.0862
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.0678
+      "share": 0.069
     },
     {
       "term": "project",
       "count": 3,
-      "share": 0.0508
-    },
-    {
-      "term": "systems",
-      "count": 3,
-      "share": 0.0508
+      "share": 0.0517
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0508
+      "share": 0.0517
+    },
+    {
+      "term": "administrator",
+      "count": 3,
+      "share": 0.0517
     },
     {
       "term": "product",
       "count": 3,
-      "share": 0.0508
+      "share": 0.0517
     },
     {
       "term": "delivery",
       "count": 3,
-      "share": 0.0508
+      "share": 0.0517
     },
     {
       "term": "cyber",
       "count": 3,
-      "share": 0.0508
+      "share": 0.0517
     },
     {
       "term": "development",
       "count": 3,
-      "share": 0.0508
+      "share": 0.0517
     },
     {
       "term": "accounting",
       "count": 2,
-      "share": 0.0339
+      "share": 0.0345
     },
     {
       "term": "solutions",
       "count": 2,
-      "share": 0.0339
+      "share": 0.0345
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.0339
+      "share": 0.0345
     },
     {
       "term": "power",
       "count": 2,
-      "share": 0.0339
+      "share": 0.0345
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0339
-    },
-    {
-      "term": "php",
-      "count": 2,
-      "share": 0.0339
+      "share": 0.0345
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0339
+      "share": 0.0345
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0339
+      "share": 0.0345
+    },
+    {
+      "term": "operations",
+      "count": 2,
+      "share": 0.0345
+    },
+    {
+      "term": "systems",
+      "count": 2,
+      "share": 0.0345
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.0339
+      "share": 0.0345
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0339
+      "share": 0.0345
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "leader",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "jetstar",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "retail",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
+    },
+    {
+      "term": "applications",
+      "count": 1,
+      "share": 0.0172
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "risk",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "resilience",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "architech",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "dynamics",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "native",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "frontend",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
-      "term": "machines4u",
+      "term": "php",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "laravel",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
+    },
+    {
+      "term": "machines4u",
+      "count": 1,
+      "share": 0.0172
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "groundworks",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "java",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "desktop",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "month",
       "count": 1,
-      "share": 0.0169
-    },
-    {
-      "term": "msp",
-      "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
-      "term": "operations",
+      "term": "msp",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "apps",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "m365",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "infrastructure",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "owner",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "payroll",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "evolve",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "specialist",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
+    },
+    {
+      "term": "technical",
+      "count": 1,
+      "share": 0.0172
+    },
+    {
+      "term": "writer",
+      "count": 1,
+      "share": 0.0172
+    },
+    {
+      "term": "machinery",
+      "count": 1,
+      "share": 0.0172
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "ecommerce",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     },
     {
       "term": "catalogue",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0172
     }
   ],
   "jobs": [
-    {
-      "job_id": "94366697",
-      "job_title": "IT Support & Systems Administrator",
-      "business_name": "ATCO Structures & Logistics Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$80,000 – $85,000 per year",
-      "area": "Luscombe, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94366697",
-      "advertiser_id": "2375912",
-      "posted_date": "2026-09-02T07:41:20Z",
-      "job_description": "<p><strong>Your Future with ATCO Structures &amp; Logistics</strong></p><p>Are you an IT support professional looking to broaden your experience beyond the help desk and build your career across systems, applications and IT administration?</p><p>ATCO Structures &amp; Logistics is a global leader in modular design, manufacturing and construction. Across Australia, we deliver workforce accommodation villages, permanent modular buildings, offices, schools, health facilities and major infrastructure projects across the mining, energy, government and commercial sectors.</p><p>Due to continued growth, we have created a new opportunity for an IT Support &amp; Systems Administrator to join our team based in Luscombe.</p><p>This is a varied, hands-on role providing Level 1 IT support across the business while giving you the opportunity to build your experience across Microsoft 365, SharePoint, business systems, hardware, security and broader IT administration.</p><p><strong>Why You’ll Love Working With Us</strong></p><ul><li><p>Newly created role with the opportunity to make it your own.</p></li><li><p>Grow beyond traditional help desk support into systems, applications and broader IT.</p></li><li><p>Employee Assistance Program (EAP) supporting you and your family.</p></li><li><p>Opportunity to participate in the ATCO Employee Share Purchase Plan.</p></li><li><p>Free onsite parking at our Luscombe office.</p></li><li><p>Join a supportive global organisation with genuine long-term career development opportunities.</p></li></ul><p><strong>What You’ll Be Doing</strong></p><p>Reporting to the Corporate Services Manager, you’ll provide day-to-day IT and systems support across the business, including:</p><ul><li><p>Provide friendly and responsive Level 1 IT support, troubleshooting hardware, software and user issues.</p></li><li><p>Set up new users, computers, mobile devices, software, system access and permissions.</p></li><li><p>Support Microsoft 365, Windows, SharePoint and key business systems including Oracle</p></li><li><p>Coordinate IT requirements for employee onboarding and offboarding and maintain IT asset and equipment records.</p></li><li><p>Assist with system security, backups, software licensing, telecommunications and technology lifecycle management.</p></li><li><p>Work with internal stakeholders and IT providers in Australia and Canada, while supporting system improvements, implementations and IT projects.</p></li></ul><p><strong>About You</strong></p><p>We’re looking for someone with approximately <strong>2–5 years’ experience</strong> in IT support, help desk or a similar technical support environment who is ready to broaden their skills.</p><p>You’ll ideally bring:</p><ul><li><p>Previous Level 1 help desk, desktop support or general IT support experience.</p></li><li><p>Good working knowledge of Microsoft 365, Windows applications and SharePoint.</p></li><li><p>Confidence troubleshooting everyday hardware, software, access and user issues.</p></li><li><p>Strong customer service and communication skills with a friendly and approachable manner.</p></li><li><p>The ability to remain calm, solve problems and effectively juggle multiple requests and priorities.</p></li><li><p>A relevant IT qualification and exposure to Oracle, ERP systems, ServiceNow, networking, cybersecurity &amp; cloud technologies will be highly regarded.</p></li></ul><p><strong>Ready to Join Us?</strong></p><p>If you enjoy solving problems, helping people and are looking to broaden your experience beyond traditional IT support into systems and applications, we’d love to hear from you.</p><p>Click <strong>Apply Now</strong> and submit your resume today.</p><p>You must have the right to live and work in Australia to be considered for this opportunity.</p><p>ATCO is an Equal Opportunity Employer and encourages applications from Aboriginal and Torres Strait Islander peoples, women and people from diverse backgrounds. We are committed to creating an inclusive workplace where everyone is treated with fairness, dignity and respect.</p>",
-      "keywords": [
-        "it",
-        "support",
-        "systems",
-        "administrator"
-      ]
-    },
-    {
-      "job_id": "94349820",
-      "job_title": "Software Engineer (PHP)",
-      "business_name": "Nexigen Digital",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94349820",
-      "advertiser_id": "25685289",
-      "posted_date": "2026-09-02T00:03:36Z",
-      "job_description": "<div><p><strong>About Nexigen Digital</strong></p><p><br>We are Australia’s largest privately-owned group of online service providers, which includes brands such as VentraIP, Synergy Wholesale and Intaserve.</p><p>Every day our all-Australian team delivers exceptional service and outstanding support to our 200,000+ customers who choose us for their domain names, website hosting and digital marketing.</p><p><br></p><p>Over the past fifteen years, we have been constant game-changers, industry innovators, award winners, and community leaders - and now is your chance to join our team.</p><p><br></p></div><br><div><p><br></p><h2><strong>The Position</strong></h2><p><br></p><p>As a Software Engineer at Nexigen Digital, you will work with a close, agile team to deliver new projects and continuous improvements to our internal and customer facing systems. We're looking for someone who is passionate, proactive, goal oriented and posses excellent problem solving skills.</p><p>We know first hand that brilliant software engineers come from a variety of backgrounds and experiences, in fact, some of our developers started out on our own customer service help desk. We pride ourselves on maintaining a team culture that provides provides opportunities through collaboration, knowledge sharing and continuous learning and development, and as such are able to provide opportunities to a range of developers with different skillsets and experience.</p><p>An average day may include any or all of the following tasks:</p><ul><li>Building secure, reliable and scalable code that can be used across our platforms</li><li>Working with the latest PHP web technologies such as Laravel 12 and PHP 8.4</li><li>Maintaining and improving our core billing and CRM systems, domain registrar platforms and our new projects in the pipeline, with opportunities to work across projects and teams</li><li>Work with our product managers and fellow software engineers to scope, build, test and deploy new features and fixes across our projects and products</li><li>Solving complex integration scenarios with external providers and suppliers</li><li>Learning something new</li></ul><h2><strong>The right person (is it you?)</strong></h2><ul><li>Has three or more years' experience in PHP development (we'll take personal &amp; self taught experience into consideration as well)</li><li>Has a strong understanding of PHP and common web application design patterns, such as MVC</li><li>Has experience using PHP frameworks such as Laravel, Symfony, and Phalcon</li><li>Knows their way around a command line and has an understanding of Linux environments</li><li>Has a good understanding of relational databases using MySQL/MariaDB and is familiar with designing database schemas</li><li>Has previously worked with external API providers and integrated them into existing projects</li><li>Knows their way around git and git hosting platforms such as GitHub, with a strong understanding of version control systems</li><li>Is able to work collaboratively within a team environment and follow established standard processes</li><li>Can follow and maintain PER Coding Style guidelines</li><li>Maintains a great attention to detail and able to throughly test their own work to ensure a high quality hand over</li><li>Doesn't practice \"ego driven development\"</li></ul><h2><strong>Handy things to have (or are able to learn)</strong></h2><ul><li>Experience with using HTML5, CSS3, Bootstrap, SASS/SCSS, JavaScript, jQuery, and Tailwind</li><li>Experience with the React.js framework</li><li>Have an understanding regarding implementation of good UI/UX in web development</li><li>Familiar with semantic versioning and changelogs</li><li>Knowledge of the Domain Name and Web Hosting (cPanel, WHM, Plesk, etc.) industry is valuable</li><li>Experience and know how to work with Perl and Python languages</li><li>Experience with Agile Methodology</li></ul><p><br><br><br></p><h2><strong>The Benefits of Working With the Nexigen Digital Team</strong></h2><p><br>Aside from being awarded “Employer of Choice” in the Australian Business Awards, we are often referred to as the Google of south-east Melbourne thanks to our unique facilities and team culture, and a top-down mandate to take care of the people who take care of our customers.</p><p>Some of the office perks include:</p><ul><li>A weekly selection of delicious meals prepared in our on-site kitchen for breakfast and lunch.</li><li>A fully-stocked snack bar featuring an assortment of chips, chocolates, nuts, protein bars and fresh fruit.</li><li>A drink fridge loaded with an assortment of soft drinks, juices and water.</li><li>A fully equipped private gym with weekly on-site personal training sessions.</li><li>A team wellness centre with a sound-proof gaming stadium featuring an 85” 4K TV, racing car simulator, pinball machine, arcade machine, and air hockey table.</li><li>An on-site salon where our resident barber and stylist provide free haircuts on a regular basis.</li></ul><p>We actively encourage training and upskilling for personal development and will fund courses that have a beneficial impact on the business.</p><p>Please note that due to strict security requirements the successful applicant will be required to complete a National Police Check as a condition of employment.</p><p><br></p></div><br><br><p>PI<a href=\"tel:286842544\">286842544</a></p>",
-      "keywords": [
-        "software",
-        "engineer",
-        "php"
-      ]
-    },
-    {
-      "job_id": "94348286",
-      "job_title": "Senior Software Developer",
-      "business_name": "Shred-X",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "",
-      "area": "Yatala, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94348286",
-      "advertiser_id": "21275137",
-      "posted_date": "2026-09-01T22:35:14Z",
-      "job_description": "<p>We are looking for an experienced and commercially minded Senior Software Developer to take ownership of developing, improving and maintaining software solutions that support Shred-X and Med-X.</p><p>This role will be based out of our Yatala Branch, with some occasional travel between sites required.</p><p>Embedded within the IT team, this is a hands-on role focused on software development, system performance, integration, automation and delivering practical technology solutions that improve operational efficiency, customer experience and business performance.</p><p>You will work closely with teams across the business to understand problems, develop solutions and ensure our systems remain reliable, secure, scalable and fit for purposes.</p><p><strong>What you'll do</strong></p><ul> <li>Design, develop and maintain software solutions across Shred-X and Med-X.</li> <li>Develop high-quality, efficient and maintainable code using the Microsoft technology stack.</li> <li>Work primarily with: <ul> <li>C#</li> <li>.NET</li> <li>SQL / SQL Server</li> <li>Visual Studio</li> <li>JavaScript</li> <li>HTML5</li> </ul> </li> <li>Participate in the full software delivery lifecycle, including planning, development, testing, deployment and ongoing improvement.</li> <li>Participate in agile ceremonies including planning, stand-ups, reviews and retrospectives.</li> <li>Analyse application performance, system usage and data to identify opportunities for improvement.</li> <li>Improve system speed, reliability, responsiveness and overall user experience.</li> <li>Consume and integrate APIs and SDKs to extend system functionality.</li> <li>Identify opportunities to automate repetitive processes and reduce manual effort.</li> <li>Develop solutions that improve data accuracy, reporting and operational efficiency.</li> <li>Investigate and resolve software and system issues.</li> <li>Maintain high standards of code quality, consistency and documentation.</li> <li>Create and maintain technical documentation, knowledge base articles and training materials.</li> <li>Work closely with IT and business teams to identify problems and develop practical solutions.</li> <li>Coordinate with external vendors, suppliers and technology providers where required.</li> <li>Contribute to broader IT projects and initiatives.</li> <li>Provide support and technical guidance to other members of the IT team where required.</li> </ul><p><strong>What we're looking for</strong></p><p><strong>Essential</strong></p><p>Applicants should meet at least two of the following criteria:</p><ul> <li>Proven professional experience in software development.</li> <li>Strong experience with C#, .NET, SQL and Visual Studio.</li> <li>Experience designing, developing and maintaining modern business applications.</li> <li>Strong understanding of software development methodologies and modern development practices.</li> <li>Experience working with REST APIs, SDKs and system integrations.</li> <li>Demonstrated ability to analyse and improve system performance.</li> <li>Strong analytical and problem-solving skills.</li> <li>Excellent attention to detail.</li> <li>Strong written and verbal communication skills.</li> <li>The ability to work independently, take ownership and manage competing priorities.</li> <li>A commercially minded approach to software development.</li> <li>The ability to understand business requirements and translate them into practical technology solutions.</li> <li>A collaborative, adaptable and solutions-focused approach.</li> <li>Relevant tertiary qualifications in Computer Science, Software Development, Information Technology or a related discipline, or equivalent industry experience.</li> </ul><p><strong>Desirable</strong></p><p>Experience with any of the following would be advantageous:</p><ul> <li>JavaScript / modern JavaScript frameworks</li> <li>HTML5 / CSS</li> <li>REST APIs and third-party integrations</li> <li>Azure / Microsoft cloud technologies</li> <li>Power BI and business intelligence</li> <li>Git and version control</li> <li>CI/CD and automated deployment</li> <li>Application performance monitoring and optimisation</li> <li>Microsoft 365 / Power Platform</li> <li>AI and automation technologies</li> <li>Agile software development</li> </ul><p>You don't need experience with every technology listed. We are looking for someone with strong core software development skills who is curious, and is comfortable learning new technologies and applying them to real business problems.</p><p><strong>Your Initial Projects</strong></p><p>We will initially focus on projects that can deliver measurable business value, including:</p><ul> <li>Improving the performance and reliability of core business applications.</li> <li>Developing new features and functionality for Shred-X and Med-X systems.</li> <li>Integrating internal systems with third-party platforms through APIs and SDKs.</li> <li>Automating manual business processes and workflows.</li> <li>Improving data quality and system reporting.</li> <li>Identifying and resolving system bottlenecks and performance issues.</li> <li>Improving the usability and experience of business applications.</li> </ul><p>These projects may later expand into broader system architecture, automation, AI-enabled solutions, data analytics and strategic technology initiatives.</p><p><strong>What You'll Gain</strong></p><ul> <li>Ownership of software solutions that are actively used across the business.</li> <li>The opportunity to solve real operational and commercial problems through technology.</li> <li>Exposure to a wide range of business functions, including Operations, Customer Service, Sales, Finance, Production and Compliance.</li> <li>Experience working across the full software development lifecycle.</li> <li>The opportunity to influence software architecture, development practices and technology decisions.</li> <li>Exposure to modern Microsoft technologies, APIs, automation and emerging AI capabilities.</li> <li>The opportunity to deliver projects with measurable operational and commercial outcomes.</li> <li>The opportunity to work collaboratively with an experienced IT and business team.</li> </ul><p><strong>Why Join Us?</strong></p><p>This is an opportunity to take ownership of technology that has a direct impact on how the business operates.</p><p>You will have the opportunity to solve meaningful problems, improve existing systems, build new capabilities and influence the future direction of our technology environment.</p><p>At Shred-X, our values are Safe, Smart, Sustainable and Service. We believe technology should support these values by helping our people work smarter, operate more efficiently and deliver better outcomes for our customers.</p><p>If you are a senior developer who enjoys solving problems, working closely with the business and seeing your software make a real difference, we would love to hear from you.</p><p>We are proud to be an equal opportunity employer and welcome applicants from diverse backgrounds, experiences and perspectives.</p>",
-      "keywords": [
-        "software",
-        "developer"
-      ]
-    },
     {
       "job_id": "94333179",
       "job_title": "AI Native Software Developer",
@@ -1116,6 +1079,26 @@
       ]
     },
     {
+      "job_id": "94017568",
+      "job_title": "Technical Writer – Machinery & Operations",
+      "business_name": "Stacked Farm",
+      "work_type": "Contract/Temp",
+      "job_type": "Technical Writing",
+      "pay_range": "",
+      "area": "Arundel, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94017568",
+      "advertiser_id": "39488667",
+      "posted_date": "2026-08-17T06:09:28Z",
+      "job_description": "<h2><strong>Help us make complex machinery simple to operate.</strong></h2><p><br></p><p>Stacked Farm designs, builds and operates highly automated indoor vertical farms, using proprietary technology to control the journey from seed to finished product.</p><p>Our next major farm in Melbourne takes that technology to another level. We’re looking for a Technical Writer to help make the machinery behind it simple to operate, maintain and troubleshoot.</p><p>In 2025, Stacked Farm was recognised by <strong>TIME and Statista, the Australian Financial Review, InnovationAus and the global FoodTech 500</strong> for our technology, innovation and sustainability.</p><h2><strong>The Opportunity</strong></h2><p>This is a <strong>six-month fixed term contract</strong> working alongside our Engineering, Operations, Projects, Compliance, P&amp;C, WH&amp;S and Training teams.</p><p>Your mission:</p><p>Capture what our teams know and turn it into documentation that helps people operate, maintain and troubleshoot our machinery with confidence.</p><p>You’ll create and improve Operation and Maintenance manuals, machinery guides, SOPs, troubleshooting material, preventative maintenance documentation and quick-reference guides.</p><p>You won’t be starting from scratch. We already have engineering drawings, technical information, existing documentation and experienced people who know our systems inside out. We need you to ask the right questions, bring structure to that knowledge and turn it into documentation people can actually use.</p><p>This is a hands-on role based primarily at our Arundel facility, with some flexibility for hybrid work where it meets operational requirements.</p><h2><strong>What You’ll Do</strong></h2><ul><li><p>Create and improve Operation and Maintenance manuals, machinery guides, SOPs and preventative maintenance documentation.</p></li><li><p>Spend time on the floor understanding how our machinery and production processes actually work.</p></li><li><p>Work collaborative with engineers, technicians and operators to capture their knowledge.</p></li><li><p>Turn complex technical information, drawings and specifications into clear, practical instructions.</p></li><li><p>Develop troubleshooting guides, quick-reference material, diagrams and flowcharts.</p></li><li><p>Review existing documentation, identify gaps and establish practical document-control and version-management standards.</p></li><li><p>Test documentation with the people who use it and improve it based on feedback.</p></li><li><p>Work closely with our compliance team to support training, onboarding and knowledge transfer.</p></li></ul><h2><strong>About You</strong></h2><p>You don’t need to know our machinery on day one. We care more about your ability to learn quickly, ask smart questions and turn complicated information into documentation that is clear, accurate and easy to follow.</p><p>You’ll ideally need:</p><ul><li><p>Experience writing technical manuals, SOPs, procedures, training material or operational documentation.</p></li><li><p>Excellent writing, editing and proofreading skills.</p></li><li><p>A knack for simplifying complex or incomplete information.</p></li><li><p>Confidence working with engineers, technicians, operators and other subject-matter experts.</p></li><li><p>Excellent attention to detail, organisation and the ability to manage your own workload.</p></li><li><p>Experience with document control, templates or version management.</p></li></ul><p>Experience interpreting engineering drawings, specifications or schematics would be useful. Experience in machinery, manufacturing, automation, engineering, food production or another technical environment would also be valuable.</p><p><strong>Don’t tick every box? Apply anyway.</strong><br>We’re not looking for a perfect CV. If you’re a strong technical writer, documentation specialist, engineer, operations professional or come from an adjacent technical field and think you could do this job well, we’d still love to hear from you.</p><h2><strong>Why Stacked Farm?</strong></h2><ul><li><p><strong>Work on genuinely interesting technology.</strong> Our teams design and build proprietary automation and machinery for a completely different way of growing food.</p></li><li><p><strong>See your work in action.</strong> You’ll work directly with the machinery and the people operating it.</p></li><li><p><strong>Own something meaningful.</strong> Farm teams will use what you create every day.</p></li><li><p><strong>Help us scale.</strong> The documentation standards you build will support Melbourne and future Stacked Farm facilities.</p></li><li><p><strong>Take on a defined six-month mission.</strong> Come in, get under the hood, build something valuable and leave a lasting impact.</p></li></ul><h2><strong>Apply Now</strong></h2><p>If you enjoy figuring out how things work and making them easier for other people to understand, we’d love to hear from you.</p><p>Send us your CV and, if you have them, examples of technical documentation you’ve produced. Shortlisted candidates will complete a practical writing exercise.</p>",
+      "keywords": [
+        "technical",
+        "writer",
+        "machinery",
+        "operations"
+      ]
+    },
+    {
       "job_id": "94015050",
       "job_title": "Senior Product Manager - Industry & Equipment",
       "business_name": "carsales",
@@ -1543,6 +1526,24 @@
         "business",
         "development",
         "specialist"
+      ]
+    },
+    {
+      "job_id": "93720490",
+      "job_title": "Senior Applications Analyst",
+      "business_name": "Queensland Airports Limited",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "",
+      "area": "Bilinga, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93720490",
+      "advertiser_id": "24200181",
+      "posted_date": "2026-08-03T05:38:29Z",
+      "job_description": "<p>Queensland Airports Limited (QAL) is seeking an experienced Senior Applications Analyst to join our Technology team. This is a great career opportunity to play a key role in supporting, enhancing and optimising the business applications that help connect our people, operations and airport communities.</p>\n\n<p>In this role, you will provide application support, analysis and continuous improvement across QAL’s enterprise application environment. Working closely with internal stakeholders, vendors and the broader Technology team, you will help ensure our systems are reliable, secure, fit for purpose and aligned to business needs.</p>\n\n<p>&nbsp;</p>\n\n<p>Aryan joined the Technology team in 2025 as a Support Analyst and has since moved into a Cyber Security Analyst position. Aryan shares his unique experience working in the QAL team:</p>\n\n<p>&nbsp;</p>\n\n<p><i>“I joined QAL because of its strong emphasis on professionalism and teamwork. What I value most is the collaborative culture, where team members actively share knowledge and support one another’s growth.</i>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><i>QAL provides me with a supportive and motivating environment, and I am proud to be part of the organisation.”</i>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><b>How will you make an impact?</b></p>\n\n<p>Reporting to the Applications Manager, you will be responsible for supporting and improving QAL’s business applications, with a focus on delivering practical technology solutions that improve user experience, streamline processes and support operational performance.</p>\n\n<p>The ideal candidate will be a proactive and customer-focused applications professional with strong analytical skills, sound technical capability and the ability to translate business requirements into effective system outcomes. You will be confident working across multiple applications, managing competing priorities and building trusted relationships with stakeholders across the business.</p>\n\n<p>&nbsp;</p>\n\n<p><b>Key deliverables/responsibilities </b></p>\n\n<p>In this role, you will support the effective delivery, administration and improvement of QAL’s application landscape. Your key responsibilities will include but are not limited to:</p>\n\n<ul>\n\t<li>Providing advanced application support, analysis and troubleshooting across QAL’s business systems.</li>\n\t<li>Working with stakeholders to understand business requirements, identify improvement opportunities and deliver fit-for-purpose application solutions.</li>\n\t<li>Supporting system configuration, testing, upgrades, enhancements and release activities.</li>\n\t<li>Contributing to application governance, documentation, user guides, process mapping and knowledge sharing.</li>\n\t<li>Partnering with vendors and internal teams to resolve issues, manage changes and support continuous improvement initiatives.</li>\n\t<li>Supporting data quality, reporting, integration and automation opportunities across enterprise applications.</li>\n</ul>\n\n<p><b>How we support you?</b></p>\n\n<p>At Queensland Airports Limited (QAL), we believe work should support life, not compete with it. Through our&nbsp;<i>Living Well</i>&nbsp;approach, we offer flexible working options for all roles, wellbeing initiatives and a supportive culture so our people can thrive both professionally and personally.</p>\n\n<p>As we continue to grow and transform, we encourage flexible ways of working and open conversations about how work fits alongside life. We also invest in our people through learning, mentoring and career pathways across our four airports.</p>\n\n<p>&nbsp;</p>\n\n<p><b>What we’ve built together</b></p>\n\n<p>At QAL, our people connect communities. We own and operate Gold Coast, Townsville, Mount Isa and Longreach airports, linking regional Queensland and northern New South Wales with the rest of Australia and the world.</p>\n\n<p>More than 8 million passengers travel through our airports each year, supported by teams working together to create safe, welcoming and efficient experiences. Our vision is to be the first-choice gateway for our regions, creating valuable connections and inspiring a sustainable future.</p>\n\n<p>We’re committed to an inclusive and psychologically safe workplace where people feel valued, supported and encouraged to be themselves. We welcome applications from people of all backgrounds and experiences, including Aboriginal and Torres Strait Islander peoples, and encourage you to apply even if you don’t meet every requirement.</p>\n\n<p>QAL is a WORK180 Endorsed Employer, independently recognised for supporting long‑term careers, flexibility, wellbeing and equal opportunity. Learn more about working at QAL here.</p>\n\n<p>The successful candidate will be required to adhere to QAL’s Drug and Alcohol Management Plan (DAMP), which includes pre-employment Drug and Alcohol Testing and have the ability to obtain an Aviation Security Identification Card (ASIC), which requires the completion of a Police Check.</p>\n\n<p>Please obtain the Position Description by clicking&nbsp;HERE, or if you are on Seek, by copying the following location into your browser to access the Position Description through our careers site:&nbsp;https://qal.elmotalent.com.au/careers/QALcareers/jobs</p>",
+      "keywords": [
+        "applications",
+        "analyst"
       ]
     },
     {
