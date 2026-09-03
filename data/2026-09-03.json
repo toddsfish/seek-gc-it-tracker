@@ -1,465 +1,443 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-03",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-04T08:01:42.031662+10:00",
-  "total_jobs": 58,
+  "scraped_at": "2026-09-03T08:09:59.098859+10:00",
+  "total_jobs": 59,
   "keywords": [
     {
       "term": "analyst",
-      "count": 11,
-      "share": 0.1897
+      "count": 10,
+      "share": 0.1695
+    },
+    {
+      "term": "developer",
+      "count": 10,
+      "share": 0.1695
     },
     {
       "term": "it",
       "count": 10,
-      "share": 0.1724
-    },
-    {
-      "term": "developer",
-      "count": 9,
-      "share": 0.1552
+      "share": 0.1695
     },
     {
       "term": "support",
       "count": 9,
-      "share": 0.1552
+      "share": 0.1525
     },
     {
-      "term": "engineer",
+      "term": "software",
       "count": 8,
-      "share": 0.1379
+      "share": 0.1356
     },
     {
       "term": "manager",
       "count": 8,
-      "share": 0.1379
+      "share": 0.1356
     },
     {
-      "term": "software",
+      "term": "engineer",
       "count": 7,
-      "share": 0.1207
+      "share": 0.1186
     },
     {
       "term": "service",
       "count": 7,
-      "share": 0.1207
+      "share": 0.1186
     },
     {
       "term": "business",
+      "count": 6,
+      "share": 0.1017
+    },
+    {
+      "term": "ai",
       "count": 5,
-      "share": 0.0862
+      "share": 0.0847
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.0862
-    },
-    {
-      "term": "systems",
-      "count": 4,
-      "share": 0.069
-    },
-    {
-      "term": "ai",
-      "count": 4,
-      "share": 0.069
+      "share": 0.0847
     },
     {
       "term": "administrator",
       "count": 4,
-      "share": 0.069
+      "share": 0.0678
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.069
+      "share": 0.0678
     },
     {
       "term": "project",
       "count": 3,
-      "share": 0.0517
+      "share": 0.0508
     },
     {
-      "term": "data",
+      "term": "systems",
       "count": 3,
-      "share": 0.0517
+      "share": 0.0508
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0517
+      "share": 0.0508
     },
     {
       "term": "product",
       "count": 3,
-      "share": 0.0517
+      "share": 0.0508
     },
     {
       "term": "delivery",
       "count": 3,
-      "share": 0.0517
+      "share": 0.0508
+    },
+    {
+      "term": "cyber",
+      "count": 3,
+      "share": 0.0508
+    },
+    {
+      "term": "development",
+      "count": 3,
+      "share": 0.0508
     },
     {
       "term": "accounting",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0339
     },
     {
       "term": "solutions",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0339
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0339
     },
     {
       "term": "power",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0339
+    },
+    {
+      "term": "data",
+      "count": 2,
+      "share": 0.0339
+    },
+    {
+      "term": "php",
+      "count": 2,
+      "share": 0.0339
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0339
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0339
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0339
     },
     {
-      "term": "cyber",
+      "term": "security",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0339
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "leader",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "jetstar",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "retail",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "risk",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "resilience",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "architech",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "dynamics",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "devops",
-      "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "php",
-      "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "native",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "frontend",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
+    },
+    {
+      "term": "laravel",
+      "count": 1,
+      "share": 0.0169
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "groundworks",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "java",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "desktop",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "month",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "operations",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "apps",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "m365",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "infrastructure",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "owner",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "payroll",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "security",
-      "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "development",
-      "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "evolve",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
+    },
+    {
+      "term": "specialist",
+      "count": 1,
+      "share": 0.0169
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
+    },
+    {
+      "term": "course",
+      "count": 1,
+      "share": 0.0169
+    },
+    {
+      "term": "coach",
+      "count": 1,
+      "share": 0.0169
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "ecommerce",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     },
     {
       "term": "catalogue",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0169
     }
   ],
   "jobs": [
-    {
-      "job_id": "94401281",
-      "job_title": "Principal Data and Systems Analyst",
-      "business_name": "Department of Health - Queensland",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94401281",
-      "advertiser_id": "32285210",
-      "posted_date": "2026-09-03T11:46:45Z",
-      "job_description": "<div>\n \n <p>Join the Queensland Trauma Data Collection (QTDC) as a Principal Data and Systems Analyst, driving data solutions that support trauma intelligence, reporting, and clinical quality improvement.</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Principal Data and Systems Analyst </strong>to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Develop and execute test plans for business intelligence products</li>\n<li>Work in partnership with clinical business customers to understand business needs</li>\n<li>Analyse data sources and conduct gap analyses between user needs and data capabilities.</li>\n<li>Be a subject matter expert in the development of views, information layers and data models</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>Evidence of vaccination, or be able to be vaccinated against and remain vaccinated against - Measles, Mumps, Rubella, Varicella, Pertussis and Hepatitis B</li>\n<li>Tuberculosis screening, to identify if the tuberculosis vaccination may be required</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Temporary full-time</li>\n<li>Base salary ranging from $5,531.60 - $5,936.50 per fortnight</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Queensland Trauma Data Collection is a statewide, clinician-led service hosted by Gold Coast Hospital and Health Service. QTDC collects, integrates and analyses trauma and injury data from health services across Queensland to support clinical governance, quality improvement, service planning, performance monitoring and system-level decision-making.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Wednesday, 16 September 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC691690</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
-      "keywords": [
-        "data",
-        "systems",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "94392153",
-      "job_title": "Junior DevOps Engineer",
-      "business_name": "HealthCare Logic",
-      "work_type": "Full time",
-      "job_type": "Database Development & Administration",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94392153",
-      "advertiser_id": "38680260",
-      "posted_date": "2026-09-03T06:18:42Z",
-      "job_description": "<p><strong>About HealthCare Logic:</strong> </p><p>HealthCare Logic is a high growth emerging leader in hospital intelligence. We provide purpose-built intelligence platforms, experiences and services to help hospital systems achieve peak performance. We empower Public and Private, individual hospitals to networks, regions, State and National, to Departments of Health.</p><p></p><p>At HealthCare Logic we are empowering executive, clinical, and operational teams to make smarter, faster decisions that improve patient outcomes. Our flagship platform, SystemView, is embedded in and transforming over 170+ hospitals across Australia, Ireland, and the UK.</p><p>You’ll join a borderless team of data engineers, scientists, clinicians, product experts, and customer success pros - curious minds driven by impact. Together, we’re creating a globally connected network of high-performing hospitals.</p><p></p><p>We work at the intersection of AI, real-time data, and clinical strategy - and we’re looking for senior talent who thrives in complexity, leads with purpose, and wants their work to directly shape the future of healthcare.</p><p></p><p>If you're passionate about data with purpose, we want to hear from you.</p><p><strong></strong></p><p><strong>About the Role:</strong></p><p>We are seeking a Junior DevOps Engineer to support operations across our deployment and infrastructure workflows. This will be a hands-on role to ensure our CI/CD pipelines are robust and reliable. This role will support both new and existing installations with a focus on performance, scalability, and uptime.&nbsp;&nbsp;</p><p><strong></strong></p><p><strong>Key Responsibilities:&nbsp;</strong></p><ul>\n<li>Support the DevOps team to ensure deployment pipelines are working correctly and available.&nbsp;</li>\n<li>Design, build and maintain multi-stage CI/CD Pipelines (gated builds, targeted tests, code-quality &amp; security scans, safe release automation).&nbsp;</li>\n<li>Automate repeatable deployment tasks and workflows.&nbsp;</li>\n<li>Deploy and manage product installations within HCL ecosystems, as well as deployed within customer ecosystems.&nbsp;</li>\n<li>Contribute to our monitoring and alerting infrastructure.&nbsp;</li>\n<li>Contribute to our product ecosystem and infrastructure, especially within our infrastructure-as-code resources.&nbsp;</li>\n<li>Support and work with the global HCL teams to ensure standards are aligned and followed.&nbsp;</li>\n<li>Participate in On-Call schedule to provide timely support for our production client environments.&nbsp;</li>\n<li>Leverage approved AI tools to accelerate diagnostics, documentation, and repetitive tasks.&nbsp;</li>\n<li>Collaborate in reviews of work with others as appropriate.&nbsp;</li>\n</ul><p><strong>Skills and Experience</strong></p><ul>\n<li>Azure DevOps and Azure Resources</li>\n<li>YAML, SQL, Scripting Languages (e.g. PowerShell / Shell / Python)</li>\n<li>Excellent analytical and problem-solving skills</li>\n<li>Strong communication and interpersonal skills</li>\n<li>Highly desirable if you have familiarity with hospital source systems such as EMR or PAS (for example Cerner, Oracle Health, InterSystems, iPM or ieMR)</li>\n</ul><p><strong>Why Join Us:&nbsp;</strong></p><ul>\n<li>Competitive base salary&nbsp;and benefits&nbsp;&nbsp;</li>\n<li>Opportunity for career growth within a rapidly&nbsp;scaling&nbsp;leader in hospital intelligence&nbsp;</li>\n<li>Collaborative and supportive team culture&nbsp;</li>\n<li>Flexible work environment&nbsp;</li>\n</ul><p><strong>How to Apply&nbsp;&nbsp;</strong></p><p>This is a remote role, but will require some in office hours from time to time as required to meet the requirements of the role, this will usually be on the Gold Coast or Brisbane location. It suits someone who thrives on ownership and autonomy and enjoys working across teams (and sometimes time zones).</p><p></p><p>To apply please&nbsp;submit&nbsp;your current CV and cover letter. Please note applicants must have a legal right to work in&nbsp;Australia and answer&nbsp;all of&nbsp;the prerequisite screening questions.&nbsp;&nbsp;</p><p></p><p>At HealthCare Logic we celebrate diversity and strive to create an inclusive environment where all individuals feel valued and empowered. We believe diverse perspectives create stronger teams. We encourage applications from candidates of all backgrounds, including those from underrepresented groups, to join our dynamic team.&nbsp;&nbsp;</p><p></p><p> For any role related questions, please contact <a href=\"mailto:careers@healthcarelogic.com\">careers@healthcarelogic.com</a>.</p>",
-      "keywords": [
-        "devops",
-        "engineer"
-      ]
-    },
     {
       "job_id": "94366697",
       "job_title": "IT Support & Systems Administrator",
       "business_name": "ATCO Structures & Logistics Pty Ltd",
       "work_type": "Full time",
       "job_type": "Help Desk & IT Support",
-      "pay_range": "Great growth opportunity",
+      "pay_range": "$80,000 – $85,000 per year",
       "area": "Luscombe, Gold Coast QLD",
       "region": "Gold Coast",
       "url": "https://www.seek.com.au/job/94366697",
@@ -1504,6 +1482,67 @@
         "it",
         "support",
         "engineer"
+      ]
+    },
+    {
+      "job_id": "93752512",
+      "job_title": "Senior PHP Laravel AI Developer",
+      "business_name": "SustainRecruit",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "140000k base + Super",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93752512",
+      "advertiser_id": "34426961",
+      "posted_date": "2026-08-04T07:18:17Z",
+      "job_description": "Senior Full-Stack Software Engineer PHP | Laravel | React | PostgreSQL<br> Build software that powers thousands of businesses, supports millions of users, and manages decades of mission-critical operational and financial data.<br> We're looking for a Senior Full-Stack Software Engineer who thrives on solving complex problems end-to-end—from understanding business needs through to design, development, deployment, and production support.<br> This is a hands-on role where you'll work across a large-scale SaaS platform, tackling everything from payment processing and large datasets to high-performance applications and complex integrations.<br> <br><strong>What You'll Do</strong> <ul> <li>Design, build, test and maintain full-stack features using PHP, Laravel, React and PostgreSQL.</li> <li>Solve complex technical and business challenges across a mature SaaS platform.</li> <li>Develop modern React/TypeScript applications while supporting existing JavaScript systems.</li> <li>Write and optimise advanced SQL for large-scale, high-performance databases.</li> <li>Work on payment processing, billing and business-critical systems.</li> <li>Investigate and resolve production issues across applications, databases and Linux environments.</li> <li>Review code, mentor developers and drive engineering best practices.</li> <li>Take ownership of projects from concept through to production.</li> </ul> <strong>What You'll Bring</strong> <ul> <li>5+ years of commercial full-stack development experience.</li> <li>Strong PHP (Laravel or Symfony) expertise.</li> <li>Advanced PostgreSQL and SQL skills.</li> <li>Experience with React, TypeScript, JavaScript, HTML and CSS.</li> <li>Strong knowledge of object-oriented design, software architecture and clean code principles.</li> <li>Experience with Linux and production troubleshooting.</li> <li>Ability to work independently, solve complex problems and deliver high-quality software.</li> </ul> <strong>Bonus Points</strong> <ul> <li>Experience with large-scale SaaS platforms.</li> <li>Payment or financial systems experience.</li> <li>Government integrations or high-volume transactional systems.</li> <li>AWS or cloud infrastructure experience.</li> <li>Experience modernising large, established applications.</li> </ul> <strong>Why Join?</strong> <ul> <li>Work on software used by millions every day.</li> <li>Solve technically challenging, meaningful problems at scale.</li> <li>Own projects from idea to production.</li> <li>Influence architecture and product direction.</li> <li>Join a collaborative engineering team where your work has real impact.</li> </ul> <strong>Please send your CV via seek and a Sustain Recruit member will get back to you right away...</strong>",
+      "keywords": [
+        "php",
+        "laravel",
+        "ai",
+        "developer"
+      ]
+    },
+    {
+      "job_id": "93743617",
+      "job_title": "Cyber Security and/or Software Development Course Coach",
+      "business_name": "Equinim College of Technology",
+      "work_type": "Part time",
+      "job_type": "Security",
+      "pay_range": "$45 per hour",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93743617",
+      "advertiser_id": "62661973",
+      "posted_date": "2026-08-04T03:17:36Z",
+      "job_description": "<p>Are you a passionate &amp; caring person looking to develop your training skills in a positive environment?</p><p>We are looking for enthusiastic and people-focused individuals that love to share their knowledge and skills with others. Candidates will have great communication skills with a diverse scope of people and willingness to learn and serve students towards a greater understanding.&nbsp;This role is remote and is suited for people all across Australia.</p><p><br></p><p><strong>Application Information:</strong></p><p>To apply for this role, you must:</p><ol><li><p>Answer the Video Submission Question here - <strong>https://vocalvideo.com/c/eqc-institute-trainer</strong></p></li><li><p>Provide a resume highlighting your experience, knowledge, and skills relevant to this role. (Submit this via Seek)</p></li></ol><p><br></p><p><br><strong>Job Role:</strong><br>Provide education and training to students via <strong>Online Course Coaching.</strong></p><p>Being a Course Coach involves:</p><ul><li><p>Tutoring and teaching adult learners. This is done by having consistent communication with students via Zoom calls, phone or written communication.</p></li><li><p>General support and connection with students about course questions and study requirements.</p></li><li><p>Basic scheduling and time management skills are required for a successful candidate.</p></li><li><p>Working with a passionate team to ensure student success.</p></li></ul><p><br></p><p>We are currently hiring course coaches with Cyber Security skills and experience or Full Stack Web Development skills. If you meet either one of these skills please apply below!<br><br></p><p><strong>Skills Needed Cyber:</strong></p><ul><li><p>Experience with Cyber Security Systems and Tools (Basic Cloudflare, AWS, Wireshark, Virtual Machines)</p></li><li><p>Strong understanding of Cyber Security foundations</p></li><li><p>Industry experience is preferred</p></li></ul><p><br></p><p><strong>Skills Needed Web Development:</strong></p><ul><li><p>Experience in Full Stack Web Development</p></li><li><p>Proficiency with at least 2 programming languages (HTML, CSS, JavaScript, Python)</p></li><li><p>Experience with Github and SQL or similar database programing</p></li><li><p>Experience with Blockchain and AI / ML is preferred</p></li></ul><p><br></p><p><strong>Universal Training Skills:</strong></p><ul><li><p>Strong English Communication Skills</p></li><li><p>Computer with appropriate microphone and camera settings to host a zoom call</p></li><li><p>Flexible availability to communicate with students</p></li><li><p>Valid TAE (training and assessment) qualification - if you do not have this, be willing to obtain the qualification.<br>&nbsp;</p></li></ul><p><strong>Salary</strong>:</p><p>This is a part-time role. The part-time rate for a Course Coach for this particular role is $45 per hour. Successful candidates will be doing 10 hours per week.</p><p>This job is dependent on student availability and self-autonomy for scheduling. Hours are averaged across the week, with hours being dependent on student availability.</p><p><br></p><p><strong>About Us</strong></p><p>We are a Vocational Education and Training Organisation who's team has been operating for over 10 years in this space. We make sure to always focus on delivering quality materials, practical training and always aim to find new ways that can raise the bar across different industries. What sets us apart is our commitment to and incredible student experience whilst studying.</p><p><br></p><p>We work together; listening and challenging to create a supportive work environment whereby everyone works together and is equal.<br></p><p>We are hiring ASAP so if you think this role suits you, we would love to get in touch with you.<br></p><p>Work with us, to work together, and as a team let's inspire the next round of industry leaders!</p>",
+      "keywords": [
+        "cyber",
+        "security",
+        "software",
+        "development",
+        "course",
+        "coach"
+      ]
+    },
+    {
+      "job_id": "93738490",
+      "job_title": "Business Development Specialist",
+      "business_name": "ALS Limited",
+      "work_type": "Full time",
+      "job_type": "Sales - Pre & Post",
+      "pay_range": "",
+      "area": "Yatala, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93738490",
+      "advertiser_id": "16555420",
+      "posted_date": "2026-08-04T01:02:16Z",
+      "job_description": "<p>At ALS, we encourage you to dream big.<br>When you join us, you'll be part of a global team harnessing the power of scientific testing and data-driven insights to build a healthier future.<br> <br> <strong>Working at ALS</strong><br>The ALS team is a diverse and dedicated community united by our passion to make a difference in the world.<br>Our values are important to us, and shape how we work, how we treat each other and how we recognise excellence.<br>At ALS, you'll be supported to develop new skills and reach your full potential. We invest in our people with programs and opportunities that help you build a diverse career with us.<br>We want everyone to have a safe, flexible and rewarding career that makes a positive impact on our people, the planet and our communities.<br> </p><p>As we expand our Environmental Risk Services business, we're looking for a commercially minded Business Development Specialist to drive growth across Australia and New Zealand<br> <br><strong>The Role</strong><br> <br>Reporting to the General Manager - Octfolio, you'll drive growth across both the Octfolio platform and ALS Environmental Risk Services throughout Australia and New Zealand. Working with government bodies, utilities, councils, and asset owners, you'll identify opportunities, build strategic partnerships, and help clients transition to portfolio-based environmental risk management.<br> <br>This is your chance to combine business development with digital innovation-shaping the future of environmental risk management alongside technical, operational, and commercial teams.<br><br><strong>The day to day</strong><br> <br>In this role, you'll:<br> </p><ul><li>Drive business growth and adoption of the Octfolio platform across the ALS Environmental Risk Services portfolio</li><li>Identify and secure new opportunities with clients in government, utilities, consultants, and major asset owners</li><li>Build trusted relationships with new and existing clients across Australia and New Zealand</li><li>Develop proposals, tenders, capability statements, and commercial opportunities</li><li>Position both ALS environmental services and the Octfolio platform to meet client needs</li><li>Partner with operational and technical teams to ensure successful project delivery</li><li>Monitor market trends, competitor activity, and emerging business opportunities</li><li>Support marketing initiatives, client presentations, and industry events</li><li>Maintain an active sales pipeline and report on business development performance</li><li>Travel nationally as required to meet clients and support business growth</li></ul><p><strong>The essentials</strong><br> <br>We're looking for someone who brings:<br> <br> </p><ul><li>Demonstrated experience in business development, account management, or strategic sales</li><li>Strong relationship-building and stakeholder management skills</li><li>Commercial acumen with a results-driven mindset</li><li>Excellent communication, presentation, and negotiation skills</li><li>Ability to manage multiple priorities simultaneously</li><li>Genuine interest in digital platforms and technology solutions</li><li>Experience in environmental services, SaaS, government, or infrastructure is highly regarded</li><li>Current Australian driver's licence and willingness to travel nationally</li></ul><p><strong>Everyone Matters</strong><br> ALS is proud to be an equal opportunity employer and is committed to fostering an inclusive work environment where the strengths and perspectives of each employee are both recognised and valued.<br>ALS also welcomes applications from people with all levels of ability. Reasonable adjustments to support candidates throughout the recruitment process are available upon request.<br> <br> <strong>Eligibility</strong><br> To be eligible to work at ALS you must be a Citizen or Permanent Resident of the country you are applying for, or either hold or be able to obtain, a valid working visa.<br> <br><strong>How to apply</strong><br>Please apply on-line and provide a cover letter and CV that best demonstrate your motivation and ability to meet the requirements of this role.<br> </p>",
+      "keywords": [
+        "business",
+        "development",
+        "specialist"
       ]
     },
     {
