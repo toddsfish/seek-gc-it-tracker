@@ -1,13 +1,13 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-04",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-05T07:57:25.586980+10:00",
+  "scraped_at": "2026-09-04T08:01:42.031662+10:00",
   "total_jobs": 58,
   "keywords": [
     {
       "term": "analyst",
-      "count": 12,
-      "share": 0.2069
+      "count": 11,
+      "share": 0.1897
     },
     {
       "term": "it",
@@ -16,6 +16,11 @@
     },
     {
       "term": "developer",
+      "count": 9,
+      "share": 0.1552
+    },
+    {
+      "term": "support",
       "count": 9,
       "share": 0.1552
     },
@@ -30,16 +35,6 @@
       "share": 0.1379
     },
     {
-      "term": "support",
-      "count": 8,
-      "share": 0.1379
-    },
-    {
-      "term": "business",
-      "count": 7,
-      "share": 0.1207
-    },
-    {
       "term": "software",
       "count": 7,
       "share": 0.1207
@@ -50,7 +45,7 @@
       "share": 0.1207
     },
     {
-      "term": "systems",
+      "term": "business",
       "count": 5,
       "share": 0.0862
     },
@@ -58,6 +53,11 @@
       "term": "officer",
       "count": 5,
       "share": 0.0862
+    },
+    {
+      "term": "systems",
+      "count": 4,
+      "share": 0.069
     },
     {
       "term": "ai",
@@ -85,9 +85,24 @@
       "share": 0.0517
     },
     {
+      "term": "technician",
+      "count": 3,
+      "share": 0.0517
+    },
+    {
+      "term": "product",
+      "count": 3,
+      "share": 0.0517
+    },
+    {
       "term": "delivery",
       "count": 3,
       "share": 0.0517
+    },
+    {
+      "term": "accounting",
+      "count": 2,
+      "share": 0.0345
     },
     {
       "term": "solutions",
@@ -111,16 +126,6 @@
     },
     {
       "term": "engineering",
-      "count": 2,
-      "share": 0.0345
-    },
-    {
-      "term": "technician",
-      "count": 2,
-      "share": 0.0345
-    },
-    {
-      "term": "product",
       "count": 2,
       "share": 0.0345
     },
@@ -150,17 +155,7 @@
       "share": 0.0172
     },
     {
-      "term": "accounting",
-      "count": 1,
-      "share": 0.0172
-    },
-    {
       "term": "expert",
-      "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "specialist",
       "count": 1,
       "share": 0.0172
     },
@@ -215,12 +210,12 @@
       "share": 0.0172
     },
     {
-      "term": "native",
+      "term": "php",
       "count": 1,
       "share": 0.0172
     },
     {
-      "term": "php",
+      "term": "native",
       "count": 1,
       "share": 0.0172
     },
@@ -270,11 +265,6 @@
       "share": 0.0172
     },
     {
-      "term": "ict",
-      "count": 1,
-      "share": 0.0172
-    },
-    {
       "term": "desktop",
       "count": 1,
       "share": 0.0172
@@ -285,7 +275,22 @@
       "share": 0.0172
     },
     {
+      "term": "msp",
+      "count": 1,
+      "share": 0.0172
+    },
+    {
+      "term": "ict",
+      "count": 1,
+      "share": 0.0172
+    },
+    {
       "term": "operations",
+      "count": 1,
+      "share": 0.0172
+    },
+    {
+      "term": "broadbeach",
       "count": 1,
       "share": 0.0172
     },
@@ -306,11 +311,6 @@
     },
     {
       "term": "goldcoast",
-      "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "broadbeach",
       "count": 1,
       "share": 0.0172
     },
@@ -336,6 +336,16 @@
     },
     {
       "term": "infrastructure",
+      "count": 1,
+      "share": 0.0172
+    },
+    {
+      "term": "owner",
+      "count": 1,
+      "share": 0.0172
+    },
+    {
+      "term": "payroll",
       "count": 1,
       "share": 0.0172
     },
@@ -406,63 +416,6 @@
     }
   ],
   "jobs": [
-    {
-      "job_id": "94434108",
-      "job_title": "ICT Support Officer",
-      "business_name": "Princess Polly E-Boutique",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Burleigh Heads, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94434108",
-      "advertiser_id": "25850161",
-      "posted_date": "2026-09-04T19:23:49Z",
-      "job_description": "<div><p>Princess Polly is the global fashion brand at the forefront of trend-driven, lower impact and accessible apparel. Established as an online force in the Australian retail scene in 2010, Princess Polly quickly became the clothing brand found in every influencer haul, viral TikTok, Instagram OOTD and celeb street looks. Now, one of the fastest-growing online women's fashion brands in the USA, Princess Polly has been delivering the best online shopping experience to customers worldwide for over 10 years. </p><p><br></p><p>As a part of A.K.A Brands; we are a global player with offices located in Los Angeles and Australia’s Gold Coast. With big plans ahead, we're always on the hunt for new talent to join our global team. </p></div><br><div><p>Are you passionate about tech, thrive in a fast-paced environment, and love solving problems on the go? Join Princess Polly as our ICT Support Officer, supporting our high-performing Head Office team and wider business.</p><p>You’ll be the go-to tech expert at Head Office, supporting end users, ensuring our systems are running smoothly and securely, and helping us keep our workplace tech at the cutting edge. Reporting to the Global IT Director, we’re looking for someone proactive, solutions-focused, and excited to work in an agile environment with innovative tools.</p><p><strong>What you'll dol; </strong></p><ul><li>Providing on-the-ground tech support for our HQ team and corporate functions.</li><li>Troubleshooting IT hardware including laptops, desktop stations, monitors, video conferencing equipment, and printers.</li><li>Supporting SaaS applications used across the business and liaising with third-party vendors to resolve system issues.</li><li>Monitoring cybersecurity risks and taking proactive action to mitigate them.</li><li>Managing the office network environment – routers, switches, Wi-Fi, and VPN.</li><li>Ensuring SOX-compliant user access provisioning and reporting.</li><li>Staying up to date with tech trends and bringing innovative support ideas to the table.</li></ul><p><strong>Skills and Experience we're looking for; </strong></p><ul><li>Strong experience in ICT support, ideally in a fast-paced corporate or HQ environment.</li><li>Confident troubleshooting both Windows and macOS systems.</li><li>Experience providing Level-2 support for a multi-vendor SaaS ecosystem, including direct liaison with third-party technical teams to drive issue resolution.</li><li>Experience supporting mobile devices (Android and iOS).</li><li>Solid knowledge of Microsoft 365 and Google Workspace.</li><li>Understanding of cybersecurity best practices.</li><li>Strong communication skills, able to explain technical concepts clearly and confidently.</li><li>A self-starter who works autonomously and follows through with proactive problem-solving and escalation.</li><li>A team player who thrives in a collaborative, high-energy office environment.</li></ul><p>We recognise that asking you to give 100% of yourself on a daily basis requires us to offer an amazing opportunity.</p><ul><li>Competitive salary package.</li><li>Flexible working arrangements.</li><li>Access to a best in class parental leave and family planning program.</li><li>Exceptional employee discount program.</li><li>A stunning newly renovated office in beautiful Burleigh Heads;</li><li>Work as part of a team of dedicated individuals focused on doing their best each day.</li><li>Staff social activities.</li><li>Monthly birthday celebrations.</li></ul><p>Aside from the amazing array of tangible benefits and perks, Princess Polly offers you the chance to make an impact on a fast growing, global business. You have the opportunity to pursue your passion and plan your own future as part of our team!</p><p><br></p><p>Princess Polly is an Equal Opportunity Employer (EOE) We're committed to a diverse and inclusive workplace and encourage applicants from all walks of life. Come join us, different makes us better. </p><p><br></p><p>What are you waiting for? Come experience something different and amazing in the online fashion space!</p><p><br></p><p>#PrincessPolly #PursueYourPassion #PrincessPollyCareers</p></div><br><br><p>PI<a href=\"tel:286896769\">286896769</a></p>",
-      "keywords": [
-        "ict",
-        "support",
-        "officer"
-      ]
-    },
-    {
-      "job_id": "94422780",
-      "job_title": "Business Analyst",
-      "business_name": "SEE Group",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "Work close to home on northern Gold Coast",
-      "area": "Helensvale, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94422780",
-      "advertiser_id": "23598234",
-      "posted_date": "2026-09-04T07:01:11Z",
-      "job_description": "<p><strong>The Opportunity</strong></p><p>We have an exciting opportunity for an experienced <strong>Business Analyst</strong> to join our Digital, Technology &amp; Innovation team and play a central role in delivering SEE Group's digital transformation program. You'll bridge the gap between business needs and technology solutions - engaging stakeholders across the business, capturing and analysing requirements, mapping current and future-state processes, and translating these into clear, well-documented specifications that guide the design and delivery of new systems and enhancements.</p><p>Working across a broad application landscape spanning enterprise systems, Microsoft cloud platforms, and bespoke applications, you'll help ensure the solutions we deliver are fit for purpose, adopted successfully, and deliver measurable value to the business.</p><p><strong>Responsibilities</strong></p><ul><li><p>Engage stakeholders through workshops, interviews and observation to gather, analyse and prioritise business, functional and non-functional requirements</p></li><li><p>Document current-state (as-is) processes and design improved future-state (to-be) processes, identifying gaps and opportunities to streamline operations</p></li><li><p>Translate business requirements into clear functional specifications, user stories and acceptance criteria</p></li><li><p>Build strong working relationships with stakeholders at all levels, acting as a trusted link between the business and technical teams</p></li><li><p>Develop test scenarios and coordinate user acceptance testing (UAT), tracking and resolving defects and feedback prior to release</p></li><li><p>Support the delivery team throughout implementation and help the business adopt change through user documentation, training materials and process guides</p></li></ul><p><strong>Essential Skills and Attributes</strong></p><ul><li><p>Previous experience as a Business Analyst or similar role, ideally within construction, engineering, mining or a related industry</p></li><li><p>Demonstrated experience in requirements elicitation, analysis and management, with the ability to produce clear specifications, user stories and acceptance criteria</p></li><li><p>Skilled in process mapping and documentation using techniques such as BPMN or process flow diagrams</p></li><li><p>Comfortable using data to support analysis and decision-making; familiarity with PowerBI or the Microsoft data stack is a plus</p></li><li><p>Sound understanding of enterprise business applications and the Microsoft cloud ecosystem (Microsoft 365, Power Platform, Azure)</p></li><li><p>Experience working within Agile and/or Waterfall delivery methodologies, with hands-on use of tools such as Azure DevOps (Boards)</p></li><li><p>Excellent written and verbal communication skills, with the ability to explain technical concepts in plain language</p></li><li><p>Tertiary qualification in Business, IT or Information Systems, or equivalent practical experience (desirable); BA certification such as BABOK/IIBA or Agile/Scrum (desirable)</p></li></ul><p><strong>The SEE Way</strong></p><p>SEE Group is a family-built company with over 35 years of experience in delivering excellence across civil construction, mining, and infrastructure. At SEE Group, we don't just build projects—we build careers.</p><ul><li><p>Be part of a down-to-earth, supportive team that values diversity and inclusion</p></li><li><p>Benefit from career growth and tailored development opportunities</p></li><li><p>Enjoy personalised rewards and recognition for your hard work</p></li><li><p>Work on impactful projects that shape communities</p></li><li><p>Collaborate with passionate people who bring a \"boots &amp; all\" attitude to everything they do</p></li></ul><p><strong>What's Next?</strong></p><p>If you would like to join our team and hold full, unlimited working rights in Australia, we encourage you to submit your CV by clicking apply now.</p><p>As an Equal Opportunity Employer, Women and People of Aboriginal and Torres Strait Island heritage are strongly encouraged to apply.</p><p>Interested to learn more about SEE Group? Visit our website at www.seegroup.com.au</p>",
-      "keywords": [
-        "business",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "94418616",
-      "job_title": "Business Systems & IT Specialist",
-      "business_name": "Private Advertiser",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "",
-      "area": "Mermaid Beach, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94418616",
-      "advertiser_id": "",
-      "posted_date": "2026-09-04T05:18:02Z",
-      "job_description": "<p><strong>About the role</strong></p><p>The Business Systems &amp; IT Specialist supports and maintains the technology that our company runs on. The role covers end user IT support, identity and device management, CRM configuration, reporting, workflow automation and internal development. The successful candidate will resolve day to day technical issues and deliver improvements to our core business systems. This is a broad, hands-on role suited to a technical generalist who is comfortable moving between support, systems configuration and development work, and who can prioritise independently across a varied workload.</p><p><strong>Key responsibilities</strong></p><ul><li><p>Manage the helpdesk queue and resolve technical issues for approximately 100 staff</p></li><li><p>Provide first and second level support across hardware, software, connectivity and access issues</p></li><li><p>Escalate and track unresolved issues through to closure</p></li><li><p>Deliver staff onboarding and offboarding, including device provisioning, account creation and access removal</p></li><li><p>Maintain the device fleet and asset register, including procurement, replacement cycles and disposal</p></li><li><p>Support the telephony and communications platforms used across the business</p></li><li><p>Administer user accounts, groups and access across Google Workspace, JumpCloud and the wider SaaS environment</p></li><li><p>Configure and maintain our CRM, including fields, layouts, workflows and module structure</p></li><li><p>Build and maintain reports and dashboards in our CRM's Analytics</p></li><li><p>Write SQL queries to support reporting requests from Sales, Operations and Marketing</p></li></ul><p><strong>About you</strong></p><ul><li><p>Four to six years experience in a technical role with demonstrated ownership of systems or infrastructure</p></li><li><p>Proficiency in SQL, with the ability to translate business questions into reporting outputs</p></li><li><p>Scripting or development experience in Python, JavaScript, Deluge or a comparable language</p></li><li><p>Demonstrated experience building workflow automations in a platform such as n8n, Make, Zapier or Zoho Flow</p></li><li><p>Experience working with APIs, webhooks and JSON to connect systems</p></li><li><p>Experience working alongside a development team, including translating business requirements into technical specifications and testing delivered work</p></li><li><p>Administration experience with Google Workspace or Microsoft 365</p></li><li><p>Experience with an identity or device management platform such as JumpCloud, Okta, Intune or Jamf</p></li><li><p>Demonstrated experience configuring a CRM platform, ideally Zoho, Salesforce or HubSpot</p></li><li><p>Experience supporting end users in a helpdesk or service desk environment</p></li></ul><p><br></p>",
-      "keywords": [
-        "business",
-        "systems",
-        "it",
-        "specialist"
-      ]
-    },
     {
       "job_id": "94401281",
       "job_title": "Principal Data and Systems Analyst",
@@ -672,6 +625,26 @@
       ]
     },
     {
+      "job_id": "94323158",
+      "job_title": "Product Owner - Accounting & Payroll",
+      "business_name": "Odoo",
+      "work_type": "Full time",
+      "job_type": "Product Management & Development",
+      "pay_range": "$80,000 – $95,000 per year + super",
+      "area": "Varsity Lakes, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94323158",
+      "advertiser_id": "47971668",
+      "posted_date": "2026-09-01T01:33:22Z",
+      "job_description": "<h2><strong>About the job</strong></h2><p>As a Product Owner for Accounting &amp; Payroll Localisation, you will own the functional scope of Odoo’s Australian accounting and payroll localisations. Working closely with regulatory bodies, local stakeholders, and R&amp;D teams, you will ensure Odoo remains fully compliant with Australian legislation while fitting seamlessly into Odoo’s global product framework.</p><p>The role combines regulatory ownership, functional product management, writing functional specifications and documentation, testing solutions, and close collaboration with development teams, with a strong focus on compliance, accuracy, and real-world accounting and payroll use cases</p><strong>Why You'll Love This Job</strong><ul><li><p>Contribute to Australian accounting and payroll localisations end to end</p></li><li><p>Work at the intersection of regulation, and technology</p></li><li><p>See direct impact of your work on thousands of Australian businesses</p></li><li><p>Development model: Open with external community</p></li><li><p>Tackle meaningful, complex problems in a constantly evolving regulatory environment</p></li><li><p>Work and collaborate with Odoo Partners and customers to gather feedback and communicate new releases</p></li></ul><p><br></p><strong>Responsibilities</strong><ul><li><p>Odoo accounting &amp; payroll localisation ownership: own the functional scope of Odoo accounting and payroll localisations, including reporting, tax, and payroll obligations. Ensure full compliance with local legislation and official requirements (e.g. ATO, Clearing Houses)</p></li><li><p>Regulatory liaison &amp; compliance monitoring: stay in active contact with regulatory bodies and industry sources, monitor legislative and technical changes (STP, BAS, Super, etc.), and translate these into compliant Odoo localisation requirements</p></li><li><p>Local market &amp; business analysis: analyse the local business environment, customer needs, and real-life accounting/payroll use cases to identify localisation gaps, prioritise improvements, and ensure alignment with Odoo’s global framework</p></li><li><p>Localisation roadmap &amp; development pipeline management: define and maintain a structured localisation backlog. Manage priorities, dependencies, and delivery timelines based on compliance urgency, customer impact, and product strategy</p></li><li><p>Cross-team collaboration with R&amp;D: act as the functional interface between local stakeholders and development teams. Create clear functional specifications, clarify requirements, and ensure developments meet Odoo standards and localisation constraints</p></li><li><p>Testing, validation &amp; release readiness: test localisation features end-to-end (including reporting and electronic submissions), validate compliance with authorities, coordinate acceptance testing, and ensure production-ready releases</p></li></ul><p><br></p><h2><strong>About you</strong></h2><p><strong>At Odoo, we value your skills more than your resume.</strong><br>Here's what we expect from you:</p><strong>Must have</strong><ul><li><p>Professional proficiency in spoken and written English</p></li><li><p>Minimum of 2 years' experience</p></li><li><p>Strong understanding of Australian accounting and payroll localisation, including statutory reporting, taxation, and payroll obligations (e.g. BAS, GST, STP, Superannuation).</p></li><li><p>Hands-on experience in accounting or payroll product development and/or ERP implementation, ideally in a localisation or compliance-driven context.</p></li><li><p>Ability to translate accounting and payroll requirements into ERP logic, including chart of accounts, journals, workflows, reporting, and integrations.</p></li><li><p>Strong regulatory and compliance mindset, with the ability to monitor legislative changes and assess their functional and technical impact on the product.</p></li><li><p>Creative and autonomous</p></li></ul><p><br></p><strong>Nice to have</strong><ul><li><p>Exposure to global ERP frameworks or multi-country localisation projects</p></li><li><p>Previous experience as a Product Owner</p></li><li><p>Experience working with R&amp;D or software development teams</p></li></ul><p><br></p>",
+      "keywords": [
+        "product",
+        "owner",
+        "accounting",
+        "payroll"
+      ]
+    },
+    {
       "job_id": "94320977",
       "job_title": "Network Engineer",
       "business_name": "Opus Recruitment Solutions",
@@ -687,6 +660,25 @@
       "keywords": [
         "network",
         "engineer"
+      ]
+    },
+    {
+      "job_id": "94314209",
+      "job_title": "ICT Support Officer",
+      "business_name": "Princess Polly",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Burleigh Heads, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94314209",
+      "advertiser_id": "27507146",
+      "posted_date": "2026-08-31T09:56:36Z",
+      "job_description": "<div>\n<div>\n<p>Princess Polly is the global fashion brand at the forefront of trend-driven, lower impact and accessible apparel. Established as an online force in the Australian retail scene in 2010, Princess Polly quickly became the clothing brand found in every influencer haul, viral TikTok, Instagram OOTD and celeb street looks. Now, one of the fastest-growing online women's fashion brands in the USA, Princess Polly has been delivering the best online shopping experience to customers worldwide for over 10 years. </p>\n<p>As a part of A.K.A Brands; we are a global player with offices located in Los Angeles and Australia’s Gold Coast. With big plans ahead, we're always on the hunt for new talent to join our global team. </p>\n</div>\n<div>\n<p>Are you passionate about tech, thrive in a fast-paced environment, and love solving problems on the go? Join Princess Polly as our ICT Support Officer, supporting our high-performing Head Office team and wider business.</p>\n<p>You’ll be the go-to tech expert at Head Office, supporting end users, ensuring our systems are running smoothly and securely, and helping us keep our workplace tech at the cutting edge. Reporting to the Global IT Director, we’re looking for someone proactive, solutions-focused, and excited to work in an agile environment with innovative tools.</p>\n<p><b><strong>What you'll dol; </strong></b></p>\n<ul>\n<li>Providing on-the-ground tech support for our HQ team and corporate functions.</li>\n<li>Troubleshooting IT hardware including laptops, desktop stations, monitors, video conferencing equipment, and printers.</li>\n<li>Supporting SaaS applications used across the business and liaising with third-party vendors to resolve system issues.</li>\n<li>Monitoring cybersecurity risks and taking proactive action to mitigate them.</li>\n<li>Managing the office network environment – routers, switches, Wi-Fi, and VPN.</li>\n<li>Ensuring SOX-compliant user access provisioning and reporting.</li>\n<li>Staying up to date with tech trends and bringing innovative support ideas to the table.</li>\n</ul>\n<p><b><strong>Skills and Experience we're looking for; </strong></b></p>\n<ul>\n<li>Strong experience in ICT support, ideally in a fast-paced corporate or HQ environment.</li>\n<li>Confident troubleshooting both Windows and macOS systems.</li>\n<li>Experience providing Level-2 support for a multi-vendor SaaS ecosystem, including direct liaison with third-party technical teams to drive issue resolution.</li>\n<li>Experience supporting mobile devices (Android and iOS).</li>\n<li>Solid knowledge of Microsoft 365 and Google Workspace.</li>\n<li>Understanding of cybersecurity best practices.</li>\n<li>Strong communication skills, able to explain technical concepts clearly and confidently.</li>\n<li>A self-starter who works autonomously and follows through with proactive problem-solving and escalation.</li>\n<li>A team player who thrives in a collaborative, high-energy office environment.</li>\n</ul>\n<p>We recognise that asking you to give 100% of yourself on a daily basis requires us to offer an amazing opportunity.</p>\n<ul>\n<li>Competitive salary package.</li>\n<li>Flexible working arrangements.</li>\n<li>Access to a best in class parental leave and family planning program.</li>\n<li>Exceptional employee discount program.</li>\n<li>A stunning newly renovated office in beautiful Burleigh Heads;</li>\n<li>Work as part of a team of dedicated individuals focused on doing their best each day.</li>\n<li>Staff social activities.</li>\n<li>Monthly birthday celebrations.</li>\n</ul>\n<p>Aside from the amazing array of tangible benefits and perks, Princess Polly offers you the chance to make an impact on a fast growing, global business. You have the opportunity to pursue your passion and plan your own future as part of our team!</p>\n<p>Princess Polly is an Equal Opportunity Employer (EOE) We're committed to a diverse and inclusive workplace and encourage applicants from all walks of life. Come join us, different makes us better. </p>\n<p>What are you waiting for? Come experience something different and amazing in the online fashion space!</p>\n<p>#PrincessPolly #PursueYourPassion #PrincessPollyCareers</p>\n</div>\n</div>",
+      "keywords": [
+        "ict",
+        "support",
+        "officer"
       ]
     },
     {
@@ -1473,6 +1465,26 @@
         "stack",
         "developer",
         "java"
+      ]
+    },
+    {
+      "job_id": "93780305",
+      "job_title": "Level 1 IT Support Technician (MSP)",
+      "business_name": "LEVIT8 PTY LTD",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "$50,000 – $65,000 per year",
+      "area": "Burleigh Waters, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93780305",
+      "advertiser_id": "34973099",
+      "posted_date": "2026-08-05T06:37:59Z",
+      "job_description": "<h2>About Levit8</h2><p>At Levit8, we're passionate about delivering exceptional IT support and customer service. We're a growing Managed Services Provider (MSP) that values teamwork, accountability, continuous learning, and building long-term relationships with our clients.</p><p>Our culture is built on:</p><h2>Continuous Growth</h2><p>We invest in our people through mentoring, training, industry certifications, and hands-on experience. We believe that when our team grows, our clients benefit.</p><h2>Transparency &amp; Trust</h2><p>Open communication and honesty form the foundation of both our internal culture and client relationships.</p><h2>Teamwork &amp; Respect</h2><p>Every team member brings unique skills and perspectives. We support one another, share knowledge freely, and celebrate success together.</p><p><br></p><hr><h2>The Opportunity</h2><p>We are looking for a motivated Level 1 IT Support Technician to join our Managed Services team.</p><p>This role is ideal for someone who enjoys helping people, has a passion for technology, and wants to build a long-term career in IT. You'll work alongside experienced engineers, supporting a diverse range of clients and technologies while developing your technical and customer service skills.</p><p>As the first point of contact for many support requests, you will play a key role in delivering an outstanding support experience and helping clients stay productive.</p><p><br></p><hr><h2>Key Responsibilities</h2><ul><li><p>Provide first-line technical support via phone, email and remote support tools.</p></li><li><p>Troubleshoot and resolve common hardware, software, Microsoft 365, networking and user issues.</p></li><li><p>Log, update and manage support tickets within the service desk platform.</p></li><li><p>Escalate complex issues to senior engineers when required.</p></li><li><p>Assist with user onboarding, account creation, permissions, and device deployments.</p></li><li><p>Follow documented procedures and best practices to ensure consistent service delivery.</p></li><li><p>Maintain accurate documentation of client environments and support activities.</p></li><li><p>Provide onsite support to clients when required using a company-supplied vehicle.</p></li><li><p>Contribute to a positive team culture through collaboration and knowledge sharing.</p></li></ul><p><br></p><hr><h2>About You</h2><p>We're looking for someone with a positive attitude, strong communication skills, and a genuine interest in technology.</p><p><br></p><h2>Ideally You'll Have</h2><ul><li><p>Previous experience in a customer service, help desk, or technical support role (desirable but not essential).</p></li><li><p>A basic understanding of Windows operating systems, Microsoft 365, PCs, laptops, printers and mobile devices.</p></li><li><p>Strong troubleshooting and problem-solving skills.</p></li><li><p>Excellent written and verbal communication.</p></li><li><p>A willingness to learn and take feedback on board.</p></li><li><p>Strong organisational and time management skills.</p></li><li><p>A current Australian driver's licence.</p></li></ul><p><br></p><h2>Bonus Points For</h2><ul><li><p>Experience working within an MSP environment.</p></li><li><p>Microsoft, CompTIA or other industry certifications.</p></li><li><p>Exposure to Microsoft 365, Intune, Azure AD/Entra ID or networking technologies.</p></li><li><p>HaloPSA and NinjaRMM Experience</p></li></ul><p><br></p><hr><h2>What We Offer</h2><ul><li><p>Competitive salary package.</p></li><li><p>Ongoing training, mentoring and career development.</p></li><li><p>Exposure to a wide range of technologies and industries.</p></li><li><p>A supportive team environment that encourages growth.</p></li><li><p>Company vehicle access for onsite client visits.</p></li><li><p>Opportunities to progress into Level 2 and Level 3 technical roles.</p></li><li><p>Modern tools, systems and processes designed to help you succeed.</p></li></ul><p><br></p><hr><h2>Apply Now</h2><p>If you're passionate about technology, enjoy helping people, and want to build your career with a growing MSP, we'd love to hear from you.</p><p>Submit your resume and a brief cover letter outlining your experience, career goals, and why you'd be a great fit for the Levit8 team.</p><p>Join Levit8 and help us deliver remarkable IT experiences for businesses across Australia.</p>",
+      "keywords": [
+        "it",
+        "support",
+        "technician",
+        "msp"
       ]
     },
     {
