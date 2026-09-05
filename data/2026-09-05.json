@@ -1,443 +1,411 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-05",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-06T07:48:27.393998+10:00",
-  "total_jobs": 57,
+  "scraped_at": "2026-09-05T07:57:25.586980+10:00",
+  "total_jobs": 58,
   "keywords": [
     {
       "term": "analyst",
       "count": 12,
-      "share": 0.2105
+      "share": 0.2069
     },
     {
       "term": "it",
       "count": 10,
-      "share": 0.1754
+      "share": 0.1724
     },
     {
       "term": "developer",
+      "count": 9,
+      "share": 0.1552
+    },
+    {
+      "term": "engineer",
       "count": 8,
-      "share": 0.1404
+      "share": 0.1379
     },
     {
       "term": "manager",
       "count": 8,
-      "share": 0.1404
+      "share": 0.1379
     },
     {
       "term": "support",
       "count": 8,
-      "share": 0.1404
+      "share": 0.1379
     },
     {
       "term": "business",
       "count": 7,
-      "share": 0.1228
-    },
-    {
-      "term": "engineer",
-      "count": 7,
-      "share": 0.1228
+      "share": 0.1207
     },
     {
       "term": "software",
       "count": 7,
-      "share": 0.1228
+      "share": 0.1207
     },
     {
       "term": "service",
       "count": 7,
-      "share": 0.1228
+      "share": 0.1207
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.0877
+      "share": 0.0862
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.0877
+      "share": 0.0862
     },
     {
       "term": "ai",
       "count": 4,
-      "share": 0.0702
+      "share": 0.069
     },
     {
       "term": "administrator",
       "count": 4,
-      "share": 0.0702
+      "share": 0.069
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.0702
+      "share": 0.069
     },
     {
       "term": "project",
       "count": 3,
-      "share": 0.0526
+      "share": 0.0517
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0526
-    },
-    {
-      "term": "technician",
-      "count": 3,
-      "share": 0.0526
+      "share": 0.0517
     },
     {
       "term": "delivery",
       "count": 3,
-      "share": 0.0526
+      "share": 0.0517
     },
     {
       "term": "solutions",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0345
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0345
     },
     {
       "term": "power",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0345
+    },
+    {
+      "term": "stack",
+      "count": 2,
+      "share": 0.0345
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0345
+    },
+    {
+      "term": "technician",
+      "count": 2,
+      "share": 0.0345
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0345
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0345
     },
     {
       "term": "cyber",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0345
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "leader",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "accounting",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "expert",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "specialist",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "jetstar",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "retail",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "risk",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "resilience",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "architech",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "dynamics",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0175
-    },
-    {
-      "term": "php",
-      "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "native",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
-      "term": "stack",
+      "term": "php",
       "count": 1,
-      "share": 0.0175
-    },
-    {
-      "term": "backend",
-      "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "frontend",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
+    },
+    {
+      "term": "backend",
+      "count": 1,
+      "share": 0.0172
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "groundworks",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
-      "term": "msp",
+      "term": "java",
       "count": 1,
-      "share": 0.0175
-    },
-    {
-      "term": "experience",
-      "count": 1,
-      "share": 0.0175
-    },
-    {
-      "term": "required",
-      "count": 1,
-      "share": 0.0175
-    },
-    {
-      "term": "desktop",
-      "count": 1,
-      "share": 0.0175
-    },
-    {
-      "term": "month",
-      "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
+    },
+    {
+      "term": "desktop",
+      "count": 1,
+      "share": 0.0172
+    },
+    {
+      "term": "month",
+      "count": 1,
+      "share": 0.0172
     },
     {
       "term": "operations",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0175
-    },
-    {
-      "term": "infrastructure",
-      "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "apps",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "m365",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
+    },
+    {
+      "term": "infrastructure",
+      "count": 1,
+      "share": 0.0172
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "evolve",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "ecommerce",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "catalogue",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     }
   ],
   "jobs": [
-    {
-      "job_id": "94434940",
-      "job_title": "Level 2 IT Support Technician (MSP Experience Required)",
-      "business_name": "Rubiks iT",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$70,000 – $75,000 per year",
-      "area": "Miami, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94434940",
-      "advertiser_id": "41114630",
-      "posted_date": "2026-09-04T22:31:51Z",
-      "job_description": "<p>At Rubiks IT, we believe small organisations should be empowered by technology so they can operate confidently and focus on their business. Our mission is to enable businesses to achieve more by delivering reliable, proactive IT support that allows them to focus on what they do best.</p><p>Rubiks IT is a growing MSP based in Miami QLD, supporting small to medium businesses.</p><p>We are seeking a reliable, technically capable Helpdesk Technician with <strong>previous MSP experience</strong> who can confidently support clients across Microsoft 365, networking, and endpoint environments.</p><p>This is not an entry-level role.</p><p><strong>What You’ll Be Responsible For</strong></p><ul><li><p>Managing helpdesk tickets to SLA</p></li><li><p>Supporting Microsoft 365 (Exchange, SharePoint, Entra ID, Intune)</p></li><li><p>Endpoint management (Windows, iOS, Android)</p></li><li><p>Network troubleshooting (switches, WAPs, firewalls)</p></li><li><p>Onsite client support when required</p></li><li><p>Documentation and proactive monitoring</p></li></ul><p><strong>What We’re Looking For</strong></p><ul><li><p>Minimum 2 years experience in an MSP environment</p></li><li><p>Strong Microsoft 365 troubleshooting skills</p></li><li><p>Experience with Intune / MDM</p></li><li><p>Solid understanding of TCP/IP and networking fundamentals</p></li><li><p>Excellent communication skills</p></li><li><p>Full unrestricted rights to work in Australia</p></li><li><p>Valid Australian driver’s licence</p></li></ul><p><strong>Salary</strong></p><p>$65,000 – $75,000 depending on experience.</p><p>Higher considered for proven MSP background.</p>",
-      "keywords": [
-        "it",
-        "support",
-        "technician",
-        "msp",
-        "experience",
-        "required"
-      ]
-    },
     {
       "job_id": "94434108",
       "job_title": "ICT Support Officer",
@@ -1486,6 +1454,44 @@
       "keywords": [
         "project",
         "leader"
+      ]
+    },
+    {
+      "job_id": "93804599",
+      "job_title": "Full Stack Developer (Java)",
+      "business_name": "Randstad Digital",
+      "work_type": "Full time",
+      "job_type": "Engineering - Software",
+      "pay_range": "$140k - $160k p.a. + plus super",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93804599",
+      "advertiser_id": "26537413",
+      "posted_date": "2026-08-06T05:08:45Z",
+      "job_description": "<p><strong>Fullstack Engineer</strong></p><p>Are you an experienced Fullstack Java Engineer looking to drive major transformation programs within a fast-paced, agile environment? Join a an industry leading organisation in a team delivering high-impact solutions and turning strategic visions into reality.</p><p><strong>What You Will Do:</strong></p><ul><li><p>Plan and deliver key projects alongside strategic technology partners.</p></li><li><p>Contribute directly to major digital transformation programs within the team.</p></li><li><p>Support and maintain core Technology systems.</p></li><li><p>Collaborate closely with business teams to translate strategic visions into technical realities.</p></li><li><p>Work dynamically within a fast-paced, agile delivery environment.</p></li></ul><p><strong>What You Need to Apply for This Role:</strong></p><ul><li><p>Strong analytical capabilities with proven experience solving complex technical problems.</p></li><li><p>Hands-on experience developing with Spring Boot, RESTful APIs in Java, J2EE, and Struts.</p></li><li><p>Proficiency using modern CI/CD tools, specifically Bitbucket, Jenkins, and Bamboo.</p></li><li><p>Deep understanding of RESTful API design principles and industry standards.</p></li><li><p>Proven skill in implementing secure APIs using OAuth and JWT authentication mechanisms.</p></li></ul><p><strong>Interested? Apply Now!</strong></p><p>If you are a Fullstack Engineer with experience in Java, Spring Boot, and RESTful API design, we want to hear from you. Click \"Apply Now\".</p><p>Alternatively, please reach out to Will for more information - <a href=\"mailto:will.denford@randstaddigital.com.au\">will.denford@randstaddigital.com.au</a></p><p>You must have unlimited working rights to be considered.</p><p>At Randstad, we are passionate about providing equal employment opportunities and embracing diversity to the benefit of all. We actively encourage applications from any background.</p><p> </p><p></p>",
+      "keywords": [
+        "stack",
+        "developer",
+        "java"
+      ]
+    },
+    {
+      "job_id": "94345873",
+      "job_title": "IT Support Engineer",
+      "business_name": "Gilmour Space Technologies",
+      "work_type": "Full time",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "",
+      "area": "Yatala, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94345873",
+      "advertiser_id": "43912085",
+      "posted_date": "2026-08-05T05:43:57Z",
+      "job_description": "<div><div> <p><strong>All Orbits, All Planets - Join us on our journey</strong></p>\n<p>Gilmour Space is a leading Australian space company, developing launch vehicles, satellite platforms, advanced propulsion technologies; and launching from our licensed orbital spaceport in Bowen, North Queensland.</p>\n<p>Are you a creative and experienced 'IT Support Officer' looking for a dynamic role where your skills will make a real impact? Have you ever dreamt of working with rockets right here in Australia? Well now’s your chance! Gilmour Space is seeking a talented individual to join our innovative team to send rockets to Space! Conveniently located in <strong>Bowen, North QLD</strong> near some of the best beaches in the world and sunsets, you will be based at Australia's first orbital Launch Site.&nbsp; So, what are you waiting for? Join us and be a part of a forward-thinking team dedicated to pushing the boundaries of space exploration and let’s send Australia to Space together!</p>\n<p><strong>How you will contribute to our mission in getting Australia to space:</strong></p>\n<p>The below is designed to give you an idea of the role you will play. There will be many more exciting and innovative things to do:</p>\n<ul>\n <li>Field incoming help requests from end users and provide exceptional support experience to internal staff (Level1/2 user and systems support) both on-premises and remotely.</li>\n <li>Troubleshoot HW/SW related issues in timely manners.</li>\n <li>Install and configure various HW/SW (desktops, servers, switches, routers, Aps, printers etc.).</li>\n <li>Provision HW/SW, licenses and keep asset inventory up to date.</li>\n <li>Apply diagnostic utilities to aid in troubleshooting.</li>\n <li>Develop, test, and deliver new systems and solutions.</li>\n <li>Performing preventative maintenance, including checking and cleaning of workstations, printers, and peripherals.</li>\n <li>Participate and contribute to the development and ongoing maintenance of the ICT support documentation.</li>\n <li>Assist with on/off-boarding of employees.</li>\n <li>Assist with purchasing HW/SW where required.</li>\n <li>Assist with research on latest technology and solutions.</li>\n <li>Intra-state travel (for up to 2 weeks) may be required to support manufacturing site operations.</li>\n <li>\n<b></b>Other duties as requested by Management.<b></b>\n</li>\n</ul>\n<div>\n <p><strong>Minimum Qualifications, Skills and Experience:</strong></p>\n <ul>\n <li>Bachelor in IT related field, system engineering or system administration and /or a Minimum of four (4) years hands-on IT support role experience.</li>\n <li>Demonstrated awareness of Data Security.</li>\n <li>Evidence of outstanding results and desire to become a star on our journey to Orbit.</li>\n <li>Experience of provisioning desktop/laptop/mobile hardware/software plus basic user &amp; security group Active Directory administration as well as security apps and VPN. Previous experience of hosted desktop applications and Office 365 environment is highly beneficial.</li>\n <li>Demonstrable knowledge and troubleshooting experience of TCP/IP networks and Microsoft based operating systems, enterprise applications (e.g. Exchange, Teams) and desktop applications (e.g. Word, Excel, Access, Visio) ideally in both an on-premise and cloud environment.</li>\n <li>Enthusiasm for learning new technologies and a strive for continuous improvement.</li>\n <li>Excellent verbal and written communication skills with a strong support-focused mindset.</li>\n <li>Excellent organisational skills with the ability to prioritise work.</li>\n <li>Experience in working in a remote team&nbsp;</li>\n </ul>\n <p><strong><b>Desired Qualifications, Skills and Experience:</b></strong></p>\n <ul>\n <li>Bachelor in IT related field, system engineering or system administration and /or a Minimum of four (4) years hands-on IT support role experience.</li>\n <li>Understanding of LAN environments &amp; VoIP.</li>\n <li>Knowledge in SharePoint and other online information systems.</li>\n <li>Experience with mobile platforms (iOS/Android) and MDM/MAM tools.</li>\n <li>Familiar with ITIL framework and best practices.</li>\n <li>NV1 Security Clearance eligible preferred.</li>\n </ul>\n <p><strong>How to Apply:</strong></p>\n <p>Applicants must be an Australian Citizen/Permanent Resident or have an appropriate Australian work visa or work entitlements.</p>\n <p>If you are a proactive team player with a passion to get Australia to space and a desire to succeed, please apply now by clicking the apply button and including your resume and cover letter or head to our&nbsp;<strong>careers page: www.gspace.com/career</strong></p>\n <p>Gilmour Space Technologies is proud to be an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all team members. We strongly encourage applications from Aboriginal and Torres Strait Islander peoples for all positions.</p>\n <p>No Recruitment Agencies Please<strong><b></b></strong></p>\n</div> </div></div>",
+      "keywords": [
+        "it",
+        "support",
+        "engineer"
       ]
     },
     {
