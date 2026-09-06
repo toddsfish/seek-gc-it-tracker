@@ -1,398 +1,418 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-06",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-07T07:51:12.600010+10:00",
-  "total_jobs": 52,
+  "scraped_at": "2026-09-06T07:48:27.393998+10:00",
+  "total_jobs": 57,
   "keywords": [
     {
       "term": "analyst",
-      "count": 10,
-      "share": 0.1923
+      "count": 12,
+      "share": 0.2105
     },
     {
       "term": "it",
       "count": 10,
-      "share": 0.1923
+      "share": 0.1754
     },
     {
       "term": "developer",
       "count": 8,
-      "share": 0.1538
+      "share": 0.1404
     },
     {
       "term": "manager",
       "count": 8,
-      "share": 0.1538
+      "share": 0.1404
+    },
+    {
+      "term": "support",
+      "count": 8,
+      "share": 0.1404
+    },
+    {
+      "term": "business",
+      "count": 7,
+      "share": 0.1228
     },
     {
       "term": "engineer",
       "count": 7,
-      "share": 0.1346
+      "share": 0.1228
     },
     {
       "term": "software",
       "count": 7,
-      "share": 0.1346
-    },
-    {
-      "term": "support",
-      "count": 7,
-      "share": 0.1346
+      "share": 0.1228
     },
     {
       "term": "service",
       "count": 7,
-      "share": 0.1346
-    },
-    {
-      "term": "business",
-      "count": 5,
-      "share": 0.0962
+      "share": 0.1228
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.0962
+      "share": 0.0877
+    },
+    {
+      "term": "officer",
+      "count": 5,
+      "share": 0.0877
     },
     {
       "term": "ai",
       "count": 4,
-      "share": 0.0769
+      "share": 0.0702
     },
     {
       "term": "administrator",
       "count": 4,
-      "share": 0.0769
-    },
-    {
-      "term": "officer",
-      "count": 4,
-      "share": 0.0769
+      "share": 0.0702
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.0769
+      "share": 0.0702
+    },
+    {
+      "term": "project",
+      "count": 3,
+      "share": 0.0526
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0577
+      "share": 0.0526
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0577
+      "share": 0.0526
+    },
+    {
+      "term": "delivery",
+      "count": 3,
+      "share": 0.0526
     },
     {
       "term": "solutions",
       "count": 2,
-      "share": 0.0385
+      "share": 0.0351
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.0385
+      "share": 0.0351
     },
     {
       "term": "power",
       "count": 2,
-      "share": 0.0385
+      "share": 0.0351
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0385
+      "share": 0.0351
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0385
-    },
-    {
-      "term": "project",
-      "count": 2,
-      "share": 0.0385
-    },
-    {
-      "term": "delivery",
-      "count": 2,
-      "share": 0.0385
+      "share": 0.0351
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.0385
+      "share": 0.0351
     },
     {
       "term": "cyber",
       "count": 2,
-      "share": 0.0385
+      "share": 0.0351
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
+    },
+    {
+      "term": "leader",
+      "count": 1,
+      "share": 0.0175
+    },
+    {
+      "term": "accounting",
+      "count": 1,
+      "share": 0.0175
+    },
+    {
+      "term": "expert",
+      "count": 1,
+      "share": 0.0175
     },
     {
       "term": "specialist",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "jetstar",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "retail",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "risk",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "resilience",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "architech",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "dynamics",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "php",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "native",
       "count": 1,
-      "share": 0.0192
-    },
-    {
-      "term": "frontend",
-      "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
+    },
+    {
+      "term": "frontend",
+      "count": 1,
+      "share": 0.0175
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "groundworks",
       "count": 1,
-      "share": 0.0192
-    },
-    {
-      "term": "desktop",
-      "count": 1,
-      "share": 0.0192
-    },
-    {
-      "term": "month",
-      "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "experience",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "required",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
+    },
+    {
+      "term": "desktop",
+      "count": 1,
+      "share": 0.0175
+    },
+    {
+      "term": "month",
+      "count": 1,
+      "share": 0.0175
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "operations",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
-      "term": "sharepoint",
+      "term": "application",
       "count": 1,
-      "share": 0.0192
-    },
-    {
-      "term": "apps",
-      "count": 1,
-      "share": 0.0192
-    },
-    {
-      "term": "m365",
-      "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "infrastructure",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
+    },
+    {
+      "term": "sharepoint",
+      "count": 1,
+      "share": 0.0175
+    },
+    {
+      "term": "apps",
+      "count": 1,
+      "share": 0.0175
+    },
+    {
+      "term": "m365",
+      "count": 1,
+      "share": 0.0175
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "evolve",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "ecommerce",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     },
     {
       "term": "catalogue",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0175
     }
   ],
   "jobs": [
@@ -818,6 +838,25 @@
       ]
     },
     {
+      "job_id": "94202095",
+      "job_title": "Application Support Officer",
+      "business_name": "City of Gold Coast",
+      "work_type": "Full time",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "$$111,401-$117,924 p/a plus superannuation",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94202095",
+      "advertiser_id": "16652581",
+      "posted_date": "2026-08-25T23:07:53Z",
+      "job_description": "<ul> <li><strong>Full Time (2x positions available | 9-day fortnight | 36 hours per week </strong></li> <li> <strong>Salary: </strong>From $111,401 - $117,924 per annum plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG2068/assets/32182697\">Application Support Officer</a> </li> </ul><p> </p><p><strong>About the role </strong></p><p>It is an exciting time to be joining the Chief Technology Office, where you can be a key driver in enacting meaningful change. We are seeking 2 experienced and enthusiastic Application Support Officers to join our team.</p><p>In this role, you will play a vital part in implementing and maintaining the City’s employee experience platforms and services including HR, Payroll, Performance Management, Learning and Development, Talent Acquisition and Onboarding. You will ensure they are reliable, secure, continually evolving to meet the needs of our employees and take full advantage of available features.</p><p>Working under the Enterprise Platform Entity Lead (Employee Experience), you will provide critical application guidance and support to drive ICT employee experience outcomes citywide. This includes contributing to service improvement initiatives, user experience improvements, problem resolution, system enhancements, and ensuring our digital platforms are well positioned to support the City’s vision of being a ‘utility for the future’. You will collaborate closely with ICT specialists and business stakeholders to deliver high-quality outcomes that enhance the City’s employee experience.</p><p>If you are passionate about technology, digital transformation, and supporting innovative service delivery, this is a fantastic opportunity to be part of a forward-thinking team helping shape the future of technology at the City of Gold Coast.</p><p><strong>We’re looking for people who have: </strong></p><ul> <li>A degree in Information Technology, Computer Science or a related field, or experience in a similar role.</li> <li>Proficiency in digital HRM applications (e.g. Workday, Chris21, SAP SuccessFactors), databases (e.g. SQL), web tools and user interfaces and data analytics tools.</li> <li>Good understanding of core HR business processes such as HR / employee lifecycle, payroll, learning and performance, recruitment and onboarding.</li> <li>Excellent customer service skills and experience with ticketing/service management platforms (e.g. Service Now).</li> <li>Attention to detail and strong analytical / problem solving skills.</li> <li>Strong stakeholder engagement skills, including requirements gathering and training.</li> <li>Excellent communication skills and ability to explain technical issues to non-technical stakeholders.</li> <li>Awareness of privacy, data security, HR compliance and records management requirements.</li> <li>Strong understanding of ITIL service management (incident/problem/change) and ITIL certification or willingness to obtain </li> <li>Understands AGILE methodology and has experience working in AGILE teams. Experience in breaking technical tasks into user stories and tasks.</li> <li>Communicates clearly and confidently, translating technical concepts into practical solutions.</li> <li>Works collaboratively, thrives in a fast-moving environment and embraces change.</li> <li>Brings a proactive, can-do attitude and a genuine passion for improving digital services for our employees.</li> </ul><p><strong>Be part of shaping the Gold Coast’s future </strong></p><p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p><p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p><ul> <li>9-day fortnight </li> </ul><ul> <li>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations </li> </ul><ul> <li>Personal and professional development courses </li> </ul><ul> <li>Access to 350+ fitness facilities through Fitness Passport </li> </ul><ul> <li>4 free confidential counselling sessions a year for you or an immediate family member </li> </ul><ul> <li>1 free nutritionist and financial advice session per year </li> </ul><p> </p><p>We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p><p><strong>How to apply</strong><br>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p><p><strong>Contact Person</strong> Ashley Shannon </p><p><strong>Contact Email</strong> <a href=\"mailto:ashannon@goldcoast.qld.gov.au\">ashannon@goldcoast.qld.gov.au</a></p><p><strong>Closing Date</strong> Sunday 6th September 2026/11:59pm AEDT </p><p> </p><p>Our selection process may include a one-way video interview via Criteria, a face-to-face or virtual interview via Microsoft Teams, reference checks via Xref and additional checks including police checks, employment history checks, qualification checks, pre-employment medical reviews and drug and alcohol testing. </p><p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
+      "keywords": [
+        "application",
+        "support",
+        "officer"
+      ]
+    },
+    {
       "job_id": "94196255",
       "job_title": "IT Support Technician - Gold Coast",
       "business_name": "Ever Nimble Pty Ltd",
@@ -1024,6 +1063,23 @@
         "cyber",
         "security",
         "uplift"
+      ]
+    },
+    {
+      "job_id": "94117643",
+      "job_title": "Delivery Lead",
+      "business_name": "Southern Cross University",
+      "work_type": "Full time",
+      "job_type": "Programme & Project Management",
+      "pay_range": "$134,939 - $140,896 plus 17% Superannuation",
+      "area": "Bilinga, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94117643",
+      "advertiser_id": "15012749",
+      "posted_date": "2026-08-21T00:42:55Z",
+      "job_description": "<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing <a href=\"https://www.scu.edu.au/southern-cross-model/\" target=\"_self\">Southern Cross Model</a> brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity</strong></p>\n<p>Technology is central to how a modern university operates, connects with its students and staff, and delivers its strategic priorities.</p>\n<p>As Delivery Lead, you’ll take ownership of complex, multi-stream technology programs spanning key University portfolios, bringing together technology, business and external partners to deliver measurable outcomes.</p>\n<p>This is a senior delivery leadership role where you’ll provide strategic oversight across significant programs, navigate complex dependencies and risks, and bring clarity to competing priorities. You’ll work closely with senior executives, program sponsors and stakeholders to ensure delivery remains aligned, transparent and focused on outcomes.</p>\n<p>You’ll work across the full breadth of the University, supporting technology initiatives across Future Students, Current Students, Teaching &amp; Learning, and Research &amp; Enterprise.</p>\n<p>You will make an impact by:</p>\n<ul>\n<li>Establishing delivery plans, governance and quality controls across programs</li>\n<li>Bringing together Project Managers, technology teams, vendors and stakeholders</li>\n<li>Managing program risks, dependencies, resources and critical delivery paths</li>\n<li>Providing clear reporting and insights to executives and governance forums</li>\n<li>Leading change and embedding new ways of working across the University</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<p>You’re an experienced Delivery Lead or Program Manager who thrives in complex environments where technology, people and business priorities intersect.</p>\n<p>You bring strategic thinking and strong delivery discipline, with the confidence to take ownership of significant programs, navigate ambiguity and bring clarity to complex problems.</p>\n<p>You’ll be comfortable working with senior executives and governance forums, leading multidisciplinary teams and making decisions that keep delivery moving while maintaining strong risk, financial and governance disciplines.</p>\n<p>To succeed in this role, you will also need:</p>\n<ul>\n<li>Extensive experience delivering complex, multi-stream technology programs</li>\n<li>Proven leadership across governance, risk and benefits realization</li>\n<li>Experience leading multidisciplinary teams across complex environments</li>\n<li>Strong financial, resource and stakeholder management capability</li>\n<li>Strategic thinking and the ability to navigate ambiguity and complexity</li>\n</ul>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/gold-coast/\" target=\"_self\">Gold Coast</a>, <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/coffs-harbour/\" target=\"_self\">Coffs Harbour</a> and the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/lismore/\" target=\"_self\">Northern Rivers</a> region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li>Full-time, continuing (permanent)</li>\n<li>Located at Gold Coast, QLD 4225. Relocation assistance is available, making it easier to join our regional communities</li>\n<li>HEW Level 9. The base salary ranges from $134,393 - $140,896 per annum, plus 17% employer’s contribution to superannuation. The total remuneration package is up to $164,848.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit <a href=\"https://www.scu.edu.au/about/jobs-at-southern-cross/why-work-at-southern-cross-university/\" target=\"_self\">Why work at Southern Cross University?</a></p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>To view the full position advertisement and details of the application process, please click on the APPLY button where you will be redirected to the Southern Cross University website. &nbsp;&nbsp;</p>\n<p><strong>Applications close 11.30pm 6 September 2026.</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. &nbsp;Employer visa sponsorship is not available for this position.</p>\n<p>Applicants must apply online and attach a CV and cover letter. The cover letter must clearly address each selection criterion in the position description. Information to support you prepare your application is available on our <a href=\"https://www.scu.edu.au/about/jobsscu/vacancies/applying-for-a-position/\" target=\"_self\">website.</a></p>\n<p><em>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to </em><a href=\"mailto:jobs@scu.edu.au\" target=\"_self\"><em>jobs@scu.edu.au.</em></a></p>\n<p><strong>#LI-VC1</strong></p>\n<p><strong>#GC</strong></p>\n",
+      "keywords": [
+        "delivery"
       ]
     },
     {
@@ -1374,6 +1430,62 @@
         "apps",
         "m365",
         "administrator"
+      ]
+    },
+    {
+      "job_id": "93834239",
+      "job_title": "Business Analyst - Accounting Expert",
+      "business_name": "Odoo",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "$85,000 – $95,000 per year + super",
+      "area": "Varsity Lakes, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93834239",
+      "advertiser_id": "47971668",
+      "posted_date": "2026-08-07T05:33:28Z",
+      "job_description": "<h2><strong>About&nbsp;Odoo</strong></h2><p>With a small team of smart people who like working hard and have fun too, we released the most disruptive enterprise management software in the world: Odoo. Fully open source, full-featured with apps like Accounting, HR, CRM, Manufacturing, and 4,000 more. Its online offer is 3 times more affordable than traditional competitors like SAP and Microsoft.</p><p>At Odoo, we value independence, flexibility, and personal growth. We're a fast-growing company that embraces innovation and encourages our team members to push boundaries and reach new heights. With our Australian office nestled in the beautiful Gold Coast's Varsity Lakes, we offer the perfect blend of exciting work and an amazing lifestyle.</p><p><br></p><h2><strong>About the job</strong></h2><p>You’ll join a <strong>dynamic, cross-functional team</strong> focused on ensuring Odoo becomes the go-to solution for accountants in Australia.</p><p>As a Business Analyst – Accounting Firm&nbsp;Expert, you will play a pivotal role in shaping the future of accounting software in Australia. Working closely with accounting firms (fiduciaries), product teams, and internal consultants, you’ll help position Odoo as a fully AU-compliant, accountant-first solution.</p><p>This role combines <strong>hands-on project delivery</strong>, <strong>product evolution</strong>, and <strong>industry enablement</strong>, making it ideal for someone who enjoys variety, impact, and working at the intersection of accounting and technology.</p><p><br></p><p><strong>You'll never get bored!</strong></p><p><br></p><strong>What You'll Love About This Role</strong><ul><li><p>A high-impact role helping shape one of Australia’s next major accounting platforms.</p></li><li><p>The opportunity to work directly with accounting firms as primary customers.</p></li><li><p>Influence product direction through real market feedback.</p></li><li><p>A&nbsp;mix of project work, product ownership, training, and industry engagement.</p></li><li><p>Autonomy, variety, and the chance to build something meaningful from the ground up.</p></li><li><p>Collaboration with passionate experts across accounting,&nbsp;and technology teams.</p></li></ul><strong>Responsibilities</strong><ul><li><p>Manage and deliver projects similar to Professional Services engagements, with a strong accounting focus.</p></li><li><p>Implement Odoo for SMEs, ensuring best practices in accounting and payroll configuration.</p></li><li><p>Test and validate solutions developed by technical teams.</p></li><li><p>Monitor market trends and legal/regulatory changes.</p></li><li><p>Organise and deliver internal training sessions for the PL team, focusing on accounting and payroll topics.</p></li><li><p>Contribute to the evolution of Australian accounting and payroll localisation in Odoo.</p></li><li><p>Participate in and organise accounting-focused business events, roadshows, and industry exhibitions in collaboration with fiduciaries.</p></li></ul><h2><strong>About you</strong></h2><p><strong>At Odoo, we value your skills more than your resume.</strong><br>Here's what we expect from you:</p><strong>Must have</strong><ul><li><p>Minimum 1 year of experience working in or closely with an accounting firm.</p></li><li><p>Strong understanding of accounting and payroll processes.</p></li><li><p>Ability to manage projects and multiple stakeholders.</p></li><li><p>Problem-solving skills.</p></li><li><p>Quick &amp; autonomous learner.</p></li><li><p>Professional proficiency in spoken and written English.</p></li><li><p>Interest in accounting software, ERP systems, and digital transformation.</p></li></ul><strong>Nice to have</strong><ul><li><p>Experience with ERP or accounting software implementation.</p></li><li><p>Exposure to Australian accounting and payroll compliance.</p></li><li><p>Background in training, enablement, or client-facing consulting roles</p></li></ul><p><br></p>",
+      "keywords": [
+        "business",
+        "analyst",
+        "accounting",
+        "expert"
+      ]
+    },
+    {
+      "job_id": "93833475",
+      "job_title": "Business Analyst",
+      "business_name": "Odoo",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "$80,000 – $90,000 per year + super",
+      "area": "Varsity Lakes, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93833475",
+      "advertiser_id": "47971668",
+      "posted_date": "2026-08-07T05:06:02Z",
+      "job_description": "<h2><strong>About&nbsp;Odoo</strong></h2><p>With a small team of smart people who like working hard and have fun too, we released the most disruptive enterprise management software in the world: Odoo. Fully open source, full-featured with apps like Accounting, HR, CRM, Manufacturing, and 4,000 more. Its online offer is 3 times more affordable than traditional competitors like SAP and Microsoft.</p><p>At Odoo, we value independence, flexibility, and personal growth. We're a fast-growing company that embraces innovation and encourages our team members to push boundaries and reach new heights. With our Australian office nestled in the beautiful Gold Coast's Varsity Lakes, we offer the perfect blend of exciting work and an amazing lifestyle.</p><p><br></p><h2><strong>About the team</strong></h2><p>Join a vibrant and innovative team, working within an organisation that values independence, flexibility and personal growth. We are looking for Project Leaders to join our team responsible for ERP implementation projects. As a Project&nbsp;Leader, you will be the single point of contact for customers / clients, leading a project from beginning to end.&nbsp;You will be joining our Australian office based in Varsity Lakes, Gold Coast.</p><p><strong>You'll never get bored!</strong></p><strong>Responsibilities</strong><ul><li><p>Analysing customer’s needs and business&nbsp;requirements</p></li><li><p>Suggesting business flows before implementing agreed upon solutions</p></li><li><p>Managing projects from&nbsp;A to Z, onboarding users on time and on budget</p></li><li><p>Implementing our Odoo business software and deliver tailor-made training</p></li><li><p>Steadily growing your expertise to provide customers with functional assistance</p></li><li><p>Collaborating with Odoo's developers to execute specific customers' business requirements, as well as working with sales team in pre &amp; post-sale</p></li><li><p>Supporting the growth of our partner network to become Odoo expert</p></li></ul><strong>Why You'll Love This Job</strong><ul><li><p>The opportunity to evolve with a great and fast-growing&nbsp;multinational&nbsp;company</p></li><li><p>Get full responsibility on your projects</p></li><li><p>Explore large business scopes: CRM, manufacturing, accounting, inventory, HR, project management,...</p></li><li><p>Coordinate with other Odoo departments: sales, developers, R&amp;D,...</p></li><li><p>Work with heaps of different customers and industries</p></li></ul><h2><strong>About you</strong></h2><p><strong>At Odoo, we value your skills more than your resume.</strong><br>Here's what we expect from you:</p><strong>Must have</strong><ul><li><p>Permanent working rights in Australia</p></li><li><p>Excellent communication and interpersonal&nbsp;skills</p></li><li><p>Bachelor or Master Degree</p></li><li><p>At ease with software &amp;&nbsp;IT</p></li><li><p>Strong passion for software development</p></li><li><p>Problem-solving skills</p></li><li><p>Quick &amp; autonomous learner</p></li></ul><strong>Nice to have</strong><ul><li><p>1-3 years of relevant experience</p></li><li><p>Immediate availability</p></li><li><p>Relevant background or experience</p></li></ul><p><br></p>",
+      "keywords": [
+        "business",
+        "analyst"
+      ]
+    },
+    {
+      "job_id": "93832394",
+      "job_title": "Project Leader",
+      "business_name": "Odoo",
+      "work_type": "Full time",
+      "job_type": "Architects",
+      "pay_range": "$80,000 – $90,000 per year + super",
+      "area": "Varsity Lakes, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93832394",
+      "advertiser_id": "47971668",
+      "posted_date": "2026-08-07T04:34:31Z",
+      "job_description": "<h2><strong>About&nbsp;Odoo</strong></h2><p>With a small team of smart people who like working hard and have fun too, we released the most disruptive enterprise management software in the world: Odoo. Fully open source, full-featured with apps like Accounting, HR, CRM, Manufacturing, and 4,000 more. Its online offer is 3 times more affordable than traditional competitors like SAP and Microsoft.</p><p>At Odoo, we value independence, flexibility, and personal growth. We're a fast-growing company that embraces innovation and encourages our team members to push boundaries and reach new heights. With our Australian office nestled in the beautiful Gold Coast's Varsity Lakes, we offer the perfect blend of exciting work and an amazing lifestyle.</p><p><br></p><h2><strong>About the team</strong></h2><p>Join a vibrant and innovative team, working within an organisation that values independence, flexibility and personal growth. We are looking for Project Leaders to join our team responsible for ERP implementation projects. As a Project&nbsp;Leader, you will be the single point of contact for customers / clients, leading a project from beginning to end.&nbsp;You will be joining our Australian office based in Varsity Lakes, Gold Coast.</p><p><br></p><p><strong>You'll never get bored!</strong></p><p><br></p><strong>Responsibilities</strong><ul><li><p>Analysing customer’s needs and business&nbsp;requirements</p></li><li><p>Suggesting business flows before implementing agreed upon solutions</p></li><li><p>Managing projects from&nbsp;A to Z, onboarding users on time and on budget</p></li><li><p>Implementing our Odoo business software and deliver tailor-made training</p></li><li><p>Steadily growing your expertise to provide customers with functional assistance</p></li><li><p>Collaborating with Odoo's developers to execute specific customers' business requirements, as well as working with sales team in pre &amp; post-sale</p></li><li><p>Supporting the growth of our partner network to become Odoo expert</p></li></ul><p><br></p><strong>Why You'll Love This Job</strong><ul><li><p>The opportunity to evolve with a great and fast-growing&nbsp;multinational&nbsp;company</p></li><li><p>Get full responsibility on your projects</p></li><li><p>Explore large business scopes: CRM, manufacturing, accounting, inventory, HR, project management,...</p></li><li><p>Coordinate with other Odoo departments: sales, developers, R&amp;D,...</p></li><li><p>Work with heaps of different customers and industries</p></li></ul><p><br></p><h2><strong>About you</strong></h2><p><strong>At Odoo, we value your skills more than your resume.</strong><br>Here's what we expect from you:</p><strong>Must have</strong><ul><li><p>Permanent working rights in Australia</p></li><li><p>Excellent communication and interpersonal&nbsp;skills</p></li><li><p>Bachelor or Master Degree</p></li><li><p>At ease with software &amp;&nbsp;IT</p></li><li><p>Strong passion for software development</p></li><li><p>Problem-solving skills</p></li><li><p>Quick &amp; autonomous learner</p></li></ul><strong>Nice to have</strong><ul><li><p>1-3 years of relevant experience</p></li><li><p>Immediate availability</p></li><li><p>Relevant background or experience</p></li></ul><p><br></p>",
+      "keywords": [
+        "project",
+        "leader"
       ]
     },
     {
