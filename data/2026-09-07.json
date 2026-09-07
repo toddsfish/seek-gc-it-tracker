@@ -1,476 +1,401 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-07",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-08T08:24:13.951876+10:00",
-  "total_jobs": 55,
+  "scraped_at": "2026-09-07T07:51:12.600010+10:00",
+  "total_jobs": 52,
   "keywords": [
-    {
-      "term": "it",
-      "count": 11,
-      "share": 0.2
-    },
     {
       "term": "analyst",
       "count": 10,
-      "share": 0.1818
+      "share": 0.1923
     },
     {
-      "term": "support",
-      "count": 9,
-      "share": 0.1636
+      "term": "it",
+      "count": 10,
+      "share": 0.1923
     },
     {
       "term": "developer",
       "count": 8,
-      "share": 0.1455
+      "share": 0.1538
     },
     {
       "term": "manager",
       "count": 8,
-      "share": 0.1455
-    },
-    {
-      "term": "service",
-      "count": 8,
-      "share": 0.1455
+      "share": 0.1538
     },
     {
       "term": "engineer",
       "count": 7,
-      "share": 0.1273
+      "share": 0.1346
     },
     {
       "term": "software",
       "count": 7,
-      "share": 0.1273
+      "share": 0.1346
+    },
+    {
+      "term": "support",
+      "count": 7,
+      "share": 0.1346
+    },
+    {
+      "term": "service",
+      "count": 7,
+      "share": 0.1346
     },
     {
       "term": "business",
       "count": 5,
-      "share": 0.0909
+      "share": 0.0962
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.0909
-    },
-    {
-      "term": "desk",
-      "count": 5,
-      "share": 0.0909
-    },
-    {
-      "term": "officer",
-      "count": 5,
-      "share": 0.0909
+      "share": 0.0962
     },
     {
       "term": "ai",
       "count": 4,
-      "share": 0.0727
-    },
-    {
-      "term": "technician",
-      "count": 4,
-      "share": 0.0727
+      "share": 0.0769
     },
     {
       "term": "administrator",
       "count": 4,
-      "share": 0.0727
+      "share": 0.0769
+    },
+    {
+      "term": "officer",
+      "count": 4,
+      "share": 0.0769
+    },
+    {
+      "term": "desk",
+      "count": 4,
+      "share": 0.0769
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0545
+      "share": 0.0577
+    },
+    {
+      "term": "technician",
+      "count": 3,
+      "share": 0.0577
     },
     {
       "term": "solutions",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "power",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0364
-    },
-    {
-      "term": "infrastructure",
-      "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "project",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "delivery",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "cyber",
       "count": 2,
-      "share": 0.0364
-    },
-    {
-      "term": "security",
-      "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "specialist",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "jetstar",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "retail",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "risk",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "resilience",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "architech",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "dynamics",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "php",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "native",
       "count": 1,
-      "share": 0.0182
-    },
-    {
-      "term": "stack",
-      "count": 1,
-      "share": 0.0182
-    },
-    {
-      "term": "backend",
-      "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "frontend",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
+    },
+    {
+      "term": "stack",
+      "count": 1,
+      "share": 0.0192
+    },
+    {
+      "term": "backend",
+      "count": 1,
+      "share": 0.0192
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "groundworks",
       "count": 1,
-      "share": 0.0182
-    },
-    {
-      "term": "helpdesk",
-      "count": 1,
-      "share": 0.0182
-    },
-    {
-      "term": "pimpama",
-      "count": 1,
-      "share": 0.0182
-    },
-    {
-      "term": "campus",
-      "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "desktop",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "month",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "experience",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "required",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "operations",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "apps",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "m365",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
+    },
+    {
+      "term": "infrastructure",
+      "count": 1,
+      "share": 0.0192
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
+    },
+    {
+      "term": "security",
+      "count": 1,
+      "share": 0.0192
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "evolve",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "ecommerce",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "catalogue",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     }
   ],
   "jobs": [
-    {
-      "job_id": "94461642",
-      "job_title": "Service Desk Technician (Level 2)",
-      "business_name": "BITS Technology Group",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$70,700 – $84,840 per year",
-      "area": "Varsity Lakes, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94461642",
-      "advertiser_id": "35860085",
-      "posted_date": "2026-09-07T06:36:20Z",
-      "job_description": "<p><strong>!IMPORTANT!</strong>&nbsp;</p><p>To apply for this position please upload your resume using SFTP. <strong>Only applications submitted this way will be considered. Please note applicants must have full working rights in Australia.</strong></p><p>SFTP Address: resume.bitsgroup.com.au&nbsp;</p><p>Username: apply&nbsp;</p><p>Password: ksE7THgLgLMUPXY8&nbsp;</p><p>Copy your resume to the \"drop-here\" folder. Please note once uploaded the document will disappear. &nbsp;</p><p><br></p><p><strong>Who we are</strong></p><p>BITS Technology Group is an award-winning IT &amp; Cyber Security solutions , specialising in secure technology platforms for organisations experiencing rapid growth. We partner with ambitious business owners, boards, and managers in industries such as Not-for-Profit, Aggregator, Construction, Professional Services, and Engineering, helping them scale and automate their operations while maintaining robust cyber security.</p><p>When you join BITS, you’ll be part of a curious, collaborative team committed to making a real impact. Our clients are typically businesses with 20–100 users and multiple sites across South-East Queensland, Australia, and New Zealand.</p><p><br></p><p><strong>Our Core Values</strong></p><p>At BITS Technology Group, our core values are very important to us. They're the principles that guide our decisions, shape our culture, and define who we are as a team. These five values define who we are:</p><ul><li><p><strong>Genuine Relationships – Trusted Connections</strong>&nbsp;<br>We build real, lasting relationships with clients, vendors, and each other through trust, respect, and authenticity.&nbsp;&nbsp;</p></li></ul><ul><li><p><strong>Drive &amp; Encourage the Journey to Success</strong>&nbsp;<br>We are motivated, proactive, and committed to supporting the success of both our clients and our team.&nbsp;&nbsp;</p></li></ul><ul><li><p><strong>Consistent Quality – Exceeding Expectations</strong>&nbsp;<br>We take pride in delivering reliable, high-quality outcomes and consistently aiming above the standard.&nbsp;&nbsp;</p></li></ul><ul><li><p><strong>Authentic &amp; Effective Communication</strong>&nbsp;<br>We communicate clearly, honestly, and with purpose, without unnecessary jargon or confusion.&nbsp;&nbsp;</p></li></ul><ul><li><p><strong>Future Ready – Beginning Today</strong>&nbsp;<br>We think ahead, act proactively, and implement cutting-edge solutions today that prepare our clients and our team for tomorrow.&nbsp;</p></li></ul><p>These values must resonate with you. We hire, review, reward, and recognise our team members based on how well they embody these principles. We're looking for the right person, so if you're reading this list and thinking \"That's me\", then we can't wait to meet you!</p><p><br></p><p><strong>Why BITS?</strong></p><p>We’re passionate about creating an environment that is enjoyable, fulfilling, and supported by a strong team culture and great employee benefits.&nbsp;</p><p><strong>Innovative Atmosphere</strong><br>Technology never stands still, and neither do we. At BITS, you’ll be part of a forward-thinking team that embraces innovation and challenges the status quo to deliver smarter solutions.</p><p><strong>Flexible Working Arrangements</strong><br>We know balance matters. With hybrid options and flexible schedules upon passing your probation, you can structure your workday to support both productivity and your personal life.</p><p><strong>Social Events</strong><br>We believe work should be rewarding and fun. From team lunches to quarterly events, our social calendar keeps us connected and engaged outside the office.</p><p><strong>Employee perks!</strong><br>A great workspace deserves great perks. From a range of coffee options to keep you energised, to craft beer on tap for celebrating team wins, we’ve got you covered. You’ll also find fresh fruit and seasonal snacks available in the office.</p><p>But that's not all:<br>· <strong>Home Internet Paid</strong><br>· <strong>Gym Membership Paid</strong></p><p><strong>Enhance your skills</strong><br>Your growth is our priority. We provide access to training, certifications, and mentorship programs so you can continually expand your skills and progress your career. Time allotted during business hours as well as a bonus upon completion.</p><p><strong>Collaborative Relationship</strong><br>We work with our clients, not just for them. Join a team that values open communication, transparency, and building strong partnerships inside and outside the business</p><p>We are looking forward to adding another member to our growing support team.</p><p><br></p><p><strong>Service Desk Technician (Level 2)</strong></p><p><strong>BITS Technology Group</strong> is looking for a client-focused <strong>Level 2 Client Support Technician</strong> to join our service team.&nbsp;</p><p>This role is ideal for someone who enjoys solving technical problems, delivering a great client experience, and improving the way support is delivered through clear, high-quality documentation. As a Level 2 technician, you will take ownership of escalated support issues, provide guidance to Level 1 team members, and help strengthen our internal knowledge base so issues can be resolved faster and more consistently across the team.&nbsp;</p><p>You’ll be expected to work semi-independently, handle moderately complex support issues across Microsoft 365, networks, servers, and shared business systems, and act as the first technical escalation point for the Level 1 team. Success in this role comes from combining strong technical troubleshooting with excellent communication, professionalism, and documentation.&nbsp;</p><p>Occasional overtime may be required to resolve urgent client issues when needed.&nbsp;<br></p><p><strong>What success looks like in this role:</strong></p><ul><li><p>Delivering excellent client experiences through clear, professional, and helpful support</p></li><li><p>Resolving escalated technical issues efficiently and with strong attention to detail&nbsp;</p></li></ul><ul><li><p>Creating and improving documentation so recurring issues can be handled more effectively by Level 1&nbsp;</p></li></ul><ul><li><p>Acting as a technical mentor and first point of contact for Level 1 team members&nbsp;</p></li></ul><ul><li><p>Contributing to a more consistent, scalable, and proactive service desk function&nbsp;</p></li></ul><ul><li><p>Applying sound networking and security best practices in day-to-day support work&nbsp;</p></li></ul><p><br><strong>Key responsibilities:</strong></p><ul><li><p>Troubleshoot and resolve Level 2 support issues across end-user, Microsoft 365, server, and network environments&nbsp;</p></li></ul><ul><li><p>Investigate and resolve issues escalated by the Level 1 team when documented processes have not resolved the problem&nbsp;</p></li></ul><ul><li><p>Maintain and improve internal documentation, SOPs, and client environment notes&nbsp;</p></li></ul><ul><li><p>Support common SMB infrastructure including Microsoft 365, Active Directory, VPNs, printers, Wi-Fi, and basic firewall-related issues&nbsp;</p></li></ul><ul><li><p>Liaise with third-party vendors on behalf of clients, including internet providers and software vendors&nbsp;</p></li></ul><ul><li><p>Provide technical guidance and mentoring to Level 1 technicians&nbsp;</p></li></ul><ul><li><p>Contribute to service quality, consistency, and continuous improvement across the support team&nbsp;</p></li></ul><ul><li><p>Maintain a strong focus on client satisfaction, communication, and timely follow-up&nbsp;</p></li></ul><p><br><strong>Required experience</strong>:</p><ul><li><p>Experience in a Level 2 IT support, helpdesk, or managed services environment&nbsp;</p></li></ul><ul><li><p>Microsoft 365 administration experience&nbsp;</p></li></ul><ul><li><p>Strong networking knowledge and internet/network troubleshooting skills&nbsp;</p></li></ul><ul><li><p>Experience supporting Windows Server environments&nbsp;</p></li></ul><ul><li><p>Familiarity with ITIL or structured service desk processes&nbsp;</p></li></ul><ul><li><p>Experience working with third-party vendors on behalf of clients&nbsp;</p></li></ul><p><br><strong>Desirable experience</strong>:</p><ul><li><p>VoIP platforms such as <strong>Teams Calling,</strong> <strong>FreeSWITCH</strong>, or <strong>Yealink</strong>&nbsp;</p></li></ul><ul><li><p><strong>Microsoft Certifications</strong>&nbsp;</p></li></ul><ul><li><p><strong>Ubiquiti UniFi</strong>&nbsp;</p></li></ul><ul><li><p>IT documentation platforms and knowledge management tools&nbsp;</p></li></ul><ul><li><p>Strong understanding of IT security best practice&nbsp;</p></li><li><p>Experience using Accelo</p></li></ul><p>Pay Bracket $70,700-$84,840&nbsp;</p><p><br></p><p><strong>!IMPORTANT!</strong>&nbsp;</p><p>To apply for this position please upload your resume using SFTP. <strong>Only applications submitted this way will be considered. Please note applicants must have full working rights in Australia.</strong></p><p>SFTP Address: resume.bitsgroup.com.au&nbsp;</p><p>Username: apply&nbsp;</p><p>Password: ksE7THgLgLMUPXY8&nbsp;</p><p>Copy your resume to the \"drop-here\" folder. Please note once uploaded the document will disappear. &nbsp;</p>",
-      "keywords": [
-        "service",
-        "desk",
-        "technician"
-      ]
-    },
-    {
-      "job_id": "94458683",
-      "job_title": "Infrastructure, Security & Support Lead",
-      "business_name": "Ringers Western",
-      "work_type": "Full time",
-      "job_type": "Security",
-      "pay_range": "",
-      "area": "Helensvale, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94458683",
-      "advertiser_id": "62403670",
-      "posted_date": "2026-09-07T05:22:26Z",
-      "job_description": "<p><em>Ringers Western is growing fast, and our technology team is growing with it. We are looking for an Infrastructure, Security &amp; Support Lead to own one of the three pillars of our tech department: the network, the infrastructure, the security programme and the IT support service that keeps HQ, our distribution centre and every store trading. This is the role for someone who has spent two or three years on a service desk, most likely at a manage device provider, moved into networks and security, been part of a security improvement programme, and is now ready to own it rather than execute someone else's plan. You will get that ownership from day one, with direct mentoring from the Head of Technology, vendor partners and a business growing quickly enough that the scope keeps growing with you.</em><br></p><p><strong>About the role</strong></p><p>You own the network across HQ, the warehouse and our stores. Every device the business runs on. The security remediation programme coming out of our recent cybersecurity assessment. Our IT partner, internet and telco relationships. The technology build for every new store we open. And the IT support service itself, including supervising and developing our Support Team Member.</p><p>It is a genuine mix of hands-on work and ownership. Some weeks you are deep in a firewall rule set or standing up a new store. Others you are chairing the monthly risk and security review, holding a vendor to their dates, or building the case for the next piece of investment.<br></p><p><strong>Key responsibilities</strong></p><ul><li><p>Lead the delivery of high-quality IT support across our Head Office, Distribution Centre and retail stores.</p></li><li><p>Supervise, coach and develop the IT Support Team while managing service levels and work quality.</p></li><li><p>Deliver key cybersecurity improvements, including MFA, identity management, endpoint compliance and security monitoring.</p></li><li><p>Maintain the performance and security of networks, infrastructure and hardware across all locations.</p></li><li><p>Manage IT assets throughout their full lifecycle, from procurement and deployment to replacement.</p></li><li><p>Oversee IT vendors and service providers, ensuring agreed scope, timelines and standards are met.</p></li><li><p>Lead end-to-end technology rollouts for new store openings.</p></li><li><p>Maintain clear IT documentation and ensure appropriate handovers before new systems reach production.</p></li></ul><p><br></p><p><strong>About you</strong></p><ul><li><p>2–3 years’ experience across networking and/or cybersecurity, ideally within a managed service provider or multi-site environment.</p></li><li><p>Previous Level 2 service desk experience with clear progression into hands-on network and infrastructure ownership.</p></li><li><p>Strong knowledge of switching, network segmentation, firewalls, wireless networks, remote access and troubleshooting.</p></li><li><p>Practical experience implementing security controls, cloud identity solutions and endpoint management platforms.</p></li><li><p>Strong diagnostic, documentation and service-management skills, with excellent attention to detail.</p></li><li><p>Experience managing vendors and holding external partners accountable for scope, quality and delivery.</p></li><li><p>A proactive, approachable communicator who can confidently support both technical and non-technical team members.</p></li><li><p>A dependable, solutions-focused mindset with the discipline to follow issues through to completion.<br></p></li></ul><p><strong>Nice to have</strong></p><ul><li><p>Relevant certification in networking, cybersecurity or IT operations.</p></li><li><p>Experience with recognised security frameworks and retail point-of-sale systems.</p></li><li><p>Exposure to retail, hospitality or other multi-site operations.</p></li><li><p>Experience supporting warehouse or distribution centre technology, including scanners, label printers and wireless coverage.</p></li><li><p>Knowledge of structured cabling and technology fit-outs.</p></li><li><p>Previous supervisory experience—or the ambition and potential to step into a people leadership role.<br></p></li></ul><p><strong>Why join us</strong></p><ul><li><p>Take ownership of a key technology function from day one, with genuine opportunity to grow alongside the business.</p></li><li><p>Receive direct mentoring from the Head of Technology across strategy, architecture, commercial decision-making and vendor management.</p></li><li><p>Deliver meaningful technology and security improvements with the backing to make them happen.</p></li><li><p>Enjoy a varied role spanning networks, security, hardware, vendors, support and new-store rollouts.</p></li><li><p>Access support for professional certifications and structured learning.</p></li><li><p>Company laptop and equipment provided.</p></li><li><p>Generous staff discount across Ringers Western products.</p></li></ul><p><br></p>",
-      "keywords": [
-        "infrastructure",
-        "security",
-        "support"
-      ]
-    },
-    {
-      "job_id": "94456522",
-      "job_title": "IT Helpdesk Support Officer - Pimpama Campus",
-      "business_name": "King's Christian College",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Pimpama, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94456522",
-      "advertiser_id": "20427280",
-      "posted_date": "2026-09-07T04:19:12Z",
-      "job_description": "<p>JOIN OUR COMMUNITY</p><p>At King's, we place value on selecting staff who are committed to honouring God through their gifts and talents, and who have a passion to help young people succeed. We seek staff to become part of our collegiate culture to provide challenging, differentiated, and engaging learning for each of their students.</p><p><strong>Expressions of interest are sought for the following position:</strong></p><p><strong>IT Helpdesk Support Officer</strong></p><p>We are seeking a skilled IT Helpdesk Technician for our Pimpama campus.</p><p>This is a <strong>Full Time position</strong>, Monday to Friday 8am – 4pm.</p><p>Responsibilities include, but are not limited to:</p><ul><li>Providing the first line of support to the Staff and Students on any IT related issues, either by telephone, email or face to face.</li><li>Performing preventative maintenance, including checking critical alerts, creating tickets, prioritising and escalating these to the appropriate technician.</li><li>Troubleshooting software and hardware issues in a Apple based environment.</li><li>Use an industry leading ticketing system to track client requests, time management and project work.</li><li>Ensure you follow through with all issues to completion and ensuring if issues are not resolved that they are escalated to the next level of support in a timely manner.</li><li>Ensure the inventory record for all IT related hardware is managed and up to date.</li><li>When required, install or configure new and existing client software or applications.</li><li>Perform user account administration maintaining user access in the various Systems and Software.</li><li>Provide feedback on continuous improvement of processes and procedures in order to enhance the current use of products or reduce incoming call volume.</li><li>Provide technical assistance and support for incoming queries and issues related to computer systems, software, hardware, phone systems, printing and all IT related queries.</li><li>Ensure all internal systems and procedures are followed correctly.</li></ul><p>The ideal applicant will have:</p><ul><li>IT Helpdesk experience</li><li>Familiar with Apple iPadOS, iOS, MacOS ecosystem</li></ul><p><strong>Applications close at 4:00pm on Friday, 18 September 2026.&nbsp;</strong></p><p><em>However applications will be assessed as received and the position may be filled prior to the closing date.</em></p><p>Your curriculum vitae should include details for;</p><ul><li>at least 2 recent professional referees</li><li>at least 1 referee who can attest to your suitability to work within the values and culture of an expanding Christian school (preferably from a Pastor or Minister).</li></ul><p>ABOUT OUR COLLEGE</p><p>King’s is an expanding, multi-Campus school that places paramount importance on the development of the whole child, with a particular focus on providing every student the opportunity to develop Christian Leadership skills that will prepare them for their future. Our programs challenge and shape students’ thinking and understanding of their role in the world.</p><p>With our growing existing campuses and plans for further new campus development, King’s provides excellent career progression opportunities. We encourage suitable applicants to apply to join the growing team at any of King’s Christian College campuses.</p><p>Our College currently consists of 3 dynamic campuses, with several more campuses in the planning stages, serving the communities in which they are located.</p><p>The REEDY CREEK CAMPUS (on the southern end of the Gold Coast) has more than 2600 students on-site, from Early Learning through to Year 12. This campus also includes a Trade Training College.</p><p>Our PIMPAMA CAMPUS (on the northern end of the Gold Coast) currently has over 2000 students on-site, from Early Learning to Year 12.</p><p>King’s LOGAN VILLAGE CAMPUS (in south-west Logan) offers places for students from Early Learning through to High School.</p><p><em>King's Christian College is committed to acting in accordance with the Working with Children (Risk Management and Screening) Act 2000 (QLD) to promote the safety and wellbeing of all students. As such, candidates will be subject to a Qld Teacher Registration check or Blue Card screening and other relevant checks as required.&nbsp;</em>&nbsp;</p>",
-      "keywords": [
-        "it",
-        "helpdesk",
-        "support",
-        "officer",
-        "pimpama",
-        "campus"
-      ]
-    },
     {
       "job_id": "94434940",
       "job_title": "Level 2 IT Support Technician (MSP Experience Required)",
