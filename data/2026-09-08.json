@@ -1,487 +1,416 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-08",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-09T08:10:53.182459+10:00",
-  "total_jobs": 58,
+  "scraped_at": "2026-09-08T08:24:13.951876+10:00",
+  "total_jobs": 55,
   "keywords": [
     {
       "term": "it",
       "count": 11,
-      "share": 0.1897
+      "share": 0.2
     },
     {
       "term": "analyst",
       "count": 10,
-      "share": 0.1724
+      "share": 0.1818
     },
     {
       "term": "support",
-      "count": 10,
-      "share": 0.1724
+      "count": 9,
+      "share": 0.1636
     },
     {
       "term": "developer",
       "count": 8,
-      "share": 0.1379
+      "share": 0.1455
     },
     {
       "term": "manager",
       "count": 8,
-      "share": 0.1379
+      "share": 0.1455
     },
     {
       "term": "service",
       "count": 8,
-      "share": 0.1379
+      "share": 0.1455
     },
     {
       "term": "engineer",
       "count": 7,
-      "share": 0.1207
+      "share": 0.1273
     },
     {
       "term": "software",
       "count": 7,
-      "share": 0.1207
+      "share": 0.1273
     },
     {
       "term": "business",
       "count": 5,
-      "share": 0.0862
+      "share": 0.0909
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.0862
-    },
-    {
-      "term": "administrator",
-      "count": 5,
-      "share": 0.0862
+      "share": 0.0909
     },
     {
       "term": "desk",
       "count": 5,
-      "share": 0.0862
+      "share": 0.0909
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.0862
+      "share": 0.0909
     },
     {
       "term": "ai",
       "count": 4,
-      "share": 0.069
+      "share": 0.0727
     },
     {
       "term": "technician",
       "count": 4,
-      "share": 0.069
+      "share": 0.0727
+    },
+    {
+      "term": "administrator",
+      "count": 4,
+      "share": 0.0727
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0517
-    },
-    {
-      "term": "architect",
-      "count": 2,
-      "share": 0.0345
-    },
-    {
-      "term": "specialist",
-      "count": 2,
-      "share": 0.0345
-    },
-    {
-      "term": "sharepoint",
-      "count": 2,
-      "share": 0.0345
+      "share": 0.0545
     },
     {
       "term": "solutions",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0364
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0364
     },
     {
       "term": "power",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0364
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0364
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0364
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0364
     },
     {
       "term": "project",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0364
     },
     {
       "term": "delivery",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0364
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0364
     },
     {
       "term": "cyber",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0364
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0345
-    },
-    {
-      "term": "cloud",
-      "count": 1,
-      "share": 0.0172
+      "share": 0.0364
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
+    },
+    {
+      "term": "architect",
+      "count": 1,
+      "share": 0.0182
+    },
+    {
+      "term": "specialist",
+      "count": 1,
+      "share": 0.0182
     },
     {
       "term": "jetstar",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "retail",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "risk",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "resilience",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "architech",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "dynamics",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "native",
-      "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "stack",
-      "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "php",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
-      "term": "frontend",
+      "term": "native",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
+    },
+    {
+      "term": "stack",
+      "count": 1,
+      "share": 0.0182
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
+    },
+    {
+      "term": "frontend",
+      "count": 1,
+      "share": 0.0182
     },
     {
       "term": "shopify",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "ostendo",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "short",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "groundworks",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "pimpama",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "campus",
       "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "trust",
-      "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "accounting",
-      "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "ict",
-      "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "desktop",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "month",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "experience",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "required",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
-      "term": "field",
+      "term": "ict",
       "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "break",
-      "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "fix",
-      "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "goldcoast",
-      "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "operations",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
+    },
+    {
+      "term": "field",
+      "count": 1,
+      "share": 0.0182
+    },
+    {
+      "term": "break",
+      "count": 1,
+      "share": 0.0182
+    },
+    {
+      "term": "fix",
+      "count": 1,
+      "share": 0.0182
+    },
+    {
+      "term": "goldcoast",
+      "count": 1,
+      "share": 0.0182
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
+    },
+    {
+      "term": "sharepoint",
+      "count": 1,
+      "share": 0.0182
     },
     {
       "term": "apps",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "m365",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "evolve",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "ecommerce",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "catalogue",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     }
   ],
   "jobs": [
-    {
-      "job_id": "94480021",
-      "job_title": "Support Specialist - Trust Accounting (Remote)",
-      "business_name": "RMS Cloud",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94480021",
-      "advertiser_id": "62614449",
-      "posted_date": "2026-09-08T01:53:24Z",
-      "job_description": "<p><strong>About the role</strong></p><p>As a Customer Success Specialist specialising in <strong>Trust and Owner Accounting</strong>, you will bring deep expertise in owner and trust accounting to help customers navigate end of month processes, day-to-day operations on the RMS platform, and complex data discrepancies. You will troubleshoot and document product issues, contribute to internal knowledge, and be a trusted voice for customers working through some of their most detailed and high-stakes workflows.</p><p><strong>Key responsibilities</strong></p><ul><li><p>Support customers with <strong>trust and owner accounting</strong> queries, from routine day-to-day questions through to end-of-month close</p></li><li><p>Troubleshoot and document product bugs and identify enhancement opportunities</p></li><li><p>Resolve client and implementation-specific issues with accuracy and care</p></li><li><p>Manage multiple open cases simultaneously across varying complexity and stage</p></li><li><p>Contribute to and build internal knowledge resources that lift the whole team</p></li><li><p>Collaborate with colleagues across a global, 24x7 support environment</p></li></ul><p><strong>About you</strong></p><ul><li><p>Demonstrated experience in the trust and owner accounting space, with a strong understanding of what is and is not possible in practice</p></li><li><p>A genuine love of problem-solving and the patience to work through issues that are not immediately clear</p></li><li><p>Strong customer communication skills, including the ability to handle complex issues with empathy and clarity</p></li><li><p>An analytical mindset that is comfortable with a highly configurable product and a steep learning curve</p></li><li><p>The ability to manage competing priorities without losing track of the details</p></li></ul><p><strong>About us</strong></p><p>At RMS, our people build scalable technology for the hospitality industry worldwide. We are in a high-growth, high-impact phase, applying data and AI to how we design, build, and evolve our SaaS platform. We are building for scale, speed, and long-term innovation. At RMS, every person is empowered to own their space, challenge the status quo, and make a meaningful impact.</p><p><strong>Life at RMS:</strong></p><ul><li><p>Growth and progression opportunities to expand your scope, develop new skills, and progress your career as the business scales</p></li><li><p>Ownership and autonomy to own your work and make decisions</p></li><li><p>Work that has visible impact and contributes to meaningful initiatives that shape how the platform evolves</p></li><li><p>Exposure to AI and modern ways of working with opportunity to learn, adapt, and build skills for the future</p></li><li><p>Remote working with flexible ways of working, balancing focus time at home with collaboration and connection in person</p></li><li><p>Inclusive and supportive culture that is collaborative, down-to-earth, and respectful of diverse perspectives</p></li></ul><p><br></p>",
-      "keywords": [
-        "support",
-        "specialist",
-        "trust",
-        "accounting"
-      ]
-    },
-    {
-      "job_id": "94479846",
-      "job_title": "SharePoint Administrator",
-      "business_name": "PICA Group",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94479846",
-      "advertiser_id": "61585221",
-      "posted_date": "2026-09-08T01:48:25Z",
-      "job_description": "<p>Join PICA Group on an initial 12-month fixed-term contract and help strengthen governance, data management and collaboration through a Microsoft 365 and SharePoint optimisation program.</p><p><br></p><p>As one of Australia's largest strata and property services companies, we provide competitive remuneration, flexibility and the opportunity to work on meaningful technology initiatives that support thousands of customers and employees nationally.</p><p><strong>The impact you'll have: </strong></p><p>Information is one of PICA Group's most valuable assets. In this role, you'll help improve the way business information is stored, managed, protected and shared across our Microsoft 365 environment.</p><p>Working closely with stakeholders across the business, you'll strengthen SharePoint governance, improve information management practices and support the migration of business data into secure, well-structured solutions that enable better collaboration and decision-making.</p><p><strong>What you'll do:</strong></p><ul><li>Optimise and maintain SharePoint Online sites, libraries and document structures. </li><li>Lead file migrations from network drives and legacy platforms into SharePoint. </li><li>Improve permissions, access controls and site ownership across the business. </li><li>Establish governance standards for naming conventions, retention and document management. </li><li>Partner with stakeholders to deliver secure, practical and easy-to-use solutions.</li></ul><p><strong>What you'll bring:</strong></p><ul><li>Strong hands-on experience administering SharePoint Online and Microsoft 365.</li><li>Experience managing permissions, site structures and information architecture.</li><li>Knowledge of governance, retention, compliance and document management practices.</li><li>Strong stakeholder engagement and problem-solving skills.</li><li>Exposure to Microsoft Purview, DLP, PowerShell, Teams, OneDrive or Azure Files will be highly regarded.</li></ul><p>What's in it for you:</p><p><br></p><p>At PICA Group, we want you to thrive. Here’s how we support you. </p><ul><li>Growth: Gain training and career path options across PICA Group. </li><li>Flexibility: Balance work and life with 50/50 hybrid options. </li><li>Challenge: Lead meaningful governance, migration and optimisation initiatives that deliver lasting business impact.</li><li>Belonging: Join a supportive team where collaboration and relationships matter.</li><li>Giving Back: Help create a secure, well-governed digital workplace that enables teams to work smarter and collaborate effectively.</li><li>PICA Perks: Discounts and wellbeing programs that support life inside and outside of work. </li></ul><p><strong>Who is PICA Group?</strong></p><p>We're Australia's leading strata and property services provider, with a trusted network of specialists in strata and facilities management, property development, debt recovery and legal services. For more than 70 years, we've enhanced community living by caring for one of our customers' most valuable assets, their home.</p><p>We're also proud to be officially recognised as a Great Place to Work®. Our employees recently participated in an external survey, and 91% of our employees said that PICA Group is a Great Place to Work™.</p><p>If you're looking for a workplace where you can grow, feel supported, deliver real value through technology, and help create a great place to work, this could be the perfect opportunity.</p><p>Everything we do is guided by our values: <strong>Say It Straight | Collaborate | Simplicity | Focus on Solutions | Delight the Customer | Get Things Done</strong></p><p><strong>How to apply:</strong></p><p>If you're ready to play a key role in strengthening PICA Group's Microsoft 365 and SharePoint environment, we'd love to hear from you.</p><p>At PICA Group, we value diversity and encourage a speak-up culture where our people bring their whole selves to work to enhance community living for all.</p><p>For up-to-date information about PICA Group, visit us:</p><p>https://www.linkedin.com/company/prudential-investment-company-of-australia/mycompany/</p><p>https://picagroup.com.au/</p><p>You must have the right to live and work in Australia to be considered for this opportunity.</p><p>It is PICA Group's policy not to accept speculative CVs from agencies unless the role has been released directly to the agency. Should we require assistance from agencies, a member of the Talent Acquisition team will contact agencies directly.</p><p><br></p>\n\n",
-      "keywords": [
-        "sharepoint",
-        "administrator"
-      ]
-    },
-    {
-      "job_id": "94475988",
-      "job_title": "Cloud Architect",
-      "business_name": "Southern Cross University",
-      "work_type": "Full time",
-      "job_type": "Architects",
-      "pay_range": "$134,393 - $140,896 plus 17% Superannuation",
-      "area": "Bilinga, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94475988",
-      "advertiser_id": "15012749",
-      "posted_date": "2026-09-07T23:49:28Z",
-      "job_description": "<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing <a href=\"https://www.scu.edu.au/southern-cross-model/\" target=\"_self\">Southern Cross Model</a> brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity</strong></p>\n<p>Southern Cross University is on a bold transformation journey, reshaping the future of learning, research, and community engagement through modern, secure, and scalable technology.</p>\n<p>As part of this, we’re building a high-impact technology organisation that thrives on innovation, collaboration, and emerging tech, and cloud is at the heart of this evolution.</p>\n<p>We’re seeking a Cloud Architect to lead the design, implementation, and governance of cloud infrastructure strategies across our hybrid multi-cloud environment.&nbsp; This role will shape the University’s cloud-first future, enabling high-performing, resilient, and secure IT services that power our academic and operational goals.</p>\n<p>Reporting to the Enterprise Architect, you’ll work across teams and portfolios to drive enterprise-scale cloud adoption, automation, and innovation</p>\n<p>You will make an impact by:</p>\n<ul>\n<li>Designing enterprise-grade cloud architectures across Azure, AWS, and GCP, aligned with strategic goals, security, and operational excellence</li>\n<li>Driving cloud transformation and modernization, including migration planning, legacy uplift, and hybrid deployment optimization</li>\n<li>Championing cloud governance and cost optimization, ensuring compliance with security, privacy, and regulatory standards</li>\n<li>Leading DevOps and automation practices through infrastructure-as-Code (Terraform), with automation scripting in Python and Powershell</li>\n<li>Collaborating across portfolios, engaging stakeholders, vendors, and governance bodies to shape future-ready cloud solutions</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<p>You’re a strategic and technically adept cloud expert with a passion for designing scalable, secure infrastructure that powers transformation.&nbsp; You thrive in complex, multi-cloud environments and enjoy collaborating across teams to turn enterprise strategy into resilient cloud solutions.</p>\n<p>To succeed in this role, you will also need:</p>\n<ul>\n<li>Extensive cloud expertise backed by tertiary qualifications and certifications such as AWS Solutions Architect and Azure Solutions Architect Expert</li>\n<li>Proven experience in multi-cloud environments, with strong knowledge of cloud infrastructure, data modelling, and ERP/LMS integration</li>\n<li>Strong automation and scripting skills, with hands-on experience suing Terraform, Python, Bicep and Powershell and DevOps practices</li>\n<li>Leadership in cloud governance, vendor management, and enterprise strategy alignment in complex environments</li>\n<li>Excellent communication and collaboration skills, with a focus on agile delivery, stakeholder engagement, and continuous improvement</li>\n</ul>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/gold-coast/\" target=\"_self\">Gold Coast</a>, <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/coffs-harbour/\" target=\"_self\">Coffs Harbour</a> and the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/lismore/\" target=\"_self\">Northern Rivers</a> region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li>Full-time, continuing (permanent)</li>\n<li>Located at either Coffs Harbour, NSW 2450, Gold Coast, QLD 4225, or Lismore, NSW 2480. Relocation assistance is available, making it easier to join our regional communities</li>\n<li>The level of appointment will be commensurate with the candidate’s qualifications, skills and experience.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit <a href=\"https://www.scu.edu.au/about/jobs-at-southern-cross/why-work-at-southern-cross-university/\" target=\"_self\">Why work at Southern Cross University?</a></p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>Name: Vivian Cormier<br>Email:&nbsp;<a href=\"mailto:Jobs@scu.edu.au\">Jobs@scu.edu.au</a></p>\n<p><strong>Applications close 11.30pm AEST 30 September 2026</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. &nbsp;Employer visa sponsorship is not available for this position.</p>\n<p>Applicants must apply online and attach a CV and cover letter responding to the selection criteria within the position description. Information to support you prepare your application is available on our <a href=\"https://www.scu.edu.au/about/jobsscu/vacancies/applying-for-a-position/\" target=\"_self\">website.</a></p>\n<p><em>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to </em><a href=\"mailto:jobs@scu.edu.au\" target=\"_self\"><em>jobs@scu.edu.au.</em></a></p>\n",
-      "keywords": [
-        "cloud",
-        "architect"
-      ]
-    },
     {
       "job_id": "94461642",
       "job_title": "Service Desk Technician (Level 2)",
@@ -513,7 +442,7 @@
       "url": "https://www.seek.com.au/job/94458683",
       "advertiser_id": "62403670",
       "posted_date": "2026-09-07T05:22:26Z",
-      "job_description": "<p><em>Ringers Western is growing fast, and our technology team is growing with it. We are looking for an Infrastructure, Security &amp; Support Lead to own one of the three pillars of our tech department: the network, the infrastructure, the security programme and the IT support service that keeps HQ, our distribution centre and every store trading. This is the role for someone who has spent two or three years on a service desk, most likely at a manage device provider, moved into networks and security, been part of a security improvement programme, and is now ready to own it rather than execute someone else's plan. You will get that ownership from day one, with direct mentoring from the Head of Technology, vendor partners and a business growing quickly enough that the scope keeps growing with you.</em><br></p><p><strong>About the role</strong></p><p>You own the network across HQ, the warehouse and our stores. Every device the business runs on. The security remediation programme coming out of our recent cybersecurity assessment. Our IT partner, internet and telco relationships. The technology build for every new store we open. And the IT support service itself, including supervising and developing our Support Team.</p><p>It is a genuine mix of hands-on work and ownership. Some weeks you are deep in a firewall rule set or standing up a new store. Others you are chairing the monthly risk and security review, holding a vendor to their dates, or building the case for the next piece of investment.<br></p><p><strong>Key responsibilities</strong></p><ul><li><p>Lead the delivery of high-quality IT support across our Head Office, Distribution Centre and retail stores.</p></li><li><p>Supervise, coach and develop the IT Support Team while managing service levels and work quality.</p></li><li><p>Deliver &amp; maintain Cybersecurity health and key improvements</p></li><li><p>Maintain the performance and security of networks, infrastructure and hardware across all locations.</p></li><li><p>Maintain and enhance Google Workspace configurations &amp; controls</p></li><li><p>Manage IT assets throughout their full lifecycle, from procurement and deployment to replacement.</p></li><li><p>Oversee IT vendors and service providers, ensuring agreed scope, timelines and standards are met.</p></li><li><p>Lead end-to-end technology rollouts for new store openings.</p></li><li><p>Maintain clear IT documentation and ensure appropriate handovers before new systems reach production.</p></li></ul><p><br></p><p><strong>About you</strong></p><ul><li><p>2–3 years’ experience across networking and/or cybersecurity, ideally within a managed service provider or multi-site environment.</p></li><li><p>Previous Level 2 service desk experience with clear progression into hands-on network and infrastructure ownership.</p></li><li><p>Strong knowledge of switching, network segmentation, firewalls, wireless networks, remote access and troubleshooting.</p></li><li><p>Practical experience implementing security controls, cloud identity solutions and endpoint management platforms. </p></li></ul><ul><li><p>Strong diagnostic, documentation and service-management skills, with excellent attention to detail.</p></li><li><p>Experience managing vendors and holding external partners accountable for scope, quality and delivery.</p></li><li><p>A proactive, approachable communicator who can confidently support both technical and non-technical team members.</p></li><li><p>A dependable, solutions-focused mindset with the discipline to follow issues through to completion.<br></p></li></ul><p><strong>Nice to have</strong></p><ul><li><p>Relevant certification in networking, cybersecurity or IT operations.</p></li><li><p>Experience with recognised security frameworks and retail point-of-sale systems.</p></li><li><p>Experience with Google Workspace and related applications</p></li><li><p>Exposure to retail, hospitality or other multi-site operations.</p></li><li><p>Experience supporting warehouse or distribution centre technology, including scanners, label printers and wireless coverage.</p></li><li><p>Knowledge of structured cabling and technology fit-outs.</p></li><li><p>Previous supervisory experience—or the ambition and potential to step into a people leadership role.<br></p></li></ul><p><strong>Why join us</strong></p><ul><li><p>Take ownership of a key technology function from day one, with genuine opportunity to grow alongside the business.</p></li><li><p>Receive direct mentoring from the Head of Technology across strategy, architecture, commercial decision-making and vendor management.</p></li><li><p>Deliver meaningful technology and security improvements with the backing to make them happen.</p></li><li><p>Enjoy a varied role spanning networks, security, hardware, vendors, support and new-store rollouts.</p></li><li><p>Access support for professional certifications and structured learning.</p></li><li><p>Company laptop and equipment provided.</p></li><li><p>Generous staff discount across Ringers Western products.</p></li></ul><p><br></p>",
+      "job_description": "<p><em>Ringers Western is growing fast, and our technology team is growing with it. We are looking for an Infrastructure, Security &amp; Support Lead to own one of the three pillars of our tech department: the network, the infrastructure, the security programme and the IT support service that keeps HQ, our distribution centre and every store trading. This is the role for someone who has spent two or three years on a service desk, most likely at a manage device provider, moved into networks and security, been part of a security improvement programme, and is now ready to own it rather than execute someone else's plan. You will get that ownership from day one, with direct mentoring from the Head of Technology, vendor partners and a business growing quickly enough that the scope keeps growing with you.</em><br></p><p><strong>About the role</strong></p><p>You own the network across HQ, the warehouse and our stores. Every device the business runs on. The security remediation programme coming out of our recent cybersecurity assessment. Our IT partner, internet and telco relationships. The technology build for every new store we open. And the IT support service itself, including supervising and developing our Support Team Member.</p><p>It is a genuine mix of hands-on work and ownership. Some weeks you are deep in a firewall rule set or standing up a new store. Others you are chairing the monthly risk and security review, holding a vendor to their dates, or building the case for the next piece of investment.<br></p><p><strong>Key responsibilities</strong></p><ul><li><p>Lead the delivery of high-quality IT support across our Head Office, Distribution Centre and retail stores.</p></li><li><p>Supervise, coach and develop the IT Support Team while managing service levels and work quality.</p></li><li><p>Deliver key cybersecurity improvements, including MFA, identity management, endpoint compliance and security monitoring.</p></li><li><p>Maintain the performance and security of networks, infrastructure and hardware across all locations.</p></li><li><p>Manage IT assets throughout their full lifecycle, from procurement and deployment to replacement.</p></li><li><p>Oversee IT vendors and service providers, ensuring agreed scope, timelines and standards are met.</p></li><li><p>Lead end-to-end technology rollouts for new store openings.</p></li><li><p>Maintain clear IT documentation and ensure appropriate handovers before new systems reach production.</p></li></ul><p><br></p><p><strong>About you</strong></p><ul><li><p>2–3 years’ experience across networking and/or cybersecurity, ideally within a managed service provider or multi-site environment.</p></li><li><p>Previous Level 2 service desk experience with clear progression into hands-on network and infrastructure ownership.</p></li><li><p>Strong knowledge of switching, network segmentation, firewalls, wireless networks, remote access and troubleshooting.</p></li><li><p>Practical experience implementing security controls, cloud identity solutions and endpoint management platforms.</p></li><li><p>Strong diagnostic, documentation and service-management skills, with excellent attention to detail.</p></li><li><p>Experience managing vendors and holding external partners accountable for scope, quality and delivery.</p></li><li><p>A proactive, approachable communicator who can confidently support both technical and non-technical team members.</p></li><li><p>A dependable, solutions-focused mindset with the discipline to follow issues through to completion.<br></p></li></ul><p><strong>Nice to have</strong></p><ul><li><p>Relevant certification in networking, cybersecurity or IT operations.</p></li><li><p>Experience with recognised security frameworks and retail point-of-sale systems.</p></li><li><p>Exposure to retail, hospitality or other multi-site operations.</p></li><li><p>Experience supporting warehouse or distribution centre technology, including scanners, label printers and wireless coverage.</p></li><li><p>Knowledge of structured cabling and technology fit-outs.</p></li><li><p>Previous supervisory experience—or the ambition and potential to step into a people leadership role.<br></p></li></ul><p><strong>Why join us</strong></p><ul><li><p>Take ownership of a key technology function from day one, with genuine opportunity to grow alongside the business.</p></li><li><p>Receive direct mentoring from the Head of Technology across strategy, architecture, commercial decision-making and vendor management.</p></li><li><p>Deliver meaningful technology and security improvements with the backing to make them happen.</p></li><li><p>Enjoy a varied role spanning networks, security, hardware, vendors, support and new-store rollouts.</p></li><li><p>Access support for professional certifications and structured learning.</p></li><li><p>Company laptop and equipment provided.</p></li><li><p>Generous staff discount across Ringers Western products.</p></li></ul><p><br></p>",
       "keywords": [
         "infrastructure",
         "security",
