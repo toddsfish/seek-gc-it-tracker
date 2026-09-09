@@ -1,430 +1,431 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-09",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-10T08:07:02.148203+10:00",
-  "total_jobs": 56,
+  "scraped_at": "2026-09-09T08:10:53.182459+10:00",
+  "total_jobs": 58,
   "keywords": [
-    {
-      "term": "analyst",
-      "count": 11,
-      "share": 0.1964
-    },
     {
       "term": "it",
       "count": 11,
-      "share": 0.1964
+      "share": 0.1897
+    },
+    {
+      "term": "analyst",
+      "count": 10,
+      "share": 0.1724
     },
     {
       "term": "support",
       "count": 10,
-      "share": 0.1786
+      "share": 0.1724
+    },
+    {
+      "term": "developer",
+      "count": 8,
+      "share": 0.1379
     },
     {
       "term": "manager",
       "count": 8,
-      "share": 0.1429
+      "share": 0.1379
     },
     {
       "term": "service",
       "count": 8,
-      "share": 0.1429
+      "share": 0.1379
     },
     {
       "term": "engineer",
       "count": 7,
-      "share": 0.125
+      "share": 0.1207
     },
     {
       "term": "software",
       "count": 7,
-      "share": 0.125
-    },
-    {
-      "term": "developer",
-      "count": 7,
-      "share": 0.125
+      "share": 0.1207
     },
     {
       "term": "business",
-      "count": 6,
-      "share": 0.1071
-    },
-    {
-      "term": "ai",
       "count": 5,
-      "share": 0.0893
+      "share": 0.0862
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.0893
+      "share": 0.0862
+    },
+    {
+      "term": "administrator",
+      "count": 5,
+      "share": 0.0862
     },
     {
       "term": "desk",
       "count": 5,
-      "share": 0.0893
+      "share": 0.0862
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.0893
+      "share": 0.0862
     },
     {
-      "term": "administrator",
+      "term": "ai",
       "count": 4,
-      "share": 0.0714
+      "share": 0.069
     },
     {
       "term": "technician",
       "count": 4,
-      "share": 0.0714
+      "share": 0.069
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0536
+      "share": 0.0517
     },
     {
       "term": "architect",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0345
     },
     {
       "term": "specialist",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0345
+    },
+    {
+      "term": "sharepoint",
+      "count": 2,
+      "share": 0.0345
     },
     {
       "term": "solutions",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0345
+    },
+    {
+      "term": "technology",
+      "count": 2,
+      "share": 0.0345
+    },
+    {
+      "term": "power",
+      "count": 2,
+      "share": 0.0345
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0345
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0345
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0345
     },
     {
       "term": "project",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0345
     },
     {
       "term": "delivery",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0345
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0345
     },
     {
       "term": "cyber",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0345
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0345
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "sharepoint",
-      "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "jetstar",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "retail",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "technology",
-      "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "risk",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "resilience",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "architech",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "dynamics",
       "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "power",
-      "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "native",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "php",
       "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "backend",
-      "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "shopify",
-      "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "frontend",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
+    },
+    {
+      "term": "backend",
+      "count": 1,
+      "share": 0.0172
+    },
+    {
+      "term": "shopify",
+      "count": 1,
+      "share": 0.0172
+    },
+    {
+      "term": "ostendo",
+      "count": 1,
+      "share": 0.0172
+    },
+    {
+      "term": "short",
+      "count": 1,
+      "share": 0.0172
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "groundworks",
       "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "trust",
-      "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "accounting",
-      "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "pimpama",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "campus",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
+    },
+    {
+      "term": "trust",
+      "count": 1,
+      "share": 0.0172
+    },
+    {
+      "term": "accounting",
+      "count": 1,
+      "share": 0.0172
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "msp",
-      "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "experience",
-      "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "required",
-      "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "desktop",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "month",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
+    },
+    {
+      "term": "msp",
+      "count": 1,
+      "share": 0.0172
+    },
+    {
+      "term": "experience",
+      "count": 1,
+      "share": 0.0172
+    },
+    {
+      "term": "required",
+      "count": 1,
+      "share": 0.0172
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "broadbeach",
-      "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "operations",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
+    },
+    {
+      "term": "broadbeach",
+      "count": 1,
+      "share": 0.0172
+    },
+    {
+      "term": "apps",
+      "count": 1,
+      "share": 0.0172
+    },
+    {
+      "term": "m365",
+      "count": 1,
+      "share": 0.0172
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "evolve",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "splicer",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "ecommerce",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     },
     {
       "term": "catalogue",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0172
     }
   ],
   "jobs": [
-    {
-      "job_id": "94508427",
-      "job_title": "AI Business Analyst",
-      "business_name": "Southport Sharks",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "Fixed Term 6 Month Contract - Salaried Role",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94508427",
-      "advertiser_id": "20817309",
-      "posted_date": "2026-09-09T01:13:24Z",
-      "job_description": "<p>Southport Sharks is looking for a hands on AI Business Analyst to help us unlock greater value from our data and create smarter, more efficient ways of working across the Club.</p><p>You will spend time with our teams, understand how work is really done, connect information across systems and build practical solutions that improve reporting, reduce manual effort and support better decisions.</p><p>With operations spanning Gaming, Food and Beverage, Hotel, Health Club, Membership, Football and corporate services, no two projects will look the same. Hospitality or venue experience will help you quickly understand the pace, complexity and customer focus of our business.</p><p><strong>What you will do</strong></p><ul><li>Reporting to our CFO you will work with leaders to identify inefficiencies, data gaps and high value improvement opportunities.</li><li>Map data flows, gather requirements and translate business needs into clear solution options.</li><li>Combine and improve data from multiple systems to create useful dashboards, reporting and operational insights.</li><li>Build, test and support practical AI, automation and workflow solutions using approved tools.</li><li>Ensure every solution meets privacy, security, risk and responsible AI requirements.</li></ul><p><strong>What you will bring</strong></p><ul><li>Experience across business analysis, data analysis, business intelligence, process improvement or automation.</li><li>Strong skills in requirements gathering, process mapping, problem solving and stakeholder engagement.</li><li>Experience working with dashboards and reporting tools such as Power BI, Tableau or equivalent.</li><li>An applied understanding of AI and automation tools.</li><li>The ability to turn complex data and technical concepts into clear business recommendations.</li><li>A practical, collaborative style and genuine interest in helping teams work better.</li></ul><p><strong>Why join Southport Sharks?</strong></p><ul><li>Great benefits!&nbsp;</li><li>Work on meaningful projects across a diverse and fast moving community organisation.</li><li>See your ideas move from discovery to delivery and create measurable operational impact.</li><li>Partner directly with leaders and teams across the Club.</li><li>Help shape the next stage of Southport Sharks data and AI capability.</li></ul><p><strong>Ready to make an impact?</strong></p><p>If you enjoy getting close to the problem, finding the story in the data and building solutions people will actually use, we would love to hear from you.</p>",
-      "keywords": [
-        "ai",
-        "business",
-        "analyst"
-      ]
-    },
     {
       "job_id": "94480021",
       "job_title": "Support Specialist - Trust Accounting (Remote)",
@@ -752,6 +753,23 @@
         "service",
         "delivery",
         "coordinator"
+      ]
+    },
+    {
+      "job_id": "94332661",
+      "job_title": "Senior Technology Lead",
+      "business_name": "Tradezone Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Programme & Project Management",
+      "pay_range": "",
+      "area": "Helensvale, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94332661",
+      "advertiser_id": "46711243",
+      "posted_date": "2026-09-01T05:30:11Z",
+      "job_description": "<p><strong>About Us</strong></p><p>Tradezone is the fastest growing electrical wholesaler in Australia. We launched in 2015 and now operate six state-of-the-art distribution centres across Australia - supplying electrical, solar, HVAC, data and safety products to trade professionals nationwide, with more sites to come.</p><p>We are a division of the Kingston Group, a private, family-owned Australian company that has been wholesaling and distributing for over 40 years. We combine the strength of a national business with the culture of a close-knit team, and pride ourselves on being at the forefront of technology and innovation - from our real-time online platform, live - stock visibility, to our own national delivery fleet with live delivery tracking.</p><p><br></p><p><strong>About the Role</strong></p><p>We're looking for an experienced <strong>Senior Technology Lead</strong> to join our Gold Coast team and play a key role in shaping Tradezone's national technology modernisation program.</p><p>This is a hands-on role focused on designing and delivering modern technology solutions, rather than simply maintaining existing systems. You'll work closely with the Technology Manager and our upcoming internal technology team to help shape our modern workplace platform, identity and device management, and how technology is delivered and supported across our national network.</p><p>This is a genuine opportunity to influence the direction of our technology environment and bring your experience of modern platforms, infrastructure and workplace technology to a growing Australian business.</p><p><br></p><p><strong>What We Offer</strong></p><ul><li><p>Permanent full-time role based on the Gold Coast, with the opportunity to travel to our sites</p></li><li><p>Opportunity to shape the direction of a rapidly growing national business</p></li><li><p>Hands-on modernisation projects from design through to implementation</p></li><li><p>National-level scope with visibility and impact across our Distribution Centre network</p></li><li><p>Career development within a growing technology function</p></li></ul><p><br></p><p><strong>Key Responsibilities</strong></p><ul><li><p>Design and deliver modern workplace, identity and endpoint management solutions across our national network</p></li><li><p>Lead technical delivery of modernisation projects from design through to implementation and handover</p></li><li><p>Define and maintain Tradezone's standard operating environment across our sites</p></li><li><p>Review and challenge technical designs, proposals and solutions from external technology partners</p></li><li><p>Work with the Technology Manager and internal technology team to shape the modernisation roadmap</p></li><li><p>Provide technical guidance and support to the wider technology team and business</p></li><li><p>Translate business outcomes into practical, scalable technology solutions</p></li><li><p><br></p></li></ul><p><strong>About You</strong></p><p>We're looking for a hands-on technology leader who enjoys solving complex problems and turning ideas into practical solutions.</p><p>You'll bring:</p><ul><li><p>Current hands-on experience designing and delivering cloud infrastructure services across <strong>Microsoft Azure</strong> and/or <strong>AWS</strong></p></li><li><p>Significant experience leading technology delivery across infrastructure, workplace, service management or a combination</p></li><li><p>Strong endpoint management and standard operating environment experience</p></li><li><p>Architecture knowledge across identity, security, networking and integration</p></li><li><p>The ability to confidently assess and challenge solutions proposed by external technology partners</p></li><li><p>Strong communication skills, with the ability to translate technical concepts into business outcomes</p></li><li><p>A proactive, practical approach with the ability to work autonomously and collaboratively</p></li></ul><p><strong>Highly regarded:</strong></p><ul><li><p>Experience with modern data platforms including <strong>Microsoft Fabric, Databricks, Azure Data Lake </strong>or equivalent.</p></li><li><p>ITIL or other service management experience</p></li><li><p>Experience assessing and modernising legacy application environments</p></li><li><p>Experience mentoring and developing junior technical team members</p></li></ul><p><br>If you're looking for a role where you can help shape modernisation rather than simply inherit it, we'd love to hear from you. Apply today and be part of Tradezone's continued growth! Please include a cover letter outlining your relevant experience and, in particular, a recent technology modernisation project you have personally designed and delivered.</p><p><em>Please ensure your resume is updated with your most recent work history. Only shortlisted candidates will be contacted.</em></p>",
+      "keywords": [
+        "technology"
       ]
     },
     {
@@ -1462,6 +1480,46 @@
       "keywords": [
         "shopify",
         "developer"
+      ]
+    },
+    {
+      "job_id": "93873391",
+      "job_title": "Ostendo Developer – Short-Term Contract",
+      "business_name": "Private Advertiser",
+      "work_type": "Contract/Temp",
+      "job_type": "Developers/Programmers",
+      "pay_range": "$100 per hour",
+      "area": "Ormeau, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93873391",
+      "advertiser_id": "",
+      "posted_date": "2026-08-10T06:33:53Z",
+      "job_description": "<p><strong>$100 per hour | Short-term contract | Potential for extension</strong></p><p>We are seeking an experienced <strong>Ostendo Developer</strong> to join our team on a short-term contract, with the potential for extension. <strong>If you do not have specific Ostendo development experience, do not apply as your application will not be considered</strong>.</p><p>This is a hands-on development role focused on <strong>Ostendo scripting, workflow implementation, automation and system improvement</strong>. You will work closely with the business to develop practical solutions that improve processes, efficiency and the user experience.</p><p><strong>About the Role</strong></p><p>You will be responsible for developing and enhancing our Ostendo ERP environment, with a particular focus on scripting and workflow automation.</p><p><strong>Key responsibilities include:</strong></p><ul><li><p>Developing, maintaining and modifying <strong>Ostendo scripts</strong>.</p></li><li><p>Automating business processes, data updates and repetitive tasks.</p></li><li><p>Developing scripts for <strong>business rules, validations, calculations and automated actions</strong>.</p></li><li><p>Designing and implementing <strong>Ostendo workflows</strong> to streamline business processes.</p></li><li><p>Translating manual processes into automated workflows, including approvals, validations, notifications and system actions.</p></li><li><p>Troubleshooting and improving existing scripts, workflows and customisations.</p></li><li><p>Developing and maintaining <strong>custom data screens</strong> and functionality.</p></li><li><p>Developing reports, queries and data solutions within Ostendo.</p></li><li><p>Working with SQL and Ostendo data to investigate issues and develop solutions.</p></li><li><p>Working with users and stakeholders to understand requirements and deliver practical solutions.</p></li><li><p>Testing and documenting new functionality and system changes.</p></li><li><p>Providing technical support and troubleshooting for Ostendo users.</p></li><li><p>Assisting with the <strong>upgrade from Ostendo Build 242 to Build 243 Continuum</strong>, including testing existing scripts, workflows and customisations.</p></li></ul><p><strong>About You</strong></p><p><strong>To be successful in this role, you will have:</strong></p><ul><li><p>Demonstrated <strong>hands-on Ostendo development experience</strong>.</p></li><li><p>Strong experience with <strong>Ostendo scripting</strong>.</p></li><li><p>Experience designing and implementing <strong>Ostendo workflows and automation</strong>.</p></li><li><p>Experience with Ostendo customisation, including data screens and reports.</p></li><li><p>Good understanding of SQL and relational databases.</p></li><li><p>Strong analytical and problem-solving skills.</p></li><li><p>The ability to understand business requirements and translate them into effective technical solutions.</p></li><li><p>The ability to work independently and hit the ground running.</p></li><li><p>Strong communication skills and a practical, solutions-focused approach.</p></li></ul><p><strong>Why Join Us?</strong></p><p>This is an opportunity to work on meaningful Ostendo development projects where your skills will have a direct impact on improving business processes and automation.</p><p>The initial engagement is <strong>short term at $100 per hour</strong>, with the <strong>possibility of extension</strong> for the right person.</p><p>If you are an experienced Ostendo Developer with strong scripting and workflow skills, we would like to hear from you.</p><p><strong>Apply now with your CV and a brief summary of your Ostendo experience and availability.</strong></p>",
+      "keywords": [
+        "ostendo",
+        "developer",
+        "short"
+      ]
+    },
+    {
+      "job_id": "93871619",
+      "job_title": "Sharepoint, Power Apps and M365 Administrator",
+      "business_name": "Capital Talent Consulting Pty Ltd",
+      "work_type": "Contract/Temp",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "$65 – $73 per hour",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93871619",
+      "advertiser_id": "28554175",
+      "posted_date": "2026-08-10T05:38:16Z",
+      "job_description": "<p>We are working with a large Govt Dept to source a Program Officer (Digital Solutions - Sharepoint Admin). <br>The role is focused on supporting and enhancing existing business solutions rather than specialist application development. The position contributes to business improvement initiatives by working with stakeholders to understand operational requirements, develop low-code solutions, and provide ongoing support and training to users.  We are seeking candidates with intermediate experience in SharePoint, Microsoft 365 digital solutions and business process improvement. Experience maintaining existing Power Apps, Power Automate workflows and reporting solutions would be desirable.</p><p>Accountabilities include:</p><ul><li><p>Develop, configure and maintain SharePoint Online sites, libraries, lists and related content management solutions.</p></li><li><p>Develop, configure, maintain and support business systems, digital solutions and information management platforms, including but not limited to SharePoint Online, Microsoft 365 applications and other systems.</p></li><li><p>Design and support Power Platform applications, workflows and automations using Power Apps and Power Automate (exp desirable)</p></li><li><p>Design, develop and support digital solutions, workflows, automations and business improvement initiatives using approved departmental systems and technologies</p></li><li><p>Assist with identifying opportunities to improve business processes through the use of Microsoft 365 technologies and digital solutions.</p></li><li><p>Provide technical advice and support to users regarding SharePoint Online, Power Platform and other Microsoft 365 tools.</p></li><li><p>Provide technical advice, user support and training relating to business systems, digital solutions and approved software applications used across the region.</p></li><li><p>Participate in digital and business improvement projects, including testing, implementation and user support activities.</p></li></ul><p>To be suitable for the role, you will have the following skills and experience:</p><ul><li><p>Intermediate experience in SharePoint, Microsoft 365 digital solutions and business process improvement. </p></li><li><p>Experience maintaining existing Power Apps, Power Automate workflows and reporting solutions would be desirable.</p></li><li><p>Ability to analyse business processes and identify opportunities for improvement through digital solutions.</p></li><li><p>Experience configuring and maintaining SharePoint Online environments, including permissions, document libraries, metadata and content structures.</p></li></ul><p>This is a 12-month contract with extension possible. Whilst it is a hybrid position, you will need to attend the Gold Coast offices and therefore will need to be based in Brisbane or the Gold Coast.</p>",
+      "keywords": [
+        "sharepoint",
+        "power",
+        "apps",
+        "m365",
+        "administrator"
       ]
     },
     {
