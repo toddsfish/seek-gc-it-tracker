@@ -1,433 +1,411 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-10",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-11T08:05:23.123807+10:00",
-  "total_jobs": 51,
+  "scraped_at": "2026-09-10T08:07:02.148203+10:00",
+  "total_jobs": 56,
   "keywords": [
     {
       "term": "analyst",
       "count": 11,
-      "share": 0.2157
+      "share": 0.1964
     },
     {
       "term": "it",
+      "count": 11,
+      "share": 0.1964
+    },
+    {
+      "term": "support",
       "count": 10,
-      "share": 0.1961
+      "share": 0.1786
     },
     {
       "term": "manager",
       "count": 8,
-      "share": 0.1569
+      "share": 0.1429
     },
     {
-      "term": "support",
+      "term": "service",
       "count": 8,
-      "share": 0.1569
+      "share": 0.1429
     },
     {
       "term": "engineer",
       "count": 7,
-      "share": 0.1373
+      "share": 0.125
     },
     {
-      "term": "service",
+      "term": "software",
       "count": 7,
-      "share": 0.1373
+      "share": 0.125
+    },
+    {
+      "term": "developer",
+      "count": 7,
+      "share": 0.125
     },
     {
       "term": "business",
       "count": 6,
-      "share": 0.1176
-    },
-    {
-      "term": "software",
-      "count": 6,
-      "share": 0.1176
-    },
-    {
-      "term": "developer",
-      "count": 6,
-      "share": 0.1176
+      "share": 0.1071
     },
     {
       "term": "ai",
       "count": 5,
-      "share": 0.098
+      "share": 0.0893
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.098
+      "share": 0.0893
+    },
+    {
+      "term": "desk",
+      "count": 5,
+      "share": 0.0893
+    },
+    {
+      "term": "officer",
+      "count": 5,
+      "share": 0.0893
     },
     {
       "term": "administrator",
       "count": 4,
-      "share": 0.0784
-    },
-    {
-      "term": "desk",
-      "count": 4,
-      "share": 0.0784
+      "share": 0.0714
     },
     {
       "term": "technician",
       "count": 4,
-      "share": 0.0784
+      "share": 0.0714
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0588
-    },
-    {
-      "term": "officer",
-      "count": 3,
-      "share": 0.0588
+      "share": 0.0536
     },
     {
       "term": "architect",
       "count": 2,
-      "share": 0.0392
+      "share": 0.0357
+    },
+    {
+      "term": "specialist",
+      "count": 2,
+      "share": 0.0357
+    },
+    {
+      "term": "solutions",
+      "count": 2,
+      "share": 0.0357
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0392
+      "share": 0.0357
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0392
+      "share": 0.0357
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0392
+      "share": 0.0357
     },
     {
       "term": "project",
       "count": 2,
-      "share": 0.0392
+      "share": 0.0357
     },
     {
       "term": "delivery",
       "count": 2,
-      "share": 0.0392
+      "share": 0.0357
+    },
+    {
+      "term": "program",
+      "count": 2,
+      "share": 0.0357
     },
     {
       "term": "cyber",
       "count": 2,
-      "share": 0.0392
+      "share": 0.0357
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0392
-    },
-    {
-      "term": "solution",
-      "count": 1,
-      "share": 0.0196
+      "share": 0.0357
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
-      "term": "reporting",
+      "term": "solution",
       "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "specialist",
-      "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "jetstar",
-      "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "retail",
-      "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
-      "term": "solutions",
+      "term": "jetstar",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
+    },
+    {
+      "term": "retail",
+      "count": 1,
+      "share": 0.0179
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "technology",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "risk",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "resilience",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "architech",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "dynamics",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "native",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "backend",
-      "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "frontend",
-      "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "php",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
+    },
+    {
+      "term": "backend",
+      "count": 1,
+      "share": 0.0179
+    },
+    {
+      "term": "shopify",
+      "count": 1,
+      "share": 0.0179
+    },
+    {
+      "term": "frontend",
+      "count": 1,
+      "share": 0.0179
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "groundworks",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
+    },
+    {
+      "term": "trust",
+      "count": 1,
+      "share": 0.0179
+    },
+    {
+      "term": "accounting",
+      "count": 1,
+      "share": 0.0179
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "pimpama",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "campus",
       "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "msp",
-      "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "experience",
-      "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "required",
-      "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
+    },
+    {
+      "term": "msp",
+      "count": 1,
+      "share": 0.0179
+    },
+    {
+      "term": "experience",
+      "count": 1,
+      "share": 0.0179
+    },
+    {
+      "term": "required",
+      "count": 1,
+      "share": 0.0179
     },
     {
       "term": "desktop",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "month",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "operations",
-      "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
+    },
+    {
+      "term": "operations",
+      "count": 1,
+      "share": 0.0179
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "program",
-      "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
+    },
+    {
+      "term": "digital",
+      "count": 1,
+      "share": 0.0179
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "evolve",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
-      "term": "house",
+      "term": "fibre",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
-      "term": "web",
+      "term": "splicer",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "ecommerce",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     },
     {
       "term": "catalogue",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0179
     }
   ],
   "jobs": [
-    {
-      "job_id": "94541493",
-      "job_title": "Reporting Analyst",
-      "business_name": "Coral Homes",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "Competitive Salary + Super",
-      "area": "Varsity Lakes, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94541493",
-      "advertiser_id": "29673859",
-      "posted_date": "2026-09-10T03:27:10Z",
-      "job_description": "<p><strong>The Role - Reporting Analyst</strong></p><p>We're seeking a Reporting Analyst to work closely with stakeholders and management to understand reporting needs and translate them into practical solutions. In this role, you'll gather requirements, refine existing reports, and develop new reporting outputs that support decision-making across the organisation - from sales and permits through to construction, service &amp; warranty, and finance. You'll collaborate with an experienced BI team while owning your own reporting tasks, and there's scope to go deeper into our data platform - ETL, integrations, and automation, depending on your strengths.</p><p>You'll be working with Microsoft SQL Server and reporting tools (both paginated and interactive reports built in Power BI and/or Report Builder), with data sourced from our Construction Management systems (Framework/Databuild) and other line-of-business applications.</p><p>This is a full-time position based at our Head Office in Varsity Lakes, working 8:30am-5pm Monday - Thursday and 8:30am - 4pm Fridays.</p><p><strong>Duties &amp; Responsibilities</strong></p><ul><li><p>Build, maintain, and enhance reports and dashboards using SSRS/Report Builder and Power BI</p></li><li><p>Work with business stakeholders to clarify reporting needs, document requirements, and see requests through to sign-off</p></li><li><p>Write and update SQL queries to extract and prepare data from line-of-business applications, including ad-hoc extracts for management and finance</p></li><li><p>Troubleshoot reporting issues end to end - report errors, failed refreshes, subscription faults, and data discrepancies - through to root cause</p></li><li><p>Manage report server access, security, and scheduled subscriptions, including provisioning as staff join, move, or leave</p></li><li><p>Maintain recurring reports delivered to external partners and suppliers</p></li><li><p>Perform data validation and reasonableness checks</p></li><li><p>Contribute to ETL processes, external data integrations, and automation across the BI environment</p></li><li><p>Use source control (Azure DevOps/Git) and task tracking to keep all work versioned, documented, and supportable by the team</p></li></ul><p><strong>About You</strong></p><p>To be successful in this role you will have:&nbsp;</p><ul><li><p>Experience creating reports or dashboards in SSRS, Power BI, or similar reporting tools</p></li><li><p>Working knowledge of SQL and a willingness to continue building SQL skills</p></li><li><p>Familiarity with AI coding tools to assist development (i.e. Claude Code, Codex)</p></li><li><p>Ability to understand business questions and translate them into clear reporting outputs</p></li><li><p>Strong communication skills and confidence working with non-technical stakeholders</p></li><li><p>A service-oriented approach,&nbsp;comfortable managing and prioritising a queue of requests</p></li><li><p>Attention to detail and an interest in data accuracy and storytelling with data</p></li><li><p>Familiarity with version control practices, or a willingness to learn</p></li></ul><p><strong>Highly regarded, but not required</strong></p><ul><li><p>Scripting for automation (Python, PowerShell) or experience with APIs and ETL pipelines</p></li><li><p>Power BI Report Server / SSRS administration experience</p></li><li><p>Exposure to enterprise construction management system data (specifically Framework and Databuild) or the residential construction industry</p></li></ul><p><strong>About Us</strong></p><p>Coral Homes is one of Queensland’s largest and most trusted home builders, with an expansive display home program and a service region spanning most of Australia’s eastern seaboard. Our commitment to quality, value, and exceptional customer service has earned us a strong reputation for delivering on our promises.</p><p>Our success is built on a culture of service excellence. From our sales consultants to our head office team and construction professionals, every member of the Coral Homes team is dedicated to providing a seamless and rewarding home-building journey.&nbsp;</p><p><strong>How to Apply</strong></p><p>To be considered for this position, please apply now with your CV and a tailored cover letter. Applications will be reviewed as they are received. For further information, please contact&nbsp;Taylor Fifield at&nbsp;<a href=\"mailto:careers@coralhomes.com.au\">careers@coralhomes.com.au</a></p><p>At Coral Homes, we are committed to employing individuals who align with our core business values and meet the requirements of the role. As part of the recruitment process, there are a number of compliance checks which may be conducted for a role including police /criminal background checks, medical, drug, and alcohol testing, and reference checks.</p><p><strong>Only Australian or New Zealand Citizens, Australian Permanent Residency holders, and candidates with full-work rights in Australia should apply.</strong></p>",
-      "keywords": [
-        "reporting",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "94536326",
-      "job_title": "In-house Junior Web Developer",
-      "business_name": "Jade Finance Australia",
-      "work_type": "Full time",
-      "job_type": "Web Development & Production",
-      "pay_range": "",
-      "area": "Varsity Lakes, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94536326",
-      "advertiser_id": "44558677",
-      "posted_date": "2026-09-10T01:06:16Z",
-      "job_description": "<p><strong>In-house Junior Web Developer</strong></p><p><strong>Jade Finance Australia</strong></p><p><strong>Location:</strong> Varsity Lakes, Gold Coast, QLD<br><strong>Job Type:</strong> Full-Time, On-Site</p><p><br><strong>About Us</strong></p><p>Jade Finance is an Australian finance brokerage operating nationally, providing asset finance to individuals and businesses. We’re a people-first business that values strong working relationships, collaboration, and the environments we create within our team. Building a positive culture is central to how we operate, and we look for like-minded people who want to grow with a business that values commitment, teamwork, and long-term development.</p><p><br></p><hr><p><br></p><h2><strong>The Opportunity</strong></h2><p>We’re expanding our in-house development team and are looking for a talented Junior Web Developer to join Jade Finance on a full-time, on-site basis.</p><p>This role is ideal for a developer who enjoys building, maintaining, and improving real-world digital products. You’ll work closely with marketing, design, and internal stakeholders to deliver high-quality web solutions that directly support the business.</p><p><br></p><hr><p><br></p><h2><strong>About the Role</strong></h2><p>You’ll play a hands-on role across our websites and internal projects, with responsibilities including:</p><ul><li><p>Developing, maintaining, and improving company websites and internal web projects</p></li><li><p>Building, customising, and maintaining WordPress websites, including themes, layouts, plugins, performance, and integrations</p></li><li><p>Writing clean, efficient, and well-structured code across front-end and back-end components</p></li><li><p>Troubleshooting, debugging, and resolving website and application issues</p></li><li><p>Working collaboratively with internal teams to gather requirements and deliver solutions</p></li><li><p>Providing progress updates and supporting smooth testing and deployments</p></li></ul><p><br></p><hr><p><br></p><h2><strong>What We’re Looking For</strong></h2><ul><li><p>Experience with WordPress, HTML, CSS, JavaScript, React.js, and PHP</p></li><li><p>Ability to work independently and troubleshoot both front-end and back-end issues</p></li><li><p>High attention to detail with strong problem-solving skills</p></li><li><p>Clear communication skills and the ability to work collaboratively in a team environment</p></li><li><p>Strong organisational and time-management skills</p></li><li><p>Experience with Zapier and API integrations is advantageous but not required</p></li><li><p>Must have full Australian work rights</p></li></ul><p><br></p><hr><p><br></p><h2><strong>Please Note</strong></h2><p>This is a <strong>full-time, on-site position</strong> based at our <strong>Varsity Lakes office</strong>.</p><p>To demonstrate that you’ve read the job description, please include the phrase <strong>“Better Finance, Better Loans”</strong> at the top of your cover letter.</p><p><br></p><hr><p><br></p><h2><strong>How to Apply</strong></h2><p>If this role sounds like a good fit and you’re interested in joining our team, please submit the following via SEEK:</p><p>a) Resume<br>b) Cover letter</p><p>If you have any questions about the role, you’re welcome to contact our recruitment team at <strong><a href=\"mailto:info@jade.finance\">info@jade.finance</a></strong>.</p><p><br></p><p>Socials:</p><p>https://www.facebook.com/cheaperloans/</p><p>https://au.linkedin.com/company/jade-finance-australia</p><p>https://www.instagram.com/jadefinance_/</p>",
-      "keywords": [
-        "house",
-        "web",
-        "developer"
-      ]
-    },
     {
       "job_id": "94508427",
       "job_title": "AI Business Analyst",
@@ -445,6 +423,26 @@
         "ai",
         "business",
         "analyst"
+      ]
+    },
+    {
+      "job_id": "94480021",
+      "job_title": "Support Specialist - Trust Accounting (Remote)",
+      "business_name": "RMS Cloud",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94480021",
+      "advertiser_id": "62614449",
+      "posted_date": "2026-09-08T01:53:24Z",
+      "job_description": "<p><strong>About the role</strong></p><p>As a Customer Success Specialist specialising in <strong>Trust and Owner Accounting</strong>, you will bring deep expertise in owner and trust accounting to help customers navigate end of month processes, day-to-day operations on the RMS platform, and complex data discrepancies. You will troubleshoot and document product issues, contribute to internal knowledge, and be a trusted voice for customers working through some of their most detailed and high-stakes workflows.</p><p><strong>Key responsibilities</strong></p><ul><li><p>Support customers with <strong>trust and owner accounting</strong> queries, from routine day-to-day questions through to end-of-month close</p></li><li><p>Troubleshoot and document product bugs and identify enhancement opportunities</p></li><li><p>Resolve client and implementation-specific issues with accuracy and care</p></li><li><p>Manage multiple open cases simultaneously across varying complexity and stage</p></li><li><p>Contribute to and build internal knowledge resources that lift the whole team</p></li><li><p>Collaborate with colleagues across a global, 24x7 support environment</p></li></ul><p><strong>About you</strong></p><ul><li><p>Demonstrated experience in the trust and owner accounting space, with a strong understanding of what is and is not possible in practice</p></li><li><p>A genuine love of problem-solving and the patience to work through issues that are not immediately clear</p></li><li><p>Strong customer communication skills, including the ability to handle complex issues with empathy and clarity</p></li><li><p>An analytical mindset that is comfortable with a highly configurable product and a steep learning curve</p></li><li><p>The ability to manage competing priorities without losing track of the details</p></li></ul><p><strong>About us</strong></p><p>At RMS, our people build scalable technology for the hospitality industry worldwide. We are in a high-growth, high-impact phase, applying data and AI to how we design, build, and evolve our SaaS platform. We are building for scale, speed, and long-term innovation. At RMS, every person is empowered to own their space, challenge the status quo, and make a meaningful impact.</p><p><strong>Life at RMS:</strong></p><ul><li><p>Growth and progression opportunities to expand your scope, develop new skills, and progress your career as the business scales</p></li><li><p>Ownership and autonomy to own your work and make decisions</p></li><li><p>Work that has visible impact and contributes to meaningful initiatives that shape how the platform evolves</p></li><li><p>Exposure to AI and modern ways of working with opportunity to learn, adapt, and build skills for the future</p></li><li><p>Remote working with flexible ways of working, balancing focus time at home with collaboration and connection in person</p></li><li><p>Inclusive and supportive culture that is collaborative, down-to-earth, and respectful of diverse perspectives</p></li></ul><p><br></p>",
+      "keywords": [
+        "support",
+        "specialist",
+        "trust",
+        "accounting"
       ]
     },
     {
@@ -1044,6 +1042,25 @@
       ]
     },
     {
+      "job_id": "94128100",
+      "job_title": "Senior Service Desk Analyst",
+      "business_name": "Feros Care",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "Super + NFP Salary packaging",
+      "area": "Coolangatta, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94128100",
+      "advertiser_id": "61736371",
+      "posted_date": "2026-08-21T05:42:35Z",
+      "job_description": "<p><strong>Senior Service Desk Analyst </strong></p><p><strong>We're Feros Care, and we're pleased to meet you.</strong></p><p><strong>And what we care most about is helping people live healthier, happier, better connected lives.</strong></p><p>Since 1990, we've been making it happen, both for older Australians and people with disability. We are proud to be Game Changers. Dream Makers. Kindness Champions. Culture Shapers. Vibrant <br> Creators. And it's not just us who thinks so; We've won many awards on the local and international <br> stage for our approach.</p><p>We're looking for a <strong>Senior Service Desk Analyst</strong> to join our team in <strong>Coolangatta</strong> to provide advanced IT support and operational guidance within our Service Desk team.</p><p>In this role, you'll resolve complex technical issues, coordinate escalations, coach team members and contribute to the day to day success of the Service Desk. Working closely with internal teams and stakeholders, you'll help minimise downtime, enhance the support experience and drive continuous service improvements across the organisation.</p><p><strong>What you'll do</strong></p><ul><li>Provide advanced technical support and resolve complex IT issues.</li><li>Coordinate daily Service Desk operations and manage escalations.</li><li>Coach and support Service Desk Analysts with case reviews and technical guidance.</li><li>Identify recurring issues and contribute to root cause investigations.</li><li>Support improvements to Service Desk processes, knowledge resources and user self service capabilities.</li><li>Support the response to critical incidents and help coordinate timely service restoration.</li><li>Contribute to IT projects, system upgrades and technology rollouts.</li><li>Coordinate hardware procurement, replacements, warranties and vendor relationships.</li><li>Develop user resources and support training for new systems and technologies.</li><li>Deliver exceptional customer service, while minimising disruption to business operations.</li><li>Act as the delegated Service Desk lead when required.</li></ul><p><strong>What you'll bring</strong></p><ul><li>Minimum 2 years' Service Desk experience, including Level 2 support and managing complex incidents and escalations.</li><li>Experience coordinating workloads, prioritising requests and supporting Service Desk operations.</li><li>Strong experience supporting Windows 10/11, Microsoft 365, Exchange, Entra ID, Intune and Active Directory environments.</li><li>Knowledge of IT service management practices, including incident, request, problem and change management.</li><li>Strong troubleshooting and problem solving skills.</li><li>Excellent communication and customer service skills.</li><li>Experience creating documentation, knowledge articles or user guides.</li><li>Experience coaching, mentoring or supporting team members.</li><li>A proactive approach to continuous improvement and service quality.</li><li>Ability to participate in an on call roster and travel to Feros Care sites as required.</li></ul><p><strong>Qualifications &amp; Checks</strong></p><ul><li>Relevant Diploma or Bachelor's degree in Information Technology, or equivalent experience.</li><li>Current Australian Driver Licence.</li><li>Undergo a Nationally Coordinated Criminal History Check.</li><li>Valid Australian working rights.</li></ul><p><strong>Desirable Criteria</strong></p><ul><li>ITIL 4 Foundation certification or similar IT service management experience.</li><li>Experience with SysAid or a similar IT service management platform.</li><li>Experience with Windows Autopilot, application deployment and mobile device management.</li><li>Experience contributing to problem management, knowledge management, self-service or workflow improvements.</li><li>Experience supporting technology projects, procurement activities or device lifecycle management.</li><li>Working knowledge of networking concepts including LAN/WAN, DNS, DHCP and VPN.</li><li>Experience working in aged care, health, disability, community services or another regulated environment.</li></ul><p><strong>Why Feros Care?</strong><br> At Feros Care, we value our people and offer:</p><ul><li>Not for Profit Salary Packaging of up to $15,900 per annum, and meal and entertainment salary sacrifice of up to $2,650 per annum, all tax free, stretching your income further.</li><li>Flexible Working Arrangements, including a hybrid model with a combination of working from our Coolangatta office and the flexibility to work remotely.</li><li>17.5% Annual Leave loading.</li><li>Cultural Leave Days for eligible employees.</li><li>Enjoy exclusive discounts, financial tips, and wellness programs through our ForME employee benefits platform.</li><li>Private Health Insurance Discount with Medibank.</li><li>Employee Assistance Program (EAP).</li><li>Paid Parental Leave (9 weeks) for eligible employees.</li><li>Access to Fitness Passport - discounted gym and pool memberships for you and your family.</li><li>$200 referral bonus per successful referral.</li></ul><p><em>Feros Care acknowledges and pays respect to the Traditional Custodians of this land on which we work. </em></p><p><em>We actively seek to include, welcome and value the unique contributions of all people. We encourage applications from Aboriginal and Torres Strait Islander people, people from cultural and linguistically backgrounds, and people with disability.</em></p><p>If you would like to discuss accessibility requirements, preferred communication methods or other possibilities, please contact <a href=\"mailto:talent@feroscare.com.au\">talent@feroscare.com.au</a></p>",
+      "keywords": [
+        "service",
+        "desk",
+        "analyst"
+      ]
+    },
+    {
       "job_id": "94125889",
       "job_title": "Groundworks Engineer",
       "business_name": "Mabey Hire Pty Ltd",
@@ -1352,6 +1369,99 @@
         "development",
         "manager",
         "evolve"
+      ]
+    },
+    {
+      "job_id": "93941076",
+      "job_title": "Program Officer (Digital Solutions)",
+      "business_name": "Eden Ritchie Recruitment",
+      "work_type": "Contract/Temp",
+      "job_type": "Programme & Project Management",
+      "pay_range": "",
+      "area": "Nerang, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93941076",
+      "advertiser_id": "46293223",
+      "posted_date": "2026-08-12T23:10:40Z",
+      "job_description": "Eden Ritchie Recruitment are seeking an experienced <strong>AO4 Program Officer – Digital Solutions</strong> to support the development and delivery of digital business solutions within a large Queensland Government environment.<br><br>This role will focus on the practical development, administration and support of <strong>SharePoint Online, Power Apps, Power Automate and Microsoft 365 technologies</strong>. You will work closely with stakeholders to understand operational requirements, develop low-code solutions and identify opportunities to improve business processes, collaboration and information management.<br><br><strong>Rate:</strong> $60.06 per hour + super<br> <strong>Location:</strong> Nerang<br> <strong>Contract Length:</strong> 12 months, with possible extension <br><br> <strong>Key Responsibilities</strong> <ul> <li>Develop, configure and maintain SharePoint Online sites, libraries, lists and content management solutions</li> <li>Design and support Power Apps, Power Automate workflows and other low-code digital solutions</li> <li>Identify opportunities to streamline and improve business processes using Microsoft 365 technologies</li> <li>Gather and document business requirements to support solution development</li> <li>Provide technical advice, troubleshooting and ongoing user support</li> <li>Assist with testing, implementation and enhancement of digital solutions</li> <li>Deliver user training and support the adoption of new systems and processes</li> <li>Develop user guides, procedures, system documentation and training materials</li> <li>Support information and records management requirements within SharePoint environments</li> <li>Ensure solutions align with relevant information management, cyber security and governance requirements.</li> </ul> About You To be successful in this role, you will bring:<br> <ul> <li>Demonstrated experience with <strong>SharePoint Online, Power Apps, Power Automate and Microsoft 365</strong></li> <li>Experience supporting, administering or developing business systems and digital solutions</li> <li>Hands-on experience configuring SharePoint environments, including permissions, document libraries, metadata and content structures</li> <li>Ability to develop low-code solutions using Microsoft Power Platform</li> <li>Ability to analyse business processes and identify opportunities for digital improvement</li> <li>Strong problem-solving and troubleshooting capability</li> <li>Confidence communicating technical concepts to non-technical users</li> <li>Strong organisational skills and the ability to manage competing priorities</li> <li>A customer-focused approach with a commitment to continuous improvement.</li> </ul> Experience developing and administering <strong>SharePoint Online sites and solutions</strong>, together with developing solutions using <strong>Power Apps and Power Automate</strong>, will be highly regarded.<br><br> <strong>This is a fantastic opportunity to apply your Microsoft 365 and Power Platform expertise to develop practical digital solutions that improve processes, collaboration and information management across a busy operational environment.<br></strong><br> For more information or to discuss the role, please contact <strong>Bree Woods</strong> on <strong><a href=\"mailto:bree@edenritchie.com.au\">bree@edenritchie.com.au</a></strong> or <strong><a href=\"tel:07 3230 0038\">07 3230 0038</a></strong>.",
+      "keywords": [
+        "program",
+        "officer",
+        "digital",
+        "solutions"
+      ]
+    },
+    {
+      "job_id": "93899847",
+      "job_title": "Fibre Splicer",
+      "business_name": "Comms-X pty ltd",
+      "work_type": "Full time",
+      "job_type": "Telecommunications",
+      "pay_range": "$85,000 – $90,000 per year",
+      "area": "Burleigh Heads, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93899847",
+      "advertiser_id": "400387620",
+      "posted_date": "2026-08-11T06:06:41Z",
+      "job_description": "<h2>💥 FIBRE OPTIC SPLICER – GOLD COAST</h2><h2>Join a Growing Telecommunications Team</h2><p><strong>Gold Coast | Full-Time | Immediate Start</strong></p><p>We are looking for an <strong>experienced Fibre Optic Splicer</strong> to join our growing telecommunications team on the Gold Coast.</p><p>If you’re a reliable, hands-on technician who takes pride in producing <strong>high-quality fibre work</strong>, we want to hear from you.</p><h2>🔧 The Role</h2><p>You’ll be responsible for fibre optic installation, splicing, testing and fault finding across a range of telecommunications projects throughout the Gold Coast and surrounding areas.</p><p><strong>Your duties will include:</strong></p><ul><li><p>Fibre optic splicing and jointing</p></li><li><p>Fibre testing using OTDR and power meter</p></li><li><p>Fibre fault finding and rectification</p></li><li><p>Working in pits, conduits, cabinets and telecommunications infrastructure</p></li><li><p>Reading fibre plans and network diagrams</p></li><li><p>Completing job documentation and test results</p></li><li><p>Working safely and maintaining a high standard of workmanship</p></li><li><p>Liaising with supervisors, clients and other field crews</p></li></ul><h2>✅ What We're Looking For</h2><p><strong>Essential:</strong></p><ul><li><p>Previous experience as a Fibre Splicer / Fibre Technician</p></li><li><p>Strong knowledge of fibre optic networks</p></li><li><p>Experience with fusion splicing</p></li><li><p>Competent with OTDR and fibre testing equipment</p></li><li><p>Current driver's licence</p></li><li><p>Strong attention to detail</p></li><li><p>Reliable and punctual</p></li><li><p>Ability to work independently and as part of a team</p></li><li><p>Good communication skills</p></li></ul><p><strong>Highly regarded:</strong></p><ul><li><p>Experience with <strong>FTTP, FTTN, HFC or carrier networks</strong></p></li><li><p>NBN experience</p></li><li><p>Relevant telecommunications qualifications</p></li><li><p>Traffic control / working-at-heights tickets</p></li><li><p>Experience with <strong>FJL,BJL, multiports, and fibre distribution equipment</strong></p></li></ul><h2>💰 What We Offer</h2><ul><li><p><strong>Competitive hourly rate – based on experience</strong></p></li><li><p>Full-time position</p></li><li><p>Consistent Gold Coast work</p></li><li><p>Company vehicle and equipment</p></li><li><p>Ongoing training and development</p></li><li><p>Great team environment</p></li><li><p>Opportunity for overtime</p></li><li><p>Immediate start available</p></li></ul><h2>📍 Location</h2><p><strong>Gold Coast, QLD</strong></p><p>Work will cover the Gold Coast and surrounding areas.</p><h2>📲 Apply Now</h2><p>If you're an experienced fibre splicer looking for <strong>steady work, good money and a company that values quality workmanship</strong>, we'd like to hear from you.</p><p><strong>Send your resume and a brief summary of your experience to apply.</strong></p><p><strong>Immediate start available for the right person.</strong></p>",
+      "keywords": [
+        "fibre",
+        "splicer"
+      ]
+    },
+    {
+      "job_id": "93887114",
+      "job_title": "Software Developer",
+      "business_name": "Odoo",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "$80,000 – $90,000 per year + super",
+      "area": "Varsity Lakes, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93887114",
+      "advertiser_id": "47971668",
+      "posted_date": "2026-08-11T00:29:54Z",
+      "job_description": "<h2><strong>About</strong> Odoo</h2><p>At Odoo, we value independence, flexibility, and personal growth. We're a fast-growing company that embraces innovation and encourages our team members to push boundaries and reach new heights. With our Australian office nestled in the beautiful Gold Coast's Varsity Lakes, we offer the perfect blend of exciting work and an amazing lifestyle.</p><p><br></p><h2><strong>About the job</strong></h2><p>Software Developers handle the full technical lifecycle—from analysis and development to support—while collaborating with Business Analysts who manage customer requirements. The team also supports Odoo partners directly, making strong English communication skills essential. We value collaboration, adaptability, and a hands-on approach in a fast-paced, growing environment.</p><strong>Working tools</strong><ul><li><p>Programming languages: Python &amp; JavaScript</p></li><li><p>Database: PostgreSQL (with object-relational mapping)</p></li><li><p>Collaboration platform: GitHub</p></li><li><p>Development model: Open with external community</p></li><li><p>Framework: Odoo (ORM, Workflows, Report Engine, BI, AI)</p></li></ul><strong>Why You’ll Love This Job</strong><ul><li><p>Build high-quality applications</p></li><li><p>Collaborate on innovative and impactful projects</p></li><li><p>Take ownership of the solutions you develop</p></li><li><p>Work hands-on with the software you design and code</p></li></ul><strong>Responsibilities</strong><ul><li><p>Provide technical support to existing customers regarding bugs or system errors</p></li><li><p>Maintain and refactor existing code and customisations</p></li><li><p>Provide support for clients upgrading to the latest Odoo versions</p></li><li><p>Train partners on best practices for Odoo implementation</p></li><li><p>Work on R&amp;D projects aimed at localising Odoo for the ANZ market</p></li></ul><h2><strong>About you</strong></h2><p><strong>At Odoo, we value your skills more than your resume.</strong><br>Here's what we expect from you:</p><strong>Must have</strong><ul><li><p>Permanent working rights in Australia</p></li><li><p>Knowledge of several programming languages</p></li><li><p>Object-oriented programming language</p></li><li><p>Experience with relational databases</p></li><li><p>Problem-solving skills</p></li><li><p>Strong passion for software development</p></li><li><p>Excellent communication and interpersonal skills</p></li><li><p>Quick &amp; autonomous learner</p></li></ul><strong>Nice to have</strong><ul><li><p>Contribution to Open Source projects</p></li><li><p>Bachelor or Master Degree</p><p>The diploma is not the most important.</p></li><li><p>Python, JavaScript, XML, CSS</p><p>We don't expect you to master our technologies but a strong foundation in any programming language is required.</p></li><li><p>Experience working with Unix/Linux systems</p></li></ul><p><br></p>",
+      "keywords": [
+        "software",
+        "developer"
+      ]
+    },
+    {
+      "job_id": "93886661",
+      "job_title": "IT Support Officer",
+      "business_name": "East Coast Car Rentals",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "$68,500 – $75,000 per year",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93886661",
+      "advertiser_id": "22796821",
+      "posted_date": "2026-08-11T00:08:44Z",
+      "job_description": "<p><strong>IT Support Officer</strong><br><strong>Southport, Gold Coast QLD • Full-time • Technology</strong><br><br>Join a growing national brand and take real ownership of the technology that keeps us<br>moving.</p><p>East Coast Car Rentals is one of Australia's established car rental brands, with 14 locations across the<br>country. Behind the scenes, we run a modern Microsoft 365 and Azure environment and we're steadily<br>bringing more of our systems in-house. It's a genuinely interesting time to join our small, capable technology team.<br><br>We're looking for a hands-on IT Support Officer to be the go-to person for technology across the business. Supporting to the CTO and working alongside our software engineering team, you'll keep our people productive and our systems secure — from everyday desktop support through to our cloud identity, contact centre, network and shuttle platforms. If you're technically curious, security-minded and enjoy helping people, you'll fit right in.<br><br><strong>What you'll do</strong><br><br>• Be first-line support for staff across all 14 locations — in person and via email, Teams and phone — managing the Zendesk helpdesk queue and keeping tickets moving.<br>• Set up and support workstations, laptops, printers, tablets, iPads and mobiles, and handle hardware upgrades, repairs and ordering.<br>• Administer Microsoft 365 and Entra ID — onboarding and offboarding users, mailboxes, licensing, groups and directory sync.<br>• Manage devices and mobile fleets through Microsoft Intune and Hexnode MDM, keeping compliance and BitLocker encryption in good shape.<br>• Look after endpoint security via Bitdefender GravityZone and manage business-wide email signatures with CodeTwo.<br>• Configure and troubleshoot Single Sign-On across our business applications, with a careful eye on protecting customer data.<br>• Administer and monitor network hardware (switches, access points and gateways) across sites via Ubiquiti UniFi.<br>• Support our contact centre and telephony platforms (RingCentral and NICE CXone), our shuttle app, in-vehicle tablets and the We-Capture vehicle condition platform.<br>• Liaise with IT vendors, research new technology, and pitch in on rollouts and improvements.<br><br><strong>What you'll bring</strong><br><br>• Solid experience in an IT support or helpdesk role — multi-site experience is a real plus.<br>• Hands-on Microsoft 365 and Entra ID (Azure AD) administration, including user lifecycle, licensing and SSO.<br>• Experience with endpoint management / MDM (Intune, Hexnode or similar) and Windows 11 support.<br>• Strong all-round troubleshooting across hardware, software and networking.<br>• A security-conscious mindset and good judgement around data protection.<br>• A friendly, clear communicator who enjoys helping non-technical colleagues.</p><p><strong>Nice to have</strong><br><br>• Zendesk or similar ticketing; contact centre platforms (RingCentral, NICE CXone); endpoint security (Bitdefender GravityZone); network controllers (Ubiquiti UniFi); macOS support; and an interest in automation.<br><br><strong>Why East Coast Car Rentals</strong><br><br>• A broad, hands-on role with genuine variety — no two days the same.<br>• A modern cloud stack and the chance to grow your skills as we bring systems in-house.<br>• A small, supportive team where your work has visible impact.<br>• Based at our Corporate Southport head office on the Gold Coast.<br><strong><br>How to apply</strong><br><br>If this sounds like you, we'd love to hear from you. Please submit your Resume and a Cover Letter telling<br>us why you're a great fit.<br><br><strong>East Coast Car Rentals is an equal opportunity employer. We welcome applications from people of all<br>backgrounds and are committed to a diverse and inclusive workplace.</strong></p>",
+      "keywords": [
+        "it",
+        "support",
+        "officer"
+      ]
+    },
+    {
+      "job_id": "93885209",
+      "job_title": "Junior Shopify Developer",
+      "business_name": "Lucent Globe",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "",
+      "area": "Yatala, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93885209",
+      "advertiser_id": "62521678",
+      "posted_date": "2026-08-10T22:51:03Z",
+      "job_description": "<p><strong>About Us</strong></p><p>At Lucent Globe, we're on a mission to make sustainable living simple. We've built a brand focused on eco-friendly products that actually work. We're growing our in-house ecommerce &amp; web development team to keep our website and Shopify store fast, reliable, and ready to scale as the business grows.</p><p><strong>About the Role</strong></p><p>We're looking for a Junior Shopify Developer to join our in-house team in Yatala. Reporting to our Head of Ecommerce and working closely with our Web Developer, you'll help keep our Shopify store and website running smoothly. Building landing pages, fixing bugs, and customising our theme, all while growing your own skills in a hands-on, supportive team.</p><p>If you know your way around HTML, CSS and JavaScript, have built or edited Shopify themes using Liquid, and you love finding creative ways to use AI to work faster and smarter, we want to hear from you.</p><p><strong>What you'll be doing</strong></p><ul><li><p>Building and customising Shopify theme sections, product pages, landing pages and templates using Liquid, HTML, CSS and JavaScript</p></li><li><p>Creating new landing and product pages from design briefs, and testing them across devices and browsers</p></li><li><p>Setting up and troubleshooting apps like Recharge, Rebuy and Judge.me</p></li><li><p>Helping diagnose and resolve front-end and site functionality issues across browsers and devices</p></li><li><p>Finding and fixing bugs, and running QA checks before changes go live</p></li><li><p>Checking tracking tags (Google Analytics, Meta Pixel) are firing correctly</p></li><li><p>Monitoring site performance, page speed, and Core Web Vitals, flagging issues before they impact customers</p></li><li><p>Help diagnose and resolve front-end and site functionality issues across browsers and devices</p></li><li><p>Using AI tools daily to speed up development, QA and troubleshooting</p></li></ul><p><strong>What we're looking for</strong></p><ul><li><p>Background in ecommerce development, web development, or technical product delivery, ideally within ecommerce, retail, or a high-growth digital business</p></li><li><p>Solid HTML, CSS and JavaScript skills</p></li><li><p>Hands-on experience building or editing Shopify themes using Liquid</p></li><li><p>Previous experience working on a Shopify Plus store</p></li><li><p>Understanding of ecommerce architecture, integrations, APIs and platform ecosystems</p></li><li><p>Confidence working on general web pages and staging environments</p></li><li><p>A sharp eye for detail and a natural problem-solver's mindset</p></li><li><p>A team player who communicates clearly and works well with others</p></li><li><p>A genuine curiosity for AI</p></li></ul><p><strong>What you'll get</strong></p><ul><li><p>Full-time hybrid role (4 days in our Yatala office, 1 day from home)</p></li><li><p>Hands-on mentoring and real experience across Shopify and ecommerce development</p></li><li><p>A clear path to grow your technical skills, with a supportive team backing you</p></li></ul><p><br></p>",
+      "keywords": [
+        "shopify",
+        "developer"
       ]
     },
     {
