@@ -1,400 +1,396 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-11",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-12T08:06:50.304237+10:00",
-  "total_jobs": 49,
+  "scraped_at": "2026-09-11T08:05:23.123807+10:00",
+  "total_jobs": 51,
   "keywords": [
     {
       "term": "analyst",
       "count": 11,
-      "share": 0.2245
+      "share": 0.2157
     },
     {
       "term": "it",
       "count": 10,
-      "share": 0.2041
+      "share": 0.1961
+    },
+    {
+      "term": "manager",
+      "count": 8,
+      "share": 0.1569
     },
     {
       "term": "support",
       "count": 8,
-      "share": 0.1633
+      "share": 0.1569
     },
     {
       "term": "engineer",
       "count": 7,
-      "share": 0.1429
+      "share": 0.1373
     },
     {
-      "term": "manager",
+      "term": "service",
       "count": 7,
-      "share": 0.1429
+      "share": 0.1373
+    },
+    {
+      "term": "business",
+      "count": 6,
+      "share": 0.1176
     },
     {
       "term": "software",
       "count": 6,
-      "share": 0.1224
+      "share": 0.1176
     },
     {
       "term": "developer",
       "count": 6,
-      "share": 0.1224
-    },
-    {
-      "term": "service",
-      "count": 6,
-      "share": 0.1224
+      "share": 0.1176
     },
     {
       "term": "ai",
       "count": 5,
-      "share": 0.102
-    },
-    {
-      "term": "business",
-      "count": 5,
-      "share": 0.102
+      "share": 0.098
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.102
-    },
-    {
-      "term": "desk",
-      "count": 4,
-      "share": 0.0816
-    },
-    {
-      "term": "technician",
-      "count": 4,
-      "share": 0.0816
+      "share": 0.098
     },
     {
       "term": "administrator",
       "count": 4,
-      "share": 0.0816
+      "share": 0.0784
+    },
+    {
+      "term": "desk",
+      "count": 4,
+      "share": 0.0784
+    },
+    {
+      "term": "technician",
+      "count": 4,
+      "share": 0.0784
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0612
+      "share": 0.0588
     },
     {
       "term": "officer",
       "count": 3,
-      "share": 0.0612
+      "share": 0.0588
     },
     {
       "term": "architect",
       "count": 2,
-      "share": 0.0408
+      "share": 0.0392
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0408
-    },
-    {
-      "term": "month",
-      "count": 2,
-      "share": 0.0408
+      "share": 0.0392
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0408
+      "share": 0.0392
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0408
+      "share": 0.0392
+    },
+    {
+      "term": "project",
+      "count": 2,
+      "share": 0.0392
+    },
+    {
+      "term": "delivery",
+      "count": 2,
+      "share": 0.0392
     },
     {
       "term": "cyber",
       "count": 2,
-      "share": 0.0408
+      "share": 0.0392
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0408
+      "share": 0.0392
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "reporting",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "specialist",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "jetstar",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "retail",
       "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "solutions",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "advisor",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "technology",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "risk",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "resilience",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "architech",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "dynamics",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "power",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "platform",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "devops",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "integration",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "native",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "stack",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "frontend",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "backend",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "php",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "machines4u",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "network",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "groundworks",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "helpdesk",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "pimpama",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "campus",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "msp",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "experience",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "required",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "ict",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "desktop",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "field",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "break",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "fix",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "goldcoast",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "operations",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "broadbeach",
-      "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
+    },
+    {
+      "term": "solutions",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "advisor",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "technology",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "risk",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "resilience",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "architech",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "dynamics",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "power",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "platform",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "devops",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "integration",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "native",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "stack",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "backend",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "frontend",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "php",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "machines4u",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "network",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "groundworks",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "helpdesk",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "pimpama",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "campus",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "msp",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "experience",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "required",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "ict",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "desktop",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "month",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "field",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "break",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "fix",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "goldcoast",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "operations",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "broadbeach",
+      "count": 1,
+      "share": 0.0196
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
+    },
+    {
+      "term": "coordinator",
+      "count": 1,
+      "share": 0.0196
     },
     {
       "term": "program",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
-      "term": "project",
+      "term": "development",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
-      "term": "delivery",
+      "term": "evolve",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "ecommerce",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "catalogue",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     }
   ],
   "jobs": [
-    {
-      "job_id": "94575042",
-      "job_title": "SharePoint Administrator (12-Month Contract)",
-      "business_name": "PICA Group",
-      "work_type": "Contract/Temp",
-      "job_type": "Networks & Systems Administration",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94575042",
-      "advertiser_id": "61585221",
-      "posted_date": "2026-09-11T06:24:23Z",
-      "job_description": "<p>Take the lead, recommend, and implement an&nbsp;end-to-end SharePoint ecosystem redesign, and document management strategy.</p><p><br></p><p>Join PICA Group on an initial 12-month fixed-term contract to modernise and strengthen SharePoint information architecture governance, document management and collaborative work practices.</p><p><br></p><ul><li>Lead a SharePoint governance and optimisation program</li><li>Drive governance, data/document management and migration and archiving initiatives</li><li>Work with stakeholders across the business to improve collaboration and information management and security</li></ul><p>As one of Australia's largest strata and property services companies, we provide competitive remuneration, flexibility and the opportunity to work on meaningful technology initiatives that support thousands of customers and employees nationally.</p><p>The impact you'll have: </p><p>Information is one of PICA Group's most valuable assets. In this role, you'll help improve the way business information is stored, managed, protected and shared across our environment.</p><p>Working closely with stakeholders across the business, you'll strengthen SharePoint governance, improve information management practices and support the migration of business data into secure, well-structured solutions that enable better collaboration and decision-making.</p><p>What you'll do:</p><ul><li>Recommend and implement initiatives to optimise, restructure and maintain SharePoint Online sites, libraries and document structures. </li><li>Lead file migrations from network drives and legacy platforms into SharePoint. </li><li>Improve permissions, access controls and site ownership across the business. </li><li>Establish governance standards for naming conventions, retention and document management. </li><li>Partner with stakeholders to deliver secure, practical and easy-to-use solutions.</li></ul><p>What you'll bring:</p><ul><li>Strong hands-on experience administering SharePoint Online.</li><li>Experience managing permissions, site structures and information architecture.</li><li>Knowledge of governance, retention, compliance and document management practices.</li><li>Strong stakeholder engagement and problem-solving skills.</li><li>Exposure to Microsoft Purview, DLP, PowerShell, Teams, OneDrive or Azure Files will be highly regarded.</li></ul><p>What's in it for you:</p><p>At PICA Group, we want you to thrive. Here’s how we support you. </p><ul><li>Growth: Gain training and career path options across PICA Group. </li><li>Flexibility: Balance work and life with 50/50 hybrid options. </li><li>Challenge: Lead meaningful governance, migration and optimisation initiatives that deliver lasting business impact.</li><li>Belonging: Join a supportive team where collaboration and relationships matter.</li><li>Giving Back: Help create a secure, well-governed digital workplace that enables teams to work smarter and collaborate effectively.</li><li>PICA Perks: Discounts and wellbeing programs that support life inside and outside of work. </li></ul><p><br></p><p>Who is PICA Group?</p><p>We're Australia's leading strata and property services provider, with a trusted network of specialists in strata and facilities management, property development, debt recovery and legal services. For more than 70 years, we've enhanced community living by caring for one of our customers' most valuable assets, their home.</p><p>We're also proud to be officially recognised as a Great Place to Work®. Our employees recently participated in an external survey, and 91% of our employees said that PICA Group is a Great Place to Work™.</p><p>If you're looking for a workplace where you can grow, feel supported, deliver real value through technology, and help create a great place to work, this could be the perfect opportunity.</p><p>Everything we do is guided by our values: Say It Straight | Collaborate | Simplicity | Focus on Solutions | Delight the Customer | Get Things Done</p><p>How to apply:</p><p>If you're ready to play a key role in strengthening PICA Group's Microsoft 365 and SharePoint environment, we'd love to hear from you.</p><p>At PICA Group, we value diversity and encourage a speak-up culture where our people bring their whole selves to work to enhance community living for all.</p><p>For up-to-date information about PICA Group, visit us:</p><p>https://www.linkedin.com/company/prudential-investment-company-of-australia/mycompany/</p><p>https://picagroup.com.au/</p><p>You must have the right to live and work in Australia to be considered for this opportunity.</p><p>It is PICA Group's policy not to accept speculative CVs from agencies unless the role has been released directly to the agency. Should we require assistance from agencies, a member of the Talent Acquisition team will contact agencies directly.</p><p><br></p><p><br></p>\n\n",
-      "keywords": [
-        "sharepoint",
-        "administrator",
-        "month"
-      ]
-    },
     {
       "job_id": "94541493",
       "job_title": "Reporting Analyst",
@@ -449,6 +445,24 @@
         "ai",
         "business",
         "analyst"
+      ]
+    },
+    {
+      "job_id": "94479846",
+      "job_title": "SharePoint Administrator",
+      "business_name": "PICA Group",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94479846",
+      "advertiser_id": "61585221",
+      "posted_date": "2026-09-08T01:48:25Z",
+      "job_description": "<p>Join PICA Group on an initial 12-month fixed-term contract and help strengthen governance, data management and collaboration through a Microsoft 365 and SharePoint optimisation program.</p><p><br></p><p>As one of Australia's largest strata and property services companies, we provide competitive remuneration, flexibility and the opportunity to work on meaningful technology initiatives that support thousands of customers and employees nationally.</p><p><strong>The impact you'll have: </strong></p><p>Information is one of PICA Group's most valuable assets. In this role, you'll help improve the way business information is stored, managed, protected and shared across our Microsoft 365 environment.</p><p>Working closely with stakeholders across the business, you'll strengthen SharePoint governance, improve information management practices and support the migration of business data into secure, well-structured solutions that enable better collaboration and decision-making.</p><p><strong>What you'll do:</strong></p><ul><li>Optimise and maintain SharePoint Online sites, libraries and document structures. </li><li>Lead file migrations from network drives and legacy platforms into SharePoint. </li><li>Improve permissions, access controls and site ownership across the business. </li><li>Establish governance standards for naming conventions, retention and document management. </li><li>Partner with stakeholders to deliver secure, practical and easy-to-use solutions.</li></ul><p><strong>What you'll bring:</strong></p><ul><li>Strong hands-on experience administering SharePoint Online and Microsoft 365.</li><li>Experience managing permissions, site structures and information architecture.</li><li>Knowledge of governance, retention, compliance and document management practices.</li><li>Strong stakeholder engagement and problem-solving skills.</li><li>Exposure to Microsoft Purview, DLP, PowerShell, Teams, OneDrive or Azure Files will be highly regarded.</li></ul><p>What's in it for you:</p><p><br></p><p>At PICA Group, we want you to thrive. Here’s how we support you. </p><ul><li>Growth: Gain training and career path options across PICA Group. </li><li>Flexibility: Balance work and life with 50/50 hybrid options. </li><li>Challenge: Lead meaningful governance, migration and optimisation initiatives that deliver lasting business impact.</li><li>Belonging: Join a supportive team where collaboration and relationships matter.</li><li>Giving Back: Help create a secure, well-governed digital workplace that enables teams to work smarter and collaborate effectively.</li><li>PICA Perks: Discounts and wellbeing programs that support life inside and outside of work. </li></ul><p><strong>Who is PICA Group?</strong></p><p>We're Australia's leading strata and property services provider, with a trusted network of specialists in strata and facilities management, property development, debt recovery and legal services. For more than 70 years, we've enhanced community living by caring for one of our customers' most valuable assets, their home.</p><p>We're also proud to be officially recognised as a Great Place to Work®. Our employees recently participated in an external survey, and 91% of our employees said that PICA Group is a Great Place to Work™.</p><p>If you're looking for a workplace where you can grow, feel supported, deliver real value through technology, and help create a great place to work, this could be the perfect opportunity.</p><p>Everything we do is guided by our values: <strong>Say It Straight | Collaborate | Simplicity | Focus on Solutions | Delight the Customer | Get Things Done</strong></p><p><strong>How to apply:</strong></p><p>If you're ready to play a key role in strengthening PICA Group's Microsoft 365 and SharePoint environment, we'd love to hear from you.</p><p>At PICA Group, we value diversity and encourage a speak-up culture where our people bring their whole selves to work to enhance community living for all.</p><p>For up-to-date information about PICA Group, visit us:</p><p>https://www.linkedin.com/company/prudential-investment-company-of-australia/mycompany/</p><p>https://picagroup.com.au/</p><p>You must have the right to live and work in Australia to be considered for this opportunity.</p><p>It is PICA Group's policy not to accept speculative CVs from agencies unless the role has been released directly to the agency. Should we require assistance from agencies, a member of the Talent Acquisition team will contact agencies directly.</p><p><br></p>\n\n",
+      "keywords": [
+        "sharepoint",
+        "administrator"
       ]
     },
     {
@@ -720,6 +734,26 @@
         "native",
         "software",
         "developer"
+      ]
+    },
+    {
+      "job_id": "94332962",
+      "job_title": "Project and Service Delivery Coordinator",
+      "business_name": "Tradezone Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Programme & Project Management",
+      "pay_range": "",
+      "area": "Helensvale, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94332962",
+      "advertiser_id": "46711243",
+      "posted_date": "2026-09-01T05:40:03Z",
+      "job_description": "<p><strong>About Us</strong></p><p>Tradezone is the fastest growing electrical wholesaler in Australia. We launched in 2015 and now operate six state-of-the-art distribution centres across Australia - supplying electrical, solar, HVAC, data and safety products to trade professionals nationwide, with more sites to come.</p><p>We are a division of the Kingston Group, a private, family-owned Australian company that has been wholesaling and distributing for over 40 years. We combine the strength of a national business with the culture of a close-knit team, and pride ourselves on being at the forefront of technology and innovation - from our real-time online platform, live - stock visibility, to our own national delivery fleet with live delivery tracking.</p><p><br></p><p><strong>About The Role</strong></p><p>We have an exciting opportunity for a <strong>Project Service and Delivery Coordinator</strong> to join our newly form Technical team based in our Helensvale (Gold Coast) Head office</p><p>Reporting into the Technical Manager, this role will help keep the technology work across our business coordinated, on track and delivering to plan. You will help coordinate delivery of the technology programme by planning and scheduling work, tracking progress, keeping stakeholders informed, and following up actions to completion.</p><p>You will also support technology rollouts across our sites and manage the intake of technology requests through our ticketing platform, ensuring business needs are clearly captured, categorised and visible.</p><p>This role works across the business and will suit someone who builds relationships easily, gets things moving, and follows through.</p><p><br></p><p><strong>What We Offer</strong></p><ul><li><p>Permanent full-time opportunity based on the Gold Coast, with opportunity to Travel for work</p></li><li><p>Family oriented culture within the Kingston Group, where your contributions and ideas are valued</p></li><li><p>Opportunity to make hands on impact across a rapidly growing national business</p></li><li><p>Career development within a growing Technology Function</p></li><li><p>Collaboration within a supportive team in a vibrant, innovative workplace</p></li></ul><p><br></p><p>&nbsp;<strong>What You’ll Bring</strong></p><ul><li><p>Strong organisational skills, and the ability to keep several pieces of work moving at once without losing track of any of them</p></li><li><p>Background in an IT, technology or managed services environment is highly regarded</p></li><li><p>Experience with project or work management tooling as well as coordinating rollouts or change across multiple sites.</p></li><li><p>Project or delivery coordination experience: planning, scheduling, tracking and following through to completion.</p></li><li><p>Stakeholder engagement across a business.</p></li><li><p>Confident running the administrative side of delivery: meetings, agendas, minutes, actions and follow up.</p></li><li><p>Clear written and verbal communication with technical and non-technical people alike.</p></li></ul><p><br></p><p><br></p><p>If you’re looking for a role where you can help shape modernization rather than simply inherit it, we’d to hear from you. Apply today and be apart of Tradezones continued growth!</p><p><br></p><p><em>Please ensure your resume is updated with your most recent work history. Only shortlisted candidates will be contacted.</em></p>",
+      "keywords": [
+        "project",
+        "service",
+        "delivery",
+        "coordinator"
       ]
     },
     {
@@ -1298,6 +1332,26 @@
         "service",
         "operations",
         "analyst"
+      ]
+    },
+    {
+      "job_id": "93946117",
+      "job_title": "Business Development Manager - Evolve",
+      "business_name": "Lyra Technology Group",
+      "work_type": "Full time",
+      "job_type": "Sales - Pre & Post",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93946117",
+      "advertiser_id": "62871597",
+      "posted_date": "2026-08-13T02:16:41Z",
+      "job_description": "<p><strong>Lyra Technology Group&nbsp;</strong>is a&nbsp;private&nbsp;equity-backed holding company that invests in and&nbsp;operates&nbsp;industry leading technology service businesses. Our companies are&nbsp;operated&nbsp;independently by exceptional management teams. Companies that join our group&nbsp;retain&nbsp;the employees, name, and culture that have made them successful. As a platform of&nbsp;</p><p>Evergreen&nbsp;Services&nbsp;Group, we never divest from businesses we partner with and approach every decision with the goal of driving sustainable and healthy growth over the long term. </p><p></p><p>Our Operating Company,&nbsp;<strong>Evolve</strong>, is looking for an experienced <strong>Business Development Manager</strong> to join their team in <strong>Southport, QLD</strong>. </p><p></p><p>This is a genuine opportunity to build something. You will be Evolve’s first dedicated BD hire, working directly alongside the CEO to build our sales function, create new opportunities and win new clients.</p><p></p><p><strong>Responsibilities</strong></p><ul>\n<li>Own new logo acquisition across South East Queensland, from prospecting through to close.</li>\n<li>Build and manage targeted account lists across our ideal SMB market.</li>\n<li>Generate your own pipeline through cold calling, email, LinkedIn, networking, referrals and industry events.</li>\n<li>Run Connect and Discovery calls with business owners, GMs, CFOs, practice managers and other key decision makers.</li>\n<li>Identify client needs and recommend the right technology and security solutions—not simply the solution with the biggest commission.</li>\n<li>Sell Evolve’s&nbsp;Evaluate&nbsp;service, providing prospects with a valuable, expert assessment of their IT environment.</li>\n<li>Lead on-site meetings, prepare proposals, negotiate terms and close profitable managed services contracts.</li>\n<li>Maintain accurate CRM records, pipeline, forecasts and activity.</li>\n<li>Report pipeline, conversion and sales performance to the CEO and leadership team.</li>\n<li>Identify opportunities for upsell and cross-sell within our existing client base.</li>\n<li>Work with Team Leaders on client relationships and regular business reviews.</li>\n<li>Take new Evolve offerings to market and identify opportunities for growth.</li>\n<li>Build referral and industry relationships throughout South East Queensland.</li>\n<li>Research competitors and market opportunities to identify new business.</li>\n<li>Share sales knowledge, tips and tactics with the wider team so opportunities are never missed.</li>\n<li>Complete weekly and monthly sales reporting.</li>\n</ul><p><strong>Skills required</strong></p><ul>\n<li>Minimum 3 years’ B2B sales experience, with a proven track record of delivering sales results.</li>\n<li>Experience in MSP, technology, telco or SaaS sales is highly desirable.</li>\n<li>Experience in the IT industry is essential.&nbsp;You need to understand IT terminology, managed services and technology solutions well enough to identify the right solution for a client.</li>\n<li>Proven success generating your own pipeline and winning new logos.</li>\n<li>Demonstrated results in&nbsp;new business, upselling and cross-selling&nbsp;in previous roles.</li>\n<li>Comfortable prospecting and creating opportunities rather than relying on an inherited pipeline.</li>\n<li>Strong understanding of the full sales lifecycle and consultative selling.</li>\n<li>Commercially minded, with strong pipeline, forecasting and conversion discipline.</li>\n<li>Confident communicating with business owners and senior decision makers.</li>\n<li>Highly disciplined with CRM and relationship management.</li>\n<li>A natural networker who wants to build a strong presence across South East Queensland.</li>\n<li>Working knowledge of Microsoft 365, managed services and cyber security.</li>\n<li>Experience with ConnectWise PSA, HubSpot or Mautic is advantageous, but sales discipline and results matter more than specific systems.</li>\n<li>Willingness to travel across the Gold Coast, Brisbane and Toowoomba.</li>\n<li>Alignment with our values of&nbsp;Excellence, Drive, Accountability and Respect.</li>\n</ul><p>Most importantly, you are commercially driven but client-focused. You understand that successful technology sales start with understanding the client’s business, not pushing the most expensive or highest-commission solution.</p><p></p><p><strong>Benefits</strong></p><ul>\n<li>Be Evolve’s first dedicated Business Development Manager and have a genuine influence on how our sales function grows.</li>\n<li>Work directly with the CEO with direct access to leadership, relationships and market knowledge.</li>\n<li>Represent proven IT, managed services and cyber security solutions, backed by an experienced delivery team and strong client success stories.</li>\n<li>Join an established, profitable business with clear EOS-driven priorities, ongoing training and genuine opportunity to grow your role as the business expands.</li>\n</ul>",
+      "keywords": [
+        "business",
+        "development",
+        "manager",
+        "evolve"
       ]
     },
     {
