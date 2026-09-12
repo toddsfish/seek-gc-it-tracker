@@ -1,373 +1,378 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-12",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-13T07:49:36.413338+10:00",
-  "total_jobs": 48,
+  "scraped_at": "2026-09-12T08:06:50.304237+10:00",
+  "total_jobs": 49,
   "keywords": [
     {
       "term": "analyst",
-      "count": 10,
-      "share": 0.2083
+      "count": 11,
+      "share": 0.2245
     },
     {
       "term": "it",
-      "count": 9,
-      "share": 0.1875
+      "count": 10,
+      "share": 0.2041
     },
     {
       "term": "support",
       "count": 8,
-      "share": 0.1667
+      "share": 0.1633
     },
     {
       "term": "engineer",
       "count": 7,
-      "share": 0.1458
+      "share": 0.1429
     },
     {
       "term": "manager",
       "count": 7,
-      "share": 0.1458
+      "share": 0.1429
     },
     {
       "term": "software",
       "count": 6,
-      "share": 0.125
+      "share": 0.1224
     },
     {
       "term": "developer",
       "count": 6,
-      "share": 0.125
+      "share": 0.1224
+    },
+    {
+      "term": "service",
+      "count": 6,
+      "share": 0.1224
     },
     {
       "term": "ai",
       "count": 5,
-      "share": 0.1042
+      "share": 0.102
     },
     {
       "term": "business",
       "count": 5,
-      "share": 0.1042
+      "share": 0.102
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.1042
-    },
-    {
-      "term": "service",
-      "count": 5,
-      "share": 0.1042
+      "share": 0.102
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.0833
+      "share": 0.0816
     },
     {
       "term": "technician",
       "count": 4,
-      "share": 0.0833
+      "share": 0.0816
     },
     {
       "term": "administrator",
       "count": 4,
-      "share": 0.0833
+      "share": 0.0816
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0625
+      "share": 0.0612
     },
     {
       "term": "officer",
       "count": 3,
-      "share": 0.0625
+      "share": 0.0612
     },
     {
       "term": "architect",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "month",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "cyber",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "reporting",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "specialist",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "jetstar",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "retail",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "solutions",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "technology",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "risk",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "resilience",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "architech",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "dynamics",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "native",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "frontend",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "php",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "groundworks",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "pimpama",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "campus",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "experience",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "required",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "desktop",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
+    },
+    {
+      "term": "operations",
+      "count": 1,
+      "share": 0.0204
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "program",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "project",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "ecommerce",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "catalogue",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     }
   ],
   "jobs": [
@@ -1273,6 +1278,26 @@
         "manager",
         "software",
         "delivery"
+      ]
+    },
+    {
+      "job_id": "93953089",
+      "job_title": "IT Service Operations Analyst",
+      "business_name": "Gold Coast Convention & Exhibition Centre",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Broadbeach, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/93953089",
+      "advertiser_id": "21889565",
+      "posted_date": "2026-08-13T05:19:11Z",
+      "job_description": "<p>At the Gold Coast Convention and Exhibition Centre (GCCEC), technology plays a critical role in both the day-to-day operation of our business and the successful delivery of major conferences, exhibitions and events.</p>\n<br><p>Looking for and IT support role that goes beyond resetting passwords and working through a ticket queue?</p>\n\n<p>We’re looking for an IT Service Operations Analyst to join our IT team and provide high-quality technical support across both environments. One day you might be helping a team member with Microsoft 365 or troubleshooting an endpoint issue; the next, you could be preparing network services for an upcoming event or helping resolve a technical issue while that event is live.</p>\n\n<p>It’s an ideal opportunity for someone with a foundation in IT support who wants to broaden their technical skills, gain exposure to enterprise and event technology, and build their career as part of a modern IT team.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>THE ROLE</strong></p>\n\n<p>Reporting to the IT Manager and working closely with our Service Operations and Platform Engineering functions, you’ll provide&nbsp;Level 1 and Level 2 IT support&nbsp;to GCCEC team members while also helping deliver IT services for events held at the Centre.</p>\n\n<p>You’ll work across end user support, Microsoft 365, identity and access management, networking and endpoint technologies, while gaining hands-on exposure to the infrastructure and services required to support a busy convention and exhibition venue.</p>\n\n<p>A significant point of difference is&nbsp;event IT delivery. You’ll help prepare and configure IT services for the world class events held at GCCEC, complete readiness checks, deploy services in accordance with established designs and runbooks, and provide technical support when events are underway.&nbsp;</p>\n\n<p>This is a hands-on role where good technical skills matter, but so do customer service, attention to detail and the ability to remain composed when an issue needs to be solved quickly.</p>\n\n\n\n<p><br>\n<strong>What you’ll be doing</strong></p>\n\n<ul>\n\t<li>Providing Level 1 and Level 2 support across end user technology, applications, Microsoft 365, identity and collaboration platforms</li>\n\t<li>Managing incidents and service requests from initial contact through to resolution or escalation</li>\n\t<li>Troubleshooting endpoint, application, connectivity and access issues</li>\n\t<li>Assisting with the preparation, configuration and deployment of IT services for conferences and events</li>\n\t<li>Completing pre-event technical readiness checks to make sure services are ready when our clients need them</li>\n\t<li>Providing on-site and remote IT support during live events</li>\n\t<li>Working with networking technologies including wired and wireless connectivity</li>\n\t<li>Following established processes, standards and runbooks to deliver consistent, reliable services</li>\n\t<li>Maintaining accurate support records, asset records, technical documentation and knowledge articles</li>\n\t<li>Identifying recurring issues and opportunities to improve the way we deliver IT services</li>\n\t<li>Working alongside experienced IT professionals and contributing to the continued development of our service management practices</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><strong>ABOUT YOU</strong></p>\n\n<p>You don’t need to know everything already. We’re looking for someone with a solid technical foundation, a strong customer-service mindset and, importantly, the curiosity and drive to keep developing.</p>\n\n<p>You’ll ideally bring experience in an IT support, Helpdesk or service delivery environment, together with exposure to technologies such as:</p>\n\n<ul>\n\t<li>Windows desktop and server environments</li>\n\t<li>Microsoft 365 and collaboration tools</li>\n\t<li>Active Directory and/or Microsoft Entra ID</li>\n\t<li>Endpoint management</li>\n\t<li>Basic networking, including switching, wireless and connectivity troubleshooting</li>\n\t<li>A tertiary qualification in Information Technology or a related discipline is desirable, although equivalent practical experience is equally relevant.</li>\n\t<li>Experience supporting events, venue technology, or IT service management processes would be an advantage, but isn’t essential.&nbsp;</li>\n\t<li>More importantly, you’ll be someone who communicates well, enjoys helping people, pays attention to the details and can work methodically under pressure. You’ll be comfortable following established processes while also speaking up when you see an opportunity to make something better.</li>\n</ul>\n\n<p>Full Australian working rights are required for this position in addition to a probity check.</p>\n\n<p><br>\n<strong>Why join GCCEC?</strong></p>\n\n<p>This isn’t your typical IT support environment.</p>\n\n<p>You’ll work in a venue where technology supports both a corporate workplace&nbsp;and live events, giving you exposure to a much broader range of technology and operational scenarios than you might encounter in a conventional Helpdesk role.</p>\n\n<p>You’ll join an IT team that is building a more structured, service-focused operating model, with clear processes, modern technology and opportunities to learn from experienced technical specialists.</p>\n\n<p>For someone looking to establish or accelerate their IT career, the breadth of the environment provides an excellent opportunity to develop skills across&nbsp;end-user computing, Microsoft 365, identity, networking, service management and event technology.</p>\n\n<p>And because we’re an events business, you’ll get to see the outcome of your work first-hand: technology that you helped prepare and support being used to deliver real events for our clients and guests.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Ready for your next step?</strong></p>\n\n<p>If you’re passionate about technology, enjoy solving problems and want an IT role with more variety than the traditional Helpdesk, we’d love to hear from you.</p>\n\n<p>Apply now to join the IT team at the Gold Coast Convention and Exhibition Centre.</p>\n\n<p>&nbsp;</p>\n\n<p><b>WHY WORK WITH US?&nbsp; </b><i>“It’s not what we do, it’s how we do it”!&nbsp;</i></p>\n\n<p>&nbsp;</p>\n\n<p>We pride ourselves on our values of Community, Initiative, Respect, Teamwork and Welcoming.&nbsp; These values sit at the heart of how we work, how we treat our people, represent our business and deliver outstanding events.&nbsp; </p>\n\n<p>&nbsp;</p>\n\n<p>Plus, we offer the following people perks:</p>\n\n<ul>\n\t<li>Free undercover parking in the heart of Broadbeach</li>\n\t<li>Discounted onsite team member café</li>\n\t<li>Flexible work arrangements</li>\n\t<li>Paid parental leave</li>\n\t<li>Discounted food and beverage and accommodation at The Star Entertainment Group properties</li>\n\t<li>Access to health &amp; wellbeing programs</li>\n\t<li>Ongoing learning and development opportunities</li>\n\t<li>Reward &amp; Recognition Program</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>Reaching Earthcheck Master Certification status we are an environmentally conscious and sustainability focused organisation that seeks to continuously educate, support and ensure our team members foster and understand the importance of our environmental stewardship.</p>\n\n<p>&nbsp;</p>\n\n<p><b>The Gold Coast Convention and Exhibition Centre is part of The Star Entertainment Group.</b></p>\n\n<p><b>To apply, please upload your cover letter and resume.</b></p>",
+      "keywords": [
+        "it",
+        "service",
+        "operations",
+        "analyst"
       ]
     },
     {
