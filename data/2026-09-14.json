@@ -1,508 +1,336 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-14",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-15T08:52:04.357650+10:00",
-  "total_jobs": 50,
+  "scraped_at": "2026-09-14T07:56:18.556189+10:00",
+  "total_jobs": 44,
   "keywords": [
     {
       "term": "analyst",
-      "count": 13,
-      "share": 0.26
-    },
-    {
-      "term": "support",
-      "count": 11,
-      "share": 0.22
+      "count": 10,
+      "share": 0.2273
     },
     {
       "term": "it",
-      "count": 10,
-      "share": 0.2
+      "count": 8,
+      "share": 0.1818
+    },
+    {
+      "term": "support",
+      "count": 8,
+      "share": 0.1818
     },
     {
       "term": "engineer",
-      "count": 8,
-      "share": 0.16
+      "count": 7,
+      "share": 0.1591
     },
     {
       "term": "developer",
-      "count": 7,
-      "share": 0.14
-    },
-    {
-      "term": "business",
       "count": 6,
-      "share": 0.12
-    },
-    {
-      "term": "systems",
-      "count": 6,
-      "share": 0.12
+      "share": 0.1364
     },
     {
       "term": "ai",
-      "count": 6,
-      "share": 0.12
+      "count": 5,
+      "share": 0.1136
+    },
+    {
+      "term": "business",
+      "count": 5,
+      "share": 0.1136
+    },
+    {
+      "term": "systems",
+      "count": 5,
+      "share": 0.1136
     },
     {
       "term": "software",
-      "count": 6,
-      "share": 0.12
+      "count": 5,
+      "share": 0.1136
     },
     {
       "term": "manager",
       "count": 5,
-      "share": 0.1
-    },
-    {
-      "term": "data",
-      "count": 4,
-      "share": 0.08
+      "share": 0.1136
     },
     {
       "term": "service",
       "count": 4,
-      "share": 0.08
+      "share": 0.0909
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.08
+      "share": 0.0909
     },
     {
       "term": "administrator",
       "count": 4,
-      "share": 0.08
+      "share": 0.0909
+    },
+    {
+      "term": "data",
+      "count": 3,
+      "share": 0.0682
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.06
+      "share": 0.0682
     },
     {
       "term": "officer",
       "count": 3,
-      "share": 0.06
-    },
-    {
-      "term": "specialist",
-      "count": 2,
-      "share": 0.04
+      "share": 0.0682
     },
     {
       "term": "month",
       "count": 2,
-      "share": 0.04
+      "share": 0.0455
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.04
+      "share": 0.0455
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.04
+      "share": 0.0455
     },
     {
       "term": "cyber",
       "count": 2,
-      "share": 0.04
+      "share": 0.0455
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.04
+      "share": 0.0455
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "utilities",
-      "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "intelligence",
-      "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "reporting",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
+    },
+    {
+      "term": "specialist",
+      "count": 1,
+      "share": 0.0227
     },
     {
       "term": "jetstar",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "retail",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "solutions",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "technology",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "risk",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "resilience",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "architech",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "dynamics",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "assisted",
-      "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "development",
-      "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "net",
-      "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "azure",
-      "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "native",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "php",
-      "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "frontend",
-      "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
+    },
+    {
+      "term": "frontend",
+      "count": 1,
+      "share": 0.0227
+    },
+    {
+      "term": "php",
+      "count": 1,
+      "share": 0.0227
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "groundworks",
       "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "microsoft",
-      "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "modern",
-      "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "workplace",
-      "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "desktop",
-      "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "pimpama",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "campus",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "experience",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "required",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
+    },
+    {
+      "term": "desktop",
+      "count": 1,
+      "share": 0.0227
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "program",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "customer",
-      "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "ecommerce",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     },
     {
       "term": "catalogue",
       "count": 1,
-      "share": 0.02
+      "share": 0.0227
     }
   ],
   "jobs": [
-    {
-      "job_id": "94627450",
-      "job_title": "Business Analyst",
-      "business_name": "City of Gold Coast",
-      "work_type": "Contract/Temp",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94627450",
-      "advertiser_id": "16652581",
-      "posted_date": "2026-09-14T22:05:45Z",
-      "job_description": "<ul> <li><strong>Fixed Term Full Time | 9 day fortnight | 36 hours </strong></li> <li> <strong>Salary: </strong>From $111,401 plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG2123/assets/32361988\">Business Analyst </a> </li> </ul> <p><strong>About the Role</strong></p> <p>As a Business Analyst, you will work closely with Project Managers, Senior Business Analysts and Business Analysis Leads to identify business needs, define effective solutions, and support the successful delivery of projects and programs. You will lead business analysis activities across assigned initiatives, ensuring outcomes align with strategic objectives and deliver value to the City. This is a full-time fixed term contract to<strong> June 30 2027 </strong></p> <p><strong>Key Responsibilities</strong></p> <ul> <li>Partner with stakeholders to identify business needs, define solutions and support successful implementation.</li> <li>Elicit, analyse and manage requirements across the delivery lifecycle, producing fit-for-purpose process maps, features, user stories, acceptance criteria, business rules and traceability artefacts</li> <li>Work effectively in a greenfield environment, helping to define and continuously improve delivery processes, roles, governance, decision points, hand-offs and BA ways of working while solutions are being developed. </li> <li>Define business value, adoption and operational-readiness requirements, including baseline measures, benefits, monitoring, support arrangements, service transition, user impacts and post-implementation review. </li> <li>Facilitate stakeholder alignment and informed decision-making, communicating complex matters clearly, maintaining visibility of assumptions, risks and dependencies, and escalating unresolved issues where required. </li> <li>Lead business and use-case discovery to define the underlying problem, current processes, pain points, stakeholders, expected outcomes and measures of success before determining whether AI is an appropriate solution</li> </ul> <p>Please refer to the position brief attached above for further information.</p> <p><strong>About You</strong></p> <ul> <li>Strong stakeholder engagement and communication skills.</li> <li>Recent demonstrated experience in a similar role delivering business analysis outcomes across programs and projects.</li> <li>Bachelor Degree Business (IT Business Analysis), Project Management or equivalent or relevant experience.</li> <li>Ability to work independently with initiative and as part of a team</li> <li>Experience in Local Government (preferred)</li> <li>AI experience from use-case discovery to validation to implantation (advantageous)</li> </ul> <p><strong>Why Join Us?</strong></p> <p>This is an exciting opportunity to lead and work on key City projects, influence strategic outcomes, and contribute to the growth and capability uplift of a dedicated Business Analysis team.</p> <p>If you are passionate about leadership, business analysis, and delivering value through analysis excellence, we’d love to hear from you.</p> <p><strong>How to apply</strong></p> <p>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable</p> <p><strong>Contact Person</strong> <strong>Jansen Croft</strong></p> <p><strong>Contact Email</strong> <a href=\"mailto:jcroft@goldcoast.qld.gov.au\">jcroft@goldcoast.qld.gov.au</a></p> <p><strong>Closing Date</strong> Sunday 27 September 2026 @11:59 pm AEST </p> <p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We consider all qualified candidates for employment, irrespective of race, age, religion, gender identity, sexual orientation, disability, or other protected characteristics by law.</em> </p>",
-      "keywords": [
-        "business",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "94627306",
-      "job_title": "Graduate Software Developer — AI-Assisted Development (.NET / Azure)",
-      "business_name": "REI Master P/L",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "$75,000 – $100,000 per year",
-      "area": "Helensvale, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94627306",
-      "advertiser_id": "21395422",
-      "posted_date": "2026-09-14T21:43:28Z",
-      "job_description": "<h2>Learn to build real software, with AI at your side, on a product 1,200+ businesses rely on</h2><p>REI Cloud is the property management and trust accounting platform built by the team behind REI Master. Australian-owned, 20+ years in the market, and used every day by holiday letting operators, permanent rental agencies, management rights businesses and serviced apartment groups across the country.</p><p>We're rebuilding and extending that platform on a modern Azure stack — and we're looking for one sharp graduate to join the dev team from the ground floor.</p><h2>The role</h2><p>This is a genuine ground-floor opportunity on a small team. There is no graduate program, no rotation, no six months of shadowing. You'll be given real work in your first week, your code will go in front of real customers, and you'll see the results of what you build.</p><p>You'll work alongside developers who know this industry inside out, on things like:</p><ul><li><p>Building and shipping features in our line-of-business application used daily by property managers</p></li><li><p>Working across the stack — C#/.NET services, React/Angular + TypeScript and Blazor front ends, Azure SQL</p></li><li><p>Building and running workloads on Microsoft Azure</p></li><li><p>Trust accounting, bookings, channel management and inspections — complex, high-stakes domain logic where getting it right matters</p></li><li><p>Using Claude Code and AI pair-programming as a core part of how you work, not as a novelty</p></li></ul><h2>What we're looking for</h2><p><strong>Essential</strong></p><ul><li><p>A recent graduate in computer science, software engineering, IT or similar — or completing your degree at the end of 2026</p></li><li><p>Demonstrable fluency with AI-assisted development. Claude Code, or comparable tooling. You should be able to show us what you've built with it and talk through how you drove it</p></li><li><p>Solid fundamentals in C# or a similar object-oriented language, plus SQL</p></li><li><p>Some exposure to modern front-end development (React, Angular, TypeScript or Blazor)</p></li></ul><ul><li><p>The judgement to know when the AI is wrong, and the discipline to check</p></li></ul><p><strong>Nice to have</strong></p><ul><li><p>Personal projects, a GitHub profile, internships, hackathons or freelance work — anything that shows you build things because you want to</p></li><li><p>Any exposure to Microsoft Azure</p></li><li><p>Interest in property, accounting or fintech</p></li></ul><p><strong>Who fits here</strong></p><p>We're a small team in one room. That means no egos and no passengers. You'll do interesting work and you'll do unglamorous work, often in the same day. You'll ask questions when you're stuck, take feedback without taking it personally, and be someone people are glad to sit next to day in day out. If that sounds like you, you'll do well here.</p><h2>The non-negotiables</h2><ul><li><p><strong>On-site, every day.</strong> This is a 100% in-office role at our Helensvale office. We've made that choice deliberately — a small team learns fastest and builds best in the same room, and as a graduate you'll get far more out of sitting beside developers than you would on a video call. If you're looking for hybrid or remote, this isn't the role for you.</p></li><li><p><strong>Full, unrestricted working rights.</strong> You must be an Australian citizen or permanent resident. We are not able to sponsor visas for this role.</p></li><li><p><strong>Already living within commuting distance of Helensvale</strong>, or relocating at your own arrangement before you start.</p></li><li><p><strong>Clear written and verbal communication in English</strong>, — you'll be talking directly with the team and, at times, with customers. Our existing team members are from a broad range of backgrounds, and many are multi lingual. Of course this is a bonus for us, but strong English skills is at the core of this role.</p></li></ul><h2>What you get</h2><ul><li><p>Real responsibility and real ownership from day one</p></li><li><p>Direct mentoring from developers with deep experience in the platform and the industry</p></li><li><p>Modern stack, modern tooling, and a company that actively wants you using AI to work faster</p></li><li><p>A stable, profitable, Australian-owned business with a 20-year customer base — the upside of a startup without the runway anxiety</p></li><li><p>Gold Coast lifestyle, 20 minutes from the beach, no city commute</p></li></ul><h2>How to apply</h2><p>Apply through Seek with your CV and a short cover note. In the cover note, please answer this in a few short paragraphs:</p><p><strong>Tell us about something you have built with the help of AI coding tools. What was it, what did you ask the AI to do, where did it get things wrong, and how did you work out that it was wrong?</strong><br><br><strong>Tell us how you already fit with the non-negotiable aspects of this role.</strong></p><p>We read these. It's the main thing we'll use to shortlist, so put your effort there rather than into a generic letter. Include a link to your GitHub or a live project if you have one.</p><p>Shortlisted applicants will be invited in for a chat and a short practical exercise at our office.</p><p><strong>Start date:</strong> Flexible/part-time for students graduating later this year, otherwise immediate start</p><p>We're hiring one person and we'll move quickly for the right candidate.</p>",
-      "keywords": [
-        "software",
-        "developer",
-        "ai",
-        "assisted",
-        "development",
-        "net",
-        "azure"
-      ]
-    },
-    {
-      "job_id": "94611475",
-      "job_title": "IT Support Engineer (Level 2/3) — Microsoft 365 & Modern Workplace",
-      "business_name": "Tradezone Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Helensvale, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94611475",
-      "advertiser_id": "46711243",
-      "posted_date": "2026-09-14T05:12:36Z",
-      "job_description": "<p><strong>About Us</strong></p><p>Tradezone is the fastest-growing electrical wholesaler in Australia. We launched in 2015 and now operate six state-of-the-art distribution centres across Australia — supplying electrical, solar, HVAC, data and safety products to trade professionals nationwide, with more sites to come.</p><p>We are a division of the Kingston Group, a private, family-owned Australian company that has been wholesaling and distributing for over 40 years. We combine the strength of a national business with the culture of a close-knit team, and pride ourselves on being at the forefront of technology and innovation — from our real-time online platform and live stock visibility to our own national delivery fleet with live delivery tracking.</p><p><br></p><p><strong>About the Role</strong></p><p>We're looking for an IT Support Engineer to join our Gold Coast team and help run and support the technology our people use every day.</p><p>This is a hands-on support and engineering role. You'll look after our Microsoft 365 environment, roll out laptops and hardware across our national network, manage user access and permissions, and handle the escalated technical work that comes through our service desk. As we modernise, you'll be the person making sure the new environment actually works for the people using it.</p><p>It suits someone with solid second or third line experience who wants to work on a modern Microsoft environment as it's being built, rather than inheriting one that was finished years ago. If you're earlier in your career but strong on the fundamentals and keen to learn, apply anyway. We have room to bring the right person in at a support level and build from there.</p><p><br></p><p><strong>What We Offer</strong></p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Permanent full-time role based on the Gold Coast, with the opportunity to travel to our sites</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A modern Microsoft environment being stood up now — you'll learn it as it's built</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National scope across our Distribution Centre network</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support and encouragement to certify, with a growing technology team around you</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Variety: no two days the same across support, rollouts and project work</p><p><br></p><p><strong>Key Responsibilities</strong></p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support and administer our Microsoft 365 environment — Exchange Online, Teams, SharePoint and OneDrive</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roll out and manage laptops and end-user hardware across our sites, using Intune and Autopilot</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Manage user access and permissions across the environment — accounts, groups, multi-factor authentication, SharePoint site and folder permissions, and access to our new data platform</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Handle tickets from the service desk, working issues through to root cause and escalating as required</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help pull together the data behind our reporting, and build and maintain reporting and dashboards</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build the how-to guides and internal documentation that lift support efficiency — helping the business self-serve, and giving the team a consistent answer to the common issues</p><h2>&nbsp;</h2><p><strong>About You</strong></p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Solid second or third line support experience in a Microsoft environment</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hands-on Microsoft 365 administration — users, groups, licensing, mailboxes, Teams and SharePoint</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Windows device support and deployment experience, ideally with Intune and Autopilot</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Confidence with user access and permissions, including multi-factor authentication and SharePoint site and folder permissions</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good troubleshooting instincts and the patience to find the actual cause</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clear communication with people who aren't technical, and a genuinely helpful manner</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Comfort writing documentation that other people can follow</p><p><strong>Highly Regarded</strong></p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Azure or cloud infrastructure experience — virtual machines, storage, backup, or supporting workloads running in the cloud</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Microsoft certifications</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience in a service desk or ticketing environment, and familiarity with service management practices</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reporting and data experience — Power BI, Excel, SQL or the built-in admin centre reporting</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Any exposure to a modern data platform such as Microsoft Fabric, Azure Data Lake or Databricks</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience supporting warehouse, retail or multi-site operations</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hardware rollout or refresh project experience</p><p><br></p><p><strong>How to Apply</strong></p><p>If you want to grow with a modern Microsoft environment rather than maintain an old one, we'd love to hear from you. Apply today and be part of Tradezone's continued growth.</p><p>Please ensure your resume is updated with your most recent work history. Only shortlisted candidates will be contacted.</p>",
-      "keywords": [
-        "it",
-        "support",
-        "engineer",
-        "microsoft",
-        "modern",
-        "workplace"
-      ]
-    },
-    {
-      "job_id": "94605815",
-      "job_title": "Graduate Data Analyst (Utilities Systems Intelligence)",
-      "business_name": "City of Gold Coast",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "From $86,611.00 plus superannuation",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94605815",
-      "advertiser_id": "16652581",
-      "posted_date": "2026-09-14T02:47:42Z",
-      "job_description": "<ul> <li><strong>Full Time and Fixed Term | 9-day fortnight | 36 hours per week</strong></li> <li> <strong>Salary: </strong>From $86,611 per annum plus superannuation</li> <li> <strong>Position Overview </strong>– <a href=\"https://applynow.net.au/jobs/GradEHR1/assets/32331834\">Graduate Position Brief</a> </li> </ul> <p>We know you are driven by growth and opportunity, eager to build your career and ready to make an impact. That’s why we offer a full time, 12-month Graduate Academy designed to unlock your potential and equip you with the knowledge, skills and hands-on experience to excel in your chosen career.</p> <p>Working alongside industry leaders, you will contribute to a range of projects and initiatives that help shape and connect our City, with real world opportunities to learn, grow and progress. Through our tailored development program, valuable industry connections and the support of our Graduate Academy community, you will build the skills, networks and confidence to take your career further.</p> <p><strong>Start your career at the City</strong></p> <p>Starting February 2027, the Graduate Academy combines professional development with meaningful on-the-job experience, designed to support your transition from university into the workplace. As a graduate at the City, you will benefit from:</p> <ul> <li>opportunities to contribute to projects and initiatives you won’t find anywhere else.</li> <li>guidance, coaching and support from experienced industry leaders, mentors and peers.</li> <li>a connected Graduate Academy cohort, giving you a network of peers to learn and grow alongside.</li> <li>work-based learning and a tailored program of personal, professional and career development.</li> <li>a range of Graduate Academy experiences, including City tours, exclusive CEO talks and cohort events.</li> <li>support on your pathway towards professional accreditation.</li> </ul> <p><strong>What’s on offer</strong></p> <p>Join the Utilities Systems Intelligence team and get hands-on experience with the systems that help keep the City's water, sewer and recycled water networks running. You will work with SCADA, PI, telemetry and the operational data and analytics built around them. From day one, you will be involved in real operational challenges, building your skills in data analysis while helping develop the tools, reporting and insights that support network monitoring, modelling and performance improvement across Utilities.</p> <p><strong>What we are looking for</strong></p> <p>We are looking for graduates who are ready to learn, contribute and make a difference. You will:</p> <ul> <li>be curious, motivated and keen to contribute to the future of the Gold Coast.</li> <li>bring new ideas, perspectives and a continuous improvement mindset.</li> <li>take ownership of your learning and professional development.</li> <li>embrace new challenges and adapt as you build your experience.</li> <li>analyse information, think critically and approach problems with curiosity.</li> <li>communicate with confidence, build strong relationships and contribute to a positive team culture.</li> <li>work collaboratively and value different perspectives, experiences and ideas.</li> </ul> <p><strong><em>All positions are classified as security-sensitive critical infrastructure positions and the successful candidate will be required to undertake an <a href=\"https://www.auscheck.gov.au/\">SOCI</a> ACT Background Check. </em></strong> </p> <p><strong>Who can apply? </strong></p> <p>To be considered for this opportunity you must hold a recognised bachelor’s degree or postgraduate qualification from a tertiary institution, completed within the last two years or be completing prior to the commencement of the program in February 2027. Applicants must have full working rights in Australia for the duration of the program and be able to work full-time.</p> <p><strong>The Utilities Systems Intelligence Graduate welcomes graduates who have studied Bachelor of Engineering, Data Engineering, Data Analytics, Computer Science, Information Technology (with a data or analytics focus); and related fields. </strong></p> <p>Submit your academic transcript / qualification, CV and cover letter. In your cover letter please outline information about your career objectives, work experience, education, volunteering and any extracurricular activities, specialist skills or interest areas you may have. </p> <p><strong>Learn more on our Careers Page:</strong> <a href=\"https://www.goldcoast.qld.gov.au/Council/Careers-with-Council/Early-career-programs/Graduate-Academy\">Graduate Academy | City of Gold Coast</a>.</p> <p><strong>Contact Email:</strong> <a href=\"mailto:careerpathways@goldcoast.qld.gov.au\">careerpathways@goldcoast.qld.gov.au</a> </p> <p><strong>Closing Date:</strong> Monday 5 October 2026 / 10:30pm AEDT</p> <p><em>The City of Gold Coast is an equal opportunity employer dedicated to promoting an inclusive and diverse workplace. We are committed to supporting an environment where all employees feel valued, respected and supported. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
-      "keywords": [
-        "data",
-        "analyst",
-        "utilities",
-        "systems",
-        "intelligence"
-      ]
-    },
-    {
-      "job_id": "94602127",
-      "job_title": "IT Support Analyst",
-      "business_name": "Palm Lake Group",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94602127",
-      "advertiser_id": "400234618",
-      "posted_date": "2026-09-14T01:17:40Z",
-      "job_description": "<p><strong>About Us</strong><br>Established in 1977, Palm Lake Group is a proudly Australian, family-owned business with extensive experience in developing, constructing, and managing Lifestyle Resorts, Retirement Villages, and Aged Care Facilities across Australia. Our resorts aren't just places to live they're vibrant, active communities designed for comfort, connection, and enjoyment.<br> <br>Join us in redefining over-50s living.<br><br><strong>Position Details</strong><br>We are seeking an experienced and customer-focused IT Support Analyst to join our IT team based at our Southport Head Office. Supporting staff across Palm Lake Group's operations in Queensland, New South Wales and Victoria, you will provide Level 1 and Level 2 IT support, resolve technical issues, manage service requests, and help deliver reliable and secure IT services across the business. This is a full-time permanent position reporting to the IT Business Partner.<br> <br><strong>Responsibilities</strong></p><ul><li>Provide Level 1 and Level 2 IT support to staff across Palm Lake Group.</li><li>Log, track, and manage incidents and service requests through ServiceNow.</li><li>Troubleshoot hardware, software, Microsoft 365, connectivity, and device issues.</li><li>Configure and deploy laptops, desktops and mobile devices using Microsoft Intune.</li><li>Manage user accounts, access and permissions across Active Directory and Microsoft Entra ID.</li><li>Develop and maintain IT documentation, user guides, and support resources.</li><li>Assist with IT projects, equipment rollouts, relocations, and system improvements.</li><li>Provide onsite support at Palm Lake Group locations as required.</li><li>Work closely with internal stakeholders and external IT partners to resolve issues and improve service delivery.</li><li>Contribute to continuous improvement of IT processes, systems, and user experience.</li></ul><p><strong>What We're Looking For:</strong><br> <br>To succeed in this role, you'll bring:</p><ul><li>3+ years experience in an IT Service Desk, Help Desk, or IT Support role.</li><li>Experience using ServiceNow or a similar IT Service Management (ITSM) platform.</li><li>Strong troubleshooting skills across Windows, Microsoft 365, printers, mobile devices, and business applications.</li><li>Hands-on experience with Microsoft Intune, Active Directory and Microsoft Entra ID.</li><li>Understanding of Microsoft 365 administration and end-user support.</li><li>Knowledge of cybersecurity best practices and secure account management.</li><li>Excellent customer service and communication skills.</li><li>Strong organisational skills with the ability to manage multiple priorities.</li><li>A positive, team-focused attitude with a willingness to learn and adapt.</li><li>Ability to travel locally and interstate on occasion to support Palm Lake Group operations.</li></ul><p><strong>Why Join Us?</strong><br>At Palm Lake, we pride ourselves on offering exceptional lifestyle communities and providing our staff with a supportive and rewarding work environment. We offer our team:</p><ul><li>Competitive Remuneration</li><li>Free Parking in Southport CBD</li><li>Work-life Balance with flexible working hours (Between 7am-5pm, Mon to Fri)</li><li>24/7 free access to compassionate, confidential support with our Employee Assistance Program (EAP)</li><li>Celebrate Milestones with tenure rewards!</li><li>Supportive team culture - Be part of a vibrant and inclusive team where your contributions are valued</li><li>Career Opportunities - Palm Lake Group spans 4 entities, 27 lifestyle resort communities and 7 aged care facilities across Australia's east coast, from development &amp; construction to resort management &amp; aged care, the career pathways and opportunities with Palm Lake Group are truly endless.</li></ul><p><strong>How to Apply</strong><br>If you are an experienced, enthusiastic &amp; customer focused IT Support professional, we would love to hear from you.<br> <br>The recruitment process will commence as applications are received, so don't delay in submitting your CV if this sounds like the role for you!<br><em>Only shortlisted applicants will be contacted.</em></p>",
-      "keywords": [
-        "it",
-        "support",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "94599548",
-      "job_title": "Customer Support Specialist",
-      "business_name": "Veracross",
-      "work_type": "Full time",
-      "job_type": "Other",
-      "pay_range": "",
-      "area": "Miami, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94599548",
-      "advertiser_id": "61968087",
-      "posted_date": "2026-09-13T23:19:52Z",
-      "job_description": "<p></p><p><strong>COMPANY DESCRIPTION</strong></p><p>Veracross provides SaaS-based School Information Systems (SIS) designed to meet the specific needs of independent K-12 schools worldwide. Our one-record solution combines the power of a fully integrated single-record database, personalized communication tools, and an elegant architecture that is unique in our industry. </p><p>We are a growing, values-led community of 350 employees in the US, UK and Australia who share a vision to unify school communities, improve the quality of education, and enhance learning. And we’re succeeding! As of early 2026, we are supporting 3400+ schools in 60 countries. </p><p><em><strong>Veracross is five product brands in one global tech company </strong></em></p><p><strong>Veracross SIS </strong>is a one-person, one-record school management platform</p><p><strong>Magnus Health</strong> provides cloud-based Student Health Record (SHR) solutions</p><p><strong>Digistorm </strong>connects with their communities through Digistorm Websites, Digistorm Funnel, and Digistorm Apps.</p><p><strong>Epraise</strong> incentivizes student well-being and connects teachers, students, and families.</p><p><strong>Firefly </strong>provides an online learning space for students and teachers<br><br></p><p><strong>Role Summary&nbsp;</strong></p><p>As one of the first points of contact for clients, our Customer Support Specialists need to provide outstanding service, ensuring the highest possible customer satisfaction and relationships built on consistent service quality and trust. This includes resolving or triaging customer queries or complaints via email or phone.</p><p>To be successful in this role, you’ll need to have an enthusiasm for everything that’s important to our clients. This means being tech savvy, analytical, solution-focused and committed to flawless communication.&nbsp;</p><p>As a hybrid position, you’ll have access to our dreamy Gold Coast office, while also having flexible options to work from home (though there will be an initial work-from-office period expected during your onboarding).&nbsp;&nbsp;</p><p><br><strong>Job Responsibilities&nbsp;</strong></p><ul><li>Interact directly with customers via ticketing, chat, or phone, delivering great customer service by demonstrating technical and subject matter expertise</li><li>Manage and prioritise multiple open cases at one time</li><li>Ask customers targeted questions to quickly understand and diagnose the root of a problem</li><li>Analyse customer requests, replicating, researching, and resolving technical problems and questions and guiding the client to our Support Hub or Digistorm University solutions whenever possible</li><li>Provide prompt and accurate responses to clients, tracking cases through resolution within company SLA guidelines</li><li>Collaborate with other support specialists and Level 2 support teams to escalate issues that cannot be resolved on your own.</li><li>Identify, update, and maintain internal and external knowledge bases in order to improve support documentation deficiencies&nbsp;&nbsp;</li><li>Identify and log system bugs for the product team</li><li>Over time, gain a detailed understanding of Digistorm’s three core products and how they are used by schools&nbsp;</li><li>Communicate and collaborate with internal teams, escalating technical issues via internal processes when unable to resolve</li></ul><p><strong>Requirements</strong></p><p></p><p>Essential:</p><ul><li>Relevant qualification or equivalent time in a customer service support role</li><li>0-2 years experience working in customer support in the software industry with SaaS experience preferred</li><li>Direct experience in technical support troubleshooting or consulting with demonstrated high customer satisfaction.&nbsp;</li><li>Direct experience engaging with customers through remote work technologies including meeting applications, screen sharing, etc.</li><li>Demonstrated excellence in written and verbal English communication skills, with an ability to communicate technical details to people with a varying range of technical abilities</li><li>Ability to prioritise amongst tasks, and various channels of incoming work, remaining solution-focused and proactive even when under pressure</li><li>Strong organisational and time management skills with an ability to work autonomously and meet deadlines</li><li>Passionate about learning new software, able to build, retain, and apply knowledge across a variety of product areas</li><li>A team player that’s self-motivated, willing to learn and take ownership of own development</li><li>Demonstrated ability to operate independently with minimal guidance while performing your duties</li><li>Experience working within a collaborative team environment and contributing to positive company culture</li></ul><p></p><p>Desirable:</p><ul><li>Technical and/or school-use knowledge of either Digistorm products, or other SaaS products used by K-12 schools&nbsp;</li><li>Industry knowledge of the K-12 private school sector and other education&nbsp;</li><li>Experience documenting generalised technical solutions for customer consumption via a knowledge base</li><li>Experience working within a collaborative team environment and contributing to positive company culture</li><li>Self-awareness</li></ul><p><strong>Benefits</strong></p><p><em><strong>The best tools to get the job done!</strong></em></p><p>When you join Veracross, you get a Macbook Pro, a 32-inch monitor, and an adjustable desk and chair for the office. </p><p><em><strong>Growth opportunities!</strong></em></p><p>Veracross is growing fast, allowing you to own your role and grow with us! Operating within a global team, there are opportunities for professional development allowing your skills to grow as the business grows.</p><p><em><strong>Work/life balance</strong></em></p><p>Management encourages taking hour-long lunches and finishing on time and understands that you have a life outside of work. You can take the day off for your birthday and get a $100-a-year allowance for well-being. Massage, anyone?</p><p><em><strong>Parental leave policy</strong></em></p><p>As part of Veracross parental leave policy, you’re eligible for paid leave as a primary parent and secondary parent when you welcome a new child into your family. This is available after 12 months in a full-time role.</p><p><em><strong>Make a difference</strong></em></p><p>Our work makes a positive contribution to our schools, their students and their families around the world!</p><p><em><strong>Snacks, drinks &amp; coffee</strong></em></p><p>Digistorm’s (Veracross) Gold Coast HQ offers a coffee machine, snack bar and fully stocked drinks fridge to keep energy levels high! Vege chips, kombucha, almond milk, cookies; you name it, they have it.</p><p><em><strong>Culture</strong></em></p><p>The Veracross team is fun, relaxed, and sociable, reflected in the casual dress code and social events. The office has an open floor plan, which allows for cross-team communication and a collaborative environment. Join some staff for lunchtime surfing or hit up nearby food spots for a burger by the beach.</p>",
-      "keywords": [
-        "customer",
-        "support",
-        "specialist"
-      ]
-    },
     {
       "job_id": "94575042",
       "job_title": "SharePoint Administrator (12-Month Contract)",
@@ -646,7 +474,7 @@
       "url": "https://www.seek.com.au/job/94456522",
       "advertiser_id": "20427280",
       "posted_date": "2026-09-07T04:19:12Z",
-      "job_description": "<p>JOIN OUR COMMUNITY</p><p>At King's, we place value on selecting staff who are committed to honouring God through their gifts and talents, and who have a passion to help young people succeed. We seek staff to become part of our collegiate culture to provide challenging, differentiated, and engaging learning for each of their students.</p><p><strong>Expressions of interest are sought for the following position:</strong></p><p><strong>IT Helpdesk Support Officer</strong></p><p>We are seeking a skilled IT Helpdesk Technician for our Pimpama campus.</p><p>This is a <strong>Full Time position</strong>, Monday to Friday 8am – 4pm.</p><p>Responsibilities include, but are not limited to:</p><ul><li>Providing the first line of support to the Staff and Students on any IT related issues, either by telephone, email or face to face.</li><li>Performing preventative maintenance, including checking critical alerts, creating tickets, prioritising and escalating these to the appropriate technician.</li><li>Troubleshooting software and hardware issues in a Apple based environment.</li><li>Use an industry leading ticketing system to track client requests, time management and project work.</li><li>Ensure you follow through with all issues to completion and ensuring if issues are not resolved that they are escalated to the next level of support in a timely manner.</li><li>Ensure the inventory record for all IT related hardware is managed and up to date.</li><li>When required, install or configure new and existing client software or applications.</li><li>Perform user account administration maintaining user access in the various Systems and Software.</li><li>Provide feedback on continuous improvement of processes and procedures in order to enhance the current use of products or reduce incoming call volume.</li><li>Provide technical assistance and support for incoming queries and issues related to computer systems, software, hardware, phone systems, printing and all IT related queries.</li><li>Ensure all internal systems and procedures are followed correctly.</li></ul><p>The ideal applicant will have:</p><ul><li>IT Helpdesk experience</li><li>Familiar with Apple iPadOS, iOS, MacOS ecosystem</li></ul><p><strong>Applications close at 4:00pm on Friday, 18 September 2026.&nbsp;</strong></p><p><em>However applications will be assessed as received and the position may be filled prior to the closing date.</em></p><p>Your curriculum vitae should include details for;</p><ul><li>at least 2 recent professional referees</li><li>at least 1 referee who can attest to your suitability to work within the values and culture of an expanding Christian school (preferably from a Pastor or Minister).</li></ul><p>ABOUT OUR COLLEGE</p><p>King’s is an expanding, multi-Campus school that places paramount importance on the development of the whole child, with a particular focus on providing every student the opportunity to develop Christian Leadership skills that will prepare them for their future. Our programs challenge and shape students’ thinking and understanding of their role in the world.</p><p>With our growing existing campuses and plans for further new campus development, King’s provides excellent career progression opportunities. We encourage suitable applicants to apply to join the growing team at any of King’s Christian College campuses.</p><p>Our College currently consists of 3 dynamic campuses, with several more campuses in the planning stages, serving the communities in which they are located.</p><p>The REEDY CREEK CAMPUS (on the southern end of the Gold Coast) has more than 2600 students on-site, from Early Learning through to Year 12. This campus also includes a Trade Training College.</p><p>Our PIMPAMA CAMPUS (on the northern end of the Gold Coast) currently has over 2000 students on-site, from Early Learning to Year 12.</p><p>King’s LOGAN VILLAGE CAMPUS (in south-west Logan) offers places for students from Early Learning through to High School.</p><p><em>King's Christian College is committed to child safety and wellbeing and acts in accordance with the Child Safe Standards (Child Safe Organisations Act 2024 (Qld) and the Working with Children Check Act 2000.)&nbsp;As such, candidates will be subject to will be subject to a Qld Teacher Registration check or Blue Card screening and other relevant checks as required.&nbsp;</em>&nbsp;</p>",
+      "job_description": "<p>JOIN OUR COMMUNITY</p><p>At King's, we place value on selecting staff who are committed to honouring God through their gifts and talents, and who have a passion to help young people succeed. We seek staff to become part of our collegiate culture to provide challenging, differentiated, and engaging learning for each of their students.</p><p><strong>Expressions of interest are sought for the following position:</strong></p><p><strong>IT Helpdesk Support Officer</strong></p><p>We are seeking a skilled IT Helpdesk Technician for our Pimpama campus.</p><p>This is a <strong>Full Time position</strong>, Monday to Friday 8am – 4pm.</p><p>Responsibilities include, but are not limited to:</p><ul><li>Providing the first line of support to the Staff and Students on any IT related issues, either by telephone, email or face to face.</li><li>Performing preventative maintenance, including checking critical alerts, creating tickets, prioritising and escalating these to the appropriate technician.</li><li>Troubleshooting software and hardware issues in a Apple based environment.</li><li>Use an industry leading ticketing system to track client requests, time management and project work.</li><li>Ensure you follow through with all issues to completion and ensuring if issues are not resolved that they are escalated to the next level of support in a timely manner.</li><li>Ensure the inventory record for all IT related hardware is managed and up to date.</li><li>When required, install or configure new and existing client software or applications.</li><li>Perform user account administration maintaining user access in the various Systems and Software.</li><li>Provide feedback on continuous improvement of processes and procedures in order to enhance the current use of products or reduce incoming call volume.</li><li>Provide technical assistance and support for incoming queries and issues related to computer systems, software, hardware, phone systems, printing and all IT related queries.</li><li>Ensure all internal systems and procedures are followed correctly.</li></ul><p>The ideal applicant will have:</p><ul><li>IT Helpdesk experience</li><li>Familiar with Apple iPadOS, iOS, MacOS ecosystem</li></ul><p><strong>Applications close at 4:00pm on Friday, 18 September 2026.&nbsp;</strong></p><p><em>However applications will be assessed as received and the position may be filled prior to the closing date.</em></p><p>Your curriculum vitae should include details for;</p><ul><li>at least 2 recent professional referees</li><li>at least 1 referee who can attest to your suitability to work within the values and culture of an expanding Christian school (preferably from a Pastor or Minister).</li></ul><p>ABOUT OUR COLLEGE</p><p>King’s is an expanding, multi-Campus school that places paramount importance on the development of the whole child, with a particular focus on providing every student the opportunity to develop Christian Leadership skills that will prepare them for their future. Our programs challenge and shape students’ thinking and understanding of their role in the world.</p><p>With our growing existing campuses and plans for further new campus development, King’s provides excellent career progression opportunities. We encourage suitable applicants to apply to join the growing team at any of King’s Christian College campuses.</p><p>Our College currently consists of 3 dynamic campuses, with several more campuses in the planning stages, serving the communities in which they are located.</p><p>The REEDY CREEK CAMPUS (on the southern end of the Gold Coast) has more than 2600 students on-site, from Early Learning through to Year 12. This campus also includes a Trade Training College.</p><p>Our PIMPAMA CAMPUS (on the northern end of the Gold Coast) currently has over 2000 students on-site, from Early Learning to Year 12.</p><p>King’s LOGAN VILLAGE CAMPUS (in south-west Logan) offers places for students from Early Learning through to High School.</p><p><em>King's Christian College is committed to acting in accordance with the Working with Children (Risk Management and Screening) Act 2000 (QLD) to promote the safety and wellbeing of all students. As such, candidates will be subject to a Qld Teacher Registration check or Blue Card screening and other relevant checks as required.&nbsp;</em>&nbsp;</p>",
       "keywords": [
         "it",
         "helpdesk",
