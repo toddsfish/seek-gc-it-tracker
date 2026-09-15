@@ -1,550 +1,386 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-15",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-16T08:33:19.073998+10:00",
-  "total_jobs": 56,
+  "scraped_at": "2026-09-15T08:52:04.357650+10:00",
+  "total_jobs": 50,
   "keywords": [
     {
       "term": "analyst",
-      "count": 14,
-      "share": 0.25
+      "count": 13,
+      "share": 0.26
     },
     {
       "term": "support",
       "count": 11,
-      "share": 0.1964
+      "share": 0.22
     },
     {
       "term": "it",
       "count": 10,
-      "share": 0.1786
+      "share": 0.2
     },
     {
       "term": "engineer",
       "count": 8,
-      "share": 0.1429
-    },
-    {
-      "term": "data",
-      "count": 7,
-      "share": 0.125
-    },
-    {
-      "term": "business",
-      "count": 7,
-      "share": 0.125
+      "share": 0.16
     },
     {
       "term": "developer",
       "count": 7,
-      "share": 0.125
+      "share": 0.14
+    },
+    {
+      "term": "business",
+      "count": 6,
+      "share": 0.12
     },
     {
       "term": "systems",
       "count": 6,
-      "share": 0.1071
+      "share": 0.12
     },
     {
       "term": "ai",
       "count": 6,
-      "share": 0.1071
+      "share": 0.12
     },
     {
       "term": "software",
       "count": 6,
-      "share": 0.1071
+      "share": 0.12
     },
     {
       "term": "manager",
-      "count": 6,
-      "share": 0.1071
+      "count": 5,
+      "share": 0.1
     },
     {
-      "term": "specialist",
+      "term": "data",
       "count": 4,
-      "share": 0.0714
-    },
-    {
-      "term": "administrator",
-      "count": 4,
-      "share": 0.0714
+      "share": 0.08
     },
     {
       "term": "service",
       "count": 4,
-      "share": 0.0714
+      "share": 0.08
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.0714
+      "share": 0.08
     },
     {
-      "term": "product",
+      "term": "administrator",
       "count": 4,
-      "share": 0.0714
+      "share": 0.08
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0536
+      "share": 0.06
     },
     {
       "term": "officer",
       "count": 3,
-      "share": 0.0536
+      "share": 0.06
     },
     {
-      "term": "intelligence",
+      "term": "specialist",
       "count": 2,
-      "share": 0.0357
-    },
-    {
-      "term": "engineering",
-      "count": 2,
-      "share": 0.0357
+      "share": 0.04
     },
     {
       "term": "month",
       "count": 2,
-      "share": 0.0357
+      "share": 0.04
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0357
+      "share": 0.04
+    },
+    {
+      "term": "product",
+      "count": 2,
+      "share": 0.04
     },
     {
       "term": "cyber",
       "count": 2,
-      "share": 0.0357
+      "share": 0.04
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0357
+      "share": 0.04
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "utilities",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
-      "term": "analysis",
+      "term": "intelligence",
       "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "capability",
-      "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "science",
-      "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "reporting",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "jetstar",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "retail",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "solutions",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "technology",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "risk",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "resilience",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "architech",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "dynamics",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "assisted",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "azure",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "native",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "backend",
-      "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "frontend",
-      "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "php",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
-      "term": "machines4u",
+      "term": "frontend",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
+    },
+    {
+      "term": "backend",
+      "count": 1,
+      "share": 0.02
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
+    },
+    {
+      "term": "engineering",
+      "count": 1,
+      "share": 0.02
     },
     {
       "term": "groundworks",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "modern",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "workplace",
       "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "helpdesk",
-      "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "pimpama",
-      "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "campus",
-      "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "desktop",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
+    },
+    {
+      "term": "helpdesk",
+      "count": 1,
+      "share": 0.02
+    },
+    {
+      "term": "pimpama",
+      "count": 1,
+      "share": 0.02
+    },
+    {
+      "term": "campus",
+      "count": 1,
+      "share": 0.02
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "experience",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "required",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "migration",
-      "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "program",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "ecommerce",
       "count": 1,
-      "share": 0.0179
+      "share": 0.02
     },
     {
       "term": "catalogue",
       "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "applied",
-      "count": 1,
-      "share": 0.0179
+      "share": 0.02
     }
   ],
   "jobs": [
-    {
-      "job_id": "94644355",
-      "job_title": "Senior Product Manager - Industry & Equipment",
-      "business_name": "carsales",
-      "work_type": "Full time",
-      "job_type": "Product Management & Development",
-      "pay_range": "",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94644355",
-      "advertiser_id": "2762928",
-      "posted_date": "2026-09-15T05:56:31Z",
-      "job_description": "<div>\n<strong>Company Description</strong><br>\n</div>\n<div>\n<p><strong>Are you ready to be a big part of something big?</strong></p>\n<p>At&nbsp;<strong>Machines4U&nbsp;</strong>machinery&nbsp;part of carsales, we’re all about making buying and selling a great experience. We’ve been evolving with the new economy to help people choose how they move today and tomorrow.</p>\n<p>When it comes to your career, we want to<strong> </strong>offer meaningful opportunities that empower you to make a lasting impact. But for that to happen, we strive to feel small, small enough to stay agile, learn across teams, and connect authentically with each other.</p>\n<p>With a vision to be the global leader in online vehicle marketplaces, we’re transforming how people buy and sell across the world. We discover new ideas and bring them to life. We continue to grow, and we continue to evolve and we’re not afraid to take bold steps to get there.</p>\n<p>We embrace hybrid working combining the flexibility of remote work with the energy and connection of in-person collaboration. We champion flexibility and offer a range of policies and leave options to support your wellbeing.</p>\n<p><strong>What’s on offer:&nbsp;</strong></p>\n<ul>\n<li>A place where you can move your career forward, where you’ll be continuously backed to make new ideas happen, and the chance to do work that makes real, significant impact in the world.&nbsp;</li>\n<li>We’re proud to be recognised as one of Australia’s Best Workplaces™ by Great Place to Work®, a Family Friendly Workplace and a WORK180 endorsed employer for women.</li>\n<li>The support of a highly engaged, high-performing team including a leadership team that&nbsp;you’ll actually have face time with.&nbsp;</li>\n<li>24 weeks paid parental leave for primary caregivers, four weeks paid secondary caregivers leave and paid family &amp; fertility planning leave.</li>\n</ul>\n</div>\n<div>\n<strong>Job Description</strong><br>\n</div>\n<div>\n<p><strong>What&nbsp;you’ll&nbsp;be doing:&nbsp;</strong></p>\n<ul>\n<li>Lead the product vision: shape&nbsp;strategy and deliver experiences that drive engagement, growth and&nbsp;customer value.&nbsp;</li>\n<li>Drive channel performance: maximise the buyer and seller&nbsp;experience and commercial impact through optimisation,&nbsp;experimentation&nbsp;and strong ownership of targets.&nbsp;</li>\n<li>Discover and shape new opportunities: identify emerging needs and opportunities, design product solutions and deliver them to market to unlock growth.&nbsp;</li>\n<li>Validate ideas at speed: run experiments and tests to rapidly improve key metrics and outcomes.&nbsp;</li>\n<li>Turn data into decisions: synthesise&nbsp;customer, product and market insights into clear actions.&nbsp;</li>\n<li>Drive cross-squad alignment: manage&nbsp;dependencies and deliver outcomes with cross functional teams.&nbsp;</li>\n<li>Build strong partnerships: Work with teams, vendors, and partners to&nbsp;deliver effectively.&nbsp;</li>\n<li>Influence at the highest level: define and communicate compelling product strategies to senior stakeholders.&nbsp;</li>\n</ul>\n</div>\n<div>\n<strong>Qualifications</strong><br>\n</div>\n<div>\n<p>We’re looking for an experienced,&nbsp;hands-on&nbsp;Product Manager&nbsp;with a proven track record of turning ideas into reality. You thrive in ambiguity, enjoy solving complex problems, and are confident using data to test and validate your instincts.&nbsp;</p>\n<ul>\n<li>Proven experience building products from the ground up, taking ideas from concept to launch.&nbsp;</li>\n<li>Experience in product management, product design, or a commercially focused product role.&nbsp;</li>\n<li>Shows natural curiosity and originality, confidently questioning norms and approaching ideas from fresh perspectives.&nbsp;</li>\n<li>A strong product toolkit, knowing when to apply the right tools, frameworks, and processes for the problem at hand.&nbsp;</li>\n<li>Demonstrated success working cross‑functionally, influencing stakeholders and driving change beyond your immediate team.&nbsp;</li>\n</ul>\n<p><strong>We know not everyone will meet every requirement, and that’s okay. If you’re excited about the role and believe you can make a difference, we’d love to hear from you.</strong></p>\n</div>\n<div>\n<strong>Additional Information</strong><br>\n</div>\n<div>\n<p><strong>A few other things we want you to know...</strong></p>\n<ul>\n<li>As an equal opportunity employer, Machines4U and carsales welcomes applications from individuals of all backgrounds, identities, abilities, and life experiences. We are committed to fostering a diverse and inclusive workplace where everyone feels valued and supported.</li>\n<li>If you have a disability or require adjustments to participate fully in the recruitment process, please let us know - we’re here to support you.</li>\n<li>We understand the importance of work-life balance and offer flexible working arrangements, including part-time options. If you’d like to explore this, just ask during the process.</li>\n<li>We’re also a proud Circle Back Initiative employer, which means we commit to responding to every applicant.</li>\n<li>Successful candidates joining the Machines4U and carsales team will need to complete a National Police Record check and must have full-time Australian working rights.</li>\n</ul>\n<p><strong>So&nbsp;come&nbsp;and&nbsp;join&nbsp;our&nbsp;team&nbsp;-&nbsp;because&nbsp;every&nbsp;role&nbsp;is&nbsp;a&nbsp;big&nbsp;role&nbsp;in&nbsp;our&nbsp;plans&nbsp;to&nbsp;go&nbsp;big.</strong></p>\n</div>",
-      "keywords": [
-        "product",
-        "manager",
-        "industry",
-        "equipment"
-      ]
-    },
-    {
-      "job_id": "94644345",
-      "job_title": "Engineering Manager, Machines4U",
-      "business_name": "carsales",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94644345",
-      "advertiser_id": "2762928",
-      "posted_date": "2026-09-15T05:42:26Z",
-      "job_description": "<div>\n<strong>Company Description</strong><br>\n</div>\n<div>\n<p><strong>Are you ready to be a big part of something big?</strong></p>\n<p>At <strong>Machines4U </strong>machinery&nbsp;part of carsales, we’re all about making buying and selling a great experience. We’ve been evolving with the new economy to help people choose how they move today and tomorrow.</p>\n<p>When it comes to your career, we want to<strong> </strong>offer meaningful opportunities that empower you to make a lasting impact. But for that to happen, we strive to feel small, small enough to stay agile, learn across teams, and connect authentically with each other.</p>\n<p>With a vision to be the global leader in online vehicle marketplaces, we’re transforming how people buy and sell across the world. We discover new ideas and bring them to life. We continue to grow, and we continue to evolve and we’re not afraid to take bold steps to get there.</p>\n<p>A career in&nbsp;Software Engineering&nbsp;will see you working on products that are used every single day by our millions of customers all over the world. This position is within our&nbsp;ACIL&nbsp;(Auto, Corporate, Industry &amp; Leisure)&nbsp;team. The team focuses on high availability product for Dealership customers to buy and sell their inventory. It plays a vital role in allowing them to maximise their online customer interaction and sale funnels.</p>\n<p>We embrace hybrid working combining the flexibility of remote work with the energy and connection of in-person collaboration. We champion flexibility and offer a range of policies and leave options to support your wellbeing.</p>\n<p><strong>What’s on offer:&nbsp;</strong></p>\n<ul>\n<li>A place where you can move your career forward, where you’ll be continuously backed to make new ideas happen, and the chance to do work that makes real, significant impact in the world.&nbsp;</li>\n<li>We’re proud to be recognised as one of Australia’s Best Workplaces™ by Great Place to Work®, a Family Friendly Workplace and a WORK180 endorsed employer for women.</li>\n<li>The support of a highly engaged, high-performing team including a leadership team that&nbsp;you’ll actually have face time with.&nbsp;</li>\n<li>24 weeks paid parental leave for primary caregivers, four weeks paid secondary caregivers leave and paid family &amp; fertility planning leave.</li>\n</ul>\n</div>\n<div>\n<strong>Job Description</strong><br>\n</div>\n<div>\n<p><strong>What you’ll be doing</strong></p>\n<ul>\n<li>Own engineering execution for Machines4U, from product development and platform reliability to engineering practices and delivery cadence</li>\n<li>Translate business priorities set by senior leadership into a clear, sequenced engineering roadmap and deliver against it</li>\n<li>Lead a high-performing, distributed engineering team, and hold the behavioural and technical bar</li>\n<li>Partner closely with product and carsales engineering counterparts to shape the Machines4U technology landscape and ensure engineering decisions serve commercial outcomes</li>\n<li>Lead the progressive modernisation of Machines4U’s technology stack, balancing legacy platform stability with migration to scalable, secure and group-aligned modern systems.</li>\n<li>Oversee key platform integrations and third-party technical dependencies, ensuring reliable interfaces across marketplace, CRM, payments, marketing, reporting and group systems.</li>\n<li>Own engineering input into security, reliability and compliance practices, ensuring risks are understood, prioritised and remediated pragmatically.</li>\n<li>Actively contribute to engineering practices, tooling, and culture across the carsales Engineering community</li>\n<li>Provide clear, credible engineering perspectives to senior leadership, including assessments of risk, trade-offs, and capacity</li>\n</ul>\n</div>\n<div>\n<strong>Qualifications</strong><br>\n</div>\n<div>\n<p><strong>What we're looking for</strong></p>\n<ul>\n<li>Proven experience leading engineering teams in a product-led, commercially-driven environment, ideally in a marketplace or B2B SaaS context</li>\n<li>Strong technical depth across modern web stacks (backend and frontend), cloud infrastructure, and API design</li>\n<li>Track record delivering practical engineering roadmaps that move the needle on business outcomes</li>\n<li>Experience operating in a mixed legacy and modern technology environment, with a pragmatic approach to modernisation and risk reduction.</li>\n<li>Natural relationship builder who can work effectively across functions, holding your own with stakeholders while staying accountable to a broader group</li>\n<li>Credible operating range: from coding standards and incident response to roadmap trade-offs and senior leadership updates</li>\n<li>Hands-on enough to review architecture, unblock engineers, and spot quality problems early</li>\n<li>Pragmatic experience balancing delivery pace and meeting standards for security, reliability, and scalability</li>\n</ul>\n<p><strong>We know not everyone will meet every requirement, and that’s okay. If you’re excited about the role and believe you can make a difference, we’d love to hear from you.</strong></p>\n</div>\n<div>\n<strong>Additional Information</strong><br>\n</div>\n<div>\n<p><strong>A few other things we want you to know...</strong></p>\n<ul>\n<li>As an equal opportunity employer, Machines4U and carsales welcomes applications from individuals of all backgrounds, identities, abilities, and life experiences. We are committed to fostering a diverse and inclusive workplace where everyone feels valued and supported.</li>\n<li>If you have a disability or require adjustments to participate fully in the recruitment process, please let us know - we’re here to support you.</li>\n<li>We understand the importance of work-life balance and offer flexible working arrangements, including part-time options. If you’d like to explore this, just ask during the process.</li>\n<li>We’re also a proud Circle Back Initiative employer, which means we commit to responding to every applicant.</li>\n<li>Successful candidates joining the Machines4U and carsales team will need to complete a National Police Record check and must have full-time Australian working rights.</li>\n</ul>\n<p><strong>So&nbsp;come&nbsp;and&nbsp;join&nbsp;our&nbsp;team&nbsp;-&nbsp;because&nbsp;every&nbsp;role&nbsp;is&nbsp;a&nbsp;big&nbsp;role&nbsp;in&nbsp;our&nbsp;plans&nbsp;to&nbsp;go&nbsp;big.</strong></p>\n</div>",
-      "keywords": [
-        "engineering",
-        "manager",
-        "machines4u"
-      ]
-    },
-    {
-      "job_id": "94640859",
-      "job_title": "Applied Intelligence Product Specialist",
-      "business_name": "Queensland Airports Limited",
-      "work_type": "Full time",
-      "job_type": "Other",
-      "pay_range": "",
-      "area": "Bilinga, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94640859",
-      "advertiser_id": "63584169",
-      "posted_date": "2026-09-15T05:17:48Z",
-      "job_description": "<p>At Queensland Airports Limited (QAL), we’re investing in a modern enterprise data platform to improve how information is connected, understood and applied across our airports.</p><p>We’re looking for an <strong>Applied Intelligence Product Specialist</strong> to join our growing Applied Intelligence team. This is an opportunity to work at the intersection of data, technology and business, translating complex operational and commercial challenges into trusted data products, advanced analytics and practical AI-enabled solutions.</p><p>Working closely with Technology, our Senior Data Warehouse Analyst and stakeholders across the business, you’ll help turn QAL’s platform investment into valuable new capabilities while supporting better decisions and more efficient ways of working.</p><p><strong>What Our People Say</strong></p><p>“What I value most about QAL is the collaborative culture. Team members actively share knowledge, support one another’s growth and are encouraged to bring new ideas. It’s a supportive and motivating environment, and I’m proud to be part of the organisation.”</p><p><strong>Aryan Thakur, Support Analyst</strong></p><p><strong>About the Role</strong></p><p>Reporting to the GM Applied Intelligence, you’ll:</p><ul><li><p>Partner with stakeholders to understand business challenges and identify valuable data, analytics and AI opportunities.</p></li><li><p>Interrogate and validate complex operational and commercial data from multiple business systems.</p></li><li><p>Translate business needs into well-defined data products, analytical solutions and AI-enabled capabilities.</p></li><li><p>Contribute to data models, semantic definitions, business rules, performance measures and data-quality controls.</p></li><li><p>Develop and improve business intelligence and analytical solutions, including Power BI products.</p></li><li><p>Shape product discovery, roadmaps, priorities, user stories and acceptance criteria.</p></li><li><p>Identify and evaluate appropriate applications of large language models, advanced analytics and machine learning.</p></li><li><p>Explore ways to ground AI outputs in trusted enterprise information and enable controlled, multi-step workflows.</p></li><li><p>Coordinate testing, implementation, adoption, value measurement and continuous improvement.</p></li><li><p>Build data literacy and confidence in the use of trusted information across QAL.</p></li></ul><p>Close collaboration with Technology will be fundamental to the role. You’ll help shape valuable business use cases and work with Technology, data specialists and external partners to ensure solutions are secure, integrated, supported, governed and aligned with QAL’s enterprise architecture.</p><p><strong>About You</strong></p><p>You combine practical data capability with curiosity, sound judgement and strong product thinking. You enjoy working through complex problems, testing ideas and translating technical concepts into solutions people can understand and use.</p><p>You’ll build productive relationships across technical and non-technical teams, communicate clearly and keep delivery focused on measurable business value.</p><p>You’ll bring:</p><ul><li><p>Relevant qualifications in Data Analytics, Information Systems, Information Technology, Computer Science, Business or a related discipline, or equivalent practical experience.</p></li><li><p>Practical experience in data analytics, business intelligence, data products or a related field.</p></li><li><p>The ability to use SQL to interrogate, validate and analyse data.</p></li><li><p>Experience developing or contributing to business intelligence solutions, ideally using Power BI.</p></li><li><p>An understanding of data modelling, semantic layers, business rules, data quality and governance.</p></li><li><p>Practical exposure to applied AI through professional experience, formal study or substantial project work.</p></li><li><p>An understanding of how contemporary AI solutions use trusted information, connect with systems and operate within appropriate controls.</p></li><li><p>Knowledge of product-management practices, including discovery, roadmaps, prioritisation, user stories and acceptance criteria.</p></li><li><p>Strong analytical, problem-solving, communication and stakeholder-engagement skills.</p></li><li><p>The ability to collaborate effectively with Technology and other technical specialists.</p></li></ul><p>Experience in one or more of the following areas will be highly regarded:</p><ul><li><p>Python and advanced data analysis.</p></li><li><p>Modern cloud data and analytics platforms.</p></li><li><p>Advanced analytics and machine learning.</p></li><li><p>Large language models, prompt design and AI evaluation.</p></li><li><p>Retrieval-augmented generation and enterprise knowledge solutions.</p></li><li><p>AI agents, tool-enabled workflows and human approval controls.</p></li><li><p>APIs and other methods of securely connecting AI applications with enterprise systems.</p></li><li><p>Product management, business analysis or digital-transformation initiatives.</p></li></ul><p>This isn’t a data-engineering or AI-research position, but it does require technical credibility. You’ll need to be comfortable working directly with data, understand how modern data and AI solutions are assembled, assess what is feasible and work with technical specialists to turn promising ideas into secure, sustainable enterprise capabilities.</p><p><strong>Why QAL?</strong></p><ul><li><p>Meaningful work that contributes to the future of our airports and communities.</p></li><li><p>The opportunity to help shape emerging data, analytics and AI capabilities across QAL.</p></li><li><p>Close collaboration with business, Applied Intelligence and Technology teams.</p></li><li><p>Exposure to complex operational, commercial and customer challenges.</p></li><li><p>A supportive and inclusive workplace where diverse perspectives are valued.</p></li><li><p>Learning, development and career-growth opportunities.</p></li><li><p>A collaborative environment where people are encouraged to share ideas and challenge thinking constructively.</p></li></ul><p><strong>How we support you</strong></p><p>At Queensland Airports Limited (QAL), we believe work should support life, not compete with it. Through our <em>Living Well</em> approach, we offer flexible working options for all roles, wellbeing initiatives and a supportive culture so our people can thrive both professionally and personally.</p><p>As we continue to grow and transform, we encourage flexible ways of working and open conversations about how work fits alongside life. We also invest in our people through learning, mentoring and career pathways across our four airports.</p><p><strong>What we’ve built together</strong></p><p>At QAL, our people connect communities. We own and operate Gold Coast, Townsville, Mount Isa and Longreach airports, linking regional Queensland and northern New South Wales with the rest of Australia and the world.</p><p>More than 8 million passengers travel through our airports each year, supported by teams working together to create safe, welcoming and efficient experiences. Our vision is to be the first-choice gateway for our regions, creating valuable connections and inspiring a sustainable future.</p><p>We’re committed to an inclusive and psychologically safe workplace where people feel valued, supported and encouraged to be themselves. We welcome applications from people of all backgrounds and experiences, including Aboriginal and Torres Strait Islander peoples, and encourage you to apply even if you don’t meet every requirement.</p><p>QAL is a WORK180 Endorsed Employer, independently recognised for supporting long‑term careers, flexibility, wellbeing and equal opportunity. Learn more about working at QAL here.</p><p>The successful candidate will be required to adhere to QAL’s Drug and Alcohol Management Plan (DAMP), which includes pre-employment Drug and Alcohol Testing and have the ability to obtain an Aviation Security Identification Card (ASIC), which requires the completion of a Police Check.</p><p>We know strong candidates don’t always meet every requirement. If you bring practical data capability, relevant experience and a genuine interest in applying emerging technology to meaningful business problems, we’d love to hear from you.</p><p><strong>Apply now and help shape how data, analytics and AI support the future of QAL’s airports.</strong></p><p><br></p>",
-      "keywords": [
-        "applied",
-        "intelligence",
-        "product",
-        "specialist"
-      ]
-    },
-    {
-      "job_id": "94633960",
-      "job_title": "Data Migration & Product Specialist",
-      "business_name": "LAPM",
-      "work_type": "Full time",
-      "job_type": "Product Management & Development",
-      "pay_range": "$70,000 – $90,000 per year",
-      "area": "Hollywell, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94633960",
-      "advertiser_id": "55028276",
-      "posted_date": "2026-09-15T02:19:44Z",
-      "job_description": "<p><strong>About LAPM</strong>&nbsp;</p><p>LAPM helps law firms across Australia move between practice-management systems and get more out of their technology. We’ve migrated firms off platforms including LEAP, LawMaster and Practice Evolve, and we build our own suite of legal-technology products. We’re Gold Coast–based, growing fast, and known for solving the problems other people find too hard.&nbsp;</p><p><strong>The role</strong>&nbsp;</p><p>A hands-on role at the intersection of data, software and legal services. You’ll take a firm’s data out of one system, understand it, map it, clean it and land it correctly in the new one — then help them go live and get on with running their firm. Between migrations you’ll test our own products, feed real client needs back to our developers, and help make the software better.&nbsp;</p><p>Some of the work is genuinely technical — reading and shaping data, working with SQL and APIs, understanding how each system stores things. Some of it is done through the target system’s own import tools and front-end channels. Most of it is problem-solving: working out what a messy dataset actually needs.&nbsp;</p><p><strong>What you’ll do</strong>&nbsp;</p><ul><li><p>Run and support data migrations between legal software platforms&nbsp;</p></li></ul><ul><li><p>Extract, map, transform and validate firm data between systems&nbsp;</p></li></ul><ul><li><p>Find and resolve data issues before go-live&nbsp;</p></li></ul><ul><li><p>Load data through vendor import tools and APIs, and reconcile the result&nbsp;</p></li></ul><ul><li><p>Configure and implement software; map how firms actually operate&nbsp;</p></li></ul><ul><li><p>Test our products — find bugs and usability issues, and work with developers on fixes and new features&nbsp;</p></li></ul><ul><li><p>Support firms through migration, testing and go-live&nbsp;</p></li></ul><ul><li><p>Document and continually improve our migration methodology&nbsp;</p></li></ul><p><strong>What you’ll bring</strong>&nbsp;</p><p>You don’t need to have done this exact job — few people have. But you do need to be genuinely technical-minded and precise. Ideally you’ll have:&nbsp;</p><ul><li><p>Real comfort working with data — SQL, spreadsheets, or a scripting language — or clear evidence you pick these up fast&nbsp;</p></li></ul><ul><li><p>Sharp attention to detail and accuracy (you’ll be handling firms’ financial and client records)&nbsp;</p></li></ul><ul><li><p>Strong problem-solving — you can look at a messy dataset and work out what needs to happen&nbsp;</p></li></ul><ul><li><p>The ability to learn new software quickly and to work independently and take ownership&nbsp;</p></li></ul><ul><li><p>Clear communication — you’ll deal with both clients and developers&nbsp;</p></li></ul><ul><li><p>An interest in how software can make a business run better&nbsp;</p></li></ul><p>Hands-on experience with data migration, legal practice-management systems, SQL, Excel, APIs, testing or software development is highly regarded — but aptitude and attitude matter more.&nbsp;</p><p><strong>What matters most</strong>&nbsp;</p><p>A migration isn’t successful because the data technically moved. It’s successful when the client opens the new system on Monday morning and simply gets on with running their firm. If you take pride in getting things exactly right, notice the details others miss, and genuinely enjoy figuring things out — you’ll fit here.&nbsp;</p><p><strong>Why LAPM</strong>&nbsp;</p><p>You’ll join a growing Australian company at an exciting stage, working across data, technology, legal services and product — from a client’s problem through to building, testing and shipping the fix. We’re practical, we take ownership, and we’re always looking for a better way to do things.&nbsp;</p><p><strong>The next step</strong>&nbsp;</p><p>Click ‘Apply now’. Your application will ask: your right to work in Australia, your expected annual base salary, and your notice period.&nbsp;</p>",
-      "keywords": [
-        "data",
-        "migration",
-        "product",
-        "specialist"
-      ]
-    },
-    {
-      "job_id": "94631032",
-      "job_title": "Graduate Data Science",
-      "business_name": "City of Gold Coast",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "From $86,611 plus superannuation",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94631032",
-      "advertiser_id": "16652581",
-      "posted_date": "2026-09-15T01:02:34Z",
-      "job_description": "<ul> <li><strong>Full Time Fixed Term | 9-day fortnight | 36 hours per week</strong></li> <li> <strong>Salary: </strong>From $86,611 per annum plus superannuation</li> <li> <strong>Position Overview </strong>– <a href=\"https://applynow.net.au/jobs/GradEHR1/assets/32331834\">Graduate Position Brief</a> </li> </ul> <p>We know you are driven by growth and opportunity, eager to build your career and ready to make an impact. That’s why we offer a full time, 12-month Graduate Academy designed to unlock your potential and equip you with the knowledge, skills and hands-on experience to excel in your chosen career.</p> <p>Working alongside industry leaders, you will contribute to a range of projects and initiatives that help shape and connect our City, with real world opportunities to learn, grow and progress. Through our tailored development program, valuable industry connections and the support of our Graduate Academy community, you will build the skills, networks and confidence to take your career further.</p> <p><strong>Start your career at the City</strong></p> <p>Starting February 2027, the Graduate Academy combines professional development with meaningful on-the-job experience, designed to support your transition from university into the workplace. As a Graduate Data Scientist, you will work in the Performance and Analytics business unit and assist in solving business problems through innovative technical solutions and data insights. This year, we are looking for <strong>two Graduate Data Scientists.</strong></p> <p>One successful candidate will specifically be working on projects for the City of Gold Coast’s Environment, Heritage and Resilience Department. Within the department, a diverse range teams work together to deliver environmental, conservation and sustainability outcomes, including the Conservation Branch and the Waste and Resource Recovery Branch. The Conservation Branch protects, manages and restores the city’s natural environment for current and future generations, while the Waste and Resource Recovery Branch advances sustainable resource management outcomes. Working on conservation and waste data projects, you will help transform complex data into meaningful insights that support informed decision-making, drive innovation, and contribute to a more sustainable future for our community and environment.</p> <p>The other successful candidate will be working on projects for the City of Gold Coast’s Infrastructure department, which manages public works, transport networks, and essential city assets for the Gold Coast. Working with asset, transport and utilities datasets, you will work on projects helping to create a safe and accessible city that meets the needs of our community both now and in the future. A key focus will be the delivery of high-value data insights from large structured and unstructured datasets, using modern tools and coding practices to drive automation and service improvements</p> <p><strong>The successful candidates will:</strong></p> <ul> <li>Be proficient in programming languages such as R and Python.</li> <li>Be able to tailor communication style and content to suit different audiences, from technical peers to non-technical stakeholders.</li> <li>Possess basic SQL skills and an understanding of relational databases and database design.</li> <li>Demonstrate an understanding of statistical methods to analyse data and draw actionable insights.</li> <li>Have exposure to machine learning, deep learning and advanced modelling techniques and algorithms.</li> <li>Have knowledge across data science domains, such as classification, forecasting, unsupervised learning, Bayesian modelling, natural language processing, image processing, reinforcement learning and generative AI.</li> <li>Have skills/experience in AI concepts and technologies (e.g. LLMs, RAG, MCP, AI agents) and applying them to practical business challenges.</li> <li>Have experience with data visualisation tools, such as Power BI or Tableau.</li> <li>Have familiarity with version control systems (e.g. Git, Gitlab, Azure Dev Ops).</li> <li>Have skills/experience in GIS and spatial data analytics</li> <li>Have experience or coursework related to cloud data warehouse solutions (e.g. Snowflake, BigQuery, Microsoft Fabric) and cloud-based solutions (e.g. AWS, Azure, GCP).</li> </ul> <p><strong>Who can apply? </strong></p> <p>To be considered for this opportunity you must hold a recognised bachelor’s degree or postgraduate qualification from a tertiary institution, completed within the last two years or be completing prior to the commencement of the program in February 2027. Applicants must have full working rights in Australia for the duration of the program and be able to work full-time.</p> <p><strong>The Data Science Graduate welcomes graduates who have studied Bachelor of Data Science, AI, Computer Science, Statistics, Mathematics, Actuarial Science; and related fields. </strong></p> <p>Submit your academic transcript / qualification, CV and cover letter. In your cover letter please outline information about your career objectives, work experience, education, volunteering and any extracurricular activities, specialist skills or interest areas you may have. </p> <p><strong>Learn more on our Careers Page:</strong> <a href=\"https://www.goldcoast.qld.gov.au/Council/Careers-with-Council/Early-career-programs/Graduate-Academy\">Graduate Academy | City of Gold Coast</a>.</p> <p><strong>Contact Email:</strong> <a href=\"mailto:careerpathways@goldcoast.qld.gov.au\">careerpathways@goldcoast.qld.gov.au</a> </p> <p><strong>Closing Date:</strong> Monday 5 October 2026 / 10:30pm AEST</p> <p><em>The City of Gold Coast is an equal opportunity employer dedicated to promoting an inclusive and diverse workplace. We are committed to supporting an environment where all employees feel valued, respected and supported. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
-      "keywords": [
-        "data",
-        "science"
-      ]
-    },
-    {
-      "job_id": "94630232",
-      "job_title": "Graduate Data Analyst",
-      "business_name": "City of Gold Coast",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "From $86,611 plus superannuation",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94630232",
-      "advertiser_id": "16652581",
-      "posted_date": "2026-09-15T00:31:40Z",
-      "job_description": "<ul> <li><strong>Full Time Fixed Term | 9-day fortnight | 36 hours per week</strong></li> <li> <strong>Salary: </strong>From $86,611 per annum plus superannuation</li> <li> <strong>Position Overview </strong>– <a href=\"https://applynow.net.au/jobs/GradEHR1/assets/32331834\">Graduate Position Brief</a> </li> </ul> <p>We know you are driven by growth and opportunity, eager to build your career and ready to make an impact. That’s why we offer a full time, 12-month Graduate Academy designed to unlock your potential and equip you with the knowledge, skills and hands-on experience to excel in your chosen career.</p> <p>Working alongside industry leaders, you will contribute to a range of projects and initiatives that help shape and connect our City, with real world opportunities to learn, grow and progress. Through our tailored development program, valuable industry connections and the support of our Graduate Academy community, you will build the skills, networks and confidence to take your career further.</p> <p><strong>Start your career at the City</strong></p> <p>Starting February 2027, the Graduate Academy combines professional development with meaningful on-the-job experience, designed to support your transition from university into the workplace. As a graduate at the City, you will benefit from:</p> <ul> <li>opportunities to contribute to projects and initiatives you won’t find anywhere else.</li> <li>guidance, coaching and support from experienced industry leaders, mentors and peers.</li> <li>a connected Graduate Academy cohort, giving you a network of peers to learn and grow alongside.</li> <li>work-based learning and a tailored program of personal, professional and career development.</li> <li>a range of Graduate Academy experiences, including City tours, exclusive CEO talks and cohort events.</li> <li>support on your pathway towards professional accreditation.</li> </ul> <p><strong>What’s on offer</strong></p> <p>Join our Data Analytics team and turn data into insights that drive better decisions. As a Graduate Data Analyst, you will work with a variety of data sources to build reports, dashboards and analytical solutions that improve business performance and service delivery. You will gain hands-on experience across a range of meaningful projects while working alongside experienced data professionals who will support your growth and development.</p> <p><strong>What we are looking for</strong></p> <p>We are looking for graduates who are ready to learn, contribute and make a difference. You will:</p> <ul> <li>be curious, motivated and keen to contribute to the future of the Gold Coast.</li> <li>bring new ideas, perspectives and a continuous improvement mindset.</li> <li>take ownership of your learning and professional development.</li> <li>embrace new challenges and adapt as you build your experience.</li> <li>analyse information, think critically and approach problems with curiosity.</li> <li>communicate with confidence, build strong relationships and contribute to a positive team culture.</li> <li>work collaboratively and value different perspectives, experiences and ideas.</li> </ul> <p><strong>Who can apply? </strong></p> <p>To be considered for this opportunity you must hold a recognised bachelor’s degree or postgraduate qualification from a tertiary institution, completed within the last two years or be completing prior to the commencement of the program in February 2027. Applicants must have full working rights in Australia for the duration of the program and be able to work full-time.</p> <p><strong>The Data Analytics Graduate position is recommended for but not limited to graduates who have studied Bachelor of Data Analytics, Data Science or Computer Science and related fields. </strong></p> <p>Submit your academic transcript / qualification, CV and cover letter. In your cover letter please outline information about your career objectives, work experience, education, volunteering and any extracurricular activities, specialist skills or interest areas you may have. </p> <p><strong>Learn more on our Careers Page:</strong> <a href=\"https://www.goldcoast.qld.gov.au/Council/Careers-with-Council/Early-career-programs/Graduate-Academy\">Graduate Academy | City of Gold Coast</a>.</p> <p><strong>Contact Email:</strong> <a href=\"mailto:careerpathways@goldcoast.qld.gov.au\">careerpathways@goldcoast.qld.gov.au</a> </p> <p><strong>Closing Date:</strong> Monday 5 October 2026 / 10:30pm AEST</p> <p><em>The City of Gold Coast is an equal opportunity employer dedicated to promoting an inclusive and diverse workplace. We are committed to supporting an environment where all employees feel valued, respected and supported. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
-      "keywords": [
-        "data",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "94628535",
-      "job_title": "Business Analysis Capability Lead",
-      "business_name": "City of Gold Coast",
-      "work_type": "Contract/Temp",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "From $121,839 plus superannuation",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94628535",
-      "advertiser_id": "16652581",
-      "posted_date": "2026-09-14T23:15:21Z",
-      "job_description": "<ul> <li><strong>Fixed Term Full Time | 9 Day fortnight | 36 hours </strong></li> <li> <strong>Salary: </strong>From $121,839 plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG2125/assets/32362102\">Business Analysis Capability Lead </a> </li> </ul> <p><strong>About the role</strong></p> <p>The Business Analysis Capability Lead provides organisation‑wide business analysis consultancy, specialist advice and training. The role sets and maintains Business Analysis standards, drives capability uplift, and contributes to project delivery through a 50% allocation to Business Analyst duties.</p> <p>This important role for our City improves team performance and promotes best‑practice methodologies. You will work closely with Business Analysis Leads, Specialist Analysts, delivery teams, PMOs and senior leaders to ensure consistent and aligned business analysis practices across the organisation.</p> <p>This is a fixed term full-time contract for 12 months. </p> <p><strong>Key responsibilities</strong></p> <ul> <li>Lead Business Analysis capability uplift across the City, maintaining standards, methods, processes and templates aligned with best practice and Council requirements.</li> <li>Provide mentoring, coaching and formal training for Business Analysis staff, stakeholders and staff applying Business Analysis techniques.</li> <li>Establish and manage the Business Analysis Centre of Excellence, including governance, standards and capability development.</li> <li>Provide specialist guidance and technical leadership to Business Analysts and Leads to ensure consistent use of tools, techniques and enterprise frameworks.</li> <li>Evaluate Business Analysis tools and techniques and identify opportunities for improvement.</li> <li>Develop and refine Business Analysis frameworks, methodologies, knowledge bases, tools and templates.</li> <li>Deliver capability uplift programs, including training plans, onboarding and induction.</li> <li>Analyse capability uplift requests and data to inform development strategies and lead lessons‑learned activities.</li> </ul> <p><strong>About you</strong></p> <p>You are a strategic thinker and collaborative leader with strong business analysis expertise. You enjoy mentoring others, building capability and supporting consistent practice. You work well with direction while also showing initiative and confidence in leading people and improving standards.</p> <p><strong>Essential requirements</strong></p> <ul> <li>Bachelor Degree of Business Analytics or equivalent and/or relevant experience</li> <li>Certificate of Organisational Coaching or equivalent and/or relevant experience</li> <li>Minimum 5 years’ experience as a Business Analyst or Senior Business Analyst.</li> <li>Strong stakeholder engagement and communication skills.</li> <li>Demonstrated experience delivering business analysis outcomes across programs and projects.</li> <li>Demonstrated experience leading a team, including people and resource management</li> <li>Strong problem-solving skills</li> </ul> <p><strong>Highly desirable </strong></p> <ul> <li>Experience within a Centre of Excellence – set-up and implementation</li> <li>Formal qualifications/certifications in one or more of the following: <ul> <li>Business Analysis (e.g. ECBA® or equivalent).</li> <li>Six Sigma Yellow Belt or above.</li> <li>Certified Business Process Associate (CBPA®) or equivalent.</li> <li>PRINCE2® Project Management or equivalent.</li> <li>BPMN 2.0 certification or equivalent.</li> <li>TOGAF® certification or equivalent.</li> </ul> </li> </ul> <p><strong>Why join us?</strong></p> <p>This is an exciting opportunity to lead and work on key City projects, influence strategic outcomes, and contribute to the growth and capability uplift of a dedicated Business Analysis team.</p> <p>If you are passionate about leadership, business analysis, and delivering value through analysis excellence, we’d love to hear from you.</p> <p><strong>How to apply</strong></p> <p>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable</p> <p><strong>Contact Person</strong> <strong>Jansen Croft</strong></p> <p><strong>Contact Email</strong> <a href=\"mailto:jcroft@goldcoast.qld.gov.au\">jcroft@goldcoast.qld.gov.au</a></p> <p><strong>Closing Date</strong> Sunday 27 September 2026 @11:59pm </p> <p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We consider all qualified candidates for employment, irrespective of race, age, religion, gender identity, sexual orientation, disability, or other protected characteristics by law.</em> </p>",
-      "keywords": [
-        "business",
-        "analysis",
-        "capability"
-      ]
-    },
     {
       "job_id": "94627450",
       "job_title": "Business Analyst",
@@ -620,7 +456,7 @@
       "url": "https://www.seek.com.au/job/94605815",
       "advertiser_id": "16652581",
       "posted_date": "2026-09-14T02:47:42Z",
-      "job_description": "<ul> <li><strong>Full Time Fixed Term | 9-day fortnight | 36 hours per week</strong></li> <li> <strong>Salary: </strong>From $86,611 per annum plus superannuation</li> <li> <strong>Position Overview </strong>– <a href=\"https://applynow.net.au/jobs/GradEHR1/assets/32331834\">Graduate Position Brief</a> </li> </ul> <p>We know you are driven by growth and opportunity, eager to build your career and ready to make an impact. That’s why we offer a full time, 12-month Graduate Academy designed to unlock your potential and equip you with the knowledge, skills and hands-on experience to excel in your chosen career.</p> <p>Working alongside industry leaders, you will contribute to a range of projects and initiatives that help shape and connect our City, with real world opportunities to learn, grow and progress. Through our tailored development program, valuable industry connections and the support of our Graduate Academy community, you will build the skills, networks and confidence to take your career further.</p> <p><strong>Start your career at the City</strong></p> <p>Starting February 2027, the Graduate Academy combines professional development with meaningful on-the-job experience, designed to support your transition from university into the workplace. As a graduate at the City, you will benefit from:</p> <ul> <li>opportunities to contribute to projects and initiatives you won’t find anywhere else.</li> <li>guidance, coaching and support from experienced industry leaders, mentors and peers.</li> <li>a connected Graduate Academy cohort, giving you a network of peers to learn and grow alongside.</li> <li>work-based learning and a tailored program of personal, professional and career development.</li> <li>a range of Graduate Academy experiences, including City tours, exclusive CEO talks and cohort events.</li> <li>support on your pathway towards professional accreditation.</li> </ul> <p><strong>What’s on offer</strong></p> <p>Join the Utilities Systems Intelligence team and get hands-on experience with the systems that help keep the City's water, sewer and recycled water networks running. You will work with SCADA, PI, telemetry and the operational data and analytics built around them. From day one, you will be involved in real operational challenges, building your skills in data analysis while helping develop the tools, reporting and insights that support network monitoring, modelling and performance improvement across Utilities.</p> <p><strong>What we are looking for</strong></p> <p>We are looking for graduates who are ready to learn, contribute and make a difference. You will:</p> <ul> <li>be curious, motivated and keen to contribute to the future of the Gold Coast.</li> <li>bring new ideas, perspectives and a continuous improvement mindset.</li> <li>take ownership of your learning and professional development.</li> <li>embrace new challenges and adapt as you build your experience.</li> <li>analyse information, think critically and approach problems with curiosity.</li> <li>communicate with confidence, build strong relationships and contribute to a positive team culture.</li> <li>work collaboratively and value different perspectives, experiences and ideas.</li> </ul> <p><strong><em>All positions are classified as security-sensitive critical infrastructure positions and the successful candidate will be required to undertake an <a href=\"https://www.auscheck.gov.au/\">SOCI</a> ACT Background Check. </em></strong></p> <p><strong>Who can apply? </strong></p> <p>To be considered for this opportunity you must hold a recognised bachelor’s degree or postgraduate qualification from a tertiary institution, completed within the last two years or be completing prior to the commencement of the program in February 2027. Applicants must have full working rights in Australia for the duration of the program and be able to work full-time.</p> <p><strong>The Utilities Systems Intelligence Graduate welcomes graduates who have studied Bachelor of Engineering, Data Engineering, Data Analytics, Computer Science, Information Technology (with a data or analytics focus); and related fields. </strong></p> <p>Submit your academic transcript / qualification, CV and cover letter. In your cover letter please outline information about your career objectives, work experience, education, volunteering and any extracurricular activities, specialist skills or interest areas you may have. </p> <p><strong>Learn more on our Careers Page:</strong> <a href=\"https://www.goldcoast.qld.gov.au/Council/Careers-with-Council/Early-career-programs/Graduate-Academy\">Graduate Academy | City of Gold Coast</a>.</p> <p><strong>Contact Email:</strong> <a href=\"mailto:careerpathways@goldcoast.qld.gov.au\">careerpathways@goldcoast.qld.gov.au</a> </p> <p><strong>Closing Date:</strong> Monday 5 October 2026 / 10:30pm AEDT</p> <p><em>The City of Gold Coast is an equal opportunity employer dedicated to promoting an inclusive and diverse workplace. We are committed to supporting an environment where all employees feel valued, respected and supported. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
+      "job_description": "<ul> <li><strong>Full Time and Fixed Term | 9-day fortnight | 36 hours per week</strong></li> <li> <strong>Salary: </strong>From $86,611 per annum plus superannuation</li> <li> <strong>Position Overview </strong>– <a href=\"https://applynow.net.au/jobs/GradEHR1/assets/32331834\">Graduate Position Brief</a> </li> </ul> <p>We know you are driven by growth and opportunity, eager to build your career and ready to make an impact. That’s why we offer a full time, 12-month Graduate Academy designed to unlock your potential and equip you with the knowledge, skills and hands-on experience to excel in your chosen career.</p> <p>Working alongside industry leaders, you will contribute to a range of projects and initiatives that help shape and connect our City, with real world opportunities to learn, grow and progress. Through our tailored development program, valuable industry connections and the support of our Graduate Academy community, you will build the skills, networks and confidence to take your career further.</p> <p><strong>Start your career at the City</strong></p> <p>Starting February 2027, the Graduate Academy combines professional development with meaningful on-the-job experience, designed to support your transition from university into the workplace. As a graduate at the City, you will benefit from:</p> <ul> <li>opportunities to contribute to projects and initiatives you won’t find anywhere else.</li> <li>guidance, coaching and support from experienced industry leaders, mentors and peers.</li> <li>a connected Graduate Academy cohort, giving you a network of peers to learn and grow alongside.</li> <li>work-based learning and a tailored program of personal, professional and career development.</li> <li>a range of Graduate Academy experiences, including City tours, exclusive CEO talks and cohort events.</li> <li>support on your pathway towards professional accreditation.</li> </ul> <p><strong>What’s on offer</strong></p> <p>Join the Utilities Systems Intelligence team and get hands-on experience with the systems that help keep the City's water, sewer and recycled water networks running. You will work with SCADA, PI, telemetry and the operational data and analytics built around them. From day one, you will be involved in real operational challenges, building your skills in data analysis while helping develop the tools, reporting and insights that support network monitoring, modelling and performance improvement across Utilities.</p> <p><strong>What we are looking for</strong></p> <p>We are looking for graduates who are ready to learn, contribute and make a difference. You will:</p> <ul> <li>be curious, motivated and keen to contribute to the future of the Gold Coast.</li> <li>bring new ideas, perspectives and a continuous improvement mindset.</li> <li>take ownership of your learning and professional development.</li> <li>embrace new challenges and adapt as you build your experience.</li> <li>analyse information, think critically and approach problems with curiosity.</li> <li>communicate with confidence, build strong relationships and contribute to a positive team culture.</li> <li>work collaboratively and value different perspectives, experiences and ideas.</li> </ul> <p><strong><em>All positions are classified as security-sensitive critical infrastructure positions and the successful candidate will be required to undertake an <a href=\"https://www.auscheck.gov.au/\">SOCI</a> ACT Background Check. </em></strong> </p> <p><strong>Who can apply? </strong></p> <p>To be considered for this opportunity you must hold a recognised bachelor’s degree or postgraduate qualification from a tertiary institution, completed within the last two years or be completing prior to the commencement of the program in February 2027. Applicants must have full working rights in Australia for the duration of the program and be able to work full-time.</p> <p><strong>The Utilities Systems Intelligence Graduate welcomes graduates who have studied Bachelor of Engineering, Data Engineering, Data Analytics, Computer Science, Information Technology (with a data or analytics focus); and related fields. </strong></p> <p>Submit your academic transcript / qualification, CV and cover letter. In your cover letter please outline information about your career objectives, work experience, education, volunteering and any extracurricular activities, specialist skills or interest areas you may have. </p> <p><strong>Learn more on our Careers Page:</strong> <a href=\"https://www.goldcoast.qld.gov.au/Council/Careers-with-Council/Early-career-programs/Graduate-Academy\">Graduate Academy | City of Gold Coast</a>.</p> <p><strong>Contact Email:</strong> <a href=\"mailto:careerpathways@goldcoast.qld.gov.au\">careerpathways@goldcoast.qld.gov.au</a> </p> <p><strong>Closing Date:</strong> Monday 5 October 2026 / 10:30pm AEDT</p> <p><em>The City of Gold Coast is an equal opportunity employer dedicated to promoting an inclusive and diverse workplace. We are committed to supporting an environment where all employees feel valued, respected and supported. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
       "keywords": [
         "data",
         "analyst",
@@ -1469,6 +1305,26 @@
       "keywords": [
         "business",
         "analyst"
+      ]
+    },
+    {
+      "job_id": "94015050",
+      "job_title": "Senior Product Manager - Industry & Equipment",
+      "business_name": "carsales",
+      "work_type": "Full time",
+      "job_type": "Product Management & Development",
+      "pay_range": "",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94015050",
+      "advertiser_id": "2762928",
+      "posted_date": "2026-08-16T23:22:56Z",
+      "job_description": "<div>\n<strong>Company Description</strong><br>\n</div>\n<div>\n<p><strong>Are you ready to be a big part of something big?</strong></p>\n<p>At&nbsp;<strong>Machines4U&nbsp;</strong>machinery&nbsp;part of carsales, we’re all about making buying and selling a great experience. We’ve been evolving with the new economy to help people choose how they move today and tomorrow.</p>\n<p>When it comes to your career, we want to<strong> </strong>offer meaningful opportunities that empower you to make a lasting impact. But for that to happen, we strive to feel small, small enough to stay agile, learn across teams, and connect authentically with each other.</p>\n<p>With a vision to be the global leader in online vehicle marketplaces, we’re transforming how people buy and sell across the world. We discover new ideas and bring them to life. We continue to grow, and we continue to evolve and we’re not afraid to take bold steps to get there.</p>\n<p>We embrace hybrid working combining the flexibility of remote work with the energy and connection of in-person collaboration. We champion flexibility and offer a range of policies and leave options to support your wellbeing.</p>\n<p><strong>What’s on offer</strong></p>\n<ul>\n<li>Recognition as one of Australia’s Best Workplaces™ by Great Place to Work®, a Family Friendly Workplace, a WORK180 endorsed employer.</li>\n<li>A highly engaged, collaborative team where you’ll learn from exceptional talent.</li>\n<li>24 weeks paid parental leave for primary caregivers, four weeks for secondary caregivers, and six weeks paid gender-affirming care leave.</li>\n<li>Regular hackathons, continuous learning opportunities, and wellbeing initiatives that support your mental, emotional, and physical health.</li>\n</ul>\n</div>\n<div>\n<strong>Job Description</strong><br>\n</div>\n<div>\n<p><strong>What&nbsp;you’ll&nbsp;be doing:&nbsp;</strong></p>\n<ul>\n<li>Lead the product vision: shape&nbsp;strategy and deliver experiences that drive engagement, growth and&nbsp;customer value.&nbsp;</li>\n<li>Drive channel performance: maximise the buyer and seller&nbsp;experience and commercial impact through optimisation,&nbsp;experimentation&nbsp;and strong ownership of targets.&nbsp;</li>\n<li>Discover and shape new opportunities: identify emerging needs and opportunities, design product solutions and deliver them to market to unlock growth.&nbsp;</li>\n<li>Validate ideas at speed: run experiments and tests to rapidly improve key metrics and outcomes.&nbsp;</li>\n<li>Turn data into decisions: synthesise&nbsp;customer, product and market insights into clear actions.&nbsp;</li>\n<li>Drive cross-squad alignment: manage&nbsp;dependencies and deliver outcomes with cross functional teams.&nbsp;</li>\n<li>Build strong partnerships: Work with teams, vendors, and partners to&nbsp;deliver effectively.&nbsp;</li>\n<li>Influence at the highest level: define and communicate compelling product strategies to senior stakeholders.&nbsp;</li>\n</ul>\n</div>\n<div>\n<strong>Qualifications</strong><br>\n</div>\n<div>\n<p>We’re looking for an experienced,&nbsp;hands-on&nbsp;Product Manager&nbsp;with a proven track record of turning ideas into reality. You thrive in ambiguity, enjoy solving complex problems, and are confident using data to test and validate your instincts.&nbsp;</p>\n<ul>\n<li>Proven experience building products from the ground up, taking ideas from concept to launch.&nbsp;</li>\n<li>Experience in product management, product design, or a commercially focused product role.&nbsp;</li>\n<li>Shows natural curiosity and originality, confidently questioning norms and approaching ideas from fresh perspectives.&nbsp;</li>\n<li>A strong product toolkit, knowing when to apply the right tools, frameworks, and processes for the problem at hand.&nbsp;</li>\n<li>Demonstrated success working cross‑functionally, influencing stakeholders and driving change beyond your immediate team.&nbsp;</li>\n</ul>\n<p><strong>We know not everyone will meet every requirement, and that’s okay. If you’re excited about the role and believe you can make a difference, we’d love to hear from you.</strong></p>\n</div>\n<div>\n<strong>Additional Information</strong><br>\n</div>\n<div>\n<p><strong>A few other things we want you to know...</strong></p>\n<ul>\n<li>As an equal opportunity employer, Machines4U and carsales welcomes applications from individuals of all backgrounds, identities, abilities, and life experiences. We are committed to fostering a diverse and inclusive workplace where everyone feels valued and supported.</li>\n<li>If you have a disability or require adjustments to participate fully in the recruitment process, please let us know - we’re here to support you.</li>\n<li>We understand the importance of work-life balance and offer flexible working arrangements, including part-time options. If you’d like to explore this, just ask during the process.</li>\n<li>We’re also a proud Circle Back Initiative employer, which means we commit to responding to every applicant.</li>\n<li>Successful candidates joining the Machines4U and carsales team will need to complete a National Police Record check and must have full-time Australian working rights.</li>\n</ul>\n<p><strong>So&nbsp;come&nbsp;and&nbsp;join&nbsp;our&nbsp;team&nbsp;-&nbsp;because&nbsp;every&nbsp;role&nbsp;is&nbsp;a&nbsp;big&nbsp;role&nbsp;in&nbsp;our&nbsp;plans&nbsp;to&nbsp;go&nbsp;big.</strong></p>\n</div>",
+      "keywords": [
+        "product",
+        "manager",
+        "industry",
+        "equipment"
       ]
     },
     {
