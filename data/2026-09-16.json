@@ -1,544 +1,416 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-16",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-17T08:29:52.299152+10:00",
-  "total_jobs": 60,
+  "scraped_at": "2026-09-16T08:33:19.073998+10:00",
+  "total_jobs": 56,
   "keywords": [
     {
       "term": "analyst",
       "count": 14,
-      "share": 0.2333
+      "share": 0.25
     },
     {
       "term": "support",
-      "count": 13,
-      "share": 0.2167
+      "count": 11,
+      "share": 0.1964
     },
     {
       "term": "it",
       "count": 10,
-      "share": 0.1667
+      "share": 0.1786
     },
     {
       "term": "engineer",
-      "count": 9,
-      "share": 0.15
+      "count": 8,
+      "share": 0.1429
+    },
+    {
+      "term": "data",
+      "count": 7,
+      "share": 0.125
     },
     {
       "term": "business",
       "count": 7,
-      "share": 0.1167
+      "share": 0.125
     },
     {
       "term": "developer",
       "count": 7,
-      "share": 0.1167
+      "share": 0.125
     },
     {
-      "term": "data",
+      "term": "systems",
       "count": 6,
-      "share": 0.1
+      "share": 0.1071
     },
     {
       "term": "ai",
       "count": 6,
-      "share": 0.1
+      "share": 0.1071
     },
     {
       "term": "software",
       "count": 6,
-      "share": 0.1
+      "share": 0.1071
     },
     {
       "term": "manager",
       "count": 6,
-      "share": 0.1
-    },
-    {
-      "term": "systems",
-      "count": 5,
-      "share": 0.0833
+      "share": 0.1071
     },
     {
       "term": "specialist",
       "count": 4,
-      "share": 0.0667
-    },
-    {
-      "term": "service",
-      "count": 4,
-      "share": 0.0667
-    },
-    {
-      "term": "desk",
-      "count": 4,
-      "share": 0.0667
+      "share": 0.0714
     },
     {
       "term": "administrator",
       "count": 4,
-      "share": 0.0667
+      "share": 0.0714
+    },
+    {
+      "term": "service",
+      "count": 4,
+      "share": 0.0714
+    },
+    {
+      "term": "desk",
+      "count": 4,
+      "share": 0.0714
     },
     {
       "term": "product",
       "count": 4,
-      "share": 0.0667
+      "share": 0.0714
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.05
+      "share": 0.0536
     },
     {
       "term": "officer",
       "count": 3,
-      "share": 0.05
+      "share": 0.0536
     },
     {
       "term": "intelligence",
       "count": 2,
-      "share": 0.0333
-    },
-    {
-      "term": "technology",
-      "count": 2,
-      "share": 0.0333
+      "share": 0.0357
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0333
-    },
-    {
-      "term": "desktop",
-      "count": 2,
-      "share": 0.0333
+      "share": 0.0357
     },
     {
       "term": "month",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0357
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0357
     },
     {
       "term": "cyber",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0357
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0357
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0167
-    },
-    {
-      "term": "analysis",
-      "count": 1,
-      "share": 0.0167
-    },
-    {
-      "term": "capability",
-      "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "utilities",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
+    },
+    {
+      "term": "analysis",
+      "count": 1,
+      "share": 0.0179
+    },
+    {
+      "term": "capability",
+      "count": 1,
+      "share": 0.0179
     },
     {
       "term": "science",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "reporting",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "jetstar",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "retail",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "solutions",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
+    },
+    {
+      "term": "technology",
+      "count": 1,
+      "share": 0.0179
     },
     {
       "term": "risk",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "resilience",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "architech",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "dynamics",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "assisted",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "azure",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "native",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0167
-    },
-    {
-      "term": "php",
-      "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "frontend",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
+    },
+    {
+      "term": "php",
+      "count": 1,
+      "share": 0.0179
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "groundworks",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "modern",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "workplace",
       "count": 1,
-      "share": 0.0167
-    },
-    {
-      "term": "technical",
-      "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "pimpama",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "campus",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
+    },
+    {
+      "term": "desktop",
+      "count": 1,
+      "share": 0.0179
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "experience",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "required",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0167
-    },
-    {
-      "term": "ciam",
-      "count": 1,
-      "share": 0.0167
-    },
-    {
-      "term": "operations",
-      "count": 1,
-      "share": 0.0167
-    },
-    {
-      "term": "team",
-      "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "migration",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "program",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0167
-    },
-    {
-      "term": "field",
-      "count": 1,
-      "share": 0.0167
-    },
-    {
-      "term": "change",
-      "count": 1,
-      "share": 0.0167
-    },
-    {
-      "term": "readiness",
-      "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "ecommerce",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "catalogue",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     },
     {
       "term": "applied",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0179
     }
   ],
   "jobs": [
-    {
-      "job_id": "94670495",
-      "job_title": "CIAM Operations Team Lead",
-      "business_name": "Peoplebank Australia QLD",
-      "work_type": "Contract/Temp",
-      "job_type": "Networks & Systems Administration",
-      "pay_range": "Competitive",
-      "area": "Australia Fair, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94670495",
-      "advertiser_id": "28936124",
-      "posted_date": "2026-09-16T06:33:05Z",
-      "job_description": "<strong>Role: Customer Identity and Access Management (CIAM) Operations Team Lead<br>Contract: 18 months initial contract, possible extension<br>Locations:&nbsp; ACT, NSW, and QLD -&nbsp; hybrid<br></strong><strong>Clearance:</strong> must be able to obtain <strong>NV1</strong><br><strong>Eligibility:</strong> <strong>Australian citizens only<br><br>--<br></strong>About the Role:<br>Lead a CIAM operations team to ensure the reliability, stability and performance of a high-profile identity platform. Drive operational excellence through improved monitoring/observability, runbooks, incident reduction, process optimisation and automation.<br><br><strong>Key responsibilities</strong><ul><li>Lead and coach the CIAM ops team; manage priorities and service outcomes</li><li>Monitor platform performance; report on operational metrics</li><li>Manage incidents/end-to-end investigations (logs, root cause)</li><li>Coordinate releases and operational change</li><li>Improve SOPs/runbooks and cross-team operating processes</li></ul><strong>Qualifications</strong><br><ul><li>Strong <strong>OAuth 2.0 / OIDC</strong>, token lifecycle, federation, authN/authZ knowledge</li><li>Proven operations leadership (capability uplift, performance support, continuous improvement)</li><li>Strong stakeholder management and coordination skills</li><li>Experience creating/maintaining operational documentation</li><li>High-volume, externally facing digital service</li><li>SaaS/cloud identity (or hybrid) + observability/log analytics tools</li><li>APIs (REST/JSON), certificates/secrets, integration troubleshooting</li></ul><br>If interested, please apply to the advert or send your resume to <a href=\"mailto:trisha.bornasal@peoplebank.com.au\">trisha.bornasal@peoplebank.com.au</a>&nbsp;referencing #272218.<br>Role closing on 23rd Sep 2026.<br><br><br><strong>Peoplebank</strong> and <strong>Leaders IT</strong> are committed to creating a diverse and inclusive workplace where everyone belongs. We welcome applications from people of all backgrounds, identities, and experiences. If you need adjustments to the recruitment process due to your circumstances, please let us know—we’re here to support you.",
-      "keywords": [
-        "ciam",
-        "operations",
-        "team"
-      ]
-    },
-    {
-      "job_id": "94668602",
-      "job_title": "Head of Technology",
-      "business_name": "Vitura Health Limited",
-      "work_type": "Full time",
-      "job_type": "Management",
-      "pay_range": "",
-      "area": "Varsity Lakes, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94668602",
-      "advertiser_id": "61623649",
-      "posted_date": "2026-09-16T05:30:39Z",
-      "job_description": "<p>We’re looking for a<strong> Head of Technology</strong> who is responsible for the strategy, security, reliability, and operational performance of the organisation's technology platforms, infrastructure, networks, cloud environments, and cybersecurity capabilities.</p><p></p><p>As a senior technology leader, the role ensures technology services are secure, resilient, scalable, compliant, and aligned to business objectives. The Head of Technology works in close partnership with the Head of Engineering and Product leaders to enable innovation while maintaining robust operational and security standards.</p><p></p><p>This role is critical in supporting the delivery of high-quality health services, ensuring that technology systems protect sensitive health information, meet regulatory requirements, and provide exceptional availability and performance for employees and customers.</p><p>&nbsp;</p><p><strong>Key Accountabilities</strong></p><p>The Head of Technology will be accountable for:</p><ul>\n<li>Cybersecurity posture and maturity</li>\n<li>Information security compliance</li>\n<li>Data Governance</li>\n<li>Cloud platform performance and stability </li>\n<li>Infrastructure reliability and availability</li>\n<li>Technology service delivery</li>\n<li>Disaster recovery and business continuity readiness</li>\n<li>Technology risk management</li>\n<li>Operational budgets and vendor performance</li>\n<li>Team engagement and capability development</li>\n</ul><p>&nbsp;</p><p><strong>Essential Experience</strong></p><ul>\n<li>10+ years of technology leadership experience.</li>\n<li>Demonstrated success leading infrastructure, networking, cloud, and cyber security functions.</li>\n<li>Experience managing multi-disciplinary technology teams.</li>\n<li>Proven ability to operate effectively within executive leadership environments.</li>\n<li>Extensive experience establishing and managing enterprise cyber security programs.</li>\n<li>Experience leading security incident response and resilience programs.</li>\n<li>Strong understanding of security frameworks including: </li>\n<ul>\n<li>ISO 27001</li>\n<li>NIST Cyber Security Framework</li>\n<li>Essential Eight</li>\n<li>CIS Controls</li>\n<li>Zero Trust Architecture</li>\n</ul>\n<li>Significant experience designing and operating enterprise cloud platforms.</li>\n<li>Deep expertise in: Microsoft Azure, AWS, Microsoft 365, Entra ID (Azure AD), Hybrid cloud environments and cloud governance and security</li>\n<li>Strong experience across: Enterprise networking, SD-WAN, Wireless technologies, VPN and remote access solutions, Network security architecture, Firewalls and secure connectivity</li>\n<li>Experience working within healthcare, health services, aged care, government, financial services, insurance, or other highly regulated environments.</li>\n<li>Understanding of privacy obligations and sensitive data protection requirements.</li>\n</ul><p><strong>&nbsp;</strong></p><p><strong>Desirable skills</strong></p><ul>\n<li>CISSP</li>\n<li>CISM</li>\n<li>CCSP</li>\n<li>AWS Solutions Architect</li>\n<li>Azure Solutions Architect</li>\n<li>ITIL Certification</li>\n<li>TOGAF</li>\n<li>Certified Cloud Security Professional (CCSP)</li>\n</ul><p>&nbsp;</p><p><strong>About Us</strong></p><p>Vitura Health Limited is at the forefront of Australia’s therapeutic medicine sector, pioneering digital healthcare solutions that seamlessly connect patients and providers. Our strategic portfolio of brands - including Doctors on Demand, Canview, CDA Clinics, Candor Medical, Cannadoc, Burleigh Heads Cannabis, Adaya, and Cortexa—redefines healthcare through an innovative ecosystem that integrates cutting-edge technology, patient-centric care, and collaborative partnerships.</p><p></p><p>Our network delivers comprehensive healthcare management, patient treatment pathways, distribution solutions, prescribing software, education, and streamlined pharmacy ordering. As an ASX-listed company, Vitura demonstrates a strong commitment to transparency, accountability, and sustainable growth.</p><p><strong></strong></p><p><strong>Our Values</strong></p><p>At Vitura, our mission is brought to life through our values:</p><p></p><ul>\n<li>Make It Matter:&nbsp;We focus on high-impact work, drive results and adapt fast to deliver what really counts</li>\n<li>Put Patients First:&nbsp;Every decision starts with empathy and keeps safety, experience and improvement at the core</li>\n<li>Raise the Bar:&nbsp;We push for excellence in care, service, outcomes and how we work together</li>\n<li>Think Bold – Act Smart:&nbsp;We are curious, challenge norms, and balance innovation with compliance and care</li>\n<li>Win Together:&nbsp;We build strong partnerships, inside and out, because collaboration fuels growth and success.</li>\n<li>Lead with Integrity:&nbsp;We show up with honesty, humility and respect, owning our actions and evolving with purpose.</li>\n</ul><p>&nbsp;</p><p>Apply now with your&nbsp;resume&nbsp;and&nbsp;cover letter&nbsp;outlining your suitability for this role.</p><p><em><strong></strong></em></p><p><em><strong>As part of our recruitment process, shortlisted candidates may be invited to complete a brief AI-powered pre-screening interview via Employment Hero. You'll receive an invitation via email - please check your junk/spam folder if you don't see it in your inbox within a few business days of applying.</strong></em></p><p>&nbsp;</p>",
-      "keywords": [
-        "technology"
-      ]
-    },
-    {
-      "job_id": "94668324",
-      "job_title": "Desktop Support Engineer",
-      "business_name": "MaxSoft Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$65,000 – $80,000 per year",
-      "area": "Surfers Paradise, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94668324",
-      "advertiser_id": "20222129",
-      "posted_date": "2026-09-16T05:20:39Z",
-      "job_description": "<p><strong>Desktop Support Engineer</strong></p><p><strong>Onsite Role</strong></p><p>If working in a fun, fast-paced, challenging environment is your thing, then this role may be just what you are seeking. Being based on the southern end of the Gold Coast, in stunning Varsity Lakes makes it even more appealing. With offices situated in the central business area and IT hub, this is the place to be.</p><p>The role focuses on providing desktop, infrastructure and end-user support for a growing technology business. Offering versatility and variety, you will have the opportunity to work across desktop support, Microsoft 365, cloud technologies, networking and infrastructure. A great opportunity to develop your IT skills while learning new ones.</p><p><strong>Company Profile</strong></p><p>The MaxSoft Group is a certified Great Place to Work for 2024, 2025 and 2026 it has operated for over 30 years and is the largest supplier in Australia of software and banking services to the professional body corporate/strata management industry. With full-time staff numbers of over 70 (and growing), the business continues to win awards and accolades for innovation and commitment to the strata and technology industries.</p><p>If you have read this far, then we have captured your attention, and you want to know more. Please read on.</p><p><br></p><p><strong>Skills and areas of expertise</strong></p><p>• 2+ years' experience in a Desktop Support, Service Desk or IT Support role</p><p>• Experience supporting Windows desktop operating systems and Microsoft 365 applications</p><p>• Good working knowledge of Active Directory, Group Policy and user administration</p><p>• Experience supporting Exchange Online, Teams and SharePoint</p><p>• Ability to troubleshoot desktop, laptop, mobile device and peripheral issues</p><p>• Good understanding of networking fundamentals including TCP/IP, DNS, DHCP, VPN and Wi‑Fi</p><p>• Experience using helpdesk ticketing systems and following support processes</p><p>• Knowledge of endpoint security, patch management and device deployment</p><p>• Ability to document procedures, maintain asset registers and create knowledge base articles</p><p>• Exposure to Azure and cloud technologies would be highly regarded</p><p>• Understanding of backup processes and business continuity concepts</p><p>• Knowledge of ITIL practices would be advantageous</p><p><br></p><p><strong>Key attributes of the ideal candidate</strong></p><p>• Possess strong written and verbal communication skills</p><p>• Enjoy helping people and delivering exceptional customer service</p><p>• Find it rewarding to multitask, problem solve and work to tight deadlines</p><p>• Thrive in a team environment and enjoy collaborating with other team members</p><p>• Demonstrate initiative and a proactive approach to identifying and resolving issues</p><p>• Have a genuine desire to learn and develop your technical skills</p><p><br></p><p><strong>Eligibility and Additional Information</strong></p><p>Applicants must be Australian Citizens or Permanent Residents living in Australia.</p><p>Because our software supports trust account and financial processes in the strata industry, MaxSoft has obligations under the Anti-Money Laundering and Counter-Terrorism Financing Act. Background screening is therefore a condition of employment, and may include identity verification, reference checks, criminal history checks, immigration checks, verification of academic qualifications and bankruptcy checks.</p><p>If you possess the above skills and attributes and think this role sounds pretty awesome, start applying. Include your resume and a covering letter setting out why you would like to join the MaxSoft team.</p><p>Or give me a call to find out more – Infrastructure Manager on <a href=\"tel:07 5575 7422\">07 5575 7422</a>.</p><p><br></p>",
-      "keywords": [
-        "desktop",
-        "support",
-        "engineer"
-      ]
-    },
-    {
-      "job_id": "94666922",
-      "job_title": "Technical Support Analyst (QLD)",
-      "business_name": "Nexigen Digital",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94666922",
-      "advertiser_id": "25685289",
-      "posted_date": "2026-09-16T04:33:38Z",
-      "job_description": "<div><p><strong>About Nexigen Digital</strong></p><p><br>We are Australia’s largest privately-owned group of online service providers, which includes brands such as VentraIP, Synergy Wholesale and Intaserve.</p><p><br>Every day, our all-Australian team delivers exceptional service and outstanding support to our 400,000+ customers who choose us for their domain names, website hosting and digital marketing.</p><p><br></p><p>Over the past fifteen years, we have been constant game-changers, industry innovators, award winners, and community leaders - and now is your chance to join our team.</p><p><br></p></div><br><div><p><strong>Joining our Technical Support Team</strong></p><p><br></p><p>We are looking for people who have a passion for I.T. and are looking for a stepping stone to kick-start their I.T. career. As part of our front-line team, you will be tasked with ensuring our customers continue to receive the best customer service and technical support in the industry, while providing a timely resolution to issues raised by our customers.</p><p><br></p><p><strong>The position</strong></p><ul><li>Monitor and respond to service alerts</li><li>Diagnose issues with domain names</li><li>Performing Linux and cPanel server administration and troubleshooting</li><li>Assist customers with technical support enquiries, via phone, live chats, and/or emails</li><li>Flexibility is key, as this is a permanent full-time position, on a 24/7 rotating roster.</li></ul><p><br></p><p><strong>The right person (is it you?)</strong></p><p>As this is an entry-level position, previous experience is <strong>not a requirement,</strong> as we provide comprehensive training to successful candidates. Although previous experience is not required, a love and a good understanding of technology will take you far.</p><p><br></p><p>To be the best in this role, we are looking for people with the following attributes:</p><ul><li>A passion for technology (cyber security, gaming, PC building, etc.)</li><li>The ability to absorb information and learn quickly</li><li>Efficient problem-solving skills</li><li>A positive attitude towards our customers and service delivery</li><li>Attention to detail</li></ul><p><br></p><p>Any previous experience in the following areas would be highly regarded:</p><ul><li>cPanel (WHM) control panel</li><li>Domain names</li><li>DNS</li><li>FTP, SSH and email protocols such as POP3, IMAP and SMTP</li><li>Linux (CentOS) and VMware<br><br></li></ul><p><strong>The Benefits of Working With the Nexigen Digital Team</strong></p><p><br>We pride ourselves on our unique facilities and team culture, and a top-down mandate to take care of the people who take care of our customers. There's a reason we were awarded “Employer of Choice” in the Australian Business Awards.</p><p><br></p><p>Some of the office perks include:</p><ul><li>A weekly selection of delicious meals prepared in our on-site kitchen for breakfast and lunch.</li><li>A fully-stocked snack bar featuring an assortment of chips, chocolates, nuts, protein bars and fresh fruit.</li><li>A drink fridge loaded with an assortment of soft drinks, juices and water.</li><li>A fully equipped private gym with weekly on-site personal training sessions.</li><li>A team wellness centre with a soundproof gaming stadium featuring an 85” 4K TV, racing car simulator, pinball machine, arcade machine, and air hockey table.</li><li>An on-site salon where our resident barber and stylist provide free haircuts on a regular basis.</li></ul><p><br></p><p>We actively encourage training and upskilling for personal development and will fund courses that have a beneficial impact on the business.</p><p><br></p><p>Please note that due to strict security requirements, the successful applicant will be required to complete a National Police Check as a condition of employment.</p></div><br><br><p>PI<a href=\"tel:287091818\">287091818</a></p>",
-      "keywords": [
-        "technical",
-        "support",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "94665556",
-      "job_title": "Senior Field Change and Readiness Lead",
-      "business_name": "NBN TM Australia",
-      "work_type": "Full time",
-      "job_type": "Telecommunications",
-      "pay_range": "",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94665556",
-      "advertiser_id": "25301659",
-      "posted_date": "2026-09-16T01:30:00Z",
-      "job_description": "<strong><b>Job Expectations</b></strong><br><p><b>Build your career and Australia’s future.</b></p>\n<p>Not many people can say they are working on building Australia’s future. With us you’ll be doing just that, leaving a legacy for all Australians. Plus, there’s equal employment, great training, and true flexible working arrangements.&nbsp;</p>\n<p>A fantastic opportunity has presented itself for a <b>Senior Field Change &amp; Readiness Lead</b> reporting to <b>Senior Manager, Field Change &amp; Readiness</b></p>\n<p>We are looking for an experienced Senior Field Change and Readiness Lead to help our distributed field workforce adopt complex operational change safely, practically and successfully. This senior practitioner role combines portfolio-level change assurance with hands-on delivery across Field Services, regional teams, Control Tower, Service Delivery Partners and professional service groups.&nbsp;</p>\n<p>You will translate enterprise and operational change into clear impacts, realistic readiness plans and practical communications for technicians, field leaders, depots and delivery partners. Success in this role requires strong judgement, excellent plain-English communication and a genuine understanding of how change lands in a blue-collar, frontline environment where safety, fatigue, workflow, tools, skills and customer outcomes matter.</p>\n<p><b>A bit about your role</b></p>\n<p>Reporting to the Senior Manager, Field Change &amp; Readiness, you will lead integrated change planning and assurance across a portfolio of initiatives while directly delivering complex or high-priority change. You will identify cumulative impacts and change collisions, coordinate dependencies, test whether proposed changes are workable for frontline teams and provide clear recommendations to leaders and governance forums.&nbsp;</p>\n<p><b>In this role, you will&nbsp;</b></p>\n<ul><li>Develop and maintain integrated change roadmaps across enterprise programs, Field Services, regions, Control Tower and Service Delivery Partners.&nbsp;</li></ul>\n<ul><li>Lead change impact assessments to identify affected audiences, operational impacts, readiness requirements, dependencies, change collisions and cumulative pressures.&nbsp;</li></ul>\n<ul><li>Translate analysis into practical recommendations, implementation actions and decision-ready advice for senior leaders and governance forums.&nbsp;</li></ul>\n<ul><li>Lead and quality assure stakeholder, readiness, communication, training and adoption plans for complex or priority initiatives.&nbsp;</li></ul>\n<ul><li>Confirm that safety, fatigue, workflows, dispatch, tools, systems, skills, customer and partner impacts are addressed before implementation.&nbsp;</li></ul>\n<ul><li>Manage readiness gates, milestones, risks and mitigations, escalating material barriers and supporting go-live, reinforcement and post-implementation activity.&nbsp;</li></ul>\n<ul><li>Build trusted relationships with field and regional leaders, project teams, Business Readiness Leads, professional service groups and delivery partners.&nbsp;</li></ul>\n<ul><li>Coach change practitioners and project managers, share practical tools and lift the consistency and quality of change delivery.&nbsp;</li></ul>\n<ul><li>Measure workforce understanding, confidence, adoption, compliance and operational outcomes, using insights to improve delivery.&nbsp;</li></ul>\n<p><b>Communication and engagement with our field workforce&nbsp;</b></p>\n<p>A major part of this role is making change clear, relevant and usable for a blue-collar workforce. You will develop audience and channel strategies and create or quality assure practical, plain-English materials such as leader packs, toolbox talks, shift briefings, Field Bulletins, FAQs, visual job aids and reinforcement messages.&nbsp;</p>\n<p>You will work directly with technicians, field leaders, depots, Control Tower and partners to test understanding and practicality, gather feedback and resolve concerns before deployment. You will select channels that work for employees who may be mobile, geographically dispersed, shift-based or have limited access to desk-based communications.</p>\n<p><b>A bit about you</b></p>\n<ul><li>You have significant experience leading complex, cross-functional organisational change, including hands-on delivery from impact assessment through to implementation and reinforcement.&nbsp;</li></ul>\n<ul><li>You have demonstrated experience delivering change communications and engagement for distributed operational, frontline or blue-collar workforces and external partners.&nbsp;</li></ul>\n<ul><li>You understand how to convert strategic or technical change into clear, practical actions for people working in operational environments.&nbsp;</li></ul>\n<ul><li>You can develop integrated roadmaps, change strategies, impact assessments, readiness plans, communication plans and meaningful adoption measures.&nbsp;</li></ul>\n<ul><li>You are an excellent plain-English writer and can tailor messages for technicians, frontline leaders, senior executives and delivery partners.&nbsp;</li></ul>\n<ul><li>You are confident facilitating workshops, influencing senior stakeholders, coaching practitioners and resolving complex problems.&nbsp;</li></ul>\n<ul><li>You bring sound judgement and can balance safety, people, operational, customer and delivery considerations.&nbsp;</li></ul>\n<ul><li>Experience in telecommunications, utilities, construction, logistics, transport, manufacturing or another field-based operational environment will be highly regarded.&nbsp;</li></ul>\n<p><b>Qualifications&nbsp;</b></p>\n<p>A diploma or bachelor’s degree in business, communications, human resources, organisational change or a related discipline—or equivalent professional experience—is expected. A recognised change management qualification is preferred, and communications or project delivery qualifications will be viewed favourably.&nbsp;</p>\n<p><b>Application Process</b></p>\n<p>You may find that your experience does not match every requirement listed but, if this role has piqued your interest or resonates with where you are in your career, we encourage you to apply rather than self-select out. We are interested in transferable skills and your skills and perspective could be exactly what we would value to strengthen our team.</p>\n<p><b>Life at nbn</b></p>\n<p>To be part of nbn is to be part of something bigger. There’s so much more from here. Our pioneering spirit drives us forward every day. Together, we help lift the digital capability of the nation by building and connecting Australia’s best fibre infrastructure into homes and businesses, plus places and things, everywhere. We’re continuing to create Australia’s network—a network made for more. Not just a way for everyone to do the things they love but transforming the way they do them.</p>\n<p><b>A more inclusive working world</b></p>\n<p>nbn is committed to an inclusive, flexible, and supportive workplace where everyone can feel heard, valued, and respected. We believe diverse perspectives are the key to unlocking greater outcomes and encourage applications from people of all ages, nationalities, abilities, and cultures. That's why we have a Reconciliation Action Plan, Accessibility &amp; Inclusion Plan, offer 18 weeks of paid parental leave, are a Pride in Diversity Platinum Employer, and have active employee-led diversity pillars.&nbsp;Click here to see our list of employee benefits&nbsp;and why we're recognised as a WORK180 Endorsed Employer for Women.</p>\n<p><b>Equal Opportunities for All</b></p>\n<p>We champion equal opportunities for all employees. If you have any accessibility requirements and would like to discuss adjustments for the recruitment process, please don’t hesitate to contact us by emailing&nbsp;<a href=\"mailto:recruitment@nbnco.com.au\">recruitment@nbnco.com.au</a> or calling our Recruitment Accessibility Enquiry Line at <a href=\"tel:+61 2 8918 9990\">+61 2 8918 9990</a>. Please note, this line is dedicated to accessibility-related enquiries for the purposes of recruitment, and only enquiries related to accessibility adjustments will be answered. For other matters, please visit our Contact Us page on our website.</p>\n<p><b>Please note that this role is a permanent opportunity and applications will close at midnight on Tuesday, 22nd September.</b></p>\n<p><b>To be eligible for this role, you must have full working rights in Australia.</b></p>\n<strong><b>Worker Type</b></strong><br>Permanent<strong><b>Time Type</b></strong><br>Full time",
-      "keywords": [
-        "field",
-        "change",
-        "readiness"
-      ]
-    },
     {
       "job_id": "94644355",
       "job_title": "Senior Product Manager - Industry & Equipment",
@@ -1025,6 +897,25 @@
         "systems",
         "it",
         "specialist"
+      ]
+    },
+    {
+      "job_id": "94401281",
+      "job_title": "Principal Data and Systems Analyst",
+      "business_name": "Department of Health - Queensland",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94401281",
+      "advertiser_id": "32285210",
+      "posted_date": "2026-09-03T11:46:45Z",
+      "job_description": "<div>\n \n <p>Join the Queensland Trauma Data Collection (QTDC) as a Principal Data and Systems Analyst, driving data solutions that support trauma intelligence, reporting, and clinical quality improvement.</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Principal Data and Systems Analyst </strong>to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Develop and execute test plans for business intelligence products</li>\n<li>Work in partnership with clinical business customers to understand business needs</li>\n<li>Analyse data sources and conduct gap analyses between user needs and data capabilities.</li>\n<li>Be a subject matter expert in the development of views, information layers and data models</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>Evidence of vaccination, or be able to be vaccinated against and remain vaccinated against - Measles, Mumps, Rubella, Varicella, Pertussis and Hepatitis B</li>\n<li>Tuberculosis screening, to identify if the tuberculosis vaccination may be required</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Temporary full-time</li>\n<li>Base salary ranging from $5,531.60 - $5,936.50 per fortnight</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Queensland Trauma Data Collection is a statewide, clinician-led service hosted by Gold Coast Hospital and Health Service. QTDC collects, integrates and analyses trauma and injury data from health services across Queensland to support clinical governance, quality improvement, service planning, performance monitoring and system-level decision-making.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Wednesday, 16 September 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC691690</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
+      "keywords": [
+        "data",
+        "systems",
+        "analyst"
       ]
     },
     {
