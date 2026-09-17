@@ -1,663 +1,451 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-17",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-18T08:33:01.762820+10:00",
-  "total_jobs": 68,
+  "scraped_at": "2026-09-17T08:29:52.299152+10:00",
+  "total_jobs": 60,
   "keywords": [
-    {
-      "term": "support",
-      "count": 16,
-      "share": 0.2353
-    },
     {
       "term": "analyst",
       "count": 14,
-      "share": 0.2059
+      "share": 0.2333
+    },
+    {
+      "term": "support",
+      "count": 13,
+      "share": 0.2167
     },
     {
       "term": "it",
-      "count": 12,
-      "share": 0.1765
+      "count": 10,
+      "share": 0.1667
     },
     {
       "term": "engineer",
-      "count": 11,
-      "share": 0.1618
-    },
-    {
-      "term": "developer",
       "count": 9,
-      "share": 0.1324
+      "share": 0.15
     },
     {
       "term": "business",
       "count": 7,
-      "share": 0.1029
+      "share": 0.1167
+    },
+    {
+      "term": "developer",
+      "count": 7,
+      "share": 0.1167
     },
     {
       "term": "data",
       "count": 6,
-      "share": 0.0882
+      "share": 0.1
     },
     {
       "term": "ai",
       "count": 6,
-      "share": 0.0882
+      "share": 0.1
     },
     {
       "term": "software",
       "count": 6,
-      "share": 0.0882
+      "share": 0.1
     },
     {
       "term": "manager",
       "count": 6,
-      "share": 0.0882
+      "share": 0.1
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.0735
-    },
-    {
-      "term": "officer",
-      "count": 5,
-      "share": 0.0735
+      "share": 0.0833
     },
     {
       "term": "specialist",
       "count": 4,
-      "share": 0.0588
+      "share": 0.0667
     },
     {
       "term": "service",
       "count": 4,
-      "share": 0.0588
+      "share": 0.0667
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.0588
-    },
-    {
-      "term": "technician",
-      "count": 4,
-      "share": 0.0588
+      "share": 0.0667
     },
     {
       "term": "administrator",
       "count": 4,
-      "share": 0.0588
+      "share": 0.0667
     },
     {
       "term": "product",
       "count": 4,
-      "share": 0.0588
+      "share": 0.0667
+    },
+    {
+      "term": "technician",
+      "count": 3,
+      "share": 0.05
+    },
+    {
+      "term": "officer",
+      "count": 3,
+      "share": 0.05
     },
     {
       "term": "intelligence",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0333
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.0294
-    },
-    {
-      "term": "net",
-      "count": 2,
-      "share": 0.0294
-    },
-    {
-      "term": "stack",
-      "count": 2,
-      "share": 0.0294
+      "share": 0.0333
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0333
     },
     {
       "term": "desktop",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0333
     },
     {
       "term": "month",
       "count": 2,
-      "share": 0.0294
-    },
-    {
-      "term": "operations",
-      "count": 2,
-      "share": 0.0294
-    },
-    {
-      "term": "broadbeach",
-      "count": 2,
-      "share": 0.0294
+      "share": 0.0333
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0333
     },
     {
       "term": "cyber",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0333
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0294
+      "share": 0.0333
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "analysis",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "capability",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "utilities",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "science",
       "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "salesforce",
-      "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "reporting",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "jetstar",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "retail",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "solutions",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
+    },
+    {
+      "term": "advisor",
+      "count": 1,
+      "share": 0.0167
+    },
+    {
+      "term": "risk",
+      "count": 1,
+      "share": 0.0167
+    },
+    {
+      "term": "resilience",
+      "count": 1,
+      "share": 0.0167
     },
     {
       "term": "architech",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "dynamics",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "assisted",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
+    },
+    {
+      "term": "net",
+      "count": 1,
+      "share": 0.0167
     },
     {
       "term": "azure",
       "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "openmage",
-      "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "magento",
-      "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "native",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
-      "term": "ostendo",
+      "term": "stack",
       "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "short",
-      "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "frontend",
-      "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "php",
-      "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
+    },
+    {
+      "term": "php",
+      "count": 1,
+      "share": 0.0167
+    },
+    {
+      "term": "frontend",
+      "count": 1,
+      "share": 0.0167
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "groundworks",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "modern",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "workplace",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "technical",
       "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "its",
-      "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "asset",
-      "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "ongc",
-      "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "pimpama",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "campus",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "experience",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "required",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
-      "term": "inventory",
+      "term": "broadbeach",
       "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "coordinator",
-      "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "cruise",
-      "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "sharepoint",
-      "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "ciam",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
+    },
+    {
+      "term": "operations",
+      "count": 1,
+      "share": 0.0167
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
+    },
+    {
+      "term": "sharepoint",
+      "count": 1,
+      "share": 0.0167
     },
     {
       "term": "migration",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "program",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "change",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "readiness",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "ecommerce",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "catalogue",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     },
     {
       "term": "applied",
       "count": 1,
-      "share": 0.0147
+      "share": 0.0167
     }
   ],
   "jobs": [
-    {
-      "job_id": "94691060",
-      "job_title": "IT Support Engineer, Level 2 - ONGC",
-      "business_name": "Lyra Technology Group",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Arundel, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94691060",
-      "advertiser_id": "62871597",
-      "posted_date": "2026-09-17T02:58:49Z",
-      "job_description": "<p><strong>Lyra Technology Group&nbsp;</strong>is a&nbsp;private&nbsp;equity-backed holding company that invests in and&nbsp;operates&nbsp;industry leading technology service businesses. Our companies are&nbsp;operated&nbsp;independently by exceptional management teams. Companies that join our group&nbsp;retain&nbsp;the employees, name, and culture that have made them successful. As a platform of&nbsp;Evergreen&nbsp;Services&nbsp;Group, we never divest from businesses we partner with and approach every decision with the goal of driving sustainable and healthy growth over the long term.  </p><p></p><p>Our Operating Company, <strong>ONGC</strong>, is looking for an experienced <strong>IT Support Engineer, Level 2 </strong>to join their team in Arundel, GQ.</p><p></p><p><strong></strong></p><p><strong>About The Role</strong></p><p>As a <strong>Level 2 IT Support Engineer</strong>, you'll provide advanced technical support across a diverse range of client environments while managing escalated issues from the Level 1 team. You'll take ownership of incidents from diagnosis through to resolution, contribute to infrastructure improvements, and help deliver an exceptional customer experience.</p><p></p><p><strong>Key Responsibilities</strong></p><ul>\n<li>Provide Level 2 technical support across desktop, server, network, and cloud environments.</li>\n<li>Manage escalated incidents and service requests, ensuring timely resolution.</li>\n<li>Troubleshoot Microsoft 365, Azure, Active Directory, Exchange, and Windows environments.</li>\n<li>Support networking technologies including firewalls, switches, VPNs, and wireless infrastructure.</li>\n<li>Maintain accurate documentation and ticket updates within the PSA system.</li>\n<li>Build strong client relationships through professional communication and outstanding customer service.</li>\n<li>Assist with infrastructure upgrades, migrations, and technology projects.</li>\n<li>Collaborate with Level 3 Engineers on complex technical issues when required.</li>\n</ul><p><strong>About You</strong></p><p>To succeed in this role, you will ideally have MSP experience, excellent troubleshooting skills, and a proactive approach to customer support.</p><p></p><p><strong>Essential Skills &amp; Experience</strong></p><ul>\n<li>3+years' experience in an MSP or similar IT support environment.</li>\n<li>Relevant IT qualifications or equivalent industry experience.</li>\n<li>Experience providing Level 2 support across Microsoft environments.</li>\n<li>Strong knowledge of Microsoft 365, Azure, Active Directory, Exchange Online, andWindows Server.</li>\n<li>Experience supporting networking technologies including switches, firewalls, VPNs and Wi-Fi.</li>\n<li>Excellent communication and customer service skills.</li>\n</ul><p><strong>Preferred Experience</strong></p><ul>\n<li>Microsoft certifications (MS-900, AZ-900, MD-102, MS-102, AZ-104, or similar).</li>\n<li>CompTIA, Cisco, or ITIL certifications.</li>\n<li>Experience with ConnectWise PSA and ConnectWise RMM.</li>\n<li>Exposure to Microsoft Intune, SharePoint, Microsoft Defender, or Azure Virtual Desktop</li>\n</ul><p><strong>Benefits</strong></p><ul>\n<li>Flexible working arrangements – 2 days WFH</li>\n<li>Clear career progression pathways</li>\n<li>Exposure to meaningful, enterprise technology projects</li>\n<li>Supportive, collaborative team culture focused on growth and innovation</li>\n<li>Opportunity to work with emerging AI technologies and innovative automation solutions</li>\n<li>Be part of a values-driven organisation committed to delivering exceptional outcomes for clients across Australia</li>\n</ul><ul><p>&nbsp;</p></ul>",
-      "keywords": [
-        "it",
-        "support",
-        "engineer",
-        "ongc"
-      ]
-    },
-    {
-      "job_id": "94689990",
-      "job_title": ".Net Engineer",
-      "business_name": "Lanson Partners",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94689990",
-      "advertiser_id": "45143741",
-      "posted_date": "2026-09-17T02:33:57Z",
-      "job_description": "<strong>Senior .NET Engineer | Permanent | Gold Coast<br></strong><br> We’re partnering with a major Australian financial services organisation on a permanent Senior .NET Engineer opportunity within a complex, business-critical application environment.<br><br> This is not a pure greenfield role. The successful engineer will be comfortable working across a mature .NET estate, supporting existing applications while also delivering new APIs, integrations and improvements across a broader enterprise platform.<br><br> <strong>What you’ll be working on</strong><br> <ul> <li>Hands-on development across C# and ASP.NET</li> <li>Building and enhancing REST / Web APIs</li> <li>Supporting and improving mature .NET applications</li> <li>Complex enterprise integrations</li> <li>SQL Server development, query optimisation and performance tuning</li> <li>Application security, authentication and authorisation</li> <li>Production support and root-cause analysis</li> <li>Broader solution design across interconnected systems</li> <li>Working with technical and business stakeholders to understand problems and deliver practical solutions</li> </ul> <strong>What we’re looking for</strong><br> <ul> <li>Strong hands-on C# / .NET experience</li> <li>ASP.NET and Web API experience</li> <li>Strong OOP and .NET fundamentals</li> <li>Deep SQL Server knowledge, including performance tuning and query optimisation</li> <li>Experience with API and application security</li> <li>Comfortable working in legacy or mature application environments</li> <li>Strong troubleshooting and production support capability</li> <li>Ability to understand wider system dependencies and contribute to solution design</li> <li>Enterprise experience preferred, but financial services is not essential</li> </ul> The key requirement is technical depth. We’re looking for someone who remains genuinely hands-on and is comfortable working in a complex, mature application environment.<br><br> <strong>Location:</strong> Gold Coast, Queensland<br><br><strong>Working model:</strong> Hybrid, 2–3 days per week in office<br><br><strong>Salary:</strong> $140k–$165k base + 12% super + $11k bonus<br><br> The interview process includes a technical assessment followed by technical and leadership interviews.<br><br> If you’re an experienced .NET Engineer who enjoys getting under the hood of complex systems rather than only working on greenfield projects, reach out to Matt Kirk on <a href=\"mailto:matt.kirk@lansonpartners.com\">matt.kirk@lansonpartners.com</a> or apply using the link.",
-      "keywords": [
-        "net",
-        "engineer"
-      ]
-    },
-    {
-      "job_id": "94690164",
-      "job_title": "Inventory Coordinator (Cruise and Inventory Operations) - Broadbeach, QLD",
-      "business_name": "Flight Centre Travel Group",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Broadbeach, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94690164",
-      "advertiser_id": "35725927",
-      "posted_date": "2026-09-17T02:32:20Z",
-      "job_description": "<div>\n<p>If you love working with data, enjoy solving problems, and get genuine satisfaction from well-organised spreadsheets and accurate reporting, this could be the perfect opportunity for you.</p>\n<p>As a Cruise &amp; Inventory Operations Coordinator - Groups, you'll play a critical role in managing cruise group and charter inventory, ensuring products are accurate, available for sale, and maintained across multiple systems. Working closely with Product Managers, cruise line partners, Sales teams, and Operations teams, you'll help drive inventory accuracy, supplier compliance, and commercial success.</p>\n<p>This is an exciting opportunity for someone who enjoys working behind the scenes to keep complex operations running smoothly while building a long-term career within the travel industry.</p>\n</div>\n<p>What you'll be doing...</p>\n<ul>\n<li>Manage group and charter cruise inventory, allocations, contracted space, and package availability across multiple cruise lines</li>\n<li>Load, maintain, and update inventory, pricing, and product information within Traveltek and associated systems</li>\n<li>Monitor inventory performance, supplier commitments, and allocation utilisation, escalating issues where required</li>\n<li>Produce and maintain inventory, sales, manifest, and upgrade reporting to support commercial decision-making</li>\n<li>Conduct regular audits to ensure inventory, rates, package configurations, and system data remain accurate</li>\n<li>Coordinate supplier requirements, cabin naming, booking amendments, cancellations, and contractual deadlines</li>\n<li>Provide inventory support and troubleshooting assistance to Sales, Product, After Sales, and Operations teams</li>\n<li>Contribute to a safe, inclusive, and accessible work environment where all Flighties feel welcomed, respected, and supported to thrive</li>\n</ul>\n<p>Who You Are:</p>\n<ul>\n<li>Previous experience within travel, tourism, cruise operations, inventory management, product support, or a similar coordination role</li>\n<li>Experience working with business systems, databases, inventory platforms, and spreadsheets</li>\n<li>Strong attention to detail with the ability to manage large volumes of information accurately</li>\n<li>Excellent organisational and time management skills with the ability to manage competing priorities</li>\n<li>Strong analytical and problem-solving skills with the ability to identify and resolve data discrepancies</li>\n<li>Excellent written and verbal communication skills with the ability to work across multiple stakeholder groups</li>\n<li>Experience using Traveltek or similar travel inventory and reservation systems will be highly regarded</li>\n<li>Experience within cruise, wholesale travel, tour operations, inventory allocations, group bookings, or advanced Excel reporting will be highly regarded</li>\n</ul>\n<p>Your awesome extras...</p>\n<p>&nbsp;&nbsp; &nbsp;📚 Ongoing skills development</p>\n<p>&nbsp; &nbsp;🚀Catapult your career across a network of brands and businesses in an evolving industry</p>\n<p>&nbsp; &nbsp;✈️ Say no to full price! Nab discounts on travel and more thanks to our sweet rewards program</p>\n<p>&nbsp; &nbsp;👩‍⚕️ Access to industry leading health and well - being programs and financial advisors</p>\n<p>&nbsp; &nbsp;🌴 Set up shop in a swanky beachfront office in Broadbeach</p>\n<p>&nbsp; &nbsp;💃🏿 Enjoy social events to promote networking, celebration of wins, and sometimes just for fun!</p>\n<p>&nbsp; &nbsp;👐🏻 Take volunteer leave as part of giving back to the local community</p>\n<p> #LI-KP1#IGNT#LI-Onsite </p>\n<p>Ready to Start Your Journey? If you’re excited to kickstart your career in the travel industry, we want to hear from you! Apply now and let’s embark on this adventure together!</p>\n<p>Explore the world and make a difference—one customer at a time!</p>\n<p>Our Talent Acquisition Team kindly requests no unsolicited resumes or approaches from Recruitment Agencies. Flight Centre Travel Group is not responsible for any fees related to unsolicited resumes.</p>",
-      "keywords": [
-        "inventory",
-        "coordinator",
-        "cruise",
-        "operations",
-        "broadbeach"
-      ]
-    },
-    {
-      "job_id": "94686691",
-      "job_title": "Ostendo Developer – Short-Term Contract",
-      "business_name": "Private Advertiser",
-      "work_type": "Contract/Temp",
-      "job_type": "Developers/Programmers",
-      "pay_range": "$100 per hour",
-      "area": "Ormeau, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94686691",
-      "advertiser_id": "",
-      "posted_date": "2026-09-17T01:08:50Z",
-      "job_description": "<p><strong>$100 per hour | Short-term contract | Potential for extension</strong></p><p>We are seeking an experienced <strong>Ostendo Developer</strong> to join our team on a short-term contract, with the potential for extension. <strong>If you do not have specific Ostendo development experience, do not apply as your application will not be considered</strong>.</p><p>This is a hands-on development role focused on <strong>Ostendo scripting, workflow implementation, automation and system improvement</strong>. You will work closely with the business to develop practical solutions that improve processes, efficiency and the user experience.</p><p><strong>About the Role</strong></p><p>You will be responsible for developing and enhancing our Ostendo ERP environment, with a particular focus on scripting and workflow automation.</p><p><strong>Key responsibilities include:</strong></p><ul><li><p>Developing, maintaining and modifying <strong>Ostendo scripts</strong>.</p></li><li><p>Automating business processes, data updates and repetitive tasks.</p></li><li><p>Developing scripts for <strong>business rules, validations, calculations and automated actions</strong>.</p></li><li><p>Designing and implementing <strong>Ostendo workflows</strong> to streamline business processes.</p></li><li><p>Translating manual processes into automated workflows, including approvals, validations, notifications and system actions.</p></li><li><p>Troubleshooting and improving existing scripts, workflows and customisations.</p></li><li><p>Developing and maintaining <strong>custom data screens</strong> and functionality.</p></li><li><p>Developing reports, queries and data solutions within Ostendo.</p></li><li><p>Working with SQL and Ostendo data to investigate issues and develop solutions.</p></li><li><p>Working with users and stakeholders to understand requirements and deliver practical solutions.</p></li><li><p>Testing and documenting new functionality and system changes.</p></li><li><p>Providing technical support and troubleshooting for Ostendo users.</p></li><li><p>Assisting with the <strong>upgrade from Ostendo Build 242 to Build 243 Continuum</strong>, including testing existing scripts, workflows and customisations.</p></li></ul><p><strong>About You</strong></p><p><strong>To be successful in this role, you will have:</strong></p><ul><li><p>Demonstrated <strong>hands-on Ostendo development experience</strong>.</p></li><li><p>Strong experience with <strong>Ostendo scripting</strong>.</p></li><li><p>Experience designing and implementing <strong>Ostendo workflows and automation</strong>.</p></li><li><p>Experience with Ostendo customisation, including data screens and reports.</p></li><li><p>Good understanding of SQL and relational databases.</p></li><li><p>Strong analytical and problem-solving skills.</p></li><li><p>The ability to understand business requirements and translate them into effective technical solutions.</p></li><li><p>The ability to work independently and hit the ground running.</p></li><li><p>Strong communication skills and a practical, solutions-focused approach.</p></li></ul><p><strong>Why Join Us?</strong></p><p>This is an opportunity to work on meaningful Ostendo development projects where your skills will have a direct impact on improving business processes and automation.</p><p>The initial engagement is <strong>short term at $100 per hour</strong>, with the <strong>possibility of extension</strong> for the right person.</p><p>If you are an experienced Ostendo Developer with strong scripting and workflow skills, we would like to hear from you.</p><p><strong>Apply now with your CV and a brief summary of your Ostendo experience and availability.</strong></p>",
-      "keywords": [
-        "ostendo",
-        "developer",
-        "short"
-      ]
-    },
-    {
-      "job_id": "94685678",
-      "job_title": "IT Support Officer",
-      "business_name": "Banks Benchtops",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Arundel, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94685678",
-      "advertiser_id": "400196524",
-      "posted_date": "2026-09-17T00:29:02Z",
-      "job_description": "<h2>IT Support Officer</h2><p><strong>Banks Benchtops</strong></p><p><strong>About the Role</strong></p><p>We're looking for a motivated junior IT professional to join our team across Banks Benchtops — growing Queensland-based stonemasonry businesses sharing a fast-paced, multi-site IT environment.</p><p>Based at our Arundel (Gold Coast) office, you'll work directly alongside the IT Manager to keep day-to-day operations running smoothly while getting genuine exposure to a broad range of systems, infrastructure projects, and business integrations. AI tools are increasingly central to how we work, and this role will actively contribute to how we adopt and integrate them. This is a hands-on role that will grow with you.</p><p><strong>What You'll Do</strong></p><ul><li><p>Provide first and second-level IT support to staff across our five sites (Arundel, Brendale, Archerfield, Rocklea)</p></li><li><p>Set up, configure, and troubleshoot Windows PCs, laptops, iOS devices, and printers</p></li><li><p>Support and maintain our Microsoft 365 environment (Exchange Online, SharePoint, Teams, OneDrive)</p></li><li><p>Assist with device management via Zoho Endpoint Central MDM</p></li><li><p>Help manage user accounts, access controls, and onboarding/offboarding in Entra ID</p></li><li><p>Assist with monitoring email security, responding to phishing reports, and managing quarantine queues</p></li><li><p>Contribute to IT projects including CRM integrations, workflow automation, and SharePoint development</p></li><li><p>Assist in evaluating, deploying, and supporting AI tools and assistants across the business</p></li><li><p>Help research and test AI integrations that improve team productivity and automate repetitive workflows</p></li><li><p>Maintain IT documentation, asset registers, and support tickets</p></li><li><p>Liaise with vendors and third-party support contacts as required</p></li><li><p>Support and troubleshoot hardware and software across desktops, laptops, and mobile devices</p></li><li><p>Assist users remotely, resolving issues efficiently without always being on-site</p></li><li><p>Provide support and gain exposure to CRM platforms (HubSpot, Cin7, Salesforce, or similar)</p></li><li><p>Support networking and server infrastructure as required</p></li><li><p>Provide support for industry software such as AutoCAD, SECAD, or similar design/manufacturing tools</p></li></ul><p><strong>What We're Looking For</strong></p><p><strong>Essential:</strong></p><ul><li><p>A genuine interest in IT — whether from study, self-teaching, or hands-on experience</p></li><li><p>Minimum 1-2 years of practical IT experience required</p></li><li><p>Solid understanding of Windows operating systems and Microsoft 365 basics</p></li><li><p>Experience with Microsoft 365 administration (Exchange, SharePoint, Entra ID)</p></li><li><p>Hands-on experience with AI tools — LLMs, AI assistants, prompt engineering, or local AI deployments (e.g. Ollama, OpenAI API, Claude)</p></li><li><p>Strong communication skills and a customer-first attitude when supporting staff</p></li><li><p>Ability to work independently and manage competing priorities</p></li><li><p>Eagerness to learn and take on new challenges</p></li><li><p>Full working rights in Australia</p></li></ul><p><strong>Desirable (not required):</strong></p><ul><li><p>Familiarity with mobile device management (MDM) platforms</p></li><li><p>Exposure to Power Automate, SharePoint, or similar tools</p></li><li><p>Understanding of email security concepts (SPF, DKIM, DMARC)</p></li><li><p>Any experience with HubSpot, Xero, or ERP/CRM systems</p></li><li><p>Interest in agentic AI workflows, automation, or integrating AI into business processes</p></li><li><p>Familiarity or experience working in a construction or manufacturing company</p></li><li><p>Relevant IT qualifications (Industry Certificates or equivalent)</p></li></ul><p><strong>What We Offer</strong></p><p><strong>A real IT role with genuine variety — no two days are the same</strong></p><ul><li><p>Direct mentorship from an experienced IT Manager across a broad tech stack</p></li><li><p>Exposure to Microsoft 365, cloud infrastructure, CRM platforms, Power Automate, AI tools, and more</p></li><li><p>Supportive team culture across a well-established, privately owned business group</p></li><li><p>Opportunity to grow into a senior IT role as the business scales</p></li><li><p>Gold Coast-based role — Arundel office with occasional site travel</p></li></ul><p><br></p>",
-      "keywords": [
-        "it",
-        "support",
-        "officer"
-      ]
-    },
-    {
-      "job_id": "94685311",
-      "job_title": "Level 1 Support technician",
-      "business_name": "Daelibs Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$65,000 – $76,000 per year",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94685311",
-      "advertiser_id": "37450607",
-      "posted_date": "2026-09-17T00:21:06Z",
-      "job_description": "<h2><strong>About Us</strong></h2><p>Daelibs is an award-winning IoT company with over 20 years of experience delivering cutting-edge spatial solutions. We pride ourselves on providing industry-leading technology supported by outstanding customer service.</p><p>Our core business provides mobile SaaS solutions to a range of private organisations and government clients, with our technology operating across the Asia-Pacific region.</p><hr><h2><strong>About the Role</strong></h2><p>We’re seeking a motivated and customer-focused <strong>Level 1 Customer Support Technician</strong> to join our award winning team. As the first point of contact for our valued customers, you’ll play a key role in delivering prompt, effective support while embodying the Daelibs brand through your professionalism and personable approach.</p><p>In this role, you’ll provide timely resolutions to routine technical issues, manage service requests, and escalate matters that fall outside your scope.</p><hr><h2><strong>Key Responsibilities</strong></h2><ul><li><p>Deliver frontline support services in line with agreed SLAs</p></li><li><p>Log, validate, and document incoming support requests</p></li><li><p>Maintain accurate records in the ticketing system</p></li><li><p>Provide timely updates to customers and internal teams</p></li><li><p>Install, configure, and maintain Standard Operating Environments (SOE)</p></li><li><p>Troubleshoot and resolve hardware/software issues</p></li><li><p>Test new product releases and assist with QA processes</p></li><li><p>Escalate complex issues as appropriate</p></li><li><p>Maintain up-to-date support documentation and standards</p></li><li><p>Contribute to support process improvements and team initiatives</p></li></ul><hr><h2><strong>About You</strong></h2><p>To be successful in this role, you will demonstrate:</p><ul><li><p>A genuine passion for delivering exceptional customer service</p></li><li><p>Strong written and verbal communication skills</p></li><li><p>Exposure to IT technical support or related activities</p></li><li><p>Solid troubleshooting and problem-solving abilities</p></li><li><p>High attention to detail</p></li><li><p>Effective time management and prioritisation skills</p></li><li><p>Strong interpersonal skills and the ability to work with a diverse range of customers</p></li><li><p>Adaptability and a proactive approach to change</p></li><li><p>A high level of self-motivation and personal accountability</p></li></ul><hr><h2><strong>Desirable Qualifications and Experience</strong></h2><ul><li><p>Background in IT or a relevant qualification</p></li></ul><hr><p>If you’re ready to take the next step in your career, click <strong>‘Apply for this job’</strong> via SEEK and upload your cover letter and resume.</p>",
-      "keywords": [
-        "support",
-        "technician"
-      ]
-    },
-    {
-      "job_id": "94685152",
-      "job_title": "Salesforce & Technology Lead",
-      "business_name": "JLF Group of Companies",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "$140,000 – $180,000 per year",
-      "area": "Nerang, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94685152",
-      "advertiser_id": "45276000",
-      "posted_date": "2026-09-17T00:04:24Z",
-      "job_description": "<p><strong>About Custodian</strong>&nbsp;</p><p>Custodian is an Australian property investment company with a long history of helping Australians build long-term wealth through residential property investment.&nbsp;</p><p>Our end-to-end investment model brings together property strategy, finance, property acquisition, construction and property management support, providing clients with a simpler, lower-risk way to invest in new property.&nbsp;</p><p>Technology is increasingly central to how we attract and manage clients, operate our business, manage data and deliver an exceptional client experience.&nbsp;</p><p>We are looking for a commercially minded, hands-on Salesforce &amp; Technology Lead to take ownership of Salesforce and help shape the technology, systems and processes that will support Custodian's next phase of growth.&nbsp;</p><p><strong>The Opportunity</strong>&nbsp;</p><p>This is a newly created role for someone who can operate at the intersection of Salesforce, technology, data and business improvement.&nbsp;</p><p>You will be Custodian's internal Salesforce expert and technology lead, working closely with senior leaders and teams across the business to identify opportunities, solve problems and implement practical technology solutions.&nbsp;</p><p>The role combines hands-on Salesforce development and optimisation with technology strategy, project leadership, automation, data, integrations and vendor management.&nbsp;</p><p>We are looking for someone who is strategic enough to see the bigger picture, but hands-on enough to roll up their sleeves and make things happen. You will also be responsible for managing external consultants for specialist assistance as needed, and ensuring technology optimisation projects are delivered in a timely and efficient manner, and on budget.&nbsp;</p><p><strong>Key Responsibilities</strong>&nbsp;</p><ul><li><p>Own the ongoing development, optimisation and performance of Salesforce as a critical business platform.&nbsp;</p></li></ul><ul><li><p>Act as Custodian's primary Salesforce subject matter expert and provide technical guidance across the business.&nbsp;</p></li></ul><ul><li><p>Design, configure, develop and implement Salesforce solutions, including Flows, automation, reports, dashboards and, where appropriate, Apex and Lightning Web Components.&nbsp;</p></li></ul><ul><li><p>Translate business requirements and pain points into practical, scalable technology solutions.&nbsp;</p></li></ul><ul><li><p>Improve data quality, governance, reporting and visibility across the customer lifecycle.&nbsp;</p></li></ul><ul><li><p>Design, manage and improve integrations, APIs and data flows between Salesforce and other business systems.&nbsp;</p></li></ul><ul><li><p>Lead technology and systems projects from concept through to implementation, including requirements, planning, testing, delivery and adoption.&nbsp;</p></li></ul><ul><li><p>Identify opportunities to automate manual processes and improve productivity through technology, AI and workflow automation.&nbsp;</p></li></ul><ul><li><p>Manage external Salesforce developers, consultants and technology providers, ensuring appropriate scope, quality, cost and delivery.&nbsp;</p></li></ul><ul><li><p>Evaluate technology solutions and suppliers based on business value, risk, cost and return on investment.&nbsp;</p></li></ul><ul><li><p>Ensure technology systems are appropriately secure, reliable, documented and governed.&nbsp;</p></li></ul><ul><li><p>Support Salesforce adoption through effective user engagement, training and continuous improvement.&nbsp;</p></li></ul><ul><li><p>Stay informed about emerging Salesforce, AI and technology capabilities and identify those with genuine commercial application for Custodian.&nbsp;</p></li></ul><p><strong>Skills &amp; Experience</strong>&nbsp;</p><p><strong>Essential</strong>&nbsp;</p><ul><li><p>Significant experience in a senior Salesforce, business systems, technology or digital transformation role.&nbsp;</p></li></ul><ul><li><p>Strong hands-on Salesforce experience across configuration, automation, development, reporting and data management.&nbsp;</p></li></ul><ul><li><p>Experience with Salesforce Flow and ideally Apex, Lightning Web Components, Salesforce Marketing Cloud, and Salesforce APIs.&nbsp;</p></li></ul><ul><li><p>Demonstrated experience delivering technology or Salesforce projects from requirements through to implementation.&nbsp;</p></li></ul><ul><li><p>Experience managing external technology consultants, developers or suppliers.&nbsp;</p></li></ul><ul><li><p>Strong business process improvement and problem-solving skills.&nbsp;</p></li></ul><ul><li><p>Excellent stakeholder management and communication skills.&nbsp;</p></li></ul><ul><li><p>Commercial mindset with an ability to assess technology based on business value, cost, risk and ROI.&nbsp;</p></li></ul><ul><li><p>Ability to work independently, take ownership and drive initiatives through to completion.&nbsp;</p></li></ul><p><strong>Desirable</strong>&nbsp;</p><ul><li><p>Salesforce certifications.&nbsp;</p></li></ul><ul><li><p>Understanding of cybersecurity, privacy and technology governance.&nbsp;</p></li></ul><ul><li><p>Experience in property, financial services, professional services or another customer-facing environment.&nbsp;</p></li></ul><p><strong>The Person</strong>&nbsp;</p><p>You are:&nbsp;</p><ul><li><p><strong>Strategic but hands-on</strong> – able to develop a roadmap but equally comfortable getting into Salesforce and building the solution.&nbsp;</p></li></ul><ul><li><p><strong>Commercial</strong> – focused on business outcomes, not technology for technology's sake.&nbsp;</p></li></ul><ul><li><p><strong>A problem solver</strong> – naturally curious and motivated to find better ways of doing things.&nbsp;</p></li></ul><ul><li><p><strong>Pragmatic</strong> – able to balance the ideal solution with what is practical and valuable.&nbsp;</p></li></ul><ul><li><p><strong>Influential</strong> – confident working with senior leaders, frontline teams and technical specialists.&nbsp;</p></li></ul><ul><li><p><strong>Accountable</strong> – you take ownership of outcomes, not just tasks.&nbsp;</p></li></ul><ul><li><p><strong>A strong communicator</strong> – able to explain complex technology in straightforward business language.&nbsp;</p></li></ul><p><strong>Why Join Custodian?</strong>&nbsp;</p><p>This is an opportunity to build, not simply maintain.&nbsp;</p><p>You will have genuine ownership of Custodian's Salesforce and technology capability and the opportunity to influence how the business operates as it enters its next phase of growth.&nbsp;</p><p>You'll work directly with senior leaders and teams across the business, with the autonomy to bring in specialist expertise where required.&nbsp;</p><p>Most importantly, you'll see your work translate directly into better systems, less administration, better data, greater productivity and a better experience for our clients and our people.&nbsp;</p><p>We also invest heavily in our culture so you’ll work alongside people who genuinely enjoying coming to work each day, enjoy social functions, weekly yoga class and paid birthday leave.&nbsp;</p><p>If this role sounds like a good fit? Or perhaps you feel you can undertake most, but not all of the role, please reach out. We’d still like to speak with you.&nbsp;</p>",
-      "keywords": [
-        "salesforce",
-        "technology"
-      ]
-    },
-    {
-      "job_id": "94685112",
-      "job_title": "Junior ITS Asset Officer",
-      "business_name": "The BUSY Group",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$70,000 - $75,000 FTE",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94685112",
-      "advertiser_id": "14264186",
-      "posted_date": "2026-09-17T00:00:03Z",
-      "job_description": "<p><strong>Our purpose is to make skills, education and employment accessible to every person, so they can create their own world of unbounded possibilities.</strong></p>\n\n<p><strong>About The BUSY Group…</strong></p>\n\n<p>The BUSY Group is a not-for-profit organisation with nearly 50 years experience as a community partner. &nbsp;With multiple business entities operating across 100+ locations Australia-wide and now in New Zealand, Canada and the United Kingdom, we offer an extensive range of employment services and programs, vocational training, apprenticeships, mentoring, Inclusive Employment Australia, specialist schools and allied health services.&nbsp;</p>\n<br><p>\n\n</p>\n\n<p><strong>About the Role</strong></p>\n\n<p>Kick-start your IT career with one of Australia's largest not-for-profit organisations. Based at our Southport Head Office, this is an exciting opportunity for a motivated and detail-oriented individual to gain hands-on experience across IT operations, asset management, procurement support, and technology lifecycle management.</p>\n\n<p>Reporting to the ITS Operations Manager, the Junior IT Asset Officer plays an important role in supporting the management of IT hardware and software assets across the organisation. You'll work closely with the broader IT team to ensure asset information is accurate, equipment is tracked throughout its lifecycle, and staff are supported with onboarding and offboarding equipment requirements.</p>\n\n<p>This role is ideal for someone early in their IT career who enjoys administration, organisation, technology and process improvement.</p>\n\n<strong>What You'll Be Doing</strong>\n\n<p>You will support the day-to-day management of IT assets and equipment across the organisation, including:</p>\n\n<ul>\n\t<li>Maintaining accurate records within asset management systems and databases</li>\n\t<li>Receiving, tagging, storing, allocating and retiring IT equipment</li>\n\t<li>Supporting employee onboarding, offboarding and internal transfers</li>\n\t<li>Assisting with stocktakes, asset audits and reconciliations</li>\n\t<li>Preparing devices and accessories for deployment</li>\n\t<li>Assisting with procurement activities, including purchase requests and order tracking</li>\n\t<li>Maintaining warranty, repair and supplier records</li>\n\t<li>Supporting software licence tracking and renewal activities</li>\n\t<li>Responding to routine asset-related enquiries from employees and stakeholders</li>\n\t<li>Working with internal teams and external suppliers to ensure smooth asset lifecycle management processes</li>\n</ul>\n\n<p>This is a 6 month full time, fixed term contract, based in our Southport office with potential extension based on business needs.</p>\n\n<p><strong>BUSY Benefits</strong></p>\n\n<ul>\n\t<li>3 additional&nbsp;paid annual leave days – 3 days at Christmas&nbsp;</li>\n\t<li>Clear pathways for internal advancement&nbsp;</li>\n\t<li>BUSY Benefits program - Retail&nbsp;discounts&nbsp;and access to Fitness Passport&nbsp;</li>\n\t<li>Monthly mini massages</li>\n\t<li>Enjoy work that genuinely&nbsp;impacts&nbsp;lives&nbsp;</li>\n\t<li>Employee Assistance Program with Sonder Wellbeing App</li>\n</ul>\n<br><p>\n\n</p>\n\n<p><strong>About You&nbsp;</strong></p>\n\n<p>\n\n</p>\n\n<p>To be successful in this role, you'll be organised, proactive and eager to learn. You will bring:</p>\n\n<ul>\n\t<li>Strong attention to detail and accuracy</li>\n\t<li>A genuine interest in technology and IT operations</li>\n\t<li>Confidence working with records, spreadsheets and data</li>\n\t<li>Strong organisational and time management skills</li>\n\t<li>Customer-focused communication skills</li>\n\t<li>The ability to follow processes and work collaboratively with others</li>\n\t<li>Intermediate Microsoft Office skills, particularly Excel, Outlook and Word</li>\n\t<li>Up to 1 year of experience in IT support, administration, inventory, logistics or a similar environment</li>\n\t<li>A Certificate III or IV in Information Technology, Business Administration or a related field (or willingness to work towards one)</li>\n\t<li>A current driver's licence</li>\n\t<li>Ability to obtain and maintain a National Police Check and Blue Card</li>\n</ul>\n\n<p><b>Next steps...</b></p>\n\n<p>If you're looking for an opportunity to gain practical experience, develop your technical and administrative skills, and be part of an organisation making a genuine impact, apply today.</p>\n\n<p>Candidate care is important to us, this role will actively commence recruitment from the date of advertisement. The closing date of this ad is dependent on the appointment of the role.</p>\n\n<p>The BUSY Group is an Organisation that puts the best interest of children and young people first by adhering to the Child Safety Organisation National Principles.&nbsp; The appointment of successful applicants will be subject to satisfactory employment screening including, criminal history and relevant working with children checks.</p>\n\n<p>The BUSY Group is committed to achieving a diverse workforce and strongly encourages applications from First Nations People,&nbsp;veterans, people from culturally diverse backgrounds and people with disabilities</p>",
-      "keywords": [
-        "its",
-        "asset",
-        "officer"
-      ]
-    },
-    {
-      "job_id": "94684819",
-      "job_title": "OpenMage/Magento Full-Stack Developer",
-      "business_name": "Tradezone Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "",
-      "area": "Helensvale, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94684819",
-      "advertiser_id": "46711243",
-      "posted_date": "2026-09-16T23:43:14Z",
-      "job_description": "<p><strong>About Us</strong></p><p>Tradezone is the fastest-growing electrical wholesaler in Australia. We launched in 2015 and now operate six state-of-the-art distribution centres across Australia — supplying electrical, solar, HVAC, data and safety products to trade professionals nationwide, with more sites to come.</p><p>We are a division of the Kingston Group, a private, family-owned Australian company that has been wholesaling and distributing for over 40 years. We combine the strength of a national business with the culture of a close-knit team, and pride ourselves on being at the forefront of technology and innovation — from our real-time online platform and live stock visibility to our own national delivery fleet with live delivery tracking.</p><p><br></p><p><strong>About the Role</strong></p><p>We're looking for an experienced <strong>OpenMage LTS / Magento Developer</strong> to join our team on the Gold Coast.</p><p>This is an exciting opportunity to take ownership of key development projects while maintaining and improving the platforms that support our growing organisation.</p><p>You'll work across both frontend and backend development, supporting our B2B and B2C websites and collaborating with teams across the business. You'll have exposure to a diverse range of technologies, challenging projects and plenty of opportunity to make an impact.</p><p><br></p><p><strong>What We Offer</strong></p><ul><li><p><strong>Permanent full-time role</strong> with genuine career progression</p></li><li><p><strong>Work with cutting-edge technology</strong> across expansive B2B and B2C platforms</p></li><li><p><strong>Interesting and challenging projects</strong> in a rapidly growing business</p></li><li><p><strong>Collaborative team environment</strong> with talented people around you</p></li><li><p><strong>Opportunity to take ownership</strong> and make a real impact on our technology platforms</p></li></ul><p><br></p><p><strong>What You'll Be Doing</strong></p><ul><li><p>Maintain, develop and improve existing software solutions, primarily <strong>OpenMage LTS / Magento</strong></p></li><li><p>Design, implement and support frontend and backend website features</p></li><li><p>Build and maintain Magento extensions</p></li><li><p>Extend and customise core Magento functionality</p></li><li><p>Work with Magento models and themes</p></li><li><p>Integrate systems and businesses using internal and external APIs</p></li><li><p>Support technology solutions across different areas of the business</p></li><li><p>Contribute to ongoing development and improvement of our B2B and B2C platforms</p></li></ul><p><br></p><p><strong>About You</strong></p><ul><li><p>Demonstrated experience with <strong>Magento backend development</strong></p></li><li><p>Strong experience building and maintaining Magento extensions</p></li><li><p>Experience extending and customising core Magento functionality</p></li><li><p>Solid understanding of Magento models</p></li><li><p>Experience integrating systems through APIs</p></li><li><p>Experience with <strong>Zend Framework</strong></p></li><li><p>Experience customising Magento themes</p></li><li><p><strong>MySQL experience</strong> is advantageous</p></li><li><p>A proactive, solutions-focused approach and the ability to work collaboratively across the business</p></li></ul><p><br></p><p><strong>Why Tradezone?</strong></p><p>You'll be joining a rapidly growing organisation where technology plays a critical role in how we operate.</p><p>With expansive B2B and B2C platforms, challenging projects, fast-paced delivery and continued investment in technology, you'll have the opportunity to build on your skills and make a genuine impact. If you're passionate about software development and looking for an opportunity to grow with an expanding Australian business, <strong>we'd love to hear from you!</strong></p><p><em>Please ensure your resume is updated with your most recent work history. Only shortlisted candidates will be contacted. No agencies please.</em></p>",
-      "keywords": [
-        "openmage",
-        "magento",
-        "stack",
-        "developer"
-      ]
-    },
     {
       "job_id": "94670495",
       "job_title": "CIAM Operations Team Lead",
@@ -1427,6 +1215,26 @@
         "service",
         "desk",
         "engineer"
+      ]
+    },
+    {
+      "job_id": "94301798",
+      "job_title": "Advisor Technology Risk and Resilience",
+      "business_name": "City of Gold Coast",
+      "work_type": "Full time",
+      "job_type": "Consultants",
+      "pay_range": "From $111,401 plus superannuation",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94301798",
+      "advertiser_id": "16652581",
+      "posted_date": "2026-08-31T02:53:25Z",
+      "job_description": "<ul> <li><strong>Full Time | 9 day fortnight | 36 hours </strong></li> <li> <strong>Salary: </strong>From $111,401 plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG2074/assets/32222234\">Technology Risk Adviser </a> </li> </ul> <p> </p> <p><strong>About the role</strong></p> <p>Sitting within the City’s Enterprise Risk team, this role provides an organisation-wide perspective on technology risk and resilience.</p> <p>You will be a key conduit between the broader business, the Chief Technology Officer and Cyber Security - helping business leaders understand their technology risks and dependencies, while ensuring service impacts and priorities are visible to technology specialists.</p> <p>You will bring an independent enterprise risk lens to technology and cyber issues, translate technical information into practical business advice and help establish clear ownership of risks, controls and actions.</p> <p>This is more than a register-management role. You will help shape a developing capability, deliver meaningful assurance and strengthen the resilience of services that directly support the community.</p> <p><strong>What you’ll be doing</strong></p> <ul> <li>Facilitate technology and cyber risk assessments across business and technical teams.</li> <li>Translate technical issues into clear service, organisational and community impacts.</li> <li>Connect business areas with CTO and Cyber Security expertise and support.</li> <li>Develop an enterprise view of strategic and critical technology risks.</li> <li>Deliver targeted assurance over key technology and cybersecurity controls.</li> <li>Strengthen technology disaster recovery and its alignment with business continuity.</li> <li>Identify emerging risks, systemic issues and opportunities for improvement.</li> <li>Provide independent, practical advice and constructive challenge.</li> <li>Deliver clear, decision-focused reporting to senior leaders and governance forums.</li> </ul> <p><strong>What you’ll bring</strong></p> <ul> <li>Experience in technology risk, cybersecurity risk, IT governance, control assurance, disaster recovery or a related discipline.</li> <li>The ability to bridge technical and business perspectives and turn complex information into practical advice.</li> <li>Experience facilitating risk assessments, control reviews or assurance activities with technical and business stakeholders.</li> <li>A sound understanding of technology controls, system dependencies and operational resilience.</li> <li>Strong analytical, stakeholder engagement, influencing and communication skills.</li> <li>The confidence to provide independent advice and constructive challenge.</li> <li>The ability to work with a high degree of independence and professional judgement.</li> </ul> <p><strong>Highly regarded</strong></p> <ul> <li>Experience with recognised risk, technology or cybersecurity frameworks, such as ISO 31000, ISO 27001, NIST or COBIT.</li> <li>Experience in disaster recovery, business continuity or technology resilience.</li> <li>Knowledge of cloud, third-party or technology supply-chain risk.</li> <li>Experience in a complex, regulated, public-sector or essential-services environment.</li> <li>Relevant qualifications or certifications in risk, cybersecurity, IT governance, audit or business continuity.</li> </ul> <p><strong>Why join us?</strong></p> <p>You will join an Enterprise Risk team with an organisation-wide remit and a genuine opportunity to influence how technology risks are understood, governed and managed. You will work across Enterprise Risk, CTO, Cyber Security and the broader business—connecting different perspectives and helping the City make better-informed decisions about its technology risks and resilience.</p> <p>If you enjoy working at the intersection of technology, risk and business and want the opportunity to build, influence and make a visible impact we would like to hear from you. </p> <p>We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p> <p><strong>How to apply</strong></p> <p>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p> <p><strong>Contact Person</strong> Jansen Croft </p> <p><strong>Contact Email </strong> <a href=\"mailto:JCROFT@goldcoast.qld.gov.au\">JCROFT@goldcoast.qld.gov.au</a></p> <p><strong>Closing Date</strong> Thursday 10 September 2026 @11:59 pm AEST</p> <p>Our selection process may include a one-way video interview via Criteria, a face-to-face or virtual interview via Microsoft Teams, reference checks via Xref and additional checks including police checks, employment history checks, qualification checks, pre-employment medical reviews and drug and alcohol testing. </p> <p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
+      "keywords": [
+        "advisor",
+        "technology",
+        "risk",
+        "resilience"
       ]
     },
     {
