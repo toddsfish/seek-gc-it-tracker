@@ -1,593 +1,491 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-18",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-19T08:04:52.499077+10:00",
-  "total_jobs": 72,
+  "scraped_at": "2026-09-18T08:33:01.762820+10:00",
+  "total_jobs": 68,
   "keywords": [
     {
       "term": "support",
-      "count": 17,
-      "share": 0.2361
+      "count": 16,
+      "share": 0.2353
     },
     {
       "term": "analyst",
-      "count": 15,
-      "share": 0.2083
+      "count": 14,
+      "share": 0.2059
     },
     {
       "term": "it",
-      "count": 14,
-      "share": 0.1944
+      "count": 12,
+      "share": 0.1765
     },
     {
       "term": "engineer",
-      "count": 12,
-      "share": 0.1667
+      "count": 11,
+      "share": 0.1618
     },
     {
       "term": "developer",
       "count": 9,
-      "share": 0.125
+      "share": 0.1324
     },
     {
       "term": "business",
-      "count": 6,
-      "share": 0.0833
+      "count": 7,
+      "share": 0.1029
     },
     {
       "term": "data",
       "count": 6,
-      "share": 0.0833
+      "share": 0.0882
     },
     {
       "term": "ai",
       "count": 6,
-      "share": 0.0833
+      "share": 0.0882
     },
     {
       "term": "software",
       "count": 6,
-      "share": 0.0833
+      "share": 0.0882
     },
     {
       "term": "manager",
       "count": 6,
-      "share": 0.0833
-    },
-    {
-      "term": "service",
-      "count": 6,
-      "share": 0.0833
+      "share": 0.0882
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.0694
-    },
-    {
-      "term": "desk",
-      "count": 5,
-      "share": 0.0694
+      "share": 0.0735
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.0694
-    },
-    {
-      "term": "administrator",
-      "count": 5,
-      "share": 0.0694
+      "share": 0.0735
     },
     {
       "term": "specialist",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0588
+    },
+    {
+      "term": "service",
+      "count": 4,
+      "share": 0.0588
+    },
+    {
+      "term": "desk",
+      "count": 4,
+      "share": 0.0588
     },
     {
       "term": "technician",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0588
+    },
+    {
+      "term": "administrator",
+      "count": 4,
+      "share": 0.0588
     },
     {
       "term": "product",
       "count": 4,
-      "share": 0.0556
+      "share": 0.0588
     },
     {
       "term": "intelligence",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.0278
-    },
-    {
-      "term": "platform",
-      "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "net",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0278
-    },
-    {
-      "term": "migration",
-      "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "desktop",
       "count": 2,
-      "share": 0.0278
-    },
-    {
-      "term": "operations",
-      "count": 2,
-      "share": 0.0278
-    },
-    {
-      "term": "broadbeach",
-      "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "month",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
+    },
+    {
+      "term": "operations",
+      "count": 2,
+      "share": 0.0294
+    },
+    {
+      "term": "broadbeach",
+      "count": 2,
+      "share": 0.0294
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "cyber",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0294
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "delivery",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "analysis",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "capability",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "utilities",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "science",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "jetstar",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "retail",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "reporting",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
+    },
+    {
+      "term": "reporting",
+      "count": 1,
+      "share": 0.0147
+    },
+    {
+      "term": "jetstar",
+      "count": 1,
+      "share": 0.0147
+    },
+    {
+      "term": "retail",
+      "count": 1,
+      "share": 0.0147
     },
     {
       "term": "solutions",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "architech",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "dynamics",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
+    },
+    {
+      "term": "platform",
+      "count": 1,
+      "share": 0.0147
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "assisted",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "azure",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "netsuite",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "erp",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "customisation",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "php",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "native",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
+    },
+    {
+      "term": "ostendo",
+      "count": 1,
+      "share": 0.0147
+    },
+    {
+      "term": "short",
+      "count": 1,
+      "share": 0.0147
     },
     {
       "term": "frontend",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
+    },
+    {
+      "term": "php",
+      "count": 1,
+      "share": 0.0147
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "groundworks",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "modern",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "workplace",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "its",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "asset",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "technical",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
+    },
+    {
+      "term": "its",
+      "count": 1,
+      "share": 0.0147
+    },
+    {
+      "term": "asset",
+      "count": 1,
+      "share": 0.0147
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "pimpama",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "campus",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "experience",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "required",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "inventory",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "cruise",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "ciam",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
+    },
+    {
+      "term": "migration",
+      "count": 1,
+      "share": 0.0147
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "program",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "incident",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "change",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "readiness",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "ecommerce",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "catalogue",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     },
     {
       "term": "applied",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0147
     }
   ],
   "jobs": [
-    {
-      "job_id": "94725452",
-      "job_title": "Head of IT",
-      "business_name": "Gilmour Space Technologies",
-      "work_type": "Full time",
-      "job_type": "Management",
-      "pay_range": "Base Salary Plus Superannuation",
-      "area": "Yatala, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94725452",
-      "advertiser_id": "43912085",
-      "posted_date": "2026-09-18T06:01:32Z",
-      "job_description": "<p><b>All Orbits, All Planets - Join us on our journey</b></p><p>Gilmour Space is a leading Australian space company, developing launch vehicles, satellite platforms, advanced propulsion technologies; and launching from our licensed orbital spaceport in Bowen, North Queensland.</p><p>Are you a creative and experienced 'Head of IT' looking for a dynamic role where your skills will make a real impact? Have you ever dreamt of building rockets right here in Australia? Well now’s your chance! Gilmour Space is seeking a talented individual to join our innovative team to send rockets to Space! Conveniently located between Brisbane and the Gold Coast, our new state-of-the-art facility, purpose-built for designing and manufacturing rockets in-house, is equipped with the latest technology and tools, providing an ideal environment for innovation and excellence. So, what are you waiting for? Join us and be a part of a forward-thinking team dedicated to pushing the boundaries of space exploration and let’s send Australia to Space together!</p><p><b>How you will contribute to our mission in getting Australia to space:</b></p><p>The below is designed to give you an idea of the role you will play. There will be many more exciting and innovative things to do:</p><ul> <li>Develop and implement an ICT strategy that aligns with the organisation's goals and objectives, as well as current information security standards and best practices.</li> <li>Identify and assess the organisation's ICT needs and provide solutions to meet those needs while ensuring information security requirements are met.</li> <li>Manage the design, implementation, and maintenance of ICT infrastructure, hardware, software, and applications with an emphasis on security, risk management and budgetary requirements of the business.</li> <li>Design, develop, implement, and periodically review ICT policies and procedures.</li> <li>Monitor and manage the performance, availability, and security of ICT systems and services, and implement controls to ensure compliance with security standards and regulations.</li> <li>Develop and manage the ICT budget, including forecasting, cost management and purchasing of IT related HW/SW.</li> <li>Provide leadership, guidance, support, and assistance to the ICT team and ensure that team and employees understand and comply with information security policies and procedures.</li> <li>Lead the IT Governance Committee to ensure accountability and governance of the company’s information and security risk, compliance and strategic environments.</li> <li>Direct the ICT procurement process and liaise with equipment and service providers to identify hardware / software for purchase, obtain quotes, prepare purchase requests, place orders, receive and allocate HW/SW, manage invoices. </li> <li>Report on ICT operations, projects, and security incidents. </li> <li>Shape and govern the organisation's AI strategy and capability roadmap, aligning AI initiatives with business objectives while ensuring robust oversight of security, compliance, data privacy, and responsible AI practices.</li> <li>Work with the Human Resources team to grow the Gilmour Space team as required.</li> <li>Other duties as requested by Management.</li></ul><div> <strong>Minimum Qualifications, Skills and Experience:</strong></div><div> <ul>  <li>Bachelor's or master's degree in computer science, Information Technology, Cyber Security, business administration or a related field.</li>  <li>Proven experience in managing ICT systems and services in a complex environment with an emphasis on information security.</li>  <li>Demonstrated experience in executive communication and influencing skills.</li>  <li>Minimum of 5 years in a senior IT leadership position.</li>  <li>Strong knowledge of ICT infrastructure, hardware, software, and applications, as well as information security standards and best practices.</li>  <li>Evidence of exceptional ability to lead complex IT and cyber security environments in fast paced organisations. </li> </ul> <div>  <b>Desired Qualifications, Skills and Experience:</b> </div></div><div> <ul>  <li>Excellent communication, leadership, and interpersonal skills.</li>  <li>Ability to manage multiple projects and priorities in a fast-paced environment.</li>  <li>Strong analytical and problem-solving skills.</li>  <li>Professional certifications such as ITIL, PMP, CISSP, or CISM are desirable.</li>  <li>Experience in managing a team of ICT professionals and providing mentorship and coaching.</li>  <li>Demonstrated ability to develop and implement an ICT strategy that aligns with organisational goals and objectives.</li>  <li>Experience in developing and managing an ICT budget and forecasting information security initiatives.</li>  <li>Demonstrated ability to support and manage the IT needs of R&amp;D departments, while ensuring IT security measures are adhered to.</li>  <li>Experience with technological Start Up / SMB / Enterprise is desirable.</li>  <li>Practical experience with one of the security frameworks: NIST/Essential 8/ISO27001 highly desirable. </li>  <li>NV1 Security Clearance eligible preferred</li> </ul> <div>  <p><b>Teamwork / Leadership / Interpersonal:</b></p>  <ul>   <li>Experience managing and/or directing an IT operation.</li>   <li>Proven leadership ability.</li>   <li>Strong negotiating skills</li>   <li>Well-developed communication, interpersonal, conflict resolution skills</li>   <li>Proven Ability to prioritize and manage work demands and deliver outcomes.</li>   <li>Self-motivated, results oriented with a strong attention to detail.</li>   <li>Demonstrated commitment to health and safety, quality assurance, continuous improvement, and environmental management.<br></li>  </ul>  <div>   <p><b>Supervisors / Managers:<br></b></p>   <p>Supervisors / Managers of Gilmour Space are to undertake effective occupational health &amp; safety measures to ensure compliance with WHS (Work Health and Safety) legislation. Performance criteria is to include but is not limited to: </p>   <ul>    <li>Disseminate Workplace Health and Safety information to staff relevant to the specific work area</li>    <li>Ensure that employees have the information, instruction, training, and supervision to work safely</li>    <li>Immediately advising the Risk, Health and Safety Officer of issues relating to WHS in their department and to continually review and make recommendations on ways in which Gilmour Space can improve WHS within their department</li>    <li>Assist where required in providing/ensuring induction and refresher training is provided to ensure ability of staff to discharge allocated Workplace Health &amp; Safety responsibilities including hazards within the workplace, safe operating procedures, use and maintenance of PPE (PERSONAL PROTECTIVE EQUIPMENT) and safety equipment and emergency response procedures</li>    <li>Ensuring all incidents / accidents are recorded and reported and that feedback on actions taken is communicated to employees in their department.</li>    <li>Ensuring implementation of corrective action arising from accident/incident or hazard reporting and monitoring to ensure effectiveness.</li>    <li>Supervise the Workplace health &amp; safety aspects of work undertaken by staff within the work area</li>    <li>Facilitate consultative processes regarding Workplace health and safety issues between management and staff</li>    <li>Participating in and monitoring of risk assessments, hazard evaluation and implementation of hazard control measures within their work area as required</li>    <li>Actively being involved with and promoting a clean and safe working environment<b></b></li>   </ul>   <p><strong>How to Apply:</strong></p>   <p>Applicants must be an Australian Citizen/Permanent Resident or have an appropriate Australian work visa or work entitlements.</p>   <p>If you are a proactive team player with a passion to get Australia to space and a desire to succeed, please apply now by clicking the apply button and including your resume and cover letter or head to our&nbsp;<strong>careers page: www.gspace.com/career</strong></p>   <p>Gilmour Space Technologies is proud to be an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all team members. We strongly encourage applications from Aboriginal and Torres Strait Islander peoples for all positions.</p>   <p>No Recruitment Agencies Please</p>   <p><b>&nbsp;</b></p>  </div> </div></div>",
-      "keywords": [
-        "it"
-      ]
-    },
-    {
-      "job_id": "94723354",
-      "job_title": "Service Support Administrator",
-      "business_name": "Bond University",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$99,108.89 per annum, plus 12% superannuation",
-      "area": "Robina, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94723354",
-      "advertiser_id": "20551487",
-      "posted_date": "2026-09-18T04:56:37Z",
-      "job_description": "<p><strong>As Australia’s first private, not-for-profit university, Bond University based in Robina on the Gold Coast seeks to be recognised internationally as a leading independent university, imbued with a spirit to innovate, a commitment to influence and a dedication to inspire tomorrow's professionals who share a personalised and transformational student experience.</strong></p><p><strong>&nbsp;</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build your technical expertise and be the go-to expert for a wide range of IT systems and tools at Bond.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work in an environment that values continuous learning and career success.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work alongside passionate professionals who value teamwork and collaboration.</p><p><br></p><p><strong>Service Support Administrator<br>Information Technology Services&nbsp; <br>Full-time, Continuing</strong></p><p><strong>Position Reference No:</strong> <strong><a href=\"tel:201396163\">201396163</a></strong><br><br></p><p><strong>Join Australia’s top university for teaching* and enjoy staff benefits including:</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free staff car parking</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 36.75 hour standard work week</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Access to flexible work/work from home arrangements#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 18/26 weeks of parental leave#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Salary packaging options for FBT and Non-FBT items#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17.5% of base salary leave loading</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Staff wellbeing program</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free &amp; Confidential Employee Assistance Program available for all staff</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Study assistance for staff and dependents#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Corporate health and finance discounts</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Medical Centre and Counselling Services</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Sports Centre including gym, fitness classes and pool#</p><p><br></p><p><strong>About the Position</strong></p><p>The Service Support Administrator is responsible for the administration, support, security, and lifecycle management of the University's end-user computing environment. The role manages endpoint technologies including Microsoft Intune, Microsoft Defender for Endpoint, Windows Autopilot, operating system deployment, software deployment, and endpoint security solutions, ensuring secure, reliable, and efficient services for staff and students.</p><p><br></p><p>The position also provides advanced technical support, develops and maintains standard operating environments (SOEs), automates operational processes, and contributes technical expertise to projects and service improvements.</p><p><br></p><p><strong>About the Person</strong></p><p>To be successful in the Service Support Administrator role, candidates should demonstrate the following qualifications, skills, and experience:</p><p><br></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Relevant qualifications and experience</strong>: Degree in Information Technology, or an equivalent combination of industry certifications, technical training, and practical experience in endpoint management and support.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Endpoint management expertise</strong>: Advanced knowledge and hands-on experience with Microsoft Intune, Windows Autopilot, operating system deployment, software deployment, configuration management, and endpoint administration.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Endpoint security knowledge</strong>: Strong experience with Microsoft Defender for Endpoint, endpoint security technologies, anti-malware, application control, security baselines, attack surface reduction, and least-privilege access management.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Technical troubleshooting and automation skills</strong>: Demonstrated ability to diagnose and resolve complex endpoint issues, supported by strong knowledge of Windows networking (DNS, DHCP) and experience developing and deploying PowerShell scripts and automation solutions.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Customer service and communication skills</strong>: Proven ability to provide professional customer-focused support, manage escalated technical issues, communicate effectively with stakeholders, and work collaboratively across technical and business teams.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Desirable experience</strong>: Experience in a higher education environment, relevant Microsoft certifications, and knowledge of additional endpoint platforms such as macOS, Jamf, iPadOS, and Android.</p><p><strong>&nbsp;</strong></p><p><strong>Salary details</strong></p><p>The salary for the position commences at $99,108.89 per annum, plus 12% superannuation.</p><p><br></p><p><strong>Further information</strong></p><p>Position-related enquiries can be directed to Nathan Maguire, Manager End Device Services, <a href=\"mailto:nmaguire@bond.edu.au\" target=\"_blank\">nmaguire@bond.edu.au</a> <a href=\"tel:+61 7 5595 3529\">+61 7 5595 3529</a></p><p><br></p><p><strong>How to Apply for this Position</strong></p><p>For further details regarding this appointment, please reference the <a href=\"https://bond.edu.au/sites/default/files/2026-09/PD.Service%20Support%20Administrator.August%202026.pdf\" target=\"_blank\">Position Description</a> and Selection Criteria</p><p><br></p><p>Click&nbsp;<em>Apply Now</em>&nbsp;and&nbsp;<em>Create New Account</em>&nbsp;to get started. You can:</p><ul><li><p>Upload your Resume – your account will be created automatically, or</p></li><li><p>Manually enter your details to set up your account.</p></li></ul><p><br></p><p>Please ensure your application includes:</p><ul><li><p>A current resume</p></li><li><p>A cover letter addressing the Selection Criteria outlined in the Position Description above</p></li><li><p>Given the expected large volume of applications, priority will be given to those applicants who clearly present examples against the Selection Criteria using the STAR method (Situation, Task, Action, Result).&nbsp;</p></li></ul><p><br></p><p>For current Bond University staff, apply directly via <a href=\"https://hrconnect.bond.edu.au/\" target=\"_blank\">People Connect</a>, log in with staff credentials, from the Home dashboard select Careers, select the role and apply.</p><p><br><br>If you require any assistance with your application submission, please visit <a href=\"https://bond.edu.au/about-bond/careers-bond/applying-jobs-bond\" target=\"_blank\">Applying for jobs at Bond</a>.</p><p><strong>&nbsp;</strong></p><p><strong>Applications close: 11:59pm, Sunday 4th October 2026</strong></p><p><br></p><p><em>Pre-employment checks: Appointment is subject to satisfactory pre-employment checks (including working rights verification, reference checks and a certified copy of your highest qualification). In line with the National Higher Education Code to Prevent and Respond to Gender-based Violence 2025, preferred candidates must complete a Gender-Based Violence (GBV) Declaration, and any offer of employment will be conditional upon the University’s review of the declaration. For more information, please visit our website via this link: </em><a href=\"https://bond.edu.au/our-university/careers-at-bond/applying-for-jobs-at-bond\" target=\"_blank\"><em>Applying for Jobs at Bond</em></a></p><p><em>&nbsp;</em></p><p><strong>Conditions of employment are offered under a Bond Workplace Agreement (BWA).</strong></p><p><br></p><p>Bond University is an equal opportunity employer, and we encourage our students and staff to respect individuality, inclusiveness and diversity.&nbsp; In line with Bond University’s values, people from diverse backgrounds, women, Aboriginal and Torres Strait Islander people, people who identify as LGBTIQ+, and people with a disability are encouraged to apply for positions at the University<strong>.</strong></p><p><strong>&nbsp;</strong></p><p>Please advise the Talent Acquisition Team if you require any reasonable accommodations to assist you at anytime during the recruitment process.</p><p><br></p><p><strong>For more information, visit </strong><a href=\"https://bond.edu.au/our-university/supporting-diversity-at-bond#:~:text=At%20Bond%2C%20we%20foster%20diversity%20and%20inclusion%20through,students%20and%20staff%20from%20more%20than%2090%20countries.\" target=\"_blank\">Supporting diversity at Bond | Bond University | Gold Coast, Queensland, Australia</a></p><p><a href=\"https://bond.edu.au/privacy\" target=\"_blank\">Bond University Privacy Policy</a></p><p>#Eligibility criteria or membership fees apply<br>*Australian Financial Review’s Best Universities Ranking 2024</p><p><br></p>",
-      "keywords": [
-        "service",
-        "support",
-        "administrator"
-      ]
-    },
-    {
-      "job_id": "94717757",
-      "job_title": "Delivery Analyst",
-      "business_name": "Keolis Gold Coast",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94717757",
-      "advertiser_id": "28957160",
-      "posted_date": "2026-09-18T02:28:08Z",
-      "job_description": "<strong>About Keolis</strong><br>\n<br>\nThe G:link is operated and maintained by Keolis Gold Coast (KGC). Keolis Gold Coast is the proud subsidiary of Keolis Australia and New Zealand, a leading private provider of multi-modal public transport in Australia.<br>\n<br>\n<strong>Some of our Benefits</strong><br>\n<br>\n• Salary Packaging (including salary sacrificing additional superannuation and novated car leasing);<br>\n• Education and learning opportunities;<br>\n• Employee Assistance Program (for employees and immediate family);<br>\n• Reward &amp; Recognition (including years of service, employee of the year, birthday celebrations);<br>\n• Health &amp; Wellness Programs (including team challenges, Fitness Passport);<br>\n• Flexible work options (including Paid Parental and Adoptive Leave).<br>\n<br>\n<strong>Our Culture</strong><br>\n<br>\nWhat makes working with us so special is our culture, one that embraces our KGC core values (We Care, We Imagine, We Commit) and shared commitment to the development of high performing natural leaders within the organisation. We are proud to recruit, train and retain the most talented professionals on the Gold Coast, who share our customer (Think Like a Passenger) and safety focused (Zero Harm) approach. Our staff are at the core of what we do, and by cultivating the right environment and values, we have an engaged workforce with a sense of team spirit throughout the Company.<br>\n<br>\n<strong>About the Role<br>\n</strong><br>\n<em><strong>Delivery and implementation<br>\n</strong></em> <br>\n•\tDeliver technology and business improvement initiatives, defining scope, outcomes, milestones, risks and accountabilities. <br>\n•\tCoordinate stakeholders and vendors through testing, implementation, handover and adoption, escalating risks early. <br>\n<br>\n<strong><em>Business analysis and solution shaping<br>\n</em></strong> <br>\n•\tIdentify stakeholder needs and document processes, requirements, acceptance criteria and solution options. <br>\n•\tShape fit-for-purpose solutions that reduce complexity, manual effort and control gaps. <br>\n<br>\n<strong><em>Change, adoption and continuous improvement<br>\n</em></strong> <br>\n•\tCoordinate change, communications, training and readiness, supported by clear documentation. <br>\n•\tConfirm benefits, monitor adoption and data quality, and coordinate improvements.<br>\n<br>\n<strong><em>Vendor, governance and risk management</em></strong><br>\n<br>\n•\tSet delivery and acceptance expectations, track supplier commitment<br>\nand coordinate provider dependencies. <br>\n•\tEmbed ownership, support, security, privacy, records, change control and lifecycle requirements.<br>\n<br>\n<strong><em>Operational support</em></strong> <br>\n<br>\n•\tProvide occasional hands-on support to assist staff with IT issues, onsite triage, testing and deployment support while retaining provider accountability. <br>\nWorking approach and outcomes <br>\n•\tManage concurrent priorities autonomously, communicate clearly and balance delivery pace with governance and security. <br>\n•\tSuccess is measured by clear requirements, adopted outcomes, accountable vendors, effective handover and visible risk ownership. <br>\n<strong><br>\nTo be successful in this role, you will bring</strong><br>\n<strong><em><br>\nEssential</em></strong> <br>\n<br>\n•\tExperience delivering technology projects or business improvements through adoption and operational handover. <br>\n•\tBusiness analysis experience in requirements, process mapping, solution options and acceptance criteria. <br>\n•\tExperience leading projects or workstreams through planning, risk management, testing and implementation. <br>\n•\tExperience coordinating service providers and supporting change, training and adoption. <br>\n•\tExperience developing governance and operational documentation within service management, change and security processes. <br>\n•\tWorking knowledge of Microsoft 365 and contemporary business application administration, security and support. <br>\n•\tAbility to work autonomously, manage priorities and communicate with business, technical and vendor audiences. <br>\n•\tWillingness to provide occasional onsite and out-of-hours implementation support. <br>\n<strong><em><br>\nDesirable</em></strong> <br>\n<br>\n•\tRelevant qualification, certification or equivalent practical experience. <br>\n•\tExperience in a regulated, safety-critical, 24/7 or contracted operational environment. <br>\n•\tKnowledge of integrated management systems, IT/OT interfaces and associated controls. <br>\n•\tExperience with enterprise platforms and business applications such as ERP, finance, document and records management or service management, and with workflow automation or low-code tools such as Airtable, Power Platform or Power BI. <br>\n•\tExposure to cyber security, risk, compliance, records or operational resilience. <br>\n<br>\nAs part of the recruitment processes at Keolis Gold Coast, pre-employment checks include reference checks, National Police Certificate and Rail Safety Worker Medical. Further to this, successful candidates will be required to provide a National Police Certificate where requested throughout employment and maintain their Rail Safety Medical status.<br>\n<br>\nGiven the nature of the position you have applied for and the duties and responsibilities that it includes, KGC considers this to be a reasonable requirement. KGC will assess a candidate’s and employee’s criminal record history against the inherent requirements of the relevant position before making a determination as to their suitability or otherwise for the role.<br>\n<br>\nKeolis Gold Coast is committed to creating a workplace that builds respect, promotes diversity and encourages inclusiveness. <br>",
-      "keywords": [
-        "delivery",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "94711858",
-      "job_title": "Platform Engineer Lead",
-      "business_name": "Gold Coast Convention & Exhibition Centre",
-      "work_type": "Full time",
-      "job_type": "Networks & Systems Administration",
-      "pay_range": "",
-      "area": "Broadbeach, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94711858",
-      "advertiser_id": "21889565",
-      "posted_date": "2026-09-17T23:15:03Z",
-      "job_description": "<p>Ready to take technical ownership of the platforms behind one of Australia's premier event venues?</p>\n\n<p>We are looking for an experienced IT Platform Engineering Lead to take technical ownership of the platforms that underpin our corporate operations and the delivery of world-class events. As the senior technical authority for our environment, you will own platform architecture, technical standards and lifecycle strategy across infrastructure, network, cloud, identity and venue technology, working closely with the IT Manager and broader IT team to shape a modern, standardised and resilient technology environment.</p>\n<br><p><strong>THE ROLE</strong><br>\nThis is a broad technical leadership role combining architecture, engineering, governance and hands-on technical expertise. Your key responsibilities will include:</p>\n\n<ul>\n\t<li>Owning and evolving architecture across infrastructure, network, cloud, identity and endpoint platforms</li>\n\t<li>Acting as the technical design authority for infrastructure and platform changes</li>\n\t<li>Establishing standards, configuration baselines and repeatable design patterns across corporate and event technology environments</li>\n\t<li>Developing platform lifecycle strategies and maintaining a forward-looking technology roadmap</li>\n\t<li>Leading infrastructure design and procurement decisions, ensuring new technologies align with GCCEC's architectural direction and standards</li>\n\t<li>Driving platform resilience, availability, capacity and performance</li>\n\t<li>Defining and maintaining high-availability, backup and disaster recovery plans</li>\n\t<li>Ensuring cybersecurity principles and controls are embedded into platform architecture and engineering</li>\n\t<li>Leading technical root cause analysis following major incidents and driving improvements arising from those reviews</li>\n\t<li>Acting as the senior escalation point for complex or high-impact technical issues, including critical event scenarios</li>\n\t<li>Providing technical leadership and mentoring across the IT team, promoting strong documentation, knowledge sharing and engineering discipline</li>\n</ul>\n\n<p>A particularly important part of the role will be helping us continue the evolution from environments dependent on individual technical knowledge towards standardised, documented and repeatable platforms that can scale with the needs of the business.</p>\n\n<p><br>\n<strong>ABOUT YOU</strong><br>\nWe are looking for an experienced infrastructure or platform engineer who has progressed beyond simply administering technology and can think at an architecture and design level. You'll bring strong experience designing and managing enterprise technology platforms and be comfortable taking technical ownership of decisions, standards and long-term platform direction. Ideally, your technical background will include:</p>\n\n<ul>\n\t<li>Microsoft Azure, with Azure Local (highly regarded)</li>\n\t<li>Windows Server and desktop environments</li>\n\t<li>Complex Cisco routing, switching and wireless environments</li>\n\t<li>Palo Alto Networks security platforms</li>\n\t<li>Endpoint management</li>\n\t<li>Microsoft 365 administration</li>\n\t<li>Identity management including Active Directory and Entra ID</li>\n\t<li>Enterprise backup and recovery</li>\n\t<li>Enterprise application integration</li>\n</ul>\n\n<p>You'll also understand that technical leadership is about more than being the person with the answers. We want someone who documents well, shares knowledge, develops others and builds systems and standards that make the whole IT function stronger. Tertiary qualifications in Information Technology or a related discipline are desirable, together with relevant architecture-level or professional certifications across areas such as Azure, Cisco, cybersecurity or IT service management.</p>\n\n<p>&nbsp;</p>\n\n<p>Full Australian working rights are required for this position in addition to a probity check.</p>\n\n<p><br>\n<strong>WHY WORK WITH US? &nbsp;“It’s not what we do, it’s how we do it”!</strong>&nbsp;</p>\n\n<p>We pride ourselves on our values of Community, Initiative, Respect, Teamwork and Welcoming. &nbsp;These values sit at the heart of how we work, how we treat our people, represent our business and deliver outstanding events. &nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>Plus, we offer the following people perks:</p>\n\n<ul>\n\t<li>Free undercover parking in the heart of Broadbeach</li>\n\t<li>Discounted onsite team member café</li>\n\t<li>Flexible work arrangements</li>\n\t<li>Paid parental leave</li>\n\t<li>Discounted food and beverage and accommodation at The Star Entertainment Group properties</li>\n\t<li>Access to health &amp; wellbeing programs</li>\n\t<li>Ongoing learning and development opportunities</li>\n\t<li>Reward &amp; Recognition Program</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>Reaching Earthcheck Master Certification status we are an environmentally conscious and sustainability focused organisation that seeks to continuously educate, support and ensure our team members foster and understand the importance of our environmental stewardship.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>The Gold Coast Convention and Exhibition Centre is part of The Star Entertainment Group.<br>\nTo apply, please upload your cover letter and resume.</strong></p>",
-      "keywords": [
-        "platform",
-        "engineer"
-      ]
-    },
-    {
-      "job_id": "94711598",
-      "job_title": "IT Service Desk Analyst",
-      "business_name": "Stratco",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Ormeau, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94711598",
-      "advertiser_id": "31313862",
-      "posted_date": "2026-09-17T23:00:31Z",
-      "job_description": "<ul><li><strong>Supportive team that values initiative and collaboration </strong></li><li><strong>A culture that recognises great work</strong></li><li><strong>Ongoing career opportunities</strong></li></ul><p>When technology works, nobody notices. When it doesn't, you're the person everyone wants on speed dial.</p><p>We're looking for an IT Service Desk Analyst who thrives on solving problems, delivering exceptional customer experiences, and keeping people productive when technology gets in the way. You'll be the trusted first point of contact for our users, turning frustrations into solutions and ensuring every interaction leaves a positive impression.</p><p>This isn't just about resetting passwords and logging tickets. It's about being the face of IT, building trust, and making a genuine impact across Stratco.</p><p>Stratco is an Australian-owned innovator, manufacturer, and marketer of quality building and renovation solutions. With sophisticated manufacturing facilities, retail stores, and professional trade representation throughout Australia and New Zealand, Stratco has supplied a comprehensive range of products to the building and construction industries, and home improvement and DIY markets for over 75 years.</p><p>Your broader responsibilities will include:</p><ul><li>Manage and resolve helpdesk requests in a timely and effective manner</li><li>Troubleshooting network, hardware, software, printer, mobile devices, etc. issues</li><li>Maintain asset records and relevant documentation</li><li>Provide high level support to various industry and custom applications</li><li>Understanding of change, problem and release management principles&nbsp;</li><li>Develop checklists for typical problems, recommend procedure &amp; controls for prevention</li><li>Provide end user support to all Stratco sites nationally and internationally, some travel may be required</li><li>Collaborate with team members, other business areas and projects as required</li><li>Strict adherence to our critical safety rules &amp; contributing to a safe working environment</li></ul><p><strong>The individual</strong></p><p>We're on the lookout for a \"can do\", customer focused individual that can demonstrate:&nbsp;</p><ul><li>Experience in an IT Service Desk, Helpdesk, Desktop Support, or similar technical support role.</li><li>Applicable qualifications in an IT related discipline</li><li>A passion to deliver outstanding customer service with the ability to build and support professional working relationships at all levels</li><li>Highly developed time management, problem-solving and communication skills</li><li>Experience configuring, administering Microsoft 365, Microsoft Server products including Active Directory and Exchange</li><li>Knowledge of WAN/LAN, IP Networking, DHCP/DNS and general network principals</li><li>Knowledge of Windows desktop, Windows server environments including current and previous generations</li><li>ITIL certification desirable</li></ul><p><strong>Life at Stratco includes</strong>&nbsp;<br>Holistic Wellness &amp; Mental Health Support | 24/7 EAP to team members &amp; family&nbsp;|&nbsp;Flexible Working Arrangements |&nbsp;Team Member Discounts&nbsp;|&nbsp;Professional Development &amp; Career Growth | Competitive Remuneration |&nbsp;Positive Workplace Culture &amp; Inclusion&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br><strong>Our EVP&nbsp;</strong><br>At Stratco, manufacturing is our foundation, but our people are our future. We empower our team to grow and succeed, within an inclusive and collaborative environment, where every individual matters, and innovation thrives. We are committed to offering fulfilling and rewarding career paths, ongoing learning and development, and recognition for outstanding service. Join us and build the future&nbsp;you’ve&nbsp;always envisaged, while redefining outdoor living and improving the lifestyles of our customers.&nbsp;<br>We’re&nbsp;committed to fostering a workplace where&nbsp;everyone&nbsp;can thrive, understanding that careers evolve&nbsp;alongside&nbsp;life. Whether&nbsp;you’re&nbsp;advancing, reskilling, caregiving, or&nbsp;redefining&nbsp;you next&nbsp;chapter, at Stratco, we build roles that grow with you.&nbsp;</p><p><br>At Stratco, Safety is paramount, and we take every measure to ensure our team members&nbsp;‘Return Home Safe’.&nbsp;<br>&nbsp;<br>To see more information about Stratco &amp; our careers please visit –&nbsp;stratco.com.au/careers&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
-      "keywords": [
-        "it",
-        "service",
-        "desk",
-        "analyst"
-      ]
-    },
     {
       "job_id": "94691060",
       "job_title": "IT Support Engineer, Level 2 - ONGC",
@@ -649,7 +547,7 @@
     },
     {
       "job_id": "94686691",
-      "job_title": "NetSuite Developer – ERP Migration & Customisation",
+      "job_title": "Ostendo Developer – Short-Term Contract",
       "business_name": "Private Advertiser",
       "work_type": "Contract/Temp",
       "job_type": "Developers/Programmers",
@@ -659,13 +557,11 @@
       "url": "https://www.seek.com.au/job/94686691",
       "advertiser_id": "",
       "posted_date": "2026-09-17T01:08:50Z",
-      "job_description": "<p><strong>NetSuite Developer – ERP Migration &amp; Customisation</strong></p><p><strong>Contract:</strong> Short-term contract / project-based<br><strong>Location:</strong> Onsite - Ormeau, QLD<br><strong>Engagement:</strong> Immediate start preferred</p><p><strong>About the Role</strong></p><p>We are seeking an experienced <strong>NetSuite Developer</strong> for a short-term contract to support the implementation of NetSuite within an established wholesale business.</p><p>The role will have a strong focus on <strong>data migration and ETL from our legacy ERP into NetSuite</strong>, together with developing and customising NetSuite workflows to support our operational requirements.</p><p>This is a hands-on role suited to someone who understands both the technical capabilities of NetSuite and how ERP systems need to operate in a busy <strong>wholesale, inventory and distribution environment</strong>.</p><p><strong>Key Responsibilities</strong></p><ul><li><p>Assist with the <strong>migration of data from our legacy ERP into NetSuite</strong>, including extraction, transformation, cleansing, mapping, validation and import.</p></li><li><p>Develop and execute ETL processes for master and transactional data, including customers, suppliers, products/SKUs, pricing, inventory, purchase orders, sales orders and related records.</p></li><li><p>Perform data reconciliation and validation to ensure completeness and accuracy following migration.</p></li><li><p>Review existing business processes and translate operational requirements into effective <strong>NetSuite workflows and customisations</strong>.</p></li><li><p>Configure and customise NetSuite to support wholesale processes including:</p><ul><li><p>Sales order processing and fulfilment</p></li><li><p>Purchasing and replenishment</p></li><li><p>Inventory and warehouse management</p></li><li><p>Customer and supplier management</p></li><li><p>Pricing and discount structures</p></li><li><p>Import purchasing and inbound inventory</p></li><li><p>Order approvals and exception management</p></li><li><p>Invoicing, credits and related financial workflows</p></li></ul></li><li><p>Develop <strong>SuiteScript</strong> solutions where standard NetSuite functionality or SuiteFlow cannot adequately support business requirements.</p></li><li><p>Create and modify workflows, custom records, custom fields, forms, saved searches, reports and scripts.</p></li><li><p>Automate manual processes and improve workflow efficiency across sales, purchasing, inventory, warehouse and finance functions.</p></li><li><p>Troubleshoot migration, scripting, workflow and integration issues.</p></li><li><p>Document customisations, scripts, migration processes and key system configurations.</p></li><li><p>Work closely with internal stakeholders to understand current processes, identify gaps and develop practical NetSuite solutions.</p></li></ul><p><strong>About You</strong></p><p>You will be an experienced NetSuite developer or technical consultant who is comfortable working independently and delivering practical solutions within a defined implementation timeframe.</p><p>Ideally, you will have:</p><ul><li><p>Strong hands-on <strong>NetSuite development and customisation experience</strong>.</p></li><li><p>Demonstrated experience with <strong>ERP migrations and ETL</strong>, preferably involving migration from a legacy ERP into NetSuite.</p></li><li><p>Strong experience with <strong>SuiteScript 2.x/2.1</strong>.</p></li><li><p>Experience with <strong>SuiteFlow, SuiteBuilder, saved searches, custom records and custom forms</strong>.</p></li><li><p>Experience with CSV imports, data mapping, transformation, cleansing and reconciliation.</p></li><li><p>Understanding of NetSuite integrations and APIs, including <strong>SuiteTalk REST/SOAP and RESTlets</strong>, where required.</p></li><li><p>Strong understanding of <strong>wholesale, distribution and inventory-based business processes</strong>.</p></li><li><p>Experience working with sales orders, purchase orders, inventory, fulfilment, receipting and related financial transactions.</p></li><li><p>Ability to understand an existing operational process and determine whether it should be addressed through configuration, workflow or custom scripting.</p></li><li><p>Strong troubleshooting and problem-solving skills.</p></li><li><p>Clear documentation and communication skills.</p></li></ul><p><strong>Highly Regarded</strong></p><p>Experience with any of the following would be advantageous:</p><ul><li><p>High-volume wholesale or distribution businesses</p></li><li><p>Containerised/import purchasing and inbound logistics</p></li><li><p>Multi-location inventory</p></li><li><p>Complex customer pricing and discount structures</p></li><li><p>EDI or third-party system integrations</p></li><li><p>Warehouse and freight integrations</p></li><li><p>NetSuite WMS</p></li><li><p>NetSuite OneWorld</p></li><li><p>Large-scale ERP data migration and reconciliation</p></li></ul><p><strong>The Engagement</strong></p><p>This is a <strong>short-term, project-focused contract</strong> with clearly defined implementation and migration objectives. The successful contractor will work closely with our internal team and NetSuite implementation resources to help ensure our legacy data is migrated accurately and NetSuite is configured and customised to support our day-to-day business processes.</p><p>We are particularly interested in someone who can combine <strong>strong NetSuite technical capability with an understanding of how a wholesale business actually operates</strong>.</p><p>If you have hands-on experience delivering NetSuite migrations, developing SuiteScript customisations and building practical workflows for wholesale or distribution businesses, we would like to hear from you.</p>",
+      "job_description": "<p><strong>$100 per hour | Short-term contract | Potential for extension</strong></p><p>We are seeking an experienced <strong>Ostendo Developer</strong> to join our team on a short-term contract, with the potential for extension. <strong>If you do not have specific Ostendo development experience, do not apply as your application will not be considered</strong>.</p><p>This is a hands-on development role focused on <strong>Ostendo scripting, workflow implementation, automation and system improvement</strong>. You will work closely with the business to develop practical solutions that improve processes, efficiency and the user experience.</p><p><strong>About the Role</strong></p><p>You will be responsible for developing and enhancing our Ostendo ERP environment, with a particular focus on scripting and workflow automation.</p><p><strong>Key responsibilities include:</strong></p><ul><li><p>Developing, maintaining and modifying <strong>Ostendo scripts</strong>.</p></li><li><p>Automating business processes, data updates and repetitive tasks.</p></li><li><p>Developing scripts for <strong>business rules, validations, calculations and automated actions</strong>.</p></li><li><p>Designing and implementing <strong>Ostendo workflows</strong> to streamline business processes.</p></li><li><p>Translating manual processes into automated workflows, including approvals, validations, notifications and system actions.</p></li><li><p>Troubleshooting and improving existing scripts, workflows and customisations.</p></li><li><p>Developing and maintaining <strong>custom data screens</strong> and functionality.</p></li><li><p>Developing reports, queries and data solutions within Ostendo.</p></li><li><p>Working with SQL and Ostendo data to investigate issues and develop solutions.</p></li><li><p>Working with users and stakeholders to understand requirements and deliver practical solutions.</p></li><li><p>Testing and documenting new functionality and system changes.</p></li><li><p>Providing technical support and troubleshooting for Ostendo users.</p></li><li><p>Assisting with the <strong>upgrade from Ostendo Build 242 to Build 243 Continuum</strong>, including testing existing scripts, workflows and customisations.</p></li></ul><p><strong>About You</strong></p><p><strong>To be successful in this role, you will have:</strong></p><ul><li><p>Demonstrated <strong>hands-on Ostendo development experience</strong>.</p></li><li><p>Strong experience with <strong>Ostendo scripting</strong>.</p></li><li><p>Experience designing and implementing <strong>Ostendo workflows and automation</strong>.</p></li><li><p>Experience with Ostendo customisation, including data screens and reports.</p></li><li><p>Good understanding of SQL and relational databases.</p></li><li><p>Strong analytical and problem-solving skills.</p></li><li><p>The ability to understand business requirements and translate them into effective technical solutions.</p></li><li><p>The ability to work independently and hit the ground running.</p></li><li><p>Strong communication skills and a practical, solutions-focused approach.</p></li></ul><p><strong>Why Join Us?</strong></p><p>This is an opportunity to work on meaningful Ostendo development projects where your skills will have a direct impact on improving business processes and automation.</p><p>The initial engagement is <strong>short term at $100 per hour</strong>, with the <strong>possibility of extension</strong> for the right person.</p><p>If you are an experienced Ostendo Developer with strong scripting and workflow skills, we would like to hear from you.</p><p><strong>Apply now with your CV and a brief summary of your Ostendo experience and availability.</strong></p>",
       "keywords": [
-        "netsuite",
+        "ostendo",
         "developer",
-        "erp",
-        "migration",
-        "customisation"
+        "short"
       ]
     },
     {
@@ -1856,6 +1752,24 @@
         "cyber",
         "incident",
         "manager"
+      ]
+    },
+    {
+      "job_id": "94066770",
+      "job_title": "Business Analyst",
+      "business_name": "Ringers Western",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "",
+      "area": "Helensvale, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94066770",
+      "advertiser_id": "62403670",
+      "posted_date": "2026-08-19T02:35:10Z",
+      "job_description": "<p>Ringers Western is growing, and so is our technology team. We are looking for a Business Analyst to join our high performing tech team and grow into a career in business analysis and systems delivery.</p><p>You will be the person who drives improvement, forms part of key project teams and picks up the issues that are too tricky for support - the ones that need real investigation, some detective work, and a properly thought through solution. Alongside that, you will get hands on exposure to systems documentation, data analysis and process improvement, working closely with every member of the team.</p><p>If you are an analytical thinker who loves solving problems, enjoys talking to people as much as systems, and wants a genuine pathway into a Business Analyst career, we would love to hear from you.</p><p><strong>About the role</strong></p><p>You will be the person who drives improvement, forms part of key project teams and picks up the issues that are too tricky for support - the ones that need real investigation, some detective work, and a properly thought through solution. Alongside that, you will get hands on exposure to systems documentation, data analysis and process improvement, working closely with every member of the team.</p><p><strong>Key responsibilities</strong></p><ul><li><p>Drive improvement and form part of key project teams</p></li><li><p>Investigate complex issues requiring detective work and properly thought through solutions</p></li><li><p>Gather, document, and sign off requirements independently</p></li><li><p>Engage directly with business stakeholders at manager/head-of level, including running workshops and handling conflicting priorities</p></li><li><p>Write test cases, run UAT with business users, and manage defect triage through to go-live</p></li><li><p>Manage vendor and implementation-partner relationships, holding third parties to account on scope, defects, and delivery dates</p></li><li><p>Produce strong written documentation including requirements docs, process maps, and user stories</p></li><li><p>Perform systems documentation, data analysis and process improvement work</p></li></ul><p><strong>About you</strong></p><ul><li><p>3–5+ years in a delivery BA role, not a support or reporting role with \"analyst\" in the title</p></li><li><p>Hands-on ERP experience - has worked on an ERP implementation, upgrade, or as ongoing BA for a live ERP, with ability to discuss specific modules (inventory, purchasing, order management, finance integration)</p></li><li><p>Independent requirements ownership - has gathered, documented, and signed off requirements without a senior BA reviewing their work</p></li><li><p>Direct business stakeholder engagement at manager/head-of level, including running workshops and handling conflicting priorities</p></li><li><p>UAT ownership - has written test cases, run UAT with business users, and managed defect triage through to go-live</p></li><li><p>Vendor and implementation-partner management experience - can hold a third party to account on scope, defects, and delivery dates</p></li><li><p>Strong written documentation capability</p></li><li><p>Retail, e-commerce, wholesale, or apparel/consumer goods domain experience strongly considered</p></li><li><p>Multi-channel systems exposure: ERP + e-commerce platform + WMS/3PL + POS, and the integrations between them strongly considered</p></li><li><p>Integration literacy - can read an API spec, follow data between systems, and specify a mapping strongly considered</p></li></ul><p><strong>Nice to have (not essential)</strong></p><ul><li><p>Agile delivery (backlogs, sprints, refinement) alongside more traditional documentation</p></li><li><p>Process mapping tooling: Visio, Lucidchart, Miro</p></li><li><p>SQL or reporting capability for self-service data investigation</p></li><li><p>Prior experience being the sole BA in an organisation</p></li></ul><h2><strong>Why Join Us</strong></h2><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clear growth path within a supportive, close knit tech team</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Direct mentoring from skilled &amp; experienced team members</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Variety. No two days look the same between support, projects and process improvement across varied systems, departments and channels</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Laptop and equipment provided</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Based at our Helensvale office, Monday to Friday, 8am to 4pm</p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Generous staff discount on Ringers products</p>",
+      "keywords": [
+        "business",
+        "analyst"
       ]
     },
     {
