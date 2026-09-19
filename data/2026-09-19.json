@@ -1,488 +1,498 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-19",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-20T07:57:11.442182+10:00",
-  "total_jobs": 70,
+  "scraped_at": "2026-09-19T08:04:52.499077+10:00",
+  "total_jobs": 72,
   "keywords": [
     {
       "term": "support",
       "count": 17,
-      "share": 0.2429
+      "share": 0.2361
     },
     {
       "term": "analyst",
-      "count": 14,
-      "share": 0.2
+      "count": 15,
+      "share": 0.2083
     },
     {
       "term": "it",
       "count": 14,
-      "share": 0.2
+      "share": 0.1944
     },
     {
       "term": "engineer",
       "count": 12,
-      "share": 0.1714
+      "share": 0.1667
     },
     {
       "term": "developer",
       "count": 9,
-      "share": 0.1286
+      "share": 0.125
     },
     {
       "term": "business",
       "count": 6,
-      "share": 0.0857
+      "share": 0.0833
     },
     {
       "term": "data",
       "count": 6,
-      "share": 0.0857
+      "share": 0.0833
+    },
+    {
+      "term": "ai",
+      "count": 6,
+      "share": 0.0833
     },
     {
       "term": "software",
       "count": 6,
-      "share": 0.0857
+      "share": 0.0833
+    },
+    {
+      "term": "manager",
+      "count": 6,
+      "share": 0.0833
     },
     {
       "term": "service",
       "count": 6,
-      "share": 0.0857
-    },
-    {
-      "term": "ai",
-      "count": 5,
-      "share": 0.0714
+      "share": 0.0833
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.0714
-    },
-    {
-      "term": "manager",
-      "count": 5,
-      "share": 0.0714
-    },
-    {
-      "term": "administrator",
-      "count": 5,
-      "share": 0.0714
+      "share": 0.0694
     },
     {
       "term": "desk",
       "count": 5,
-      "share": 0.0714
+      "share": 0.0694
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.0714
+      "share": 0.0694
+    },
+    {
+      "term": "administrator",
+      "count": 5,
+      "share": 0.0694
     },
     {
       "term": "specialist",
       "count": 4,
-      "share": 0.0571
+      "share": 0.0556
     },
     {
       "term": "technician",
       "count": 4,
-      "share": 0.0571
+      "share": 0.0556
     },
     {
       "term": "product",
       "count": 4,
-      "share": 0.0571
+      "share": 0.0556
     },
     {
       "term": "intelligence",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0278
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0278
     },
     {
       "term": "platform",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0278
     },
     {
       "term": "net",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0278
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0278
     },
     {
       "term": "migration",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0278
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0278
     },
     {
       "term": "desktop",
       "count": 2,
-      "share": 0.0286
-    },
-    {
-      "term": "month",
-      "count": 2,
-      "share": 0.0286
-    },
-    {
-      "term": "broadbeach",
-      "count": 2,
-      "share": 0.0286
+      "share": 0.0278
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0278
+    },
+    {
+      "term": "broadbeach",
+      "count": 2,
+      "share": 0.0278
+    },
+    {
+      "term": "month",
+      "count": 2,
+      "share": 0.0278
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0278
+    },
+    {
+      "term": "cyber",
+      "count": 2,
+      "share": 0.0278
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0278
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "analysis",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "capability",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "utilities",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "science",
       "count": 1,
-      "share": 0.0143
-    },
-    {
-      "term": "reporting",
-      "count": 1,
-      "share": 0.0143
-    },
-    {
-      "term": "salesforce",
-      "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "jetstar",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "retail",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
+    },
+    {
+      "term": "reporting",
+      "count": 1,
+      "share": 0.0139
+    },
+    {
+      "term": "salesforce",
+      "count": 1,
+      "share": 0.0139
+    },
+    {
+      "term": "solutions",
+      "count": 1,
+      "share": 0.0139
     },
     {
       "term": "architech",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "dynamics",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0143
-    },
-    {
-      "term": "integration",
-      "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
+    },
+    {
+      "term": "integration",
+      "count": 1,
+      "share": 0.0139
     },
     {
       "term": "assisted",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "azure",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "netsuite",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "erp",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "customisation",
       "count": 1,
-      "share": 0.0143
-    },
-    {
-      "term": "native",
-      "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "php",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
+    },
+    {
+      "term": "native",
+      "count": 1,
+      "share": 0.0139
     },
     {
       "term": "frontend",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "groundworks",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "modern",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "workplace",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "its",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "asset",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "technical",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "pimpama",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "campus",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "experience",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "required",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "inventory",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "cruise",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "ciam",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "program",
       "count": 1,
-      "share": 0.0143
-    },
-    {
-      "term": "cyber",
-      "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "uplift",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
+    },
+    {
+      "term": "incident",
+      "count": 1,
+      "share": 0.0139
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "change",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "readiness",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "ecommerce",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "catalogue",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     },
     {
       "term": "applied",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0139
     }
   ],
   "jobs": [
@@ -1808,6 +1818,44 @@
         "data",
         "integration",
         "engineer"
+      ]
+    },
+    {
+      "job_id": "94098702",
+      "job_title": "AI Solutions Analyst",
+      "business_name": "Dreamworld",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "",
+      "area": "Coomera, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94098702",
+      "advertiser_id": "21549994",
+      "posted_date": "2026-08-20T04:33:39Z",
+      "job_description": "<p><strong>Turn “could AI help us with this?” into solutions that actually work.</strong></p><p>Dreamworld is looking for an AI Solutions Analyst to join our Information Technology team and help turn real business challenges into practical, well-governed AI solutions across Dreamworld, WhiteWater World and SkyPoint.<br>This is a hands-on role for someone who enjoys getting close to the problem, understanding what teams actually need, and then building, testing and supporting the solution themselves.<br>Using approved platforms including <strong>Microsoft Copilot, Anthropic Claude and OpenAI ChatGPT Business</strong>, you will help us make generative AI useful, safe and genuinely valuable across the organisation.</p><p><strong>What’s the gig?</strong></p><p>Reporting to the Business Systems Solutions Manager, you will work with teams across the business to understand operational challenges, translate requirements into clear solution briefs and identify the right solution — including when AI isn’t the answer.</p><p>You will build and configure AI-supported solutions, workflows and automations, test and refine them with users, document what you create and support adoption through practical training and guidance.<br>You will also play an important role in ensuring every solution meets our Generative AI Usage Policy, data governance and security requirements.</p><p><strong>What we need from you</strong></p><p>You will bring <strong>3–6 years’ experience in business analysis, systems analysis or a similar role bridging business and technology</strong>, plus hands-on workplace experience using generative AI tools such as Microsoft Copilot, ChatGPT or Claude.<br>You will be confident gathering requirements, designing workflows, prompt engineering, testing solutions with users and communicating with both technical and non-technical stakeholders.<br>Experience with <strong>Power Automate, Power Platform, scripting, Microsoft 365, SharePoint or Power BI </strong>would be well regarded.<br>Most importantly, you will bring curiosity, sound judgement and the ability to recognise both where AI can add value — and where it shouldn’t be used.</p><p><strong>Diversity and Inclusion</strong></p><p>At Dreamworld, WhiteWater World and SkyPoint, we’re committed to creating an inclusive and accessible environment where everyone, guests and Team Members alike, feel valued and respected. We celebrate the cultural and personal differences of our team, representative of the diverse community in which we operate. By drawing on the unique talents and contributions of each individual, we create unforgettable memories for our guests.</p><p>Our selection process may include a one-way video interview, face-to-face or group interview, health assessment, reference checks, criminal history check, and verification of your working rights. We are committed to an inclusive and accessible recruitment experience, therefore you will be provided opportunity to advise of any accessibility needs or required accommodations, as you progress through the recruitment process. &nbsp;&nbsp;</p><p><strong>Why Dreamworld?</strong></p><p>You will be based at our <strong>Coomera, Gold Coast</strong> site, with hybrid working considered, and have the opportunity to help shape how AI is used across one of Australia’s most unique operating environments.<br>Our Team Members also enjoy complimentary entry to Dreamworld, WhiteWater World and SkyPoint, discounts, free onsite parking and access to Perkbox savings.</p><p><strong>Ready to help turn AI possibilities into practical solutions?</strong></p><p><strong>APPLY ONLINE NOW!!</strong></p>\n\n",
+      "keywords": [
+        "ai",
+        "solutions",
+        "analyst"
+      ]
+    },
+    {
+      "job_id": "94090660",
+      "job_title": "Cyber Incident Manager",
+      "business_name": "Solis Security",
+      "work_type": "Full time",
+      "job_type": "Security",
+      "pay_range": "",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94090660",
+      "advertiser_id": "11413832",
+      "posted_date": "2026-08-20T01:11:07Z",
+      "job_description": "<strong>Description</strong><div><strong>Help organisations navigate cyber incidents when it matters most</strong></div><div>\n<br>Are you calm under pressure, confident making decisions, and able to communicate effectively with people at every level of an organisation?<br><br>\n</div><div>We're looking for a <strong>Cyber Incident Manager</strong> to coordinate and manage cyber incidents from initial notification through to resolution. Whilst you'll work closely with technical specialists, this role is focused on <strong>project coordination, stakeholder management, communication, organisation and decision-making</strong> rather than hands-on technical cybersecurity.<br><br>\n</div><div>You will become the central point of coordination during an incident, ensuring the right people are engaged, actions are progressing, stakeholders are informed, and clients receive an exceptional experience during what is often a challenging and stressful time.<br><br>\n</div><div>This role is ideal for someone with strong organisational skills, professional confidence, excellent communication abilities and the judgement to assess information, make decisions and back themselves.<br><br><strong>Location: </strong>Gold Coast/Brisbane</div><br><br><strong>What You'll Be Doing</strong><ul>\n<li>Managing cyber incidents from triage through to resolution.</li>\n<li>Acting as the primary point of contact for clients during an incident.</li>\n<li>Coordinating technical specialists, investigators and support teams to ensure actions are completed.</li>\n<li>Leading incident calls and stakeholder meetings.</li>\n<li>Managing action plans, timelines, priorities and deliverables.</li>\n<li>Providing regular updates to clients, insurers, legal counsel and internal stakeholders.</li>\n<li>Translating technical information into clear business-focused communication.</li>\n<li>Working closely with executives and senior leaders to support decision making.</li>\n<li>Maintaining incident records, reports and documentation.</li>\n<li>Supporting lessons learned and continuous improvement activities.</li>\n<li>Building trusted relationships with clients and key stakeholders.</li>\n<li>Identifying risks, issues and opportunities for improvement throughout the incident lifecycle.</li>\n</ul><br><br><strong>What We're Looking For</strong><ul>\n<li>Exceptional communication and stakeholder management skills.</li>\n<li>Confidence speaking with people at all levels, including CEOs, CFOs, General Managers, IT Managers and business owners.</li>\n<li>Strong decision-making skills and the confidence to make recommendations and stand behind them.</li>\n<li>Strong project coordination or project management skills.</li>\n<li>Excellent attention to detail and organisational capability.</li>\n<li>Ability to manage multiple priorities and competing deadlines.</li>\n<li>Strong written communication and report-writing skills.</li>\n<li>Professional judgement and problem-solving ability.</li>\n<li>Commitment to delivering an exceptional customer experience.</li>\n</ul><div><strong>Highly Regarded</strong></div><ul>\n<li>Experience in incident management, project management, operations, client service, consulting or professional services environments.</li>\n<li>Experience coordinating complex projects or stakeholder groups.</li>\n<li>Cybersecurity knowledge is beneficial but not required.</li>\n<li>Experience working in insurance, legal, technology or risk-related industries.</li>\n</ul><br><br><strong>Why You'll Love Working With Us</strong><ul>\n<li>Be part of a GLOBAL team (we have offices in the USA, UK and Australia)</li>\n<li>State of the art modern office</li>\n<li>Supportive team culture and modern office environment</li>\n<li>Opportunities to grow your skills and take on more responsibility</li>\n<li>Above award wages + performance bonuses</li>\n<li>Fun team events and a workplace that values your contribution</li>\n<li>No formal qualifications needed — we care more about your attitude, work ethic, and willingness to learn.</li>\n</ul>",
+      "keywords": [
+        "cyber",
+        "incident",
+        "manager"
       ]
     },
     {
