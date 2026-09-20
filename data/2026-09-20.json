@@ -1,443 +1,488 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-20",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-21T08:03:20.815412+10:00",
-  "total_jobs": 62,
+  "scraped_at": "2026-09-20T07:57:11.442182+10:00",
+  "total_jobs": 70,
   "keywords": [
     {
       "term": "support",
-      "count": 16,
-      "share": 0.2581
-    },
-    {
-      "term": "it",
-      "count": 13,
-      "share": 0.2097
+      "count": 17,
+      "share": 0.2429
     },
     {
       "term": "analyst",
-      "count": 12,
-      "share": 0.1935
+      "count": 14,
+      "share": 0.2
+    },
+    {
+      "term": "it",
+      "count": 14,
+      "share": 0.2
     },
     {
       "term": "engineer",
-      "count": 10,
-      "share": 0.1613
+      "count": 12,
+      "share": 0.1714
     },
     {
       "term": "developer",
-      "count": 7,
-      "share": 0.1129
+      "count": 9,
+      "share": 0.1286
+    },
+    {
+      "term": "business",
+      "count": 6,
+      "share": 0.0857
+    },
+    {
+      "term": "data",
+      "count": 6,
+      "share": 0.0857
     },
     {
       "term": "software",
       "count": 6,
-      "share": 0.0968
+      "share": 0.0857
     },
     {
-      "term": "business",
-      "count": 5,
-      "share": 0.0806
+      "term": "service",
+      "count": 6,
+      "share": 0.0857
     },
     {
       "term": "ai",
       "count": 5,
-      "share": 0.0806
-    },
-    {
-      "term": "data",
-      "count": 5,
-      "share": 0.0806
+      "share": 0.0714
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.0806
+      "share": 0.0714
+    },
+    {
+      "term": "manager",
+      "count": 5,
+      "share": 0.0714
     },
     {
       "term": "administrator",
       "count": 5,
-      "share": 0.0806
+      "share": 0.0714
     },
     {
-      "term": "service",
+      "term": "desk",
       "count": 5,
-      "share": 0.0806
+      "share": 0.0714
+    },
+    {
+      "term": "officer",
+      "count": 5,
+      "share": 0.0714
     },
     {
       "term": "specialist",
       "count": 4,
-      "share": 0.0645
-    },
-    {
-      "term": "manager",
-      "count": 4,
-      "share": 0.0645
-    },
-    {
-      "term": "officer",
-      "count": 4,
-      "share": 0.0645
-    },
-    {
-      "term": "desk",
-      "count": 4,
-      "share": 0.0645
+      "share": 0.0571
     },
     {
       "term": "technician",
       "count": 4,
-      "share": 0.0645
+      "share": 0.0571
     },
     {
       "term": "product",
       "count": 4,
-      "share": 0.0645
+      "share": 0.0571
     },
     {
       "term": "intelligence",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0286
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0286
     },
     {
       "term": "platform",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0286
     },
     {
       "term": "net",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0286
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0286
     },
     {
       "term": "migration",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0286
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0286
     },
     {
       "term": "desktop",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0286
     },
     {
       "term": "month",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0286
+    },
+    {
+      "term": "broadbeach",
+      "count": 2,
+      "share": 0.0286
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0286
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0323
+      "share": 0.0286
+    },
+    {
+      "term": "security",
+      "count": 2,
+      "share": 0.0286
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "analysis",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "capability",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "utilities",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "science",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "reporting",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
+    },
+    {
+      "term": "jetstar",
+      "count": 1,
+      "share": 0.0143
+    },
+    {
+      "term": "retail",
+      "count": 1,
+      "share": 0.0143
     },
     {
       "term": "architech",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "dynamics",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
+    },
+    {
+      "term": "integration",
+      "count": 1,
+      "share": 0.0143
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "assisted",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "azure",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "netsuite",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "erp",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "customisation",
       "count": 1,
-      "share": 0.0161
-    },
-    {
-      "term": "php",
-      "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "native",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
+    },
+    {
+      "term": "php",
+      "count": 1,
+      "share": 0.0143
+    },
+    {
+      "term": "frontend",
+      "count": 1,
+      "share": 0.0143
+    },
+    {
+      "term": "backend",
+      "count": 1,
+      "share": 0.0143
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
+    },
+    {
+      "term": "groundworks",
+      "count": 1,
+      "share": 0.0143
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "modern",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "workplace",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "its",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "asset",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "technical",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0161
-    },
-    {
-      "term": "msp",
-      "count": 1,
-      "share": 0.0161
-    },
-    {
-      "term": "experience",
-      "count": 1,
-      "share": 0.0161
-    },
-    {
-      "term": "required",
-      "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "pimpama",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "campus",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
+    },
+    {
+      "term": "msp",
+      "count": 1,
+      "share": 0.0143
+    },
+    {
+      "term": "experience",
+      "count": 1,
+      "share": 0.0143
+    },
+    {
+      "term": "required",
+      "count": 1,
+      "share": 0.0143
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "inventory",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "cruise",
       "count": 1,
-      "share": 0.0161
-    },
-    {
-      "term": "broadbeach",
-      "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "ciam",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
-      "term": "security",
+      "term": "program",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
+    },
+    {
+      "term": "cyber",
+      "count": 1,
+      "share": 0.0143
+    },
+    {
+      "term": "uplift",
+      "count": 1,
+      "share": 0.0143
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "change",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "readiness",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "ecommerce",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "catalogue",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     },
     {
       "term": "applied",
       "count": 1,
-      "share": 0.0161
+      "share": 0.0143
     }
   ],
   "jobs": [
@@ -1610,6 +1655,159 @@
         "service",
         "desk",
         "analyst"
+      ]
+    },
+    {
+      "job_id": "94130760",
+      "job_title": "IT Support Officer - Broadbeach, QLD",
+      "business_name": "Ignite",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Broadbeach, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94130760",
+      "advertiser_id": "55324746",
+      "posted_date": "2026-08-21T07:01:10Z",
+      "job_description": "<p>&nbsp;</p>\n<div>Ignite Travel Group is looking for an IT Support Analyst to join our Technology team and play a key role in keeping our people connected, productive, and supported. Reporting to the IT Operations Manager, you will work closely with managers and team members across the business, delivering exceptional technical support and maintaining a reliable computing environment. This is a hands-on opportunity where you'll troubleshoot issues, support network infrastructure, deploy new technology, and contribute to continuous improvement initiatives that enhance the overall employee experience.</div>\n<p>&nbsp;</p>\n<p><strong>A day in the life:</strong></p>\n<div>\n<ul>\n<li>Provide first-line technical support to end-users, resolving hardware, software, and system issues in a timely manner.</li>\n<li>Manage incidents and service requests through the ticketing system, ensuring accurate documentation and SLA compliance.</li>\n<li>Install, configure, maintain, and troubleshoot computer hardware, peripherals, and software applications.</li>\n<li>Perform system upgrades, software updates, and security patching activities.</li>\n<li>Support LAN, WAN, and WLAN environments, including troubleshooting connectivity and network-related issues.</li>\n<li>Deploy and configure new laptops, workstations, mobile devices, and user accounts in line with security requirements.</li>\n<li>Maintain IT security standards through user access management, malware protection, backups, and policy compliance.</li>\n<li>Identify and implement opportunities to improve IT processes, service delivery, and operational efficiency.</li>\n<li>Contribute to a safe, inclusive, and accessible work environment where all Flighties feel welcomed, respected, and supported to thrive.</li>\n</ul>\n</div>\n<p>&nbsp;</p>\n<p><strong>Who you are:</strong></p>\n<div>\n<ul>\n<li>Bachelor's degree in Information Technology, Computer Science, or a related discipline, or equivalent practical experience.</li>\n<li>Proven experience in an IT Helpdesk, Service Desk, Desktop Support, or similar technical support environment.</li>\n<li>Demonstrated experience supporting users, ICT systems, and multi-site technology environments.</li>\n<li>Strong knowledge of LAN, WAN, WLAN infrastructure, networking fundamentals, and troubleshooting techniques.</li>\n<li>Experience supporting routers, switches, wireless access points, and network connectivity.</li>\n<li>Proficiency supporting Windows, macOS, and common business software applications.</li>\n<li>Strong understanding of IT security standards, controls, and best practices.</li>\n<li>Excellent communication, problem-solving, and customer service skills, with the ability to work independently and collaboratively.</li>\n</ul>\n</div>\n<p>&nbsp;</p>\n<p><strong>What you'll enjoy:</strong></p>\n<p>&nbsp;</p>\n<div>\n<p>📚&nbsp;Ongoing skills development</p>\n</div>\n<div>\n<p>🚀&nbsp;Catapult your career across a network of brands and businesses in an evolving industry</p>\n</div>\n<div>\n<p>✈️&nbsp;Say no to full price! Nab discounts on travel and more thanks to our sweet rewards program</p>\n</div>\n<div>\n<p>👩‍⚕️&nbsp;Access to industry leading health and well - being programs and financial advisors</p>\n</div>\n<div>\n<p>🌴&nbsp;Set up shop in a swanky beachfront office in Broadbeach</p>\n</div>\n<div>\n<p>💃🏿&nbsp;Enjoy social events to promote networking, celebration of wins, and sometimes just for fun!</p>\n</div>\n<div>\n<p>&nbsp;👐🏻&nbsp;Take volunteer leave as part of giving back to the local community</p>\n<p>#LI-KP1#IGNT#LI-Onsite</p>\n</div>\n<p>&nbsp;</p>",
+      "keywords": [
+        "it",
+        "support",
+        "officer",
+        "broadbeach"
+      ]
+    },
+    {
+      "job_id": "94125889",
+      "job_title": "Groundworks Engineer",
+      "business_name": "Mabey Hire Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Engineering - Software",
+      "pay_range": "",
+      "area": "Yatala, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94125889",
+      "advertiser_id": "26986230",
+      "posted_date": "2026-08-21T04:47:52Z",
+      "job_description": "<h2><strong>Build Your Future with Mabey Hire</strong></h2><p><strong>Where Trust, Service &amp; Progress Drive Success</strong></p><p><strong>Mabey Hire Pty Ltd</strong> is an industry leader in engineered products and services for the civil construction and infrastructure sectors across Australia and New Zealand. We specialise in groundworks and shoring equipment—helping build the foundations of tomorrow’s infrastructure.</p><p>We are passionate about what we do, proud of the role we play in major projects, and driven by results that matter.</p><p><br></p><p>Due to continued growth and success, we are looking for a <strong>civil engineer</strong> with experience in <strong>groundworks</strong> to join our supportive and inclusive engineering team <strong>based in Yatala, Queensland.</strong></p><p>This is an exciting opportunity for an engineer who is ready to take the next step in their career, working across engineering design, customer solutions, site support and project delivery.</p><p><br></p><p><strong>The Role: Temporary Works Engineer – Groundworks</strong></p><p>This is a multi-functional engineering role that sits at the intersection of engineering, construction and business.</p><p>You will work closely with contractors, consultants, sales teams and managers to develop safe, practical and cost-effective temporary works solutions using Mabey's range of shoring and groundworks equipment.</p><p>You'll be involved throughout the project lifecycle — from pre-tender design and equipment selection through to construction, site support and project completion.</p><p>The role provides an opportunity to apply your existing engineering knowledge while continuing to develop your expertise in temporary works, structural steel and geotechnical engineering.</p><p><strong>Your Key Responsibilities</strong></p><ul><li><p>Provide technical engineering support to customers from pre-tender through to project completion.</p></li><li><p>Develop safe, practical and cost-effective temporary works and groundworks solutions using Mabey's range of equipment.</p></li><li><p>Prepare engineering calculations, designs, drawings and technical documentation.</p></li><li><p>Specify appropriate Mabey equipment based on project requirements, engineering principles and construction methodology.</p></li><li><p>Apply structural engineering principles to the analysis and design of temporary steel structures in accordance with AS 4100.</p></li><li><p>Apply geotechnical engineering principles to excavation support, retaining walls, sheet piling and groundworks solutions.</p></li><li><p>Review site conditions, drawings and geotechnical information to develop practical engineering solutions.</p></li><li><p>Provide technical and engineering support for live projects and assist customers with installation and de-installation methodologies.</p></li><li><p>Attend customer meetings, site visits and project discussions as required.</p></li><li><p>Support the Sales team by providing technical input during tenders, quotations and customer presentations.</p></li><li><p>Develop and maintain strong relationships with contractors, consultants and internal stakeholders.</p></li><li><p>Support the development of engineering knowledge and product understanding across local branches.</p></li><li><p>Assist with training and mentoring less experienced engineers and team members.</p></li><li><p>Contribute to the growth and promotion of Mabey Engineering Services and the broader capabilities of Mabey.</p></li></ul><p><br></p><p><strong>What We're Looking For</strong></p><p>We're looking for an engineer who combines solid technical capability with a practical, solutions-focused mindset.</p><p><strong>Essential</strong></p><ul><li><p>Bachelor's degree in civil or structural engineering or equivalent.</p></li><li><p>An interest in structural, geotechnical, temporary works or construction engineering.</p></li><li><p>Strong skills in structural steel analysis and design applying AS 4100.</p></li><li><p>Experience or demonstrated capability in geotechnical design, including retaining walls, excavation support and/or sheet piling.</p></li><li><p>Experience with temporary works design methodologies and/or temporary support systems.</p></li><li><p>Good working knowledge of Autodesk software: AutoCAD, Revit &amp; Inventor and engineering drafting.</p></li><li><p>Ability to develop safe and practical installation and de-installation methodologies for temporary support equipment.</p></li><li><p>Strong analytical and problem-solving skills.</p></li><li><p>Good communication skills and the ability to work effectively with customers, contractors, consultants and internal teams.</p></li><li><p>Ability to work independently while also contributing positively to a collaborative team environment.</p></li></ul><p><strong>Desirable</strong></p><p>Experience or knowledge in one or more of the following would be advantageous:</p><ul><li><p>RPEQ / CPEng with a clear pathway to completion.</p></li><li><p>Sheet piling and retaining wall design</p></li><li><p>Trench shoring and excavation support</p></li><li><p>Hydraulic shoring and temporary propping systems</p></li><li><p>Structural steel and aluminium design</p></li><li><p>Bailey or panel bridging systems</p></li><li><p>Construction methodology and site-based engineering</p></li></ul><p><br></p><p><strong>What’s in It for You?</strong></p><ul><li><p>Competitive salary</p></li><li><p>Regular salary review periods</p></li><li><p>Career growth and promotion opportunities</p></li><li><p>On-the-job coaching and technical development</p></li><li><p>In-house technical training</p></li><li><p>External training opportunities with equipment suppliers</p></li></ul><ul><li><p>Exposure to a diverse range of construction and infrastructure projects</p></li><li><p>A supportive and inclusive team environment</p></li><li><p>The opportunity to build and develop your career within a growing engineering business</p></li></ul><p><br></p><p><strong>Why Mabey Hire?</strong></p><p>Our Vision is clear:</p><p><strong>Uncompromising Service to Deliver Successful Projects.</strong></p><p>When you join Mabey Hire, you become part of a business that lives its values every day:</p><p><strong>Trust</strong> – Doing the right thing, always<br><strong>Service</strong> – Going above and beyond for our customers<br><strong>Progress</strong> – Constant improvement, personally and professionally</p><p>We invest in our people, reward effort, and value those who take ownership and pride in their work.</p>",
+      "keywords": [
+        "groundworks",
+        "engineer"
+      ]
+    },
+    {
+      "job_id": "94124964",
+      "job_title": "Service Desk Analyst",
+      "business_name": "Aurec",
+      "work_type": "Contract/Temp",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "$450pd",
+      "area": "Bilinga, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94124964",
+      "advertiser_id": "28031400",
+      "posted_date": "2026-08-21T04:13:48Z",
+      "job_description": "<h2>Service Desk Analyst - Windows 11 Deployment</h2><strong>Coolangatta, Gold Coast | 4 days onsite per week | Contract <br><br>2 Positions: 1 x 2months, 1 x 6months.</strong> <br>We are looking for a hands-on <strong>Service Desk Analyst</strong> to join an established IT team in Coolangatta, supporting day-to-day users while assisting with a major <strong>Windows 11 rollout</strong> across the organisation. <br>This is a great opportunity for someone with around <strong>1-2+ years' Service Desk/Desktop Support experience</strong> who enjoys working directly with users and wants exposure to a broad IT environment. <h2><strong>What you'll be doing</strong></h2><ul><li>Provide Level 1 and Level 2 IT support to users across the organisation</li><li>Assist with the rollout and deployment of <strong>Windows 11</strong></li><li>Set up, configure and troubleshoot laptops, desktops and other end-user devices</li><li>Provide remote and onsite support to users</li><li>Troubleshoot Windows, Microsoft 365 and general desktop issues</li><li>Manage incidents and service requests through the Service Desk</li><li>Support Active Directory and user access requirements</li><li>Assist with hardware replacements, warranties and IT inventory</li><li>Escalate more complex incidents to the appropriate technical teams</li><li>Document solutions, procedures and support processes</li><li>Work with internal stakeholders and external technology vendors</li></ul><h2><strong>What we're looking for<br></strong></h2><ul><li><strong>Experience in a Service Desk, Help Desk or Desktop Support role</strong></li><li>Good knowledge of <strong>Windows desktop environments</strong></li><li>Experience with <strong>Microsoft 365</strong></li><li>Exposure to <strong>Active Directory</strong></li><li>Windows 10/11 deployment, migration or device rollout experience would be highly regarded</li><li>Basic networking knowledge</li><li>Strong troubleshooting and problem-solving skills</li><li>Excellent communication and customer service skills</li><li>Comfortable providing hands-on support directly to end users</li><li>Australian driver's licence</li></ul><h2><strong>The opportunity</strong></h2><ul><li><strong>Based in Coolangatta, Gold Coast</strong></li><li><strong>4 days per week in the office</strong></li><li>Work on a significant <strong>Windows 11 rollout</strong></li><li>Broad Level 1/2 support exposure</li><li>Join a friendly, established internal IT environment</li><li>Immediate contract opportunity</li></ul><br>If you're a Service Desk or Desktop Support professional looking for your next contract on the Gold Coast, we'd love to hear from you.<br> <br><strong>Apply now for a confidential discussion.</strong>",
+      "keywords": [
+        "service",
+        "desk",
+        "analyst"
+      ]
+    },
+    {
+      "job_id": "94123681",
+      "job_title": "Mid-Level Backend Developer",
+      "business_name": "East Coast Car Rentals",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "$95,000 – $110,000 per year",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94123681",
+      "advertiser_id": "22796821",
+      "posted_date": "2026-08-21T03:39:12Z",
+      "job_description": "<h2>Backend Developer (PHP / Laravel)</h2><p><strong>Southport, Gold Coast QLD • Full-time • Technology</strong></p><p>Join a growing national brand and help build the systems that keep our business moving.</p><p>East Coast Car Rentals is one of Australia's established car rental brands, with 14 locations across the country. Behind the scenes, we're investing heavily in technology and building modern platforms in-house on AWS. It's an exciting time to join our software engineering team as we continue to develop the systems, integrations and services that power our operations and customer experience.</p><p>We're looking for a Backend Developer who enjoys solving complex problems, building reliable APIs and creating scalable systems that make a real difference. Working closely with the Head of Software Engineering and collaborating with frontend developers, you'll play a key role in developing the applications and integrations that support our customers and teams every day.</p><p>If you're technically curious, enjoy building well-structured solutions and take pride in delivering high-quality code, we'd love to hear from you.</p><h2>What you'll do</h2><p>• Build and enhance our Laravel-based backend applications and APIs.</p><p>• Design, develop and maintain scalable services that support business-critical systems.</p><p>• Create and optimise MySQL and Amazon Aurora database structures, queries and performance.</p><p>• Develop and maintain integrations with third-party platforms, including communication and operational systems.</p><p>• Build secure authentication and authorisation workflows across our applications.</p><p>• Write clean, maintainable and well-documented code that supports long-term growth.</p><p>• Participate in code reviews and contribute to backend development standards and best practices.</p><p>• Collaborate closely with frontend developers to define API requirements and deliver reliable integrations.</p><p>• Help deliver new technology initiatives that improve both customer and operational outcomes.</p><h2>What you'll bring</h2><p>• 2+ years commercial experience in a Backend Developer role within a collaborative software development environment.</p><p>• Strong PHP and Laravel development experience.</p><p>• Solid understanding of MySQL database design, optimisation and performance tuning.</p><p>• Experience designing and developing RESTful APIs.</p><p>• Experience with Laravel queues, events and background job processing.</p><p>• Knowledge of authentication and security patterns, including Sanctum, OAuth or JWT.</p><p>• Experience using Git, pull requests and code review processes.</p><p>• Strong analytical and problem-solving skills with a focus on reliability and maintainability.</p><p>• The ability to communicate effectively and work within a small, agile team.</p><h2>Nice to have</h2><p>• Experience with AWS services such as RDS, Aurora, S3 or SES.</p><p>• Experience integrating third-party APIs, including Twilio or similar communication platforms.</p><p>• Familiarity with PHPUnit, Pest or automated testing practices.</p><p>• Experience working with Docker and local development environments.</p><p>• Experience working with Jira and Bitbucket.</p><p>• Interest in modern AI-powered development tools such as GitHub Copilot, Cursor or Claude.</p><p>• Experience integrating payment gateways, inventory platforms or other external business systems.</p><h2>What success looks like</h2><p>• APIs are reliable, well-documented and easy for other developers to consume.</p><p>• Database changes are delivered safely and without production disruption.</p><p>• Third-party integrations are robust and handle failure scenarios gracefully.</p><p>• New features are delivered on time and support sprint commitments.</p><p>• Test coverage and code quality remain high as the platform evolves.</p><p>• Solutions are designed with security, scalability and long-term maintainability in mind.</p><h2>Why East Coast Car Rentals</h2><p>• Work on meaningful platforms that support a national operation across Australia.</p><p>• A modern technology environment with opportunities to influence architecture and development practices.</p><p>• A collaborative engineering team where your ideas and expertise are valued.</p><p>• A broad, hands-on role with genuine variety and visible impact.</p><p>• Opportunities to learn, grow and expand your technical capabilities.</p><p>• Based at our Corporate Southport head office on the Gold Coast.</p><h2>How to apply</h2><p>If this sounds like you, we'd love to hear from you. Please submit your Resume and a short Cover Letter telling us about a backend application, integration or API you've built, what challenges you faced, and what you learned from the experience.</p><p><strong>East Coast Car Rentals is an equal opportunity employer. We welcome applications from people of all backgrounds and are committed to creating a diverse, inclusive and supportive workplace.</strong></p>",
+      "keywords": [
+        "backend",
+        "developer"
+      ]
+    },
+    {
+      "job_id": "94122430",
+      "job_title": "Mid-Level Frontend Developer",
+      "business_name": "East Coast Car Rentals",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "$85,000 – $95,000 per year",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94122430",
+      "advertiser_id": "22796821",
+      "posted_date": "2026-08-21T03:05:07Z",
+      "job_description": "<hr><h2>Mid-Level Frontend Developer (Vue 3 / Next.js)</h2><p><strong>Southport, Gold Coast QLD • Full-time • Technology</strong></p><p>Join a growing national brand and help build the digital products that power the future of our business.</p><p>East Coast Car Rentals is one of Australia's established car rental brands, with 14 locations across the country. Behind the scenes, we're investing heavily in technology and building modern platforms in-house on AWS. It's an exciting time to join our software engineering team as we continue to develop products that support our customers, operations and future growth.</p><p>We're looking for a Frontend Developer who enjoys building clean, scalable user experiences and takes pride in writing high-quality code. Working closely with the Head of Software Engineering and collaborating with backend developers, you'll play a key role in designing, developing and improving the applications our customers and staff use every day.</p><p>If you're technically curious, enjoy solving problems, and want your work to have visible impact in a growing business, we'd love to hear from you.</p><h2>What you'll do</h2><p>• Build and maintain modern web applications using Vue 3, Next.js, React and TypeScript.</p><p>• Develop reusable components and frontend frameworks that improve consistency and speed across our products.</p><p>• Integrate APIs and collaborate closely with backend developers to deliver reliable, scalable features.</p><p>• Participate in code reviews and contribute to frontend development standards and best practices.</p><p>• Work on responsive user interfaces that perform well across desktop and mobile devices.</p><p>• Help plan and deliver new technology initiatives and customer-facing digital experiences.</p><p>• Contribute to application performance, usability, accessibility and maintainability.</p><p>• Identify opportunities to improve development workflows, tooling and automation.</p><h2>What you'll bring</h2><p>• 2 + Years commercial experience in a Frontend Developer role within a collaborative software development environment.</p><p>• Strong experience with Vue 3 (Composition API).</p><p>• Experience with Next.js and React.</p><p>• Solid JavaScript and TypeScript skills.</p><p>• Experience integrating REST APIs and working with backend services.</p><p>• Strong understanding of responsive design, component architecture and modern CSS practices.</p><p>• Experience using Git, pull requests and code review processes.</p><p>• A problem-solving mindset and commitment to building maintainable, high-quality software.</p><p>• Strong communication skills and the ability to work effectively within a small, agile team.</p><h2>Nice to have</h2><p>• React Native development experience.</p><p>• Exposure to testing frameworks such as Vitest, Cypress or Playwright.</p><p>• Experience with Tailwind CSS.</p><p>• Familiarity with AWS services such as S3 and CloudFront.</p><p>• Experience working with Jira and Bitbucket.</p><p>• Interest in modern AI-powered development tools such as GitHub Copilot, Cursor or Claude.</p><p>• Understanding of SEO and emerging AI search optimisation practices.</p><h2>What success looks like</h2><p>• Features are delivered on time and meet sprint commitments.</p><p>• Components are built once and reused across applications rather than duplicated.</p><p>• API integration challenges are identified early and resolved collaboratively.</p><p>• New releases are stable, reliable and minimise regressions.</p><p>• Documentation remains current and enables effective team collaboration.</p><p>• Code reviews improve quality while supporting knowledge sharing across the team.</p><h2>Why East Coast Car Rentals</h2><p>• Work on meaningful products used by customers and employees across Australia.</p><p>• A modern technology stack with the opportunity to influence how our platforms evolve.</p><p>• A collaborative engineering environment where your ideas are valued.</p><p>• A small, capable team where your contributions are visible and impactful.</p><p>• Opportunities to learn, grow and expand your technical skills.</p><p>• Based at our Corporate Southport head office on the Gold Coast.</p><h2>How to apply</h2><p>If this sounds like you, we'd love to hear from you. Please submit your Resume and a short Cover Letter telling us about a frontend project you're particularly proud of, what challenges it presented, and how you approached them.</p><p><strong>East Coast Car Rentals is an equal opportunity employer. We welcome applications from people of all backgrounds and are committed to creating a diverse, inclusive and supportive workplace.</strong></p>",
+      "keywords": [
+        "frontend",
+        "developer"
+      ]
+    },
+    {
+      "job_id": "94117750",
+      "job_title": "Program Manager - Cyber Security Uplift",
+      "business_name": "Limelight People",
+      "work_type": "Contract/Temp",
+      "job_type": "Programme & Project Management",
+      "pay_range": "",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94117750",
+      "advertiser_id": "35360276",
+      "posted_date": "2026-08-21T00:47:43Z",
+      "job_description": "Our client a leading Higher Education organisation is seeking an experienced <strong>Program Manager</strong> to lead the coordination and delivery of a significant <strong>Cyber Security Uplift Program</strong>.<br><br> This is a high-profile engagement focused on driving program governance, managing dependencies across multiple technology and business workstreams, and ensuring successful execution of critical cyber security initiatives across the organisation.<br><br> Working closely with senior stakeholders, technology teams and business leaders, you will be responsible for orchestrating delivery across cyber security, identity, endpoint, infrastructure, applications, service desk, communications and business functions.<br><br>This is initially a 6 month contract, with a view to extend.&nbsp;<br><br><strong> Key Responsibilities</strong> <ul> <li>Coordinate and oversee the Cyber Security Uplift Program across multiple workstreams.</li> <li>Manage program sequencing, scheduling and delivery dependencies.</li> <li>Ensure alignment between cyber security, identity, endpoint, infrastructure, applications, service desk, communications and business teams.</li> <li>Track and report on milestones, deliverables and program outcomes.</li> <li>Identify and manage risks, issues and change impacts across the program.</li> <li>Drive stakeholder engagement and facilitate communication between technical and business teams.</li> <li>Prepare clear and concise executive reporting, steering committee updates and governance documentation.</li> <li>Support decision-making through proactive management of program impacts, dependencies and delivery risks.</li> <li>Ensure appropriate governance, reporting and escalation processes are maintained throughout the program lifecycle.</li> </ul> <strong>About You To be successful in this role, you will possess:</strong><br> <ul> <li>Demonstrated experience delivering technology transformation, cyber security or uplift initiatives within complex enterprise environments.</li> <li>Strong program and project management capabilities.</li> <li>Proven experience managing dependencies, risks, issues, change and stakeholder impacts across multiple workstreams.</li> <li>Exceptional stakeholder management and communication skills.</li> <li>Experience producing executive-level reporting and presenting to senior leadership.</li> <li>Ability to navigate complex organisational environments and drive outcomes through collaboration and influence.</li> </ul> <strong>Desirable Experience</strong> <ul> <li>Project or Program Management qualification (PMP, PRINCE2, MSP or equivalent).</li> <li>Experience within large and complex organisations such as Higher Education, Government or Enterprise environments.</li> <li>Exposure to cyber security, identity management, infrastructure or enterprise technology programs.</li> </ul> <strong>What's on Offer?</strong> <ul> <li>Initial 6-month contract.</li> <li>Opportunity to contribute to a high-profile cyber security transformation program.</li> <li>Hybrid working environment.</li> <li>Work with a recognised and respected Australian university.</li> <li>Immediate start available.</li> </ul> <strong>Apply now or contact us for a confidential discussion.</strong><br> &nbsp;",
+      "keywords": [
+        "program",
+        "manager",
+        "cyber",
+        "security",
+        "uplift"
+      ]
+    },
+    {
+      "job_id": "94117574",
+      "job_title": "Business Analyst - Jetstar Retail",
+      "business_name": "dnata catering",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "",
+      "area": "Coolangatta, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94117574",
+      "advertiser_id": "36579635",
+      "posted_date": "2026-08-21T00:39:13Z",
+      "job_description": "<p><strong>Start your journey with dnata catering &amp; retail, where the sky is the limit!</strong></p><p><strong>About Us</strong></p><p>Part of the Emirates Group, dnata catering &amp; retail is Australia’s leading inflight catering and retail partner. We support many of the world’s most recognised airlines, delivering award‑winning meals and exceptional service that create memorable inflight dining experiences for thousands of travelers each day.</p><p><em><strong>This is a full-time position located at the dnata catering &amp; retail facility in Coolangatta. For the right candidate, we are open to a Brisbane-based arrangement, with regular travel to Coolangatta 1-2 days per week.</strong></em></p><p><strong>About the Role</strong></p><p>We are currently seeking a <strong>Business Analyst</strong> to join our retail partner Jetstar team, supporting reporting, analytics and business intelligence across our inflight retail operations.</p><p><strong>Reporting to the Finance Manager, Jetstar</strong>, this role is ideal for a commercially minded analyst with a strong finance background and technical reporting expertise. You will deliver insights that support business performance, profitability and strategic decision-making.</p><p>Working closely with Finance and operational stakeholders, you will enhance reporting capability, drive data-informed decisions and identify opportunities to improve commercial outcomes.</p><p><strong>Key responsibilities include:</strong></p><ul><li>Develop and enhance commercial reporting, dashboards and management reporting to support business performance.</li><li>Analyse financial and operational data to identify trends, risks, opportunities and insights that drive informed decision-making.</li><li>Support P&amp;L analysis, profitability reporting, forecasting and budgeting processes.</li><li>Build and maintain KPI frameworks, reporting standards and governance processes to ensure trusted data outcomes.</li><li>Identify opportunities to automate reporting, improve data quality and strengthen analytics capability.</li><li>Partner with Finance, Operations and key stakeholders to deliver business analysis, process improvements and reporting solutions that create value.</li></ul><p><strong>About you:</strong></p><ul><li>Experience in a Commercial Finance, FP&amp;A or Financial Analyst role is highly preferred.</li><li>Experience with P&amp;L reporting, budgeting, forecasting and profitability analysis.</li><li>Demonstrated experience in reporting, analytics, business intelligence or business analysis.</li><li>Advanced Excel skills and experience with Power BI, SQL or other reporting tools.</li><li>Strong analytical, problem-solving and stakeholder management skills.</li><li>Ability to partner with Finance and operational stakeholders to drive commercial outcomes.</li><li>Relevant qualifications in Finance, Commerce, Business, Analytics or a related discipline.</li><li>Experience in aviation, retail, food manufacturing or operational environments is advantageous.</li></ul><p><strong>Benefits</strong></p><ul><li>5 weeks annual leave and competitive salary.</li><li>Employee Assistance Program (EAP) available 24/7.</li><li>Career development and progression.</li><li>Corporate Parking Allowance (Broadbeach).</li><li>Career development and progression supported by dedicated training.</li><li>Discounts at hundreds of retailers, novated leasing and wellbeing resources.</li></ul><p><em>At dnata, we value an inclusive and respectful workplace and welcome applications from all backgrounds and abilities. For support or adjustments, contact <a href=\"mailto:recruitment-dc-aus@dnata.com\">recruitment-dc-aus@dnata.com</a>&nbsp;</em></p><p><strong>The Recruitment process</strong> may include interviews, health checks, reference and criminal history checks, and verification of working rights. Please note, only shortlisted candidates will be contacted.</p>",
+      "keywords": [
+        "business",
+        "analyst",
+        "jetstar",
+        "retail"
+      ]
+    },
+    {
+      "job_id": "94116032",
+      "job_title": "Data and Integration Engineer",
+      "business_name": "Bindaree Food Group",
+      "work_type": "Full time",
+      "job_type": "Database Development & Administration",
+      "pay_range": "",
+      "area": "Burleigh Heads, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94116032",
+      "advertiser_id": "35925340",
+      "posted_date": "2026-08-20T23:13:49Z",
+      "job_description": "<p>Bindaree Food Group is one of Australia's largest privately owned beef processing and value-adding businesses. Our Azure data platform carries the reporting that runs the Group - livestock, production, finance, workforce, safety and commercial and exchanges data daily with our major grocery customers.</p>\n\n<p>We are looking for a Data &amp; Integration Engineer to own it. You will report directly to the Chief Information Officer, and the data team is being built around this role.</p>\n<br><p><b>What you'll be doing:</b></p>\n\n<ul>\n\t<li>Own a production Azure integration estate -&nbsp;20+ Logic Apps (Standard), 200+ workflows, supported by Azure Functions.</li>\n\t<li>Administer and tune Azure SQL Managed Instance across roughly 25 databases.</li>\n\t<li>Maintain EDI and file exchange with our major grocery customers.</li>\n\t<li>Lead the migration from Azure Analysis Services to Microsoft Fabric.</li>\n\t<li>Build Power BI semantic models and set the standards the team builds to.</li>\n\t<li>Introduce source control and automated deployment.</li>\n\t<li>Make sure the platform underneath our AI work is governed and trustworthy.</li>\n</ul>\n<br><p><b>What you will bring:</b></p>\n\n<ul>\n\t<li>Five or more years in data engineering, integration engineering or BI development.</li>\n\t<li>Strong, current, hands-on Azure -&nbsp;Logic Apps or a comparable integration platform, Azure Functions, Azure SQL.</li>\n\t<li>Deep SQL and T-SQL, including performance tuning.</li>\n\t<li>Proven Power BI -&nbsp;DAX, data modelling, semantic models and workspace administration.</li>\n\t<li>Microsoft Entra ID, managed identities and Key Vault.</li>\n\t<li>Integration patterns in production -&nbsp;SFTP, EDI, REST, queueing and incremental loads.</li>\n\t<li>The judgement and self-sufficiency to own a production platform.</li>\n</ul>\n\n<p><b>Not essential, but nice to have experience with:</b><br>\nMicrosoft Fabric. Azure DevOps, Bicep or Terraform. Food manufacturing, agribusiness or FMCG. Plant, SCADA or weighing data. Applied AI on operational data.</p>\n\n<p><b>Why this opportunity?</b></p>\n\n<ul>\n\t<li>Genuine ownership of the Group's data platform, and a path to lead the team.</li>\n\t<li>Our data is already consolidated and ready -&nbsp;the AI work starts now, not in a strategy document.</li>\n\t<li>A privately owned Australian business where decisions get made quickly and you will see your work used on the floor.</li>\n</ul>\n\n<p><b>About Bindaree</b></p>\n\n<p>Bindaree Food Group is a true paddock‑to‑plate business, with operations spanning livestock, processing, value‑add, logistics and corporate roles across regional NSW and Queensland. From Inverell and Cooma through to Burleigh Heads, Brisbane and Sydney, our teams help deliver quality beef products to major supermarkets, quick service restaurants and export customers.</p>\n\n<p>We’re a people business at our core. Our values of Culture of Care, Agility, Exceed Expectations and Openness guide how we work together, and our tagline People, Passion, Flavour reflects the energy we look for in every new team member.</p>\n\n<p><b>Location &amp; next steps</b></p>\n\n<p>Base yourself at Brisbane (Lytton), Burleigh Heads, or Inverell, with regular travel between our sites. Some out-of-hours work is required to support scheduled overnight integration workloads.&nbsp;</p>\n\n<p>Pre‑employment checks, including medical, physical, and police screening, may apply.&nbsp;Apply with your CV and a short note telling us which parts of the platform above you have run before.</p>",
+      "keywords": [
+        "data",
+        "integration",
+        "engineer"
       ]
     },
     {
