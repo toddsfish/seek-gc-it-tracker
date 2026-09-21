@@ -1,564 +1,446 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-21",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-22T08:56:37.561733+10:00",
-  "total_jobs": 63,
+  "scraped_at": "2026-09-21T08:03:20.815412+10:00",
+  "total_jobs": 62,
   "keywords": [
     {
       "term": "support",
-      "count": 17,
-      "share": 0.2698
+      "count": 16,
+      "share": 0.2581
     },
     {
       "term": "it",
       "count": 13,
-      "share": 0.2063
+      "share": 0.2097
     },
     {
       "term": "analyst",
-      "count": 11,
-      "share": 0.1746
+      "count": 12,
+      "share": 0.1935
     },
     {
       "term": "engineer",
       "count": 10,
-      "share": 0.1587
+      "share": 0.1613
     },
     {
       "term": "developer",
-      "count": 9,
-      "share": 0.1429
+      "count": 7,
+      "share": 0.1129
     },
     {
       "term": "software",
       "count": 6,
-      "share": 0.0952
+      "share": 0.0968
+    },
+    {
+      "term": "business",
+      "count": 5,
+      "share": 0.0806
     },
     {
       "term": "ai",
       "count": 5,
-      "share": 0.0794
+      "share": 0.0806
+    },
+    {
+      "term": "data",
+      "count": 5,
+      "share": 0.0806
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.0794
+      "share": 0.0806
     },
     {
       "term": "administrator",
       "count": 5,
-      "share": 0.0794
+      "share": 0.0806
     },
     {
-      "term": "business",
-      "count": 4,
-      "share": 0.0635
-    },
-    {
-      "term": "data",
-      "count": 4,
-      "share": 0.0635
+      "term": "service",
+      "count": 5,
+      "share": 0.0806
     },
     {
       "term": "specialist",
       "count": 4,
-      "share": 0.0635
+      "share": 0.0645
     },
     {
       "term": "manager",
       "count": 4,
-      "share": 0.0635
-    },
-    {
-      "term": "service",
-      "count": 4,
-      "share": 0.0635
-    },
-    {
-      "term": "technician",
-      "count": 4,
-      "share": 0.0635
+      "share": 0.0645
     },
     {
       "term": "officer",
       "count": 4,
-      "share": 0.0635
+      "share": 0.0645
     },
     {
       "term": "desk",
-      "count": 3,
-      "share": 0.0476
+      "count": 4,
+      "share": 0.0645
     },
     {
-      "term": "infrastructure",
-      "count": 3,
-      "share": 0.0476
+      "term": "technician",
+      "count": 4,
+      "share": 0.0645
     },
     {
       "term": "product",
-      "count": 3,
-      "share": 0.0476
-    },
-    {
-      "term": "architect",
-      "count": 2,
-      "share": 0.0317
+      "count": 4,
+      "share": 0.0645
     },
     {
       "term": "intelligence",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0323
+    },
+    {
+      "term": "technology",
+      "count": 2,
+      "share": 0.0323
     },
     {
       "term": "platform",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0323
     },
     {
       "term": "net",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0323
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0323
+    },
+    {
+      "term": "migration",
+      "count": 2,
+      "share": 0.0323
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0323
     },
     {
       "term": "desktop",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0323
     },
     {
       "term": "month",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0323
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0323
     },
     {
-      "term": "security",
+      "term": "infrastructure",
       "count": 2,
-      "share": 0.0317
-    },
-    {
-      "term": "solution",
-      "count": 1,
-      "share": 0.0159
+      "share": 0.0323
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
-      "term": "application",
+      "term": "architect",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "analysis",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "capability",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "utilities",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "science",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "reporting",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "technology",
-      "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "architech",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "dynamics",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "assisted",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "azure",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "backend",
-      "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "frontend",
-      "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "netsuite",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "erp",
       "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "migration",
-      "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "customisation",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "php",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "native",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "its",
-      "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "asset",
-      "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "ongc",
-      "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "technical",
-      "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "modern",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "workplace",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
+    },
+    {
+      "term": "its",
+      "count": 1,
+      "share": 0.0161
+    },
+    {
+      "term": "asset",
+      "count": 1,
+      "share": 0.0161
+    },
+    {
+      "term": "technical",
+      "count": 1,
+      "share": 0.0161
+    },
+    {
+      "term": "ongc",
+      "count": 1,
+      "share": 0.0161
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "experience",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "required",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "pimpama",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "campus",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "inventory",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "cruise",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "ciam",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "industry",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "equipment",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
-      "term": "cyber",
+      "term": "security",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "change",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "readiness",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "ecommerce",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "catalogue",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     },
     {
       "term": "applied",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0161
     }
   ],
   "jobs": [
-    {
-      "job_id": "94772240",
-      "job_title": "Solution Architect",
-      "business_name": "Southern Cross University",
-      "work_type": "Full time",
-      "job_type": "Architects",
-      "pay_range": "17% Superannuation",
-      "area": "Bilinga, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94772240",
-      "advertiser_id": "15012749",
-      "posted_date": "2026-09-21T07:11:49Z",
-      "job_description": "<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing <a href=\"https://www.scu.edu.au/southern-cross-model/\" target=\"_self\">Southern Cross Model</a> brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity</strong></p>\n<p>Southern Cross University is on an ambitious journey to redefine how technology empowers learning, research, and community impact. We’re building a future-ready technology organisation – modern, secure, adaptable, and driven by innovation.&nbsp; Our teams are embracing emerging technologies, including&nbsp;artificial intelligence, to deliver smarter services and real-world benefits for students, staff, and the wider community.</p>\n<p>Within Technology Services, our five dynamic work units – Data, Architecture &amp; Integration, Cyber Resilience, Digital Delivery &amp; Innovation, Technology Platforms, and Operations &amp; Services – work collaboratively to deliver high-impact solutions across the University.</p>\n<p>We are seeking a Solution Architect to lead the design and delivery of complex, enterprise-wide solutions that span multiple systems, platforms, and business domains.&nbsp; This senior technical role offers the chance to shape architectural direction, establish design standards, and drive strategic solution initiatives across the University’s teaching, learning, research, and administrative functions.</p>\n<p>Reporting to the Enterprise Architect, you will work closely with development teams, project managers, and business stakeholders to deliver high-impact solutions aligned with the University’s enterprise architecture vision</p>\n<p>You will make an impact by:</p>\n<ul>\n<li>Designing and delivering robust enterprise-grade solution architectures that support teaching, research, student services, and operations across all major university domains</li>\n<li>Leading the integration of core platforms such as TechnologyOne, Microsoft Dynamics, Blackboard, Microsoft Teams, and custom applications, ensuring seamless connectivity across all systems</li>\n<li>Establishing and promoting architectural standards and frameworks that ensure scalability, security, and maintainability across all digital initiatives</li>\n<li>Providing expert guidance and mentorship to develop teams, driving best practices in solution design, technology selection, and implementation</li>\n<li>Collaborating with stakeholders and contributing to the university technology roadmap, championing innovation, emerging technologies, and long term strategic planning</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<p>You’re an experienced and forward-thinking Solution Architect with deep technical knowledge, strong leadership skills, and a collaborative approach to problem solving.&nbsp; You thrive in complex environments, enjoy working across multiple business domains, and are passionate about delivering scalable, impactful technology solutions.</p>\n<p>To succeed in this role, you will also need:</p>\n<ul>\n<li>A Bachelor’s degree in Information Technology, Computer Science, or a related field</li>\n<li>Ideally 8+ years in technical roles with at least 5 years in solution architecture</li>\n<li>Proven experience in designing and integrating enterprise platforms including TechnologyOne, Dynamics 365, Blackboard, and Microsoft Teams</li>\n<li>Strong understanding of solution design patterns, architectural frameworks, and integration practices</li>\n<li>Demonstrate ability to lead large scale architecture initiatives and collaborate with cross-functional teams</li>\n<li>Excellent stakeholder engagement and communication skills, translating business needs into technical strategy</li>\n<li>A commitment to innovation, continuous improvement, and delivering real world impact</li>\n</ul>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/gold-coast/\" target=\"_self\">Gold Coast</a>, <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/coffs-harbour/\" target=\"_self\">Coffs Harbour</a> and the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/lismore/\" target=\"_self\">Northern Rivers</a> region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li>Full-time, continuing (permanent)</li>\n<li>Located at either Coffs Harbour, NSW 2450, Gold Coast, QLD 4225, or Lismore, NSW 2480. Relocation Assistance, making it easier to join our regional communities</li>\n<li>The level of appointment will be commensurate with the candidate’s qualifications, skills and experience.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit <a href=\"https://www.scu.edu.au/about/jobs-at-southern-cross/why-work-at-southern-cross-university/\" target=\"_self\">Why work at Southern Cross University?</a></p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>Name: Vivian Cormier<br>Email: <a href=\"mailto:Vivian.cormier@scu.edu.au\">Vivian.cormier@scu.edu.au</a></p>\n<p><strong>Applications close 11.30pm AEST 11 October 2026</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. &nbsp;Employer visa sponsorship is not available for this position.</p>\n<p>Applicants must apply online and attach a CV and cover letter responding to the selection criteria within the position description. Information to support you prepare your application is available on our <a href=\"https://www.scu.edu.au/about/jobsscu/vacancies/applying-for-a-position/\" target=\"_self\">website.</a></p>\n<p><em>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to </em><a href=\"mailto:jobs@scu.edu.au\" target=\"_self\"><em>jobs@scu.edu.au.</em></a></p>\n<p>#LI-VC1</p>\n<p>#All</p>\n",
-      "keywords": [
-        "solution",
-        "architect"
-      ]
-    },
-    {
-      "job_id": "94759047",
-      "job_title": "Application Support Analyst",
-      "business_name": "City of Gold Coast",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "$101,616 to $108,140 p/a plus Superannuation",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94759047",
-      "advertiser_id": "16652581",
-      "posted_date": "2026-09-21T01:22:36Z",
-      "job_description": "<ul> <li><strong>Full Time | 9-day fortnight | 36 hours per week </strong></li> <li> <strong>Salary: </strong>From $101,616 to $108,140 p/a plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG2022/assets/32053740\">Application Support Analyst</a> </li> </ul><p> </p><p><strong>About the team</strong></p><p>The Enterprise Platforms team plays a critical role in supporting the City's enterprise platforms within the Chief Technology Office. The team is committed to delivering secure, reliable, and fit-for-purpose technology solutions that enable service delivery, drive continuous improvement, and support the City's strategic and operational priorities.</p><p><strong>About the role </strong></p><p>The Application Support Analyst is responsible for supporting, maintaining, and troubleshooting Enterprise Platform applications. You will work closely with end-users, developers, and other technical roles to ensure smooth operation and optimal performance.</p><p> <strong>Key responsibilities:</strong></p><ul> <li>Provide first- and second-level support for business applications transitioned into Council.</li> <li>Troubleshoot, diagnose, and resolve application incidents in line with service level agreements.</li> <li>Escalate complex issues to vendors or higher-level technical teams as required.</li> <li>Monitor application performance and availability, taking proactive measures to prevent issues.</li> <li>Assist with upgrades, patches, enhancements, and system integrations.</li> <li>Support testing and change management processes during application releases.</li> <li>Document application configurations, procedures, and knowledge base articles.</li> <li>Liaise with business stakeholders to gather requirements and ensure application functionality meets organisational needs.</li> <li>Participate in transition and project-related activities, including onboarding and training.</li> <li>Identify and recommend improvements to application processes, user experience, and support practices.</li> </ul><p><strong>About you: </strong></p><p>You’re a proactive problem solver who enjoys supporting technology that keeps a large and diverse organisation running smoothly. You bring a balance of technical acumen, business understanding, and customer service focus to your work.</p><p><strong>Ideally, you will have:</strong></p><ul> <li>Diploma in Computer Science, Information Systems, or equivalent knowledge and experience.</li> <li>Experience in application support within complex or enterprise environments.</li> <li>Knowledge of ITIL service management practices.</li> <li>Familiarity with software development and testing methodologies (Agile preferred).</li> <li>Strong troubleshooting and analytical skills with a focus on service quality.</li> <li>Excellent written and verbal communication skills for engaging with technical teams and business stakeholders.</li> <li>Collaborative approach and commitment to continuous improvement.</li> </ul><p><strong>Be part of shaping the Gold Coast’s future </strong></p><p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p><p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p><ul> <li> <p>9-day fortnight </p> </li> </ul><ul> <li> <p>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations </p> </li> </ul><ul> <li> <p>Personal and professional development courses </p> </li> </ul><ul> <li> <p>Access to 350+ fitness facilities through Fitness Passport </p> </li> </ul><ul> <li> <p>4 free confidential counselling sessions a year for you or an immediate family member </p> </li> </ul><ul> <li> <p>1 free nutritionist and financial advice session per year </p> </li> </ul><p>We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p><p><strong>How to apply</strong></p><p>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p><p><strong>Contact Person</strong> Ashley Shannon</p><p><strong>Contact Email</strong> <a href=\"mailto:ashannon@goldcoast.qld.gov.au\">ashannon@goldcoast.qld.gov.au</a></p><p><strong>Closing Date</strong> Sunday 4th of October 2026 /11:59pm AEDT </p><p> </p><p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
-      "keywords": [
-        "application",
-        "support",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "94755968",
-      "job_title": "Cyber Security and Infrastructure Specialist",
-      "business_name": "Feros Care",
-      "work_type": "Full time",
-      "job_type": "Security",
-      "pay_range": "Based on Experience + Super + NFP Salary packaging",
-      "area": "Coolangatta, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94755968",
-      "advertiser_id": "26252854",
-      "posted_date": "2026-09-20T23:14:58Z",
-      "job_description": "<p><strong>Cyber Security and Infrastructure Specialist</strong></p><p><strong>We're Feros Care, and we're pleased to meet you.</strong></p><p><strong>And what we care most about is helping people live healthier, happier, better-connected lives.</strong></p><p>Since 1990, we've been making it happen, both for older Australians and people with disability.</p><p>We are proud to be Game Changers. Dream Makers. Kindness Champions. Culture Shapers. Vibrant <br> Creators. And it's not just us who thinks so; We've won many awards on the local and international <br> stage for our approach.<br> <br> <strong>Drive cyber security and infrastructure excellence.</strong></p><p>As our Cyber Security &amp; Infrastructure Specialist, you'll be responsible for supporting and evolving the infrastructure and security platforms that underpin Feros Care's operations.</p><p>Partnering with the Cloud Architect, you'll oversee the security and performance of cloud, network and server environments while providing expert Level 3 support and driving continuous improvement across our technology landscape.<br> <br> <strong>What you'll do</strong></p><ul><li>Support the design, implementation, and ongoing maintenance of secure infrastructure across on premises and cloud environments.</li><li>Manage and enhance cyber security controls, ensuring the confidentiality, integrity, and availability of organisational systems and data.</li><li>Monitor, investigate, and respond to security incidents, vulnerabilities, and infrastructure issues, providing timely resolution and remediation.</li><li>Act as a Level 3 escalation point for complex infrastructure and cyber security issues, supporting our Service Desk and wider IT team.</li><li>Design, deploy, and maintain network, server, cloud, telephony and voice solutions to support business operations.</li><li>Contribute to disaster recovery, business continuity, and infrastructure resilience initiatives to minimise service disruption.</li><li>Develop and maintain technical documentation, operational procedures, infrastructure diagrams and security related processes.</li><li>Partner with vendors, stakeholders and internal teams to deliver technology improvements and projects that align with business objectives.</li></ul><p> <strong>What you'll bring</strong></p><ul><li>5+ years' experience in infrastructure, systems administration or advanced technical support roles.</li><li>Strong knowledge of cyber security principles, technologies and best practices.</li><li>Experience managing enterprise infrastructure, including networks, servers, cloud services and security platforms.</li><li>Hands on experience with Microsoft Azure, Microsoft 365, Windows Server and Linux environments.</li><li>Strong troubleshooting, problem solving, and incident management capabilities.</li><li>Experience with technologies such as VMware, Fortinet, Cisco, Ubiquiti, Veeam and VoIP solutions.</li><li>Excellent communication skills with the ability to engage effectively with both technical and non-technical stakeholders.</li><li>A customer-focused approach with the ability to manage competing priorities in a fast-paced environment.</li></ul><p><strong>Qualifications &amp; Checks</strong></p><ul><li>Diploma in Information Technology or equivalent qualification.</li><li>Bachelor of Information Technology (Computer Science) would be highly regarded.</li><li>Current unrestricted Australian Driver's Licence.</li><li>Undergo a Nationally Coordinated Criminal History Check.</li><li>Valid Australian working rights.</li></ul><p><strong>Why Feros Care?</strong><br> At Feros Care, we value our people and offer:</p><ul><li>Not for Profit Salary Packaging of up to $15,900 per annum, and meal and entertainment salary sacrifice of up to $2,650 per annum, all tax free, stretching your income further.</li><li>Flexible Working Arrangements, including a hybrid model with a combination of working from our Coolangatta office and the flexibility to work remotely.</li><li>17.5% Annual Leave loading.</li><li>Cultural Leave Days for eligible employees.</li><li>Enjoy exclusive discounts, financial tips, and wellness programs through our ForME employee benefits platform.</li><li>Private Health Insurance Discount with Medibank.</li><li>Employee Assistance Program (EAP).</li><li>Paid Parental Leave (9 weeks) for eligible employees.</li><li>Access to Fitness Passport - discounted gym and pool memberships for you and your family.</li><li>$200 referral bonus per successful referral.<br> </li></ul><p>We actively seek to include, welcome and value the unique contributions of all people. We encourage applications from Aboriginal and Torres Strait Islander people, people from cultural and linguistically diverse backgrounds, and people with disability.</p><p>If you would like to discuss accessibility requirements, preferred communication methods or other possibilities, please contact <a href=\"mailto:talentacquisition@feroscare.com.au\">talentacquisition@feroscare.com.au</a></p><p> </p>",
-      "keywords": [
-        "cyber",
-        "security",
-        "infrastructure",
-        "specialist"
-      ]
-    },
-    {
-      "job_id": "94755447",
-      "job_title": "Mid-Level Backend Developer",
-      "business_name": "East Coast Car Rentals",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94755447",
-      "advertiser_id": "22796821",
-      "posted_date": "2026-09-20T22:41:44Z",
-      "job_description": "<h2>Backend Developer (PHP / Laravel)</h2><p><strong>Southport, Gold Coast QLD • Full-time • Technology</strong></p><p>Join a growing national brand and help build the systems that keep our business moving.</p><p>East Coast Car Rentals is one of Australia's established car rental brands, with 14 locations across the country. Behind the scenes, we're investing heavily in technology and building modern platforms in-house on AWS. It's an exciting time to join our software engineering team as we continue to develop the systems, integrations and services that power our operations and customer experience.</p><p>We're looking for a Backend Developer who enjoys solving complex problems, building reliable APIs and creating scalable systems that make a real difference. Working closely with the Head of Software Engineering and collaborating with frontend developers, you'll play a key role in developing the applications and integrations that support our customers and teams every day.</p><p>If you're technically curious, enjoy building well-structured solutions and take pride in delivering high-quality code, we'd love to hear from you.</p><h2>What you'll do</h2><p>• Build and enhance our Laravel-based backend applications and APIs.</p><p>• Design, develop and maintain scalable services that support business-critical systems.</p><p>• Create and optimise MySQL and Amazon Aurora database structures, queries and performance.</p><p>• Develop and maintain integrations with third-party platforms, including communication and operational systems.</p><p>• Build secure authentication and authorisation workflows across our applications.</p><p>• Write clean, maintainable and well-documented code that supports long-term growth.</p><p>• Participate in code reviews and contribute to backend development standards and best practices.</p><p>• Collaborate closely with frontend developers to define API requirements and deliver reliable integrations.</p><p>• Help deliver new technology initiatives that improve both customer and operational outcomes.</p><h2>What you'll bring</h2><p>• 2+ years commercial experience in a Backend Developer role within a collaborative software development environment.</p><p>• Strong PHP and Laravel development experience.</p><p>• Solid understanding of MySQL database design, optimisation and performance tuning.</p><p>• Experience designing and developing RESTful APIs.</p><p>• Experience with Laravel queues, events and background job processing.</p><p>• Knowledge of authentication and security patterns, including Sanctum, OAuth or JWT.</p><p>• Experience using Git, pull requests and code review processes.</p><p>• Strong analytical and problem-solving skills with a focus on reliability and maintainability.</p><p>• The ability to communicate effectively and work within a small, agile team.</p><h2>Nice to have</h2><p>• Experience with AWS services such as RDS, Aurora, S3 or SES.</p><p>• Experience integrating third-party APIs, including Twilio or similar communication platforms.</p><p>• Familiarity with PHPUnit, Pest or automated testing practices.</p><p>• Experience working with Docker and local development environments.</p><p>• Experience working with Jira and Bitbucket.</p><p>• Interest in modern AI-powered development tools such as GitHub Copilot, Cursor or Claude.</p><p>• Experience integrating payment gateways, inventory platforms or other external business systems.</p><h2>What success looks like</h2><p>• APIs are reliable, well-documented and easy for other developers to consume.</p><p>• Database changes are delivered safely and without production disruption.</p><p>• Third-party integrations are robust and handle failure scenarios gracefully.</p><p>• New features are delivered on time and support sprint commitments.</p><p>• Test coverage and code quality remain high as the platform evolves.</p><p>• Solutions are designed with security, scalability and long-term maintainability in mind.</p><h2>Why East Coast Car Rentals</h2><p>• Work on meaningful platforms that support a national operation across Australia.</p><p>• A modern technology environment with opportunities to influence architecture and development practices.</p><p>• A collaborative engineering team where your ideas and expertise are valued.</p><p>• A broad, hands-on role with genuine variety and visible impact.</p><p>• Opportunities to learn, grow and expand your technical capabilities.</p><p>• Based at our Corporate Southport head office on the Gold Coast.</p><h2>How to apply</h2><p>If this sounds like you, we'd love to hear from you. Please submit your Resume and a short Cover Letter telling us about a backend application, integration or API you've built, what challenges you faced, and what you learned from the experience.</p><p><strong>East Coast Car Rentals is an equal opportunity employer. We welcome applications from people of all backgrounds and are committed to creating a diverse, inclusive and supportive workplace.</strong></p>",
-      "keywords": [
-        "backend",
-        "developer"
-      ]
-    },
-    {
-      "job_id": "94755416",
-      "job_title": "Mid-Level Frontend Developer",
-      "business_name": "East Coast Car Rentals",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94755416",
-      "advertiser_id": "22796821",
-      "posted_date": "2026-09-20T22:37:39Z",
-      "job_description": "<hr><h2>Mid-Level Frontend Developer (Vue 3 / Next.js)</h2><p><strong>Southport, Gold Coast QLD • Full-time • Technology</strong></p><p>Join a growing national brand and help build the digital products that power the future of our business.</p><p>East Coast Car Rentals is one of Australia's established car rental brands, with 14 locations across the country. Behind the scenes, we're investing heavily in technology and building modern platforms in-house on AWS. It's an exciting time to join our software engineering team as we continue to develop products that support our customers, operations and future growth.</p><p>We're looking for a Frontend Developer who enjoys building clean, scalable user experiences and takes pride in writing high-quality code. Working closely with the Head of Software Engineering and collaborating with backend developers, you'll play a key role in designing, developing and improving the applications our customers and staff use every day.</p><p>If you're technically curious, enjoy solving problems, and want your work to have visible impact in a growing business, we'd love to hear from you.</p><h2>What you'll do</h2><p>• Build and maintain modern web applications using Vue 3, Next.js, React and TypeScript.</p><p>• Develop reusable components and frontend frameworks that improve consistency and speed across our products.</p><p>• Integrate APIs and collaborate closely with backend developers to deliver reliable, scalable features.</p><p>• Participate in code reviews and contribute to frontend development standards and best practices.</p><p>• Work on responsive user interfaces that perform well across desktop and mobile devices.</p><p>• Help plan and deliver new technology initiatives and customer-facing digital experiences.</p><p>• Contribute to application performance, usability, accessibility and maintainability.</p><p>• Identify opportunities to improve development workflows, tooling and automation.</p><h2>What you'll bring</h2><p>• 2 + Years commercial experience in a Frontend Developer role within a collaborative software development environment.</p><p>• Strong experience with Vue 3 (Composition API).</p><p>• Experience with Next.js and React.</p><p>• Solid JavaScript and TypeScript skills.</p><p>• Experience integrating REST APIs and working with backend services.</p><p>• Strong understanding of responsive design, component architecture and modern CSS practices.</p><p>• Experience using Git, pull requests and code review processes.</p><p>• A problem-solving mindset and commitment to building maintainable, high-quality software.</p><p>• Strong communication skills and the ability to work effectively within a small, agile team.</p><h2>Nice to have</h2><p>• React Native development experience.</p><p>• Exposure to testing frameworks such as Vitest, Cypress or Playwright.</p><p>• Experience with Tailwind CSS.</p><p>• Familiarity with AWS services such as S3 and CloudFront.</p><p>• Experience working with Jira and Bitbucket.</p><p>• Interest in modern AI-powered development tools such as GitHub Copilot, Cursor or Claude.</p><p>• Understanding of SEO and emerging AI search optimisation practices.</p><h2>What success looks like</h2><p>• Features are delivered on time and meet sprint commitments.</p><p>• Components are built once and reused across applications rather than duplicated.</p><p>• API integration challenges are identified early and resolved collaboratively.</p><p>• New releases are stable, reliable and minimise regressions.</p><p>• Documentation remains current and enables effective team collaboration.</p><p>• Code reviews improve quality while supporting knowledge sharing across the team.</p><h2>Why East Coast Car Rentals</h2><p>• Work on meaningful products used by customers and employees across Australia.</p><p>• A modern technology stack with the opportunity to influence how our platforms evolve.</p><p>• A collaborative engineering environment where your ideas are valued.</p><p>• A small, capable team where your contributions are visible and impactful.</p><p>• Opportunities to learn, grow and expand your technical skills.</p><p>• Based at our Corporate Southport head office on the Gold Coast.</p><h2>How to apply</h2><p>If this sounds like you, we'd love to hear from you. Please submit your Resume and a short Cover Letter telling us about a frontend project you're particularly proud of, what challenges it presented, and how you approached them.</p><p><strong>East Coast Car Rentals is an equal opportunity employer. We welcome applications from people of all backgrounds and are committed to creating a diverse, inclusive and supportive workplace.</strong></p>",
-      "keywords": [
-        "frontend",
-        "developer"
-      ]
-    },
     {
       "job_id": "94725452",
       "job_title": "Head of IT",
@@ -716,7 +598,7 @@
       "business_name": "Private Advertiser",
       "work_type": "Contract/Temp",
       "job_type": "Developers/Programmers",
-      "pay_range": "$100 – $110 per hour",
+      "pay_range": "$100 per hour",
       "area": "Ormeau, Gold Coast QLD",
       "region": "Gold Coast",
       "url": "https://www.seek.com.au/job/94686691",
@@ -780,7 +662,7 @@
       "url": "https://www.seek.com.au/job/94685152",
       "advertiser_id": "45276000",
       "posted_date": "2026-09-17T00:04:24Z",
-      "job_description": "<p><strong>About Custodian</strong>&nbsp;</p><p>Custodian is an Australian property investment company with a long history of helping Australians build long-term wealth through residential property investment.&nbsp;</p><p>Our end-to-end investment model brings together property strategy, finance, property acquisition, construction and property management support, providing clients with a simpler, lower-risk way to invest in new property.&nbsp;</p><p>Technology is increasingly central to how we attract and manage clients, operate our business, manage data and deliver an exceptional client experience.&nbsp;</p><p>We are looking for a commercially minded, hands-on Salesforce &amp; Technology Lead to take ownership of Salesforce and help shape the technology, systems and processes that will support Custodian's next phase of growth.&nbsp;</p><p><strong>The Opportunity</strong>&nbsp;</p><p>This is an in-office role based at our Gold Coast office.</p><p>This is a newly created role for someone who can operate at the intersection of Salesforce, technology, data and business improvement.&nbsp;</p><p>You will be Custodian's internal Salesforce expert and technology lead, working closely with senior leaders and teams across the business to identify opportunities, solve problems and implement practical technology solutions.&nbsp;</p><p>The role combines hands-on Salesforce development and optimisation with technology strategy, project leadership, automation, data, integrations and vendor management.&nbsp;</p><p>We are looking for someone who is strategic enough to see the bigger picture, but hands-on enough to roll up their sleeves and make things happen. You will also be responsible for managing external consultants for specialist assistance as needed, and ensuring technology optimisation projects are delivered in a timely and efficient manner, and on budget.&nbsp;</p><p><strong>Key Responsibilities</strong>&nbsp;</p><ul><li><p>Own the ongoing development, optimisation and performance of Salesforce as a critical business platform.&nbsp;</p></li></ul><ul><li><p>Act as Custodian's primary Salesforce subject matter expert and provide technical guidance across the business.&nbsp;</p></li></ul><ul><li><p>Design, configure, develop and implement Salesforce solutions, including Flows, automation, reports, dashboards and, where appropriate, Apex and Lightning Web Components.&nbsp;</p></li></ul><ul><li><p>Translate business requirements and pain points into practical, scalable technology solutions.&nbsp;</p></li></ul><ul><li><p>Improve data quality, governance, reporting and visibility across the customer lifecycle.&nbsp;</p></li></ul><ul><li><p>Design, manage and improve integrations, APIs and data flows between Salesforce and other business systems.&nbsp;</p></li></ul><ul><li><p>Lead technology and systems projects from concept through to implementation, including requirements, planning, testing, delivery and adoption.&nbsp;</p></li></ul><ul><li><p>Identify opportunities to automate manual processes and improve productivity through technology, AI and workflow automation.&nbsp;</p></li></ul><ul><li><p>Manage external Salesforce developers, consultants and technology providers, ensuring appropriate scope, quality, cost and delivery.&nbsp;</p></li></ul><ul><li><p>Evaluate technology solutions and suppliers based on business value, risk, cost and return on investment.&nbsp;</p></li></ul><ul><li><p>Ensure technology systems are appropriately secure, reliable, documented and governed.&nbsp;</p></li></ul><ul><li><p>Support Salesforce adoption through effective user engagement, training and continuous improvement.&nbsp;</p></li></ul><ul><li><p>Stay informed about emerging Salesforce, AI and technology capabilities and identify those with genuine commercial application for Custodian.&nbsp;</p></li></ul><p><strong>Skills &amp; Experience</strong>&nbsp;</p><p><strong>Essential</strong>&nbsp;</p><ul><li><p>Significant experience in a senior Salesforce, business systems, technology or digital transformation role.&nbsp;</p></li></ul><ul><li><p>Strong hands-on Salesforce experience across configuration, automation, development, reporting and data management.&nbsp;</p></li></ul><ul><li><p>Experience with Salesforce Flow and ideally Apex, Lightning Web Components, Salesforce Marketing Cloud, and Salesforce APIs.&nbsp;</p></li></ul><ul><li><p>Demonstrated experience delivering technology or Salesforce projects from requirements through to implementation.&nbsp;</p></li></ul><ul><li><p>Experience managing external technology consultants, developers or suppliers.&nbsp;</p></li></ul><ul><li><p>Strong business process improvement and problem-solving skills.&nbsp;</p></li></ul><ul><li><p>Excellent stakeholder management and communication skills.&nbsp;</p></li></ul><ul><li><p>Commercial mindset with an ability to assess technology based on business value, cost, risk and ROI.&nbsp;</p></li></ul><ul><li><p>Ability to work independently, take ownership and drive initiatives through to completion.&nbsp;</p></li></ul><p><strong>Desirable</strong>&nbsp;</p><ul><li><p>Salesforce certifications.&nbsp;</p></li></ul><ul><li><p>Understanding of cybersecurity, privacy and technology governance.&nbsp;</p></li></ul><ul><li><p>Experience in property, financial services, professional services or another customer-facing environment.&nbsp;</p></li></ul><p><strong>The Person</strong>&nbsp;</p><p>You are:&nbsp;</p><ul><li><p><strong>Strategic but hands-on</strong> – able to develop a roadmap but equally comfortable getting into Salesforce and building the solution.&nbsp;</p></li></ul><ul><li><p><strong>Commercial</strong> – focused on business outcomes, not technology for technology's sake.&nbsp;</p></li></ul><ul><li><p><strong>A problem solver</strong> – naturally curious and motivated to find better ways of doing things.&nbsp;</p></li></ul><ul><li><p><strong>Pragmatic</strong> – able to balance the ideal solution with what is practical and valuable.&nbsp;</p></li></ul><ul><li><p><strong>Influential</strong> – confident working with senior leaders, frontline teams and technical specialists.&nbsp;</p></li></ul><ul><li><p><strong>Accountable</strong> – you take ownership of outcomes, not just tasks.&nbsp;</p></li></ul><ul><li><p><strong>A strong communicator</strong> – able to explain complex technology in straightforward business language.&nbsp;</p></li></ul><p><strong>Why Join Custodian?</strong>&nbsp;</p><p>This is an opportunity to build, not simply maintain.&nbsp;</p><p>You will have genuine ownership of Custodian's Salesforce and technology capability and the opportunity to influence how the business operates as it enters its next phase of growth.&nbsp;</p><p>You'll work directly with senior leaders and teams across the business, with the autonomy to bring in specialist expertise where required.&nbsp;</p><p>Most importantly, you'll see your work translate directly into better systems, less administration, better data, greater productivity and a better experience for our clients and our people.&nbsp;</p><p>We also invest heavily in our culture so you’ll work alongside people who genuinely enjoying coming to work each day, enjoy social functions, weekly yoga class and paid birthday leave.&nbsp;</p><p>If this role sounds like a good fit? Or perhaps you feel you can undertake most, but not all of the role, please reach out. We’d still like to speak with you.&nbsp;</p>",
+      "job_description": "<p><strong>About Custodian</strong>&nbsp;</p><p>Custodian is an Australian property investment company with a long history of helping Australians build long-term wealth through residential property investment.&nbsp;</p><p>Our end-to-end investment model brings together property strategy, finance, property acquisition, construction and property management support, providing clients with a simpler, lower-risk way to invest in new property.&nbsp;</p><p>Technology is increasingly central to how we attract and manage clients, operate our business, manage data and deliver an exceptional client experience.&nbsp;</p><p>We are looking for a commercially minded, hands-on Salesforce &amp; Technology Lead to take ownership of Salesforce and help shape the technology, systems and processes that will support Custodian's next phase of growth.&nbsp;</p><p><strong>The Opportunity</strong>&nbsp;</p><p>This is a newly created role for someone who can operate at the intersection of Salesforce, technology, data and business improvement.&nbsp;</p><p>You will be Custodian's internal Salesforce expert and technology lead, working closely with senior leaders and teams across the business to identify opportunities, solve problems and implement practical technology solutions.&nbsp;</p><p>The role combines hands-on Salesforce development and optimisation with technology strategy, project leadership, automation, data, integrations and vendor management.&nbsp;</p><p>We are looking for someone who is strategic enough to see the bigger picture, but hands-on enough to roll up their sleeves and make things happen. You will also be responsible for managing external consultants for specialist assistance as needed, and ensuring technology optimisation projects are delivered in a timely and efficient manner, and on budget.&nbsp;</p><p><strong>Key Responsibilities</strong>&nbsp;</p><ul><li><p>Own the ongoing development, optimisation and performance of Salesforce as a critical business platform.&nbsp;</p></li></ul><ul><li><p>Act as Custodian's primary Salesforce subject matter expert and provide technical guidance across the business.&nbsp;</p></li></ul><ul><li><p>Design, configure, develop and implement Salesforce solutions, including Flows, automation, reports, dashboards and, where appropriate, Apex and Lightning Web Components.&nbsp;</p></li></ul><ul><li><p>Translate business requirements and pain points into practical, scalable technology solutions.&nbsp;</p></li></ul><ul><li><p>Improve data quality, governance, reporting and visibility across the customer lifecycle.&nbsp;</p></li></ul><ul><li><p>Design, manage and improve integrations, APIs and data flows between Salesforce and other business systems.&nbsp;</p></li></ul><ul><li><p>Lead technology and systems projects from concept through to implementation, including requirements, planning, testing, delivery and adoption.&nbsp;</p></li></ul><ul><li><p>Identify opportunities to automate manual processes and improve productivity through technology, AI and workflow automation.&nbsp;</p></li></ul><ul><li><p>Manage external Salesforce developers, consultants and technology providers, ensuring appropriate scope, quality, cost and delivery.&nbsp;</p></li></ul><ul><li><p>Evaluate technology solutions and suppliers based on business value, risk, cost and return on investment.&nbsp;</p></li></ul><ul><li><p>Ensure technology systems are appropriately secure, reliable, documented and governed.&nbsp;</p></li></ul><ul><li><p>Support Salesforce adoption through effective user engagement, training and continuous improvement.&nbsp;</p></li></ul><ul><li><p>Stay informed about emerging Salesforce, AI and technology capabilities and identify those with genuine commercial application for Custodian.&nbsp;</p></li></ul><p><strong>Skills &amp; Experience</strong>&nbsp;</p><p><strong>Essential</strong>&nbsp;</p><ul><li><p>Significant experience in a senior Salesforce, business systems, technology or digital transformation role.&nbsp;</p></li></ul><ul><li><p>Strong hands-on Salesforce experience across configuration, automation, development, reporting and data management.&nbsp;</p></li></ul><ul><li><p>Experience with Salesforce Flow and ideally Apex, Lightning Web Components, Salesforce Marketing Cloud, and Salesforce APIs.&nbsp;</p></li></ul><ul><li><p>Demonstrated experience delivering technology or Salesforce projects from requirements through to implementation.&nbsp;</p></li></ul><ul><li><p>Experience managing external technology consultants, developers or suppliers.&nbsp;</p></li></ul><ul><li><p>Strong business process improvement and problem-solving skills.&nbsp;</p></li></ul><ul><li><p>Excellent stakeholder management and communication skills.&nbsp;</p></li></ul><ul><li><p>Commercial mindset with an ability to assess technology based on business value, cost, risk and ROI.&nbsp;</p></li></ul><ul><li><p>Ability to work independently, take ownership and drive initiatives through to completion.&nbsp;</p></li></ul><p><strong>Desirable</strong>&nbsp;</p><ul><li><p>Salesforce certifications.&nbsp;</p></li></ul><ul><li><p>Understanding of cybersecurity, privacy and technology governance.&nbsp;</p></li></ul><ul><li><p>Experience in property, financial services, professional services or another customer-facing environment.&nbsp;</p></li></ul><p><strong>The Person</strong>&nbsp;</p><p>You are:&nbsp;</p><ul><li><p><strong>Strategic but hands-on</strong> – able to develop a roadmap but equally comfortable getting into Salesforce and building the solution.&nbsp;</p></li></ul><ul><li><p><strong>Commercial</strong> – focused on business outcomes, not technology for technology's sake.&nbsp;</p></li></ul><ul><li><p><strong>A problem solver</strong> – naturally curious and motivated to find better ways of doing things.&nbsp;</p></li></ul><ul><li><p><strong>Pragmatic</strong> – able to balance the ideal solution with what is practical and valuable.&nbsp;</p></li></ul><ul><li><p><strong>Influential</strong> – confident working with senior leaders, frontline teams and technical specialists.&nbsp;</p></li></ul><ul><li><p><strong>Accountable</strong> – you take ownership of outcomes, not just tasks.&nbsp;</p></li></ul><ul><li><p><strong>A strong communicator</strong> – able to explain complex technology in straightforward business language.&nbsp;</p></li></ul><p><strong>Why Join Custodian?</strong>&nbsp;</p><p>This is an opportunity to build, not simply maintain.&nbsp;</p><p>You will have genuine ownership of Custodian's Salesforce and technology capability and the opportunity to influence how the business operates as it enters its next phase of growth.&nbsp;</p><p>You'll work directly with senior leaders and teams across the business, with the autonomy to bring in specialist expertise where required.&nbsp;</p><p>Most importantly, you'll see your work translate directly into better systems, less administration, better data, greater productivity and a better experience for our clients and our people.&nbsp;</p><p>We also invest heavily in our culture so you’ll work alongside people who genuinely enjoying coming to work each day, enjoy social functions, weekly yoga class and paid birthday leave.&nbsp;</p><p>If this role sounds like a good fit? Or perhaps you feel you can undertake most, but not all of the role, please reach out. We’d still like to speak with you.&nbsp;</p>",
       "keywords": [
         "salesforce",
         "technology"
@@ -842,6 +724,23 @@
         "ciam",
         "operations",
         "team"
+      ]
+    },
+    {
+      "job_id": "94668602",
+      "job_title": "Head of Technology",
+      "business_name": "Vitura Health Limited",
+      "work_type": "Full time",
+      "job_type": "Management",
+      "pay_range": "",
+      "area": "Varsity Lakes, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94668602",
+      "advertiser_id": "61623649",
+      "posted_date": "2026-09-16T05:30:39Z",
+      "job_description": "<p>We’re looking for a<strong> Head of Technology</strong> who is responsible for the strategy, security, reliability, and operational performance of the organisation's technology platforms, infrastructure, networks, cloud environments, and cybersecurity capabilities.</p><p></p><p>As a senior technology leader, the role ensures technology services are secure, resilient, scalable, compliant, and aligned to business objectives. The Head of Technology works in close partnership with the Head of Engineering and Product leaders to enable innovation while maintaining robust operational and security standards.</p><p></p><p>This role is critical in supporting the delivery of high-quality health services, ensuring that technology systems protect sensitive health information, meet regulatory requirements, and provide exceptional availability and performance for employees and customers.</p><p>&nbsp;</p><p><strong>Key Accountabilities</strong></p><p>The Head of Technology will be accountable for:</p><ul>\n<li>Cybersecurity posture and maturity</li>\n<li>Information security compliance</li>\n<li>Data Governance</li>\n<li>Cloud platform performance and stability </li>\n<li>Infrastructure reliability and availability</li>\n<li>Technology service delivery</li>\n<li>Disaster recovery and business continuity readiness</li>\n<li>Technology risk management</li>\n<li>Operational budgets and vendor performance</li>\n<li>Team engagement and capability development</li>\n</ul><p>&nbsp;</p><p><strong>Essential Experience</strong></p><ul>\n<li>10+ years of technology leadership experience.</li>\n<li>Demonstrated success leading infrastructure, networking, cloud, and cyber security functions.</li>\n<li>Experience managing multi-disciplinary technology teams.</li>\n<li>Proven ability to operate effectively within executive leadership environments.</li>\n<li>Extensive experience establishing and managing enterprise cyber security programs.</li>\n<li>Experience leading security incident response and resilience programs.</li>\n<li>Strong understanding of security frameworks including: </li>\n<ul>\n<li>ISO 27001</li>\n<li>NIST Cyber Security Framework</li>\n<li>Essential Eight</li>\n<li>CIS Controls</li>\n<li>Zero Trust Architecture</li>\n</ul>\n<li>Significant experience designing and operating enterprise cloud platforms.</li>\n<li>Deep expertise in: Microsoft Azure, AWS, Microsoft 365, Entra ID (Azure AD), Hybrid cloud environments and cloud governance and security</li>\n<li>Strong experience across: Enterprise networking, SD-WAN, Wireless technologies, VPN and remote access solutions, Network security architecture, Firewalls and secure connectivity</li>\n<li>Experience working within healthcare, health services, aged care, government, financial services, insurance, or other highly regulated environments.</li>\n<li>Understanding of privacy obligations and sensitive data protection requirements.</li>\n</ul><p><strong>&nbsp;</strong></p><p><strong>Desirable skills</strong></p><ul>\n<li>CISSP</li>\n<li>CISM</li>\n<li>CCSP</li>\n<li>AWS Solutions Architect</li>\n<li>Azure Solutions Architect</li>\n<li>ITIL Certification</li>\n<li>TOGAF</li>\n<li>Certified Cloud Security Professional (CCSP)</li>\n</ul><p>&nbsp;</p><p><strong>About Us</strong></p><p>Vitura Health Limited is at the forefront of Australia’s therapeutic medicine sector, pioneering digital healthcare solutions that seamlessly connect patients and providers. Our strategic portfolio of brands - including Doctors on Demand, Canview, CDA Clinics, Candor Medical, Cannadoc, Burleigh Heads Cannabis, Adaya, and Cortexa—redefines healthcare through an innovative ecosystem that integrates cutting-edge technology, patient-centric care, and collaborative partnerships.</p><p></p><p>Our network delivers comprehensive healthcare management, patient treatment pathways, distribution solutions, prescribing software, education, and streamlined pharmacy ordering. As an ASX-listed company, Vitura demonstrates a strong commitment to transparency, accountability, and sustainable growth.</p><p><strong></strong></p><p><strong>Our Values</strong></p><p>At Vitura, our mission is brought to life through our values:</p><p></p><ul>\n<li>Make It Matter:&nbsp;We focus on high-impact work, drive results and adapt fast to deliver what really counts</li>\n<li>Put Patients First:&nbsp;Every decision starts with empathy and keeps safety, experience and improvement at the core</li>\n<li>Raise the Bar:&nbsp;We push for excellence in care, service, outcomes and how we work together</li>\n<li>Think Bold – Act Smart:&nbsp;We are curious, challenge norms, and balance innovation with compliance and care</li>\n<li>Win Together:&nbsp;We build strong partnerships, inside and out, because collaboration fuels growth and success.</li>\n<li>Lead with Integrity:&nbsp;We show up with honesty, humility and respect, owning our actions and evolving with purpose.</li>\n</ul><p>&nbsp;</p><p>Apply now with your&nbsp;resume&nbsp;and&nbsp;cover letter&nbsp;outlining your suitability for this role.</p><p><em><strong></strong></em></p><p><em><strong>As part of our recruitment process, shortlisted candidates may be invited to complete a brief AI-powered pre-screening interview via Employment Hero. You'll receive an invitation via email - please check your junk/spam folder if you don't see it in your inbox within a few business days of applying.</strong></em></p><p>&nbsp;</p>",
+      "keywords": [
+        "technology"
       ]
     },
     {
@@ -956,6 +855,26 @@
       "keywords": [
         "applied",
         "intelligence",
+        "product",
+        "specialist"
+      ]
+    },
+    {
+      "job_id": "94633960",
+      "job_title": "Data Migration & Product Specialist",
+      "business_name": "LAPM",
+      "work_type": "Full time",
+      "job_type": "Product Management & Development",
+      "pay_range": "$70,000 – $90,000 per year",
+      "area": "Hollywell, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94633960",
+      "advertiser_id": "55028276",
+      "posted_date": "2026-09-15T02:19:44Z",
+      "job_description": "<p><strong>About LAPM</strong>&nbsp;</p><p>LAPM helps law firms across Australia move between practice-management systems and get more out of their technology. We’ve migrated firms off platforms including LEAP, LawMaster and Practice Evolve, and we build our own suite of legal-technology products. We’re Gold Coast–based, growing fast, and known for solving the problems other people find too hard.&nbsp;</p><p><strong>The role</strong>&nbsp;</p><p>A hands-on role at the intersection of data, software and legal services. You’ll take a firm’s data out of one system, understand it, map it, clean it and land it correctly in the new one — then help them go live and get on with running their firm. Between migrations you’ll test our own products, feed real client needs back to our developers, and help make the software better.&nbsp;</p><p>Some of the work is genuinely technical — reading and shaping data, working with SQL and APIs, understanding how each system stores things. Some of it is done through the target system’s own import tools and front-end channels. Most of it is problem-solving: working out what a messy dataset actually needs.&nbsp;</p><p><strong>What you’ll do</strong>&nbsp;</p><ul><li><p>Run and support data migrations between legal software platforms&nbsp;</p></li></ul><ul><li><p>Extract, map, transform and validate firm data between systems&nbsp;</p></li></ul><ul><li><p>Find and resolve data issues before go-live&nbsp;</p></li></ul><ul><li><p>Load data through vendor import tools and APIs, and reconcile the result&nbsp;</p></li></ul><ul><li><p>Configure and implement software; map how firms actually operate&nbsp;</p></li></ul><ul><li><p>Test our products — find bugs and usability issues, and work with developers on fixes and new features&nbsp;</p></li></ul><ul><li><p>Support firms through migration, testing and go-live&nbsp;</p></li></ul><ul><li><p>Document and continually improve our migration methodology&nbsp;</p></li></ul><p><strong>What you’ll bring</strong>&nbsp;</p><p>You don’t need to have done this exact job — few people have. But you do need to be genuinely technical-minded and precise. Ideally you’ll have:&nbsp;</p><ul><li><p>Real comfort working with data — SQL, spreadsheets, or a scripting language — or clear evidence you pick these up fast&nbsp;</p></li></ul><ul><li><p>Sharp attention to detail and accuracy (you’ll be handling firms’ financial and client records)&nbsp;</p></li></ul><ul><li><p>Strong problem-solving — you can look at a messy dataset and work out what needs to happen&nbsp;</p></li></ul><ul><li><p>The ability to learn new software quickly and to work independently and take ownership&nbsp;</p></li></ul><ul><li><p>Clear communication — you’ll deal with both clients and developers&nbsp;</p></li></ul><ul><li><p>An interest in how software can make a business run better&nbsp;</p></li></ul><p>Hands-on experience with data migration, legal practice-management systems, SQL, Excel, APIs, testing or software development is highly regarded — but aptitude and attitude matter more.&nbsp;</p><p><strong>What matters most</strong>&nbsp;</p><p>A migration isn’t successful because the data technically moved. It’s successful when the client opens the new system on Monday morning and simply gets on with running their firm. If you take pride in getting things exactly right, notice the details others miss, and genuinely enjoy figuring things out — you’ll fit here.&nbsp;</p><p><strong>Why LAPM</strong>&nbsp;</p><p>You’ll join a growing Australian company at an exciting stage, working across data, technology, legal services and product — from a client’s problem through to building, testing and shipping the fix. We’re practical, we take ownership, and we’re always looking for a better way to do things.&nbsp;</p><p><strong>The next step</strong>&nbsp;</p><p>Click ‘Apply now’. Your application will ask: your right to work in Australia, your expected annual base salary, and your notice period.&nbsp;</p>",
+      "keywords": [
+        "data",
+        "migration",
         "product",
         "specialist"
       ]
@@ -1332,6 +1251,24 @@
       ]
     },
     {
+      "job_id": "94422780",
+      "job_title": "Business Analyst",
+      "business_name": "SEE Group",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "Work close to home on northern Gold Coast",
+      "area": "Helensvale, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94422780",
+      "advertiser_id": "23598234",
+      "posted_date": "2026-09-04T07:01:11Z",
+      "job_description": "<p><strong>The Opportunity</strong></p><p>We have an exciting opportunity for an experienced <strong>Business Analyst</strong> to join our Digital, Technology &amp; Innovation team and play a central role in delivering SEE Group's digital transformation program. You'll bridge the gap between business needs and technology solutions - engaging stakeholders across the business, capturing and analysing requirements, mapping current and future-state processes, and translating these into clear, well-documented specifications that guide the design and delivery of new systems and enhancements.</p><p>Working across a broad application landscape spanning enterprise systems, Microsoft cloud platforms, and bespoke applications, you'll help ensure the solutions we deliver are fit for purpose, adopted successfully, and deliver measurable value to the business.</p><p><strong>Responsibilities</strong></p><ul><li><p>Engage stakeholders through workshops, interviews and observation to gather, analyse and prioritise business, functional and non-functional requirements</p></li><li><p>Document current-state (as-is) processes and design improved future-state (to-be) processes, identifying gaps and opportunities to streamline operations</p></li><li><p>Translate business requirements into clear functional specifications, user stories and acceptance criteria</p></li><li><p>Build strong working relationships with stakeholders at all levels, acting as a trusted link between the business and technical teams</p></li><li><p>Develop test scenarios and coordinate user acceptance testing (UAT), tracking and resolving defects and feedback prior to release</p></li><li><p>Support the delivery team throughout implementation and help the business adopt change through user documentation, training materials and process guides</p></li></ul><p><strong>Essential Skills and Attributes</strong></p><ul><li><p>Previous experience as a Business Analyst or similar role, ideally within construction, engineering, mining or a related industry</p></li><li><p>Demonstrated experience in requirements elicitation, analysis and management, with the ability to produce clear specifications, user stories and acceptance criteria</p></li><li><p>Skilled in process mapping and documentation using techniques such as BPMN or process flow diagrams</p></li><li><p>Comfortable using data to support analysis and decision-making; familiarity with PowerBI or the Microsoft data stack is a plus</p></li><li><p>Sound understanding of enterprise business applications and the Microsoft cloud ecosystem (Microsoft 365, Power Platform, Azure)</p></li><li><p>Experience working within Agile and/or Waterfall delivery methodologies, with hands-on use of tools such as Azure DevOps (Boards)</p></li><li><p>Excellent written and verbal communication skills, with the ability to explain technical concepts in plain language</p></li><li><p>Tertiary qualification in Business, IT or Information Systems, or equivalent practical experience (desirable); BA certification such as BABOK/IIBA or Agile/Scrum (desirable)</p></li></ul><p><strong>The SEE Way</strong></p><p>SEE Group is a family-built company with over 35 years of experience in delivering excellence across civil construction, mining, and infrastructure. At SEE Group, we don't just build projects—we build careers.</p><ul><li><p>Be part of a down-to-earth, supportive team that values diversity and inclusion</p></li><li><p>Benefit from career growth and tailored development opportunities</p></li><li><p>Enjoy personalised rewards and recognition for your hard work</p></li><li><p>Work on impactful projects that shape communities</p></li><li><p>Collaborate with passionate people who bring a \"boots &amp; all\" attitude to everything they do</p></li></ul><p><strong>What's Next?</strong></p><p>If you would like to join our team and hold full, unlimited working rights in Australia, we encourage you to submit your CV by clicking apply now.</p><p>As an Equal Opportunity Employer, Women and People of Aboriginal and Torres Strait Island heritage are strongly encouraged to apply.</p><p>Interested to learn more about SEE Group? Visit our website at www.seegroup.com.au</p>",
+      "keywords": [
+        "business",
+        "analyst"
+      ]
+    },
+    {
       "job_id": "94418616",
       "job_title": "Business Systems & IT Specialist",
       "business_name": "Private Advertiser",
@@ -1654,6 +1591,25 @@
         "software",
         "engineering",
         "manager"
+      ]
+    },
+    {
+      "job_id": "94143028",
+      "job_title": "Service Desk Analyst",
+      "business_name": "Edison Talent",
+      "work_type": "Contract/Temp",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "Competitive",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94143028",
+      "advertiser_id": "34041211",
+      "posted_date": "2026-08-22T03:03:06Z",
+      "job_description": "Service Desk Analyst - Contract Opportunity<br><br> Gold Coast Location<br><br> &nbsp;<br><br> We are proud to be partnered with this National Business, providing outstanding services to everyday Australians.<br><br> Due to a digital transformation they require some temporary Service Desk Analysts to support the existing team.<br><br> &nbsp;<br><br> The role acts as a central point of contact between customers and the IT department, providing support to help users resume work as quickly as possible following IT service disruptions.<br><br> <strong>Key responsibilities include:</strong><br><br><ul><li>Providing phone, remote and central support to sites and users.</li><li>Delivering Level 1 and partial Level 2 support across IT hardware and software.</li><li>Detecting, recording, resolving and escalating incidents and known problems.</li><li>Providing ongoing user training and documenting procedures and processes.</li><li>Reporting data from information systems and monitoring communications service usage and performance.</li><li>Processing approved technology and communications orders, coordinating hardware and warranty replacements, and maintaining inventory records.</li><li>Liaising with software and hardware vendors regarding incident resolution, advice, quotes and upgrades.</li></ul><strong>Essential requirements:</strong><br><br><ul><li>At least 1 year of Service Desk experience, or a recent graduate with a strong desire to learn and succeed in a fast-paced environment.</li><li>Strong customer service, problem-solving, verbal and written communication skills.</li><li>Strong attention to detail.</li><li>IT Diploma or above.</li><li>Valid Australian driver’s licence.</li></ul><strong>Desirable:</strong><br><br><ul><li>Bachelor of Computer Science.</li><li>Experience with Office 365 and other cloud-based platforms.</li><li>Experience with Active Directory.</li><li>Knowledge of core networking.</li><li>Experience with Windows Server operating systems.</li><li>A Nationally Coordinated Criminal History Check is required for the successful candidate.</li></ul>&nbsp;<br><br> We are looking for candidates that can start immediately.<br><br> &nbsp;<br><br> Contact <a href=\"mailto:Charlie@edisontalent.com.au\">Charlie@edisontalent.com.au</a> for more information.",
+      "keywords": [
+        "service",
+        "desk",
+        "analyst"
       ]
     },
     {
