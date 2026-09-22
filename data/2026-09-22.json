@@ -1,18 +1,18 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-22",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-23T08:32:29.611343+10:00",
+  "scraped_at": "2026-09-22T08:56:37.561733+10:00",
   "total_jobs": 63,
   "keywords": [
     {
       "term": "support",
-      "count": 18,
-      "share": 0.2857
+      "count": 17,
+      "share": 0.2698
     },
     {
       "term": "it",
-      "count": 14,
-      "share": 0.2222
+      "count": 13,
+      "share": 0.2063
     },
     {
       "term": "analyst",
@@ -30,27 +30,17 @@
       "share": 0.1429
     },
     {
-      "term": "systems",
-      "count": 6,
-      "share": 0.0952
-    },
-    {
       "term": "software",
       "count": 6,
       "share": 0.0952
     },
     {
-      "term": "business",
-      "count": 5,
-      "share": 0.0794
-    },
-    {
-      "term": "data",
-      "count": 5,
-      "share": 0.0794
-    },
-    {
       "term": "ai",
+      "count": 5,
+      "share": 0.0794
+    },
+    {
+      "term": "systems",
       "count": 5,
       "share": 0.0794
     },
@@ -60,12 +50,22 @@
       "share": 0.0794
     },
     {
-      "term": "officer",
-      "count": 5,
-      "share": 0.0794
+      "term": "business",
+      "count": 4,
+      "share": 0.0635
+    },
+    {
+      "term": "data",
+      "count": 4,
+      "share": 0.0635
     },
     {
       "term": "specialist",
+      "count": 4,
+      "share": 0.0635
+    },
+    {
+      "term": "manager",
       "count": 4,
       "share": 0.0635
     },
@@ -80,9 +80,9 @@
       "share": 0.0635
     },
     {
-      "term": "manager",
-      "count": 3,
-      "share": 0.0476
+      "term": "officer",
+      "count": 4,
+      "share": 0.0635
     },
     {
       "term": "desk",
@@ -91,6 +91,11 @@
     },
     {
       "term": "infrastructure",
+      "count": 3,
+      "share": 0.0476
+    },
+    {
+      "term": "product",
       "count": 3,
       "share": 0.0476
     },
@@ -125,11 +130,6 @@
       "share": 0.0317
     },
     {
-      "term": "broadbeach",
-      "count": 2,
-      "share": 0.0317
-    },
-    {
       "term": "desktop",
       "count": 2,
       "share": 0.0317
@@ -141,11 +141,6 @@
     },
     {
       "term": "operations",
-      "count": 2,
-      "share": 0.0317
-    },
-    {
-      "term": "product",
       "count": 2,
       "share": 0.0317
     },
@@ -175,11 +170,6 @@
       "share": 0.0159
     },
     {
-      "term": "automation",
-      "count": 1,
-      "share": 0.0159
-    },
-    {
       "term": "analysis",
       "count": 1,
       "share": 0.0159
@@ -200,17 +190,17 @@
       "share": 0.0159
     },
     {
+      "term": "reporting",
+      "count": 1,
+      "share": 0.0159
+    },
+    {
       "term": "salesforce",
       "count": 1,
       "share": 0.0159
     },
     {
       "term": "technology",
-      "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "reporting",
       "count": 1,
       "share": 0.0159
     },
@@ -260,12 +250,12 @@
       "share": 0.0159
     },
     {
-      "term": "frontend",
+      "term": "backend",
       "count": 1,
       "share": 0.0159
     },
     {
-      "term": "backend",
+      "term": "frontend",
       "count": 1,
       "share": 0.0159
     },
@@ -345,21 +335,6 @@
       "share": 0.0159
     },
     {
-      "term": "helpdesk",
-      "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "pimpama",
-      "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "campus",
-      "count": 1,
-      "share": 0.0159
-    },
-    {
       "term": "msp",
       "count": 1,
       "share": 0.0159
@@ -371,6 +346,21 @@
     },
     {
       "term": "required",
+      "count": 1,
+      "share": 0.0159
+    },
+    {
+      "term": "helpdesk",
+      "count": 1,
+      "share": 0.0159
+    },
+    {
+      "term": "pimpama",
+      "count": 1,
+      "share": 0.0159
+    },
+    {
+      "term": "campus",
       "count": 1,
       "share": 0.0159
     },
@@ -395,6 +385,11 @@
       "share": 0.0159
     },
     {
+      "term": "broadbeach",
+      "count": 1,
+      "share": 0.0159
+    },
+    {
       "term": "sharepoint",
       "count": 1,
       "share": 0.0159
@@ -410,7 +405,32 @@
       "share": 0.0159
     },
     {
+      "term": "industry",
+      "count": 1,
+      "share": 0.0159
+    },
+    {
+      "term": "equipment",
+      "count": 1,
+      "share": 0.0159
+    },
+    {
       "term": "cyber",
+      "count": 1,
+      "share": 0.0159
+    },
+    {
+      "term": "field",
+      "count": 1,
+      "share": 0.0159
+    },
+    {
+      "term": "change",
+      "count": 1,
+      "share": 0.0159
+    },
+    {
+      "term": "readiness",
       "count": 1,
       "share": 0.0159
     },
@@ -447,46 +467,6 @@
   ],
   "jobs": [
     {
-      "job_id": "94794069",
-      "job_title": "IT Support Officer - Broadbeach, QLD",
-      "business_name": "Ignite",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Broadbeach, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94794069",
-      "advertiser_id": "55324746",
-      "posted_date": "2026-09-22T03:58:40Z",
-      "job_description": "<p>&nbsp;</p>\n<div>Ignite Travel Group is looking for an IT Support Analyst to join our Technology team and play a key role in keeping our people connected, productive, and supported. Reporting to the IT Operations Manager, you will work closely with managers and team members across the business, delivering exceptional technical support and maintaining a reliable computing environment. This is a hands-on opportunity where you'll troubleshoot issues, support network infrastructure, deploy new technology, and contribute to continuous improvement initiatives that enhance the overall employee experience.</div>\n<p>&nbsp;</p>\n<p><strong>A day in the life:</strong></p>\n<div>\n<ul>\n<li>Provide first-line technical support to end-users, resolving hardware, software, and system issues in a timely manner.</li>\n<li>Manage incidents and service requests through the ticketing system, ensuring accurate documentation and SLA compliance.</li>\n<li>Install, configure, maintain, and troubleshoot computer hardware, peripherals, and software applications.</li>\n<li>Perform system upgrades, software updates, and security patching activities.</li>\n<li>Support LAN, WAN, and WLAN environments, including troubleshooting connectivity and network-related issues.</li>\n<li>Deploy and configure new laptops, workstations, mobile devices, and user accounts in line with security requirements.</li>\n<li>Maintain IT security standards through user access management, malware protection, backups, and policy compliance.</li>\n<li>Identify and implement opportunities to improve IT processes, service delivery, and operational efficiency.</li>\n<li>Contribute to a safe, inclusive, and accessible work environment where all Flighties feel welcomed, respected, and supported to thrive.</li>\n</ul>\n</div>\n<p>&nbsp;</p>\n<p><strong>Who you are:</strong></p>\n<div>\n<ul>\n<li>Bachelor's degree in Information Technology, Computer Science, or a related discipline, or equivalent practical experience.</li>\n<li>Proven experience in an IT Helpdesk, Service Desk, Desktop Support, or similar technical support environment.</li>\n<li>Demonstrated experience supporting users, ICT systems, and multi-site technology environments.</li>\n<li>Strong knowledge of LAN, WAN, WLAN infrastructure, networking fundamentals, and troubleshooting techniques.</li>\n<li>Experience supporting routers, switches, wireless access points, and network connectivity.</li>\n<li>Proficiency supporting Windows, macOS, and common business software applications.</li>\n<li>Strong understanding of IT security standards, controls, and best practices.</li>\n<li>Excellent communication, problem-solving, and customer service skills, with the ability to work independently and collaboratively.</li>\n</ul>\n</div>\n<p>&nbsp;</p>\n<p><strong>What you'll enjoy:</strong></p>\n<p>&nbsp;</p>\n<div>\n<p>📚&nbsp;Ongoing skills development</p>\n</div>\n<div>\n<p>🚀&nbsp;Catapult your career across a network of brands and businesses in an evolving industry</p>\n</div>\n<div>\n<p>✈️&nbsp;Say no to full price! Nab discounts on travel and more thanks to our sweet rewards program</p>\n</div>\n<div>\n<p>👩‍⚕️&nbsp;Access to industry leading health and well - being programs and financial advisors</p>\n</div>\n<div>\n<p>🌴&nbsp;Set up shop in a swanky beachfront office in Broadbeach</p>\n</div>\n<div>\n<p>💃🏿&nbsp;Enjoy social events to promote networking, celebration of wins, and sometimes just for fun!</p>\n</div>\n<div>\n<p>&nbsp;👐🏻&nbsp;Take volunteer leave as part of giving back to the local community</p>\n<p>#LI-KP1#IGNT#LI-Onsite</p>\n</div>\n<p>&nbsp;</p>",
-      "keywords": [
-        "it",
-        "support",
-        "officer",
-        "broadbeach"
-      ]
-    },
-    {
-      "job_id": "94793472",
-      "job_title": "Business Systems, Data & Automation Lead",
-      "business_name": "Currumbin Wildlife Sanctuary",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "$140K plus super",
-      "area": "Currumbin, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94793472",
-      "advertiser_id": "21620849",
-      "posted_date": "2026-09-22T03:44:20Z",
-      "job_description": "<p><strong>About National Trust of Australia (Queensland)</strong><br>National Trust of Australia (Queensland) (NTAQ) is a membership-based environmental charity connecting people with significant places, collections and stories across Queensland. NTAQ manages a diverse portfolio of wildlife and heritage destinations, including one of the Gold Coast's most iconic visitor attractions, Currumbin Wildlife Sanctuary. As one of Queensland’s earliest nature-based tourist destinations, the Sanctuary is a physical embodiment of everything the NTAQ represents: to protect, conserve and celebrate Queensland's environmental, built and cultural heritage for future generations.</p><p>As we continue to evolve our technology ecosystem and invest in new business intelligence and data capabilities, we are seeking an experienced <strong>Business Systems, Data &amp; Automation Lead</strong> to help drive smarter ways of working across the organisation.</p><p><strong>About the Role</strong><br>This is an exciting opportunity for a systems-minded professional who enjoys transforming business challenges into practical technology solutions. Reporting to the General Manager and working closely with leaders, vendors and specialist consultants, you will play a key role in helping NTAQ realise the full value of its technology investments. As we continue to enhance our systems landscape and build our data and reporting capability, you will help connect platforms, improve data accessibility and drive greater organisational efficiency through automation and integration.</p><p>In this hands-on role, you will lead the ongoing optimisation of NTAQ's business systems, working across departments to identify opportunities to simplify processes, improve reporting and reduce manual effort. A key focus of the role will be supporting the implementation and ongoing development of our data warehouse environment, ensuring leaders have access to meaningful insights that support informed decision-making.</p><p>Using business intelligence, analytics and workflow automation tools to develop reporting, enhance processes and improve organisational performance, you will develop dashboards, automate workflows and improve the way information moves across the organisation. You will also work closely with software vendors and technology partners to ensure NTAQ continues to maximise system capability, maturity and return on investment.</p><p>This role is ideal for someone who enjoys balancing strategic thinking with hands-on delivery, contributing to future technology direction while delivering practical solutions that create measurable business outcomes for our people and guests.&nbsp; By connecting systems, improving data accessibility and driving automation, you will help create a more efficient and commercially sustainable organisation, enabling NTAQ to continue delivering on its mission of conserving Queensland's natural, built and cultural heritage.</p><p><strong>About You</strong><br>You are naturally curious, analytical and solutions-focused. You enjoy understanding how organisations operate and finding opportunities to improve processes, reporting and outcomes through technology. You can confidently work across both strategic and operational activities, contributing to future systems planning while also delivering practical solutions that create measurable business value. To be successful in this role you will have:</p><ul><li><p>Relevant qualifications and/or demonstrated experience in Information Technology, Information Systems, Data Analytics or a related field.</p></li><li><p>Strong capability in data warehousing, business intelligence, reporting, dashboard development and data visualisation, with experience using contemporary analytics platforms such as Power BI or equivalent tools.</p></li><li><p>Experience managing and optimising business systems, integrations and digital solutions and supporting process improvement.</p></li><li><p>Experience working with CRM, POS, ticketing, ERP/HRIS or similar will be highly regarded,, including the integration of data into warehouse and reporting environments.</p></li><li><p>Excellent stakeholder engagement, communication and relationship management skills.</p></li><li><p>Experience working with vendors and technology partners to improve system capability, maturity and organisational value.</p></li><li><p>Proven ability to analyse business requirements and translate them into practical technology solutions.</p></li><li><p>Demonstrated commitment to continuous improvement, innovation and data-driven decision making.</p></li><li><p>Comfortable working in an environment which includes native wildlife such as birds and reptiles.</p></li></ul><p><strong>What We Can Offer</strong><br>Just as our purpose is to protect, conserve and celebrate Queensland's environmental, built and cultural heritage, we are equally committed to supporting and developing our people.&nbsp;</p><ul><li><p>Competitive salary package</p></li><li><p>Free onsite parking</p></li></ul><ul><li><p>Flexible working arrangements</p></li><li><p>Study leave and professional development opportunities</p></li><li><p>Access to tertiary education partners and recognised qualifications</p></li><li><p>NTAQ Team Member Card with unlimited entry to Currumbin Wildlife Sanctuary and selected NTAQ sites</p></li><li><p>Family and Friends passes</p></li><li><p>Discounts across retail and food &amp; beverage outlets</p></li><li><p>The opportunity to contribute to an organisation making a genuine difference in conservation, wildlife and heritage outcomes across Queensland</p></li></ul><p><br></p>",
-      "keywords": [
-        "business",
-        "systems",
-        "data",
-        "automation"
-      ]
-    },
-    {
       "job_id": "94772240",
       "job_title": "Solution Architect",
       "business_name": "Southern Cross University",
@@ -498,7 +478,7 @@
       "url": "https://www.seek.com.au/job/94772240",
       "advertiser_id": "15012749",
       "posted_date": "2026-09-21T07:11:49Z",
-      "job_description": "<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing <a href=\"https://www.scu.edu.au/southern-cross-model/\" target=\"_self\">Southern Cross Model</a> brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity</strong></p>\n<p>Southern Cross University is on an ambitious journey to redefine how technology empowers learning, research, and community impact. We’re building a future-ready technology organisation – modern, secure, adaptable, and driven by innovation.&nbsp; Our teams are embracing emerging technologies, including&nbsp;artificial intelligence, to deliver smarter services and real-world benefits for students, staff, and the wider community.</p>\n<p>Within Technology Services, our five dynamic work units – Data, Architecture &amp; Integration, Cyber Resilience, Digital Delivery &amp; Innovation, Technology Platforms, and Operations &amp; Services – work collaboratively to deliver high-impact solutions across the University.</p>\n<p>We are seeking a Solution Architect to lead the design and delivery of complex, enterprise-wide solutions that span multiple systems, platforms, and business domains.&nbsp; This senior technical role offers the chance to shape architectural direction, establish design standards, and drive strategic solution initiatives across the University’s teaching, learning, research, and administrative functions.</p>\n<p>Reporting to the Enterprise Architect, you will work closely with development teams, project managers, and business stakeholders to deliver high-impact solutions aligned with the University’s enterprise architecture vision</p>\n<p>You will make an impact by:</p>\n<ul>\n<li>Designing and delivering robust enterprise-grade solution architectures that support teaching, research, student services, and operations across all major university domains</li>\n<li>Leading the integration of core platforms such as TechnologyOne, Microsoft Dynamics, Blackboard, Microsoft Teams, and custom applications, ensuring seamless connectivity across all systems</li>\n<li>Establishing and promoting architectural standards and frameworks that ensure scalability, security, and maintainability across all digital initiatives</li>\n<li>Providing expert guidance and mentorship to develop teams, driving best practices in solution design, technology selection, and implementation</li>\n<li>Collaborating with stakeholders and contributing to the university technology roadmap, championing innovation, emerging technologies, and long term strategic planning</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<p>You’re an experienced and forward-thinking Solution Architect with deep technical knowledge, strong leadership skills, and a collaborative approach to problem solving.&nbsp; You thrive in complex environments, enjoy working across multiple business domains, and are passionate about delivering scalable, impactful technology solutions.</p>\n<p>To succeed in this role, you will also need:</p>\n<ul>\n<li>A Bachelor’s degree in Information Technology, Computer Science, or a related field</li>\n<li>Ideally 8+ years in technical roles with at least 5 years in solution architecture</li>\n<li>Proven experience in designing and integrating enterprise platforms including TechnologyOne, Dynamics 365, Blackboard, and Microsoft Teams</li>\n<li>Strong understanding of solution design patterns, architectural frameworks, and integration practices</li>\n<li>Demonstrate ability to lead large scale architecture initiatives and collaborate with cross-functional teams</li>\n<li>Excellent stakeholder engagement and communication skills, translating business needs into technical strategy</li>\n<li>A commitment to innovation, continuous improvement, and delivering real world impact</li>\n</ul>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/gold-coast/\" target=\"_self\">Gold Coast</a>, <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/coffs-harbour/\" target=\"_self\">Coffs Harbour</a> and the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/lismore/\" target=\"_self\">Northern Rivers</a> region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li>Full-time, continuing (permanent)</li>\n<li>Located at either Coffs Harbour, NSW 2450, Gold Coast, QLD 4225, or Lismore, NSW 2480. Relocation Assistance, making it easier to join our regional communities</li>\n<li>The level of appointment will be commensurate with the candidate’s qualifications, skills and experience.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit <a href=\"https://www.scu.edu.au/about/jobs-at-southern-cross/why-work-at-southern-cross-university/\" target=\"_self\">Why work at Southern Cross University?</a></p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>Name: Vivian Cormier<br>Email: <a href=\"mailto:Vivian.cormier@scu.edu.au\">Vivian.cormier@scu.edu.au</a></p>\n<p><strong>Applications close 11.30pm AEST 4 October 2026</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. &nbsp;Employer visa sponsorship is not available for this position.</p>\n<p>Applicants must apply online and attach a CV and cover letter responding to the selection criteria within the position description. Information to support you prepare your application is available on our <a href=\"https://www.scu.edu.au/about/jobsscu/vacancies/applying-for-a-position/\" target=\"_self\">website.</a></p>\n<p><em>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to </em><a href=\"mailto:jobs@scu.edu.au\" target=\"_self\"><em>jobs@scu.edu.au.</em></a></p>\n<p>#LI-VC1</p>\n<p>#All</p>\n",
+      "job_description": "<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing <a href=\"https://www.scu.edu.au/southern-cross-model/\" target=\"_self\">Southern Cross Model</a> brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity</strong></p>\n<p>Southern Cross University is on an ambitious journey to redefine how technology empowers learning, research, and community impact. We’re building a future-ready technology organisation – modern, secure, adaptable, and driven by innovation.&nbsp; Our teams are embracing emerging technologies, including&nbsp;artificial intelligence, to deliver smarter services and real-world benefits for students, staff, and the wider community.</p>\n<p>Within Technology Services, our five dynamic work units – Data, Architecture &amp; Integration, Cyber Resilience, Digital Delivery &amp; Innovation, Technology Platforms, and Operations &amp; Services – work collaboratively to deliver high-impact solutions across the University.</p>\n<p>We are seeking a Solution Architect to lead the design and delivery of complex, enterprise-wide solutions that span multiple systems, platforms, and business domains.&nbsp; This senior technical role offers the chance to shape architectural direction, establish design standards, and drive strategic solution initiatives across the University’s teaching, learning, research, and administrative functions.</p>\n<p>Reporting to the Enterprise Architect, you will work closely with development teams, project managers, and business stakeholders to deliver high-impact solutions aligned with the University’s enterprise architecture vision</p>\n<p>You will make an impact by:</p>\n<ul>\n<li>Designing and delivering robust enterprise-grade solution architectures that support teaching, research, student services, and operations across all major university domains</li>\n<li>Leading the integration of core platforms such as TechnologyOne, Microsoft Dynamics, Blackboard, Microsoft Teams, and custom applications, ensuring seamless connectivity across all systems</li>\n<li>Establishing and promoting architectural standards and frameworks that ensure scalability, security, and maintainability across all digital initiatives</li>\n<li>Providing expert guidance and mentorship to develop teams, driving best practices in solution design, technology selection, and implementation</li>\n<li>Collaborating with stakeholders and contributing to the university technology roadmap, championing innovation, emerging technologies, and long term strategic planning</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<p>You’re an experienced and forward-thinking Solution Architect with deep technical knowledge, strong leadership skills, and a collaborative approach to problem solving.&nbsp; You thrive in complex environments, enjoy working across multiple business domains, and are passionate about delivering scalable, impactful technology solutions.</p>\n<p>To succeed in this role, you will also need:</p>\n<ul>\n<li>A Bachelor’s degree in Information Technology, Computer Science, or a related field</li>\n<li>Ideally 8+ years in technical roles with at least 5 years in solution architecture</li>\n<li>Proven experience in designing and integrating enterprise platforms including TechnologyOne, Dynamics 365, Blackboard, and Microsoft Teams</li>\n<li>Strong understanding of solution design patterns, architectural frameworks, and integration practices</li>\n<li>Demonstrate ability to lead large scale architecture initiatives and collaborate with cross-functional teams</li>\n<li>Excellent stakeholder engagement and communication skills, translating business needs into technical strategy</li>\n<li>A commitment to innovation, continuous improvement, and delivering real world impact</li>\n</ul>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/gold-coast/\" target=\"_self\">Gold Coast</a>, <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/coffs-harbour/\" target=\"_self\">Coffs Harbour</a> and the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/lismore/\" target=\"_self\">Northern Rivers</a> region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li>Full-time, continuing (permanent)</li>\n<li>Located at either Coffs Harbour, NSW 2450, Gold Coast, QLD 4225, or Lismore, NSW 2480. Relocation Assistance, making it easier to join our regional communities</li>\n<li>The level of appointment will be commensurate with the candidate’s qualifications, skills and experience.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit <a href=\"https://www.scu.edu.au/about/jobs-at-southern-cross/why-work-at-southern-cross-university/\" target=\"_self\">Why work at Southern Cross University?</a></p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>Name: Vivian Cormier<br>Email: <a href=\"mailto:Vivian.cormier@scu.edu.au\">Vivian.cormier@scu.edu.au</a></p>\n<p><strong>Applications close 11.30pm AEST 11 October 2026</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. &nbsp;Employer visa sponsorship is not available for this position.</p>\n<p>Applicants must apply online and attach a CV and cover letter responding to the selection criteria within the position description. Information to support you prepare your application is available on our <a href=\"https://www.scu.edu.au/about/jobsscu/vacancies/applying-for-a-position/\" target=\"_self\">website.</a></p>\n<p><em>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to </em><a href=\"mailto:jobs@scu.edu.au\" target=\"_self\"><em>jobs@scu.edu.au.</em></a></p>\n<p>#LI-VC1</p>\n<p>#All</p>\n",
       "keywords": [
         "solution",
         "architect"
@@ -900,6 +880,45 @@
         "technical",
         "support",
         "analyst"
+      ]
+    },
+    {
+      "job_id": "94665556",
+      "job_title": "Senior Field Change and Readiness Lead",
+      "business_name": "NBN TM Australia",
+      "work_type": "Full time",
+      "job_type": "Telecommunications",
+      "pay_range": "",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94665556",
+      "advertiser_id": "25301659",
+      "posted_date": "2026-09-16T01:30:00Z",
+      "job_description": "<strong><b>Job Expectations</b></strong><br><p><b>Build your career and Australia’s future.</b></p>\n<p>Not many people can say they are working on building Australia’s future. With us you’ll be doing just that, leaving a legacy for all Australians. Plus, there’s equal employment, great training, and true flexible working arrangements.&nbsp;</p>\n<p>A fantastic opportunity has presented itself for a <b>Senior Field Change &amp; Readiness Lead</b> reporting to <b>Senior Manager, Field Change &amp; Readiness</b></p>\n<p>We are looking for an experienced Senior Field Change and Readiness Lead to help our distributed field workforce adopt complex operational change safely, practically and successfully. This senior practitioner role combines portfolio-level change assurance with hands-on delivery across Field Services, regional teams, Control Tower, Service Delivery Partners and professional service groups.&nbsp;</p>\n<p>You will translate enterprise and operational change into clear impacts, realistic readiness plans and practical communications for technicians, field leaders, depots and delivery partners. Success in this role requires strong judgement, excellent plain-English communication and a genuine understanding of how change lands in a blue-collar, frontline environment where safety, fatigue, workflow, tools, skills and customer outcomes matter.</p>\n<p><b>A bit about your role</b></p>\n<p>Reporting to the Senior Manager, Field Change &amp; Readiness, you will lead integrated change planning and assurance across a portfolio of initiatives while directly delivering complex or high-priority change. You will identify cumulative impacts and change collisions, coordinate dependencies, test whether proposed changes are workable for frontline teams and provide clear recommendations to leaders and governance forums.&nbsp;</p>\n<p><b>In this role, you will&nbsp;</b></p>\n<ul><li>Develop and maintain integrated change roadmaps across enterprise programs, Field Services, regions, Control Tower and Service Delivery Partners.&nbsp;</li></ul>\n<ul><li>Lead change impact assessments to identify affected audiences, operational impacts, readiness requirements, dependencies, change collisions and cumulative pressures.&nbsp;</li></ul>\n<ul><li>Translate analysis into practical recommendations, implementation actions and decision-ready advice for senior leaders and governance forums.&nbsp;</li></ul>\n<ul><li>Lead and quality assure stakeholder, readiness, communication, training and adoption plans for complex or priority initiatives.&nbsp;</li></ul>\n<ul><li>Confirm that safety, fatigue, workflows, dispatch, tools, systems, skills, customer and partner impacts are addressed before implementation.&nbsp;</li></ul>\n<ul><li>Manage readiness gates, milestones, risks and mitigations, escalating material barriers and supporting go-live, reinforcement and post-implementation activity.&nbsp;</li></ul>\n<ul><li>Build trusted relationships with field and regional leaders, project teams, Business Readiness Leads, professional service groups and delivery partners.&nbsp;</li></ul>\n<ul><li>Coach change practitioners and project managers, share practical tools and lift the consistency and quality of change delivery.&nbsp;</li></ul>\n<ul><li>Measure workforce understanding, confidence, adoption, compliance and operational outcomes, using insights to improve delivery.&nbsp;</li></ul>\n<p><b>Communication and engagement with our field workforce&nbsp;</b></p>\n<p>A major part of this role is making change clear, relevant and usable for a blue-collar workforce. You will develop audience and channel strategies and create or quality assure practical, plain-English materials such as leader packs, toolbox talks, shift briefings, Field Bulletins, FAQs, visual job aids and reinforcement messages.&nbsp;</p>\n<p>You will work directly with technicians, field leaders, depots, Control Tower and partners to test understanding and practicality, gather feedback and resolve concerns before deployment. You will select channels that work for employees who may be mobile, geographically dispersed, shift-based or have limited access to desk-based communications.</p>\n<p><b>A bit about you</b></p>\n<ul><li>You have significant experience leading complex, cross-functional organisational change, including hands-on delivery from impact assessment through to implementation and reinforcement.&nbsp;</li></ul>\n<ul><li>You have demonstrated experience delivering change communications and engagement for distributed operational, frontline or blue-collar workforces and external partners.&nbsp;</li></ul>\n<ul><li>You understand how to convert strategic or technical change into clear, practical actions for people working in operational environments.&nbsp;</li></ul>\n<ul><li>You can develop integrated roadmaps, change strategies, impact assessments, readiness plans, communication plans and meaningful adoption measures.&nbsp;</li></ul>\n<ul><li>You are an excellent plain-English writer and can tailor messages for technicians, frontline leaders, senior executives and delivery partners.&nbsp;</li></ul>\n<ul><li>You are confident facilitating workshops, influencing senior stakeholders, coaching practitioners and resolving complex problems.&nbsp;</li></ul>\n<ul><li>You bring sound judgement and can balance safety, people, operational, customer and delivery considerations.&nbsp;</li></ul>\n<ul><li>Experience in telecommunications, utilities, construction, logistics, transport, manufacturing or another field-based operational environment will be highly regarded.&nbsp;</li></ul>\n<p><b>Qualifications&nbsp;</b></p>\n<p>A diploma or bachelor’s degree in business, communications, human resources, organisational change or a related discipline—or equivalent professional experience—is expected. A recognised change management qualification is preferred, and communications or project delivery qualifications will be viewed favourably.&nbsp;</p>\n<p><b>Application Process</b></p>\n<p>You may find that your experience does not match every requirement listed but, if this role has piqued your interest or resonates with where you are in your career, we encourage you to apply rather than self-select out. We are interested in transferable skills and your skills and perspective could be exactly what we would value to strengthen our team.</p>\n<p><b>Life at nbn</b></p>\n<p>To be part of nbn is to be part of something bigger. There’s so much more from here. Our pioneering spirit drives us forward every day. Together, we help lift the digital capability of the nation by building and connecting Australia’s best fibre infrastructure into homes and businesses, plus places and things, everywhere. We’re continuing to create Australia’s network—a network made for more. Not just a way for everyone to do the things they love but transforming the way they do them.</p>\n<p><b>A more inclusive working world</b></p>\n<p>nbn is committed to an inclusive, flexible, and supportive workplace where everyone can feel heard, valued, and respected. We believe diverse perspectives are the key to unlocking greater outcomes and encourage applications from people of all ages, nationalities, abilities, and cultures. That's why we have a Reconciliation Action Plan, Accessibility &amp; Inclusion Plan, offer 18 weeks of paid parental leave, are a Pride in Diversity Platinum Employer, and have active employee-led diversity pillars.&nbsp;Click here to see our list of employee benefits&nbsp;and why we're recognised as a WORK180 Endorsed Employer for Women.</p>\n<p><b>Equal Opportunities for All</b></p>\n<p>We champion equal opportunities for all employees. If you have any accessibility requirements and would like to discuss adjustments for the recruitment process, please don’t hesitate to contact us by emailing&nbsp;<a href=\"mailto:recruitment@nbnco.com.au\">recruitment@nbnco.com.au</a> or calling our Recruitment Accessibility Enquiry Line at <a href=\"tel:+61 2 8918 9990\">+61 2 8918 9990</a>. Please note, this line is dedicated to accessibility-related enquiries for the purposes of recruitment, and only enquiries related to accessibility adjustments will be answered. For other matters, please visit our Contact Us page on our website.</p>\n<p><b>Please note that this role is a permanent opportunity and applications will close at midnight on Tuesday, 22nd September.</b></p>\n<p><b>To be eligible for this role, you must have full working rights in Australia.</b></p>\n<strong><b>Worker Type</b></strong><br>Permanent<strong><b>Time Type</b></strong><br>Full time",
+      "keywords": [
+        "field",
+        "change",
+        "readiness"
+      ]
+    },
+    {
+      "job_id": "94644355",
+      "job_title": "Senior Product Manager - Industry & Equipment",
+      "business_name": "carsales",
+      "work_type": "Full time",
+      "job_type": "Product Management & Development",
+      "pay_range": "",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94644355",
+      "advertiser_id": "2762928",
+      "posted_date": "2026-09-15T05:56:31Z",
+      "job_description": "<div>\n<strong>Company Description</strong><br>\n</div>\n<div>\n<p><strong>Are you ready to be a big part of something big?</strong></p>\n<p>At&nbsp;<strong>Machines4U&nbsp;</strong>machinery&nbsp;part of carsales, we’re all about making buying and selling a great experience. We’ve been evolving with the new economy to help people choose how they move today and tomorrow.</p>\n<p>When it comes to your career, we want to<strong> </strong>offer meaningful opportunities that empower you to make a lasting impact. But for that to happen, we strive to feel small, small enough to stay agile, learn across teams, and connect authentically with each other.</p>\n<p>With a vision to be the global leader in online vehicle marketplaces, we’re transforming how people buy and sell across the world. We discover new ideas and bring them to life. We continue to grow, and we continue to evolve and we’re not afraid to take bold steps to get there.</p>\n<p>We embrace hybrid working combining the flexibility of remote work with the energy and connection of in-person collaboration. We champion flexibility and offer a range of policies and leave options to support your wellbeing.</p>\n<p><strong>What’s on offer:&nbsp;</strong></p>\n<ul>\n<li>A place where you can move your career forward, where you’ll be continuously backed to make new ideas happen, and the chance to do work that makes real, significant impact in the world.&nbsp;</li>\n<li>We’re proud to be recognised as one of Australia’s Best Workplaces™ by Great Place to Work®, a Family Friendly Workplace and a WORK180 endorsed employer for women.</li>\n<li>The support of a highly engaged, high-performing team including a leadership team that&nbsp;you’ll actually have face time with.&nbsp;</li>\n<li>24 weeks paid parental leave for primary caregivers, four weeks paid secondary caregivers leave and paid family &amp; fertility planning leave.</li>\n</ul>\n</div>\n<div>\n<strong>Job Description</strong><br>\n</div>\n<div>\n<p><strong>What&nbsp;you’ll&nbsp;be doing:&nbsp;</strong></p>\n<ul>\n<li>Lead the product vision: shape&nbsp;strategy and deliver experiences that drive engagement, growth and&nbsp;customer value.&nbsp;</li>\n<li>Drive channel performance: maximise the buyer and seller&nbsp;experience and commercial impact through optimisation,&nbsp;experimentation&nbsp;and strong ownership of targets.&nbsp;</li>\n<li>Discover and shape new opportunities: identify emerging needs and opportunities, design product solutions and deliver them to market to unlock growth.&nbsp;</li>\n<li>Validate ideas at speed: run experiments and tests to rapidly improve key metrics and outcomes.&nbsp;</li>\n<li>Turn data into decisions: synthesise&nbsp;customer, product and market insights into clear actions.&nbsp;</li>\n<li>Drive cross-squad alignment: manage&nbsp;dependencies and deliver outcomes with cross functional teams.&nbsp;</li>\n<li>Build strong partnerships: Work with teams, vendors, and partners to&nbsp;deliver effectively.&nbsp;</li>\n<li>Influence at the highest level: define and communicate compelling product strategies to senior stakeholders.&nbsp;</li>\n</ul>\n</div>\n<div>\n<strong>Qualifications</strong><br>\n</div>\n<div>\n<p>We’re looking for an experienced,&nbsp;hands-on&nbsp;Product Manager&nbsp;with a proven track record of turning ideas into reality. You thrive in ambiguity, enjoy solving complex problems, and are confident using data to test and validate your instincts.&nbsp;</p>\n<ul>\n<li>Proven experience building products from the ground up, taking ideas from concept to launch.&nbsp;</li>\n<li>Experience in product management, product design, or a commercially focused product role.&nbsp;</li>\n<li>Shows natural curiosity and originality, confidently questioning norms and approaching ideas from fresh perspectives.&nbsp;</li>\n<li>A strong product toolkit, knowing when to apply the right tools, frameworks, and processes for the problem at hand.&nbsp;</li>\n<li>Demonstrated success working cross‑functionally, influencing stakeholders and driving change beyond your immediate team.&nbsp;</li>\n</ul>\n<p><strong>We know not everyone will meet every requirement, and that’s okay. If you’re excited about the role and believe you can make a difference, we’d love to hear from you.</strong></p>\n</div>\n<div>\n<strong>Additional Information</strong><br>\n</div>\n<div>\n<p><strong>A few other things we want you to know...</strong></p>\n<ul>\n<li>As an equal opportunity employer, Machines4U and carsales welcomes applications from individuals of all backgrounds, identities, abilities, and life experiences. We are committed to fostering a diverse and inclusive workplace where everyone feels valued and supported.</li>\n<li>If you have a disability or require adjustments to participate fully in the recruitment process, please let us know - we’re here to support you.</li>\n<li>We understand the importance of work-life balance and offer flexible working arrangements, including part-time options. If you’d like to explore this, just ask during the process.</li>\n<li>We’re also a proud Circle Back Initiative employer, which means we commit to responding to every applicant.</li>\n<li>Successful candidates joining the Machines4U and carsales team will need to complete a National Police Record check and must have full-time Australian working rights.</li>\n</ul>\n<p><strong>So&nbsp;come&nbsp;and&nbsp;join&nbsp;our&nbsp;team&nbsp;-&nbsp;because&nbsp;every&nbsp;role&nbsp;is&nbsp;a&nbsp;big&nbsp;role&nbsp;in&nbsp;our&nbsp;plans&nbsp;to&nbsp;go&nbsp;big.</strong></p>\n</div>",
+      "keywords": [
+        "product",
+        "manager",
+        "industry",
+        "equipment"
       ]
     },
     {
