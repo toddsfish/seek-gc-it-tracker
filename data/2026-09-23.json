@@ -1,483 +1,451 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-23",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-24T08:34:18.455679+10:00",
-  "total_jobs": 64,
+  "scraped_at": "2026-09-23T08:32:29.611343+10:00",
+  "total_jobs": 63,
   "keywords": [
     {
       "term": "support",
-      "count": 19,
-      "share": 0.2969
+      "count": 18,
+      "share": 0.2857
     },
     {
       "term": "it",
       "count": 14,
-      "share": 0.2188
+      "share": 0.2222
     },
     {
       "term": "analyst",
       "count": 11,
-      "share": 0.1719
+      "share": 0.1746
     },
     {
       "term": "engineer",
       "count": 10,
-      "share": 0.1562
+      "share": 0.1587
     },
     {
       "term": "developer",
       "count": 9,
-      "share": 0.1406
-    },
-    {
-      "term": "officer",
-      "count": 7,
-      "share": 0.1094
+      "share": 0.1429
     },
     {
       "term": "systems",
       "count": 6,
-      "share": 0.0938
+      "share": 0.0952
+    },
+    {
+      "term": "software",
+      "count": 6,
+      "share": 0.0952
     },
     {
       "term": "business",
       "count": 5,
-      "share": 0.0781
+      "share": 0.0794
     },
     {
       "term": "data",
       "count": 5,
-      "share": 0.0781
+      "share": 0.0794
     },
     {
       "term": "ai",
       "count": 5,
-      "share": 0.0781
-    },
-    {
-      "term": "software",
-      "count": 5,
-      "share": 0.0781
+      "share": 0.0794
     },
     {
       "term": "administrator",
       "count": 5,
-      "share": 0.0781
+      "share": 0.0794
+    },
+    {
+      "term": "officer",
+      "count": 5,
+      "share": 0.0794
     },
     {
       "term": "specialist",
       "count": 4,
-      "share": 0.0625
+      "share": 0.0635
     },
     {
       "term": "service",
       "count": 4,
-      "share": 0.0625
+      "share": 0.0635
     },
     {
       "term": "technician",
       "count": 4,
-      "share": 0.0625
+      "share": 0.0635
+    },
+    {
+      "term": "manager",
+      "count": 3,
+      "share": 0.0476
     },
     {
       "term": "desk",
       "count": 3,
-      "share": 0.0469
-    },
-    {
-      "term": "desktop",
-      "count": 3,
-      "share": 0.0469
+      "share": 0.0476
     },
     {
       "term": "infrastructure",
       "count": 3,
-      "share": 0.0469
-    },
-    {
-      "term": "product",
-      "count": 3,
-      "share": 0.0469
+      "share": 0.0476
     },
     {
       "term": "architect",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0317
     },
     {
       "term": "intelligence",
       "count": 2,
-      "share": 0.0312
-    },
-    {
-      "term": "technology",
-      "count": 2,
-      "share": 0.0312
+      "share": 0.0317
     },
     {
       "term": "platform",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0317
     },
     {
       "term": "net",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0317
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0317
     },
     {
-      "term": "manager",
+      "term": "engineering",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0317
     },
     {
       "term": "broadbeach",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0317
     },
     {
-      "term": "technical",
+      "term": "desktop",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0317
     },
     {
       "term": "month",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0317
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0317
+    },
+    {
+      "term": "product",
+      "count": 2,
+      "share": 0.0317
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0312
+      "share": 0.0317
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0156
-    },
-    {
-      "term": "automation",
-      "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
+    },
+    {
+      "term": "automation",
+      "count": 1,
+      "share": 0.0159
     },
     {
       "term": "analysis",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "capability",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "utilities",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "science",
       "count": 1,
-      "share": 0.0156
-    },
-    {
-      "term": "reporting",
-      "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
+    },
+    {
+      "term": "technology",
+      "count": 1,
+      "share": 0.0159
+    },
+    {
+      "term": "reporting",
+      "count": 1,
+      "share": 0.0159
     },
     {
       "term": "architech",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "dynamics",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "assisted",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "azure",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
+    },
+    {
+      "term": "frontend",
+      "count": 1,
+      "share": 0.0159
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "netsuite",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "erp",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "migration",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "customisation",
       "count": 1,
-      "share": 0.0156
-    },
-    {
-      "term": "native",
-      "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "php",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
-      "term": "engineering",
+      "term": "native",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0156
-    },
-    {
-      "term": "microsoft",
-      "count": 1,
-      "share": 0.0156
-    },
-    {
-      "term": "modern",
-      "count": 1,
-      "share": 0.0156
-    },
-    {
-      "term": "workplace",
-      "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "its",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "asset",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
+    },
+    {
+      "term": "technical",
+      "count": 1,
+      "share": 0.0159
+    },
+    {
+      "term": "microsoft",
+      "count": 1,
+      "share": 0.0159
+    },
+    {
+      "term": "modern",
+      "count": 1,
+      "share": 0.0159
+    },
+    {
+      "term": "workplace",
+      "count": 1,
+      "share": 0.0159
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "pimpama",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "campus",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "experience",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "required",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "inventory",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "cruise",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "ciam",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "ecommerce",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "catalogue",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     },
     {
       "term": "applied",
       "count": 1,
-      "share": 0.0156
+      "share": 0.0159
     }
   ],
   "jobs": [
-    {
-      "job_id": "94837781",
-      "job_title": "Senior Technology Officer",
-      "business_name": "Department of Health - Queensland",
-      "work_type": "Contract/Temp",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94837781",
-      "advertiser_id": "32285210",
-      "posted_date": "2026-09-23T14:01:14Z",
-      "job_description": "<p><strong>What you'll do</strong></p>\n<p>As the Senior Technology Officer, you will provide high-level ICT support to Queensland Health sites through both onsite and remote service delivery, ensuring reliable and effective technology solutions are maintained across diverse environments. You will configure, install, monitor, manage and support ICT systems, using your technical expertise to investigate and resolve incidents in a timely manner while meeting agreed service levels and eHealth incident management requirements. Working collaboratively with clients and stakeholders, you will deliver exceptional customer service, provide technical advice, and contribute to the development and maintenance of procedures within your technical domain. You will also play a key role in supporting and supervising staff, fostering the delivery of high-quality ICT services and ensuring compliance with established standards, policies and procedures.</p>\n<p><strong>About you</strong></p>\n<p>We are searching for someone who has:</p>\n<ul>\n<li>Demonstrated technical expertise in the management, configuration, monitoring and implementation of ICT environments in one or more technical domains.</li>\n<li>Proven experience in delivering high quality ICT support to clients, with an emphasis on managing workloads, prioritising tasks and working unsupervised.</li>\n<li>Proven experience and ability to identify and resolve ICT related problems within defined Service Level Agreements.</li>\n<li>Demonstrated ability to coordinate multiple tasks within agreed priorities, timeframes and accountabilities.</li>\n<li>Demonstrated interpersonal skills and personal qualities that facilitate the development of good working relationships, including mentoring of junior staff, and enhance the provision of quality client service in a team environment.</li>\n<li>Well-developed oral and written communication skills that enable the creation and/or maintenance of system documentation, work instructions and technical reports for management.</li>\n<li>Demonstrated experience or the ability to quickly learn ServiceNow and ITIL Service Management processes.</li>\n<li>Ability to maintain an awareness and understanding of new and emerging ICT technologies and products as they relate to eHealth Queensland.</li>\n</ul>\n<p><strong>Why work with us?</strong></p>\n<p>Work alongside passionate professionals in a supportive and inclusive environment that values people and prioritises employee success and wellbeing. This includes</p>\n<p><strong>Competitive salaries</strong></p>\n<ul>\n<li>12.75% superannuation</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Employee wellbeing</strong></p>\n<ul>\n<li>Access to 24/7 confidential employee support providers and counsellors including for immediate family members</li>\n<li>Additional flexibility to support your work life balance including access to generous leave entitlements, such as purchased leave, domestic violence leave, reproductive health leave, cultural leave, study and examination leave.</li>\n</ul>\n<p><strong>Professional development</strong></p>\n<ul>\n<li>Career progression with more than 300 diverse career pathways and career support to take you further!</li>\n<li>Access to a variety of programs and initiatives to support training and career growth.</li>\n<li>Grow your skills through hands-on experience and access to internal training opportunities and additional financial and leave benefits for approved external training and development.</li>\n</ul>\n<p><strong>Our commitment to equity, diversity and inclusion&nbsp;</strong></p>\n<p>At Queensland Health, our work environment is inclusive and supportive, and we value our employees. We are an equal opportunity employer and encourage applications from people of all cultures, abilities and backgrounds.</p>\n<p>Our commitment to cultural safety, equity, diversity and inclusion means we understand some people may need changes to the recruitment process. If you need support during the recruitment process, such as meeting with the panel virtually instead of in person, please reach out to the hiring manager. We value diverse candidates and your need for adjustments will not affect our hiring decisions.&nbsp;</p>\n<p><strong>Ready to apply?</strong></p>\n<p>For further information on how to apply please review the attached Role Description.</p>",
-      "keywords": [
-        "technology",
-        "officer"
-      ]
-    },
-    {
-      "job_id": "94826067",
-      "job_title": "Desktop Support Officer -Gold Coast, Queensland, Australia",
-      "business_name": "Axiom Technologies Pty Ltd",
-      "work_type": "Casual/Vacation",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94826067",
-      "advertiser_id": "38048904",
-      "posted_date": "2026-09-23T04:25:05Z",
-      "job_description": "<div>\n \n \n<p><strong>Axiom Technologies</strong> is an Australia-based entity with a history of providing Managed IT solutions to medium- to large-scale enterprises globally. Please visit our website for more information about what we do at www.axiomtechnologies.com</p>\n<p>We are looking for a capable resource to coordinate activities ranging from simple to more complex plans. This role will provide on-site/on-call assistance to end users within the organization’s desktop computing environment in a timely and accurate manner to ensure optimal service delivery.</p>\n<p><strong>IT Skills and&nbsp;Experience</strong></p>\n<ul>\n<li>4+ years of Experience in Level 2/3 desktop support.</li>\n<li>Windows 10 or 11 Admin troubleshooting experience of&nbsp; Intune, cloud, and thick-build machines</li>\n<li>Keep up with Windows App and Update release information</li>\n<li>Provide Web application support for Edge or Chrome</li>\n<li>Provide Cloud application support (collaborate with app owners where required)</li>\n<li>Support 3rd&nbsp;party applications like Microsoft, Java and Adobe (raise cases with the vendor where required)</li>\n<li>Support MS Teams issues including video, audio, performance</li>\n<li>Familiar with AppV applications, MS Store Apps and packaged applications</li>\n<li>Troubleshoot / find root cause for general performance issues</li>\n<li>Troubleshoot laptop hardware issues such as monitor, mouse, headset, phones</li>\n<li>Office license management or troubleshooting</li>\n<li>Keep up with release information for MS Office and security updates</li>\n<li>Support Office issues for native laptop or cloud applications</li>\n<li>Collaborate with MS Outlook app owner when required to find root cause for Outlook issues</li>\n<li>Knowledge of Active directory and Group policies. PowerShell scripting knowledge is must.</li>\n<li>Ability to co-ordinate with various technical groups and can fix issues remotely for the users.</li>\n<li>Should be able to fix and troubleshoot all the application issues deployed on end user systems. (for eg. App Login Failures, App not installed, Software Installations which are failed)</li>\n<li>Good Client management and communication skills.</li>\n<li>Should be able to troubleshoot if any application is not working due to network related issues.</li>\n<li>Good Knowledge on browser support and management of Chrome and Edge via GPO.</li>\n<li>Have troubleshooting knowledge of Adobe, MS Office, Oracle, Edge and Chrome apps. Should be able to do the compatibility testing of web based applications with Chrome and Edge.</li>\n<li>Good Understanding of ITIL concept &amp; ticketing tool.</li>\n<li>Accurately document all work performed through ticketing system including details.</li>\n</ul>\n<p><strong>Personal Attributes:</strong></p>\n<ul>\n<li>Excellent End-user computing skills.</li>\n<li>Good knowledge of Infrastructure support.</li>\n<li>Strong analytical and problem-solving capabilities</li>\n<li>Well organized and extremely detail-oriented</li>\n<li>Strong customer service ethic and great communication skills, both oral and written</li>\n<li>Passionate about delivering quality no matter what you are doing</li>\n<li>Can work both independently and in a collaborative team-oriented environment</li>\n<li>A self-starter, motivated to push the limits and think outside of the box</li>\n<li>Fondness for solutions that are simple, elegant, and effective</li>\n<li>Ability to work with and maintain confidential information</li>\n</ul>\n<p>In-depth knowledge of:</p>\n<ul>\n<li>Windows OS (e.g. XP, Vista, Windows 7, 10)</li>\n<li>Microsoft Office applications</li>\n<li>PC\\Laptop hardware</li>\n<li>PC\\Laptop peripherals, including printers</li>\n<li>Mobile devices</li>\n</ul>\n<p>&nbsp; Basic knowledge of: &nbsp;</p>\n<ul>\n<li>Active Directory</li>\n<li>Exchange</li>\n<li>Apple OS</li>\n<li>SCCM</li>\n</ul>\n<p><strong>IT Qualifications</strong></p>\n<p>At least two of the following:</p>\n<ul>\n<li>PC\\Laptop OEM Maintenance Certification</li>\n<li>CompTIA A+ Certification</li>\n<li>Microsoft Certified IT Professional (MCITP) certification in the desktop area</li>\n<li>Microsoft Office Specialist (MOS) Certification</li>\n</ul>\n<p><strong>Experience in a similar role</strong></p>\n<ul>\n<li>3+ years of relevant experience.</li>\n</ul>\n<p><strong>What next?</strong>&nbsp;</p>\n<p>If you are looking for the next challenge in your career and wish to apply for this role, please forward your resume to <a href=\"mailto:careers.au@axiomtechnologies.com\">careers.au@axiomtechnologies.com</a></p>\n</div>",
-      "keywords": [
-        "desktop",
-        "support",
-        "officer"
-      ]
-    },
     {
       "job_id": "94794069",
       "job_title": "IT Support Officer - Broadbeach, QLD",
@@ -537,25 +505,6 @@
       ]
     },
     {
-      "job_id": "94768969",
-      "job_title": "Technical Product Developer",
-      "business_name": "ALEXANDRA AUSTRALIA",
-      "work_type": "Full time",
-      "job_type": "Product Management & Development",
-      "pay_range": "$65,000 – $70,000 per year",
-      "area": "Molendinar, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94768969",
-      "advertiser_id": "62291521",
-      "posted_date": "2026-09-21T06:32:48Z",
-      "job_description": "<p><strong>Role Overview:</strong></p><p>The <strong>Technical Product Developer </strong>is responsible for ensuring that all garments are developed and produced to <strong>high-quality, fit, and workmanship standards</strong>.</p><p>This role works closely with the <strong>Founder, Head of design and manufacturers</strong> to oversee the <strong>development of product, sourcing, technical specifications and fit process</strong> from initial <strong>prototype development to bulk production</strong>.</p><p>The Technical Product developer will <strong>be responsible for garment development and fit process</strong> across multiple product categories, ensuring consistency in <strong>quality,</strong> &nbsp;<strong>sizing, grading, and garment construction</strong> in line with Alexandra Australia’s brand standards.</p><p><strong>Key Responsibilities:</strong></p><p><strong>Product Development</strong></p><ul><li><p>Attend product ranging sessions with Founder and Head of Design</p></li><li><p>Assist Head of Design with sourcing fabrics and trims.</p></li><li><p>Maintain the organisation of design resources, samples and supplier folders</p></li><li><p>Create and maintain <strong>detailed Tech Packs</strong> briefed by the <strong>Founder</strong> <strong>and Head</strong> <strong>of Design</strong>, ensuring accurate specifications for <strong>styling, fit, and workmanship</strong> for manufacturer handover.</p></li><li><p>Prepare lab dips, bulk fabric and trims for approval.</p></li></ul><p><strong>Fit Process</strong></p><ul><li><p>Measure all garments at<strong> proto</strong> <strong>sampling, SMS, pre-production, and bulk production stages</strong>, ensuring consistency with <strong>spec sheets and company standards</strong>. &nbsp;&nbsp;</p></li><li><p>Attend <strong>fit sessions with the Founder and Head of Desgn</strong>, ensuring samples align with design briefs and delivery timelines.</p></li><li><p>Contribute <strong>technical advice </strong>regarding <strong>fit and construction requirements</strong>.</p></li><li><p>Compile and document <strong>detailed fit comments</strong> after each session, ensuring necessary amendments are made for the next sample stage.</p></li><li><p>Create and update <strong>graded size specifications</strong> following Alexandra grading charts across all product categories, ensuring brand consistency.</p></li><li><p>Maintain <strong>consistency of sizing and quality</strong> across multiple manufacturers.</p></li></ul><p><strong>Manufacturer Liaison</strong></p><ul><li><p>Communicate <strong>fit, construction, and quality feedback</strong> directly with offshore manufacturers.</p></li><li><p>Liaise with manufacturers on <strong>sizing, fit, grading, and workmanship adjustments</strong>.</p></li><li><p>Ensure suppliers comply with <strong>labelling, packaging, and branding requirements</strong> across all production stages.</p></li><li><p>Assist in ensuring key deadlines (development, fit approvals, and bulk production milestones) are met.</p></li></ul><p><strong>Quality Control &amp; Assurance</strong></p><ul><li><p>Conduct thorough <strong>QC inspections</strong> across all stages, ensuring <strong>fabric, trims, and construction</strong> meet approved standards.</p></li><li><p>Ensure garments meet <strong>grading, fit, and quality specifications</strong>, adjusting when necessary to improve consistency.</p></li><li><p>Assist in the <strong>development of a block library</strong>, maintaining <strong>fit consistency across product categories</strong>.</p></li><li><p>Ensure all garments are production-ready, with <strong>accurate Tech Packs, graded specs, and Bill of Materials (BOM) documentation</strong>.</p></li></ul><p><strong>&nbsp;</strong></p><p><strong>Documentation &amp; System Management</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maintain <strong>accurate and up-to-date tech packs</strong> in the <strong>PLM system</strong></p><p><br></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Keep Bill of materials (BOMs) updated with <strong>labelling, packaging, and trim requirements</strong>.</p><ul><li><p>Conduct administrative tasks related to <strong>manufacturer documentation, tracking, and approvals</strong>.</p></li></ul><p><br></p><p><strong>The Ideal Candidate Will Have:</strong></p><ul><li><p>Degree or <strong>tertiary qualification in Fashion, Textiles, or Garment Technology</strong>.</p></li><li><p><strong>2+ years of experience</strong> as a <strong>Product Developer or</strong> <strong>Garment Technician</strong> in the fashion industry.</p></li><li><p>Good knowledge of <strong>garment construction, specifications, grading, and quality assurance</strong> (pattern-making experience is a bonus).</p></li><li><p>Experience across <strong>multiple product categories</strong>, with knowledge of <strong>woven and stretch fabrics</strong>.</p></li><li><p>Proficiency in <strong>Excel</strong>, and <strong>PLM</strong> systems (or similar production software).</p></li><li><p>Strong <strong>attention to detail and accuracy</strong>, ensuring high technical standards are maintained.</p></li><li><p>Experience working with <strong>offshore manufacturers </strong>is highly desirable.</p></li><li><p>Excellent <strong>communication skills</strong> to manage manufacturer relationships effectively.</p></li><li><p>Ability to <strong>work in a fast-paced environment</strong>, meeting tight deadlines while ensuring quality standards.</p></li><li><p>A <strong>collaborative and team-oriented approach</strong>, working closely with the Founder and Head of Design.</p></li><li><p>Strong <strong>organisational and time-management skills</strong></p></li><li><p>Experience with Adobe Illustrator is a bonus</p></li></ul><p><br></p><p><strong>Why Join Alexandra Australia?</strong></p><ul><li><p>Be part of a <strong>leading Australian womenswear brand</strong> committed to quality and innovation.</p></li><li><p>50% off clothing <strong>discount</strong></p></li><li><p>Onsite undercover <strong>parking</strong></p></li><li><p>Work with a <strong>collaborative, creative, and passionate team</strong> in a <strong>fast-growing business</strong>.</p></li><li><p>Play a key role in ensuring <strong>product excellence and customer satisfaction</strong>.</p></li><li><p>Opportunity to <strong>work across diverse product categories</strong> with room for growth.</p></li></ul><p><br></p>",
-      "keywords": [
-        "technical",
-        "product",
-        "developer"
-      ]
-    },
-    {
       "job_id": "94759047",
       "job_title": "Application Support Analyst",
       "business_name": "City of Gold Coast",
@@ -609,6 +558,24 @@
       "job_description": "<h2>Backend Developer (PHP / Laravel)</h2><p><strong>Southport, Gold Coast QLD • Full-time • Technology</strong></p><p>Join a growing national brand and help build the systems that keep our business moving.</p><p>East Coast Car Rentals is one of Australia's established car rental brands, with 14 locations across the country. Behind the scenes, we're investing heavily in technology and building modern platforms in-house on AWS. It's an exciting time to join our software engineering team as we continue to develop the systems, integrations and services that power our operations and customer experience.</p><p>We're looking for a Backend Developer who enjoys solving complex problems, building reliable APIs and creating scalable systems that make a real difference. Working closely with the Head of Software Engineering and collaborating with frontend developers, you'll play a key role in developing the applications and integrations that support our customers and teams every day.</p><p>If you're technically curious, enjoy building well-structured solutions and take pride in delivering high-quality code, we'd love to hear from you.</p><h2>What you'll do</h2><p>• Build and enhance our Laravel-based backend applications and APIs.</p><p>• Design, develop and maintain scalable services that support business-critical systems.</p><p>• Create and optimise MySQL and Amazon Aurora database structures, queries and performance.</p><p>• Develop and maintain integrations with third-party platforms, including communication and operational systems.</p><p>• Build secure authentication and authorisation workflows across our applications.</p><p>• Write clean, maintainable and well-documented code that supports long-term growth.</p><p>• Participate in code reviews and contribute to backend development standards and best practices.</p><p>• Collaborate closely with frontend developers to define API requirements and deliver reliable integrations.</p><p>• Help deliver new technology initiatives that improve both customer and operational outcomes.</p><h2>What you'll bring</h2><p>• 2+ years commercial experience in a Backend Developer role within a collaborative software development environment.</p><p>• Strong PHP and Laravel development experience.</p><p>• Solid understanding of MySQL database design, optimisation and performance tuning.</p><p>• Experience designing and developing RESTful APIs.</p><p>• Experience with Laravel queues, events and background job processing.</p><p>• Knowledge of authentication and security patterns, including Sanctum, OAuth or JWT.</p><p>• Experience using Git, pull requests and code review processes.</p><p>• Strong analytical and problem-solving skills with a focus on reliability and maintainability.</p><p>• The ability to communicate effectively and work within a small, agile team.</p><h2>Nice to have</h2><p>• Experience with AWS services such as RDS, Aurora, S3 or SES.</p><p>• Experience integrating third-party APIs, including Twilio or similar communication platforms.</p><p>• Familiarity with PHPUnit, Pest or automated testing practices.</p><p>• Experience working with Docker and local development environments.</p><p>• Experience working with Jira and Bitbucket.</p><p>• Interest in modern AI-powered development tools such as GitHub Copilot, Cursor or Claude.</p><p>• Experience integrating payment gateways, inventory platforms or other external business systems.</p><h2>What success looks like</h2><p>• APIs are reliable, well-documented and easy for other developers to consume.</p><p>• Database changes are delivered safely and without production disruption.</p><p>• Third-party integrations are robust and handle failure scenarios gracefully.</p><p>• New features are delivered on time and support sprint commitments.</p><p>• Test coverage and code quality remain high as the platform evolves.</p><p>• Solutions are designed with security, scalability and long-term maintainability in mind.</p><h2>Why East Coast Car Rentals</h2><p>• Work on meaningful platforms that support a national operation across Australia.</p><p>• A modern technology environment with opportunities to influence architecture and development practices.</p><p>• A collaborative engineering team where your ideas and expertise are valued.</p><p>• A broad, hands-on role with genuine variety and visible impact.</p><p>• Opportunities to learn, grow and expand your technical capabilities.</p><p>• Based at our Corporate Southport head office on the Gold Coast.</p><h2>How to apply</h2><p>If this sounds like you, we'd love to hear from you. Please submit your Resume and a short Cover Letter telling us about a backend application, integration or API you've built, what challenges you faced, and what you learned from the experience.</p><p><strong>East Coast Car Rentals is an equal opportunity employer. We welcome applications from people of all backgrounds and are committed to creating a diverse, inclusive and supportive workplace.</strong></p>",
       "keywords": [
         "backend",
+        "developer"
+      ]
+    },
+    {
+      "job_id": "94755416",
+      "job_title": "Mid-Level Frontend Developer",
+      "business_name": "East Coast Car Rentals",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94755416",
+      "advertiser_id": "22796821",
+      "posted_date": "2026-09-20T22:37:39Z",
+      "job_description": "<hr><h2>Mid-Level Frontend Developer (Vue 3 / Next.js)</h2><p><strong>Southport, Gold Coast QLD • Full-time • Technology</strong></p><p>Join a growing national brand and help build the digital products that power the future of our business.</p><p>East Coast Car Rentals is one of Australia's established car rental brands, with 14 locations across the country. Behind the scenes, we're investing heavily in technology and building modern platforms in-house on AWS. It's an exciting time to join our software engineering team as we continue to develop products that support our customers, operations and future growth.</p><p>We're looking for a Frontend Developer who enjoys building clean, scalable user experiences and takes pride in writing high-quality code. Working closely with the Head of Software Engineering and collaborating with backend developers, you'll play a key role in designing, developing and improving the applications our customers and staff use every day.</p><p>If you're technically curious, enjoy solving problems, and want your work to have visible impact in a growing business, we'd love to hear from you.</p><h2>What you'll do</h2><p>• Build and maintain modern web applications using Vue 3, Next.js, React and TypeScript.</p><p>• Develop reusable components and frontend frameworks that improve consistency and speed across our products.</p><p>• Integrate APIs and collaborate closely with backend developers to deliver reliable, scalable features.</p><p>• Participate in code reviews and contribute to frontend development standards and best practices.</p><p>• Work on responsive user interfaces that perform well across desktop and mobile devices.</p><p>• Help plan and deliver new technology initiatives and customer-facing digital experiences.</p><p>• Contribute to application performance, usability, accessibility and maintainability.</p><p>• Identify opportunities to improve development workflows, tooling and automation.</p><h2>What you'll bring</h2><p>• 2 + Years commercial experience in a Frontend Developer role within a collaborative software development environment.</p><p>• Strong experience with Vue 3 (Composition API).</p><p>• Experience with Next.js and React.</p><p>• Solid JavaScript and TypeScript skills.</p><p>• Experience integrating REST APIs and working with backend services.</p><p>• Strong understanding of responsive design, component architecture and modern CSS practices.</p><p>• Experience using Git, pull requests and code review processes.</p><p>• A problem-solving mindset and commitment to building maintainable, high-quality software.</p><p>• Strong communication skills and the ability to work effectively within a small, agile team.</p><h2>Nice to have</h2><p>• React Native development experience.</p><p>• Exposure to testing frameworks such as Vitest, Cypress or Playwright.</p><p>• Experience with Tailwind CSS.</p><p>• Familiarity with AWS services such as S3 and CloudFront.</p><p>• Experience working with Jira and Bitbucket.</p><p>• Interest in modern AI-powered development tools such as GitHub Copilot, Cursor or Claude.</p><p>• Understanding of SEO and emerging AI search optimisation practices.</p><h2>What success looks like</h2><p>• Features are delivered on time and meet sprint commitments.</p><p>• Components are built once and reused across applications rather than duplicated.</p><p>• API integration challenges are identified early and resolved collaboratively.</p><p>• New releases are stable, reliable and minimise regressions.</p><p>• Documentation remains current and enables effective team collaboration.</p><p>• Code reviews improve quality while supporting knowledge sharing across the team.</p><h2>Why East Coast Car Rentals</h2><p>• Work on meaningful products used by customers and employees across Australia.</p><p>• A modern technology stack with the opportunity to influence how our platforms evolve.</p><p>• A collaborative engineering environment where your ideas are valued.</p><p>• A small, capable team where your contributions are visible and impactful.</p><p>• Opportunities to learn, grow and expand your technical skills.</p><p>• Based at our Corporate Southport head office on the Gold Coast.</p><h2>How to apply</h2><p>If this sounds like you, we'd love to hear from you. Please submit your Resume and a short Cover Letter telling us about a frontend project you're particularly proud of, what challenges it presented, and how you approached them.</p><p><strong>East Coast Car Rentals is an equal opportunity employer. We welcome applications from people of all backgrounds and are committed to creating a diverse, inclusive and supportive workplace.</strong></p>",
+      "keywords": [
+        "frontend",
         "developer"
       ]
     },
@@ -1649,6 +1616,25 @@
         "it",
         "systems",
         "administrator"
+      ]
+    },
+    {
+      "job_id": "94153662",
+      "job_title": "Software Engineering Manager",
+      "business_name": "Buildsafe Queensland Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Engineering - Software",
+      "pay_range": "",
+      "area": "Arundel, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94153662",
+      "advertiser_id": "24217835",
+      "posted_date": "2026-08-24T00:03:49Z",
+      "job_description": "<p><strong>About Us</strong></p><p>For 25 years, Buildsafe has grown to become one of Australia’s leading providers of height safety, scaffolding and construction technology solutions.&nbsp;Today, we operate nationally across Australia and are investing in the next phase of our technology capability; modernising our core business systems, growing our innovative BuildCam platform, and exploring how AI can improve the way we develop software and operate our business.</p><p><strong>The Role</strong></p><p>We’re now looking for an experienced Software Engineering Manager to lead our engineering function and help shape what comes next. Based at our Arundel Head Office on the Gold Coast, you’ll lead and develop our software engineering team while working closely with our Executive Leadership Team and key stakeholders across the business. This isn’t a role where success is measured by how much code you personally write.</p><p>Your focus will be on people leadership, engineering capability, delivery and technology strategy; creating an environment where great developers can do their best work and ensuring our technology delivers genuine value to the business.&nbsp;You’ll oversee engineering across multiple business-critical platforms, including our proprietary BuildCam technology, internal operational systems and emerging AI initiatives.In your first few months, you’ll focus on understanding our platforms and business, building relationships with the team, assessing our current development and delivery processes, and establishing clear engineering priorities. From there, you’ll play a key role in modernising our technology environment, improving software delivery and helping shape Buildsafe’s longer-term technology roadmap.</p><p><strong>What You’ll Be Doing</strong></p><ul><li><p>Lead, coach and develop our software engineering team.</p></li><li><p>Set clear engineering priorities and manage delivery across multiple projects.</p></li><li><p>Build capability within the team through mentoring, feedback and development.</p></li><li><p>Partner with business leaders to translate operational needs into practical technology solutions.</p></li><li><p>Champion modern software development practices and AI-assisted engineering.</p></li><li><p>Guide technical and architectural decisions without becoming the team’s primary coder.</p></li><li><p>Support the continued evolution of our BuildCam platform and internal business systems.</p></li><li><p>Improve software delivery, quality, scalability and development processes.</p></li><li><p>Remove roadblocks and create an environment where engineers can perform at their best.</p></li><li><p>Contribute to Buildsafe’s broader technology strategy and roadmap.</p></li></ul><p><strong>About You</strong></p><p>You’re an experienced software or engineering leader who gets genuine satisfaction from helping others succeed.You understand technology, but you also understand the business behind it. You can communicate with developers, senior leaders and operational teams and translate between technical requirements and commercial outcomes.</p><p>You’ll ideally bring:</p><ul><li><p>Experience leading software development or engineering teams.</p></li><li><p>Strong people leadership, coaching and mentoring capability.</p></li><li><p>Experience managing software delivery across multiple projects or platforms.</p></li><li><p>Strong communication and stakeholder management skills.</p></li><li><p>A practical and commercially minded approach to technology.</p></li><li><p>Experience working within Agile development environments.</p></li><li><p>An understanding of modern software engineering and architecture principles.</p></li><li><p>Curiosity around emerging technology, particularly AI-assisted development.</p></li><li><p>The ability to balance innovation with reliable, practical business outcomes.</p></li></ul><p><strong>Our Technology</strong></p><p>Our technology environment continues to evolve as the business grows and includes:</p><ul><li><p>React</p></li><li><p>TypeScript</p></li><li><p>PHP</p></li><li><p>Node.js</p></li><li><p>REST APIs</p></li><li><p>SQL</p></li><li><p>Azure</p></li><li><p>Git</p></li><li><p>AI-assisted development tools</p></li></ul><p>You’ll have the opportunity to help us modernise existing business-critical platforms while identifying new technologies and development practices that improve productivity and create competitive advantage.</p><p><strong>What’s in It for You?</strong></p><p>This is an opportunity to join a growing Australian business where technology has a genuine seat at the table.</p><p>You’ll enjoy:</p><ul><li><p>Permanent full-time position based at our Arundel Head Office.</p></li><li><p>Monday–Friday role.</p></li><li><p>Direct exposure to and collaboration with Executive Leadership.</p></li><li><p>Genuine autonomy and influence over our engineering function.</p></li><li><p>Opportunity to shape technology strategy across a national business.</p></li><li><p>Lead the continued evolution of our BuildCam platform.</p></li><li><p>Drive AI adoption and modern engineering practices.</p></li><li><p>Build, mentor and develop a high-performing technical team.</p></li><li><p>Monthly team lunches and social events.</p></li><li><p>Employee Assistance Program.</p></li><li><p>Fitness Passport membership options.</p></li><li><p>Free onsite parking.</p></li><li><p>A collaborative environment where new ideas are encouraged.</p></li></ul><p><br></p>",
+      "keywords": [
+        "software",
+        "engineering",
+        "manager"
       ]
     },
     {
