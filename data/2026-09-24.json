@@ -1,464 +1,446 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-24",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-25T08:50:39.153500+10:00",
-  "total_jobs": 63,
+  "scraped_at": "2026-09-24T08:34:18.455679+10:00",
+  "total_jobs": 64,
   "keywords": [
     {
       "term": "support",
-      "count": 18,
-      "share": 0.2857
-    },
-    {
-      "term": "analyst",
-      "count": 12,
-      "share": 0.1905
+      "count": 19,
+      "share": 0.2969
     },
     {
       "term": "it",
-      "count": 12,
-      "share": 0.1905
+      "count": 14,
+      "share": 0.2188
+    },
+    {
+      "term": "analyst",
+      "count": 11,
+      "share": 0.1719
     },
     {
       "term": "engineer",
       "count": 10,
-      "share": 0.1587
+      "share": 0.1562
     },
     {
       "term": "developer",
       "count": 9,
-      "share": 0.1429
+      "share": 0.1406
     },
     {
       "term": "officer",
       "count": 7,
-      "share": 0.1111
-    },
-    {
-      "term": "business",
-      "count": 6,
-      "share": 0.0952
+      "share": 0.1094
     },
     {
       "term": "systems",
+      "count": 6,
+      "share": 0.0938
+    },
+    {
+      "term": "business",
       "count": 5,
-      "share": 0.0794
+      "share": 0.0781
     },
     {
       "term": "data",
       "count": 5,
-      "share": 0.0794
+      "share": 0.0781
     },
     {
       "term": "ai",
       "count": 5,
-      "share": 0.0794
+      "share": 0.0781
     },
     {
       "term": "software",
       "count": 5,
-      "share": 0.0794
+      "share": 0.0781
+    },
+    {
+      "term": "administrator",
+      "count": 5,
+      "share": 0.0781
     },
     {
       "term": "specialist",
       "count": 4,
-      "share": 0.0635
+      "share": 0.0625
     },
     {
       "term": "service",
       "count": 4,
-      "share": 0.0635
+      "share": 0.0625
     },
     {
-      "term": "administrator",
+      "term": "technician",
       "count": 4,
-      "share": 0.0635
+      "share": 0.0625
     },
     {
       "term": "desk",
       "count": 3,
-      "share": 0.0476
-    },
-    {
-      "term": "technician",
-      "count": 3,
-      "share": 0.0476
+      "share": 0.0469
     },
     {
       "term": "desktop",
       "count": 3,
-      "share": 0.0476
+      "share": 0.0469
     },
     {
       "term": "infrastructure",
       "count": 3,
-      "share": 0.0476
+      "share": 0.0469
     },
     {
       "term": "product",
       "count": 3,
-      "share": 0.0476
+      "share": 0.0469
     },
     {
       "term": "architect",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0312
     },
     {
       "term": "intelligence",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0312
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0312
     },
     {
       "term": "platform",
       "count": 2,
-      "share": 0.0317
-    },
-    {
-      "term": "stack",
-      "count": 2,
-      "share": 0.0317
+      "share": 0.0312
     },
     {
       "term": "net",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0312
+    },
+    {
+      "term": "stack",
+      "count": 2,
+      "share": 0.0312
     },
     {
       "term": "manager",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0312
     },
     {
       "term": "broadbeach",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0312
     },
     {
       "term": "technical",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0312
     },
     {
       "term": "month",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0312
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0312
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0317
+      "share": 0.0312
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "analysis",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "capability",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "utilities",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "science",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "reporting",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "architech",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "dynamics",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "openmage",
-      "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "magento",
-      "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "assisted",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "azure",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
+    },
+    {
+      "term": "openmage",
+      "count": 1,
+      "share": 0.0156
+    },
+    {
+      "term": "magento",
+      "count": 1,
+      "share": 0.0156
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "netsuite",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "erp",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "migration",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "customisation",
       "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "php",
-      "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "native",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
+    },
+    {
+      "term": "php",
+      "count": 1,
+      "share": 0.0156
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "its",
-      "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "asset",
-      "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "ongc",
-      "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "helpdesk",
-      "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "pimpama",
-      "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "campus",
-      "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "msp",
-      "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "experience",
-      "count": 1,
-      "share": 0.0159
-    },
-    {
-      "term": "required",
-      "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "modern",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "workplace",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
+    },
+    {
+      "term": "its",
+      "count": 1,
+      "share": 0.0156
+    },
+    {
+      "term": "asset",
+      "count": 1,
+      "share": 0.0156
+    },
+    {
+      "term": "ongc",
+      "count": 1,
+      "share": 0.0156
+    },
+    {
+      "term": "helpdesk",
+      "count": 1,
+      "share": 0.0156
+    },
+    {
+      "term": "pimpama",
+      "count": 1,
+      "share": 0.0156
+    },
+    {
+      "term": "campus",
+      "count": 1,
+      "share": 0.0156
+    },
+    {
+      "term": "msp",
+      "count": 1,
+      "share": 0.0156
+    },
+    {
+      "term": "experience",
+      "count": 1,
+      "share": 0.0156
+    },
+    {
+      "term": "required",
+      "count": 1,
+      "share": 0.0156
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "inventory",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "cruise",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "ciam",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "ecommerce",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "catalogue",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     },
     {
       "term": "applied",
       "count": 1,
-      "share": 0.0159
+      "share": 0.0156
     }
   ],
   "jobs": [
-    {
-      "job_id": "94852890",
-      "job_title": "Business Analyst",
-      "business_name": "Peoplebank Australia QLD",
-      "work_type": "Contract/Temp",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "Competitive",
-      "area": "Australia Fair, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94852890",
-      "advertiser_id": "28936124",
-      "posted_date": "2026-09-24T05:12:05Z",
-      "job_description": "<strong>URGENT HIRING:<br></strong>Role:&nbsp; Business Analyst<br>up to 5 months contract, possible extension<br>Brisbane-based, hybrid options<br><br>About the Role:<br>We are seeking an experienced <strong>Business Analyst</strong> to support the delivery of technology transformation initiatives for one of our enterprise clients in Brisbane<br><br><strong>Key responsibilities</strong><br>&nbsp;<br><ul><li>Elicit, analyse and document business and technical requirements.</li><li>Facilitate workshops and engage stakeholders to gather, prioritise and validate requirements.</li><li>Produce process maps, business analysis artefacts and documentation to BPMN standards.</li><li>Support current-state assessments, gap analysis, solution design, testing and change management activities.</li><li>Collaborate with technical teams to support platform migration, security uplift and modernisation initiatives.</li><li>Contribute to quality assurance, risk management and deployment planning.</li></ul><strong>Qualifications</strong><br>&nbsp;<br><ul><li>Strong BA experience across technology projects (security, modern workplace, or similar)</li><li>Strong requirements gathering, process mapping and business process improvement skills.</li><li>Familiarity with governance frameworks, testing methodologies and change management practices.</li><li>Experience using tools such as JIRA and Zephyr.</li><li>Exposure to cybersecurity, cloud platforms, infrastructure, VDI, digital workplace or modernisation programs</li></ul><br>If interested, kindly apply to the advert or send your resume to <strong><a href=\"mailto:trisha.bornasal@peoplebank.com.au\">trisha.bornasal@peoplebank.com.au</a></strong> referencing job <strong>#272324</strong>.<br><strong>Role Closing on 28 September morning so only candidates who applied before 8AM 28th Sep will be entertained.</strong><br><br><br><strong>Peoplebank</strong> and <strong>Leaders IT</strong> are committed to creating a diverse and inclusive workplace where everyone belongs. We welcome applications from people of all backgrounds, identities, and experiences. If you need adjustments to the recruitment process due to your circumstances, please let us know—we’re here to support you.",
-      "keywords": [
-        "business",
-        "analyst"
-      ]
-    },
     {
       "job_id": "94837781",
       "job_title": "Senior Technology Officer",
@@ -488,7 +470,7 @@
       "region": "Gold Coast",
       "url": "https://www.seek.com.au/job/94826067",
       "advertiser_id": "38048904",
-      "posted_date": "2026-09-23T04:53:05Z",
+      "posted_date": "2026-09-23T04:25:05Z",
       "job_description": "<div>\n \n \n<p><strong>Axiom Technologies</strong> is an Australia-based entity with a history of providing Managed IT solutions to medium- to large-scale enterprises globally. Please visit our website for more information about what we do at www.axiomtechnologies.com</p>\n<p>We are looking for a capable resource to coordinate activities ranging from simple to more complex plans. This role will provide on-site/on-call assistance to end users within the organization’s desktop computing environment in a timely and accurate manner to ensure optimal service delivery.</p>\n<p><strong>IT Skills and&nbsp;Experience</strong></p>\n<ul>\n<li>4+ years of Experience in Level 2/3 desktop support.</li>\n<li>Windows 10 or 11 Admin troubleshooting experience of&nbsp; Intune, cloud, and thick-build machines</li>\n<li>Keep up with Windows App and Update release information</li>\n<li>Provide Web application support for Edge or Chrome</li>\n<li>Provide Cloud application support (collaborate with app owners where required)</li>\n<li>Support 3rd&nbsp;party applications like Microsoft, Java and Adobe (raise cases with the vendor where required)</li>\n<li>Support MS Teams issues including video, audio, performance</li>\n<li>Familiar with AppV applications, MS Store Apps and packaged applications</li>\n<li>Troubleshoot / find root cause for general performance issues</li>\n<li>Troubleshoot laptop hardware issues such as monitor, mouse, headset, phones</li>\n<li>Office license management or troubleshooting</li>\n<li>Keep up with release information for MS Office and security updates</li>\n<li>Support Office issues for native laptop or cloud applications</li>\n<li>Collaborate with MS Outlook app owner when required to find root cause for Outlook issues</li>\n<li>Knowledge of Active directory and Group policies. PowerShell scripting knowledge is must.</li>\n<li>Ability to co-ordinate with various technical groups and can fix issues remotely for the users.</li>\n<li>Should be able to fix and troubleshoot all the application issues deployed on end user systems. (for eg. App Login Failures, App not installed, Software Installations which are failed)</li>\n<li>Good Client management and communication skills.</li>\n<li>Should be able to troubleshoot if any application is not working due to network related issues.</li>\n<li>Good Knowledge on browser support and management of Chrome and Edge via GPO.</li>\n<li>Have troubleshooting knowledge of Adobe, MS Office, Oracle, Edge and Chrome apps. Should be able to do the compatibility testing of web based applications with Chrome and Edge.</li>\n<li>Good Understanding of ITIL concept &amp; ticketing tool.</li>\n<li>Accurately document all work performed through ticketing system including details.</li>\n</ul>\n<p><strong>Personal Attributes:</strong></p>\n<ul>\n<li>Excellent End-user computing skills.</li>\n<li>Good knowledge of Infrastructure support.</li>\n<li>Strong analytical and problem-solving capabilities</li>\n<li>Well organized and extremely detail-oriented</li>\n<li>Strong customer service ethic and great communication skills, both oral and written</li>\n<li>Passionate about delivering quality no matter what you are doing</li>\n<li>Can work both independently and in a collaborative team-oriented environment</li>\n<li>A self-starter, motivated to push the limits and think outside of the box</li>\n<li>Fondness for solutions that are simple, elegant, and effective</li>\n<li>Ability to work with and maintain confidential information</li>\n</ul>\n<p>In-depth knowledge of:</p>\n<ul>\n<li>Windows OS (e.g. XP, Vista, Windows 7, 10)</li>\n<li>Microsoft Office applications</li>\n<li>PC\\Laptop hardware</li>\n<li>PC\\Laptop peripherals, including printers</li>\n<li>Mobile devices</li>\n</ul>\n<p>&nbsp; Basic knowledge of: &nbsp;</p>\n<ul>\n<li>Active Directory</li>\n<li>Exchange</li>\n<li>Apple OS</li>\n<li>SCCM</li>\n</ul>\n<p><strong>IT Qualifications</strong></p>\n<p>At least two of the following:</p>\n<ul>\n<li>PC\\Laptop OEM Maintenance Certification</li>\n<li>CompTIA A+ Certification</li>\n<li>Microsoft Certified IT Professional (MCITP) certification in the desktop area</li>\n<li>Microsoft Office Specialist (MOS) Certification</li>\n</ul>\n<p><strong>Experience in a similar role</strong></p>\n<ul>\n<li>3+ years of relevant experience.</li>\n</ul>\n<p><strong>What next?</strong>&nbsp;</p>\n<p>If you are looking for the next challenge in your career and wish to apply for this role, please forward your resume to <a href=\"mailto:careers.au@axiomtechnologies.com\">careers.au@axiomtechnologies.com</a></p>\n</div>",
       "keywords": [
         "desktop",
@@ -956,7 +938,7 @@
     {
       "job_id": "94644345",
       "job_title": "Engineering Manager, Machines4U",
-      "business_name": "CARSALES.COM.AU PTY LTD",
+      "business_name": "carsales",
       "work_type": "Full time",
       "job_type": "Developers/Programmers",
       "pay_range": "",
@@ -1629,6 +1611,44 @@
         "data",
         "ai",
         "engineer"
+      ]
+    },
+    {
+      "job_id": "94196255",
+      "job_title": "IT Support Technician - Gold Coast",
+      "business_name": "Ever Nimble Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94196255",
+      "advertiser_id": "41082060",
+      "posted_date": "2026-08-25T07:28:54Z",
+      "job_description": "<p><strong>Do you get IT?</strong></p><p><br></p><p>Ever Nimble is excited to present an opportunity for an IT Support Technician to join the Reactive Support team in our Gold Coast office.</p><p><br></p><p>So, who are we? Ever Nimble was recently ranked <strong>#111 in the MSP 501</strong> for 2026 (our <strong>6th year</strong> in a row!), named <strong>Overall Partner of the Year (APAC) at Canalys Forums 2025</strong>, ranked <strong>No. 12 overall at the TechPartner Fast50 Awards</strong>, and previously named the <strong>#1 Fastest-Growing MSP globally</strong> and earned the title of <strong>MSP of The Year 2023</strong>! We have reached these amazing goals by doing IT a little differently. We’re not your typical IT provider that stays behind a keyboard. Customer communication is important to us, whether face-to-face or over the phone, as we really like to integrate into our customer's businesses to truly understand how they work. We excel at uniting teams, streamlining processes, and delivering reliable infrastructure solutions. Our presence spans Swansea (UK), Calgary (CAN), Melbourne (AUS), Gold Coast (AUS), and our HQ located in Perth (AUS).</p><p><br></p><p>Our commitment lies in keeping our clients well-informed, effectively managing priorities, and executing tasks with the utmost care, pride, and ownership. We are in search of a candidate who will embrace our robust approach to customer support and align with our core values.</p><p><br>We also make sure that we are providing the same level of care and support to our internal teams. <strong>Ever Nimble officially became certified as a 'Great Place to Work' in 2022, and was named in Australia’s Best Workplaces™ in Technology for 2023.</strong></p><p><br></p><p><strong>Benefits and perks of being an EN Team Member:</strong></p><ul><li><p>Great work environment and team;</p></li><li><p>Experienced tech experts to learn from;</p></li><li><p>Opportunities to grow and develop;</p></li><li><p>Team member discounts on IT Equipment purchased from https://store.evernimble.com;</p></li><li><p>Rewards and incentives for performance and training;</p></li><li><p>Opportunities to travel for work;</p></li><li><p>Paid birthday leave;</p></li><li><p>Generous Work From Anywhere allowance;</p></li><li><p>We support flexible working;</p></li><li><p>Regular social events.</p></li></ul><p><br></p><p><strong>About you:</strong></p><ul><li><p>1-2 years (minimum) of experience in IT support is required for this role;</p></li><li><p>Existing helpdesk (ideally MSP) experience is highly desirable;</p></li><li><p>Experience supporting the mining industry is highly desirable;</p></li><li><p>Familiarity with hardware components including laptops, desktops, servers, storage devices, and network devices;</p></li><li><p>Ability to work independently and manage multiple tasks simultaneously;</p></li><li><p>Strong problem-solving skills and attention to detail;</p></li><li><p>Excellent communication skills, both verbal and written;</p></li><li><p>Ability to travel to client sites as needed (via company Uber account).</p></li></ul><p><br></p><p><strong>About the role:</strong></p><ul><li><p>As part of our award-winning support desk team, you’ll provide awesome first and second-line tech support to our incredible customers;</p></li><li><p>Support hardware equipment including laptops, desktops, servers, storage devices, and network devices;</p></li><li><p>Support a vast array of software across many industries;</p></li><li><p>Handle on-site visits for troubleshooting, maintenance, and repairs;</p></li><li><p>Escalate issues to Senior Technicians or vendors when necessary;</p></li><li><p>Maintain knowledge of the latest hardware and software trends and technologies.</p></li></ul><p><br></p><p><strong>Customer Service is key:</strong></p><ul><li><p>Customer confidence; we communicate with our clients in person and on the phone;</p></li><li><p>Ability to communicate effectively and efficiently, with the ability to provide advice to non-technically minded customers;</p></li><li><p>Work collaboratively;</p></li><li><p>Responding in a timely manner to service issues and requests;</p></li><li><p>Proactive problem-solver with attention to detail.</p></li></ul><p><br></p><p><strong>The tech you will be exposed to:</strong></p><ul><li><p>Halo PSA</p></li><li><p>Microsoft 365</p></li><li><p>Active Directory</p></li><li><p>Fortinet</p></li><li><p>Datto (RMM, DR, Networking)</p></li><li><p>Firewalls &amp; Networking</p></li><li><p>Automation tools</p></li><li><p>All types of IT hardware</p></li></ul><p><br></p><p>IT is our jam, and we pride ourselves on helping businesses thrive through honest and smart advice. And yes, often there are cupcakes involved. So, if you get IT and want to know more, click the Apply button.</p><p><br></p><p><strong>Important: </strong>Applications will only be considered from candidates living in or close to Southport, QLD.</p><p><strong>Recruiters:</strong> We love your hustle, but please don’t contact us for now.</p>",
+      "keywords": [
+        "it",
+        "support",
+        "technician"
+      ]
+    },
+    {
+      "job_id": "94183484",
+      "job_title": "IT Systems Administrator",
+      "business_name": "Aster Home Care",
+      "work_type": "Full time",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "No",
+      "area": "Miami, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94183484",
+      "advertiser_id": "45848280",
+      "posted_date": "2026-08-25T01:11:05Z",
+      "job_description": "Tired of being one voice in a sprawling IT team, chasing tickets that never really get closed? At Aster, you won't be lost in a queue, you'll own the whole system. We're looking for a hands-on IT Systems Administrator who wants autonomy, a seat at the table and the satisfaction of building something that works.<br><br> <strong>About Us:</strong><br> Aster Home Care was built by nurses who got tired of the same frustrations you have, so they created something better. We're a Northern NSW &amp; Southeast QLD based community nursing provider that is run by nurses, for nurses. Our team delivers exceptional 24/7 care to clients in their own homes, and the people leading that work are the same ones shaping how it's done. At Aster, everything we do is guided by our BRAVE values, and we look for people who live them too.<br><br> <strong>B&nbsp;</strong>– Bold Decisions&nbsp;<strong>R&nbsp;</strong>– Remember &amp; Respect&nbsp;<strong>A</strong>&nbsp;– Anchored in Excellence&nbsp;<strong>V</strong>&nbsp;– Value Each Other&nbsp;<strong>E</strong>&nbsp;– Elevate Our Team<br><br> <strong>About the Role:</strong><br> As our IT Systems Administrator, you'll be the sole IT resource for a 24/7 community nursing service, working directly with our Nursing General Manager to own the systems roadmap. You'll be the first responder when something breaks and the person who makes sure it doesn't happen again.<br> This includes:<br> <ul> <li>Administering our SharePoint records storage and Pulse intranet, including permission groups and access.</li> <li>Managing starter, mover and leaver access provisioning, and building onboarding/offboarding processes as system features rather than manual admin.</li> <li>Administering our 3CX telephony platform and MessageMedia messaging, including phone group management and weekly call reporting.</li> <li>Managing Workspace ONE mobile device management across our field and office fleet.</li> <li>Leading information security and business continuity: incident response, patching, and backup/restore testing.</li> <li>Building and maintaining the Power BI dashboards our business runs on.</li> <li>Writing clear how-to documentation and IT policy for a non-technical team.</li> </ul> <strong>Why Join Aster Home Care?</strong><br> At Aster, you'll do work that matters and you'll see the impact every day. You'll have genuine ownership of your domain, direct access to leadership and the autonomy to bring decisions rather than just questions. You won't be one of many in a large IT team; you'll be the person who makes the whole thing run.<br> In addition to a competitive package, you'll enjoy a generous birthday bonus, employee referral incentives and access to our Employee Assistance Program (EAP).<br><br> <strong>Role Requirements:</strong><br> Naturally, you will require relevant experience and qualifications including:<br> <ul> <li>Demonstrated experience administering business systems end to end (accounts, permissions, integrations and change control).</li> <li>Microsoft suite knowledge, including Defender.</li> <li>Experience with identity and access management (starter, mover, leaver provisioning).</li> <li>Experience administering a VoIP or cloud telephony platform, with call reporting.</li> <li>Experience with mobile device management across a distributed, non-office workforce.</li> <li>Practical information security capability, including incident response, patching, and backup/restore testing.</li> <li>Ability to write clear how-to documentation for non-technical staff.</li> <li>Ability to work autonomously as the sole IT resource, and know when to escalate.</li> <li>Demonstrated ability to build and maintain business dashboards in Power BI or equivalent.</li> <li>National Police Clearance and right to work in Australia.</li> </ul> <strong>Desirable (but not essential):</strong><br> <ul> <li>Experience with 3CX, Omnissa Workspace ONE, SharePoint, or MessageMedia specifically.</li> <li>Experience in healthcare, aged care or another regulated environment.</li> <li>Familiarity with the Privacy Act 1988 and Notifiable Data Breaches scheme.</li> <li>Relevant tertiary qualification or IT/security certification.</li> <li>Power Automate and Power App capability.</li> </ul> If this sounds like the role you've been looking for?<br> Hit \"Apply\" now or email&nbsp;••••@asterhomecare.com.au, we'd love to have a conversation with you.",
+      "keywords": [
+        "it",
+        "systems",
+        "administrator"
       ]
     },
     {
