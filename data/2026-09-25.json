@@ -1,640 +1,446 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-25",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-26T08:58:32.657073+10:00",
-  "total_jobs": 70,
+  "scraped_at": "2026-09-25T08:50:39.153500+10:00",
+  "total_jobs": 63,
   "keywords": [
     {
       "term": "support",
       "count": 18,
-      "share": 0.2571
+      "share": 0.2857
     },
     {
       "term": "analyst",
       "count": 12,
-      "share": 0.1714
+      "share": 0.1905
     },
     {
       "term": "it",
       "count": 12,
-      "share": 0.1714
+      "share": 0.1905
     },
     {
       "term": "engineer",
       "count": 10,
-      "share": 0.1429
+      "share": 0.1587
     },
     {
       "term": "developer",
       "count": 9,
-      "share": 0.1286
+      "share": 0.1429
+    },
+    {
+      "term": "officer",
+      "count": 7,
+      "share": 0.1111
     },
     {
       "term": "business",
       "count": 6,
-      "share": 0.0857
-    },
-    {
-      "term": "manager",
-      "count": 6,
-      "share": 0.0857
-    },
-    {
-      "term": "officer",
-      "count": 6,
-      "share": 0.0857
+      "share": 0.0952
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.0714
+      "share": 0.0794
     },
     {
       "term": "data",
       "count": 5,
-      "share": 0.0714
+      "share": 0.0794
+    },
+    {
+      "term": "ai",
+      "count": 5,
+      "share": 0.0794
     },
     {
       "term": "software",
       "count": 5,
-      "share": 0.0714
-    },
-    {
-      "term": "ai",
-      "count": 4,
-      "share": 0.0571
+      "share": 0.0794
     },
     {
       "term": "specialist",
       "count": 4,
-      "share": 0.0571
-    },
-    {
-      "term": "administrator",
-      "count": 4,
-      "share": 0.0571
+      "share": 0.0635
     },
     {
       "term": "service",
       "count": 4,
-      "share": 0.0571
+      "share": 0.0635
     },
     {
-      "term": "delivery",
-      "count": 3,
-      "share": 0.0429
+      "term": "administrator",
+      "count": 4,
+      "share": 0.0635
     },
     {
       "term": "desk",
       "count": 3,
-      "share": 0.0429
+      "share": 0.0476
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0429
+      "share": 0.0476
     },
     {
       "term": "desktop",
       "count": 3,
-      "share": 0.0429
+      "share": 0.0476
     },
     {
       "term": "infrastructure",
       "count": 3,
-      "share": 0.0429
+      "share": 0.0476
     },
     {
       "term": "product",
       "count": 3,
-      "share": 0.0429
+      "share": 0.0476
     },
     {
       "term": "architect",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0317
     },
     {
       "term": "intelligence",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0317
+    },
+    {
+      "term": "technology",
+      "count": 2,
+      "share": 0.0317
     },
     {
       "term": "platform",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0317
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0317
     },
     {
       "term": "net",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0317
+    },
+    {
+      "term": "manager",
+      "count": 2,
+      "share": 0.0317
     },
     {
       "term": "broadbeach",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0317
     },
     {
       "term": "technical",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0317
     },
     {
       "term": "month",
       "count": 2,
-      "share": 0.0286
+      "share": 0.0317
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0286
-    },
-    {
-      "term": "innovation",
-      "count": 2,
-      "share": 0.0286
-    },
-    {
-      "term": "health",
-      "count": 2,
-      "share": 0.0286
-    },
-    {
-      "term": "information",
-      "count": 2,
-      "share": 0.0286
-    },
-    {
-      "term": "program",
-      "count": 2,
-      "share": 0.0286
-    },
-    {
-      "term": "project",
-      "count": 2,
-      "share": 0.0286
+      "share": 0.0317
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0286
-    },
-    {
-      "term": "test",
-      "count": 2,
-      "share": 0.0286
+      "share": 0.0317
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0143
-    },
-    {
-      "term": "analysis",
-      "count": 1,
-      "share": 0.0143
-    },
-    {
-      "term": "capability",
-      "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
+    },
+    {
+      "term": "delivery",
+      "count": 1,
+      "share": 0.0159
+    },
+    {
+      "term": "analysis",
+      "count": 1,
+      "share": 0.0159
+    },
+    {
+      "term": "capability",
+      "count": 1,
+      "share": 0.0159
     },
     {
       "term": "utilities",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "science",
       "count": 1,
-      "share": 0.0143
-    },
-    {
-      "term": "salesforce",
-      "count": 1,
-      "share": 0.0143
-    },
-    {
-      "term": "technology",
-      "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "reporting",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
+    },
+    {
+      "term": "salesforce",
+      "count": 1,
+      "share": 0.0159
     },
     {
       "term": "architech",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "dynamics",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "assisted",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "azure",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "netsuite",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "erp",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "migration",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "customisation",
       "count": 1,
-      "share": 0.0143
-    },
-    {
-      "term": "native",
-      "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "php",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
+    },
+    {
+      "term": "native",
+      "count": 1,
+      "share": 0.0159
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "its",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "asset",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "pimpama",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "campus",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "experience",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "required",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "modern",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "workplace",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "inventory",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "cruise",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "ciam",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "ecommerce",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "catalogue",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     },
     {
       "term": "applied",
       "count": 1,
-      "share": 0.0143
+      "share": 0.0159
     }
   ],
   "jobs": [
-    {
-      "job_id": "94890107",
-      "job_title": "Project Manager",
-      "business_name": "Department of Health - Queensland",
-      "work_type": "Full time",
-      "job_type": "Programme & Project Management",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94890107",
-      "advertiser_id": "32285210",
-      "posted_date": "2026-09-25T15:45:47Z",
-      "job_description": "<div>\n \n <p>This role provides high-level advice on the organisation’s digital program and project delivery services, liaising and collaborating to implement sustainable improvements.</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for several <strong>Project Managers</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Deliver change management, project management and project delivery services for digital initiatives</li>\n<li>Develop project business cases, project plans, progress reports and closure reports to ensure all stakeholders are fully briefed on project objectives</li>\n<li>Lead project planning and the delivery of digital initiatives to achieve effective, efficient and sustainable outcomes for our patients</li>\n<li>Provide input into the development and maintenance of policies, systems and procedures to ensure effective and efficient processes are in place</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, qualifications or formal training in project and/or change management would be well regarded.</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time (two positions)</li>\n<li>Base salary ranging from $128,748 - $137,911 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) Division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Service Strategic Plan 2026-2030.</p>\n<p>DHI is responsible for enhancing efficiency and service delivery improvements to optimise Health Service performance. It also oversees strategic partnerships that help the Health Service implement alternative models of service delivery, ensuring value for money, and driving improvements in performance, and innovation.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong<strong>&nbsp;</strong>\n</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Friday, 23 October 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC693617</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
-      "keywords": [
-        "project",
-        "manager"
-      ]
-    },
-    {
-      "job_id": "94890105",
-      "job_title": "Test Lead",
-      "business_name": "Department of Health - Queensland",
-      "work_type": "Full time",
-      "job_type": "Testing & Quality Assurance",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94890105",
-      "advertiser_id": "32285210",
-      "posted_date": "2026-09-25T15:45:33Z",
-      "job_description": "<div>\n \n <p>The Senior Test Lead will oversee and assist in the development, implementation, and support of testing solutions for Portfolio and Project Delivery applications.</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Test Lead</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide specialist advice and quality assurance recommendations to internal stakeholders on the delivery of test products</li>\n<li>Establish, maintain and continuously improve testing frameworks, standards, methodologies and governance processes</li>\n<li>Lead and manage software testing solutions and related technical specialist support services for Test Environments and Test Data</li>\n<li>Drive well engineered solutions with minimal technical direction and supervision</li>\n<li>Manage the project test team and collaborate with the Project Delivery Teams, and Release Management to prepare and maintain Test Environments and Test Data</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, a relevant testing qualification such as International Software Testing Qualifications Board (ISTQB) certification is highly desirable</li>\n<li>While not mandatory, a relevant Information Technology qualification or demonstrated equivalent ICT work experience in Software Testing is highly desirable</li>\n<li>Experience with automated functional testing tools is desirable (e.g. Selenium, Cypress, Tosca, Test Complete)</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $128,748 - $137,911 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Portfolio and Project Delivery teams lead portfolio services and end-to-end digital project delivery for the division, incorporating digital assessment and discovery to delivery and transition to business-as-usual. Project Delivery services include problem and business analysis and project and change management across the delivery lifecycle.&nbsp;</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Friday, 23 October 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC693615</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
-      "keywords": [
-        "test"
-      ]
-    },
-    {
-      "job_id": "94890083",
-      "job_title": "Innovation Lead (Health Information)",
-      "business_name": "Department of Health - Queensland",
-      "work_type": "Full time",
-      "job_type": "Programme & Project Management",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94890083",
-      "advertiser_id": "32285210",
-      "posted_date": "2026-09-25T15:43:26Z",
-      "job_description": "<div>\n \n <p>This role leads the development and design of information solutions within Health Information that enhance efficiencies, reduce costs, improve data quality, and advance the Health Information agenda.</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for an <strong>Innovation Lead (Health Information)</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Lead the development and design of health information solutions that improve efficiencies, reduce costs and support activity-based funding initiatives</li>\n<li>Provide high quality analysis of complex health care data to support optimisation and automation opportunities</li>\n<li>Develop and implement metrics and reporting mechanisms to track benefits and cost savings of each initiative</li>\n<li>Maintain expertise, provide specialist advice and act as a consultant in the area of health information and data management</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, a relevant qualification would be well regarded:</li>\n<ul>\n<li>Experience with dashboard &amp; app design, automation tools and data analysis techniques.</li>\n<li>Experience with clinical and patient administration systems such as Hospital Based Clinical Information System (HBCIS), and the integrated Medical Record.</li>\n</ul>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $144,315 - $154,879 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Strategy, Transformation and Major Capital division has been established to define, design, enhance delivery and sustainability of our most significant service improvement and digital transformation opportunities.</p>\n<p>Our high-level responsibilities for the division are for corporate strategy and planning and oversight and management of strategic partnerships, service improvement, digital transformation, digital operations, digital assets, digital partnerships, portfolio/program/project management including major capital/infrastructure programs, clinical coding, service disruption, service redesign.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Friday, 9 October 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC693599</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
-      "keywords": [
-        "innovation",
-        "health",
-        "information"
-      ]
-    },
-    {
-      "job_id": "94890081",
-      "job_title": "Program Delivery Manager",
-      "business_name": "Department of Health - Queensland",
-      "work_type": "Full time",
-      "job_type": "Programme & Project Management",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94890081",
-      "advertiser_id": "32285210",
-      "posted_date": "2026-09-25T15:43:19Z",
-      "job_description": "<div>\n \n <p>Provide leadership of the digital program and project delivery services, partnering and collaborating to implement sustainable improvements to solve the challenges faced by the Health Service and our consumers.</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for two <strong>Program Delivery Managers </strong>to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide expert and timely advice on programs and projects, including strategies to ensure the successful design and delivery of initiatives</li>\n<li>Develop complex program and project business cases, project plans, progress reports and closure reports to ensure all stakeholders are fully briefed</li>\n<li>Lead in the delivery of change management, project management and project delivery services for digital initiatives</li>\n<li>Liaise and negotiate with a broad range of internal and external stakeholders in the design and delivery of digital initiatives</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While note mandatory, qualifications or formal training in portfolio, program, change and/or project management is highly desirable</li>\n<li>While note mandatory, experience in managing programs or projects in large, complex organisations preferably in the healthcare sector is highly desirable</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time (two positions)</li>\n<li>Base salary ranging from $156,186 - $165,265 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Portfolio and Project Delivery teams lead portfolio services and end-to-end digital project delivery for the division, incorporating digital assessment and discovery to delivery and transition to business-as-usual. Project Delivery services include problem and business analysis and project and change management across the delivery lifecycle.&nbsp;</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Friday, 23 October 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC693586</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
-      "keywords": [
-        "program",
-        "delivery",
-        "manager"
-      ]
-    },
-    {
-      "job_id": "94879401",
-      "job_title": "Innovation Lead (Health Information)",
-      "business_name": "Gold Coast Hospital & Health Service",
-      "work_type": "Full time",
-      "job_type": "Management",
-      "pay_range": "$144,315 - $154,879 per annum + 12.75% super",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94879401",
-      "advertiser_id": "32285403",
-      "posted_date": "2026-09-25T05:45:43Z",
-      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for an <strong>Innovation Lead (Health Information)</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Lead the development and design of health information solutions that improve efficiencies, reduce costs and support activity-based funding initiatives</li>\n<li>Provide high quality analysis of complex health care data to support optimisation and automation opportunities</li>\n<li>Develop and implement metrics and reporting mechanisms to track benefits and cost savings of each initiative</li>\n<li>Maintain expertise, provide specialist advice and act as a consultant in the area of health information and data management</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, a relevant qualification would be well regarded:</li>\n<ul>\n<li>Experience with dashboard &amp; app design, automation tools and data analysis techniques.</li>\n<li>Experience with clinical and patient administration systems such as Hospital Based Clinical Information System (HBCIS), and the integrated Medical Record.</li>\n</ul>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $144,315 - $154,879 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Strategy, Transformation and Major Capital division has been established to define, design, enhance delivery and sustainability of our most significant service improvement and digital transformation opportunities.</p>\n<p>Our high-level responsibilities for the division are for corporate strategy and planning and oversight and management of strategic partnerships, service improvement, digital transformation, digital operations, digital assets, digital partnerships, portfolio/program/project management including major capital/infrastructure programs, clinical coding, service disruption, service redesign.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Friday, 9 October 2026</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC693599</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
-      "keywords": [
-        "innovation",
-        "health",
-        "information"
-      ]
-    },
-    {
-      "job_id": "94879007",
-      "job_title": "Test Lead",
-      "business_name": "Gold Coast Hospital & Health Service",
-      "work_type": "Full time",
-      "job_type": "Testing & Quality Assurance",
-      "pay_range": "$128,748 - $137,911 + 12.75% super",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94879007",
-      "advertiser_id": "32285403",
-      "posted_date": "2026-09-25T05:31:37Z",
-      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Test Lead</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide specialist advice and quality assurance recommendations to internal stakeholders on the delivery of test products</li>\n<li>Establish, maintain and continuously improve testing frameworks, standards, methodologies and governance processes</li>\n<li>Lead and manage software testing solutions and related technical specialist support services for Test Environments and Test Data</li>\n<li>Drive well engineered solutions with minimal technical direction and supervision</li>\n<li>Manage the project test team and collaborate with the Project Delivery Teams, and Release Management to prepare and maintain Test Environments and Test Data</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, a relevant testing qualification such as International Software Testing Qualifications Board (ISTQB) certification is highly desirable</li>\n<li>While not mandatory, a relevant Information Technology qualification or demonstrated equivalent ICT work experience in Software Testing is highly desirable</li>\n<li>Experience with automated functional testing tools is desirable (e.g. Selenium, Cypress, Tosca, Test Complete)</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $128,748 - $137,911 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Portfolio and Project Delivery teams lead portfolio services and end-to-end digital project delivery for the division, incorporating digital assessment and discovery to delivery and transition to business-as-usual. Project Delivery services include problem and business analysis and project and change management across the delivery lifecycle.&nbsp;</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Friday, 23 October 2026</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC693615</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
-      "keywords": [
-        "test"
-      ]
-    },
-    {
-      "job_id": "94878666",
-      "job_title": "Project Manager",
-      "business_name": "Gold Coast Hospital & Health Service",
-      "work_type": "Full time",
-      "job_type": "Programme & Project Management",
-      "pay_range": "$128,748 - $137,911 per annum + 12.75% super",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94878666",
-      "advertiser_id": "32285403",
-      "posted_date": "2026-09-25T05:18:49Z",
-      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for several <strong>Project Managers</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Deliver change management, project management and project delivery services for digital initiatives</li>\n<li>Develop project business cases, project plans, progress reports and closure reports to ensure all stakeholders are fully briefed on project objectives</li>\n<li>Lead project planning and the delivery of digital initiatives to achieve effective, efficient and sustainable outcomes for our patients</li>\n<li>Provide input into the development and maintenance of policies, systems and procedures to ensure effective and efficient processes are in place</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, qualifications or formal training in project and/or change management would be well regarded.</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time (two positions)</li>\n<li>Base salary ranging from $128,748 - $137,911 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) Division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Service Strategic Plan 2026-2030.</p>\n<p>DHI is responsible for enhancing efficiency and service delivery improvements to optimise Health Service performance. It also oversees strategic partnerships that help the Health Service implement alternative models of service delivery, ensuring value for money, and driving improvements in performance, and innovation.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong<strong>&nbsp;</strong></li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Friday, 23 October 2026</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC693617</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
-      "keywords": [
-        "project",
-        "manager"
-      ]
-    },
-    {
-      "job_id": "94873908",
-      "job_title": "Program Delivery Manager",
-      "business_name": "Gold Coast Hospital & Health Service",
-      "work_type": "Full time",
-      "job_type": "Programme & Project Management",
-      "pay_range": "$156,186 - $165,265 per annum + 12.75% super",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94873908",
-      "advertiser_id": "32285403",
-      "posted_date": "2026-09-25T02:51:08Z",
-      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for two <strong>Program Delivery Managers </strong>to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide expert and timely advice on programs and projects, including strategies to ensure the successful design and delivery of initiatives</li>\n<li>Develop complex program and project business cases, project plans, progress reports and closure reports to ensure all stakeholders are fully briefed</li>\n<li>Lead in the delivery of change management, project management and project delivery services for digital initiatives</li>\n<li>Liaise and negotiate with a broad range of internal and external stakeholders in the design and delivery of digital initiatives</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While note mandatory, qualifications or formal training in portfolio, program, change and/or project management is highly desirable</li>\n<li>While note mandatory, experience in managing programs or projects in large, complex organisations preferably in the healthcare sector is highly desirable</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time (two positions)</li>\n<li>Base salary ranging from $156,186 - $165,265 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Portfolio and Project Delivery teams lead portfolio services and end-to-end digital project delivery for the division, incorporating digital assessment and discovery to delivery and transition to business-as-usual. Project Delivery services include problem and business analysis and project and change management across the delivery lifecycle.&nbsp;</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Friday, 23 October 2026</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC693586</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
-      "keywords": [
-        "program",
-        "delivery",
-        "manager"
-      ]
-    },
-    {
-      "job_id": "94872744",
-      "job_title": "Data Engineer",
-      "business_name": "G8 Education Limited",
-      "work_type": "Full time",
-      "job_type": "Engineering - Software",
-      "pay_range": "",
-      "area": "Varsity Lakes, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94872744",
-      "advertiser_id": "22363191",
-      "posted_date": "2026-09-25T02:16:59Z",
-      "job_description": "<p>Nurturing the greatness in every child - and in you.</p>\n<p>&nbsp;</p>\n<p><strong>Join one of Australia’s Largest Leading Early Education Providers!&nbsp;&nbsp;</strong></p>\n<p>At G8 Education, we’re on a mission to shape the future! With 350+ early education and care centres under 21 brands, our 7,000+ dedicated team members nurture over 40,000 children every day.&nbsp;&nbsp;</p>\n<p>As an ASX listed growth company, we’re committed to empowering, rewarding, and supporting every team member – from our centre educators to our leadership and support team.&nbsp;&nbsp;</p>\n<p><strong>The Opportunity</strong>&nbsp;</p>\n<p>We’re looking for an experienced <strong>Data Engineer</strong> to design, build, and maintain scalable data pipelines and infrastructure that power data-driven decision making across our organisation.</p>\n<p>In this role, you’ll work closely with data scientists, analysts, and business stakeholders to ensure our data systems are reliable, efficient, and fit for purpose, transforming raw data into meaningful insights.</p>\n<p>This is a hands-on technical role for someone who enjoys solving complex problems, optimising performance, and continuously improving data platforms.<br><br>While this opportunity is advertised as a Data Engineer, we encourage experienced Senior Data Engineers to apply, with flexibility to appoint at a senior level for the right candidate.</p>\n<p><strong>Key Responsibilities </strong></p>\n<ul>\n<li>Design, develop and maintain robust ETL pipelines feeding our Fabric Lakehouse</li>\n<li>Build and optimise data models to support analytics and business reporting</li>\n<li>Integrate data from multiple sources and formats, ensuring accuracy and consistency</li>\n<li>Identify and resolve performance bottlenecks across pipelines and systems</li>\n<li>Implement monitoring, alerting, backups, upgrades and ongoing maintenance processes</li>\n<li>Partner with data scientists, analysts and stakeholders to deliver fit-for-purpose data solutions</li>\n<li>Develop and maintain Power BI reporting solutions to support business insights</li>\n<li>Document engineering processes, standards and best practices</li>\n<li>Provide guidance and support to team members where required</li>\n<li>Stay current with emerging tools and technologies, contributing ideas to improve platforms and ways of working</li>\n</ul>\n<p><strong>About You</strong>&nbsp;</p>\n<p>You’re a collaborative problem-solver with strong technical foundations and a passion for data. You thrive in environments where quality, reliability and continuous improvement matter.</p>\n<ul>\n<li>5 years of experience in data engineering or related roles, with strong proficiency in database systems, ETL processes, and data modelling.</li>\n<li>Proficiency in programming languages such as Python or SQL.</li>\n<li>Experience with Microsoft Fabric is a plus.</li>\n<li>Strong problem-solving skills and attention to detail.</li>\n<li>Excellent communication and interpersonal skills, with the ability to work effectively in a team environment.</li>\n<li>Experience with data visualisation tools such as Power BI is desirable.</li>\n<li><em>Hold a valid working with children check or willingness to obtain upon commencement. </em></li>\n</ul>\n<p><strong>Benefits at G8</strong></p>\n<ul>\n<li>Competitive salary package</li>\n<li>Eligibility to participate in our Short-Term Incentive program which is an annualised bonus each year</li>\n<li>Hybrid working conditions with 3 days in office and 2 from home.</li>\n<li>Based at our Gold Coast Head Office in Varsity Lakes.</li>\n<li>Career development opportunities as part of a large ASX-listed company&nbsp;</li>\n<li>Access a 50% discount on early education and childcare fees at any G8 Education Centre.&nbsp;</li>\n<li>Exclusive access to our G8 Rewards Program with benefits across more than 600 retailers, exclusive cash discounts and more!</li>\n</ul>\n<p><em>Find out more here: </em>G8 Education</p>\n<p><strong>United by purpose. Guided by values.</strong></p>\n<p>At G8 Education, we’re proud to celebrate, support, and inspire our 10,000+ team members as they make a lasting difference in the lives of children and their own.</p>\n<p>Driven by our purpose “to nurture the greatness in every child to grow, thrive and learn” and guided by our values, we’re shaping bright futures for children, families, communities, and each other.</p>\n<p><strong>Our values:</strong> Safety First &amp; Always, Thriving Together, Owning the Outcome, Being the Difference, Building Bright Futures.</p>\n<p><strong><br>Our Recruitment Process</strong></p>\n<p>Our recruitment process includes police checks and verification of qualifications and right-to-work status.</p>\n<p>Please note that the advertised closing date is indicative only, and applications may close earlier. We encourage you to apply as soon as possible.</p>\n<p><em>G8 Education is a committed advocate for child protection, safety and wellbeing. We have a zero tolerance for any form of child abuse or harm. The safety and wellbeing of children will always be our priority, and all team members are expected to embrace this shared commitment.</em></p>",
-      "keywords": [
-        "data",
-        "engineer"
-      ]
-    },
     {
       "job_id": "94852890",
       "job_title": "Business Analyst",
@@ -651,6 +457,24 @@
       "keywords": [
         "business",
         "analyst"
+      ]
+    },
+    {
+      "job_id": "94837781",
+      "job_title": "Senior Technology Officer",
+      "business_name": "Department of Health - Queensland",
+      "work_type": "Contract/Temp",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94837781",
+      "advertiser_id": "32285210",
+      "posted_date": "2026-09-23T14:01:14Z",
+      "job_description": "<p><strong>What you'll do</strong></p>\n<p>As the Senior Technology Officer, you will provide high-level ICT support to Queensland Health sites through both onsite and remote service delivery, ensuring reliable and effective technology solutions are maintained across diverse environments. You will configure, install, monitor, manage and support ICT systems, using your technical expertise to investigate and resolve incidents in a timely manner while meeting agreed service levels and eHealth incident management requirements. Working collaboratively with clients and stakeholders, you will deliver exceptional customer service, provide technical advice, and contribute to the development and maintenance of procedures within your technical domain. You will also play a key role in supporting and supervising staff, fostering the delivery of high-quality ICT services and ensuring compliance with established standards, policies and procedures.</p>\n<p><strong>About you</strong></p>\n<p>We are searching for someone who has:</p>\n<ul>\n<li>Demonstrated technical expertise in the management, configuration, monitoring and implementation of ICT environments in one or more technical domains.</li>\n<li>Proven experience in delivering high quality ICT support to clients, with an emphasis on managing workloads, prioritising tasks and working unsupervised.</li>\n<li>Proven experience and ability to identify and resolve ICT related problems within defined Service Level Agreements.</li>\n<li>Demonstrated ability to coordinate multiple tasks within agreed priorities, timeframes and accountabilities.</li>\n<li>Demonstrated interpersonal skills and personal qualities that facilitate the development of good working relationships, including mentoring of junior staff, and enhance the provision of quality client service in a team environment.</li>\n<li>Well-developed oral and written communication skills that enable the creation and/or maintenance of system documentation, work instructions and technical reports for management.</li>\n<li>Demonstrated experience or the ability to quickly learn ServiceNow and ITIL Service Management processes.</li>\n<li>Ability to maintain an awareness and understanding of new and emerging ICT technologies and products as they relate to eHealth Queensland.</li>\n</ul>\n<p><strong>Why work with us?</strong></p>\n<p>Work alongside passionate professionals in a supportive and inclusive environment that values people and prioritises employee success and wellbeing. This includes</p>\n<p><strong>Competitive salaries</strong></p>\n<ul>\n<li>12.75% superannuation</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Employee wellbeing</strong></p>\n<ul>\n<li>Access to 24/7 confidential employee support providers and counsellors including for immediate family members</li>\n<li>Additional flexibility to support your work life balance including access to generous leave entitlements, such as purchased leave, domestic violence leave, reproductive health leave, cultural leave, study and examination leave.</li>\n</ul>\n<p><strong>Professional development</strong></p>\n<ul>\n<li>Career progression with more than 300 diverse career pathways and career support to take you further!</li>\n<li>Access to a variety of programs and initiatives to support training and career growth.</li>\n<li>Grow your skills through hands-on experience and access to internal training opportunities and additional financial and leave benefits for approved external training and development.</li>\n</ul>\n<p><strong>Our commitment to equity, diversity and inclusion&nbsp;</strong></p>\n<p>At Queensland Health, our work environment is inclusive and supportive, and we value our employees. We are an equal opportunity employer and encourage applications from people of all cultures, abilities and backgrounds.</p>\n<p>Our commitment to cultural safety, equity, diversity and inclusion means we understand some people may need changes to the recruitment process. If you need support during the recruitment process, such as meeting with the panel virtually instead of in person, please reach out to the hiring manager. We value diverse candidates and your need for adjustments will not affect our hiring decisions.&nbsp;</p>\n<p><strong>Ready to apply?</strong></p>\n<p>For further information on how to apply please review the attached Role Description.</p>",
+      "keywords": [
+        "technology",
+        "officer"
       ]
     },
     {
@@ -1786,6 +1610,25 @@
         "support",
         "analyst",
         "month"
+      ]
+    },
+    {
+      "job_id": "94220093",
+      "job_title": "Data and AI Engineer",
+      "business_name": "Alder Constructions Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Other",
+      "pay_range": "",
+      "area": "Helensvale, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94220093",
+      "advertiser_id": "20961859",
+      "posted_date": "2026-08-26T08:45:04Z",
+      "job_description": "<p></p><p>Alder Group is proudly celebrating 23 years in 2026, bringing engineering and construction teams together under one roof to deliver high-quality building, civil and infrastructure projects across Queensland and Northern NSW.</p><p>&nbsp;</p><p>At Alder, we're not just building communities, we're building the future.</p><p>As we continue to transform how we leverage technology, data and artificial intelligence across our business, we're looking for an exceptional <strong>Data &amp; AI Engineer</strong> to establish and lead our enterprise data and AI capability from the ground up.</p><p>&nbsp;</p><p>This is a rare opportunity to join a growing business at a pivotal stage of its digital transformation journey. You'll have the autonomy, influence and support to design and develop the data foundations, reporting frameworks, automation opportunities and AI solutions that will drive smarter decisions and unlock business performance across the organisation. </p><p>&nbsp;</p><p><strong>About the Role</strong></p><p>Reporting to the General Manager - Information, Data &amp; Technology, you will lead the development of Alder's enterprise data platform and serve as the technical owner of our data, analytics and AI capabilities.</p><p>&nbsp;</p><p>You'll be responsible for designing the architecture, governance frameworks and reporting solutions that transform business data into trusted information assets, while identifying opportunities to leverage automation, analytics and AI to improve business outcomes. </p><p>&nbsp;</p><p>This is a hands-on role where you will participate and lead the initial requirements gathering, options analysis and design phases and then build the data platform, integrations and reporting from ground up.</p><p>&nbsp;</p><p>Key responsibilities include:</p><ul><li>Design and develop Alder's enterprise data platform, architecture and governance frameworks</li><li>Build scalable data models, pipelines, integrations and reporting solutions</li><li>Deliver business insights through Power BI, analytics and AI-enabled solutions</li><li>Drive automation and process improvement initiatives across the organisation</li><li>Champion data quality, governance and emerging technology opportunities</li><li>Partner with stakeholders to translate business needs into actionable data solutions</li><li>Develop and support AI-enabled prototypes and solutions that improve productivity, decision-making and operational efficiency</li></ul><p>&nbsp;</p><p><strong>About You</strong></p><p>You're a strategic thinker with strong technical capability who enjoys solving complex business challenges through data.</p><ul><li>Experience with enterprise data platforms, modern data architectures or data warehousing</li><li>Strong skills in data modelling, integration, reporting and analytics</li><li>Knowledge of data governance, automation and AI technologies</li><li>Experience with Power BI and platforms such as Fabric, Snowflake or Databricks</li><li>Strong stakeholder engagement and communication skills</li><li>A proactive mindset and passion for continuous improvement</li><li>Degree in Data Analytics, Data Science, Information Technology, Computer Science, Software Engineering or a related discipline is highly desirable.</li></ul><p>&nbsp;</p><p><strong>About Alder Group</strong></p><p>At Alder Group, we deliver award-winning construction and infrastructure projects that positively impact communities across Queensland and Northern NSW. Our diverse portfolio spans Infrastructure, Water and Wastewater, Education, Health, Commercial, Industrial, Hospitality and Community sectors.</p><p>&nbsp;</p><p><strong>What We Offer</strong></p><ul><li>A supportive and collaborative workplace where people are valued, respected and encouraged to do their best work.</li><li>A genuine \"One Team\" mindset and focus on continuous improvement.</li><li>Opportunities to develop your capability, expand your experience and grow your career within a dynamic and evolving business.</li><li>Exposure to a broad range of technologies, projects and business operations.</li><li>A structured pathway into systems administration and infrastructure-focused roles.</li><li>A competitive remuneration package aligned to your experience and the value you bring to the role.</li></ul><p></p><p></p>",
+      "keywords": [
+        "data",
+        "ai",
+        "engineer"
       ]
     },
     {
