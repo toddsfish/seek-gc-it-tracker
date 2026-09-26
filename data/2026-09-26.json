@@ -1,473 +1,473 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-26",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-27T08:16:34.252595+10:00",
-  "total_jobs": 69,
+  "scraped_at": "2026-09-26T08:58:32.657073+10:00",
+  "total_jobs": 70,
   "keywords": [
     {
       "term": "support",
-      "count": 17,
-      "share": 0.2464
+      "count": 18,
+      "share": 0.2571
+    },
+    {
+      "term": "analyst",
+      "count": 12,
+      "share": 0.1714
     },
     {
       "term": "it",
       "count": 12,
-      "share": 0.1739
-    },
-    {
-      "term": "analyst",
-      "count": 11,
-      "share": 0.1594
+      "share": 0.1714
     },
     {
       "term": "engineer",
       "count": 10,
-      "share": 0.1449
+      "share": 0.1429
     },
     {
       "term": "developer",
       "count": 9,
-      "share": 0.1304
+      "share": 0.1286
     },
     {
       "term": "business",
       "count": 6,
-      "share": 0.087
+      "share": 0.0857
     },
     {
       "term": "manager",
       "count": 6,
-      "share": 0.087
+      "share": 0.0857
     },
     {
       "term": "officer",
       "count": 6,
-      "share": 0.087
-    },
-    {
-      "term": "data",
-      "count": 5,
-      "share": 0.0725
+      "share": 0.0857
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.0725
+      "share": 0.0714
+    },
+    {
+      "term": "data",
+      "count": 5,
+      "share": 0.0714
     },
     {
       "term": "software",
       "count": 5,
-      "share": 0.0725
+      "share": 0.0714
     },
     {
       "term": "ai",
       "count": 4,
-      "share": 0.058
+      "share": 0.0571
     },
     {
       "term": "specialist",
       "count": 4,
-      "share": 0.058
+      "share": 0.0571
     },
     {
       "term": "administrator",
       "count": 4,
-      "share": 0.058
+      "share": 0.0571
     },
     {
       "term": "service",
       "count": 4,
-      "share": 0.058
+      "share": 0.0571
     },
     {
       "term": "delivery",
       "count": 3,
-      "share": 0.0435
+      "share": 0.0429
     },
     {
       "term": "desk",
       "count": 3,
-      "share": 0.0435
+      "share": 0.0429
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0435
+      "share": 0.0429
+    },
+    {
+      "term": "desktop",
+      "count": 3,
+      "share": 0.0429
     },
     {
       "term": "infrastructure",
       "count": 3,
-      "share": 0.0435
+      "share": 0.0429
     },
     {
       "term": "product",
       "count": 3,
-      "share": 0.0435
+      "share": 0.0429
     },
     {
       "term": "architect",
       "count": 2,
-      "share": 0.029
+      "share": 0.0286
     },
     {
       "term": "intelligence",
       "count": 2,
-      "share": 0.029
+      "share": 0.0286
     },
     {
       "term": "platform",
       "count": 2,
-      "share": 0.029
+      "share": 0.0286
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.029
+      "share": 0.0286
     },
     {
       "term": "net",
       "count": 2,
-      "share": 0.029
+      "share": 0.0286
     },
     {
       "term": "broadbeach",
       "count": 2,
-      "share": 0.029
-    },
-    {
-      "term": "desktop",
-      "count": 2,
-      "share": 0.029
+      "share": 0.0286
     },
     {
       "term": "technical",
       "count": 2,
-      "share": 0.029
+      "share": 0.0286
+    },
+    {
+      "term": "month",
+      "count": 2,
+      "share": 0.0286
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.029
+      "share": 0.0286
     },
     {
       "term": "innovation",
       "count": 2,
-      "share": 0.029
+      "share": 0.0286
     },
     {
       "term": "health",
       "count": 2,
-      "share": 0.029
+      "share": 0.0286
     },
     {
       "term": "information",
       "count": 2,
-      "share": 0.029
+      "share": 0.0286
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.029
+      "share": 0.0286
     },
     {
       "term": "project",
       "count": 2,
-      "share": 0.029
+      "share": 0.0286
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.029
+      "share": 0.0286
     },
     {
       "term": "test",
       "count": 2,
-      "share": 0.029
+      "share": 0.0286
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "analysis",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "capability",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "utilities",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "science",
       "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "reporting",
-      "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "technology",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
+    },
+    {
+      "term": "reporting",
+      "count": 1,
+      "share": 0.0143
     },
     {
       "term": "architech",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "dynamics",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "assisted",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "azure",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "netsuite",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "erp",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "migration",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "customisation",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "native",
       "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "engineering",
-      "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "machines4u",
-      "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "php",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
+    },
+    {
+      "term": "engineering",
+      "count": 1,
+      "share": 0.0143
+    },
+    {
+      "term": "machines4u",
+      "count": 1,
+      "share": 0.0143
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "its",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "asset",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "pimpama",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "campus",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "experience",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "required",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "modern",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "workplace",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "inventory",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "cruise",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0145
-    },
-    {
-      "term": "month",
-      "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "ciam",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "ecommerce",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "catalogue",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     },
     {
       "term": "applied",
       "count": 1,
-      "share": 0.0145
+      "share": 0.0143
     }
   ],
   "jobs": [
@@ -1766,6 +1766,26 @@
         "stack",
         "software",
         "developer"
+      ]
+    },
+    {
+      "job_id": "94225795",
+      "job_title": "Desktop Support Analyst (6-Month Fixed-Term Contract)",
+      "business_name": "HUB24",
+      "work_type": "Contract/Temp",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94225795",
+      "advertiser_id": "41588958",
+      "posted_date": "2026-08-26T23:55:51Z",
+      "job_description": "<p><strong>About HUB24</strong></p><p>At HUB24, we’re rethinking the way wealth management works, combining platform, technology and data to create better outcomes for financial professionals and their clients.</p><p>Our purpose is simple:&nbsp;<strong> Empower better financial futures,&nbsp;together</strong>.</p><p>What sets us apart is how we work.&nbsp;We back <strong>bold thinking,</strong> move with pace, and turn ideas into action. You’ll have the opportunity to make a real impact across your team, the business, and for the clients we support every day.</p><p>HUB24 Limited is&nbsp;an ASX-listed company (ASX: HUB) and part of the ASX100.&nbsp;We have over 1,100 employees across Australia, with offices in Sydney, Melbourne, Brisbane, Perth and the Gold Coast.&nbsp;<br></p><p><strong>Why you’ll enjoy working here</strong></p><p>We create an environment where you can do your best work and see the impact of it.</p><ul><li><p>Work with smart, collaborative people who get things done.</p></li><li><p>Your ideas won’t sit in a backlog, they’ll be&nbsp;heard, tested and actioned.</p></li><li><p>Grow your career your way, with support to&nbsp;learn, stretch and explore new opportunities.<br></p></li></ul><p>We also offer benefits to support you inside and outside of work:</p><ul><li><p>Genuinely flexible&nbsp;and hybrid&nbsp;ways of working.</p></li><li><p>Employee Share Scheme.</p></li><li><p>Additional leave and wellbeing support.</p></li><li><p>Enhanced parental leave and support through different life stages.</p></li><li><p>Everyday benefits, including discounts and financial wellbeing support.<br></p></li></ul><p><strong>Why this is an exciting opportunity</strong><br><br>The IT Service Delivery team provides timely and expert technical services to support the products and services of the HUB24 Group and external clients. These include managed services and hosting, infrastructure support, application support, and end user support.<br>The primary objective of the Desktop Support Analyst is to deliver reliable, customer-focused workplace technology support for HUB24’s Queensland offices, ensuring incidents, service requests and end-user technology needs are resolved efficiently and in line with agreed service levels. The role acts as the local on-site technology contact for Queensland office locations, supporting desktop, device, access and collaboration services while partnering with centralised technology teams to maintain consistent, secure and compliant service delivery.<br><br>This role operates on a hybrid working arrangement, with four days per week on-site and one day working from home. The primary location is our Gold Coast office. As a key member of the support team, you will also be required to travel between our Queensland offices in Brisbane and the Gold Coast on a rotating basis to provide onsite support.<br></p><p><strong>What you’ll be doing</strong></p><ul><li><p>Deliver high-quality end-to-end support for incidents, service requests and workplace technology issues across interstate offices, ensuring timely resolution, clear communication and adherence to service levels.</p></li><li><p>Act as the primary on-site technology contact, providing hands-on desktop support, troubleshooting hardware, software, workplace technology and access-related issues, and coordinating local technology needs.</p></li><li><p>Manage and resolve tickets through the ITSM platform, ensuring accurate categorisation, documentation, prioritisation and ownership through to resolution, with escalation to specialist teams as required.</p></li><li><p>Support onboarding, offboarding and access management activities, including device provisioning, system access and lifecycle management of workplace technology assets.</p></li><li><p>Collaborate with Service Desk, Desktop Support and Service Operations teams to deliver a consistent, high-quality user experience across all locations.</p></li><li><p>Create and maintain knowledge articles, documentation and operating procedures, while identifying opportunities to improve support processes, technology services and user experience.</p></li><li><p>Ensure compliance with IT governance, security and asset management standards, and contribute to service reporting, metrics and the identification of recurring issues and risks.<br></p></li></ul><p><strong>What you bring</strong></p><p>You don’t need to tick every box, but experience in the below will set you up for success.</p><p><strong>Experience &amp; Skills</strong></p><ul><li><p>Minimum 2 years' experience in an IT Support role within a medium to large enterprise environment, supporting end-user computing and workplace technologies.</p></li><li><p>Relevant tertiary qualification in Information Technology or a related discipline, or equivalent practical experience.</p></li><li><p>Strong understanding of IT Service Management (ITSM) principles, including incident, request, problem and change management, with experience using ITSM platforms.</p></li><li><p>Demonstrated experience providing remote and on-site technical support across hardware, software, operating systems, workplace technologies and access-related issues.</p></li><li><p>Knowledge of Microsoft 365, endpoint management (e.g. Intune), identity and access management, and modern collaboration platforms.</p></li><li><p>Experience supporting device provisioning, asset lifecycle management, onboarding, offboarding and user access management in a secure and compliant manner.</p></li><li><p>Strong analytical and problem-solving skills, with the ability to diagnose issues, assess impact and deliver effective resolutions.</p></li><li><p>Excellent communication and interpersonal skills, with the ability to build trusted relationships, establish credibility and engage effectively with end users, stakeholders and technical teams.</p></li><li><p>Ability to work independently in a geographically distributed environment, manage competing priorities and maintain high service standards.</p></li><li><p>Experience creating and maintaining documentation, knowledge articles and standard operating procedures.</p></li><li><p>Understanding of IT governance, security, risk and compliance requirements, with a continuous improvement mindset and a focus on enhancing service delivery.<br></p></li></ul><p><strong>Our process</strong></p><p>We aim to keep the process simple and respectful of your time:</p><ul><li><p>You’ll receive an acknowledgement after applying.</p></li><li><p>Our Talent team will review your application and keep you updated.</p></li><li><p>If shortlisted, we’ll connect to learn more about you.</p></li><li><p>Interviews may be virtual or in person.</p></li><li><p>You’ll receive an outcome and feedback.</p></li></ul><p><br></p><p>If you need any adjustments, please let us know - we’re here to support you.<br></p><p><strong>Our commitment</strong></p><p>We’re committed to building an inclusive environment where everyone feels valued and supported to do their best work. We welcome applications from people of all backgrounds, identities and experiences.</p><p>Agencies, we work with a panel of preferred suppliers and are not accepting any unsolicited CVs.</p>",
+      "keywords": [
+        "desktop",
+        "support",
+        "analyst",
+        "month"
       ]
     },
     {
