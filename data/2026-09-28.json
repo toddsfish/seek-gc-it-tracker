@@ -1,569 +1,466 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-28",
   "region": "Gold Coast",
-  "scraped_at": "2026-09-29T10:04:32.314925+10:00",
-  "total_jobs": 72,
+  "scraped_at": "2026-09-28T08:42:27.021611+10:00",
+  "total_jobs": 67,
   "keywords": [
     {
       "term": "support",
-      "count": 19,
-      "share": 0.2639
+      "count": 17,
+      "share": 0.2537
     },
     {
       "term": "it",
       "count": 12,
-      "share": 0.1667
+      "share": 0.1791
     },
     {
       "term": "analyst",
       "count": 10,
-      "share": 0.1389
+      "share": 0.1493
     },
     {
       "term": "engineer",
       "count": 10,
-      "share": 0.1389
+      "share": 0.1493
     },
     {
       "term": "developer",
       "count": 9,
-      "share": 0.125
+      "share": 0.1343
     },
     {
       "term": "manager",
-      "count": 7,
-      "share": 0.0972
-    },
-    {
-      "term": "specialist",
       "count": 6,
-      "share": 0.0833
-    },
-    {
-      "term": "software",
-      "count": 6,
-      "share": 0.0833
+      "share": 0.0896
     },
     {
       "term": "officer",
       "count": 6,
-      "share": 0.0833
-    },
-    {
-      "term": "business",
-      "count": 5,
-      "share": 0.0694
-    },
-    {
-      "term": "ai",
-      "count": 5,
-      "share": 0.0694
+      "share": 0.0896
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.0694
+      "share": 0.0746
     },
     {
       "term": "data",
       "count": 5,
-      "share": 0.0694
+      "share": 0.0746
+    },
+    {
+      "term": "software",
+      "count": 5,
+      "share": 0.0746
+    },
+    {
+      "term": "business",
+      "count": 4,
+      "share": 0.0597
+    },
+    {
+      "term": "ai",
+      "count": 4,
+      "share": 0.0597
+    },
+    {
+      "term": "specialist",
+      "count": 4,
+      "share": 0.0597
     },
     {
       "term": "administrator",
-      "count": 5,
-      "share": 0.0694
+      "count": 4,
+      "share": 0.0597
     },
     {
       "term": "service",
       "count": 4,
-      "share": 0.0556
-    },
-    {
-      "term": "information",
-      "count": 4,
-      "share": 0.0556
-    },
-    {
-      "term": "operations",
-      "count": 3,
-      "share": 0.0417
+      "share": 0.0597
     },
     {
       "term": "delivery",
       "count": 3,
-      "share": 0.0417
-    },
-    {
-      "term": "technology",
-      "count": 3,
-      "share": 0.0417
+      "share": 0.0448
     },
     {
       "term": "desk",
       "count": 3,
-      "share": 0.0417
+      "share": 0.0448
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0417
+      "share": 0.0448
     },
     {
       "term": "infrastructure",
       "count": 3,
-      "share": 0.0417
+      "share": 0.0448
     },
     {
       "term": "product",
       "count": 3,
-      "share": 0.0417
+      "share": 0.0448
     },
     {
       "term": "architect",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0299
     },
     {
       "term": "intelligence",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0299
     },
     {
       "term": "platform",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0299
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0299
     },
     {
       "term": "net",
       "count": 2,
-      "share": 0.0278
-    },
-    {
-      "term": "engineering",
-      "count": 2,
-      "share": 0.0278
-    },
-    {
-      "term": "communication",
-      "count": 2,
-      "share": 0.0278
+      "share": 0.0299
     },
     {
       "term": "broadbeach",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0299
     },
     {
       "term": "desktop",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0299
     },
     {
       "term": "technical",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0299
+    },
+    {
+      "term": "operations",
+      "count": 2,
+      "share": 0.0299
     },
     {
       "term": "innovation",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0299
     },
     {
       "term": "health",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0299
     },
     {
-      "term": "sharepoint",
+      "term": "information",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0299
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0299
     },
     {
       "term": "project",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0299
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0299
     },
     {
       "term": "test",
       "count": 2,
-      "share": 0.0278
+      "share": 0.0299
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "utilities",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "science",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "reporting",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
+    },
+    {
+      "term": "technology",
+      "count": 1,
+      "share": 0.0149
+    },
+    {
+      "term": "reporting",
+      "count": 1,
+      "share": 0.0149
     },
     {
       "term": "architech",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "dynamics",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "power",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "assisted",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "azure",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "backend",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "netsuite",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "erp",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "migration",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "customisation",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "native",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "php",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
+    },
+    {
+      "term": "engineering",
+      "count": 1,
+      "share": 0.0149
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "network",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "its",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "asset",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "msp",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "experience",
-      "count": 1,
-      "share": 0.0139
-    },
-    {
-      "term": "required",
-      "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "pimpama",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "campus",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
+    },
+    {
+      "term": "msp",
+      "count": 1,
+      "share": 0.0149
+    },
+    {
+      "term": "experience",
+      "count": 1,
+      "share": 0.0149
+    },
+    {
+      "term": "required",
+      "count": 1,
+      "share": 0.0149
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "modern",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "workplace",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "inventory",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "cruise",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
+    },
+    {
+      "term": "sharepoint",
+      "count": 1,
+      "share": 0.0149
     },
     {
       "term": "month",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "ciam",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "ecommerce",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "catalogue",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     },
     {
       "term": "applied",
       "count": 1,
-      "share": 0.0139
+      "share": 0.0149
     }
   ],
   "jobs": [
-    {
-      "job_id": "94928199",
-      "job_title": "Sharepoint Administrator",
-      "business_name": "Peoplebank Australia QLD",
-      "work_type": "Contract/Temp",
-      "job_type": "Networks & Systems Administration",
-      "pay_range": "AUD 120000 - 125000 per annum, including super",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94928199",
-      "advertiser_id": "28936124",
-      "posted_date": "2026-09-28T19:44:06Z",
-      "job_description": "Job title: Sharepoint Administrator<br>12 Month Fixed term contract<br>Annual salary: $125k including super<br>Loation: Gold coast (hybrid)<br><br> <strong>As the selected candidate, you will:</strong><br><ul><li>Lead the redesign and optimisation of the SharePoint Online environment, including site structures, libraries, and document management practices.</li><li>Drive governance, data, and document management, along with migration and archiving initiatives to streamline information flow.</li><li>Collaborate with stakeholders across the business to improve collaboration, security, and information management practices.</li><li>Manage permissions, access controls, and site ownership to ensure compliance with governance standards.</li><li>Support the migration of business data from legacy systems and network drives into secure, well-structured SharePoint solutions.</li><li>Establish and enforce governance standards such as naming conventions, retention policies, and document management protocols.</li></ul><strong>To be successful in this role you should have:</strong><br><ul><li>Strong hands-on experience administering SharePoint Online.</li><li>Proven ability to manage permissions, site structures, and information architecture.</li><li>Knowledge of governance, retention, compliance, and document management best practices.</li><li>Experience with file migrations, permissions management, and security protocols.</li><li>Exposure to tools such as Microsoft Purview, Data Loss Prevention (DLP), PowerShell, Teams, OneDrive, or Azure Files will be highly regarded.</li></ul>Please reach out to have a confidential chat and reference #272341- <a href=\"mailto:mangal.kadam@peoplebank.com.au\">mangal.kadam@peoplebank.com.au</a>/<a href=\"tel:7 3003 7693\">7 3003 7693</a><br><br><br><br><br><strong>Peoplebank</strong> and <strong>Leaders IT</strong> are committed to creating a diverse and inclusive workplace where everyone belongs. We welcome applications from people of all backgrounds, identities, and experiences. If you need adjustments to the recruitment process due to your circumstances, please let us know—we’re here to support you.",
-      "keywords": [
-        "sharepoint",
-        "administrator"
-      ]
-    },
-    {
-      "job_id": "94917959",
-      "job_title": "Information Communication Technology Support Specialist",
-      "business_name": "Gold Coast Hospital & Health Service",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$111,993 - $121,853 per annum + 12.75% super",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94917959",
-      "advertiser_id": "32285403",
-      "posted_date": "2026-09-28T06:50:57Z",
-      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for an <strong>Information Communication Technology Support Specialist</strong></p>\n<p>to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Deliver frontline support for end-user devices, systems, and services, ensuring timely resolution of incidents and service requests</li>\n<li>Provide technical expertise in the deployment, configuration, maintenance, and lifecycle management of end-user devices</li>\n<li>Contribute to the planning, testing, and rollout of new technologies, upgrades, and patches</li>\n<li>Provide hands-on support and proactive monitoring of Audio-Visual solutions, meeting room technology, and other user-facing collaboration tools</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, any relevant qualification would be well regarded</li>\n<li>Available to work extended hours beyond standard business hours at times or on call</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $111,993 - $121,853 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028.</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Monday, 12 October 2026.</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC693795</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
-      "keywords": [
-        "information",
-        "communication",
-        "technology",
-        "support",
-        "specialist"
-      ]
-    },
-    {
-      "job_id": "94916069",
-      "job_title": "Senior Information Communication Technology Support Specialist",
-      "business_name": "Gold Coast Hospital & Health Service",
-      "work_type": "Full time",
-      "job_type": "Management",
-      "pay_range": "$128,748 - $137,911 + 12.75% super",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94916069",
-      "advertiser_id": "32285403",
-      "posted_date": "2026-09-28T05:59:32Z",
-      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for a<strong> Senior Information Communication Technology Support Specialist</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Support and mentor the Technology Operations team in accordance with the approved Information Technology Service Management</li>\n<li>Establish and maintain highly effective working relationships with other technical specialists, application specialists and end user</li>\n<li>Undertake risk and issues identification, assessment and mitigation activities by ensuring risks and issues are documented, reviewed and escalated as appropriate</li>\n<li>Identify, coordinate, develop and implement strategies and work practices which will improve the workflow, efficiency and effectiveness of the team</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>Demonstrated ability in following, developing and promoting ITIL service management processes primarily incident/problem/test/change and configuration management. (SFIA: USUP Level 4, PBMG Level 4, CHMG Level 4, CFMG Level 3, TEST Level 4.)</li>\n<li>Provide high level of technical expertise to provide technical direction, standardisation, professional advice and support of enterprise infrastructure in a large customer focus organisation. (SFIA: ITOP Level 4, TECH Level 5)</li>\n<li>Proven experience in providing expertise and support on use of methods and tools (3rd level of support) within the technology sphere (SFIA ARCH 5, METL5, DESN 5)</li>\n<li>Ability to participate in on-call arrangements and out of standard working hours is a requirement for this position. Appropriate remuneration under the Award will apply.</li>\n<li>While not mandatory, a relevant Information Technology qualification would be well regarded.</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $128,748 - $137,911 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028.</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Monday, 12 October 2026.</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC693762</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
-      "keywords": [
-        "information",
-        "communication",
-        "technology",
-        "support",
-        "specialist"
-      ]
-    },
-    {
-      "job_id": "94915861",
-      "job_title": "Software Engineering Manager",
-      "business_name": "Gold Coast Hospital & Health Service",
-      "work_type": "Full time",
-      "job_type": "Management",
-      "pay_range": "$160,092 - $169,398 per annum + 12.75% super",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94915861",
-      "advertiser_id": "32285403",
-      "posted_date": "2026-09-28T05:52:27Z",
-      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Software Engineering Manager</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Lead and manage development teams across multiple streams including recruitment, onboarding, performance management, professional development and day-to-day operations</li>\n<li>Set and maintain engineering standards, code quality frameworks and technical governance across the development portfolio</li>\n<li>Oversee agile delivery practices across development teams, including scoping, technical direction, engineering-driven work items and supporting on complex decisions</li>\n<li>Partner with product management to shape product-engineering decisions, informing technical feasibility and influencing roadmap priorities</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>Tertiary degree in Information Technology, Computer Science, Software Engineering, or an equivalent qualification.</li>\n<li>Proven experience leading and managing software development teams across multiple technical disciplines</li>\n<li>Strong understanding of modern software development lifecycle practices, agile methodologies and engineering management principles</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $160,092 - $169,398 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services Strategic Plan 2028.</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Monday, 12 October 2026</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC693713</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
-      "keywords": [
-        "software",
-        "engineering",
-        "manager"
-      ]
-    },
-    {
-      "job_id": "94904121",
-      "job_title": "Business Graduate – Operations & AI",
-      "business_name": "ZWECK",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "",
-      "area": "Burleigh Heads, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94904121",
-      "advertiser_id": "55047529",
-      "posted_date": "2026-09-27T23:15:04Z",
-      "job_description": "<p><strong>About Us</strong>&nbsp;</p><p>Zweck is the internal Group Services division supporting a group of businesses across construction, insurance repairs and finance.&nbsp;</p><p>We are recruiting a Business Graduate to work within <strong>Roof Ninjas</strong>, our specialist metal roofing business. You will join a practical team spanning administration, estimating, supervision and eight tradespeople.&nbsp;</p><p>Across the broader group, we are using AI and automation to improve how our businesses operate. We value curiosity, ownership and people who are willing to test better ways of working.&nbsp;</p><p><strong>About the Role</strong>&nbsp;</p><p><strong>Learn how the business runs, take ownership of the work, then help us automate it.</strong>&nbsp;</p><p>This is a hands-on graduate role combining operations, administration and applied AI.&nbsp;</p><p>You will first learn and perform the day-to-day work that keeps Roof Ninjas moving. Once you understand a process and can manage it reliably, you will help document, improve and automate it.&nbsp;</p><p><strong>Learn it. Do it. Automate it.</strong>&nbsp;</p><p>Key responsibilities include:&nbsp;</p><ul><li><p>Maintaining trade and job schedules&nbsp;</p></li></ul><ul><li><p>Collecting, checking and following up timesheets&nbsp;</p></li></ul><ul><li><p>Setting up jobs and preparing job packs&nbsp;</p></li></ul><ul><li><p>Maintaining project and compliance documentation&nbsp;</p></li></ul><ul><li><p>Supporting supervisors with administration and resourcing&nbsp;</p></li></ul><ul><li><p>Following up outstanding information and actions&nbsp;</p></li></ul><ul><li><p>Communicating with office staff, supervisors and trades&nbsp;</p></li></ul><ul><li><p>Documenting recurring processes&nbsp;</p></li></ul><ul><li><p>Identifying repetitive or error-prone work&nbsp;</p></li></ul><ul><li><p>Building and testing practical automations&nbsp;</p></li></ul><ul><li><p>Improving forms, templates and reporting&nbsp;</p></li></ul><ul><li><p>Monitoring automated processes and handling exceptions&nbsp;</p></li></ul><p>You may use tools such as Claude, ChatGPT, Claude Code, Codex, n8n, Power Automate, Quickbase and Microsoft 365.&nbsp;</p><p>The goal is not to automate work you do not understand. You will learn the process, become accountable for it and then find a better way to deliver it.&nbsp;</p><p><strong>About You</strong>&nbsp;</p><p>We are looking for a recent or soon-to-be graduate who is:&nbsp;</p><ul><li><p>Curious about how businesses operate&nbsp;</p></li></ul><ul><li><p>Organised, dependable and willing to follow things through&nbsp;</p></li></ul><ul><li><p>Comfortable performing detailed administrative work&nbsp;</p></li></ul><ul><li><p>An active user of AI tools&nbsp;</p></li></ul><ul><li><p>Interested in automation, systems and process improvement&nbsp;</p></li></ul><ul><li><p>Able to create structure when instructions are not perfect&nbsp;</p></li></ul><ul><li><p>Comfortable communicating with both office staff and tradespeople&nbsp;</p></li></ul><ul><li><p>Keen to take on real responsibility early in their career&nbsp;</p></li></ul><p>You do not need roofing or construction experience. We can teach you how the operation works.&nbsp;</p><p>Bonus points if you have:&nbsp;</p><ul><li><p>Built an automation, workflow or AI tool&nbsp;</p></li></ul><ul><li><p>Used Claude Code, Codex, n8n, Power Automate, Make or Zapier&nbsp;</p></li></ul><ul><li><p>Created a useful spreadsheet, dashboard, form or small application&nbsp;</p></li></ul><ul><li><p>A university, work or personal project you can show us&nbsp;</p></li></ul><p><strong>Apply Today</strong>&nbsp;</p><p>Please apply through SEEK with your resume and a short statement covering:&nbsp;</p><ul><li><p>Why this role interests you&nbsp;</p></li></ul><ul><li><p>How you currently use AI&nbsp;</p></li></ul><ul><li><p>Something you have built, improved or automated&nbsp;</p></li></ul><ul><li><p>An example of a repetitive task you would improve and how you would approach it&nbsp;</p></li></ul><p>We are not looking for a perfect background. We are looking for curiosity, initiative and someone who wants to learn how a business works before helping us build a better version of it.&nbsp;</p>",
-      "keywords": [
-        "business",
-        "operations",
-        "ai"
-      ]
-    },
     {
       "job_id": "94890107",
       "job_title": "Project Manager",
