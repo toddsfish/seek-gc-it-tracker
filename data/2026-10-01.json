@@ -1,517 +1,466 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-01",
   "region": "Gold Coast",
-  "scraped_at": "2026-10-02T09:35:00.974527+10:00",
-  "total_jobs": 77,
+  "scraped_at": "2026-10-01T09:20:45.142259+10:00",
+  "total_jobs": 78,
   "keywords": [
     {
       "term": "support",
       "count": 23,
-      "share": 0.2987
+      "share": 0.2949
     },
     {
       "term": "it",
       "count": 15,
-      "share": 0.1948
+      "share": 0.1923
     },
     {
       "term": "analyst",
       "count": 11,
-      "share": 0.1429
+      "share": 0.141
     },
     {
       "term": "engineer",
-      "count": 10,
-      "share": 0.1299
-    },
-    {
-      "term": "specialist",
-      "count": 9,
-      "share": 0.1169
-    },
-    {
-      "term": "developer",
-      "count": 8,
-      "share": 0.1039
+      "count": 11,
+      "share": 0.141
     },
     {
       "term": "manager",
+      "count": 9,
+      "share": 0.1154
+    },
+    {
+      "term": "specialist",
       "count": 8,
-      "share": 0.1039
+      "share": 0.1026
+    },
+    {
+      "term": "developer",
+      "count": 7,
+      "share": 0.0897
     },
     {
       "term": "officer",
       "count": 7,
-      "share": 0.0909
+      "share": 0.0897
     },
     {
       "term": "data",
       "count": 6,
-      "share": 0.0779
+      "share": 0.0769
     },
     {
       "term": "technology",
       "count": 6,
-      "share": 0.0779
+      "share": 0.0769
     },
     {
       "term": "information",
       "count": 6,
-      "share": 0.0779
+      "share": 0.0769
     },
     {
       "term": "business",
       "count": 5,
-      "share": 0.0649
+      "share": 0.0641
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.0649
+      "share": 0.0641
     },
     {
       "term": "administrator",
       "count": 5,
-      "share": 0.0649
+      "share": 0.0641
     },
     {
       "term": "technician",
       "count": 5,
-      "share": 0.0649
-    },
-    {
-      "term": "software",
-      "count": 4,
-      "share": 0.0519
-    },
-    {
-      "term": "service",
-      "count": 4,
-      "share": 0.0519
-    },
-    {
-      "term": "communication",
-      "count": 4,
-      "share": 0.0519
+      "share": 0.0641
     },
     {
       "term": "delivery",
       "count": 4,
-      "share": 0.0519
+      "share": 0.0513
+    },
+    {
+      "term": "software",
+      "count": 4,
+      "share": 0.0513
+    },
+    {
+      "term": "communication",
+      "count": 4,
+      "share": 0.0513
+    },
+    {
+      "term": "service",
+      "count": 4,
+      "share": 0.0513
     },
     {
       "term": "operations",
       "count": 3,
-      "share": 0.039
+      "share": 0.0385
+    },
+    {
+      "term": "ai",
+      "count": 3,
+      "share": 0.0385
     },
     {
       "term": "engineering",
       "count": 3,
-      "share": 0.039
+      "share": 0.0385
+    },
+    {
+      "term": "product",
+      "count": 3,
+      "share": 0.0385
     },
     {
       "term": "project",
       "count": 3,
-      "share": 0.039
+      "share": 0.0385
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.026
-    },
-    {
-      "term": "ai",
-      "count": 2,
-      "share": 0.026
-    },
-    {
-      "term": "integration",
-      "count": 2,
-      "share": 0.026
-    },
-    {
-      "term": "desk",
-      "count": 2,
-      "share": 0.026
+      "share": 0.0256
     },
     {
       "term": "technical",
       "count": 2,
-      "share": 0.026
+      "share": 0.0256
     },
     {
       "term": "broadbeach",
       "count": 2,
-      "share": 0.026
+      "share": 0.0256
     },
     {
       "term": "desktop",
       "count": 2,
-      "share": 0.026
+      "share": 0.0256
+    },
+    {
+      "term": "desk",
+      "count": 2,
+      "share": 0.0256
     },
     {
       "term": "coordinator",
       "count": 2,
-      "share": 0.026
+      "share": 0.0256
     },
     {
       "term": "innovation",
       "count": 2,
-      "share": 0.026
+      "share": 0.0256
     },
     {
       "term": "health",
       "count": 2,
-      "share": 0.026
+      "share": 0.0256
     },
     {
       "term": "sharepoint",
       "count": 2,
-      "share": 0.026
-    },
-    {
-      "term": "product",
-      "count": 2,
-      "share": 0.026
+      "share": 0.0256
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.026
+      "share": 0.0256
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.026
+      "share": 0.0256
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.026
+      "share": 0.0256
     },
     {
       "term": "test",
       "count": 2,
-      "share": 0.026
+      "share": 0.0256
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "utilities",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "intelligence",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "science",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "reporting",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "devops",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "associate",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "netsuite",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "erp",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "migration",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "customisation",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
+    },
+    {
+      "term": "native",
+      "count": 1,
+      "share": 0.0128
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
-      "term": "field",
+      "term": "network",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
-      "term": "break",
+      "term": "integration",
       "count": 1,
-      "share": 0.013
-    },
-    {
-      "term": "fix",
-      "count": 1,
-      "share": 0.013
-    },
-    {
-      "term": "goldcoast",
-      "count": 1,
-      "share": 0.013
-    },
-    {
-      "term": "its",
-      "count": 1,
-      "share": 0.013
-    },
-    {
-      "term": "asset",
-      "count": 1,
-      "share": 0.013
-    },
-    {
-      "term": "helpdesk",
-      "count": 1,
-      "share": 0.013
-    },
-    {
-      "term": "pimpama",
-      "count": 1,
-      "share": 0.013
-    },
-    {
-      "term": "campus",
-      "count": 1,
-      "share": 0.013
-    },
-    {
-      "term": "ongc",
-      "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "modern",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "workplace",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
+    },
+    {
+      "term": "field",
+      "count": 1,
+      "share": 0.0128
+    },
+    {
+      "term": "break",
+      "count": 1,
+      "share": 0.0128
+    },
+    {
+      "term": "fix",
+      "count": 1,
+      "share": 0.0128
+    },
+    {
+      "term": "goldcoast",
+      "count": 1,
+      "share": 0.0128
+    },
+    {
+      "term": "its",
+      "count": 1,
+      "share": 0.0128
+    },
+    {
+      "term": "asset",
+      "count": 1,
+      "share": 0.0128
+    },
+    {
+      "term": "helpdesk",
+      "count": 1,
+      "share": 0.0128
+    },
+    {
+      "term": "pimpama",
+      "count": 1,
+      "share": 0.0128
+    },
+    {
+      "term": "campus",
+      "count": 1,
+      "share": 0.0128
+    },
+    {
+      "term": "ongc",
+      "count": 1,
+      "share": 0.0128
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "experience",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "required",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "inventory",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "cruise",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.013
-    },
-    {
-      "term": "month",
-      "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "ciam",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
+    },
+    {
+      "term": "month",
+      "count": 1,
+      "share": 0.0128
     },
     {
       "term": "soc",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "unified",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "communications",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.013
+      "share": 0.0128
+    },
+    {
+      "term": "ecommerce",
+      "count": 1,
+      "share": 0.0128
+    },
+    {
+      "term": "catalogue",
+      "count": 1,
+      "share": 0.0128
     }
   ],
   "jobs": [
-    {
-      "job_id": "95009749",
-      "job_title": "Integration Specialist",
-      "business_name": "Department of Health - Queensland",
-      "work_type": "Full time",
-      "job_type": "Programme & Project Management",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95009749",
-      "advertiser_id": "32285210",
-      "posted_date": "2026-10-01T22:27:57Z",
-      "job_description": "<div>\n \n <p>This role is responsible for the development, maintenance and ongoing evolution of the organisation’s Integration Platform.</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for an <strong>Integration Specialist </strong>to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide advice to management on GCHHS Integration Platform, maintaining an efficient and secure operational environment</li>\n<li>Oversee and lead Information and Communication Technology (ICT) technical implementations within a project management framework</li>\n<li>Develop and review implementation plans, change requests, internal and external procurement orders, and other required documents</li>\n<li>Investigate and recommend new information management services and technology initiatives to address customer needs</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, a tertiary qualification in an information technology or computer science discipline or a related field is highly desirable.</li>\n<li>This position may be required to work across the various facilities throughout the Gold Coast Hospital and Health Service.</li>\n<li>This position may incur overtime or extended hours beyond standard business hours at times such as project implementation, peak demand or around other issues that arise</li>\n<li>This position may be required to participate in on-call arrangements</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $144,315 - $154,879 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Tuesday, 13 October 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC693857</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
-      "keywords": [
-        "integration",
-        "specialist"
-      ]
-    },
-    {
-      "job_id": "95009746",
-      "job_title": "Developer",
-      "business_name": "Department of Health - Queensland",
-      "work_type": "Full time",
-      "job_type": "Engineering - Software",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95009746",
-      "advertiser_id": "32285210",
-      "posted_date": "2026-10-01T22:27:46Z",
-      "job_description": "<div>\n \n <p>You will build across the front-end and back-end of software and web applications, using common development frameworks and third-party libraries, agile methodologies and modern visual designs to deliver secure, quality outcomes.\n</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Developer</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide advice and support to stakeholders in the development, technical support and operation of localised, modern and user focused web applications</li>\n<li>Operate computer software and hardware; write, modify, deploy and maintain programming code on cloud platforms</li>\n<li>Provide ongoing advice, support and maintenance of software and web application</li>\n<li>Undertake effective change/release management process for software deployment in line with Information Management and Information Communication and Technology policies</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<p>While not mandatory, the following will be highly regarded:</p>\n<ul>\n<li>A tertiary qualification in an information technology or computer science discipline or a related field.</li>\n<li>Experience in a full stack developer or similar role.</li>\n<li>A sound working knowledge of software development lifecycle (SDLC) is highly desirable for this role.</li>\n<li>A sound knowledge of information privacy and related legislation in a health care context.</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Temporary full time (12 months with the possibility of extension)</li>\n<li>Base salary ranging from $111,993 - $121,853 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028.</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Tuesday, 13 October 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC693834</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
-      "keywords": [
-        "developer"
-      ]
-    },
-    {
-      "job_id": "95009736",
-      "job_title": "Principal Software Developer",
-      "business_name": "Department of Health - Queensland",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95009736",
-      "advertiser_id": "32285210",
-      "posted_date": "2026-10-01T22:27:32Z",
-      "job_description": "<div>\n \n <p>Produce scalable software and web application solutions, operating within a cross-functional team that is responsible for the full software development life cycle, from conception to deployment and operation.</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Principal Software Developer </strong>to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Analyse, identify and formulate product and service improvements</li>\n<li>Lead and provide software development and related technical specialist support services</li>\n<li>Be able to participate in a highly skilled technical team providing high-level technical direction</li>\n<li>Design and develop high quality enterprise software application products, components and services</li>\n<li>Manage and contribute to the development, publication, implementation and compliance to technical policies</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>Tertiary qualification in Information Technology, Computer Science, Software Engineering, or an equivalent qualification.</li>\n<li>Participation in on-call arrangements will be a requirement for this position. Appropriate remuneration under the Award will apply</li>\n<li>Proven experience as a full stack developer, with demonstrable capabilities in both front-end and back-end development.</li>\n<li>Strong development expertise in the following languages and frameworks: HTML, CSS, JavaScript and TypeScript , React and Next.js</li>\n<li>Software Development Lifecycle (SDLC): Solid understanding of SDLC principles, with practical experience managing or delivering across the full lifecycle of software projects.</li>\n<li>Agile Tooling Strong experience using Jira to manage user stories, sprints, and software delivery workflows.</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Temporary full time (12 months with possibility of extension)</li>\n<li>Base salary ranging from $144,315 - $154,879 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation division has been established to drive significant service improvements and digital transformation initiatives, aligned with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028 (G28).</p>\n<p>The Digital Health and Innovation portfolio consists of a range of interconnected business units and teams, including Research, Digital Experience, Digital Delivery, Technology Operations, Health Information, Information Security, and Cyber Readiness.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Thursday, 15 October 2026.</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC693808</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
-      "keywords": [
-        "software",
-        "developer"
-      ]
-    },
-    {
-      "job_id": "94996936",
-      "job_title": "Principal Software Developer",
-      "business_name": "Gold Coast Hospital & Health Service",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "$144,315 - $154,879 per annum + 12.75% super",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94996936",
-      "advertiser_id": "32285403",
-      "posted_date": "2026-10-01T06:01:41Z",
-      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Principal Software Developer </strong>to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Analyse, identify and formulate product and service improvements</li>\n<li>Lead and provide software development and related technical specialist support services</li>\n<li>Be able to participate in a highly skilled technical team providing high-level technical direction</li>\n<li>Design and develop high quality enterprise software application products, components and services</li>\n<li>Manage and contribute to the development, publication, implementation and compliance to technical policies</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>Tertiary qualification in Information Technology, Computer Science, Software Engineering, or an equivalent qualification.</li>\n<li>Participation in on-call arrangements will be a requirement for this position. Appropriate remuneration under the Award will apply</li>\n<li>Proven experience as a full stack developer, with demonstrable capabilities in both front-end and back-end development.</li>\n<li>Strong development expertise in the following languages and frameworks: HTML, CSS, JavaScript and TypeScript , React and Next.js</li>\n<li>Software Development Lifecycle (SDLC): Solid understanding of SDLC principles, with practical experience managing or delivering across the full lifecycle of software projects.</li>\n<li>Agile Tooling Strong experience using Jira to manage user stories, sprints, and software delivery workflows.</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Temporary full time (12 months with possibility of extension)</li>\n<li>Base salary ranging from $144,315 - $154,879 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation division has been established to drive significant service improvements and digital transformation initiatives, aligned with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028 (G28).</p>\n<p>The Digital Health and Innovation portfolio consists of a range of interconnected business units and teams, including Research, Digital Experience, Digital Delivery, Technology Operations, Health Information, Information Security, and Cyber Readiness.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Thursday, 15 October 2026.</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC693808</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
-      "keywords": [
-        "software",
-        "developer"
-      ]
-    },
     {
       "job_id": "94984135",
       "job_title": "IT Support Officer",
@@ -1256,7 +1205,7 @@
       "job_title": "Delivery Analyst",
       "business_name": "Keolis Gold Coast",
       "work_type": "Full time",
-      "job_type": "Programme & Project Management",
+      "job_type": "Business/Systems Analysts",
       "pay_range": "",
       "area": "Southport, Gold Coast QLD",
       "region": "Gold Coast",
@@ -1906,6 +1855,98 @@
         "support",
         "systems",
         "administrator"
+      ]
+    },
+    {
+      "job_id": "94348286",
+      "job_title": "Senior Software Developer",
+      "business_name": "Shred-X",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "",
+      "area": "Yatala, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94348286",
+      "advertiser_id": "21275137",
+      "posted_date": "2026-09-01T22:35:14Z",
+      "job_description": "<p>We are looking for an experienced and commercially minded Senior Software Developer to take ownership of developing, improving and maintaining software solutions that support Shred-X and Med-X.</p><p>This role will be based out of our Yatala Branch, with some occasional travel between sites required.</p><p>Embedded within the IT team, this is a hands-on role focused on software development, system performance, integration, automation and delivering practical technology solutions that improve operational efficiency, customer experience and business performance.</p><p>You will work closely with teams across the business to understand problems, develop solutions and ensure our systems remain reliable, secure, scalable and fit for purposes.</p><p><strong>What you'll do</strong></p><ul> <li>Design, develop and maintain software solutions across Shred-X and Med-X.</li> <li>Develop high-quality, efficient and maintainable code using the Microsoft technology stack.</li> <li>Work primarily with: <ul> <li>C#</li> <li>.NET</li> <li>SQL / SQL Server</li> <li>Visual Studio</li> <li>JavaScript</li> <li>HTML5</li> </ul> </li> <li>Participate in the full software delivery lifecycle, including planning, development, testing, deployment and ongoing improvement.</li> <li>Participate in agile ceremonies including planning, stand-ups, reviews and retrospectives.</li> <li>Analyse application performance, system usage and data to identify opportunities for improvement.</li> <li>Improve system speed, reliability, responsiveness and overall user experience.</li> <li>Consume and integrate APIs and SDKs to extend system functionality.</li> <li>Identify opportunities to automate repetitive processes and reduce manual effort.</li> <li>Develop solutions that improve data accuracy, reporting and operational efficiency.</li> <li>Investigate and resolve software and system issues.</li> <li>Maintain high standards of code quality, consistency and documentation.</li> <li>Create and maintain technical documentation, knowledge base articles and training materials.</li> <li>Work closely with IT and business teams to identify problems and develop practical solutions.</li> <li>Coordinate with external vendors, suppliers and technology providers where required.</li> <li>Contribute to broader IT projects and initiatives.</li> <li>Provide support and technical guidance to other members of the IT team where required.</li> </ul><p><strong>What we're looking for</strong></p><p><strong>Essential</strong></p><p>Applicants should meet at least two of the following criteria:</p><ul> <li>Proven professional experience in software development.</li> <li>Strong experience with C#, .NET, SQL and Visual Studio.</li> <li>Experience designing, developing and maintaining modern business applications.</li> <li>Strong understanding of software development methodologies and modern development practices.</li> <li>Experience working with REST APIs, SDKs and system integrations.</li> <li>Demonstrated ability to analyse and improve system performance.</li> <li>Strong analytical and problem-solving skills.</li> <li>Excellent attention to detail.</li> <li>Strong written and verbal communication skills.</li> <li>The ability to work independently, take ownership and manage competing priorities.</li> <li>A commercially minded approach to software development.</li> <li>The ability to understand business requirements and translate them into practical technology solutions.</li> <li>A collaborative, adaptable and solutions-focused approach.</li> <li>Relevant tertiary qualifications in Computer Science, Software Development, Information Technology or a related discipline, or equivalent industry experience.</li> </ul><p><strong>Desirable</strong></p><p>Experience with any of the following would be advantageous:</p><ul> <li>JavaScript / modern JavaScript frameworks</li> <li>HTML5 / CSS</li> <li>REST APIs and third-party integrations</li> <li>Azure / Microsoft cloud technologies</li> <li>Power BI and business intelligence</li> <li>Git and version control</li> <li>CI/CD and automated deployment</li> <li>Application performance monitoring and optimisation</li> <li>Microsoft 365 / Power Platform</li> <li>AI and automation technologies</li> <li>Agile software development</li> </ul><p>You don't need experience with every technology listed. We are looking for someone with strong core software development skills who is curious, and is comfortable learning new technologies and applying them to real business problems.</p><p><strong>Your Initial Projects</strong></p><p>We will initially focus on projects that can deliver measurable business value, including:</p><ul> <li>Improving the performance and reliability of core business applications.</li> <li>Developing new features and functionality for Shred-X and Med-X systems.</li> <li>Integrating internal systems with third-party platforms through APIs and SDKs.</li> <li>Automating manual business processes and workflows.</li> <li>Improving data quality and system reporting.</li> <li>Identifying and resolving system bottlenecks and performance issues.</li> <li>Improving the usability and experience of business applications.</li> </ul><p>These projects may later expand into broader system architecture, automation, AI-enabled solutions, data analytics and strategic technology initiatives.</p><p><strong>What You'll Gain</strong></p><ul> <li>Ownership of software solutions that are actively used across the business.</li> <li>The opportunity to solve real operational and commercial problems through technology.</li> <li>Exposure to a wide range of business functions, including Operations, Customer Service, Sales, Finance, Production and Compliance.</li> <li>Experience working across the full software development lifecycle.</li> <li>The opportunity to influence software architecture, development practices and technology decisions.</li> <li>Exposure to modern Microsoft technologies, APIs, automation and emerging AI capabilities.</li> <li>The opportunity to deliver projects with measurable operational and commercial outcomes.</li> <li>The opportunity to work collaboratively with an experienced IT and business team.</li> </ul><p><strong>Why Join Us?</strong></p><p>This is an opportunity to take ownership of technology that has a direct impact on how the business operates.</p><p>You will have the opportunity to solve meaningful problems, improve existing systems, build new capabilities and influence the future direction of our technology environment.</p><p>At Shred-X, our values are Safe, Smart, Sustainable and Service. We believe technology should support these values by helping our people work smarter, operate more efficiently and deliver better outcomes for our customers.</p><p>If you are a senior developer who enjoys solving problems, working closely with the business and seeing your software make a real difference, we would love to hear from you.</p><p>We are proud to be an equal opportunity employer and welcome applicants from diverse backgrounds, experiences and perspectives.</p>",
+      "keywords": [
+        "software",
+        "developer"
+      ]
+    },
+    {
+      "job_id": "94333179",
+      "job_title": "AI Native Software Developer",
+      "business_name": "2Gen",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "",
+      "area": "Upper Coomera, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94333179",
+      "advertiser_id": "25168629",
+      "posted_date": "2026-09-01T05:50:02Z",
+      "job_description": "<h2><strong>2Gen Managed Services</strong></h2><p><strong>Graduate or early-career developer</strong></p><p>Gold Coast QLD</p><p>Full-time</p><h2><strong>About 2Gen</strong></h2><p>2Gen is a Gold Coast managed services provider. We look after business IT, cloud services, cyber security, networking, VoIP and automation for small and medium businesses across Southeast Queensland.</p><p>We also build software. Business applications, integrations, automation and AI systems that our clients rely on every day. We are a small team, we give honest advice, and we have gone all in on leveraging AI to build better software faster.</p><h2><strong>The role</strong></h2><p>We are looking for a developer who works with AI first. Not the occasional question to a chatbot, but AI as the environment you actually work in, and a real interest in seeing how far it can be pushed.</p><p>You will work on real customer projects alongside our senior developers and engineers, writing and shipping code that clients depend on. The work is mostly Python and Django, JavaScript and TypeScript with React and Node, API and platform integrations, and a growing amount of AI engineering: agents, local models, retrieval and automation that we design, build and run ourselves.</p><p>This role suits someone at graduate to junior level. If you are further along than that and the rest of this ad describes you, apply anyway.</p><h2><strong>The fundamentals matter here</strong></h2><p>AI is going to write a lot of the code. Your job is to know whether it is right. That means understanding how software actually works: data structures and which one to reach for, control flow, functions and state, structured and object-oriented design, relational databases and how to model data properly, HTTP and APIs, version control, testing, and enough about algorithms and complexity to spot something that will fall over at scale.</p><p>Most people who have this learned it at university, so a computer science, software engineering or IT degree with solid results is the most direct way to show us. It is not the only way. If you have worked through a proper structured course on your own - CS50, TAFE, a serious online program - and you can talk through the theory as comfortably as the code, we will take that just as seriously.</p><p>If you can generate a working app but cannot explain what the code is doing or why, this is not the role for you.</p><h2><strong>What you will do</strong></h2><ul><li><p>Build and ship features in Python and Django, and in JavaScript or TypeScript with React and Node, on real customer projects.</p></li><li><p>Build integrations against APIs such as Microsoft Graph and Microsoft 365, Xero, ERP platforms and client line-of-business systems.</p></li><li><p>Build practical AI systems: agents, tool integrations, retrieval and vector search, prompt and context design.</p></li><li><p>Help develop, test and deploy local LLMs and AI-assisted workflows, both internally and for clients.</p></li><li><p>Use Claude, Claude Code, Codex and similar tools as your day-to-day development environment, and review what they produce properly before it ships.</p></li><li><p>Write tests, read other people's code, and debug down to the actual cause rather than the first plausible one.</p></li><li><p>Deploy and support what you build on Azure, AWS, Google Cloud and Linux, with senior support behind you.</p></li><li><p>Document what you build so the next person, human or agent, can pick it up.</p></li></ul><h2><strong>What else we are looking for</strong></h2><ul><li><p>At least one language you can build something real in. Python, JavaScript or TypeScript are the most useful to us.</p></li><li><p>Working knowledge of Git, SQL and the command line.</p></li><li><p>Evidence that you finish things. Home labs, side projects, published repositories, coding experiments, AI projects. Half-built ideas are fine, as long as some of them get finished.</p></li><li><p>Serious AI habits already, and a genuine appetite to go deeper into agents, local models, automation and tooling.</p></li><li><p>The judgement to know when AI output is wrong. We want someone who uses AI constantly and still understands every line that ships.</p></li><li><p>Australian working rights.</p></li></ul><p>If you are coming from another technical industry rather than straight out of study, that is fine, provided the fundamentals above are there and you can show us where you picked them up.</p><h2><strong>Communication</strong></h2><p>You will be working closely with our senior developers and, before long, talking to clients directly. So this matters as much as the technical side.</p><p>We are looking for someone who can explain what they are building to a person who is not a developer, write things down clearly enough that the next person can pick them up, and ask for help rather than quietly burning three days on something. When we ask where something is up to, we want a straight answer. \"I am halfway through and I have hit a problem\" is far more use to us than an update that sounds fine and unravels a week later.</p><h2><strong>What we offer</strong></h2><ul><li><p>Real customer work from early on, with senior developers and engineers working alongside you.</p></li><li><p>Mentoring from experienced technical staff with deep MSP, cloud, infrastructure, security and automation backgrounds.</p></li><li><p>A team where AI-first development is simply how we work, not a trial.</p></li><li><p>Practical AI training and proper time to work with Claude, Claude Code, Codex, local LLMs and agent tooling.</p></li><li><p>Exposure to Python, Django, JavaScript, TypeScript, React, Node, APIs, Azure, AWS, Google Cloud, networking and cyber security.</p></li><li><p>A clear path into senior development, cloud, automation or AI specialist work.</p></li><li><p>A Gold Coast team with real client relationships and broad technology exposure.</p></li></ul><h2><strong>How to apply</strong></h2><p>Apply through SEEK with your CV and a short cover note, half a page or less.</p><p>Tell us who you are, where you learned your software fundamentals, why this role interests you, how you use AI in your own work now, and what you have built. Include links to anything you are proud of: a repository, a project, an agent, an app, a home lab. One thing you actually finished is worth more to us than a long list of technologies.</p>",
+      "keywords": [
+        "ai",
+        "native",
+        "software",
+        "developer"
+      ]
+    },
+    {
+      "job_id": "94331766",
+      "job_title": "Product Lead",
+      "business_name": "Refactor.",
+      "work_type": "Full time",
+      "job_type": "Product Management & Development",
+      "pay_range": "Up to $190k inc super",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94331766",
+      "advertiser_id": "63128884",
+      "posted_date": "2026-09-01T05:00:50Z",
+      "job_description": "<p><strong>Product Lead | Digital Marketplace</strong></p><p><strong>Gold Coast OR Brisbane | Hybrid | Relocation Assistance Available</strong></p><p><br></p><p>We should probably start by explaining what this role <strong>isn't</strong>.</p><p><br></p><p>It's not sitting three layers above delivery.</p><p>It's not spending six months designing the perfect product framework.</p><p>And it's definitely not being an armchair product expert.</p><p><br></p><p>Refactor is exclusively partnering with an established Australian digital marketplace to find a hands-on Product Lead to own the next phase of its product.</p><p><br></p><p>The brief was summed up brilliantly by the hiring team:</p><p><strong>They don't need another chef designing the menu. They need someone who can actually cook.</strong></p><p><br></p><p><strong>The opportunity:</strong></p><p><br></p><p>You'll become the key product person for an established B2B marketplace, owning the customer experience and working directly across Engineering, Design, Data, Sales and commercial leadership.</p><p><br></p><p>You'll help shape strategy.</p><p><br></p><p>But you'll also be expected to turn that strategy into things customers can actually use.</p><p><br></p><p>Think:</p><p><strong>Discover → validate → build → launch → measure → improve.</strong></p><p>Then go again.</p><p><br></p><p><strong>What you'll be doing</strong></p><ul><li>Owning product vision and priorities</li><li>Understanding buyer and seller behaviour</li><li>Identifying opportunities for customer and commercial growth</li><li>Running discovery and turning problems into product solutions</li><li>Taking ideas from concept through to launch</li><li>Testing assumptions and experimenting quickly</li><li>Using customer and product data to make decisions</li><li>Working side-by-side with engineering throughout delivery</li><li>Optimising engagement, conversion and customer value</li><li>Managing dependencies across a wider technology organisation</li><li>Communicating product direction to senior stakeholders</li></ul><p><br></p><p>The formal brief places a big emphasis on experimentation, channel performance, customer insight and taking ideas all the way through to market.</p><p><br></p><p><strong>What's in it for you?</strong></p><ul><li>Recognised as one of Australia's Best Workplaces, a Family Friendly Workplace and a WORK180 endorsed employer</li><li>24 weeks paid parental leave for primary carers, 4 weeks for secondary carers, 6 weeks paid gender affirming care leave</li><li>Genuine relocation support if the Gold Coast lifestyle is calling</li><li>Hybrid set up 2 days in office out of Brisbane or Gold Coast - 3 flexible days</li><li>Regular hackathons and a real learning budget, not just the promise of one</li></ul><p><br></p><p><strong>Who we're looking for:</strong></p><p><br></p><p>We're deliberately not getting hung up on title.</p><p><br></p><p>You might currently be a:</p><p><strong>Product Lead. Senior Product Manager. Principal Product Manager. Or even Head of Product within a smaller business.</strong></p><p><br></p><p>What matters is that you're still <strong>hands-on</strong>.</p><p><br></p><p>You can talk strategy with an executive in the morning, work through a customer problem with Sales before lunch and jump into a delivery session with Engineering that afternoon.</p><p><br></p><p>Experience across <strong>marketplaces, e-commerce, SaaS, FinTech, PropTech, travel or another customer-facing digital product</strong> would be particularly interesting.</p><p><br></p><p>We want someone who can tell us:</p><p><strong>“I found this problem. We tested it. We built this. We launched it. Here's what happened.”</strong></p><p><br></p><p>Not just:</p><p><strong>“My squad delivered…”</strong></p><p><br></p><p><strong>Why consider it?</strong></p><p>It's an unusual combination.</p><p><br></p><p>You get the customers, data, stability and resources of an established digital business, while retaining the ownership you'd normally associate with something much smaller.</p><p><br></p><p>There's also a genuine opportunity to bring newer technology, AI and product thinking into a market that's ripe for innovation.</p><p><br></p><p><strong>Established platform. Big backing. Genuine ownership.</strong></p><p><br></p><p>And it's based on the Gold Coast.</p><p>Could be worse.</p><p><br></p><p>Apply here or contact <strong>James at Refactor</strong> for a confidential conversation.</p><p><br></p><p><strong>James Farrey</strong></p><p><strong>Founder &amp; Managing Director</strong></p><p><strong><a href=\"mailto:james@re-factor.com.au\">james@re-factor.com.au</a></strong></p><p><strong>#SCR-james-farrey</strong></p><p><br></p><p><strong>﻿</strong></p><h2><br></h2>",
+      "keywords": [
+        "product"
+      ]
+    },
+    {
+      "job_id": "94329811",
+      "job_title": "Ecommerce Catalogue Manager",
+      "business_name": "Car Mods Australia Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Other",
+      "pay_range": "",
+      "area": "Arundel, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94329811",
+      "advertiser_id": "37547172",
+      "posted_date": "2026-09-01T04:15:08Z",
+      "job_description": "<p><strong>About the company:</strong></p><p>Car Mods Australia and 4x4 Mods Australia has been operating since 2010, growing to become an industry-leading automotive online parts reseller specialising in performance products. The company's retail showroom, office and warehouse is based in Arundel on the Gold Coast. Car Mods Australia is an importer, wholesaler and online retailer of a large catalogue of quality branded products from hundreds of suppliers around the world. We are a passionate and young team with a high performance culture that loves kicking goals!</p><p><strong>About the role:</strong></p><p>Car Mods Australia and 4x4 Mods Australia is seeking a <strong>Ecommerce Catalogue Manager</strong> to join our team of 40+ staff. The successful applicant will become an integral member of our growing team. As an Ecommerce Catalogue Manager you will be responsible for maintaining the catalogue of products on our website. This will include adding new brands to our site and refreshing existing brands with improved images, descriptions, vehicle fitment and other elements to ensure our online store always has the most in-depth and up to date product information. This process is carried out via bulk imports and API connections using pre-existing workflows and systems, you will be trained on these systems but should bring prior experience from a similar prior role so you pick these up quickly. You will have a team of people who will assist you with the bulk of the technical work with your primary focus on project management and roll out of the updates once the data is ready for import.</p><p>You will be responsible for ensuring deadlines are met and priorities are inline with company growth plans under the direction of our Ecommerce Manager, working within a team of 4 people in your department.</p><p><strong>Personal Skills &amp; Experience:</strong></p><ul><li><p>It is absolutely mandatory that you are an organised, methodical and thorough person</p></li><li><p>You must be an analytical problem solver</p></li><li><p>3+ years of technical skills and experience in excel, all major web platforms and ecommerce in general is mandatory</p></li><li><p>Effeciency driven, always optimising and finding streamlined solutions</p></li><li><p>Enjoy a fast paced environment and capable of managing/prioritising a lot of smaller tasks at the same time without being overwhelmed</p></li><li><p>Self starter &amp; positive team player</p></li><li><p>Experienced in working with offshore teams, able to communicate clearly with them, scope out tasks and make sure they adhere to deadlines</p></li></ul><p><strong>Responsibilities:</strong></p><ul><li><p>Maintain the accuracy of our catalogue, including product and fitment data</p></li><li><p>Scope tasks to a small offshore team in a concise and detailed manner, ensuring deliverables are accurate and on-time</p></li><li><p>Quality control of all updates that go live on our website</p></li><li><p>In collaboration with all team members, sustain and drive a high performing results-driven culture</p></li></ul><p><strong>The Car Mods Australia Difference:</strong></p><p>This is a one-of-a-kind opportunity to work for a fast-moving, performance driven business in the ecommerce space. If you are a hard worker, who works well under pressure to achieve results, this is the perfect opportunity for you and we want you now!</p><p>Perks of the role:</p><ul><li><p>Generous Employee Discount Program;</p></li><li><p>A edgy, newly renovated office in Arundel;</p></li><li><p>The chance to work with like-minded high achievers;</p></li><li><p>A performance driven company culture that celebrates both personal &amp; company growth;</p></li></ul><p>Aside from the amazing array of benefits and perks, Car Mods Australia offers you the chance to make a daily impact on the automotive performance market here in Australia. You have the opportunity to pursue your passion and plan your own future as part of our team!</p><p>Apply online sending your cover letter &amp; resume.</p>",
+      "keywords": [
+        "ecommerce",
+        "catalogue",
+        "manager"
+      ]
+    },
+    {
+      "job_id": "94320977",
+      "job_title": "Network Engineer",
+      "business_name": "Opus Recruitment Solutions",
+      "work_type": "Full time",
+      "job_type": "Engineering - Network",
+      "pay_range": "AUD 115000 - 125000 per annum",
+      "area": "Coolangatta, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94320977",
+      "advertiser_id": "32359972",
+      "posted_date": "2026-09-01T00:12:05Z",
+      "job_description": "An&nbsp;Australian&nbsp;household&nbsp;brand&nbsp;in&nbsp;the&nbsp;tourism&nbsp;sector&nbsp;is&nbsp;looking&nbsp;to&nbsp;take&nbsp;on&nbsp;a&nbsp;Network&nbsp;Engineer&nbsp;for&nbsp;an&nbsp;initial&nbsp;6&nbsp;month&nbsp;fixed-term&nbsp;period.&nbsp;The&nbsp;company&nbsp;has&nbsp;been&nbsp;in&nbsp;operation&nbsp;for&nbsp;over&nbsp;100&nbsp;years&nbsp;in&nbsp;Australia&nbsp;and&nbsp;they&nbsp;are&nbsp;continuing&nbsp;to&nbsp;expand.<br><br>They&nbsp;are&nbsp;looking&nbsp;for&nbsp;a&nbsp;mid-level&nbsp;Network&nbsp;/&nbsp;Infrastructure&nbsp;Engineer&nbsp;to&nbsp;join&nbsp;an&nbsp;existing&nbsp;team&nbsp;to&nbsp;help&nbsp;with&nbsp;Network&nbsp;&amp;&nbsp;Infrastructure&nbsp;operations.&nbsp;This&nbsp;will&nbsp;initially&nbsp;be&nbsp;a&nbsp;6&nbsp;month&nbsp;position&nbsp;but&nbsp;has&nbsp;good&nbsp;potential&nbsp;for&nbsp;extension&nbsp;or&nbsp;to&nbsp;be&nbsp;made&nbsp;permanent.<br><br>The&nbsp;position&nbsp;will&nbsp;be&nbsp;2&nbsp;days&nbsp;a&nbsp;week&nbsp;in&nbsp;the&nbsp;office&nbsp;in&nbsp;Coolangatta&nbsp;and&nbsp;3&nbsp;days&nbsp;from&nbsp;home.<br><br><strong>What&nbsp;you&nbsp;will&nbsp;be&nbsp;doing:</strong><br><br><ul><li>Provide&nbsp;excellent&nbsp;BAU&nbsp;operations&nbsp;to&nbsp;the&nbsp;company's&nbsp;vast&nbsp;Network</li><li>Configure,&nbsp;maintain&nbsp;&amp;&nbsp;deploy&nbsp;various&nbsp;Network&nbsp;devices&nbsp;such&nbsp;as&nbsp;Fortigate&nbsp;Firewalls</li><li>Perform&nbsp;Windows&nbsp;Server&nbsp;administration,&nbsp;hardening&nbsp;&amp;&nbsp;patching</li><li>Take&nbsp;ownership&nbsp;of&nbsp;escalated&nbsp;support&nbsp;from&nbsp;the&nbsp;service&nbsp;desk</li><li>Collaborate&nbsp;closely&nbsp;with&nbsp;other&nbsp;Network&nbsp;&amp;&nbsp;Infrastructure&nbsp;Engineers&nbsp;to&nbsp;ensure&nbsp;high&nbsp;availability&nbsp;of&nbsp;the&nbsp;company's&nbsp;IT&nbsp;Networks</li></ul><br><strong>What&nbsp;you&nbsp;need&nbsp;to&nbsp;succeed:</strong><br><br><ul><li>5+&nbsp;years&nbsp;experience&nbsp;in&nbsp;Network&nbsp;&amp;&nbsp;Infrastructure&nbsp;Engineering</li><li>Excellent&nbsp;troubleshooting&nbsp;and&nbsp;operational&nbsp;support&nbsp;experience</li><li>Proven&nbsp;hands-on&nbsp;experience&nbsp;supporting,&nbsp;deploying&nbsp;and&nbsp;upgrading&nbsp;Network&nbsp;Devices</li><li>Strong&nbsp;core&nbsp;routing&nbsp;&amp;&nbsp;switching&nbsp;experience</li><li>Network&nbsp;Security&nbsp;experience&nbsp;with&nbsp;Fortigate&nbsp;firewalls&nbsp;(&nbsp;or&nbsp;similar&nbsp;)</li><li>Demonstrated&nbsp;experience&nbsp;managing&nbsp;and&nbsp;patching&nbsp;Windows&nbsp;Servers</li></ul><br>If&nbsp;you&nbsp;think&nbsp;you&nbsp;can&nbsp;be&nbsp;the&nbsp;one&nbsp;to&nbsp;shine&nbsp;in&nbsp;this&nbsp;role&nbsp;then&nbsp;APPLY&nbsp;now&nbsp;for&nbsp;a&nbsp;confidential&nbsp;chat!",
+      "keywords": [
+        "network",
+        "engineer"
       ]
     }
   ]
