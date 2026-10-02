@@ -1,18 +1,18 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-02",
   "region": "Gold Coast",
-  "scraped_at": "2026-10-03T09:26:11.865587+10:00",
+  "scraped_at": "2026-10-02T09:35:00.974527+10:00",
   "total_jobs": 77,
   "keywords": [
     {
       "term": "support",
-      "count": 22,
-      "share": 0.2857
+      "count": 23,
+      "share": 0.2987
     },
     {
       "term": "it",
-      "count": 14,
-      "share": 0.1818
+      "count": 15,
+      "share": 0.1948
     },
     {
       "term": "analyst",
@@ -30,12 +30,12 @@
       "share": 0.1169
     },
     {
-      "term": "manager",
-      "count": 9,
-      "share": 0.1169
+      "term": "developer",
+      "count": 8,
+      "share": 0.1039
     },
     {
-      "term": "developer",
+      "term": "manager",
       "count": 8,
       "share": 0.1039
     },
@@ -65,14 +65,19 @@
       "share": 0.0649
     },
     {
-      "term": "technician",
+      "term": "systems",
       "count": 5,
       "share": 0.0649
     },
     {
-      "term": "systems",
-      "count": 4,
-      "share": 0.0519
+      "term": "administrator",
+      "count": 5,
+      "share": 0.0649
+    },
+    {
+      "term": "technician",
+      "count": 5,
+      "share": 0.0649
     },
     {
       "term": "software",
@@ -86,11 +91,6 @@
     },
     {
       "term": "communication",
-      "count": 4,
-      "share": 0.0519
-    },
-    {
-      "term": "administrator",
       "count": 4,
       "share": 0.0519
     },
@@ -290,21 +290,6 @@
       "share": 0.013
     },
     {
-      "term": "microsoft",
-      "count": 1,
-      "share": 0.013
-    },
-    {
-      "term": "modern",
-      "count": 1,
-      "share": 0.013
-    },
-    {
-      "term": "workplace",
-      "count": 1,
-      "share": 0.013
-    },
-    {
       "term": "field",
       "count": 1,
       "share": 0.013
@@ -321,11 +306,6 @@
     },
     {
       "term": "goldcoast",
-      "count": 1,
-      "share": 0.013
-    },
-    {
-      "term": "account",
       "count": 1,
       "share": 0.013
     },
@@ -355,6 +335,26 @@
       "share": 0.013
     },
     {
+      "term": "ongc",
+      "count": 1,
+      "share": 0.013
+    },
+    {
+      "term": "microsoft",
+      "count": 1,
+      "share": 0.013
+    },
+    {
+      "term": "modern",
+      "count": 1,
+      "share": 0.013
+    },
+    {
+      "term": "workplace",
+      "count": 1,
+      "share": 0.013
+    },
+    {
       "term": "msp",
       "count": 1,
       "share": 0.013
@@ -366,11 +366,6 @@
     },
     {
       "term": "required",
-      "count": 1,
-      "share": 0.013
-    },
-    {
-      "term": "ongc",
       "count": 1,
       "share": 0.013
     },
@@ -446,24 +441,6 @@
     }
   ],
   "jobs": [
-    {
-      "job_id": "95026772",
-      "job_title": "Account Manager",
-      "business_name": "NextGen HR Pty Ltd",
-      "work_type": "Contract/Temp",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$100,000 – $120,000 per year",
-      "area": "Varsity Lakes, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95026772",
-      "advertiser_id": "43563925",
-      "posted_date": "2026-10-02T07:26:08Z",
-      "job_description": "<h2>Account Manager | Technology</h2><h2>Fixed-Term Maternity Leave Contract | 6 Months | Varsity Lakes, Gold Coast</h2><p><strong>Great with clients? Commercially switched on? Comfortable talking tech without needing to be the technical expert?</strong></p><p>DJC Systems is looking for an experienced <strong>Account Manager</strong> to join our team on a fixed-term contract, covering a period of maternity leave for approximately <strong>6 months</strong>.</p><p>Based from our <strong>Varsity Lakes office on the Gold Coast</strong>, you’ll step into an established portfolio of clients and take ownership of those relationships keeping clients engaged, understanding what’s happening in their businesses and ensuring they continue to receive genuine value from their partnership with DJC.</p><p>You <strong>don’t need to be an IT technician</strong>, and you don’t necessarily need to come from an MSP.</p><p>What we are looking for is someone with experience in a <strong>technology-focused environment</strong> who understands the fundamentals of tech, can confidently navigate conversations with clients and technical teams, and knows how to build strong commercial relationships.</p><h2>The Role</h2><p>As Account Manager, you’ll be the primary commercial point of contact for your assigned clients.</p><p>You’ll take the time to understand their businesses, technology environments and future plans, while working closely with DJC’s technical and service teams to make sure the right people are brought into the conversation when needed.</p><p>You’ll lead regular client reviews, manage ongoing commercial activity and identify opportunities where additional technology, projects or services could genuinely benefit the client.</p><p>This is a relationship-led role with a commercial edge perfect for someone who enjoys getting to know their clients, asking the right questions and connecting the dots.</p><h2>What You’ll Be Doing</h2><ul><li><p>Take ownership of an established portfolio of client relationships</p></li><li><p>Build trusted relationships with key client stakeholders</p></li><li><p>Lead regular Tactical Business Reviews and ongoing client meetings</p></li><li><p>Develop an understanding of each client’s business, technology environment and future plans</p></li><li><p>Identify opportunities across projects, hardware, software, licensing and additional services</p></li><li><p>Manage and progress client opportunities through the sales pipeline</p></li><li><p>Coordinate agreement renewals and other commercial requirements</p></li><li><p>Support clients with commercial and invoicing queries</p></li><li><p>Work closely with DJC’s Service Desk, Engineering, Projects, Security and Finance teams</p></li><li><p>Ensure client feedback, priorities and challenges are communicated internally</p></li><li><p>Coordinate smooth handovers between client conversations and technical delivery</p></li><li><p>Maintain accurate client, opportunity and meeting information within DJC’s systems</p></li></ul><h2>What We’re Looking For</h2><p>You’ll be a confident relationship builder who can walk into an established portfolio, quickly get to know your clients and become someone they trust.</p><p>We’d love to hear from you if you have:</p><ul><li><p>Previous experience in <strong>Account Management, Client Relationship Management or a similar client-facing commercial role</strong></p></li><li><p>Experience working within <strong>technology, software, telecommunications, IT services or another tech-focused environment</strong></p></li><li><p>A good understanding of technology fundamentals you don't need to be highly technical, but you need to be comfortable talking about technology</p></li><li><p>Strong relationship-building and stakeholder management skills</p></li><li><p>Commercial confidence and the ability to identify opportunities within existing accounts</p></li><li><p>The ability to ask great questions, understand a client's needs and bring in the right technical expertise when required</p></li><li><p>Excellent written and verbal communication skills</p></li><li><p>Strong organisation and the ability to manage multiple clients, priorities and deadlines</p></li><li><p>Confidence working collaboratively across technical and non-technical teams</p></li></ul><p><strong>MSP experience would be welcomed, but it is not essential.</strong></p><h2>Why DJC Systems?</h2><p>This is an opportunity to step straight into an established portfolio and make an impact from day one.</p><p>You’ll work alongside an experienced team who can provide the technical expertise — your role is to <strong>own the relationship, understand the client and bring the right people together</strong>.</p><p>Based alongside the team in <strong>Varsity Lakes</strong>, you’ll have the opportunity to build strong internal relationships as well as spend time face-to-face with clients.</p><p>For someone looking for a fixed-term opportunity within the technology industry, this is a chance to gain great exposure, take genuine ownership and work with a diverse portfolio of established clients.</p><h2>Sound Like You?</h2><p>If you’re a natural relationship builder with Account Management experience and enough tech knowledge to confidently operate in a technology environment, we’d love to hear from you.</p><p><strong>Apply now to join DJC Systems on the Gold Coast.</strong></p>",
-      "keywords": [
-        "account",
-        "manager"
-      ]
-    },
     {
       "job_id": "95009749",
       "job_title": "Integration Specialist",
@@ -1909,6 +1886,26 @@
       "keywords": [
         "devops",
         "engineer"
+      ]
+    },
+    {
+      "job_id": "94366697",
+      "job_title": "IT Support & Systems Administrator",
+      "business_name": "ATCO Structures & Logistics Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "Great growth opportunity",
+      "area": "Luscombe, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94366697",
+      "advertiser_id": "2375912",
+      "posted_date": "2026-09-02T07:41:20Z",
+      "job_description": "<p><strong>Your Future with ATCO Structures &amp; Logistics</strong></p><p>Are you an IT support professional looking to broaden your experience beyond the help desk and build your career across systems, applications and IT administration?</p><p>ATCO Structures &amp; Logistics is a global leader in modular design, manufacturing and construction. Across Australia, we deliver workforce accommodation villages, permanent modular buildings, offices, schools, health facilities and major infrastructure projects across the mining, energy, government and commercial sectors.</p><p>Due to continued growth, we have created a new opportunity for an IT Support &amp; Systems Administrator to join our team based in Luscombe.</p><p>This is a varied, hands-on role providing Level 1 IT support across the business while giving you the opportunity to build your experience across Microsoft 365, SharePoint, business systems, hardware, security and broader IT administration.</p><p><strong>Why You’ll Love Working With Us</strong></p><ul><li><p>Newly created role with the opportunity to make it your own.</p></li><li><p>Grow beyond traditional help desk support into systems, applications and broader IT.</p></li><li><p>Employee Assistance Program (EAP) supporting you and your family.</p></li><li><p>Opportunity to participate in the ATCO Employee Share Purchase Plan.</p></li><li><p>Free onsite parking at our Luscombe office.</p></li><li><p>Join a supportive global organisation with genuine long-term career development opportunities.</p></li></ul><p><strong>What You’ll Be Doing</strong></p><p>Reporting to the Corporate Services Manager, you’ll provide day-to-day IT and systems support across the business, including:</p><ul><li><p>Provide friendly and responsive Level 1 IT support, troubleshooting hardware, software and user issues.</p></li><li><p>Set up new users, computers, mobile devices, software, system access and permissions.</p></li><li><p>Support Microsoft 365, Windows, SharePoint and key business systems including Oracle</p></li><li><p>Coordinate IT requirements for employee onboarding and offboarding and maintain IT asset and equipment records.</p></li><li><p>Assist with system security, backups, software licensing, telecommunications and technology lifecycle management.</p></li><li><p>Work with internal stakeholders and IT providers in Australia and Canada, while supporting system improvements, implementations and IT projects.</p></li></ul><p><strong>About You</strong></p><p>We’re looking for someone with approximately <strong>2–5 years’ experience</strong> in IT support, help desk or a similar technical support environment who is ready to broaden their skills.</p><p>You’ll ideally bring:</p><ul><li><p>Previous Level 1 help desk, desktop support or general IT support experience.</p></li><li><p>Good working knowledge of Microsoft 365, Windows applications and SharePoint.</p></li><li><p>Confidence troubleshooting everyday hardware, software, access and user issues.</p></li><li><p>Strong customer service and communication skills with a friendly and approachable manner.</p></li><li><p>The ability to remain calm, solve problems and effectively juggle multiple requests and priorities.</p></li><li><p>A relevant IT qualification and exposure to Oracle, ERP systems, ServiceNow, networking, cybersecurity &amp; cloud technologies will be highly regarded.</p></li></ul><p><strong>Ready to Join Us?</strong></p><p>If you enjoy solving problems, helping people and are looking to broaden your experience beyond traditional IT support into systems and applications, we’d love to hear from you.</p><p>Click <strong>Apply Now</strong> and submit your resume today.</p><p>You must have the right to live and work in Australia to be considered for this opportunity.</p><p>ATCO is an Equal Opportunity Employer and encourages applications from Aboriginal and Torres Strait Islander peoples, women and people from diverse backgrounds. We are committed to creating an inclusive workplace where everyone is treated with fairness, dignity and respect.</p>",
+      "keywords": [
+        "it",
+        "support",
+        "systems",
+        "administrator"
       ]
     }
   ]
