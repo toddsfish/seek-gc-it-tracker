@@ -1,438 +1,448 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-03",
   "region": "Gold Coast",
-  "scraped_at": "2026-10-04T08:33:34.919671+10:00",
-  "total_jobs": 75,
+  "scraped_at": "2026-10-03T09:26:11.865587+10:00",
+  "total_jobs": 77,
   "keywords": [
     {
       "term": "support",
-      "count": 21,
-      "share": 0.28
+      "count": 22,
+      "share": 0.2857
     },
     {
       "term": "it",
       "count": 14,
-      "share": 0.1867
+      "share": 0.1818
     },
     {
       "term": "analyst",
       "count": 11,
-      "share": 0.1467
+      "share": 0.1429
     },
     {
       "term": "engineer",
-      "count": 9,
-      "share": 0.12
+      "count": 10,
+      "share": 0.1299
     },
     {
       "term": "specialist",
       "count": 9,
-      "share": 0.12
+      "share": 0.1169
     },
     {
       "term": "manager",
       "count": 9,
-      "share": 0.12
+      "share": 0.1169
     },
     {
       "term": "developer",
       "count": 8,
-      "share": 0.1067
+      "share": 0.1039
+    },
+    {
+      "term": "officer",
+      "count": 7,
+      "share": 0.0909
     },
     {
       "term": "data",
       "count": 6,
-      "share": 0.08
+      "share": 0.0779
     },
     {
       "term": "technology",
       "count": 6,
-      "share": 0.08
-    },
-    {
-      "term": "officer",
-      "count": 6,
-      "share": 0.08
+      "share": 0.0779
     },
     {
       "term": "information",
       "count": 6,
-      "share": 0.08
+      "share": 0.0779
     },
     {
       "term": "business",
       "count": 5,
-      "share": 0.0667
+      "share": 0.0649
     },
     {
       "term": "technician",
       "count": 5,
-      "share": 0.0667
+      "share": 0.0649
     },
     {
       "term": "systems",
       "count": 4,
-      "share": 0.0533
+      "share": 0.0519
     },
     {
       "term": "software",
       "count": 4,
-      "share": 0.0533
+      "share": 0.0519
     },
     {
       "term": "service",
       "count": 4,
-      "share": 0.0533
+      "share": 0.0519
     },
     {
       "term": "communication",
       "count": 4,
-      "share": 0.0533
+      "share": 0.0519
     },
     {
       "term": "administrator",
       "count": 4,
-      "share": 0.0533
+      "share": 0.0519
     },
     {
       "term": "delivery",
       "count": 4,
-      "share": 0.0533
+      "share": 0.0519
     },
     {
       "term": "operations",
       "count": 3,
-      "share": 0.04
+      "share": 0.039
     },
     {
       "term": "engineering",
       "count": 3,
-      "share": 0.04
+      "share": 0.039
     },
     {
       "term": "project",
       "count": 3,
-      "share": 0.04
+      "share": 0.039
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.0267
+      "share": 0.026
     },
     {
       "term": "ai",
       "count": 2,
-      "share": 0.0267
+      "share": 0.026
     },
     {
       "term": "integration",
       "count": 2,
-      "share": 0.0267
+      "share": 0.026
     },
     {
       "term": "desk",
       "count": 2,
-      "share": 0.0267
+      "share": 0.026
     },
     {
       "term": "technical",
       "count": 2,
-      "share": 0.0267
+      "share": 0.026
     },
     {
       "term": "broadbeach",
       "count": 2,
-      "share": 0.0267
+      "share": 0.026
     },
     {
       "term": "desktop",
       "count": 2,
-      "share": 0.0267
+      "share": 0.026
     },
     {
       "term": "coordinator",
       "count": 2,
-      "share": 0.0267
+      "share": 0.026
     },
     {
       "term": "innovation",
       "count": 2,
-      "share": 0.0267
+      "share": 0.026
     },
     {
       "term": "health",
       "count": 2,
-      "share": 0.0267
+      "share": 0.026
     },
     {
       "term": "sharepoint",
       "count": 2,
-      "share": 0.0267
+      "share": 0.026
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0267
+      "share": 0.026
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.0267
+      "share": 0.026
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0267
+      "share": 0.026
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0267
+      "share": 0.026
     },
     {
       "term": "test",
       "count": 2,
-      "share": 0.0267
+      "share": 0.026
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "utilities",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "intelligence",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "science",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "reporting",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
+    },
+    {
+      "term": "devops",
+      "count": 1,
+      "share": 0.013
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "associate",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "netsuite",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "erp",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "migration",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "customisation",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "modern",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "workplace",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "account",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "its",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "asset",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "pimpama",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "campus",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "experience",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "required",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
+    },
+    {
+      "term": "ict",
+      "count": 1,
+      "share": 0.013
     },
     {
       "term": "inventory",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "cruise",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "month",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "ciam",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "soc",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "unified",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "communications",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0133
+      "share": 0.013
     }
   ],
   "jobs": [
@@ -1845,6 +1855,25 @@
       ]
     },
     {
+      "job_id": "94434108",
+      "job_title": "ICT Support Officer",
+      "business_name": "Princess Polly E-Boutique",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Burleigh Heads, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94434108",
+      "advertiser_id": "25850161",
+      "posted_date": "2026-09-04T19:23:49Z",
+      "job_description": "<div><p>Princess Polly is the global fashion brand at the forefront of trend-driven, lower impact and accessible apparel. Established as an online force in the Australian retail scene in 2010, Princess Polly quickly became the clothing brand found in every influencer haul, viral TikTok, Instagram OOTD and celeb street looks. Now, one of the fastest-growing online women's fashion brands in the USA, Princess Polly has been delivering the best online shopping experience to customers worldwide for over 10 years. </p><p><br></p><p>As a part of A.K.A Brands; we are a global player with offices located in Los Angeles and Australia’s Gold Coast. With big plans ahead, we're always on the hunt for new talent to join our global team. </p></div><br><div><p>Are you passionate about tech, thrive in a fast-paced environment, and love solving problems on the go? Join Princess Polly as our ICT Support Officer, supporting our high-performing Head Office team and wider business.</p><p>You’ll be the go-to tech expert at Head Office, supporting end users, ensuring our systems are running smoothly and securely, and helping us keep our workplace tech at the cutting edge. Reporting to the Global IT Director, we’re looking for someone proactive, solutions-focused, and excited to work in an agile environment with innovative tools.</p><p><strong>What you'll dol; </strong></p><ul><li>Providing on-the-ground tech support for our HQ team and corporate functions.</li><li>Troubleshooting IT hardware including laptops, desktop stations, monitors, video conferencing equipment, and printers.</li><li>Supporting SaaS applications used across the business and liaising with third-party vendors to resolve system issues.</li><li>Monitoring cybersecurity risks and taking proactive action to mitigate them.</li><li>Managing the office network environment – routers, switches, Wi-Fi, and VPN.</li><li>Ensuring SOX-compliant user access provisioning and reporting.</li><li>Staying up to date with tech trends and bringing innovative support ideas to the table.</li></ul><p><strong>Skills and Experience we're looking for; </strong></p><ul><li>Strong experience in ICT support, ideally in a fast-paced corporate or HQ environment.</li><li>Confident troubleshooting both Windows and macOS systems.</li><li>Experience providing Level-2 support for a multi-vendor SaaS ecosystem, including direct liaison with third-party technical teams to drive issue resolution.</li><li>Experience supporting mobile devices (Android and iOS).</li><li>Solid knowledge of Microsoft 365 and Google Workspace.</li><li>Understanding of cybersecurity best practices.</li><li>Strong communication skills, able to explain technical concepts clearly and confidently.</li><li>A self-starter who works autonomously and follows through with proactive problem-solving and escalation.</li><li>A team player who thrives in a collaborative, high-energy office environment.</li></ul><p>We recognise that asking you to give 100% of yourself on a daily basis requires us to offer an amazing opportunity.</p><ul><li>Competitive salary package.</li><li>Flexible working arrangements.</li><li>Access to a best in class parental leave and family planning program.</li><li>Exceptional employee discount program.</li><li>A stunning newly renovated office in beautiful Burleigh Heads;</li><li>Work as part of a team of dedicated individuals focused on doing their best each day.</li><li>Staff social activities.</li><li>Monthly birthday celebrations.</li></ul><p>Aside from the amazing array of tangible benefits and perks, Princess Polly offers you the chance to make an impact on a fast growing, global business. You have the opportunity to pursue your passion and plan your own future as part of our team!</p><p><br></p><p>Princess Polly is an Equal Opportunity Employer (EOE) We're committed to a diverse and inclusive workplace and encourage applicants from all walks of life. Come join us, different makes us better. </p><p><br></p><p>What are you waiting for? Come experience something different and amazing in the online fashion space!</p><p><br></p><p>#PrincessPolly #PursueYourPassion #PrincessPollyCareers</p></div><br><br><p>PI<a href=\"tel:286896769\">286896769</a></p>",
+      "keywords": [
+        "ict",
+        "support",
+        "officer"
+      ]
+    },
+    {
       "job_id": "94418616",
       "job_title": "Business Systems & IT Specialist",
       "business_name": "Private Advertiser",
@@ -1862,6 +1891,24 @@
         "systems",
         "it",
         "specialist"
+      ]
+    },
+    {
+      "job_id": "94392153",
+      "job_title": "Junior DevOps Engineer",
+      "business_name": "HealthCare Logic",
+      "work_type": "Full time",
+      "job_type": "Database Development & Administration",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94392153",
+      "advertiser_id": "38680260",
+      "posted_date": "2026-09-03T06:18:42Z",
+      "job_description": "<p><strong>About HealthCare Logic:</strong> </p><p>HealthCare Logic is a high growth emerging leader in hospital intelligence. We provide purpose-built intelligence platforms, experiences and services to help hospital systems achieve peak performance. We empower Public and Private, individual hospitals to networks, regions, State and National, to Departments of Health.</p><p></p><p>At HealthCare Logic we are empowering executive, clinical, and operational teams to make smarter, faster decisions that improve patient outcomes. Our flagship platform, SystemView, is embedded in and transforming over 170+ hospitals across Australia, Ireland, and the UK.</p><p>You’ll join a borderless team of data engineers, scientists, clinicians, product experts, and customer success pros - curious minds driven by impact. Together, we’re creating a globally connected network of high-performing hospitals.</p><p></p><p>We work at the intersection of AI, real-time data, and clinical strategy - and we’re looking for senior talent who thrives in complexity, leads with purpose, and wants their work to directly shape the future of healthcare.</p><p></p><p>If you're passionate about data with purpose, we want to hear from you.</p><p><strong></strong></p><p><strong>About the Role:</strong></p><p>We are seeking a Junior DevOps Engineer to support operations across our deployment and infrastructure workflows. This will be a hands-on role to ensure our CI/CD pipelines are robust and reliable. This role will support both new and existing installations with a focus on performance, scalability, and uptime.&nbsp;&nbsp;</p><p><strong></strong></p><p><strong>Key Responsibilities:&nbsp;</strong></p><ul>\n<li>Support the DevOps team to ensure deployment pipelines are working correctly and available.&nbsp;</li>\n<li>Design, build and maintain multi-stage CI/CD Pipelines (gated builds, targeted tests, code-quality &amp; security scans, safe release automation).&nbsp;</li>\n<li>Automate repeatable deployment tasks and workflows.&nbsp;</li>\n<li>Deploy and manage product installations within HCL ecosystems, as well as deployed within customer ecosystems.&nbsp;</li>\n<li>Contribute to our monitoring and alerting infrastructure.&nbsp;</li>\n<li>Contribute to our product ecosystem and infrastructure, especially within our infrastructure-as-code resources.&nbsp;</li>\n<li>Support and work with the global HCL teams to ensure standards are aligned and followed.&nbsp;</li>\n<li>Participate in On-Call schedule to provide timely support for our production client environments.&nbsp;</li>\n<li>Leverage approved AI tools to accelerate diagnostics, documentation, and repetitive tasks.&nbsp;</li>\n<li>Collaborate in reviews of work with others as appropriate.&nbsp;</li>\n</ul><p><strong>Skills and Experience</strong></p><ul>\n<li>Azure DevOps and Azure Resources</li>\n<li>YAML, SQL, Scripting Languages (e.g. PowerShell / Shell / Python)</li>\n<li>Excellent analytical and problem-solving skills</li>\n<li>Strong communication and interpersonal skills</li>\n<li>Highly desirable if you have familiarity with hospital source systems such as EMR or PAS (for example Cerner, Oracle Health, InterSystems, iPM or ieMR)</li>\n</ul><p><strong>Why Join Us:&nbsp;</strong></p><ul>\n<li>Competitive base salary&nbsp;and benefits&nbsp;&nbsp;</li>\n<li>Opportunity for career growth within a rapidly&nbsp;scaling&nbsp;leader in hospital intelligence&nbsp;</li>\n<li>Collaborative and supportive team culture&nbsp;</li>\n<li>Flexible work environment&nbsp;</li>\n</ul><p><strong>How to Apply&nbsp;&nbsp;</strong></p><p>This is a remote role, but will require some in office hours from time to time as required to meet the requirements of the role, this will usually be on the Gold Coast or Brisbane location. It suits someone who thrives on ownership and autonomy and enjoys working across teams (and sometimes time zones).</p><p></p><p>To apply please&nbsp;submit&nbsp;your current CV and cover letter. Please note applicants must have a legal right to work in&nbsp;Australia and answer&nbsp;all of&nbsp;the prerequisite screening questions.&nbsp;&nbsp;</p><p></p><p>At HealthCare Logic we celebrate diversity and strive to create an inclusive environment where all individuals feel valued and empowered. We believe diverse perspectives create stronger teams. We encourage applications from candidates of all backgrounds, including those from underrepresented groups, to join our dynamic team.&nbsp;&nbsp;</p><p></p><p> For any role related questions, please contact <a href=\"mailto:careers@healthcarelogic.com\">careers@healthcarelogic.com</a>.</p>",
+      "keywords": [
+        "devops",
+        "engineer"
       ]
     }
   ]
