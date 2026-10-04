@@ -1,428 +1,438 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-04",
   "region": "Gold Coast",
-  "scraped_at": "2026-10-05T08:37:55.947498+10:00",
-  "total_jobs": 71,
+  "scraped_at": "2026-10-04T08:33:34.919671+10:00",
+  "total_jobs": 75,
   "keywords": [
     {
       "term": "support",
-      "count": 19,
-      "share": 0.2676
+      "count": 21,
+      "share": 0.28
     },
     {
       "term": "it",
-      "count": 13,
-      "share": 0.1831
+      "count": 14,
+      "share": 0.1867
     },
     {
       "term": "analyst",
-      "count": 10,
-      "share": 0.1408
+      "count": 11,
+      "share": 0.1467
     },
     {
       "term": "engineer",
       "count": 9,
-      "share": 0.1268
+      "share": 0.12
+    },
+    {
+      "term": "specialist",
+      "count": 9,
+      "share": 0.12
     },
     {
       "term": "manager",
       "count": 9,
-      "share": 0.1268
+      "share": 0.12
     },
     {
       "term": "developer",
       "count": 8,
-      "share": 0.1127
-    },
-    {
-      "term": "specialist",
-      "count": 8,
-      "share": 0.1127
+      "share": 0.1067
     },
     {
       "term": "data",
       "count": 6,
-      "share": 0.0845
+      "share": 0.08
     },
     {
       "term": "technology",
       "count": 6,
-      "share": 0.0845
+      "share": 0.08
     },
     {
       "term": "officer",
       "count": 6,
-      "share": 0.0845
+      "share": 0.08
     },
     {
       "term": "information",
       "count": 6,
-      "share": 0.0845
+      "share": 0.08
+    },
+    {
+      "term": "business",
+      "count": 5,
+      "share": 0.0667
     },
     {
       "term": "technician",
       "count": 5,
-      "share": 0.0704
+      "share": 0.0667
     },
     {
-      "term": "business",
+      "term": "systems",
       "count": 4,
-      "share": 0.0563
+      "share": 0.0533
     },
     {
       "term": "software",
       "count": 4,
-      "share": 0.0563
+      "share": 0.0533
+    },
+    {
+      "term": "service",
+      "count": 4,
+      "share": 0.0533
     },
     {
       "term": "communication",
       "count": 4,
-      "share": 0.0563
+      "share": 0.0533
+    },
+    {
+      "term": "administrator",
+      "count": 4,
+      "share": 0.0533
     },
     {
       "term": "delivery",
       "count": 4,
-      "share": 0.0563
+      "share": 0.0533
     },
     {
       "term": "operations",
       "count": 3,
-      "share": 0.0423
-    },
-    {
-      "term": "systems",
-      "count": 3,
-      "share": 0.0423
+      "share": 0.04
     },
     {
       "term": "engineering",
       "count": 3,
-      "share": 0.0423
-    },
-    {
-      "term": "service",
-      "count": 3,
-      "share": 0.0423
-    },
-    {
-      "term": "administrator",
-      "count": 3,
-      "share": 0.0423
+      "share": 0.04
     },
     {
       "term": "project",
       "count": 3,
-      "share": 0.0423
+      "share": 0.04
+    },
+    {
+      "term": "solution",
+      "count": 2,
+      "share": 0.0267
     },
     {
       "term": "ai",
       "count": 2,
-      "share": 0.0282
+      "share": 0.0267
     },
     {
       "term": "integration",
       "count": 2,
-      "share": 0.0282
+      "share": 0.0267
     },
     {
       "term": "desk",
       "count": 2,
-      "share": 0.0282
+      "share": 0.0267
     },
     {
       "term": "technical",
       "count": 2,
-      "share": 0.0282
+      "share": 0.0267
     },
     {
       "term": "broadbeach",
       "count": 2,
-      "share": 0.0282
+      "share": 0.0267
     },
     {
       "term": "desktop",
       "count": 2,
-      "share": 0.0282
+      "share": 0.0267
     },
     {
       "term": "coordinator",
       "count": 2,
-      "share": 0.0282
+      "share": 0.0267
     },
     {
       "term": "innovation",
       "count": 2,
-      "share": 0.0282
+      "share": 0.0267
     },
     {
       "term": "health",
       "count": 2,
-      "share": 0.0282
+      "share": 0.0267
     },
     {
       "term": "sharepoint",
       "count": 2,
-      "share": 0.0282
+      "share": 0.0267
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0282
+      "share": 0.0267
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.0282
+      "share": 0.0267
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0282
+      "share": 0.0267
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0282
+      "share": 0.0267
     },
     {
       "term": "test",
       "count": 2,
-      "share": 0.0282
+      "share": 0.0267
+    },
+    {
+      "term": "architect",
+      "count": 1,
+      "share": 0.0133
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
-      "term": "solution",
+      "term": "application",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "utilities",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "intelligence",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "science",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "reporting",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "associate",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "netsuite",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "erp",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "migration",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "customisation",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "modern",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "workplace",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "account",
       "count": 1,
-      "share": 0.0141
-    },
-    {
-      "term": "helpdesk",
-      "count": 1,
-      "share": 0.0141
-    },
-    {
-      "term": "pimpama",
-      "count": 1,
-      "share": 0.0141
-    },
-    {
-      "term": "campus",
-      "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "its",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "asset",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
+    },
+    {
+      "term": "helpdesk",
+      "count": 1,
+      "share": 0.0133
+    },
+    {
+      "term": "pimpama",
+      "count": 1,
+      "share": 0.0133
+    },
+    {
+      "term": "campus",
+      "count": 1,
+      "share": 0.0133
     },
     {
       "term": "msp",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "experience",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "required",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "inventory",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "cruise",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "month",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "ciam",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "soc",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "unified",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "communications",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0141
+      "share": 0.0133
     }
   ],
   "jobs": [
@@ -1143,6 +1153,24 @@
       ]
     },
     {
+      "job_id": "94772240",
+      "job_title": "Solution Architect",
+      "business_name": "Southern Cross University",
+      "work_type": "Full time",
+      "job_type": "Architects",
+      "pay_range": "17% Superannuation",
+      "area": "Bilinga, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94772240",
+      "advertiser_id": "15012749",
+      "posted_date": "2026-09-21T07:11:49Z",
+      "job_description": "<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing <a href=\"https://www.scu.edu.au/southern-cross-model/\" target=\"_self\">Southern Cross Model</a> brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity</strong></p>\n<p>Southern Cross University is on an ambitious journey to redefine how technology empowers learning, research, and community impact. We’re building a future-ready technology organisation – modern, secure, adaptable, and driven by innovation.&nbsp; Our teams are embracing emerging technologies, including&nbsp;artificial intelligence, to deliver smarter services and real-world benefits for students, staff, and the wider community.</p>\n<p>Within Technology Services, our five dynamic work units – Data, Architecture &amp; Integration, Cyber Resilience, Digital Delivery &amp; Innovation, Technology Platforms, and Operations &amp; Services – work collaboratively to deliver high-impact solutions across the University.</p>\n<p>We are seeking a Solution Architect to lead the design and delivery of complex, enterprise-wide solutions that span multiple systems, platforms, and business domains.&nbsp; This senior technical role offers the chance to shape architectural direction, establish design standards, and drive strategic solution initiatives across the University’s teaching, learning, research, and administrative functions.</p>\n<p>Reporting to the Enterprise Architect, you will work closely with development teams, project managers, and business stakeholders to deliver high-impact solutions aligned with the University’s enterprise architecture vision</p>\n<p>You will make an impact by:</p>\n<ul>\n<li>Designing and delivering robust enterprise-grade solution architectures that support teaching, research, student services, and operations across all major university domains</li>\n<li>Leading the integration of core platforms such as TechnologyOne, Microsoft Dynamics, Blackboard, Microsoft Teams, and custom applications, ensuring seamless connectivity across all systems</li>\n<li>Establishing and promoting architectural standards and frameworks that ensure scalability, security, and maintainability across all digital initiatives</li>\n<li>Providing expert guidance and mentorship to develop teams, driving best practices in solution design, technology selection, and implementation</li>\n<li>Collaborating with stakeholders and contributing to the university technology roadmap, championing innovation, emerging technologies, and long term strategic planning</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<p>You’re an experienced and forward-thinking Solution Architect with deep technical knowledge, strong leadership skills, and a collaborative approach to problem solving.&nbsp; You thrive in complex environments, enjoy working across multiple business domains, and are passionate about delivering scalable, impactful technology solutions.</p>\n<p>To succeed in this role, you will also need:</p>\n<ul>\n<li>A Bachelor’s degree in Information Technology, Computer Science, or a related field</li>\n<li>Ideally 8+ years in technical roles with at least 5 years in solution architecture</li>\n<li>Proven experience in designing and integrating enterprise platforms including TechnologyOne, Dynamics 365, Blackboard, and Microsoft Teams</li>\n<li>Strong understanding of solution design patterns, architectural frameworks, and integration practices</li>\n<li>Demonstrate ability to lead large scale architecture initiatives and collaborate with cross-functional teams</li>\n<li>Excellent stakeholder engagement and communication skills, translating business needs into technical strategy</li>\n<li>A commitment to innovation, continuous improvement, and delivering real world impact</li>\n</ul>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/gold-coast/\" target=\"_self\">Gold Coast</a>, <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/coffs-harbour/\" target=\"_self\">Coffs Harbour</a> and the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/lismore/\" target=\"_self\">Northern Rivers</a> region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li>Full-time, continuing (permanent)</li>\n<li>Located at either Coffs Harbour, NSW 2450, Gold Coast, QLD 4225, or Lismore, NSW 2480. Relocation Assistance, making it easier to join our regional communities</li>\n<li>The level of appointment will be commensurate with the candidate’s qualifications, skills and experience.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit <a href=\"https://www.scu.edu.au/about/jobs-at-southern-cross/why-work-at-southern-cross-university/\" target=\"_self\">Why work at Southern Cross University?</a></p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>Name: Vivian Cormier<br>Email: <a href=\"mailto:Vivian.cormier@scu.edu.au\">Vivian.cormier@scu.edu.au</a></p>\n<p><strong>Applications close 11.30pm AEST 4 October 2026</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. &nbsp;Employer visa sponsorship is not available for this position.</p>\n<p>Applicants must apply online and attach a CV and cover letter responding to the selection criteria within the position description. Information to support you prepare your application is available on our <a href=\"https://www.scu.edu.au/about/jobsscu/vacancies/applying-for-a-position/\" target=\"_self\">website.</a></p>\n<p><em>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to </em><a href=\"mailto:jobs@scu.edu.au\" target=\"_self\"><em>jobs@scu.edu.au.</em></a></p>\n<p>#LI-VC1</p>\n<p>#All</p>\n",
+      "keywords": [
+        "solution",
+        "architect"
+      ]
+    },
+    {
       "job_id": "94768969",
       "job_title": "Technical Product Developer",
       "business_name": "ALEXANDRA AUSTRALIA",
@@ -1159,6 +1187,25 @@
         "technical",
         "product",
         "developer"
+      ]
+    },
+    {
+      "job_id": "94759047",
+      "job_title": "Application Support Analyst",
+      "business_name": "City of Gold Coast",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "$101,616 to $108,140 p/a plus Superannuation",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94759047",
+      "advertiser_id": "16652581",
+      "posted_date": "2026-09-21T01:22:36Z",
+      "job_description": "<ul> <li><strong>Full Time | 9-day fortnight | 36 hours per week </strong></li> <li> <strong>Salary: </strong>From $101,616 to $108,140 p/a plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG2022/assets/32053740\">Application Support Analyst</a> </li> </ul><p> </p><p><strong>About the team</strong></p><p>The Enterprise Platforms team plays a critical role in supporting the City's enterprise platforms within the Chief Technology Office. The team is committed to delivering secure, reliable, and fit-for-purpose technology solutions that enable service delivery, drive continuous improvement, and support the City's strategic and operational priorities.</p><p><strong>About the role </strong></p><p>The Application Support Analyst is responsible for supporting, maintaining, and troubleshooting Enterprise Platform applications. You will work closely with end-users, developers, and other technical roles to ensure smooth operation and optimal performance.</p><p> <strong>Key responsibilities:</strong></p><ul> <li>Provide first- and second-level support for business applications transitioned into Council.</li> <li>Troubleshoot, diagnose, and resolve application incidents in line with service level agreements.</li> <li>Escalate complex issues to vendors or higher-level technical teams as required.</li> <li>Monitor application performance and availability, taking proactive measures to prevent issues.</li> <li>Assist with upgrades, patches, enhancements, and system integrations.</li> <li>Support testing and change management processes during application releases.</li> <li>Document application configurations, procedures, and knowledge base articles.</li> <li>Liaise with business stakeholders to gather requirements and ensure application functionality meets organisational needs.</li> <li>Participate in transition and project-related activities, including onboarding and training.</li> <li>Identify and recommend improvements to application processes, user experience, and support practices.</li> </ul><p><strong>About you: </strong></p><p>You’re a proactive problem solver who enjoys supporting technology that keeps a large and diverse organisation running smoothly. You bring a balance of technical acumen, business understanding, and customer service focus to your work.</p><p><strong>Ideally, you will have:</strong></p><ul> <li>Diploma in Computer Science, Information Systems, or equivalent knowledge and experience.</li> <li>Experience in application support within complex or enterprise environments.</li> <li>Knowledge of ITIL service management practices.</li> <li>Familiarity with software development and testing methodologies (Agile preferred).</li> <li>Strong troubleshooting and analytical skills with a focus on service quality.</li> <li>Excellent written and verbal communication skills for engaging with technical teams and business stakeholders.</li> <li>Collaborative approach and commitment to continuous improvement.</li> </ul><p><strong>Be part of shaping the Gold Coast’s future </strong></p><p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p><p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p><ul> <li> <p>9-day fortnight </p> </li> </ul><ul> <li> <p>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations </p> </li> </ul><ul> <li> <p>Personal and professional development courses </p> </li> </ul><ul> <li> <p>Access to 350+ fitness facilities through Fitness Passport </p> </li> </ul><ul> <li> <p>4 free confidential counselling sessions a year for you or an immediate family member </p> </li> </ul><ul> <li> <p>1 free nutritionist and financial advice session per year </p> </li> </ul><p>We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p><p><strong>How to apply</strong></p><p>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p><p><strong>Contact Person</strong> Ashley Shannon</p><p><strong>Contact Email</strong> <a href=\"mailto:ashannon@goldcoast.qld.gov.au\">ashannon@goldcoast.qld.gov.au</a></p><p><strong>Closing Date</strong> Sunday 4th of October 2026 /11:59pm AEDT </p><p> </p><p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
+      "keywords": [
+        "application",
+        "support",
+        "analyst"
       ]
     },
     {
@@ -1196,6 +1243,25 @@
       "job_description": "<p><b>All Orbits, All Planets - Join us on our journey</b></p><p>Gilmour Space is a leading Australian space company, developing launch vehicles, satellite platforms, advanced propulsion technologies; and launching from our licensed orbital spaceport in Bowen, North Queensland.</p><p>Are you a creative and experienced 'Head of IT' looking for a dynamic role where your skills will make a real impact? Have you ever dreamt of building rockets right here in Australia? Well now’s your chance! Gilmour Space is seeking a talented individual to join our innovative team to send rockets to Space! Conveniently located between Brisbane and the Gold Coast, our new state-of-the-art facility, purpose-built for designing and manufacturing rockets in-house, is equipped with the latest technology and tools, providing an ideal environment for innovation and excellence. So, what are you waiting for? Join us and be a part of a forward-thinking team dedicated to pushing the boundaries of space exploration and let’s send Australia to Space together!</p><p><b>How you will contribute to our mission in getting Australia to space:</b></p><p>The below is designed to give you an idea of the role you will play. There will be many more exciting and innovative things to do:</p><ul> <li>Develop and implement an ICT strategy that aligns with the organisation's goals and objectives, as well as current information security standards and best practices.</li> <li>Identify and assess the organisation's ICT needs and provide solutions to meet those needs while ensuring information security requirements are met.</li> <li>Manage the design, implementation, and maintenance of ICT infrastructure, hardware, software, and applications with an emphasis on security, risk management and budgetary requirements of the business.</li> <li>Design, develop, implement, and periodically review ICT policies and procedures.</li> <li>Monitor and manage the performance, availability, and security of ICT systems and services, and implement controls to ensure compliance with security standards and regulations.</li> <li>Develop and manage the ICT budget, including forecasting, cost management and purchasing of IT related HW/SW.</li> <li>Provide leadership, guidance, support, and assistance to the ICT team and ensure that team and employees understand and comply with information security policies and procedures.</li> <li>Lead the IT Governance Committee to ensure accountability and governance of the company’s information and security risk, compliance and strategic environments.</li> <li>Direct the ICT procurement process and liaise with equipment and service providers to identify hardware / software for purchase, obtain quotes, prepare purchase requests, place orders, receive and allocate HW/SW, manage invoices. </li> <li>Report on ICT operations, projects, and security incidents. </li> <li>Shape and govern the organisation's AI strategy and capability roadmap, aligning AI initiatives with business objectives while ensuring robust oversight of security, compliance, data privacy, and responsible AI practices.</li> <li>Work with the Human Resources team to grow the Gilmour Space team as required.</li> <li>Other duties as requested by Management.</li></ul><div> <strong>Minimum Qualifications, Skills and Experience:</strong></div><div> <ul>  <li>Bachelor's or master's degree in computer science, Information Technology, Cyber Security, business administration or a related field.</li>  <li>Proven experience in managing ICT systems and services in a complex environment with an emphasis on information security.</li>  <li>Demonstrated experience in executive communication and influencing skills.</li>  <li>Minimum of 5 years in a senior IT leadership position.</li>  <li>Strong knowledge of ICT infrastructure, hardware, software, and applications, as well as information security standards and best practices.</li>  <li>Evidence of exceptional ability to lead complex IT and cyber security environments in fast paced organisations. </li> </ul> <div>  <b>Desired Qualifications, Skills and Experience:</b> </div></div><div> <ul>  <li>Excellent communication, leadership, and interpersonal skills.</li>  <li>Ability to manage multiple projects and priorities in a fast-paced environment.</li>  <li>Strong analytical and problem-solving skills.</li>  <li>Professional certifications such as ITIL, PMP, CISSP, or CISM are desirable.</li>  <li>Experience in managing a team of ICT professionals and providing mentorship and coaching.</li>  <li>Demonstrated ability to develop and implement an ICT strategy that aligns with organisational goals and objectives.</li>  <li>Experience in developing and managing an ICT budget and forecasting information security initiatives.</li>  <li>Demonstrated ability to support and manage the IT needs of R&amp;D departments, while ensuring IT security measures are adhered to.</li>  <li>Experience with technological Start Up / SMB / Enterprise is desirable.</li>  <li>Practical experience with one of the security frameworks: NIST/Essential 8/ISO27001 highly desirable. </li>  <li>NV1 Security Clearance eligible preferred</li> </ul> <div>  <p><b>Teamwork / Leadership / Interpersonal:</b></p>  <ul>   <li>Experience managing and/or directing an IT operation.</li>   <li>Proven leadership ability.</li>   <li>Strong negotiating skills</li>   <li>Well-developed communication, interpersonal, conflict resolution skills</li>   <li>Proven Ability to prioritize and manage work demands and deliver outcomes.</li>   <li>Self-motivated, results oriented with a strong attention to detail.</li>   <li>Demonstrated commitment to health and safety, quality assurance, continuous improvement, and environmental management.<br></li>  </ul>  <div>   <p><b>Supervisors / Managers:<br></b></p>   <p>Supervisors / Managers of Gilmour Space are to undertake effective occupational health &amp; safety measures to ensure compliance with WHS (Work Health and Safety) legislation. Performance criteria is to include but is not limited to: </p>   <ul>    <li>Disseminate Workplace Health and Safety information to staff relevant to the specific work area</li>    <li>Ensure that employees have the information, instruction, training, and supervision to work safely</li>    <li>Immediately advising the Risk, Health and Safety Officer of issues relating to WHS in their department and to continually review and make recommendations on ways in which Gilmour Space can improve WHS within their department</li>    <li>Assist where required in providing/ensuring induction and refresher training is provided to ensure ability of staff to discharge allocated Workplace Health &amp; Safety responsibilities including hazards within the workplace, safe operating procedures, use and maintenance of PPE (PERSONAL PROTECTIVE EQUIPMENT) and safety equipment and emergency response procedures</li>    <li>Ensuring all incidents / accidents are recorded and reported and that feedback on actions taken is communicated to employees in their department.</li>    <li>Ensuring implementation of corrective action arising from accident/incident or hazard reporting and monitoring to ensure effectiveness.</li>    <li>Supervise the Workplace health &amp; safety aspects of work undertaken by staff within the work area</li>    <li>Facilitate consultative processes regarding Workplace health and safety issues between management and staff</li>    <li>Participating in and monitoring of risk assessments, hazard evaluation and implementation of hazard control measures within their work area as required</li>    <li>Actively being involved with and promoting a clean and safe working environment<b></b></li>   </ul>   <p><strong>How to Apply:</strong></p>   <p>Applicants must be an Australian Citizen/Permanent Resident or have an appropriate Australian work visa or work entitlements.</p>   <p>If you are a proactive team player with a passion to get Australia to space and a desire to succeed, please apply now by clicking the apply button and including your resume and cover letter or head to our&nbsp;<strong>careers page: www.gspace.com/career</strong></p>   <p>Gilmour Space Technologies is proud to be an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all team members. We strongly encourage applications from Aboriginal and Torres Strait Islander peoples for all positions.</p>   <p>No Recruitment Agencies Please</p>   <p><b>&nbsp;</b></p>  </div> </div></div>",
       "keywords": [
         "it"
+      ]
+    },
+    {
+      "job_id": "94723354",
+      "job_title": "Service Support Administrator",
+      "business_name": "Bond University",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "$99,108.89 per annum, plus 12% superannuation",
+      "area": "Robina, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94723354",
+      "advertiser_id": "20551487",
+      "posted_date": "2026-09-18T04:56:37Z",
+      "job_description": "<p><strong>As Australia’s first private, not-for-profit university, Bond University based in Robina on the Gold Coast seeks to be recognised internationally as a leading independent university, imbued with a spirit to innovate, a commitment to influence and a dedication to inspire tomorrow's professionals who share a personalised and transformational student experience.</strong></p><p><strong>&nbsp;</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build your technical expertise and be the go-to expert for a wide range of IT systems and tools at Bond.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work in an environment that values continuous learning and career success.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work alongside passionate professionals who value teamwork and collaboration.</p><p><br></p><p><strong>Service Support Administrator<br>Information Technology Services&nbsp; <br>Full-time, Continuing</strong></p><p><strong>Position Reference No:</strong> <strong><a href=\"tel:201396163\">201396163</a></strong><br><br></p><p><strong>Join Australia’s top university for teaching* and enjoy staff benefits including:</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free staff car parking</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 36.75 hour standard work week</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Access to flexible work/work from home arrangements#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 18/26 weeks of parental leave#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Salary packaging options for FBT and Non-FBT items#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17.5% of base salary leave loading</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Staff wellbeing program</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free &amp; Confidential Employee Assistance Program available for all staff</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Study assistance for staff and dependents#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Corporate health and finance discounts</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Medical Centre and Counselling Services</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Sports Centre including gym, fitness classes and pool#</p><p><br></p><p><strong>About the Position</strong></p><p>The Service Support Administrator is responsible for the administration, support, security, and lifecycle management of the University's end-user computing environment. The role manages endpoint technologies including Microsoft Intune, Microsoft Defender for Endpoint, Windows Autopilot, operating system deployment, software deployment, and endpoint security solutions, ensuring secure, reliable, and efficient services for staff and students.</p><p><br></p><p>The position also provides advanced technical support, develops and maintains standard operating environments (SOEs), automates operational processes, and contributes technical expertise to projects and service improvements.</p><p><br></p><p><strong>About the Person</strong></p><p>To be successful in the Service Support Administrator role, candidates should demonstrate the following qualifications, skills, and experience:</p><p><br></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Relevant qualifications and experience</strong>: Degree in Information Technology, or an equivalent combination of industry certifications, technical training, and practical experience in endpoint management and support.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Endpoint management expertise</strong>: Advanced knowledge and hands-on experience with Microsoft Intune, Windows Autopilot, operating system deployment, software deployment, configuration management, and endpoint administration.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Endpoint security knowledge</strong>: Strong experience with Microsoft Defender for Endpoint, endpoint security technologies, anti-malware, application control, security baselines, attack surface reduction, and least-privilege access management.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Technical troubleshooting and automation skills</strong>: Demonstrated ability to diagnose and resolve complex endpoint issues, supported by strong knowledge of Windows networking (DNS, DHCP) and experience developing and deploying PowerShell scripts and automation solutions.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Customer service and communication skills</strong>: Proven ability to provide professional customer-focused support, manage escalated technical issues, communicate effectively with stakeholders, and work collaboratively across technical and business teams.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Desirable experience</strong>: Experience in a higher education environment, relevant Microsoft certifications, and knowledge of additional endpoint platforms such as macOS, Jamf, iPadOS, and Android.</p><p><strong>&nbsp;</strong></p><p><strong>Salary details</strong></p><p>The salary for the position commences at $99,108.89 per annum, plus 12% superannuation.</p><p><br></p><p><strong>Further information</strong></p><p>Position-related enquiries can be directed to Nathan Maguire, Manager End Device Services, <a href=\"mailto:nmaguire@bond.edu.au\" target=\"_blank\">nmaguire@bond.edu.au</a> <a href=\"tel:+61 7 5595 3529\">+61 7 5595 3529</a></p><p><br></p><p><strong>How to Apply for this Position</strong></p><p>For further details regarding this appointment, please reference the <a href=\"https://bond.edu.au/sites/default/files/2026-09/PD.Service%20Support%20Administrator.August%202026.pdf\" target=\"_blank\">Position Description</a> and Selection Criteria</p><p><br></p><p>Click&nbsp;<em>Apply Now</em>&nbsp;and&nbsp;<em>Create New Account</em>&nbsp;to get started. You can:</p><ul><li><p>Upload your Resume – your account will be created automatically, or</p></li><li><p>Manually enter your details to set up your account.</p></li></ul><p><br></p><p>Please ensure your application includes:</p><ul><li><p>A current resume</p></li><li><p>A cover letter addressing the Selection Criteria outlined in the Position Description above</p></li><li><p>Given the expected large volume of applications, priority will be given to those applicants who clearly present examples against the Selection Criteria using the STAR method (Situation, Task, Action, Result).&nbsp;</p></li></ul><p><br></p><p>For current Bond University staff, apply directly via <a href=\"https://hrconnect.bond.edu.au/\" target=\"_blank\">People Connect</a>, log in with staff credentials, from the Home dashboard select Careers, select the role and apply.</p><p><br><br>If you require any assistance with your application submission, please visit <a href=\"https://bond.edu.au/about-bond/careers-bond/applying-jobs-bond\" target=\"_blank\">Applying for jobs at Bond</a>.</p><p><strong>&nbsp;</strong></p><p><strong>Applications close: 11:59pm, Sunday 4th October 2026</strong></p><p><br></p><p><em>Pre-employment checks: Appointment is subject to satisfactory pre-employment checks (including working rights verification, reference checks and a certified copy of your highest qualification). In line with the National Higher Education Code to Prevent and Respond to Gender-based Violence 2025, preferred candidates must complete a Gender-Based Violence (GBV) Declaration, and any offer of employment will be conditional upon the University’s review of the declaration. For more information, please visit our website via this link: </em><a href=\"https://bond.edu.au/our-university/careers-at-bond/applying-for-jobs-at-bond\" target=\"_blank\"><em>Applying for Jobs at Bond</em></a></p><p><em>&nbsp;</em></p><p><strong>Conditions of employment are offered under a Bond Workplace Agreement (BWA).</strong></p><p><br></p><p>Bond University is an equal opportunity employer, and we encourage our students and staff to respect individuality, inclusiveness and diversity.&nbsp; In line with Bond University’s values, people from diverse backgrounds, women, Aboriginal and Torres Strait Islander people, people who identify as LGBTIQ+, and people with a disability are encouraged to apply for positions at the University<strong>.</strong></p><p><strong>&nbsp;</strong></p><p>Please advise the Talent Acquisition Team if you require any reasonable accommodations to assist you at anytime during the recruitment process.</p><p><br></p><p><strong>For more information, visit </strong><a href=\"https://bond.edu.au/our-university/supporting-diversity-at-bond#:~:text=At%20Bond%2C%20we%20foster%20diversity%20and%20inclusion%20through,students%20and%20staff%20from%20more%20than%2090%20countries.\" target=\"_blank\">Supporting diversity at Bond | Bond University | Gold Coast, Queensland, Australia</a></p><p><a href=\"https://bond.edu.au/privacy\" target=\"_blank\">Bond University Privacy Policy</a></p><p>#Eligibility criteria or membership fees apply<br>*Australian Financial Review’s Best Universities Ranking 2024</p><p><br></p>",
+      "keywords": [
+        "service",
+        "support",
+        "administrator"
       ]
     },
     {
@@ -1776,6 +1842,26 @@
         "msp",
         "experience",
         "required"
+      ]
+    },
+    {
+      "job_id": "94418616",
+      "job_title": "Business Systems & IT Specialist",
+      "business_name": "Private Advertiser",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "",
+      "area": "Mermaid Beach, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94418616",
+      "advertiser_id": "",
+      "posted_date": "2026-09-04T05:18:02Z",
+      "job_description": "<p><strong>About the role</strong></p><p>The Business Systems &amp; IT Specialist supports and maintains the technology that our company runs on. The role covers end user IT support, identity and device management, CRM configuration, reporting, workflow automation and internal development. The successful candidate will resolve day to day technical issues and deliver improvements to our core business systems. This is a broad, hands-on role suited to a technical generalist who is comfortable moving between support, systems configuration and development work, and who can prioritise independently across a varied workload.</p><p><strong>Key responsibilities</strong></p><ul><li><p>Manage the helpdesk queue and resolve technical issues for approximately 100 staff</p></li><li><p>Provide first and second level support across hardware, software, connectivity and access issues</p></li><li><p>Escalate and track unresolved issues through to closure</p></li><li><p>Deliver staff onboarding and offboarding, including device provisioning, account creation and access removal</p></li><li><p>Maintain the device fleet and asset register, including procurement, replacement cycles and disposal</p></li><li><p>Support the telephony and communications platforms used across the business</p></li><li><p>Administer user accounts, groups and access across Google Workspace, JumpCloud and the wider SaaS environment</p></li><li><p>Configure and maintain our CRM, including fields, layouts, workflows and module structure</p></li><li><p>Build and maintain reports and dashboards in our CRM's Analytics</p></li><li><p>Write SQL queries to support reporting requests from Sales, Operations and Marketing</p></li></ul><p><strong>About you</strong></p><ul><li><p>Four to six years experience in a technical role with demonstrated ownership of systems or infrastructure</p></li><li><p>Proficiency in SQL, with the ability to translate business questions into reporting outputs</p></li><li><p>Scripting or development experience in Python, JavaScript, Deluge or a comparable language</p></li><li><p>Demonstrated experience building workflow automations in a platform such as n8n, Make, Zapier or Zoho Flow</p></li><li><p>Experience working with APIs, webhooks and JSON to connect systems</p></li><li><p>Experience working alongside a development team, including translating business requirements into technical specifications and testing delivered work</p></li><li><p>Administration experience with Google Workspace or Microsoft 365</p></li><li><p>Experience with an identity or device management platform such as JumpCloud, Okta, Intune or Jamf</p></li><li><p>Demonstrated experience configuring a CRM platform, ideally Zoho, Salesforce or HubSpot</p></li><li><p>Experience supporting end users in a helpdesk or service desk environment</p></li></ul><p><br></p>",
+      "keywords": [
+        "business",
+        "systems",
+        "it",
+        "specialist"
       ]
     }
   ]
