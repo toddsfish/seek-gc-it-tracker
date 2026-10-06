@@ -1,479 +1,401 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-06",
   "region": "Gold Coast",
-  "scraped_at": "2026-10-07T09:27:48.195529+10:00",
-  "total_jobs": 67,
+  "scraped_at": "2026-10-06T11:03:08.377795+10:00",
+  "total_jobs": 68,
   "keywords": [
     {
       "term": "support",
-      "count": 17,
-      "share": 0.2537
+      "count": 18,
+      "share": 0.2647
     },
     {
       "term": "it",
-      "count": 11,
-      "share": 0.1642
+      "count": 12,
+      "share": 0.1765
     },
     {
       "term": "engineer",
       "count": 10,
-      "share": 0.1493
+      "share": 0.1471
     },
     {
       "term": "manager",
       "count": 9,
-      "share": 0.1343
+      "share": 0.1324
     },
     {
       "term": "analyst",
       "count": 8,
-      "share": 0.1194
+      "share": 0.1176
     },
     {
       "term": "developer",
       "count": 8,
-      "share": 0.1194
+      "share": 0.1176
     },
     {
       "term": "specialist",
-      "count": 7,
-      "share": 0.1045
+      "count": 8,
+      "share": 0.1176
     },
     {
       "term": "technology",
       "count": 6,
-      "share": 0.0896
+      "share": 0.0882
     },
     {
-      "term": "software",
+      "term": "officer",
       "count": 6,
-      "share": 0.0896
+      "share": 0.0882
     },
     {
       "term": "information",
       "count": 6,
-      "share": 0.0896
+      "share": 0.0882
     },
     {
-      "term": "technician",
+      "term": "software",
       "count": 5,
-      "share": 0.0746
+      "share": 0.0735
     },
     {
       "term": "business",
       "count": 4,
-      "share": 0.0597
+      "share": 0.0588
     },
     {
-      "term": "service",
+      "term": "technician",
       "count": 4,
-      "share": 0.0597
-    },
-    {
-      "term": "officer",
-      "count": 4,
-      "share": 0.0597
+      "share": 0.0588
     },
     {
       "term": "communication",
       "count": 4,
-      "share": 0.0597
+      "share": 0.0588
     },
     {
       "term": "delivery",
       "count": 4,
-      "share": 0.0597
+      "share": 0.0588
+    },
+    {
+      "term": "operations",
+      "count": 3,
+      "share": 0.0441
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0448
+      "share": 0.0441
     },
     {
       "term": "engineering",
       "count": 3,
-      "share": 0.0448
+      "share": 0.0441
+    },
+    {
+      "term": "service",
+      "count": 3,
+      "share": 0.0441
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0448
+      "share": 0.0441
     },
     {
       "term": "project",
       "count": 3,
-      "share": 0.0448
-    },
-    {
-      "term": "operations",
-      "count": 2,
-      "share": 0.0299
+      "share": 0.0441
     },
     {
       "term": "ai",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0294
     },
     {
       "term": "systems",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0294
     },
     {
       "term": "automation",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0294
     },
     {
       "term": "integration",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0294
     },
     {
       "term": "desk",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0294
     },
     {
       "term": "technical",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0294
     },
     {
       "term": "broadbeach",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0294
+    },
+    {
+      "term": "desktop",
+      "count": 2,
+      "share": 0.0294
     },
     {
       "term": "coordinator",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0294
     },
     {
       "term": "innovation",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0294
     },
     {
       "term": "health",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0294
     },
     {
       "term": "sharepoint",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0294
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0294
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0294
     },
     {
       "term": "security",
       "count": 2,
-      "share": 0.0299
+      "share": 0.0294
+    },
+    {
+      "term": "infrastructure",
+      "count": 2,
+      "share": 0.0294
     },
     {
       "term": "test",
       "count": 2,
-      "share": 0.0299
-    },
-    {
-      "term": "customer",
-      "count": 2,
-      "share": 0.0299
-    },
-    {
-      "term": "intelligence",
-      "count": 1,
-      "share": 0.0149
+      "share": 0.0294
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "reporting",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "associate",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "netsuite",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "erp",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "migration",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "customisation",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "modern",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "workplace",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "account",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
-      "term": "desktop",
+      "term": "helpdesk",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
+    },
+    {
+      "term": "pimpama",
+      "count": 1,
+      "share": 0.0147
+    },
+    {
+      "term": "campus",
+      "count": 1,
+      "share": 0.0147
     },
     {
       "term": "its",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "asset",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "inventory",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "cruise",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "month",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
-      "term": "cyber",
+      "term": "ciam",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
-      "term": "development",
+      "term": "team",
       "count": 1,
-      "share": 0.0149
-    },
-    {
-      "term": "course",
-      "count": 1,
-      "share": 0.0149
-    },
-    {
-      "term": "coach",
-      "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "soc",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
-      "term": "infrastructure",
+      "term": "cyber",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "unified",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "communications",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     },
     {
-      "term": "trainer",
+      "term": "customer",
       "count": 1,
-      "share": 0.0149
+      "share": 0.0147
     }
   ],
   "jobs": [
-    {
-      "job_id": "95098172",
-      "job_title": "Business Intelligence Analyst",
-      "business_name": "Nexigen Digital",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95098172",
-      "advertiser_id": "25685289",
-      "posted_date": "2026-10-06T22:53:55Z",
-      "job_description": "<div><p><strong>About Nexigen Digital</strong><br>We are Australia’s largest privately-owned group of online service providers, which includes brands such as VentraIP, Synergy Wholesale and Intaserve.<br><br></p><p>Every day our all-Australian team delivers exceptional service and outstanding support to our 200,000+ customers who choose us for their domain names, website hosting and online presence.</p><p><br></p><p>Over the past seventeen years, we have been constant game-changers, industry innovators, award winners, and community leaders - and now is your chance to join our team.</p><p><br></p></div><br><div><p><strong>Role Purpose</strong></p><p><br></p><p>At Nexigen Digital, we generate valuable data across multiple platforms and aim to consolidate these data points into a single source of truth. We are looking for a hands-on Business Intelligence Developer to build our data architecture from the ground up.</p><p><br></p><p>In this 12-month contract, you will own the end-to-end data lifecycle, from extracting raw data from our disconnected systems and building a centralised data warehouse. Designing interactive dashboards that will drive our executive decision-making. If you succeed in laying this foundation, there is a strong intent to transition this role into a permanent, ongoing position leading our analytics strategy.</p><p><br></p><p><br></p><p><strong>Key Responsibilities</strong></p><ul><li>Develop and maintain ETL processes, data integration solutions and automated data pipelines across multiple source systems.</li><li>Architect and build a centralised data warehouse or data mart, ensuring the data is cleaned, modelled accurately and optimised for reporting.</li><li>Develop, deploy, and maintain interactive, automated dashboards that track key business metrics and trends.</li><li>Work directly with stakeholders to translate vague business questions into concrete data requirements and actionable insights.</li></ul><p><br></p><p><strong>Skills &amp; Experience</strong></p><p><br></p><p><strong>Essential</strong></p><ul><li>Excellent analytical, problem-solving and consulting skills. </li><li>Strong SQL skills for querying, merging, and transforming complex datasets. </li><li>Expertise in building commercial dashboards in a Business Intelligence environment</li><li>Excellent communication skills – listening, written and verbal</li></ul><p><br></p><p><strong>Desirable</strong></p><ul><li>Proven experience using modern data integration tools or custom scripting (Python) to extract data from APIs.</li><li>Strong understanding of relational database </li><li>Understand what drives revenue, margins, and operational efficiency, and you know how to communicate these concepts to stakeholders. </li></ul><p><br></p><p><br><br></p><p><strong>The Benefits of Working With the Nexigen Digital Team</strong><br>Aside from being awarded “Employer of Choice” in the Australian Business Awards, we are often referred to as the Google of south-east Melbourne thanks to our unique facilities and team culture, and a top-down mandate to take care of the people who take care of our customers.</p><p>Some of the office perks include:</p><ul><li>A weekly selection of delicious meals prepared in our on-site kitchen for breakfast and lunch.</li><li>A fully-stocked snack bar featuring an assortment of chips, chocolates, nuts, protein bars and fresh fruit.</li><li>A drink fridge loaded with an assortment of soft drinks, juices and water.</li><li>A fully equipped private gym with weekly on-site personal training sessions.</li><li>A team wellness centre with a sound-proof gaming stadium featuring an 85” 4K TV, racing car simulator, pinball machine, arcade machine, and air hockey table.</li><li>An on-site salon where our resident barber and stylist provide free haircuts on a regular basis.</li></ul><p>We actively encourage training and upskilling for personal development and will fund courses that have a beneficial impact on the business.</p><p>Please note that due to strict security requirements the successful applicant will be required to complete a National Police Check as a condition of employment.</p><p><br></p></div><br><br><p>PI<a href=\"tel:287532556\">287532556</a></p>",
-      "keywords": [
-        "business",
-        "intelligence",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "95081106",
-      "job_title": "Cyber Security and/or Software Development Course Coach",
-      "business_name": "Equinim College of Technology",
-      "work_type": "Part time",
-      "job_type": "Security",
-      "pay_range": "$45 per hour",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95081106",
-      "advertiser_id": "62661973",
-      "posted_date": "2026-10-06T04:17:13Z",
-      "job_description": "<p>Are you a passionate &amp; caring person looking to develop your training skills in a positive environment?</p><p>We are looking for enthusiastic and people-focused individuals that love to share their knowledge and skills with others. Candidates will have great communication skills with a diverse scope of people and willingness to learn and serve students towards a greater understanding.&nbsp;This role is remote and is suited for people all across Australia.</p><p><br></p><p><strong>Application Information:</strong></p><p>To apply for this role, you must:</p><ol><li><p>Answer the Video Submission Question here - <strong>https://vocalvideo.com/c/eqc-institute-trainer</strong></p><ol><li><p><strong>Please note: </strong>Candidates that complete the Video Submission will be prioritised as this role involves speaking to students face-to-face via Zoom.</p></li></ol></li><li><p>Provide a resume highlighting your experience, knowledge, and skills relevant to this role. (Submit this via Seek)</p></li></ol><p><br></p><p><br><strong>Job Role:</strong><br>Provide education and training to students via <strong>Online Course Coaching.</strong></p><p>Being a Course Coach involves:</p><ul><li><p>Tutoring and teaching adult learners. This is done by having consistent communication with students via Zoom calls, phone or written communication.</p></li><li><p>General support and connection with students about course questions and study requirements.</p></li><li><p>Basic scheduling and time management skills are required for a successful candidate.</p></li><li><p>Working with a passionate team to ensure student success.</p></li></ul><p><br></p><p>We are currently hiring course coaches with Cyber Security skills and experience or Full Stack Web Development skills. If you meet either one of these skills please apply below!<br><br></p><p><strong>Skills Needed Cyber:</strong></p><ul><li><p>Experience with Cyber Security Systems and Tools (Basic Cloudflare, AWS, Wireshark, Virtual Machines)</p></li><li><p>Strong understanding of Cyber Security foundations</p></li><li><p>Industry experience is preferred</p></li></ul><p><br></p><p><strong>Skills Needed Web Development:</strong></p><ul><li><p>Experience in Full Stack Web Development</p></li><li><p>Proficiency with at least 2 programming languages (HTML, CSS, JavaScript, Python)</p></li><li><p>Experience with Github and SQL or similar database programing</p></li><li><p>Experience with Blockchain and AI / ML is preferred</p></li></ul><p><br></p><p><strong>Universal Training Skills:</strong></p><ul><li><p>Strong English Communication Skills</p></li><li><p>Computer with appropriate microphone and camera settings to host a zoom call</p></li><li><p>Flexible availability to communicate with students</p></li><li><p>Valid TAE (training and assessment) qualification - if you do not have this, be willing to obtain the qualification.<br>&nbsp;</p></li></ul><p><strong>Salary</strong>:</p><p>This is a part-time role. The part-time rate for a Course Coach for this particular role is $45 per hour. Successful candidates will be doing 10 hours per week.</p><p>This job is dependent on student availability and self-autonomy for scheduling. Hours are averaged across the week, with hours being dependent on student availability.</p><p><br></p><p><strong>About Us</strong></p><p>We are a Vocational Education and Training Organisation who's team has been operating for over 10 years in this space. We make sure to always focus on delivering quality materials, practical training and always aim to find new ways that can raise the bar across different industries. What sets us apart is our commitment to and incredible student experience whilst studying.</p><p><br></p><p>We work together; listening and challenging to create a supportive work environment whereby everyone works together and is equal.<br></p><p>We are hiring ASAP so if you think this role suits you, we would love to get in touch with you.<br></p><p>Work with us, to work together, and as a team let's inspire the next round of industry leaders!</p>",
-      "keywords": [
-        "cyber",
-        "security",
-        "software",
-        "development",
-        "course",
-        "coach"
-      ]
-    },
-    {
-      "job_id": "95075628",
-      "job_title": "Support Technician Level 1",
-      "business_name": "Optix Australasia",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Burleigh Heads, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95075628",
-      "advertiser_id": "63867355",
-      "posted_date": "2026-10-06T02:23:37Z",
-      "job_description": "<p><strong>About the role</strong></p><p>Optix Australasia is seeking a motivated and technically minded individual to join our Operations team as a Support Technician Level 1. This is an entry-level technical role that provides hands-on support across customers, hardware configurations, vehicle telematics, logistics, installations, and troubleshooting. You will work alongside experienced technical professionals while supporting a range of technologies including GPS tracking, video telematics, fleet management systems, IoT devices, and vehicle safety solutions. The Support Technician Level 1 provides essential first-line technical support, logistics coordination, and basic installation assistance. This role supports a range of Company-supplied products that help customers implement and maintain effective safety programs within their organisations.</p><p><strong>Key responsibilities</strong></p><ul><li>Provide Level 1 support via phone, email, messaging platforms and ticketing systems</li><li>Perform basic troubleshooting for hardware, software, connectivity, and installation-related issues</li><li>Support the Installation Team by offering technical guidance and assistance</li><li>Escalate complex or unresolved issues to Senior Support Technician, external vendors, or management</li><li>Operate and maintain provisioning stations, FROOTI stations, test jigs, and backend tools (e.g., DriveCam, DOL)</li><li>Perform device monitoring and generate routine operational reports</li><li>Assist with warehouse activities, including provisioning, minor repairs, and hardware/component handling</li><li>Monitor SIM/M2M portals, troubleshoot activation issues, and track data usage</li><li>Coordinate RMAs and carry out basic hardware fixes where appropriate</li><li>Work collaboratively with Accounts, Client Experience, PMO, Installations, and Technical/Product teams</li></ul><p><strong>About you</strong></p><ul><li>Broad understanding of computer systems, software applications, networking, and device connectivity</li><li>Ability to support and maintain hardware, software, networks, and communication systems</li><li>Strong record-keeping and documentation skills</li><li>Strong interpersonal skills and the ability to work with diverse stakeholders</li><li>Competent troubleshooting and problem-solving abilities</li><li>Interest in technology and willingness to learn new systems and tools</li><li>Strong multi-tasking, prioritisation, and time-management skills</li><li>Confident verbal and written communication skills</li><li>Analytical thinking paired with practical solution delivery</li><li>Proficiency with PCs and Microsoft Office Suite (Word, Excel, Outlook, etc.)</li></ul><p><strong>About us</strong></p><p>Optix Australasia is a company that provides a range of products that help customers implement and maintain effective safety programs within their organisations. The Support Technician Level 1 works closely with the Senior Support Technician and Technical Services lead and reports to the Senior Operations Manager (APAC). This position is predominantly office-based in Burleigh Heads, with occasional travel.</p>",
-      "keywords": [
-        "support",
-        "technician"
-      ]
-    },
-    {
-      "job_id": "95075434",
-      "job_title": "Customer Service Trainer (QLD)",
-      "business_name": "Nexigen Digital",
-      "work_type": "Full time",
-      "job_type": "Other",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95075434",
-      "advertiser_id": "25685289",
-      "posted_date": "2026-10-06T02:18:38Z",
-      "job_description": "<div><p><strong>About Nexigen Digital</strong><br><br>We are Australia’s largest privately-owned group of online service providers, which includes brands such as VentraIP, Synergy Wholesale and Intaserve.</p><p><br></p><p>Every day, our all-Australian team delivers exceptional service and outstanding support to our 400,000+ customers who choose us for their domain names, website hosting and online presence.</p><p><br></p><p>Over the past seventeen years, we have been constant game-changers, industry innovators, award winners, and community leaders - and now is your chance to join our team.</p><p><br></p></div><br><div><p><strong>Joining our Customer Service team</strong></p><p><br>We are looking for people who have a real passion for training and coaching, and thrive on developing and improving the team. You will be responsible for all team member education and ongoing training under the guidance and direction of the Customer Service Manager.</p><p><br></p><p><strong>The position</strong></p><ul><li>Responsible for onboarding new employees.</li><li>Providing initial training and support.</li><li>Creating and maintaining documentation and training courses.</li><li>Performing ongoing training and providing constructive feedback to improve team members’ knowledge and performance.</li><li>Assisting with answering general questions from the team on the floor.<br><br></li></ul><p><strong>The right person (is it you?)</strong></p><p><br>We are looking for someone who is passionate about education, coaching, and empowering team members. While prior training experience is beneficial, a strong drive to support others and continuously improve team performance is essential.</p><p><br></p><p>To succeed in this role, we are looking for people with the following attributes:</p><ul><li>A passion for coaching, mentoring, and developing others.</li><li>Strong communication skills and the ability to explain complex topics clearly.</li><li>An enthusiastic and engaging approach to training.</li><li>Capability to adapt training methods to suit different learning styles.</li><li>A commitment to continuous improvement and team growth.<br><br></li></ul><p>Any previous experience in the following areas would be highly regarded:</p><ul><li>Designing and delivering onboarding and training courses.</li><li>Creating instructional documentation and educational materials.</li><li>Customer service and technical support best practices.</li><li>Assessing skills and providing constructive feedback.</li><li>Knowledge of web hosting, domains, and billing-related topics.<br><br></li></ul><p><strong>The Benefits of Working With the Nexigen Digital Team</strong></p><p><br>We pride ourselves on our unique facilities and team culture, and a top-down mandate to take care of the people who take care of our customers. There's a reason we were awarded “Employer of Choice” in the Australian Business Awards.</p><p><br></p><p>Some of the office perks include:</p><ul><li>A weekly selection of delicious meals prepared in our on-site kitchen for breakfast and lunch.</li><li>A fully-stocked snack bar featuring an assortment of chips, chocolates, nuts, protein bars and fresh fruit.</li><li>A drink fridge loaded with an assortment of soft drinks, juices and water.</li><li>A fully equipped private gym with weekly on-site personal training sessions.</li><li>A team wellness centre with a soundproof gaming stadium featuring an 85” 4K TV, racing car simulator, pinball machine, arcade machine, and air hockey table.</li><li>An on-site salon where our resident barber and stylist provide free haircuts on a regular basis.<br><br></li></ul><p>Please note that due to strict security requirements, the successful applicant will be required to complete a National Police Check as a condition of employment.</p><p><br></p><p><strong>If this sounds like you, submit your application today, and we look forward to speaking with you soon.</strong></p></div><br><br><p>PI<a href=\"tel:287508190\">287508190</a></p>",
-      "keywords": [
-        "customer",
-        "service",
-        "trainer"
-      ]
-    },
     {
       "job_id": "95055111",
       "job_title": "Software Automation Engineer",
@@ -1133,6 +1055,43 @@
       ]
     },
     {
+      "job_id": "94852890",
+      "job_title": "Business Analyst",
+      "business_name": "Peoplebank Australia QLD",
+      "work_type": "Contract/Temp",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "Competitive",
+      "area": "Australia Fair, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94852890",
+      "advertiser_id": "28936124",
+      "posted_date": "2026-09-24T05:12:05Z",
+      "job_description": "<strong>URGENT HIRING:<br></strong>Role:&nbsp; Business Analyst<br>up to 5 months contract, possible extension<br>Brisbane-based, hybrid options<br><br>About the Role:<br>We are seeking an experienced <strong>Business Analyst</strong> to support the delivery of technology transformation initiatives for one of our enterprise clients in Brisbane<br><br><strong>Key responsibilities</strong><br>&nbsp;<br><ul><li>Elicit, analyse and document business and technical requirements.</li><li>Facilitate workshops and engage stakeholders to gather, prioritise and validate requirements.</li><li>Produce process maps, business analysis artefacts and documentation to BPMN standards.</li><li>Support current-state assessments, gap analysis, solution design, testing and change management activities.</li><li>Collaborate with technical teams to support platform migration, security uplift and modernisation initiatives.</li><li>Contribute to quality assurance, risk management and deployment planning.</li></ul><strong>Qualifications</strong><br>&nbsp;<br><ul><li>Strong BA experience across technology projects (security, modern workplace, or similar)</li><li>Strong requirements gathering, process mapping and business process improvement skills.</li><li>Familiarity with governance frameworks, testing methodologies and change management practices.</li><li>Experience using tools such as JIRA and Zephyr.</li><li>Exposure to cybersecurity, cloud platforms, infrastructure, VDI, digital workplace or modernisation programs</li></ul><br>If interested, kindly apply to the advert or send your resume to <strong><a href=\"mailto:trisha.bornasal@peoplebank.com.au\">trisha.bornasal@peoplebank.com.au</a></strong> referencing job <strong>#272324</strong>.<br><strong>Role Closing on 28 September morning so only candidates who applied before 8AM 28th Sep will be entertained.</strong><br><br><br><strong>Peoplebank</strong> and <strong>Leaders IT</strong> are committed to creating a diverse and inclusive workplace where everyone belongs. We welcome applications from people of all backgrounds, identities, and experiences. If you need adjustments to the recruitment process due to your circumstances, please let us know—we’re here to support you.",
+      "keywords": [
+        "business",
+        "analyst"
+      ]
+    },
+    {
+      "job_id": "94826067",
+      "job_title": "Desktop Support Officer -Gold Coast, Queensland, Australia",
+      "business_name": "Axiom Technologies Pty Ltd",
+      "work_type": "Casual/Vacation",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94826067",
+      "advertiser_id": "38048904",
+      "posted_date": "2026-09-23T04:53:05Z",
+      "job_description": "<div>\n \n \n<p><strong>Axiom Technologies</strong> is an Australia-based entity with a history of providing Managed IT solutions to medium- to large-scale enterprises globally. Please visit our website for more information about what we do at www.axiomtechnologies.com</p>\n<p>We are looking for a capable resource to coordinate activities ranging from simple to more complex plans. This role will provide on-site/on-call assistance to end users within the organization’s desktop computing environment in a timely and accurate manner to ensure optimal service delivery.</p>\n<p><strong>IT Skills and&nbsp;Experience</strong></p>\n<ul>\n<li>4+ years of Experience in Level 2/3 desktop support.</li>\n<li>Windows 10 or 11 Admin troubleshooting experience of&nbsp; Intune, cloud, and thick-build machines</li>\n<li>Keep up with Windows App and Update release information</li>\n<li>Provide Web application support for Edge or Chrome</li>\n<li>Provide Cloud application support (collaborate with app owners where required)</li>\n<li>Support 3rd&nbsp;party applications like Microsoft, Java and Adobe (raise cases with the vendor where required)</li>\n<li>Support MS Teams issues including video, audio, performance</li>\n<li>Familiar with AppV applications, MS Store Apps and packaged applications</li>\n<li>Troubleshoot / find root cause for general performance issues</li>\n<li>Troubleshoot laptop hardware issues such as monitor, mouse, headset, phones</li>\n<li>Office license management or troubleshooting</li>\n<li>Keep up with release information for MS Office and security updates</li>\n<li>Support Office issues for native laptop or cloud applications</li>\n<li>Collaborate with MS Outlook app owner when required to find root cause for Outlook issues</li>\n<li>Knowledge of Active directory and Group policies. PowerShell scripting knowledge is must.</li>\n<li>Ability to co-ordinate with various technical groups and can fix issues remotely for the users.</li>\n<li>Should be able to fix and troubleshoot all the application issues deployed on end user systems. (for eg. App Login Failures, App not installed, Software Installations which are failed)</li>\n<li>Good Client management and communication skills.</li>\n<li>Should be able to troubleshoot if any application is not working due to network related issues.</li>\n<li>Good Knowledge on browser support and management of Chrome and Edge via GPO.</li>\n<li>Have troubleshooting knowledge of Adobe, MS Office, Oracle, Edge and Chrome apps. Should be able to do the compatibility testing of web based applications with Chrome and Edge.</li>\n<li>Good Understanding of ITIL concept &amp; ticketing tool.</li>\n<li>Accurately document all work performed through ticketing system including details.</li>\n</ul>\n<p><strong>Personal Attributes:</strong></p>\n<ul>\n<li>Excellent End-user computing skills.</li>\n<li>Good knowledge of Infrastructure support.</li>\n<li>Strong analytical and problem-solving capabilities</li>\n<li>Well organized and extremely detail-oriented</li>\n<li>Strong customer service ethic and great communication skills, both oral and written</li>\n<li>Passionate about delivering quality no matter what you are doing</li>\n<li>Can work both independently and in a collaborative team-oriented environment</li>\n<li>A self-starter, motivated to push the limits and think outside of the box</li>\n<li>Fondness for solutions that are simple, elegant, and effective</li>\n<li>Ability to work with and maintain confidential information</li>\n</ul>\n<p>In-depth knowledge of:</p>\n<ul>\n<li>Windows OS (e.g. XP, Vista, Windows 7, 10)</li>\n<li>Microsoft Office applications</li>\n<li>PC\\Laptop hardware</li>\n<li>PC\\Laptop peripherals, including printers</li>\n<li>Mobile devices</li>\n</ul>\n<p>&nbsp; Basic knowledge of: &nbsp;</p>\n<ul>\n<li>Active Directory</li>\n<li>Exchange</li>\n<li>Apple OS</li>\n<li>SCCM</li>\n</ul>\n<p><strong>IT Qualifications</strong></p>\n<p>At least two of the following:</p>\n<ul>\n<li>PC\\Laptop OEM Maintenance Certification</li>\n<li>CompTIA A+ Certification</li>\n<li>Microsoft Certified IT Professional (MCITP) certification in the desktop area</li>\n<li>Microsoft Office Specialist (MOS) Certification</li>\n</ul>\n<p><strong>Experience in a similar role</strong></p>\n<ul>\n<li>3+ years of relevant experience.</li>\n</ul>\n<p><strong>What next?</strong>&nbsp;</p>\n<p>If you are looking for the next challenge in your career and wish to apply for this role, please forward your resume to <a href=\"mailto:careers.au@axiomtechnologies.com\">careers.au@axiomtechnologies.com</a></p>\n</div>",
+      "keywords": [
+        "desktop",
+        "support",
+        "officer"
+      ]
+    },
+    {
       "job_id": "94794069",
       "job_title": "IT Support Officer - Broadbeach, QLD",
       "business_name": "Ignite",
@@ -1189,6 +1148,26 @@
         "technical",
         "product",
         "developer"
+      ]
+    },
+    {
+      "job_id": "94755968",
+      "job_title": "Cyber Security and Infrastructure Specialist",
+      "business_name": "Feros Care",
+      "work_type": "Full time",
+      "job_type": "Security",
+      "pay_range": "Based on Experience + Super + NFP Salary packaging",
+      "area": "Coolangatta, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94755968",
+      "advertiser_id": "26252854",
+      "posted_date": "2026-09-20T23:14:58Z",
+      "job_description": "<p><strong>Cyber Security and Infrastructure Specialist</strong></p><p><strong>We're Feros Care, and we're pleased to meet you.</strong></p><p><strong>And what we care most about is helping people live healthier, happier, better-connected lives.</strong></p><p>Since 1990, we've been making it happen, both for older Australians and people with disability.</p><p>We are proud to be Game Changers. Dream Makers. Kindness Champions. Culture Shapers. Vibrant <br> Creators. And it's not just us who thinks so; We've won many awards on the local and international <br> stage for our approach.<br> <br> <strong>Drive cyber security and infrastructure excellence.</strong></p><p>As our Cyber Security &amp; Infrastructure Specialist, you'll be responsible for supporting and evolving the infrastructure and security platforms that underpin Feros Care's operations.</p><p>Partnering with the Cloud Architect, you'll oversee the security and performance of cloud, network and server environments while providing expert Level 3 support and driving continuous improvement across our technology landscape.<br> <br> <strong>What you'll do</strong></p><ul><li>Support the design, implementation, and ongoing maintenance of secure infrastructure across on premises and cloud environments.</li><li>Manage and enhance cyber security controls, ensuring the confidentiality, integrity, and availability of organisational systems and data.</li><li>Monitor, investigate, and respond to security incidents, vulnerabilities, and infrastructure issues, providing timely resolution and remediation.</li><li>Act as a Level 3 escalation point for complex infrastructure and cyber security issues, supporting our Service Desk and wider IT team.</li><li>Design, deploy, and maintain network, server, cloud, telephony and voice solutions to support business operations.</li><li>Contribute to disaster recovery, business continuity, and infrastructure resilience initiatives to minimise service disruption.</li><li>Develop and maintain technical documentation, operational procedures, infrastructure diagrams and security related processes.</li><li>Partner with vendors, stakeholders and internal teams to deliver technology improvements and projects that align with business objectives.</li></ul><p> <strong>What you'll bring</strong></p><ul><li>5+ years' experience in infrastructure, systems administration or advanced technical support roles.</li><li>Strong knowledge of cyber security principles, technologies and best practices.</li><li>Experience managing enterprise infrastructure, including networks, servers, cloud services and security platforms.</li><li>Hands on experience with Microsoft Azure, Microsoft 365, Windows Server and Linux environments.</li><li>Strong troubleshooting, problem solving, and incident management capabilities.</li><li>Experience with technologies such as VMware, Fortinet, Cisco, Ubiquiti, Veeam and VoIP solutions.</li><li>Excellent communication skills with the ability to engage effectively with both technical and non-technical stakeholders.</li><li>A customer-focused approach with the ability to manage competing priorities in a fast-paced environment.</li></ul><p><strong>Qualifications &amp; Checks</strong></p><ul><li>Diploma in Information Technology or equivalent qualification.</li><li>Bachelor of Information Technology (Computer Science) would be highly regarded.</li><li>Current unrestricted Australian Driver's Licence.</li><li>Undergo a Nationally Coordinated Criminal History Check.</li><li>Valid Australian working rights.</li></ul><p><strong>Why Feros Care?</strong><br> At Feros Care, we value our people and offer:</p><ul><li>Not for Profit Salary Packaging of up to $15,900 per annum, and meal and entertainment salary sacrifice of up to $2,650 per annum, all tax free, stretching your income further.</li><li>Flexible Working Arrangements, including a hybrid model with a combination of working from our Coolangatta office and the flexibility to work remotely.</li><li>17.5% Annual Leave loading.</li><li>Cultural Leave Days for eligible employees.</li><li>Enjoy exclusive discounts, financial tips, and wellness programs through our ForME employee benefits platform.</li><li>Private Health Insurance Discount with Medibank.</li><li>Employee Assistance Program (EAP).</li><li>Paid Parental Leave (9 weeks) for eligible employees.</li><li>Access to Fitness Passport - discounted gym and pool memberships for you and your family.</li><li>$200 referral bonus per successful referral.<br> </li></ul><p>We actively seek to include, welcome and value the unique contributions of all people. We encourage applications from Aboriginal and Torres Strait Islander people, people from cultural and linguistically diverse backgrounds, and people with disability.</p><p>If you would like to discuss accessibility requirements, preferred communication methods or other possibilities, please contact <a href=\"mailto:talentacquisition@feroscare.com.au\">talentacquisition@feroscare.com.au</a></p><p> </p>",
+      "keywords": [
+        "cyber",
+        "security",
+        "infrastructure",
+        "specialist"
       ]
     },
     {
@@ -1439,6 +1418,25 @@
       ]
     },
     {
+      "job_id": "94670495",
+      "job_title": "CIAM Operations Team Lead",
+      "business_name": "Peoplebank Australia QLD",
+      "work_type": "Contract/Temp",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "Competitive",
+      "area": "Australia Fair, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94670495",
+      "advertiser_id": "28936124",
+      "posted_date": "2026-09-16T06:33:05Z",
+      "job_description": "<strong>Role: Customer Identity and Access Management (CIAM) Operations Team Lead<br>Contract: 18 months initial contract, possible extension<br>Locations:&nbsp; ACT, NSW, and QLD -&nbsp; hybrid<br></strong><strong>Clearance:</strong> must be able to obtain <strong>NV1</strong><br><strong>Eligibility:</strong> <strong>Australian citizens only<br><br>--<br></strong>About the Role:<br>Lead a CIAM operations team to ensure the reliability, stability and performance of a high-profile identity platform. Drive operational excellence through improved monitoring/observability, runbooks, incident reduction, process optimisation and automation.<br><br><strong>Key responsibilities</strong><ul><li>Lead and coach the CIAM ops team; manage priorities and service outcomes</li><li>Monitor platform performance; report on operational metrics</li><li>Manage incidents/end-to-end investigations (logs, root cause)</li><li>Coordinate releases and operational change</li><li>Improve SOPs/runbooks and cross-team operating processes</li></ul><strong>Qualifications</strong><br><ul><li>Strong <strong>OAuth 2.0 / OIDC</strong>, token lifecycle, federation, authN/authZ knowledge</li><li>Proven operations leadership (capability uplift, performance support, continuous improvement)</li><li>Strong stakeholder management and coordination skills</li><li>Experience creating/maintaining operational documentation</li><li>High-volume, externally facing digital service</li><li>SaaS/cloud identity (or hybrid) + observability/log analytics tools</li><li>APIs (REST/JSON), certificates/secrets, integration troubleshooting</li></ul><br>If interested, please apply to the advert or send your resume to <a href=\"mailto:trisha.bornasal@peoplebank.com.au\">trisha.bornasal@peoplebank.com.au</a>&nbsp;referencing #272218.<br>Role closing on 23rd Sep 2026.<br><br><br><strong>Peoplebank</strong> and <strong>Leaders IT</strong> are committed to creating a diverse and inclusive workplace where everyone belongs. We welcome applications from people of all backgrounds, identities, and experiences. If you need adjustments to the recruitment process due to your circumstances, please let us know—we’re here to support you.",
+      "keywords": [
+        "ciam",
+        "operations",
+        "team"
+      ]
+    },
+    {
       "job_id": "94668324",
       "job_title": "Desktop Support Engineer",
       "business_name": "MaxSoft Pty Ltd",
@@ -1666,6 +1664,28 @@
         "infrastructure",
         "security",
         "support"
+      ]
+    },
+    {
+      "job_id": "94456522",
+      "job_title": "IT Helpdesk Support Officer - Pimpama Campus",
+      "business_name": "King's Christian College",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Pimpama, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94456522",
+      "advertiser_id": "20427280",
+      "posted_date": "2026-09-07T04:19:12Z",
+      "job_description": "<p>JOIN OUR COMMUNITY</p><p>At King's, we place value on selecting staff who are committed to honouring God through their gifts and talents, and who have a passion to help young people succeed. We seek staff to become part of our collegiate culture to provide challenging, differentiated, and engaging learning for each of their students.</p><p><strong>Expressions of interest are sought for the following position:</strong></p><p><strong>IT Helpdesk Support Officer</strong></p><p>We are seeking a skilled IT Helpdesk Technician for our Pimpama campus.</p><p>This is a <strong>Full Time position</strong>, Monday to Friday 8am – 4pm.</p><p>Responsibilities include, but are not limited to:</p><ul><li>Providing the first line of support to the Staff and Students on any IT related issues, either by telephone, email or face to face.</li><li>Performing preventative maintenance, including checking critical alerts, creating tickets, prioritising and escalating these to the appropriate technician.</li><li>Troubleshooting software and hardware issues in a Apple based environment.</li><li>Use an industry leading ticketing system to track client requests, time management and project work.</li><li>Ensure you follow through with all issues to completion and ensuring if issues are not resolved that they are escalated to the next level of support in a timely manner.</li><li>Ensure the inventory record for all IT related hardware is managed and up to date.</li><li>When required, install or configure new and existing client software or applications.</li><li>Perform user account administration maintaining user access in the various Systems and Software.</li><li>Provide feedback on continuous improvement of processes and procedures in order to enhance the current use of products or reduce incoming call volume.</li><li>Provide technical assistance and support for incoming queries and issues related to computer systems, software, hardware, phone systems, printing and all IT related queries.</li><li>Ensure all internal systems and procedures are followed correctly.</li></ul><p>The ideal applicant will have:</p><ul><li>IT Helpdesk experience</li><li>Familiar with Apple iPadOS, iOS, MacOS ecosystem</li></ul><p><strong>Applications close at 4:00pm on Friday, 18 September 2026.&nbsp;</strong></p><p><em>However applications will be assessed as received and the position may be filled prior to the closing date.</em></p><p>Your curriculum vitae should include details for;</p><ul><li>at least 2 recent professional referees</li><li>at least 1 referee who can attest to your suitability to work within the values and culture of an expanding Christian school (preferably from a Pastor or Minister).</li></ul><p>ABOUT OUR COLLEGE</p><p>King’s is an expanding, multi-Campus school that places paramount importance on the development of the whole child, with a particular focus on providing every student the opportunity to develop Christian Leadership skills that will prepare them for their future. Our programs challenge and shape students’ thinking and understanding of their role in the world.</p><p>With our growing existing campuses and plans for further new campus development, King’s provides excellent career progression opportunities. We encourage suitable applicants to apply to join the growing team at any of King’s Christian College campuses.</p><p>Our College currently consists of 3 dynamic campuses, with several more campuses in the planning stages, serving the communities in which they are located.</p><p>The REEDY CREEK CAMPUS (on the southern end of the Gold Coast) has more than 2600 students on-site, from Early Learning through to Year 12. This campus also includes a Trade Training College.</p><p>Our PIMPAMA CAMPUS (on the northern end of the Gold Coast) currently has over 2000 students on-site, from Early Learning to Year 12.</p><p>King’s LOGAN VILLAGE CAMPUS (in south-west Logan) offers places for students from Early Learning through to High School.</p><p><em>King's Christian College is committed to child safety and wellbeing and acts in accordance with the Child Safe Standards (Child Safe Organisations Act 2024 (Qld) and the Working with Children Check Act 2000.)&nbsp;As such, candidates will be subject to will be subject to a Qld Teacher Registration check or Blue Card screening and other relevant checks as required.&nbsp;</em>&nbsp;</p>",
+      "keywords": [
+        "it",
+        "helpdesk",
+        "support",
+        "officer",
+        "pimpama",
+        "campus"
       ]
     }
   ]
