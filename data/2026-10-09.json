@@ -1,28 +1,23 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-09",
   "region": "Gold Coast",
-  "scraped_at": "2026-10-10T09:42:59.370896+10:00",
+  "scraped_at": "2026-10-09T10:03:37.432509+10:00",
   "total_jobs": 68,
   "keywords": [
     {
       "term": "support",
-      "count": 20,
-      "share": 0.2941
+      "count": 18,
+      "share": 0.2647
     },
     {
       "term": "it",
-      "count": 12,
-      "share": 0.1765
-    },
-    {
-      "term": "engineer",
       "count": 11,
       "share": 0.1618
     },
     {
-      "term": "developer",
-      "count": 9,
-      "share": 0.1324
+      "term": "engineer",
+      "count": 10,
+      "share": 0.1471
     },
     {
       "term": "manager",
@@ -31,8 +26,13 @@
     },
     {
       "term": "analyst",
-      "count": 7,
-      "share": 0.1029
+      "count": 8,
+      "share": 0.1176
+    },
+    {
+      "term": "developer",
+      "count": 8,
+      "share": 0.1176
     },
     {
       "term": "specialist",
@@ -50,7 +50,7 @@
       "share": 0.0882
     },
     {
-      "term": "officer",
+      "term": "information",
       "count": 6,
       "share": 0.0882
     },
@@ -60,7 +60,12 @@
       "share": 0.0735
     },
     {
-      "term": "information",
+      "term": "officer",
+      "count": 5,
+      "share": 0.0735
+    },
+    {
+      "term": "business",
       "count": 4,
       "share": 0.0588
     },
@@ -73,11 +78,6 @@
       "term": "delivery",
       "count": 4,
       "share": 0.0588
-    },
-    {
-      "term": "business",
-      "count": 3,
-      "share": 0.0441
     },
     {
       "term": "data",
@@ -110,7 +110,7 @@
       "share": 0.0294
     },
     {
-      "term": "solution",
+      "term": "ai",
       "count": 2,
       "share": 0.0294
     },
@@ -125,7 +125,7 @@
       "share": 0.0294
     },
     {
-      "term": "stack",
+      "term": "solution",
       "count": 2,
       "share": 0.0294
     },
@@ -146,6 +146,16 @@
     },
     {
       "term": "coordinator",
+      "count": 2,
+      "share": 0.0294
+    },
+    {
+      "term": "innovation",
+      "count": 2,
+      "share": 0.0294
+    },
+    {
+      "term": "health",
       "count": 2,
       "share": 0.0294
     },
@@ -175,11 +185,6 @@
       "share": 0.0294
     },
     {
-      "term": "ai",
-      "count": 1,
-      "share": 0.0147
-    },
-    {
       "term": "intelligence",
       "count": 1,
       "share": 0.0147
@@ -201,6 +206,11 @@
     },
     {
       "term": "magento",
+      "count": 1,
+      "share": 0.0147
+    },
+    {
+      "term": "stack",
       "count": 1,
       "share": 0.0147
     },
@@ -255,11 +265,6 @@
       "share": 0.0147
     },
     {
-      "term": "recent",
-      "count": 1,
-      "share": 0.0147
-    },
-    {
       "term": "helpdesk",
       "count": 1,
       "share": 0.0147
@@ -295,22 +300,12 @@
       "share": 0.0147
     },
     {
-      "term": "account",
-      "count": 1,
-      "share": 0.0147
-    },
-    {
       "term": "desktop",
       "count": 1,
       "share": 0.0147
     },
     {
-      "term": "ongc",
-      "count": 1,
-      "share": 0.0147
-    },
-    {
-      "term": "desk",
+      "term": "account",
       "count": 1,
       "share": 0.0147
     },
@@ -321,6 +316,16 @@
     },
     {
       "term": "asset",
+      "count": 1,
+      "share": 0.0147
+    },
+    {
+      "term": "desk",
+      "count": 1,
+      "share": 0.0147
+    },
+    {
+      "term": "ongc",
       "count": 1,
       "share": 0.0147
     },
@@ -406,62 +411,6 @@
     }
   ],
   "jobs": [
-    {
-      "job_id": "95172758",
-      "job_title": "IT Support Officer - Level 1 (or Recent Graduate)",
-      "business_name": "Acworth Recruitment",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Burleigh Heads, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95172758",
-      "advertiser_id": "36752432",
-      "posted_date": "2026-10-09T08:01:23Z",
-      "job_description": "<p><strong>Ozdoc Solutions Partnership </strong>are Australia’s premier Medical IT provider. We custom design IT solutions to meet the needs of today’s demanding Health industry via the best combination of on premise, hybrid and complete cloud-systems including hardware, software, and state of the art digital solutions. We are committed to excellence, growth, integrity, and innovation while striving to be as human as possible, after all they are our core values.</p><p><br></p><p><strong>“We care for technology so you can care for people”</strong></p><p><br></p><p><strong>About the Role</strong></p><p>We are on the hunt for the next great team member. &nbsp;</p><p><br></p><p>We’re looking for a super driven person to join our team as a Level 1/Entry level <strong>Associate Support Engineer</strong>. You'll learn to be hands-on with all our client support, receiving exposer to everything as you will become part of our First Response team delivering initial triage to servers, desktops, networks, you name it as you grow.</p><p><br></p><p>Still studying and have extra capacity, we will even consider someone working towards Graduation and looking for a foot in the door [Cert 3/4, Diploma or Degree] with strong customer service experience (ie retail, hospitality etc) and is the \"go to\" person for friends and family with their IT issues.</p><p><br></p><p>You'll need a growth mentality and a great can-do attitude, love working directly with people and most importantly be part of a strong team culture…..along with diligence, enthusiasm, willingness to go the extra mile, and desire to contribute and succeed.</p><p><br></p><p>Show your skill and there is plenty of opportunity to move quickly and grow within our team!</p><p><br></p><p><strong>What Qualities are we looking for?&nbsp;&nbsp;</strong></p><ul><li><p>Exceptional skills in dealing with people</p></li><li><p>A positive and friendly attitude</p></li><li><p>Passionate about solving client issues</p></li><li><p>A creative approach in solving problems</p></li><li><p>Most of all, a team player and willingness to grow.</p></li></ul><p><br></p><p><strong>What’s on Offer</strong></p><ul><li><p>A commencing salary of $55K plus superannuation will be offered with the potential for an increase following probation for an exceptional candidate.</p></li><li><p>Additional after hours renumeration on top of base salary</p></li><li><p>A proactive and supportive work environment, with up-to-date equipment, that supports employee development.</p></li><li><p>A challenging role where you are always learning!</p></li><li><p>Burleigh Heads based – work close to home</p></li><li><p>Flexible work options</p></li><li><p>Salary sacrifice plans</p></li><li><p>Employee referral program</p></li><li><p>Peer bonus program</p></li><li><p>Gift vouchers on your birthday and the day off, yes that’s right we don’t work birthdays at Ozdoc</p></li><li><p>Quarterly team building events</p></li><li><p>Monthly team lunches</p></li><li><p>Ability to be heard outside of the crowd</p></li></ul><p><br></p><p><strong>What stands out as a bonus to being shortlisted in this application?&nbsp;&nbsp;</strong></p><ul><li><p>Already completed a graduate certification</p></li><li><p>Any Microsoft fundamental certifications</p></li><li><p>Any additional IT certifications</p></li><li><p>Any certification that isn’t IT related however can be applied to this role</p></li></ul><p><br></p><p><strong>Want to join the Ozdoc team?</strong></p><p>If you are ready to <strong>build your CAREER</strong> with an organisation that prides itself on intimacy with its customers and building a strong team, then send your application in now!</p><p><br></p><p>Applicants are asked to provide a current resume along with details/ evidence to support the above requirements of the role.</p><p><strong>&nbsp;</strong></p><p>Please note that only applicants meeting the criteria outlined above will be contacted as part of the short-listing process.</p>",
-      "keywords": [
-        "it",
-        "support",
-        "officer",
-        "recent"
-      ]
-    },
-    {
-      "job_id": "95172670",
-      "job_title": "Support Engineer – Level 2",
-      "business_name": "Acworth Recruitment",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Burleigh Heads, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95172670",
-      "advertiser_id": "36752432",
-      "posted_date": "2026-10-09T08:00:13Z",
-      "job_description": "<p><strong>About Ozdoc Solutions</strong></p><p>Ozdoc Solutions Partnership is Australia’s premier Medical IT provider, delivering customised technology solutions to meet the needs of today's demanding healthcare industry.</p><p><br></p><p>We design and implement the best combination of on-premise, hybrid and complete cloud systems, incorporating hardware, software and state-of-the-art digital solutions.</p><p><br></p><p>We are committed to excellence, growth, integrity and innovation, while always striving to be as human as possible — after all, our clients and our team are at the heart of everything we do.</p><p><br></p><p><strong>“We care for technology so you can care for people.”</strong></p><p><strong>&nbsp;</strong></p><p><strong>About the Role</strong></p><p>We are looking for an experienced and motivated <strong>Level 2 Support Engineer</strong> to join our team and take the next step in their IT career.</p><p><br></p><p>This is a hands-on technical support role where you'll be working directly with our healthcare clients to investigate, troubleshoot and resolve more complex IT issues across their environments.</p><p><br></p><p>You'll be part of a professional support team, taking escalated issues beyond first-response troubleshooting and working through problems across servers, desktops, networks, Microsoft environments, cloud systems and other technologies within our clients' environments.</p><p><br></p><p><strong>We're not simply looking for someone who wants to stay at Level 2. We're looking for someone with the</strong> <strong>drive and capability to keep developing</strong>.</p><p><br></p><p>For the right person, there are two potential career pathways:</p><p><strong>Pathway 1 – L2 Support → L3 Support</strong></p><p>Continue developing your technical depth, taking on increasingly complex escalations, troubleshooting and infrastructure responsibilities as you progress towards a Level 3 Support Engineer role.</p><p><strong>Pathway 2 – L2 Support → L2 Field Engineer → L3 Field Engineer</strong></p><p>For someone who enjoys getting out from behind the desk, there is also the opportunity to develop into a Field Engineering role, gaining greater hands-on exposure to client environments, projects and infrastructure before progressing towards L3 Field Engineering.</p><p>The pathway will depend on your strengths, interests and career aspirations.</p><p><strong>&nbsp;</strong></p><p><strong>What You'll Be Doing</strong></p><ul><li><p>Provide Level 2 technical support to clients across a range of IT environments</p></li><li><p>Investigate and resolve escalated technical issues</p></li><li><p>Troubleshoot hardware, software, network and connectivity issues</p></li><li><p>Support Microsoft and cloud-based environments</p></li><li><p>Diagnose issues across desktops, servers and network infrastructure</p></li><li><p>Manage tickets through to resolution while maintaining clear client communication</p></li><li><p>Escalate complex issues appropriately and work collaboratively with other engineers</p></li><li><p>Assist with maintaining and supporting client infrastructure</p></li><li><p>Contribute to projects, improvements and technology upgrades</p></li><li><p>Document solutions, processes and technical information</p></li><li><p>Build strong relationships with clients through exceptional communication and service</p></li><li><p>Continue developing your technical knowledge and capabilities</p></li></ul><p><strong>&nbsp;</strong></p><p><strong>What We're Looking For</strong></p><p>We're looking for someone who already has a solid foundation in IT support and is ready to take their technical career further.</p><p><br></p><p>You'll ideally have:</p><ul><li><p>Previous experience working in a Level 2 IT Support role or at least 18 months working in a Level 1 IT Support role.</p></li><li><p>Strong troubleshooting and problem-solving capabilities</p></li><li><p>Experience supporting Windows desktop environments</p></li><li><p>Exposure to Microsoft 365 and cloud technologies</p></li><li><p>Understanding of networking fundamentals</p></li><li><p>Experience working with servers and/or infrastructure</p></li><li><p>The ability to diagnose problems rather than simply follow a script</p></li><li><p>Excellent communication and customer service skills</p></li><li><p>Strong attention to detail and documentation skills</p></li><li><p>A positive, proactive and can-do attitude</p></li><li><p>The ability to work independently while being a strong team player</p></li><li><p>A genuine desire to learn, develop and progress your career</p></li></ul><p><br></p><p>Relevant IT qualifications and certifications will be highly regarded, including Microsoft certifications and other industry-recognised technical qualifications.</p><p><br></p><p>We're also interested in where you want to go next. If you're ambitious, enjoy solving problems and want to develop towards L3 Support or Field Engineering, we'd like to hear from you.</p><p><br></p><p><strong>What’s on Offer</strong></p><ul><li><p>$75,000 – $85,000 + superannuation, depending on experience and capability</p></li><li><p>Genuine career development opportunities</p></li><li><p>Clear pathways towards L3 Support or L2/L3 Field Engineering</p></li><li><p>Additional after-hours remuneration on top of your base salary</p></li><li><p>Proactive and supportive work environment</p></li><li><p>Up-to-date technology and equipment</p></li><li><p>Challenging work where you're always learning</p></li><li><p>Burleigh Heads location — work close to home</p></li><li><p>Flexible work options</p></li><li><p>Salary sacrifice plans</p></li><li><p>Employee referral program</p></li><li><p>Peer bonus program</p></li><li><p>Birthday gift voucher and the day off — yes, we don't work birthdays at Ozdoc !</p></li><li><p>Quarterly team-building events</p></li><li><p>Monthly team lunches</p></li><li><p>The opportunity to have your ideas heard and make a genuine contribution</p></li></ul><p><strong>&nbsp;</strong></p><p><strong>Why Ozdoc?</strong></p><p>At Ozdoc, you're not just another technician working through a queue of tickets.</p><p><br></p><p>You'll become part of a close-knit team supporting clients where technology genuinely matters. You'll have exposure to a broad range of environments, the opportunity to work on interesting technical challenges and the support to keep developing your career.</p><p><br></p><p>If you're ready to move beyond Level 2 and want a role where your next step is part of the plan, this could be the opportunity you've been looking for.</p><p><br></p><p><strong>Want to Join the Ozdoc Team?</strong></p><p>If you're an experienced Level 2 Support Engineer ready to build your technical career with an organisation that values its people, its clients and continuous development, we'd love to hear from you.</p><p><br></p><p>Please submit your current resume along with details and evidence of your experience, qualifications and technical capabilities.</p><p><br></p><p>Only applicants meeting the criteria outlined above will be contacted as part of the shortlisting process.</p>",
-      "keywords": [
-        "support",
-        "engineer"
-      ]
-    },
-    {
-      "job_id": "95171312",
-      "job_title": "Junior-Mid Full-Stack Developer",
-      "business_name": "LAPM",
-      "work_type": "Full time",
-      "job_type": "Engineering - Software",
-      "pay_range": "",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95171312",
-      "advertiser_id": "55028276",
-      "posted_date": "2026-10-09T07:21:00Z",
-      "job_description": "<p><strong>The Company</strong></p><p>LAPM specialises in providing top-tier legal practice management, technology and services to law firms across Australia.</p><p>Based on the Gold Coast and growing rapidly, we've built a strong reputation for solving real challenges faced by law firms — from software migrations and implementations to developing innovative legal technology products that make running a law firm easier.</p><p>We are preparing for the official launch of our new legal cloud platform. Designed specifically for Australian law firms, our product brings together matter management, documents, workflows, billing, trust accounting and more into one integrated platform.</p><p>We're looking for an enthusiastic and motivated <strong>Junior–Mid Full-Stack Developer</strong> to join our growing technology team at an exciting stage of our journey.</p><p>You'll help us build new features, improve existing functionality, resolve technical challenges and contribute to the ongoing development of a platform designed to make a genuine difference to how law firms operate.</p><p><strong>The Role</strong></p><p>As a Junior–Mid Full-Stack Developer, you'll work across our application stack, contributing to both frontend and backend development.</p><p>You'll be involved in building intuitive user interfaces, developing backend functionality, working with databases and supporting application testing and deployment. Working closely with our Lead Developer, you'll receive guidance, feedback and opportunities to develop your technical skills while taking ownership of your work.</p><p>We're a growing business with a practical, collaborative approach to development. You'll have the opportunity to see your work make a real impact, contribute ideas and help shape a product as it evolves.</p><p>The role offers flexible remote working, alongside regular collaboration days at our Gold Coast office.</p><p><strong>What You’ll Do</strong></p><ul><li><p><strong>Feature Development:</strong> Write clean, maintainable code to implement new features across the front-end and back-end.</p></li><li><p><strong>Bug Fixing &amp; Maintenance: </strong>Identify, troubleshoot, and resolve performance bottlenecks, UI glitches, and functional bugs, tracing issues to their root cause.</p></li><li><p><strong>Database Work:</strong> Write and optimise SQL queries and help ensure the accuracy of billing and accounting data.</p></li><li><p><strong>Testing:</strong> Write and maintain automated tests to keep our platform stable.</p></li><li><p><strong>Collaboration:</strong> Participate in code reviews, daily stand-ups, and brainstorming sessions to improve platform functionality.</p></li><li><p><strong>Documentation:</strong> Keep codebase documentation up to date to ensure seamless scaling as the team grows.</p></li></ul><p><strong>What We’re Looking For</strong></p><p>We're looking for someone with a solid foundation in software development, strong problem-solving skills and a genuine interest in building great software.</p><p>Ideally, you'll bring:</p><ul><li><p><strong>Experience:</strong> Approximately 2–4 years of experience developing web applications, whether commercially or through a strong portfolio of practical projects.</p></li><li><p><strong>Technical Skills:</strong> Experience with Python and/or TypeScript, with a willingness to work across both. Our technology stack includes Python (FastAPI), React / Next.js, TypeScript and PostgreSQL.</p></li><li><p><strong>Database Knowledge:</strong> Sound SQL skills, including the ability to understand, write and troubleshoot queries.</p></li><li><p><strong>Cloud Awareness:</strong> Familiarity with cloud platforms such as AWS, Microsoft Azure or Google Cloud.</p></li><li><p><strong>Problem-Solving:</strong> Strong analytical and debugging skills, with the ability to investigate issues, understand existing code and develop practical solutions.</p></li><li><p><strong>Code Quality:</strong> An understanding of clean coding principles, version control and good software development practices.</p></li><li><p><strong>Security Awareness:</strong> An appreciation of data privacy, application security and the importance of protecting sensitive client information.</p></li><li><p><strong>Communication &amp; Collaboration:</strong> The ability to communicate effectively, ask questions, receive feedback and work as part of a collaborative team.</p></li><li><p><strong>Working Rights:</strong> Full working rights in Australia.</p></li></ul><p>You don't need to know everything from day one. We're equally interested in your ability to learn, your approach to solving problems and your willingness to develop your skills.</p><p><strong>Nice-to-Haves</strong></p><p>Experience or exposure to any of the following would be advantageous:</p><ul><li><p>Automated testing frameworks and testing practices.</p></li><li><p>CI/CD pipelines, deployment processes and AWS infrastructure.</p></li><li><p>Accounting, billing, financial or other data-intensive software applications.</p></li><li><p>AI APIs, integrations or AI-assisted development tools.</p></li><li><p>Legal technology, fintech, cybersecurity or other industries where data accuracy and security are critical.</p></li></ul><p><strong>The Person</strong></p><p>Beyond your technical skills, we're looking for someone who enjoys building software, solving problems and being part of a team that takes pride in what it delivers.</p><p>You'll be someone who:</p><ul><li><p><strong>Enjoys solving problems</strong> — you're naturally curious, like understanding how things work and aren't afraid to investigate a challenge.</p></li><li><p><strong>Takes pride in your work</strong> — you care about writing quality code, getting the details right and delivering functionality that works as intended.</p></li><li><p><strong>Is keen to learn and grow</strong> — you're open to feedback, willing to ask questions and motivated to continually improve your technical skills.</p></li><li><p><strong>Shows initiative</strong> — you're comfortable working through problems independently while knowing when to seek guidance or collaborate with others.</p></li><li><p><strong>Thinks beyond the code</strong> — you understand that great software isn't just about technical functionality; it's about creating a better experience for the people using it.</p></li><li><p><strong>Works well with others</strong> — you're approachable, communicate clearly and enjoy contributing to a collaborative development environment.</p></li><li><p><strong>Embraces change</strong> — you're adaptable, open to new ideas and comfortable working in a growing business where priorities and opportunities evolve.</p></li><li><p><strong>Wants to make an impact</strong> — you're excited by the opportunity to contribute to a product, see your work come to life and help shape its future.</p></li></ul><p><strong>Most importantly, you'll care about what you're building and the people using it.</strong></p><p>We're not developing software for the sake of it. We're building technology that solves real problems for Australian law firms, and we want someone who shares that focus.</p><p><strong>Why LAPM?</strong></p><p><strong>Be part of something growing.</strong></p><p>You'll be joining an Australian technology company at an exciting stage, with the opportunity to contribute to the ongoing development and launch of our flagship software platform.</p><p><strong>Work on a real product with real impact.</strong></p><p>Your work won't disappear into a backlog of projects. You'll help build and improve software that law firms rely on to manage their day-to-day operations.</p><p><strong>Learn from experienced developers.</strong></p><p>You'll work closely with our Lead Developer, gaining practical experience, technical guidance and opportunities to develop your skills across a modern application stack.</p><p><strong>Have a voice in what we build.</strong></p><p>We're a collaborative team that values ideas, initiative and continuous improvement. You'll have opportunities to contribute to technical discussions, product enhancements and how we approach development.</p><p><strong>Enjoy flexibility and a supportive team.</strong></p><p>We offer flexible working arrangements, with regular opportunities to collaborate in person at our Gold Coast office.</p><p><strong>Grow with the business.</strong></p><p>As LAPM continues to expand, you'll have opportunities to broaden your experience, take on greater responsibility and grow your career alongside our technology team.</p><p>We're a practical, down-to-earth team. We work hard, support each other and take pride in delivering solutions that make a difference.</p><p>If you're looking for an opportunity to develop your skills, contribute to an exciting software product and be part of a growing Australian technology business, we'd love to hear from you.</p><p><strong>The Next Step</strong></p><p>If you're interested in this role and meet the criteria mentioned above, please click 'apply now.' We look forward to receiving your application and discussing how you can contribute to our team.</p>",
-      "keywords": [
-        "stack",
-        "developer"
-      ]
-    },
     {
       "job_id": "95130549",
       "job_title": "Helpdesk Support Officer - Prep to Year 12",
@@ -1127,6 +1076,25 @@
       ]
     },
     {
+      "job_id": "94890083",
+      "job_title": "Innovation Lead (Health Information)",
+      "business_name": "Department of Health - Queensland",
+      "work_type": "Full time",
+      "job_type": "Programme & Project Management",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94890083",
+      "advertiser_id": "32285210",
+      "posted_date": "2026-09-25T15:43:26Z",
+      "job_description": "<div>\n \n <p>This role leads the development and design of information solutions within Health Information that enhance efficiencies, reduce costs, improve data quality, and advance the Health Information agenda.</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for an <strong>Innovation Lead (Health Information)</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Lead the development and design of health information solutions that improve efficiencies, reduce costs and support activity-based funding initiatives</li>\n<li>Provide high quality analysis of complex health care data to support optimisation and automation opportunities</li>\n<li>Develop and implement metrics and reporting mechanisms to track benefits and cost savings of each initiative</li>\n<li>Maintain expertise, provide specialist advice and act as a consultant in the area of health information and data management</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, a relevant qualification would be well regarded:</li>\n<ul>\n<li>Experience with dashboard &amp; app design, automation tools and data analysis techniques.</li>\n<li>Experience with clinical and patient administration systems such as Hospital Based Clinical Information System (HBCIS), and the integrated Medical Record.</li>\n</ul>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $144,315 - $154,879 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Strategy, Transformation and Major Capital division has been established to define, design, enhance delivery and sustainability of our most significant service improvement and digital transformation opportunities.</p>\n<p>Our high-level responsibilities for the division are for corporate strategy and planning and oversight and management of strategic partnerships, service improvement, digital transformation, digital operations, digital assets, digital partnerships, portfolio/program/project management including major capital/infrastructure programs, clinical coding, service disruption, service redesign.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Friday, 9 October 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC693599</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
+      "keywords": [
+        "innovation",
+        "health",
+        "information"
+      ]
+    },
+    {
       "job_id": "94890081",
       "job_title": "Program Delivery Manager",
       "business_name": "Department of Health - Queensland",
@@ -1143,6 +1111,25 @@
         "program",
         "delivery",
         "manager"
+      ]
+    },
+    {
+      "job_id": "94879401",
+      "job_title": "Innovation Lead (Health Information)",
+      "business_name": "Gold Coast Hospital & Health Service",
+      "work_type": "Full time",
+      "job_type": "Management",
+      "pay_range": "$144,315 - $154,879 per annum + 12.75% super",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94879401",
+      "advertiser_id": "32285403",
+      "posted_date": "2026-09-25T05:45:43Z",
+      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for an <strong>Innovation Lead (Health Information)</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Lead the development and design of health information solutions that improve efficiencies, reduce costs and support activity-based funding initiatives</li>\n<li>Provide high quality analysis of complex health care data to support optimisation and automation opportunities</li>\n<li>Develop and implement metrics and reporting mechanisms to track benefits and cost savings of each initiative</li>\n<li>Maintain expertise, provide specialist advice and act as a consultant in the area of health information and data management</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, a relevant qualification would be well regarded:</li>\n<ul>\n<li>Experience with dashboard &amp; app design, automation tools and data analysis techniques.</li>\n<li>Experience with clinical and patient administration systems such as Hospital Based Clinical Information System (HBCIS), and the integrated Medical Record.</li>\n</ul>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $144,315 - $154,879 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Strategy, Transformation and Major Capital division has been established to define, design, enhance delivery and sustainability of our most significant service improvement and digital transformation opportunities.</p>\n<p>Our high-level responsibilities for the division are for corporate strategy and planning and oversight and management of strategic partnerships, service improvement, digital transformation, digital operations, digital assets, digital partnerships, portfolio/program/project management including major capital/infrastructure programs, clinical coding, service disruption, service redesign.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Friday, 9 October 2026</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC693599</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
+      "keywords": [
+        "innovation",
+        "health",
+        "information"
       ]
     },
     {
@@ -1694,6 +1681,25 @@
         "house",
         "web",
         "developer"
+      ]
+    },
+    {
+      "job_id": "94508427",
+      "job_title": "AI Business Analyst",
+      "business_name": "Southport Sharks",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "Fixed Term 6 Month Contract - Salaried Role",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94508427",
+      "advertiser_id": "20817309",
+      "posted_date": "2026-09-09T01:13:24Z",
+      "job_description": "<p>Southport Sharks is looking for a hands on AI Business Analyst to help us unlock greater value from our data and create smarter, more efficient ways of working across the Club.</p><p>You will spend time with our teams, understand how work is really done, connect information across systems and build practical solutions that improve reporting, reduce manual effort and support better decisions.</p><p>With operations spanning Gaming, Food and Beverage, Hotel, Health Club, Membership, Football and corporate services, no two projects will look the same. Hospitality or venue experience will help you quickly understand the pace, complexity and customer focus of our business.</p><p><strong>What you will do</strong></p><ul><li>Reporting to our CFO you will work with leaders to identify inefficiencies, data gaps and high value improvement opportunities.</li><li>Map data flows, gather requirements and translate business needs into clear solution options.</li><li>Combine and improve data from multiple systems to create useful dashboards, reporting and operational insights.</li><li>Build, test and support practical AI, automation and workflow solutions using approved tools.</li><li>Ensure every solution meets privacy, security, risk and responsible AI requirements.</li></ul><p><strong>What you will bring</strong></p><ul><li>Experience across business analysis, data analysis, business intelligence, process improvement or automation.</li><li>Strong skills in requirements gathering, process mapping, problem solving and stakeholder engagement.</li><li>Experience working with dashboards and reporting tools such as Power BI, Tableau or equivalent.</li><li>An applied understanding of AI and automation tools.</li><li>The ability to turn complex data and technical concepts into clear business recommendations.</li><li>A practical, collaborative style and genuine interest in helping teams work better.</li></ul><p><strong>Why join Southport Sharks?</strong></p><ul><li>Great benefits!&nbsp;</li><li>Work on meaningful projects across a diverse and fast moving community organisation.</li><li>See your ideas move from discovery to delivery and create measurable operational impact.</li><li>Partner directly with leaders and teams across the Club.</li><li>Help shape the next stage of Southport Sharks data and AI capability.</li></ul><p><strong>Ready to make an impact?</strong></p><p>If you enjoy getting close to the problem, finding the story in the data and building solutions people will actually use, we would love to hear from you.</p>",
+      "keywords": [
+        "ai",
+        "business",
+        "analyst"
       ]
     }
   ]
