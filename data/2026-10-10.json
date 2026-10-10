@@ -1,393 +1,408 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-10",
   "region": "Gold Coast",
-  "scraped_at": "2026-10-11T09:06:55.227258+10:00",
-  "total_jobs": 66,
+  "scraped_at": "2026-10-10T09:42:59.370896+10:00",
+  "total_jobs": 68,
   "keywords": [
     {
       "term": "support",
       "count": 20,
-      "share": 0.303
+      "share": 0.2941
     },
     {
       "term": "it",
       "count": 12,
-      "share": 0.1818
+      "share": 0.1765
     },
     {
       "term": "engineer",
       "count": 11,
-      "share": 0.1667
+      "share": 0.1618
+    },
+    {
+      "term": "developer",
+      "count": 9,
+      "share": 0.1324
     },
     {
       "term": "manager",
       "count": 9,
-      "share": 0.1364
+      "share": 0.1324
     },
     {
-      "term": "developer",
-      "count": 8,
-      "share": 0.1212
+      "term": "analyst",
+      "count": 7,
+      "share": 0.1029
     },
     {
       "term": "specialist",
       "count": 7,
-      "share": 0.1061
-    },
-    {
-      "term": "analyst",
-      "count": 6,
-      "share": 0.0909
+      "share": 0.1029
     },
     {
       "term": "technology",
       "count": 6,
-      "share": 0.0909
+      "share": 0.0882
     },
     {
       "term": "software",
       "count": 6,
-      "share": 0.0909
+      "share": 0.0882
     },
     {
       "term": "officer",
       "count": 6,
-      "share": 0.0909
+      "share": 0.0882
     },
     {
       "term": "technician",
       "count": 5,
-      "share": 0.0758
+      "share": 0.0735
     },
     {
       "term": "information",
       "count": 4,
-      "share": 0.0606
+      "share": 0.0588
     },
     {
       "term": "communication",
       "count": 4,
-      "share": 0.0606
+      "share": 0.0588
     },
     {
       "term": "delivery",
       "count": 4,
-      "share": 0.0606
+      "share": 0.0588
     },
     {
       "term": "business",
       "count": 3,
-      "share": 0.0455
+      "share": 0.0441
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0455
+      "share": 0.0441
     },
     {
       "term": "engineering",
       "count": 3,
-      "share": 0.0455
+      "share": 0.0441
     },
     {
       "term": "service",
       "count": 3,
-      "share": 0.0455
+      "share": 0.0441
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0455
+      "share": 0.0441
     },
     {
       "term": "project",
       "count": 3,
-      "share": 0.0455
+      "share": 0.0441
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0294
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0294
     },
     {
       "term": "systems",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0294
     },
     {
       "term": "automation",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0294
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0294
     },
     {
       "term": "integration",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0294
     },
     {
       "term": "technical",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0294
     },
     {
       "term": "broadbeach",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0294
     },
     {
       "term": "coordinator",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0294
     },
     {
       "term": "sharepoint",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0294
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0294
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0294
     },
     {
       "term": "test",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0294
     },
     {
       "term": "customer",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0294
     },
     {
       "term": "ai",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "intelligence",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
+    },
+    {
+      "term": "reporting",
+      "count": 1,
+      "share": 0.0147
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "netsuite",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "erp",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "migration",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "customisation",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "associate",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "microsoft",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "modern",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "workplace",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "recent",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "prep",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "year",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "account",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "desktop",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "desk",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "its",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "asset",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "inventory",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "cruise",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "month",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "consultant",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "soc",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "unified",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     },
     {
       "term": "communications",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
+    },
+    {
+      "term": "house",
+      "count": 1,
+      "share": 0.0147
+    },
+    {
+      "term": "web",
+      "count": 1,
+      "share": 0.0147
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0147
     }
   ],
   "jobs": [
@@ -1642,6 +1657,43 @@
         "sharepoint",
         "administrator",
         "month"
+      ]
+    },
+    {
+      "job_id": "94541493",
+      "job_title": "Reporting Analyst",
+      "business_name": "Coral Homes",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "Competitive Salary + Super",
+      "area": "Varsity Lakes, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94541493",
+      "advertiser_id": "29673859",
+      "posted_date": "2026-09-10T03:27:10Z",
+      "job_description": "<p><strong>The Role - Reporting Analyst</strong></p><p>We're seeking a Reporting Analyst to work closely with stakeholders and management to understand reporting needs and translate them into practical solutions. In this role, you'll gather requirements, refine existing reports, and develop new reporting outputs that support decision-making across the organisation - from sales and permits through to construction, service &amp; warranty, and finance. You'll collaborate with an experienced BI team while owning your own reporting tasks, and there's scope to go deeper into our data platform - ETL, integrations, and automation, depending on your strengths.</p><p>You'll be working with Microsoft SQL Server and reporting tools (both paginated and interactive reports built in Power BI and/or Report Builder), with data sourced from our Construction Management systems (Framework/Databuild) and other line-of-business applications.</p><p>This is a full-time position based at our Head Office in Varsity Lakes, working 8:30am-5pm Monday - Thursday and 8:30am - 4pm Fridays.</p><p><strong>Duties &amp; Responsibilities</strong></p><ul><li><p>Build, maintain, and enhance reports and dashboards using SSRS/Report Builder and Power BI</p></li><li><p>Work with business stakeholders to clarify reporting needs, document requirements, and see requests through to sign-off</p></li><li><p>Write and update SQL queries to extract and prepare data from line-of-business applications, including ad-hoc extracts for management and finance</p></li><li><p>Troubleshoot reporting issues end to end - report errors, failed refreshes, subscription faults, and data discrepancies - through to root cause</p></li><li><p>Manage report server access, security, and scheduled subscriptions, including provisioning as staff join, move, or leave</p></li><li><p>Maintain recurring reports delivered to external partners and suppliers</p></li><li><p>Perform data validation and reasonableness checks</p></li><li><p>Contribute to ETL processes, external data integrations, and automation across the BI environment</p></li><li><p>Use source control (Azure DevOps/Git) and task tracking to keep all work versioned, documented, and supportable by the team</p></li></ul><p><strong>About You</strong></p><p>To be successful in this role you will have:&nbsp;</p><ul><li><p>Experience creating reports or dashboards in SSRS, Power BI, or similar reporting tools</p></li><li><p>Working knowledge of SQL and a willingness to continue building SQL skills</p></li><li><p>Familiarity with AI coding tools to assist development (i.e. Claude Code, Codex)</p></li><li><p>Ability to understand business questions and translate them into clear reporting outputs</p></li><li><p>Strong communication skills and confidence working with non-technical stakeholders</p></li><li><p>A service-oriented approach,&nbsp;comfortable managing and prioritising a queue of requests</p></li><li><p>Attention to detail and an interest in data accuracy and storytelling with data</p></li><li><p>Familiarity with version control practices, or a willingness to learn</p></li></ul><p><strong>Highly regarded, but not required</strong></p><ul><li><p>Scripting for automation (Python, PowerShell) or experience with APIs and ETL pipelines</p></li><li><p>Power BI Report Server / SSRS administration experience</p></li><li><p>Exposure to enterprise construction management system data (specifically Framework and Databuild) or the residential construction industry</p></li></ul><p><strong>About Us</strong></p><p>Coral Homes is one of Queensland’s largest and most trusted home builders, with an expansive display home program and a service region spanning most of Australia’s eastern seaboard. Our commitment to quality, value, and exceptional customer service has earned us a strong reputation for delivering on our promises.</p><p>Our success is built on a culture of service excellence. From our sales consultants to our head office team and construction professionals, every member of the Coral Homes team is dedicated to providing a seamless and rewarding home-building journey.&nbsp;</p><p><strong>How to Apply</strong></p><p>To be considered for this position, please apply now with your CV and a tailored cover letter. Applications will be reviewed as they are received. For further information, please contact&nbsp;Taylor Fifield at&nbsp;<a href=\"mailto:careers@coralhomes.com.au\">careers@coralhomes.com.au</a></p><p>At Coral Homes, we are committed to employing individuals who align with our core business values and meet the requirements of the role. As part of the recruitment process, there are a number of compliance checks which may be conducted for a role including police /criminal background checks, medical, drug, and alcohol testing, and reference checks.</p><p><strong>Only Australian or New Zealand Citizens, Australian Permanent Residency holders, and candidates with full-work rights in Australia should apply.</strong></p>",
+      "keywords": [
+        "reporting",
+        "analyst"
+      ]
+    },
+    {
+      "job_id": "94536326",
+      "job_title": "In-house Junior Web Developer",
+      "business_name": "Jade Finance Australia",
+      "work_type": "Full time",
+      "job_type": "Web Development & Production",
+      "pay_range": "",
+      "area": "Varsity Lakes, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94536326",
+      "advertiser_id": "44558677",
+      "posted_date": "2026-09-10T01:06:16Z",
+      "job_description": "<p><strong>In-house Junior Web Developer</strong></p><p><strong>Jade Finance Australia</strong></p><p><strong>Location:</strong> Varsity Lakes, Gold Coast, QLD<br><strong>Job Type:</strong> Full-Time, On-Site</p><p><br><strong>About Us</strong></p><p>Jade Finance is an Australian finance brokerage operating nationally, providing asset finance to individuals and businesses. We’re a people-first business that values strong working relationships, collaboration, and the environments we create within our team. Building a positive culture is central to how we operate, and we look for like-minded people who want to grow with a business that values commitment, teamwork, and long-term development.</p><p><br></p><hr><p><br></p><h2><strong>The Opportunity</strong></h2><p>We’re expanding our in-house development team and are looking for a talented Junior Web Developer to join Jade Finance on a full-time, on-site basis.</p><p>This role is ideal for a developer who enjoys building, maintaining, and improving real-world digital products. You’ll work closely with marketing, design, and internal stakeholders to deliver high-quality web solutions that directly support the business.</p><p><br></p><hr><p><br></p><h2><strong>About the Role</strong></h2><p>You’ll play a hands-on role across our websites and internal projects, with responsibilities including:</p><ul><li><p>Developing, maintaining, and improving company websites and internal web projects</p></li><li><p>Building, customising, and maintaining WordPress websites, including themes, layouts, plugins, performance, and integrations</p></li><li><p>Writing clean, efficient, and well-structured code across front-end and back-end components</p></li><li><p>Troubleshooting, debugging, and resolving website and application issues</p></li><li><p>Working collaboratively with internal teams to gather requirements and deliver solutions</p></li><li><p>Providing progress updates and supporting smooth testing and deployments</p></li></ul><p><br></p><hr><p><br></p><h2><strong>What We’re Looking For</strong></h2><ul><li><p>Experience with WordPress, HTML, CSS, JavaScript, React.js, and PHP</p></li><li><p>Ability to work independently and troubleshoot both front-end and back-end issues</p></li><li><p>High attention to detail with strong problem-solving skills</p></li><li><p>Clear communication skills and the ability to work collaboratively in a team environment</p></li><li><p>Strong organisational and time-management skills</p></li><li><p>Experience with Zapier and API integrations is advantageous but not required</p></li><li><p>Must have full Australian work rights</p></li></ul><p><br></p><hr><p><br></p><h2><strong>Please Note</strong></h2><p>This is a <strong>full-time, on-site position</strong> based at our <strong>Varsity Lakes office</strong>.</p><p>To demonstrate that you’ve read the job description, please include the phrase <strong>“Better Finance, Better Loans”</strong> at the top of your cover letter.</p><p><br></p><hr><p><br></p><h2><strong>How to Apply</strong></h2><p>If this role sounds like a good fit and you’re interested in joining our team, please submit the following via SEEK:</p><p>a) Resume<br>b) Cover letter</p><p>If you have any questions about the role, you’re welcome to contact our recruitment team at <strong><a href=\"mailto:info@jade.finance\">info@jade.finance</a></strong>.</p><p><br></p><p>Socials:</p><p>https://www.facebook.com/cheaperloans/</p><p>https://au.linkedin.com/company/jade-finance-australia</p><p>https://www.instagram.com/jadefinance_/</p>",
+      "keywords": [
+        "house",
+        "web",
+        "developer"
       ]
     }
   ]
