@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "region": "Gold Coast",
-  "scraped_at": "2026-10-11T09:06:55.227258+10:00",
+  "scraped_at": "2026-10-12T09:19:37.247538+10:00",
   "total_jobs": 66,
   "keywords": [
     {
@@ -60,6 +60,11 @@
       "share": 0.0758
     },
     {
+      "term": "engineering",
+      "count": 4,
+      "share": 0.0606
+    },
+    {
       "term": "information",
       "count": 4,
       "share": 0.0606
@@ -85,17 +90,7 @@
       "share": 0.0455
     },
     {
-      "term": "engineering",
-      "count": 3,
-      "share": 0.0455
-    },
-    {
       "term": "service",
-      "count": 3,
-      "share": 0.0455
-    },
-    {
-      "term": "administrator",
       "count": 3,
       "share": 0.0455
     },
@@ -150,7 +145,7 @@
       "share": 0.0303
     },
     {
-      "term": "sharepoint",
+      "term": "administrator",
       "count": 2,
       "share": 0.0303
     },
@@ -270,6 +265,11 @@
       "share": 0.0152
     },
     {
+      "term": "account",
+      "count": 1,
+      "share": 0.0152
+    },
+    {
       "term": "field",
       "count": 1,
       "share": 0.0152
@@ -286,11 +286,6 @@
     },
     {
       "term": "goldcoast",
-      "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "account",
       "count": 1,
       "share": 0.0152
     },
@@ -335,7 +330,7 @@
       "share": 0.0152
     },
     {
-      "term": "month",
+      "term": "sharepoint",
       "count": 1,
       "share": 0.0152
     },
@@ -371,6 +366,16 @@
     },
     {
       "term": "soc",
+      "count": 1,
+      "share": 0.0152
+    },
+    {
+      "term": "team",
+      "count": 1,
+      "share": 0.0152
+    },
+    {
+      "term": "formwork",
       "count": 1,
       "share": 0.0152
     },
@@ -1058,6 +1063,25 @@
       ]
     },
     {
+      "job_id": "94912207",
+      "job_title": "Engineering Team Lead - Formwork",
+      "business_name": "Acrow Formwork & Scaffolding Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Team Leaders",
+      "pay_range": "",
+      "area": "Stapylton, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/94912207",
+      "advertiser_id": "26233013",
+      "posted_date": "2026-09-28T03:48:45Z",
+      "job_description": "<h2>The Opportunity</h2><p>We are seeking an experienced <strong>Formwork Team Leader</strong> to lead the engineering design, drafting and certification of formwork projects across Queensland.</p><p>This is a senior technical and leadership role suited to a <strong>Chartered Structural Engineer with substantial hands-on experience designing and certifying formwork, falsework and shoring systems</strong>.</p><p>You will lead a specialist engineering team while remaining actively involved in complex engineering work — reviewing project requirements, developing solutions, undertaking structural analysis, reviewing designs and providing engineering certification.</p><p>Our formwork projects regularly involve challenging geometries, significant loads, unusual support conditions and bespoke formwork arrangements. The role offers the opportunity to work on <strong>interesting, technically demanding building and civil infrastructure projects throughout Queensland</strong>.</p><h2></h2><h2>What You’ll Be Doing</h2><ul><li><p>Lead the engineering and drafting delivery of formwork projects in Queensland</p></li><li><p>Manage, mentor and provide technical direction to engineers, designers and drafters within the team</p></li><li><p>Design, analyse, review and <strong>certify formwork, falsework and shoring systems</strong></p></li><li><p>Undertake structural analysis and detailed engineering calculations for conventional and bespoke formwork arrangements</p></li><li><p>Develop practical engineering solutions for complex site constraints, concrete pours and construction sequences</p></li><li><p>Undertake and review <strong>FEA and frame analysis models</strong></p></li><li><p>Review Revit models, formwork layouts, engineering drawings and design documentation</p></li><li><p>Ensure designs comply with applicable Australian Standards, Codes of Practice and safety-in-design requirements</p></li><li><p>Provide technical support to project, sales and site teams</p></li><li><p>Liaise directly with clients regarding engineering requirements and technical solutions</p></li><li><p>Resolve complex engineering and site issues</p></li><li><p>Review and approve engineering documentation prior to issue</p></li><li><p>Support the technical development and mentoring of engineers and drafters within the wider engineering team</p></li></ul><h2></h2><h2>About You</h2><p>The successful candidate will have:</p><ul><li><p><strong>Chartered Professional Engineer (CPEng) status</strong></p></li><li><p>Degree in Civil or Structural Engineering</p></li><li><p><strong>Significant experience designing and certifying formwork, falsework and shoring systems – essential</strong></p></li><li><p>Strong structural engineering and temporary works design capability</p></li><li><p>Professional experience using Autodesk REVIT &amp; Autodesk AutoCAD</p></li><li><p>Strong experience using structural analysis / FEA software such as <strong>SpaceGass, Microstran, RSTAB or Strand7</strong></p></li><li><p>Strong understanding of Australian structural design standards and codes of practice</p></li><li><p>Demonstrated ability to undertake detailed structural calculations and independently verify complex designs</p></li><li><p>Experience leading, mentoring or technically supervising engineers, designers and drafters</p></li><li><p>Ability to develop practical solutions to unusual and technically challenging problems</p></li></ul><h2></h2><h2>Why Join Us?</h2><p>This is an opportunity to take a leading technical role within a major Australian formwork and temporary works engineering business.</p><p>You will work on a broad range of <strong>interesting and challenging formwork projects</strong>, with the opportunity to influence engineering solutions from initial concept through to final certification and site delivery.</p><p>The position combines <strong>technical engineering, design and drafting coordination, project leadership and people leadership</strong>, while allowing you to remain closely involved in the complex engineering work.</p><p>We offer a <strong>competitive salary package based on experience</strong>, strong technical support and the opportunity to work with a large national engineering team.</p><p><strong>T</strong>he role is based at our <strong>Stapylton, QLD office, supporting formwork projects throughout Queensland</strong>.</p><p>If you are an experienced Chartered Structural Engineer with specialist formwork design experience and are ready to lead technically challenging projects and a high-performing engineering and drafting team, we would like to hear from you.</p>",
+      "keywords": [
+        "engineering",
+        "team",
+        "formwork"
+      ]
+    },
+    {
       "job_id": "94904121",
       "job_title": "Business Graduate – Operations & AI",
       "business_name": "ZWECK",
@@ -1623,25 +1647,6 @@
         "customer",
         "support",
         "specialist"
-      ]
-    },
-    {
-      "job_id": "94575042",
-      "job_title": "SharePoint Administrator (12-Month Contract)",
-      "business_name": "PICA Group",
-      "work_type": "Contract/Temp",
-      "job_type": "Networks & Systems Administration",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94575042",
-      "advertiser_id": "61585221",
-      "posted_date": "2026-09-11T06:24:23Z",
-      "job_description": "<p>Take the lead, recommend, and implement an&nbsp;end-to-end SharePoint ecosystem redesign, and document management strategy.</p><p><br></p><p>Join PICA Group on an initial 12-month fixed-term contract to modernise and strengthen SharePoint information architecture governance, document management and collaborative work practices.</p><p><br></p><ul><li>Lead a SharePoint governance and optimisation program</li><li>Drive governance, data/document management and migration and archiving initiatives</li><li>Work with stakeholders across the business to improve collaboration and information management and security</li></ul><p>As one of Australia's largest strata and property services companies, we provide competitive remuneration, flexibility and the opportunity to work on meaningful technology initiatives that support thousands of customers and employees nationally.</p><p>The impact you'll have: </p><p>Information is one of PICA Group's most valuable assets. In this role, you'll help improve the way business information is stored, managed, protected and shared across our environment.</p><p>Working closely with stakeholders across the business, you'll strengthen SharePoint governance, improve information management practices and support the migration of business data into secure, well-structured solutions that enable better collaboration and decision-making.</p><p>What you'll do:</p><ul><li>Recommend and implement initiatives to optimise, restructure and maintain SharePoint Online sites, libraries and document structures. </li><li>Lead file migrations from network drives and legacy platforms into SharePoint. </li><li>Improve permissions, access controls and site ownership across the business. </li><li>Establish governance standards for naming conventions, retention and document management. </li><li>Partner with stakeholders to deliver secure, practical and easy-to-use solutions.</li></ul><p>What you'll bring:</p><ul><li>Strong hands-on experience administering SharePoint Online.</li><li>Experience managing permissions, site structures and information architecture.</li><li>Knowledge of governance, retention, compliance and document management practices.</li><li>Strong stakeholder engagement and problem-solving skills.</li><li>Exposure to Microsoft Purview, DLP, PowerShell, Teams, OneDrive or Azure Files will be highly regarded.</li></ul><p>What's in it for you:</p><p>At PICA Group, we want you to thrive. Here’s how we support you. </p><ul><li>Growth: Gain training and career path options across PICA Group. </li><li>Flexibility: Balance work and life with 50/50 hybrid options. </li><li>Challenge: Lead meaningful governance, migration and optimisation initiatives that deliver lasting business impact.</li><li>Belonging: Join a supportive team where collaboration and relationships matter.</li><li>Giving Back: Help create a secure, well-governed digital workplace that enables teams to work smarter and collaborate effectively.</li><li>PICA Perks: Discounts and wellbeing programs that support life inside and outside of work. </li></ul><p><br></p><p>Who is PICA Group?</p><p>We're Australia's leading strata and property services provider, with a trusted network of specialists in strata and facilities management, property development, debt recovery and legal services. For more than 70 years, we've enhanced community living by caring for one of our customers' most valuable assets, their home.</p><p>We're also proud to be officially recognised as a Great Place to Work®. Our employees recently participated in an external survey, and 91% of our employees said that PICA Group is a Great Place to Work™.</p><p>If you're looking for a workplace where you can grow, feel supported, deliver real value through technology, and help create a great place to work, this could be the perfect opportunity.</p><p>Everything we do is guided by our values: Say It Straight | Collaborate | Simplicity | Focus on Solutions | Delight the Customer | Get Things Done</p><p>How to apply:</p><p>If you're ready to play a key role in strengthening PICA Group's Microsoft 365 and SharePoint environment, we'd love to hear from you.</p><p>At PICA Group, we value diversity and encourage a speak-up culture where our people bring their whole selves to work to enhance community living for all.</p><p>For up-to-date information about PICA Group, visit us:</p><p>https://www.linkedin.com/company/prudential-investment-company-of-australia/mycompany/</p><p>https://picagroup.com.au/</p><p>You must have the right to live and work in Australia to be considered for this opportunity.</p><p>It is PICA Group's policy not to accept speculative CVs from agencies unless the role has been released directly to the agency. Should we require assistance from agencies, a member of the Talent Acquisition team will contact agencies directly.</p><p><br></p><p><br></p>\n\n",
-      "keywords": [
-        "sharepoint",
-        "administrator",
-        "month"
       ]
     }
   ]
