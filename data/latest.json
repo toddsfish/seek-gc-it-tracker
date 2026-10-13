@@ -1,401 +1,439 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "region": "Gold Coast",
-  "scraped_at": "2026-10-12T09:19:37.247538+10:00",
-  "total_jobs": 66,
+  "scraped_at": "2026-10-13T11:44:22.546271+10:00",
+  "total_jobs": 60,
   "keywords": [
     {
       "term": "support",
-      "count": 20,
-      "share": 0.303
+      "count": 14,
+      "share": 0.2333
     },
     {
       "term": "it",
-      "count": 12,
-      "share": 0.1818
-    },
-    {
-      "term": "engineer",
-      "count": 11,
+      "count": 10,
       "share": 0.1667
     },
     {
-      "term": "manager",
+      "term": "engineer",
       "count": 9,
-      "share": 0.1364
+      "share": 0.15
     },
     {
       "term": "developer",
       "count": 8,
-      "share": 0.1212
+      "share": 0.1333
     },
     {
-      "term": "specialist",
+      "term": "manager",
       "count": 7,
-      "share": 0.1061
+      "share": 0.1167
     },
     {
       "term": "analyst",
       "count": 6,
-      "share": 0.0909
-    },
-    {
-      "term": "technology",
-      "count": 6,
-      "share": 0.0909
-    },
-    {
-      "term": "software",
-      "count": 6,
-      "share": 0.0909
+      "share": 0.1
     },
     {
       "term": "officer",
       "count": 6,
-      "share": 0.0909
+      "share": 0.1
     },
     {
       "term": "technician",
       "count": 5,
-      "share": 0.0758
+      "share": 0.0833
     },
     {
-      "term": "engineering",
+      "term": "software",
       "count": 4,
-      "share": 0.0606
-    },
-    {
-      "term": "information",
-      "count": 4,
-      "share": 0.0606
-    },
-    {
-      "term": "communication",
-      "count": 4,
-      "share": 0.0606
+      "share": 0.0667
     },
     {
       "term": "delivery",
       "count": 4,
-      "share": 0.0606
+      "share": 0.0667
     },
     {
       "term": "business",
       "count": 3,
-      "share": 0.0455
+      "share": 0.05
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0455
+      "share": 0.05
+    },
+    {
+      "term": "specialist",
+      "count": 3,
+      "share": 0.05
     },
     {
       "term": "service",
       "count": 3,
-      "share": 0.0455
+      "share": 0.05
     },
     {
       "term": "project",
       "count": 3,
-      "share": 0.0455
+      "share": 0.05
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0333
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0333
     },
     {
       "term": "systems",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0333
     },
     {
       "term": "automation",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0333
+    },
+    {
+      "term": "technology",
+      "count": 2,
+      "share": 0.0333
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0333
+    },
+    {
+      "term": "engineering",
+      "count": 2,
+      "share": 0.0333
     },
     {
       "term": "integration",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0333
     },
     {
       "term": "technical",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0333
     },
     {
       "term": "broadbeach",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0333
     },
     {
       "term": "coordinator",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0333
     },
     {
       "term": "administrator",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0333
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0333
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0333
     },
     {
       "term": "test",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0333
     },
     {
       "term": "customer",
       "count": 2,
-      "share": 0.0303
+      "share": 0.0333
     },
     {
       "term": "ai",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "intelligence",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "netsuite",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "erp",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "migration",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "customisation",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "associate",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "microsoft",
-      "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "modern",
-      "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "workplace",
-      "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "recent",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "prep",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "year",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "account",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "desktop",
       "count": 1,
-      "share": 0.0152
-    },
-    {
-      "term": "ongc",
-      "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "desk",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "its",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "asset",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "inventory",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "cruise",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
+    },
+    {
+      "term": "nursing",
+      "count": 1,
+      "share": 0.0167
+    },
+    {
+      "term": "director",
+      "count": 1,
+      "share": 0.0167
+    },
+    {
+      "term": "digital",
+      "count": 1,
+      "share": 0.0167
+    },
+    {
+      "term": "experience",
+      "count": 1,
+      "share": 0.0167
+    },
+    {
+      "term": "portfolio",
+      "count": 1,
+      "share": 0.0167
+    },
+    {
+      "term": "management",
+      "count": 1,
+      "share": 0.0167
     },
     {
       "term": "consultant",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "soc",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "formwork",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "unified",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "communications",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0152
+      "share": 0.0167
     }
   ],
   "jobs": [
+    {
+      "job_id": "95223561",
+      "job_title": "Portfolio Management Principal",
+      "business_name": "Southern Cross University",
+      "work_type": "Full time",
+      "job_type": "Programme & Project Management",
+      "pay_range": "$146,718 - $165,887 plus 17% superannuation",
+      "area": "Bilinga, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95223561",
+      "advertiser_id": "15012749",
+      "posted_date": "2026-10-13T01:24:19Z",
+      "job_description": "<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing <a href=\"https://www.scu.edu.au/southern-cross-model/\" target=\"_self\">Southern Cross Model</a> brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity</strong></p>\n<p>Technology Services is evolving how technology is delivered and operated across Southern Cross University, with a focus on reliable services, high-quality delivery and technology that delivers lasting value.</p>\n<p>As Portfolio Management Principal, you'll lead the priroitisation, delivery and operational performance of technology products and services across the University. You'll ensure technology solutions meet business needs, operate reliably and deliver measurable outcomes.</p>\n<p>Working closely with leaders, delivery teams, engineering and platform specialists, vendors and senior stakeholders, you'll balance competing priorities, resolve complex delivery challenges and ensure operational requirements are considered throughout the technology lifecycle. You'll drive continuous improvement across service performance, release quality, technical risk and product value, while ensuring our technology platforms remain secure, well-supported and fit for purpose.</p>\n<p>This is a senior leadership opportunity for someone who combines strong technical delivery and product expertise with operational judgement and commercial acumen. You'll also play a key role in developing people, strengthening delivery capability and creating an environment where teams can deliver high-quality outcomes and continually improve how they work.</p>\n<p>You will make an impact by:</p>\n<ul>\n<li>Leading and influencing technology prioritisation, delivery and operations from design through to ongoing support</li>\n<li>Driving service reliability, performance, release quality and risk management</li>\n<li>Aligning product priorities and delivery plans with University needs</li>\n<li>Strengthening vendor performance, commercial outcomes and value for money</li>\n<li>Building high-performing teams and improving technical delivery capability</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<p>You're an experienced technology delivery and product leader who understands that successful technology outcomes depend on more than getting projects across the line. You know how to bring together product value, technical quality and operational reliability to deliver solutions that work for the organisation over the long term.</p>\n<p>You combine strategic thinking with hands-on delivery and operational experience, and are confident navigating complex technology environments. You can translate business needs into clear delivery priorities, make informed decisions about competing demands and work across technical and business teams to resolve challenges and maintain momentum.</p>\n<p>You're also a capable people leader who develops talent, builds strong working relationships and leads teams through change. You value continuous improvement, understand the importance of effective vendor partnerships and can balance commercial considerations with service quality and long-term sustainability.</p>\n<p>To succeed in this role, you will also need:</p>\n<ul>\n<li>A relevant degree and substantial technology delivery or product leadership experience</li>\n<li>Experience delivering complex technology solutions through to live operation and support</li>\n<li>Strong knowledge of enterprise platforms, service performance and operational risk</li>\n<li>Proven capability in vendor management, contract negotiation and commercial outcomes</li>\n<li>Experience developing teams, improving delivery practices and leading organisational change</li>\n</ul>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/gold-coast/\" target=\"_self\">Gold Coast</a>, <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/coffs-harbour/\" target=\"_self\">Coffs Harbour</a> and the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/lismore/\" target=\"_self\">Northern Rivers</a> region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li>Full-time, continuing (permanent)</li>\n<li>Located at Gold Coast, QLD 4225. Relocation assistance is available, making it easier to join our regional communities</li>\n<li>HEW Level 10. The base salary ranges from $146,718 - $165,887 per annum, plus 17% employer’s contribution to superannuation. The total remuneration package is up to $194,087.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit <a href=\"https://www.scu.edu.au/about/jobs-at-southern-cross/why-work-at-southern-cross-university/\" target=\"_self\">Why work at Southern Cross University?</a></p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>To view the full position advertisement and details of the application process, please click on the APPLY button where you will be redirected to the Southern Cross University website. &nbsp;&nbsp;</p>\n<p><strong>Applications close 11.30pm AEDT 27 October 2026.</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. &nbsp;Employer visa sponsorship is not available for this position.</p>\n<p>Applicants must apply online and attach a CV and cover letter. The cover letter must clearly address each selection criterion in the position description. Information to support you prepare your application is available on our <a href=\"https://www.scu.edu.au/about/jobsscu/vacancies/applying-for-a-position/\" target=\"_self\">website.</a></p>\n<p><em>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to </em><a href=\"mailto:jobs@scu.edu.au\" target=\"_self\"><em>jobs@scu.edu.au.</em></a></p>\n<p><strong>#LI-VC1</strong></p>\n<p><strong>#GC</strong></p>\n",
+      "keywords": [
+        "portfolio",
+        "management"
+      ]
+    },
+    {
+      "job_id": "95211410",
+      "job_title": "Nursing Director (Digital Experience)",
+      "business_name": "Department of Health - Queensland",
+      "work_type": "Full time",
+      "job_type": "Product Management & Development",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95211410",
+      "advertiser_id": "32285210",
+      "posted_date": "2026-10-12T08:34:09Z",
+      "job_description": "<div>\n \n <p>The primary focus of this role is to enhance efficiency and service delivery improvements to optimise Health Service performance. </p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Nursing Director (Digital Experience)</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Direct the implementation and change management for clinical digital initiatives</li>\n<li>Provide authoritative counsel to Clinical Governance Committee regarding the use and opportunity for digital to support safe clinical care</li>\n<li>Identify and resolve complex clinical, operational and professional issues across multiple digital initiatives</li>\n<li>Provide authoritative, expert and timely advice on digital healthcare strategies</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>Qualifications – Bachelor of Nursing or equivalent</li>\n<li>Registration with the Nursing Midwifery Board of Australia</li>\n<li>Evidence of vaccination, or be able to be vaccinated against and remain vaccinated against - Measles, Mumps, Rubella, Varicella, Pertussis and Hepatitis B</li>\n<li>Tuberculosis screening, to identify if the tuberculosis vaccination may be required</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary $184,991 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028.</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture. DHI is responsible for enhancing efficiency and service delivery improvements to optimise Health Service performance. It also oversees strategic partnerships that help the Health Service implement alternative models of service delivery, ensuring value for money, and driving improvements in performance, and innovation.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Monday, 26 October 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC694661</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
+      "keywords": [
+        "nursing",
+        "director",
+        "digital",
+        "experience"
+      ]
+    },
     {
       "job_id": "95172758",
       "job_title": "IT Support Officer - Level 1 (or Recent Graduate)",
@@ -885,67 +923,6 @@
       ]
     },
     {
-      "job_id": "94934279",
-      "job_title": "Information Communication Technology Support Specialist",
-      "business_name": "Department of Health - Queensland",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94934279",
-      "advertiser_id": "32285210",
-      "posted_date": "2026-09-29T01:43:54Z",
-      "job_description": "<div>\n \n <p>This role provides high-quality support for end-user devices, systems, and collaboration technologies to ensure staff can work effectively and securely.</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for an <strong>Information Communication Technology Support Specialist</strong></p>\n<p>to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Deliver frontline support for end-user devices, systems, and services, ensuring timely resolution of incidents and service requests</li>\n<li>Provide technical expertise in the deployment, configuration, maintenance, and lifecycle management of end-user devices</li>\n<li>Contribute to the planning, testing, and rollout of new technologies, upgrades, and patches</li>\n<li>Provide hands-on support and proactive monitoring of Audio-Visual solutions, meeting room technology, and other user-facing collaboration tools</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, any relevant qualification would be well regarded</li>\n<li>Available to work extended hours beyond standard business hours at times or on call</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $111,993 - $121,853 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028.</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Monday, 12 October 2026.</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC693795</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
-      "keywords": [
-        "information",
-        "communication",
-        "technology",
-        "support",
-        "specialist"
-      ]
-    },
-    {
-      "job_id": "94934266",
-      "job_title": "Senior Information Communication Technology Support Specialist",
-      "business_name": "Department of Health - Queensland",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94934266",
-      "advertiser_id": "32285210",
-      "posted_date": "2026-09-29T01:43:39Z",
-      "job_description": "<div>\n \n <p>The role is to assist and support the Technology Operations Team in the development, implementation and support of technical solutions. </p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for a<strong> Senior Information Communication Technology Support Specialist</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Support and mentor the Technology Operations team in accordance with the approved Information Technology Service Management</li>\n<li>Establish and maintain highly effective working relationships with other technical specialists, application specialists and end user</li>\n<li>Undertake risk and issues identification, assessment and mitigation activities by ensuring risks and issues are documented, reviewed and escalated as appropriate</li>\n<li>Identify, coordinate, develop and implement strategies and work practices which will improve the workflow, efficiency and effectiveness of the team</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>Demonstrated ability in following, developing and promoting ITIL service management processes primarily incident/problem/test/change and configuration management. (SFIA: USUP Level 4, PBMG Level 4, CHMG Level 4, CFMG Level 3, TEST Level 4.)</li>\n<li>Provide high level of technical expertise to provide technical direction, standardisation, professional advice and support of enterprise infrastructure in a large customer focus organisation. (SFIA: ITOP Level 4, TECH Level 5)</li>\n<li>Proven experience in providing expertise and support on use of methods and tools (3rd level of support) within the technology sphere (SFIA ARCH 5, METL5, DESN 5)</li>\n<li>Ability to participate in on-call arrangements and out of standard working hours is a requirement for this position. Appropriate remuneration under the Award will apply.</li>\n<li>While not mandatory, a relevant Information Technology qualification would be well regarded.</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $128,748 - $137,911 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028.</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Monday, 12 October 2026.</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC693762</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
-      "keywords": [
-        "information",
-        "communication",
-        "technology",
-        "support",
-        "specialist"
-      ]
-    },
-    {
-      "job_id": "94934252",
-      "job_title": "Software Engineering Manager",
-      "business_name": "Department of Health - Queensland",
-      "work_type": "Full time",
-      "job_type": "Management",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94934252",
-      "advertiser_id": "32285210",
-      "posted_date": "2026-09-29T01:43:24Z",
-      "job_description": "<div>\n \n <p>This role leads the software development function within Digital Experience, responsible for engineering strategy, governance, security, and enterprise software solutions.</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Software Engineering Manager</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Lead and manage development teams across multiple streams including recruitment, onboarding, performance management, professional development and day-to-day operations</li>\n<li>Set and maintain engineering standards, code quality frameworks and technical governance across the development portfolio</li>\n<li>Oversee agile delivery practices across development teams, including scoping, technical direction, engineering-driven work items and supporting on complex decisions</li>\n<li>Partner with product management to shape product-engineering decisions, informing technical feasibility and influencing roadmap priorities</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>Tertiary degree in Information Technology, Computer Science, Software Engineering, or an equivalent qualification.</li>\n<li>Proven experience leading and managing software development teams across multiple technical disciplines</li>\n<li>Strong understanding of modern software development lifecycle practices, agile methodologies and engineering management principles</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $160,092 - $169,398 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services Strategic Plan 2028.</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Monday, 12 October 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC693713</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
-      "keywords": [
-        "software",
-        "engineering",
-        "manager"
-      ]
-    },
-    {
       "job_id": "94934184",
       "job_title": "Unified Communications Technician",
       "business_name": "Department of Health - Queensland",
@@ -999,67 +976,6 @@
       "keywords": [
         "sharepoint",
         "administrator"
-      ]
-    },
-    {
-      "job_id": "94917959",
-      "job_title": "Information Communication Technology Support Specialist",
-      "business_name": "Gold Coast Hospital & Health Service",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$111,993 - $121,853 per annum + 12.75% super",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94917959",
-      "advertiser_id": "32285403",
-      "posted_date": "2026-09-28T06:50:57Z",
-      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for an <strong>Information Communication Technology Support Specialist</strong></p>\n<p>to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Deliver frontline support for end-user devices, systems, and services, ensuring timely resolution of incidents and service requests</li>\n<li>Provide technical expertise in the deployment, configuration, maintenance, and lifecycle management of end-user devices</li>\n<li>Contribute to the planning, testing, and rollout of new technologies, upgrades, and patches</li>\n<li>Provide hands-on support and proactive monitoring of Audio-Visual solutions, meeting room technology, and other user-facing collaboration tools</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, any relevant qualification would be well regarded</li>\n<li>Available to work extended hours beyond standard business hours at times or on call</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $111,993 - $121,853 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028.</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Monday, 12 October 2026.</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC693795</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
-      "keywords": [
-        "information",
-        "communication",
-        "technology",
-        "support",
-        "specialist"
-      ]
-    },
-    {
-      "job_id": "94916069",
-      "job_title": "Senior Information Communication Technology Support Specialist",
-      "business_name": "Gold Coast Hospital & Health Service",
-      "work_type": "Full time",
-      "job_type": "Management",
-      "pay_range": "$128,748 - $137,911 + 12.75% super",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94916069",
-      "advertiser_id": "32285403",
-      "posted_date": "2026-09-28T05:59:32Z",
-      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for a<strong> Senior Information Communication Technology Support Specialist</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Support and mentor the Technology Operations team in accordance with the approved Information Technology Service Management</li>\n<li>Establish and maintain highly effective working relationships with other technical specialists, application specialists and end user</li>\n<li>Undertake risk and issues identification, assessment and mitigation activities by ensuring risks and issues are documented, reviewed and escalated as appropriate</li>\n<li>Identify, coordinate, develop and implement strategies and work practices which will improve the workflow, efficiency and effectiveness of the team</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>Demonstrated ability in following, developing and promoting ITIL service management processes primarily incident/problem/test/change and configuration management. (SFIA: USUP Level 4, PBMG Level 4, CHMG Level 4, CFMG Level 3, TEST Level 4.)</li>\n<li>Provide high level of technical expertise to provide technical direction, standardisation, professional advice and support of enterprise infrastructure in a large customer focus organisation. (SFIA: ITOP Level 4, TECH Level 5)</li>\n<li>Proven experience in providing expertise and support on use of methods and tools (3rd level of support) within the technology sphere (SFIA ARCH 5, METL5, DESN 5)</li>\n<li>Ability to participate in on-call arrangements and out of standard working hours is a requirement for this position. Appropriate remuneration under the Award will apply.</li>\n<li>While not mandatory, a relevant Information Technology qualification would be well regarded.</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $128,748 - $137,911 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028.</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Monday, 12 October 2026.</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC693762</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
-      "keywords": [
-        "information",
-        "communication",
-        "technology",
-        "support",
-        "specialist"
-      ]
-    },
-    {
-      "job_id": "94915861",
-      "job_title": "Software Engineering Manager",
-      "business_name": "Gold Coast Hospital & Health Service",
-      "work_type": "Full time",
-      "job_type": "Management",
-      "pay_range": "$160,092 - $169,398 per annum + 12.75% super",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94915861",
-      "advertiser_id": "32285403",
-      "posted_date": "2026-09-28T05:52:27Z",
-      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Software Engineering Manager</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Lead and manage development teams across multiple streams including recruitment, onboarding, performance management, professional development and day-to-day operations</li>\n<li>Set and maintain engineering standards, code quality frameworks and technical governance across the development portfolio</li>\n<li>Oversee agile delivery practices across development teams, including scoping, technical direction, engineering-driven work items and supporting on complex decisions</li>\n<li>Partner with product management to shape product-engineering decisions, informing technical feasibility and influencing roadmap priorities</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>Tertiary degree in Information Technology, Computer Science, Software Engineering, or an equivalent qualification.</li>\n<li>Proven experience leading and managing software development teams across multiple technical disciplines</li>\n<li>Strong understanding of modern software development lifecycle practices, agile methodologies and engineering management principles</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $160,092 - $169,398 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services Strategic Plan 2028.</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Monday, 12 October 2026</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC693713</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
-      "keywords": [
-        "software",
-        "engineering",
-        "manager"
       ]
     },
     {
@@ -1359,26 +1275,6 @@
       ]
     },
     {
-      "job_id": "94691060",
-      "job_title": "IT Support Engineer, Level 2 - ONGC",
-      "business_name": "Lyra Technology Group",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Arundel, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94691060",
-      "advertiser_id": "62871597",
-      "posted_date": "2026-09-17T02:58:49Z",
-      "job_description": "<p><strong>Lyra Technology Group&nbsp;</strong>is a&nbsp;private&nbsp;equity-backed holding company that invests in and&nbsp;operates&nbsp;industry leading technology service businesses. Our companies are&nbsp;operated&nbsp;independently by exceptional management teams. Companies that join our group&nbsp;retain&nbsp;the employees, name, and culture that have made them successful. As a platform of&nbsp;Evergreen&nbsp;Services&nbsp;Group, we never divest from businesses we partner with and approach every decision with the goal of driving sustainable and healthy growth over the long term.  </p><p></p><p>Our Operating Company, <strong>ONGC</strong>, is looking for an experienced <strong>IT Support Engineer, Level 2 </strong>to join their team in Arundel, GQ.</p><p></p><p><strong></strong></p><p><strong>About The Role</strong></p><p>As a <strong>Level 2 IT Support Engineer</strong>, you'll provide advanced technical support across a diverse range of client environments while managing escalated issues from the Level 1 team. You'll take ownership of incidents from diagnosis through to resolution, contribute to infrastructure improvements, and help deliver an exceptional customer experience.</p><p></p><p><strong>Key Responsibilities</strong></p><ul>\n<li>Provide Level 2 technical support across desktop, server, network, and cloud environments.</li>\n<li>Manage escalated incidents and service requests, ensuring timely resolution.</li>\n<li>Troubleshoot Microsoft 365, Azure, Active Directory, Exchange, and Windows environments.</li>\n<li>Support networking technologies including firewalls, switches, VPNs, and wireless infrastructure.</li>\n<li>Maintain accurate documentation and ticket updates within the PSA system.</li>\n<li>Build strong client relationships through professional communication and outstanding customer service.</li>\n<li>Assist with infrastructure upgrades, migrations, and technology projects.</li>\n<li>Collaborate with Level 3 Engineers on complex technical issues when required.</li>\n</ul><p><strong>About You</strong></p><p>To succeed in this role, you will ideally have MSP experience, excellent troubleshooting skills, and a proactive approach to customer support.</p><p></p><p><strong>Essential Skills &amp; Experience</strong></p><ul>\n<li>3+years' experience in an MSP or similar IT support environment.</li>\n<li>Relevant IT qualifications or equivalent industry experience.</li>\n<li>Experience providing Level 2 support across Microsoft environments.</li>\n<li>Strong knowledge of Microsoft 365, Azure, Active Directory, Exchange Online, andWindows Server.</li>\n<li>Experience supporting networking technologies including switches, firewalls, VPNs and Wi-Fi.</li>\n<li>Excellent communication and customer service skills.</li>\n</ul><p><strong>Preferred Experience</strong></p><ul>\n<li>Microsoft certifications (MS-900, AZ-900, MD-102, MS-102, AZ-104, or similar).</li>\n<li>CompTIA, Cisco, or ITIL certifications.</li>\n<li>Experience with ConnectWise PSA and ConnectWise RMM.</li>\n<li>Exposure to Microsoft Intune, SharePoint, Microsoft Defender, or Azure Virtual Desktop</li>\n</ul><p><strong>Benefits</strong></p><ul>\n<li>Flexible working arrangements – 2 days WFH</li>\n<li>Clear career progression pathways</li>\n<li>Exposure to meaningful, enterprise technology projects</li>\n<li>Supportive, collaborative team culture focused on growth and innovation</li>\n<li>Opportunity to work with emerging AI technologies and innovative automation solutions</li>\n<li>Be part of a values-driven organisation committed to delivering exceptional outcomes for clients across Australia</li>\n</ul><ul><p>&nbsp;</p></ul>",
-      "keywords": [
-        "it",
-        "support",
-        "engineer",
-        "ongc"
-      ]
-    },
-    {
       "job_id": "94689990",
       "job_title": ".Net Engineer",
       "business_name": "Lanson Partners",
@@ -1587,28 +1483,6 @@
         "engineering",
         "manager",
         "machines4u"
-      ]
-    },
-    {
-      "job_id": "94611475",
-      "job_title": "IT Support Engineer (Level 2/3) — Microsoft 365 & Modern Workplace",
-      "business_name": "Tradezone Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Helensvale, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94611475",
-      "advertiser_id": "46711243",
-      "posted_date": "2026-09-14T05:12:36Z",
-      "job_description": "<p><strong>About Us</strong></p><p>Tradezone is the fastest-growing electrical wholesaler in Australia. We launched in 2015 and now operate six state-of-the-art distribution centres across Australia — supplying electrical, solar, HVAC, data and safety products to trade professionals nationwide, with more sites to come.</p><p>We are a division of the Kingston Group, a private, family-owned Australian company that has been wholesaling and distributing for over 40 years. We combine the strength of a national business with the culture of a close-knit team, and pride ourselves on being at the forefront of technology and innovation — from our real-time online platform and live stock visibility to our own national delivery fleet with live delivery tracking.</p><p><br></p><p><strong>About the Role</strong></p><p>We're looking for an IT Support Engineer to join our Gold Coast team and help run and support the technology our people use every day.</p><p>This is a hands-on support and engineering role. You'll look after our Microsoft 365 environment, roll out laptops and hardware across our national network, manage user access and permissions, and handle the escalated technical work that comes through our service desk. As we modernise, you'll be the person making sure the new environment actually works for the people using it.</p><p>It suits someone with solid second or third line experience who wants to work on a modern Microsoft environment as it's being built, rather than inheriting one that was finished years ago. If you're earlier in your career but strong on the fundamentals and keen to learn, apply anyway. We have room to bring the right person in at a support level and build from there.</p><p><br></p><p><strong>What We Offer</strong></p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Permanent full-time role based on the Gold Coast, with the opportunity to travel to our sites</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A modern Microsoft environment being stood up now — you'll learn it as it's built</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National scope across our Distribution Centre network</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support and encouragement to certify, with a growing technology team around you</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Variety: no two days the same across support, rollouts and project work</p><p><br></p><p><strong>Key Responsibilities</strong></p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support and administer our Microsoft 365 environment — Exchange Online, Teams, SharePoint and OneDrive</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roll out and manage laptops and end-user hardware across our sites, using Intune and Autopilot</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Manage user access and permissions across the environment — accounts, groups, multi-factor authentication, SharePoint site and folder permissions, and access to our new data platform</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Handle tickets from the service desk, working issues through to root cause and escalating as required</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help pull together the data behind our reporting, and build and maintain reporting and dashboards</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build the how-to guides and internal documentation that lift support efficiency — helping the business self-serve, and giving the team a consistent answer to the common issues</p><h2>&nbsp;</h2><p><strong>About You</strong></p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Solid second or third line support experience in a Microsoft environment</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hands-on Microsoft 365 administration — users, groups, licensing, mailboxes, Teams and SharePoint</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Windows device support and deployment experience, ideally with Intune and Autopilot</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Confidence with user access and permissions, including multi-factor authentication and SharePoint site and folder permissions</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good troubleshooting instincts and the patience to find the actual cause</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clear communication with people who aren't technical, and a genuinely helpful manner</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Comfort writing documentation that other people can follow</p><p><strong>Highly Regarded</strong></p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Azure or cloud infrastructure experience — virtual machines, storage, backup, or supporting workloads running in the cloud</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Microsoft certifications</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience in a service desk or ticketing environment, and familiarity with service management practices</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reporting and data experience — Power BI, Excel, SQL or the built-in admin centre reporting</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Any exposure to a modern data platform such as Microsoft Fabric, Azure Data Lake or Databricks</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience supporting warehouse, retail or multi-site operations</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hardware rollout or refresh project experience</p><p><br></p><p><strong>How to Apply</strong></p><p>If you want to grow with a modern Microsoft environment rather than maintain an old one, we'd love to hear from you. Apply today and be part of Tradezone's continued growth.</p><p>Please ensure your resume is updated with your most recent work history. Only shortlisted candidates will be contacted.</p>",
-      "keywords": [
-        "it",
-        "support",
-        "engineer",
-        "microsoft",
-        "modern",
-        "workplace"
       ]
     },
     {
