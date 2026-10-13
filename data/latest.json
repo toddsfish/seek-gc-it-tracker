@@ -1,401 +1,439 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "region": "Gold Coast",
-  "scraped_at": "2026-10-13T11:44:22.546271+10:00",
-  "total_jobs": 60,
+  "scraped_at": "2026-10-14T09:31:55.390279+10:00",
+  "total_jobs": 59,
   "keywords": [
     {
       "term": "support",
       "count": 14,
-      "share": 0.2333
+      "share": 0.2373
+    },
+    {
+      "term": "engineer",
+      "count": 11,
+      "share": 0.1864
     },
     {
       "term": "it",
       "count": 10,
-      "share": 0.1667
+      "share": 0.1695
     },
     {
-      "term": "engineer",
-      "count": 9,
-      "share": 0.15
-    },
-    {
-      "term": "developer",
-      "count": 8,
-      "share": 0.1333
+      "term": "analyst",
+      "count": 7,
+      "share": 0.1186
     },
     {
       "term": "manager",
       "count": 7,
-      "share": 0.1167
+      "share": 0.1186
     },
     {
-      "term": "analyst",
+      "term": "developer",
       "count": 6,
-      "share": 0.1
+      "share": 0.1017
     },
     {
       "term": "officer",
       "count": 6,
-      "share": 0.1
+      "share": 0.1017
+    },
+    {
+      "term": "software",
+      "count": 5,
+      "share": 0.0847
     },
     {
       "term": "technician",
       "count": 5,
-      "share": 0.0833
+      "share": 0.0847
     },
     {
-      "term": "software",
+      "term": "business",
       "count": 4,
-      "share": 0.0667
+      "share": 0.0678
+    },
+    {
+      "term": "data",
+      "count": 4,
+      "share": 0.0678
     },
     {
       "term": "delivery",
       "count": 4,
-      "share": 0.0667
+      "share": 0.0678
     },
     {
-      "term": "business",
+      "term": "ai",
       "count": 3,
-      "share": 0.05
-    },
-    {
-      "term": "data",
-      "count": 3,
-      "share": 0.05
-    },
-    {
-      "term": "specialist",
-      "count": 3,
-      "share": 0.05
+      "share": 0.0508
     },
     {
       "term": "service",
       "count": 3,
-      "share": 0.05
+      "share": 0.0508
     },
     {
       "term": "project",
       "count": 3,
-      "share": 0.05
+      "share": 0.0508
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0339
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0339
     },
     {
       "term": "systems",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0339
     },
     {
       "term": "automation",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0339
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0339
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0339
     },
     {
       "term": "engineering",
       "count": 2,
-      "share": 0.0333
-    },
-    {
-      "term": "integration",
-      "count": 2,
-      "share": 0.0333
+      "share": 0.0339
     },
     {
       "term": "technical",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0339
     },
     {
       "term": "broadbeach",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0339
     },
     {
       "term": "coordinator",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0339
     },
     {
       "term": "administrator",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0339
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0339
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0339
     },
     {
       "term": "test",
       "count": 2,
-      "share": 0.0333
+      "share": 0.0339
     },
     {
       "term": "customer",
       "count": 2,
-      "share": 0.0333
-    },
-    {
-      "term": "ai",
-      "count": 1,
-      "share": 0.0167
+      "share": 0.0339
     },
     {
       "term": "intelligence",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "netsuite",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "erp",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "migration",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "customisation",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "associate",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "machines4u",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
+    },
+    {
+      "term": "services",
+      "count": 1,
+      "share": 0.0169
     },
     {
       "term": "recent",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "prep",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "year",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "account",
       "count": 1,
-      "share": 0.0167
-    },
-    {
-      "term": "field",
-      "count": 1,
-      "share": 0.0167
-    },
-    {
-      "term": "break",
-      "count": 1,
-      "share": 0.0167
-    },
-    {
-      "term": "fix",
-      "count": 1,
-      "share": 0.0167
-    },
-    {
-      "term": "goldcoast",
-      "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "desktop",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
+    },
+    {
+      "term": "field",
+      "count": 1,
+      "share": 0.0169
+    },
+    {
+      "term": "break",
+      "count": 1,
+      "share": 0.0169
+    },
+    {
+      "term": "fix",
+      "count": 1,
+      "share": 0.0169
+    },
+    {
+      "term": "goldcoast",
+      "count": 1,
+      "share": 0.0169
     },
     {
       "term": "desk",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "its",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "asset",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "inventory",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "cruise",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "nursing",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "director",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "experience",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "portfolio",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "management",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "consultant",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "soc",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "formwork",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "unified",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "communications",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0167
+      "share": 0.0169
+    },
+    {
+      "term": "specialist",
+      "count": 1,
+      "share": 0.0169
     }
   ],
   "jobs": [
+    {
+      "job_id": "95229260",
+      "job_title": "Software Services Engineer I",
+      "business_name": "Gilmour Space Technologies",
+      "work_type": "Full time",
+      "job_type": "Engineering - Software",
+      "pay_range": "Base Salary + Super",
+      "area": "Yatala, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95229260",
+      "advertiser_id": "43912085",
+      "posted_date": "2026-10-13T03:30:53Z",
+      "job_description": "<p><b>All Orbits, All Planets - Join us on our journey</b></p><p>Gilmour Space is the leading Australian rocket company, pioneering next-generation hybrid propulsion technologies for small satellite launch vehicles.</p><p>Are you a creative and experienced Software Services Engineer I looking for a dynamic role where your skills will make a real impact? Have you ever dreamt of building&nbsp;rockets right here in Australia? Well now’s your chance! Gilmour Space is seeking a talented individual to join our innovative team to send rockets to Space! Conveniently located between Brisbane and the Gold Coast, our new state-of-the-art facility, purpose-built for designing and manufacturing rockets in-house, is equipped with the latest technology and tools, providing an ideal environment for innovation and excellence. So, what are you waiting for? Join us and be a part of a forward-thinking team dedicated to pushing the boundaries of space exploration and let’s send Australia to Space together!</p><p><b>How you will contribute to our mission in getting Australia to space:</b></p><p>The below is designed to give you an idea of the role you will play. There will be many more exciting and innovative things to do:</p><ul> <li>Develop and maintain scalable web services that support the design and operation of launch vehicles and satellites.&nbsp;</li> <li>Collaborate as part of a team of software engineers to deliver software products and services.&nbsp;</li> <li>Participate in the development of software engineering designs, processes, and activities.&nbsp;</li> <li>Conduct technical assessments, including concept studies, trade studies, analysis of COTS solutions, and estimates for R&amp;D.&nbsp;</li> <li>Adhere to and participate in product development engineering processes, including requirements definition, preliminary and detailed design, review, procurement, assembly, integration, and verification/validation.&nbsp;</li> <li>Support software unit and integration testing, including potential travel to remote sites.&nbsp;</li> <li>Assist in investigations, troubleshooting, modifications, and repairs.&nbsp;</li> <li>Support R&amp;D activities.&nbsp;</li> <li>Contribute to software engineering production activities related to launch vehicles and satellite product lines.&nbsp;</li> <li>Coordinate with the Mechanical, Propulsion, and Manufacturing engineering departments as well as the Production organization.&nbsp;</li> <li>Ensure all engineering activities are conducted and documented according to Gilmour Space policies and procedures.&nbsp;</li> <li>Perform other duties as requested by management.&nbsp;</li></ul><div></div><p><b>Mandatory Qualifications, Skills and Experience:</b></p><ul> <li>Bachelor’s degree in software, Computer Science, or related field. Alternatively, demonstrated ability and experience equivalent to degree level is well regarded.&nbsp;</li> <li>Ability to operate in dynamic, fast-paced environments.&nbsp;</li> <li>Demonstrated resilience in high-stress situations.&nbsp;</li></ul><p><b>Desired Qualifications, Skills and Experience:</b></p><p><b>We&nbsp;recognise&nbsp;you may not meet all of the below, but don’t let that deter you. We are always looking for hard workers to join our team, so what are you waiting for? Let’s send Australia to space!</b></p><ul> <li>Familiarity with developing full-stack, production-quality applications.&nbsp;</li> <li>Experience with Golang, Python, JavaScript, TypeScript, C/C++.&nbsp;</li> <li>Familiarity with containerization, microservices, and virtual machines.&nbsp;</li> <li>Experience creating RESTful, gRPC and GraphQL APIs.&nbsp;</li> <li>Familiarity with relational, non-relational, and time-series databases.&nbsp;</li> <li>Experience using front-end development frameworks (Vue.js, React, etc.).&nbsp;</li> <li>Understanding web deployment infrastructure such as load balancing etc.&nbsp;</li> <li>Appreciation for message protocols such as MQTT.&nbsp;</li> <li>Familiarity with developing unit and integration tests.&nbsp;</li> <li>Experience with Git workflows.&nbsp;</li> <li>Experience conducting DevOps activities (managing infrastructure, developing CI/CD capabilities).&nbsp;</li> <li>Familiarity with Agile and/or Kanban management frameworks.&nbsp;</li> <li>Understanding of systems engineering practices.&nbsp;</li> <li>Ability to work in a high-paced, challenging work environment.&nbsp;</li> <li>Ability to work efficiently in a team environment with a desire to assist other team members in the day-to-day running of the department.&nbsp;</li></ul><p><b>How to Apply:</b></p><p><b>Applicants must be an Australian Citizen/Permanent Resident or have an appropriate Australian work visa or work entitlements.</b></p><p>If you are a proactive team player with a passion to get Australia to space and a desire to succeed, please apply now by clicking the apply button and including your resume and cover letter or head to our website: CAREER | Gilmour Space Technologies | Rocket launch provider (gspace.com).&nbsp;</p><p>Gilmour Space Technologies is proud to be an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all team members.&nbsp;We strongly encourage applications from Aboriginal and Torres Strait Islander peoples for all positions.</p><p><b>No Recruitment Agencies Please</b></p><p><b>&nbsp;</b></p>",
+      "keywords": [
+        "software",
+        "services",
+        "engineer"
+      ]
+    },
+    {
+      "job_id": "95227533",
+      "job_title": "Data and AI Engineer",
+      "business_name": "Alder Constructions Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Other",
+      "pay_range": "",
+      "area": "Helensvale, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95227533",
+      "advertiser_id": "20961859",
+      "posted_date": "2026-10-13T02:57:49Z",
+      "job_description": "<p></p><p>Alder Group is proudly celebrating 23 years in 2026, bringing engineering and construction teams together under one roof to deliver high-quality building, civil and infrastructure projects across Queensland and Northern NSW.</p><p>&nbsp;</p><p>At Alder, we're not just building communities, we're building the future.</p><p>As we continue to transform how we leverage technology, data and artificial intelligence across our business, we're looking for an exceptional <strong>Data &amp; AI Engineer</strong> to establish and lead our enterprise data and AI capability from the ground up.</p><p>&nbsp;</p><p>This is a rare opportunity to join a growing business at a pivotal stage of its digital transformation journey. You'll have the autonomy, influence and support to design and develop the data foundations, reporting frameworks, automation opportunities and AI solutions that will drive smarter decisions and unlock business performance across the organisation. </p><p>&nbsp;</p><p><strong>About the Role</strong></p><p>Reporting to the General Manager - Information, Data &amp; Technology, you will lead the development of Alder's enterprise data platform and serve as the technical owner of our data, analytics and AI capabilities.</p><p>&nbsp;</p><p>You'll be responsible for designing the architecture, governance frameworks and reporting solutions that transform business data into trusted information assets, while identifying opportunities to leverage automation, analytics and AI to improve business outcomes. </p><p>&nbsp;</p><p>This is a hands-on role where you will participate and lead the initial requirements gathering, options analysis and design phases and then build the data platform, integrations and reporting from ground up.</p><p>&nbsp;</p><p>Key responsibilities include:</p><ul><li>Design and develop Alder's enterprise data platform, architecture and governance frameworks</li><li>Build scalable data models, pipelines, integrations and reporting solutions</li><li>Deliver business insights through Power BI, analytics and AI-enabled solutions</li><li>Drive automation and process improvement initiatives across the organisation</li><li>Champion data quality, governance and emerging technology opportunities</li><li>Partner with stakeholders to translate business needs into actionable data solutions</li><li>Develop and support AI-enabled prototypes and solutions that improve productivity, decision-making and operational efficiency</li></ul><p>&nbsp;</p><p><strong>About You</strong></p><p>You're a strategic thinker with strong technical capability who enjoys solving complex business challenges through data.</p><ul><li>Experience with enterprise data platforms, modern data architectures or data warehousing</li><li>Strong skills in data modelling, integration, reporting and analytics</li><li>Knowledge of data governance, automation and AI technologies</li><li>Experience with Power BI and platforms such as Fabric, Snowflake or Databricks</li><li>Strong stakeholder engagement and communication skills</li><li>A proactive mindset and passion for continuous improvement</li><li>Degree in Data Analytics, Data Science, Information Technology, Computer Science, Software Engineering or a related discipline is highly desirable.</li></ul><p>&nbsp;</p><p><strong>About Alder Group</strong></p><p>At Alder Group, we deliver award-winning construction and infrastructure projects that positively impact communities across Queensland and Northern NSW. Our diverse portfolio spans Infrastructure, Water and Wastewater, Education, Health, Commercial, Industrial, Hospitality and Community sectors.</p><p>&nbsp;</p><p><strong>What We Offer</strong></p><ul><li>A supportive and collaborative workplace where people are valued, respected and encouraged to do their best work.</li><li>A genuine \"One Team\" mindset and focus on continuous improvement.</li><li>Opportunities to develop your capability, expand your experience and grow your career within a dynamic and evolving business.</li><li>Exposure to a broad range of technologies, projects and business operations.</li><li>A structured pathway into systems administration and infrastructure-focused roles.</li><li>A competitive remuneration package aligned to your experience and the value you bring to the role.</li></ul><p></p><p></p>",
+      "keywords": [
+        "data",
+        "ai",
+        "engineer"
+      ]
+    },
     {
       "job_id": "95223561",
       "job_title": "Portfolio Management Principal",
@@ -567,6 +605,25 @@
       ]
     },
     {
+      "job_id": "95244618",
+      "job_title": "AI Business Analyst",
+      "business_name": "Southport Sharks",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95244618",
+      "advertiser_id": "20817309",
+      "posted_date": "2026-10-06T05:05:02Z",
+      "job_description": "<p>Southport Sharks is looking for a hands on AI Business Analyst to help us unlock greater value from our data and create smarter, more efficient ways of working across the Club.</p>\n<p>You will spend time with our teams, understand how work is really done, connect information across systems and build practical solutions that improve reporting, reduce manual effort and support better decisions.</p>\n<p>With operations spanning Gaming, Food and Beverage, Hotel, Health Club, Membership, Football and corporate services, no two projects will look the same. Hospitality or venue experience will help you quickly understand the pace, complexity and customer focus of our business.</p>\n<p><strong>What you will do</strong></p>\n<ul>\n<li>Reporting to our CFO you will work with leaders to identify inefficiencies, data gaps and high value improvement opportunities.</li>\n<li>Map data flows, gather requirements and translate business needs into clear solution options.</li>\n<li>Combine and improve data from multiple systems to create useful dashboards, reporting and operational insights.</li>\n<li>Build, test and support practical AI, automation and workflow solutions using approved tools.</li>\n<li>Ensure every solution meets privacy, security, risk and responsible AI requirements.</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<ul>\n<li>Experience across business analysis, data analysis, business intelligence, process improvement or automation.</li>\n<li>Strong skills in requirements gathering, process mapping, problem solving and stakeholder engagement.</li>\n<li>Experience working with dashboards and reporting tools such as Power BI, Tableau or equivalent.</li>\n<li>An applied understanding of AI and automation tools.</li>\n<li>The ability to turn complex data and technical concepts into clear business recommendations.</li>\n<li>A practical, collaborative style and genuine interest in helping teams work better.</li>\n</ul>\n<p><strong>Why join Southport Sharks?</strong></p>\n<ul>\n<li>Great benefits!&nbsp;</li>\n<li>Work on meaningful projects across a diverse and fast moving community organisation.</li>\n<li>See your ideas move from discovery to delivery and create measurable operational impact.</li>\n<li>Partner directly with leaders and teams across the Club.</li>\n<li>Help shape the next stage of Southport Sharks data and AI capability.</li>\n</ul>\n<p><strong>Ready to make an impact?</strong></p>\n<p>If you enjoy getting close to the problem, finding the story in the data and building solutions people will actually use, we would love to hear from you.</p>",
+      "keywords": [
+        "ai",
+        "business",
+        "analyst"
+      ]
+    },
+    {
       "job_id": "95081106",
       "job_title": "Cyber Security and/or Software Development Course Coach",
       "business_name": "Equinim College of Technology",
@@ -660,41 +717,6 @@
       "keywords": [
         "account",
         "manager"
-      ]
-    },
-    {
-      "job_id": "95009749",
-      "job_title": "Integration Specialist",
-      "business_name": "Department of Health - Queensland",
-      "work_type": "Full time",
-      "job_type": "Programme & Project Management",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95009749",
-      "advertiser_id": "32285210",
-      "posted_date": "2026-10-01T22:27:57Z",
-      "job_description": "<div>\n \n <p>This role is responsible for the development, maintenance and ongoing evolution of the organisation’s Integration Platform.</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for an <strong>Integration Specialist </strong>to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide advice to management on GCHHS Integration Platform, maintaining an efficient and secure operational environment</li>\n<li>Oversee and lead Information and Communication Technology (ICT) technical implementations within a project management framework</li>\n<li>Develop and review implementation plans, change requests, internal and external procurement orders, and other required documents</li>\n<li>Investigate and recommend new information management services and technology initiatives to address customer needs</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, a tertiary qualification in an information technology or computer science discipline or a related field is highly desirable.</li>\n<li>This position may be required to work across the various facilities throughout the Gold Coast Hospital and Health Service.</li>\n<li>This position may incur overtime or extended hours beyond standard business hours at times such as project implementation, peak demand or around other issues that arise</li>\n<li>This position may be required to participate in on-call arrangements</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $144,315 - $154,879 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Tuesday, 13 October 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC693857</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
-      "keywords": [
-        "integration",
-        "specialist"
-      ]
-    },
-    {
-      "job_id": "95009746",
-      "job_title": "Developer",
-      "business_name": "Department of Health - Queensland",
-      "work_type": "Full time",
-      "job_type": "Engineering - Software",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95009746",
-      "advertiser_id": "32285210",
-      "posted_date": "2026-10-01T22:27:46Z",
-      "job_description": "<div>\n \n <p>You will build across the front-end and back-end of software and web applications, using common development frameworks and third-party libraries, agile methodologies and modern visual designs to deliver secure, quality outcomes.\n</p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Developer</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide advice and support to stakeholders in the development, technical support and operation of localised, modern and user focused web applications</li>\n<li>Operate computer software and hardware; write, modify, deploy and maintain programming code on cloud platforms</li>\n<li>Provide ongoing advice, support and maintenance of software and web application</li>\n<li>Undertake effective change/release management process for software deployment in line with Information Management and Information Communication and Technology policies</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<p>While not mandatory, the following will be highly regarded:</p>\n<ul>\n<li>A tertiary qualification in an information technology or computer science discipline or a related field.</li>\n<li>Experience in a full stack developer or similar role.</li>\n<li>A sound working knowledge of software development lifecycle (SDLC) is highly desirable for this role.</li>\n<li>A sound knowledge of information privacy and related legislation in a health care context.</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Temporary full time (12 months with the possibility of extension)</li>\n<li>Base salary ranging from $111,993 - $121,853 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028.</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Tuesday, 13 October 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC693834</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
-      "keywords": [
-        "developer"
       ]
     },
     {
@@ -865,24 +887,6 @@
       ]
     },
     {
-      "job_id": "94942862",
-      "job_title": "Integration Specialist",
-      "business_name": "Gold Coast Hospital & Health Service",
-      "work_type": "Full time",
-      "job_type": "Engineering - Software",
-      "pay_range": "$144,315 - $154,879 per annum + 12.75% super",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94942862",
-      "advertiser_id": "32285403",
-      "posted_date": "2026-09-29T05:35:40Z",
-      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for an <strong>Integration Specialist </strong>to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide advice to management on GCHHS Integration Platform, maintaining an efficient and secure operational environment</li>\n<li>Oversee and lead Information and Communication Technology (ICT) technical implementations within a project management framework</li>\n<li>Develop and review implementation plans, change requests, internal and external procurement orders, and other required documents</li>\n<li>Investigate and recommend new information management services and technology initiatives to address customer needs</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, a tertiary qualification in an information technology or computer science discipline or a related field is highly desirable.</li>\n<li>This position may be required to work across the various facilities throughout the Gold Coast Hospital and Health Service.</li>\n<li>This position may incur overtime or extended hours beyond standard business hours at times such as project implementation, peak demand or around other issues that arise</li>\n<li>This position may be required to participate in on-call arrangements</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $144,315 - $154,879 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Tuesday, 13 October 2026</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC693857</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
-      "keywords": [
-        "integration",
-        "specialist"
-      ]
-    },
-    {
       "job_id": "94942698",
       "job_title": "Field Service Technician (IT Break/Fix) - Goldcoast",
       "business_name": "Infinet Service Logistics",
@@ -903,23 +907,6 @@
         "break",
         "fix",
         "goldcoast"
-      ]
-    },
-    {
-      "job_id": "94941668",
-      "job_title": "Developer",
-      "business_name": "Gold Coast Hospital & Health Service",
-      "work_type": "Contract/Temp",
-      "job_type": "Developers/Programmers",
-      "pay_range": "$111,993 - $121,853 + 12.75% super",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94941668",
-      "advertiser_id": "32285403",
-      "posted_date": "2026-09-29T05:02:27Z",
-      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Developer</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Provide advice and support to stakeholders in the development, technical support and operation of localised, modern and user focused web applications</li>\n<li>Operate computer software and hardware; write, modify, deploy and maintain programming code on cloud platforms</li>\n<li>Provide ongoing advice, support and maintenance of software and web application</li>\n<li>Undertake effective change/release management process for software deployment in line with Information Management and Information Communication and Technology policies</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<p>While not mandatory, the following will be highly regarded:</p>\n<ul>\n<li>A tertiary qualification in an information technology or computer science discipline or a related field.</li>\n<li>Experience in a full stack developer or similar role.</li>\n<li>A sound working knowledge of software development lifecycle (SDLC) is highly desirable for this role.</li>\n<li>A sound knowledge of information privacy and related legislation in a health care context.</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Temporary full time (12 months with the possibility of extension)</li>\n<li>Base salary ranging from $111,993 - $121,853 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028.</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Tuesday, 13 October 2026</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC693834</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
-      "keywords": [
-        "developer"
       ]
     },
     {
