@@ -1,391 +1,404 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "region": "Gold Coast",
-  "scraped_at": "2026-10-16T08:47:01.160882+10:00",
-  "total_jobs": 55,
+  "scraped_at": "2026-10-17T08:19:59.031435+10:00",
+  "total_jobs": 52,
   "keywords": [
     {
       "term": "engineer",
-      "count": 13,
-      "share": 0.2364
+      "count": 11,
+      "share": 0.2115
     },
     {
       "term": "support",
-      "count": 13,
-      "share": 0.2364
+      "count": 11,
+      "share": 0.2115
     },
     {
       "term": "it",
       "count": 9,
-      "share": 0.1636
+      "share": 0.1731
     },
     {
       "term": "analyst",
-      "count": 7,
-      "share": 0.1273
-    },
-    {
-      "term": "officer",
       "count": 6,
-      "share": 0.1091
+      "share": 0.1154
     },
     {
       "term": "manager",
       "count": 6,
-      "share": 0.1091
+      "share": 0.1154
+    },
+    {
+      "term": "officer",
+      "count": 5,
+      "share": 0.0962
     },
     {
       "term": "developer",
       "count": 4,
-      "share": 0.0727
+      "share": 0.0769
     },
     {
       "term": "software",
       "count": 4,
-      "share": 0.0727
+      "share": 0.0769
     },
     {
       "term": "technician",
       "count": 4,
-      "share": 0.0727
+      "share": 0.0769
     },
     {
       "term": "delivery",
       "count": 4,
-      "share": 0.0727
-    },
-    {
-      "term": "data",
-      "count": 3,
-      "share": 0.0545
-    },
-    {
-      "term": "technical",
-      "count": 3,
-      "share": 0.0545
+      "share": 0.0769
     },
     {
       "term": "service",
       "count": 3,
-      "share": 0.0545
+      "share": 0.0577
     },
     {
       "term": "project",
       "count": 3,
-      "share": 0.0545
+      "share": 0.0577
     },
     {
       "term": "business",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "ai",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
+    },
+    {
+      "term": "data",
+      "count": 2,
+      "share": 0.0385
+    },
+    {
+      "term": "technical",
+      "count": 2,
+      "share": 0.0385
     },
     {
       "term": "broadbeach",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "coordinator",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "administrator",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "soc",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "test",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "intelligence",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "salesforce",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "netsuite",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "erp",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "migration",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "customisation",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "associate",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "services",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "recent",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "prep",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "year",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "account",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0182
-    },
-    {
-      "term": "desktop",
-      "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "desk",
       "count": 1,
-      "share": 0.0182
-    },
-    {
-      "term": "its",
-      "count": 1,
-      "share": 0.0182
-    },
-    {
-      "term": "asset",
-      "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "inventory",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "cruise",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "systems",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "nursing",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "director",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "experience",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "portfolio",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "management",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "consultant",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "formwork",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
+    },
+    {
+      "term": "telecommunications",
+      "count": 1,
+      "share": 0.0192
+    },
+    {
+      "term": "worker",
+      "count": 1,
+      "share": 0.0192
     },
     {
       "term": "quality",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "assurance",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     }
   ],
   "jobs": [
+    {
+      "job_id": "95308118",
+      "job_title": "Telecommunications Worker",
+      "business_name": "Elite Fibreoptics",
+      "work_type": "Full time",
+      "job_type": "Telecommunications",
+      "pay_range": "",
+      "area": "Stapylton, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95308118",
+      "advertiser_id": "40737739",
+      "posted_date": "2026-10-16T03:43:13Z",
+      "job_description": "<h2>Opportunity with Elite Fibre Optics!</h2><p>Elite Fibre Optics is seeking experienced telecommunications workers to join our growing team!</p><p>Elite is a well-established and respected name in the telecommunications industry, with a strong pipeline of secured work across South East Queensland and regional locations throughout Australia. We offer opportunities to work across a diverse range of telecommunications projects, from commercial installations and high-rise fit-outs to structured data cabling and large-scale telecommunications infrastructure projects.</p><p>If you're an experienced telecommunications worker looking for competitive pay, quality equipment, career development and a supportive team environment, we'd love to hear from you!</p><p><br></p><h2>What You'll Be Doing</h2><p>Work will vary across a range of telecommunications projects and may include:</p><ul><li><p>Building and installing fibre networks in apartment buildings, high-rise developments and multi-unit complexes.</p></li><li><p>Installing fibre optic and structured data cabling in commercial premises.</p></li><li><p>Running, routing and terminating fibre and data cables.</p></li><li><p>Terminating data outlets, patch panels and telecommunications racks.</p></li><li><p>Completing fibre splicing, testing and commissioning.</p></li><li><p>Installing NBN infrastructure, including PCDs, NTDs and associated cabling.</p></li></ul><ul><li><p>Working at heights using scissor lifts and other access equipment.</p></li><li><p>Working alongside civil teams on fibre network construction and infrastructure projects.</p></li><li><p>Travelling for away work and completing overtime when required, with applicable allowances and overtime paid.</p></li></ul><p><br></p><h2>What We Offer</h2><ul><li><p><strong>Competitive pay</strong> rates commensurate with experience and capability.</p></li><li><p>Take-home vehicle and fuel card<strong> for eligible roles.</strong></p></li><li><p>High-quality tools, equipment and machinery supplied.</p></li><li><p>Company uniforms supplied and replaced as required.</p></li><li><p>iPad or laptop supplied <strong>for eligible roles.</strong></p></li></ul><ul><li><p>Travel or away-work allowances.</p></li><li><p>Ongoing training, upskilling and professional development.</p></li><li><p>Opportunities to progress within a growing telecommunications business.</p></li></ul><p><br></p><h2>Why Work for Elite Fibre Optics?</h2><p>At Elite, we take pride in the quality of our work, our people and our company image. We have an experienced workforce, modern equipment and a team-focused culture that encourages employees to develop their skills and take pride in what they do.</p><p>You'll have the opportunity to work across a variety of projects, gain experience in different areas of telecommunications and be part of a team that values safety, quality workmanship and reliability.</p><p><strong>What sets us apart:</strong></p><ul><li><p>A supportive and energetic team environment.</p></li><li><p>A diverse workload across NBN, commercial, data and network carrier infrastructure projects.</p></li><li><p>Opportunities to develop your skills in construction, fibre splicing and network installations.</p></li><li><p>Modern equipment and professional workwear.</p></li><li><p>A focus on training, career progression and work-life balance.</p></li><li><p>Local work throughout South East Queensland, with opportunities for regional and interstate projects.</p></li></ul><p><br></p><h2>What We're Looking For</h2><p>Successful applicants will ideally possess:</p><ul><li><p>Previous experience in telecommunications, fibre optic installations or structured data cabling.</p></li><li><p>Experience with NBN MDU builds, commercial installations or high-rise projects is highly regarded.</p></li><li><p>A current Australian driver's licence.</p></li><li><p>A positive attitude and willingness to learn.</p></li><li><p>Reliability, punctuality and a professional presentation.</p></li><li><p>The ability to work independently and as part of a team.</p></li><li><p>Strong problem-solving skills and attention to detail.</p></li><li><p>The ability to undertake physical work, including working outdoors and at heights.</p></li><li><p>A commitment to safe work practices and quality workmanship.</p></li><li><p>The right to work in Australia.</p></li></ul><p><br></p><h2>Who We Are</h2><p>Based in Stapylton, Queensland, Elite Fibre Optics operates in a prime location between Brisbane, Gold Coast and the Sunshine Coast delivering telecommunications solutions across South East Queensland, regional Queensland and interstate.</p><p>We provide end-to-end telecommunications services, from site surveys and network design support through to the construction, installation, splicing, testing and commissioning of fibre optic networks.</p><p>Our projects include:</p><ul><li><p>Fibre infrastructure and unit installations in apartment buildings, high-rise developments and multi-unit complexes.</p></li><li><p>Commercial NBN installations and structured data cabling.</p></li><li><p>New high-rise developments and existing building retrofits.</p></li><li><p>Telco infrastructure for schools, aged care facilities and shopping centres.</p></li><li><p>Fibre network construction for carriers.</p></li></ul><ul><li><p>Civil telecommunications infrastructure, including pit and pipe, underground conduit installation, horizontal directional drilling (HDD) and vacuum excavation.</p></li></ul><p>Our experienced teams work together to deliver quality outcomes across the entire project lifecycle.</p><p><br></p><h2>Ready to Join Elite?</h2><p>If you're an experienced Telecommunications Worker looking for your next opportunity with a company that invests in equipment and encourages professional development, we want to hear from you.</p><p><strong>Apply now and become part of the Elite Fibre Optics team!</strong></p><p><strong>Visit our website:</strong> www.elitefibreoptics.com.au</p><p><br></p>",
+      "keywords": [
+        "telecommunications",
+        "worker"
+      ]
+    },
     {
       "job_id": "95295398",
       "job_title": "Senior Technical Support Analyst",
@@ -1122,24 +1135,6 @@
       ]
     },
     {
-      "job_id": "94872744",
-      "job_title": "Data Engineer",
-      "business_name": "G8 Education Limited",
-      "work_type": "Full time",
-      "job_type": "Engineering - Software",
-      "pay_range": "",
-      "area": "Varsity Lakes, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94872744",
-      "advertiser_id": "22363191",
-      "posted_date": "2026-09-25T02:16:59Z",
-      "job_description": "<p>Nurturing the greatness in every child - and in you.</p>\n<p>&nbsp;</p>\n<p><strong>Join one of Australia’s Largest Leading Early Education Providers!&nbsp;&nbsp;</strong></p>\n<p>At G8 Education, we’re on a mission to shape the future! With 350+ early education and care centres under 21 brands, our 7,000+ dedicated team members nurture over 40,000 children every day.&nbsp;&nbsp;</p>\n<p>As an ASX listed growth company, we’re committed to empowering, rewarding, and supporting every team member – from our centre educators to our leadership and support team.&nbsp;&nbsp;</p>\n<p><strong>The Opportunity</strong>&nbsp;</p>\n<p>We’re looking for an experienced <strong>Data Engineer</strong> to design, build, and maintain scalable data pipelines and infrastructure that power data-driven decision making across our organisation.</p>\n<p>In this role, you’ll work closely with data scientists, analysts, and business stakeholders to ensure our data systems are reliable, efficient, and fit for purpose, transforming raw data into meaningful insights.</p>\n<p>This is a hands-on technical role for someone who enjoys solving complex problems, optimising performance, and continuously improving data platforms.<br><br>While this opportunity is advertised as a Data Engineer, we encourage experienced Senior Data Engineers to apply, with flexibility to appoint at a senior level for the right candidate.</p>\n<p><strong>Key Responsibilities </strong></p>\n<ul>\n<li>Design, develop and maintain robust ETL pipelines feeding our Fabric Lakehouse</li>\n<li>Build and optimise data models to support analytics and business reporting</li>\n<li>Integrate data from multiple sources and formats, ensuring accuracy and consistency</li>\n<li>Identify and resolve performance bottlenecks across pipelines and systems</li>\n<li>Implement monitoring, alerting, backups, upgrades and ongoing maintenance processes</li>\n<li>Partner with data scientists, analysts and stakeholders to deliver fit-for-purpose data solutions</li>\n<li>Develop and maintain Power BI reporting solutions to support business insights</li>\n<li>Document engineering processes, standards and best practices</li>\n<li>Provide guidance and support to team members where required</li>\n<li>Stay current with emerging tools and technologies, contributing ideas to improve platforms and ways of working</li>\n</ul>\n<p><strong>About You</strong>&nbsp;</p>\n<p>You’re a collaborative problem-solver with strong technical foundations and a passion for data. You thrive in environments where quality, reliability and continuous improvement matter.</p>\n<ul>\n<li>5 years of experience in data engineering or related roles, with strong proficiency in database systems, ETL processes, and data modelling.</li>\n<li>Proficiency in programming languages such as Python or SQL.</li>\n<li>Experience with Microsoft Fabric is a plus.</li>\n<li>Strong problem-solving skills and attention to detail.</li>\n<li>Excellent communication and interpersonal skills, with the ability to work effectively in a team environment.</li>\n<li>Experience with data visualisation tools such as Power BI is desirable.</li>\n<li><em>Hold a valid working with children check or willingness to obtain upon commencement. </em></li>\n</ul>\n<p><strong>Benefits at G8</strong></p>\n<ul>\n<li>Competitive salary package</li>\n<li>Eligibility to participate in our Short-Term Incentive program which is an annualised bonus each year</li>\n<li>Hybrid working conditions with 3 days in office and 2 from home.</li>\n<li>Based at our Gold Coast Head Office in Varsity Lakes.</li>\n<li>Career development opportunities as part of a large ASX-listed company&nbsp;</li>\n<li>Access a 50% discount on early education and childcare fees at any G8 Education Centre.&nbsp;</li>\n<li>Exclusive access to our G8 Rewards Program with benefits across more than 600 retailers, exclusive cash discounts and more!</li>\n</ul>\n<p><em>Find out more here: </em>G8 Education</p>\n<p><strong>United by purpose. Guided by values.</strong></p>\n<p>At G8 Education, we’re proud to celebrate, support, and inspire our 10,000+ team members as they make a lasting difference in the lives of children and their own.</p>\n<p>Driven by our purpose “to nurture the greatness in every child to grow, thrive and learn” and guided by our values, we’re shaping bright futures for children, families, communities, and each other.</p>\n<p><strong>Our values:</strong> Safety First &amp; Always, Thriving Together, Owning the Outcome, Being the Difference, Building Bright Futures.</p>\n<p><strong><br>Our Recruitment Process</strong></p>\n<p>Our recruitment process includes police checks and verification of qualifications and right-to-work status.</p>\n<p>Please note that the advertised closing date is indicative only, and applications may close earlier. We encourage you to apply as soon as possible.</p>\n<p><em>G8 Education is a committed advocate for child protection, safety and wellbeing. We have a zero tolerance for any form of child abuse or harm. The safety and wellbeing of children will always be our priority, and all team members are expected to embrace this shared commitment.</em></p>",
-      "keywords": [
-        "data",
-        "engineer"
-      ]
-    },
-    {
       "job_id": "94794069",
       "job_title": "IT Support Officer - Broadbeach, QLD",
       "business_name": "Ignite",
@@ -1364,63 +1359,6 @@
       "keywords": [
         "salesforce",
         "technology"
-      ]
-    },
-    {
-      "job_id": "94685112",
-      "job_title": "Junior ITS Asset Officer",
-      "business_name": "The BUSY Group",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$70,000 - $75,000 FTE",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94685112",
-      "advertiser_id": "14264186",
-      "posted_date": "2026-09-17T00:00:03Z",
-      "job_description": "<p><strong>Our purpose is to make skills, education and employment accessible to every person, so they can create their own world of unbounded possibilities.</strong></p>\n\n<p><strong>About The BUSY Group…</strong></p>\n\n<p>The BUSY Group is a not-for-profit organisation with nearly 50 years experience as a community partner. &nbsp;With multiple business entities operating across 100+ locations Australia-wide and now in New Zealand, Canada and the United Kingdom, we offer an extensive range of employment services and programs, vocational training, apprenticeships, mentoring, Inclusive Employment Australia, specialist schools and allied health services.&nbsp;</p>\n<br><p>\n\n</p>\n\n<p><strong>About the Role</strong></p>\n\n<p>Kick-start your IT career with one of Australia's largest not-for-profit organisations. Based at our Southport Head Office, this is an exciting opportunity for a motivated and detail-oriented individual to gain hands-on experience across IT operations, asset management, procurement support, and technology lifecycle management.</p>\n\n<p>Reporting to the ITS Operations Manager, the Junior IT Asset Officer plays an important role in supporting the management of IT hardware and software assets across the organisation. You'll work closely with the broader IT team to ensure asset information is accurate, equipment is tracked throughout its lifecycle, and staff are supported with onboarding and offboarding equipment requirements.</p>\n\n<p>This role is ideal for someone early in their IT career who enjoys administration, organisation, technology and process improvement.</p>\n\n<strong>What You'll Be Doing</strong>\n\n<p>You will support the day-to-day management of IT assets and equipment across the organisation, including:</p>\n\n<ul>\n\t<li>Maintaining accurate records within asset management systems and databases</li>\n\t<li>Receiving, tagging, storing, allocating and retiring IT equipment</li>\n\t<li>Supporting employee onboarding, offboarding and internal transfers</li>\n\t<li>Assisting with stocktakes, asset audits and reconciliations</li>\n\t<li>Preparing devices and accessories for deployment</li>\n\t<li>Assisting with procurement activities, including purchase requests and order tracking</li>\n\t<li>Maintaining warranty, repair and supplier records</li>\n\t<li>Supporting software licence tracking and renewal activities</li>\n\t<li>Responding to routine asset-related enquiries from employees and stakeholders</li>\n\t<li>Working with internal teams and external suppliers to ensure smooth asset lifecycle management processes</li>\n</ul>\n\n<p>This is a 6 month full time, fixed term contract, based in our Southport office with potential extension based on business needs.</p>\n\n<p><strong>BUSY Benefits</strong></p>\n\n<ul>\n\t<li>3 additional&nbsp;paid annual leave days – 3 days at Christmas&nbsp;</li>\n\t<li>Clear pathways for internal advancement&nbsp;</li>\n\t<li>BUSY Benefits program - Retail&nbsp;discounts&nbsp;and access to Fitness Passport&nbsp;</li>\n\t<li>Monthly mini massages</li>\n\t<li>Enjoy work that genuinely&nbsp;impacts&nbsp;lives&nbsp;</li>\n\t<li>Employee Assistance Program with Sonder Wellbeing App</li>\n</ul>\n<br><p>\n\n</p>\n\n<p><strong>About You&nbsp;</strong></p>\n\n<p>\n\n</p>\n\n<p>To be successful in this role, you'll be organised, proactive and eager to learn. You will bring:</p>\n\n<ul>\n\t<li>Strong attention to detail and accuracy</li>\n\t<li>A genuine interest in technology and IT operations</li>\n\t<li>Confidence working with records, spreadsheets and data</li>\n\t<li>Strong organisational and time management skills</li>\n\t<li>Customer-focused communication skills</li>\n\t<li>The ability to follow processes and work collaboratively with others</li>\n\t<li>Intermediate Microsoft Office skills, particularly Excel, Outlook and Word</li>\n\t<li>Up to 1 year of experience in IT support, administration, inventory, logistics or a similar environment</li>\n\t<li>A Certificate III or IV in Information Technology, Business Administration or a related field (or willingness to work towards one)</li>\n\t<li>A current driver's licence</li>\n\t<li>Ability to obtain and maintain a National Police Check and Blue Card</li>\n</ul>\n\n<p><b>Next steps...</b></p>\n\n<p>If you're looking for an opportunity to gain practical experience, develop your technical and administrative skills, and be part of an organisation making a genuine impact, apply today.</p>\n\n<p>Candidate care is important to us, this role will actively commence recruitment from the date of advertisement. The closing date of this ad is dependent on the appointment of the role.</p>\n\n<p>The BUSY Group is an Organisation that puts the best interest of children and young people first by adhering to the Child Safety Organisation National Principles.&nbsp; The appointment of successful applicants will be subject to satisfactory employment screening including, criminal history and relevant working with children checks.</p>\n\n<p>The BUSY Group is committed to achieving a diverse workforce and strongly encourages applications from First Nations People,&nbsp;veterans, people from culturally diverse backgrounds and people with disabilities</p>",
-      "keywords": [
-        "its",
-        "asset",
-        "officer"
-      ]
-    },
-    {
-      "job_id": "94668324",
-      "job_title": "Desktop Support Engineer",
-      "business_name": "MaxSoft Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$65,000 – $80,000 per year",
-      "area": "Surfers Paradise, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94668324",
-      "advertiser_id": "20222129",
-      "posted_date": "2026-09-16T05:20:39Z",
-      "job_description": "<p><strong>Desktop Support Engineer</strong></p><p><strong>Onsite Role</strong></p><p>If working in a fun, fast-paced, challenging environment is your thing, then this role may be just what you are seeking. Being based on the southern end of the Gold Coast, in stunning Varsity Lakes makes it even more appealing. With offices situated in the central business area and IT hub, this is the place to be.</p><p>The role focuses on providing desktop, infrastructure and end-user support for a growing technology business. Offering versatility and variety, you will have the opportunity to work across desktop support, Microsoft 365, cloud technologies, networking and infrastructure. A great opportunity to develop your IT skills while learning new ones.</p><p><strong>Company Profile</strong></p><p>The MaxSoft Group is a certified Great Place to Work for 2024, 2025 and 2026 it has operated for over 30 years and is the largest supplier in Australia of software and banking services to the professional body corporate/strata management industry. With full-time staff numbers of over 70 (and growing), the business continues to win awards and accolades for innovation and commitment to the strata and technology industries.</p><p>If you have read this far, then we have captured your attention, and you want to know more. Please read on.</p><p><br></p><p><strong>Skills and areas of expertise</strong></p><p>• 2+ years' experience in a Desktop Support, Service Desk or IT Support role</p><p>• Experience supporting Windows desktop operating systems and Microsoft 365 applications</p><p>• Good working knowledge of Active Directory, Group Policy and user administration</p><p>• Experience supporting Exchange Online, Teams and SharePoint</p><p>• Ability to troubleshoot desktop, laptop, mobile device and peripheral issues</p><p>• Good understanding of networking fundamentals including TCP/IP, DNS, DHCP, VPN and Wi‑Fi</p><p>• Experience using helpdesk ticketing systems and following support processes</p><p>• Knowledge of endpoint security, patch management and device deployment</p><p>• Ability to document procedures, maintain asset registers and create knowledge base articles</p><p>• Exposure to Azure and cloud technologies would be highly regarded</p><p>• Understanding of backup processes and business continuity concepts</p><p>• Knowledge of ITIL practices would be advantageous</p><p><br></p><p><strong>Key attributes of the ideal candidate</strong></p><p>• Possess strong written and verbal communication skills</p><p>• Enjoy helping people and delivering exceptional customer service</p><p>• Find it rewarding to multitask, problem solve and work to tight deadlines</p><p>• Thrive in a team environment and enjoy collaborating with other team members</p><p>• Demonstrate initiative and a proactive approach to identifying and resolving issues</p><p>• Have a genuine desire to learn and develop your technical skills</p><p><br></p><p><strong>Eligibility and Additional Information</strong></p><p>Applicants must be Australian Citizens or Permanent Residents living in Australia.</p><p>Because our software supports trust account and financial processes in the strata industry, MaxSoft has obligations under the Anti-Money Laundering and Counter-Terrorism Financing Act. Background screening is therefore a condition of employment, and may include identity verification, reference checks, criminal history checks, immigration checks, verification of academic qualifications and bankruptcy checks.</p><p>If you possess the above skills and attributes and think this role sounds pretty awesome, start applying. Include your resume and a covering letter setting out why you would like to join the MaxSoft team.</p><p>Or give me a call to find out more – Infrastructure Manager on <a href=\"tel:07 5575 7422\">07 5575 7422</a>.</p><p><br></p>",
-      "keywords": [
-        "desktop",
-        "support",
-        "engineer"
-      ]
-    },
-    {
-      "job_id": "94666922",
-      "job_title": "Technical Support Analyst (QLD)",
-      "business_name": "Nexigen Digital",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94666922",
-      "advertiser_id": "25685289",
-      "posted_date": "2026-09-16T04:33:38Z",
-      "job_description": "<div><p><strong>About Nexigen Digital</strong></p><p><br>We are Australia’s largest privately-owned group of online service providers, which includes brands such as VentraIP, Synergy Wholesale and Intaserve.</p><p><br>Every day, our all-Australian team delivers exceptional service and outstanding support to our 400,000+ customers who choose us for their domain names, website hosting and digital marketing.</p><p><br></p><p>Over the past fifteen years, we have been constant game-changers, industry innovators, award winners, and community leaders - and now is your chance to join our team.</p><p><br></p></div><br><div><p><strong>Joining our Technical Support Team</strong></p><p><br></p><p>We are looking for people who have a passion for I.T. and are looking for a stepping stone to kick-start their I.T. career. As part of our front-line team, you will be tasked with ensuring our customers continue to receive the best customer service and technical support in the industry, while providing a timely resolution to issues raised by our customers.</p><p><br></p><p><strong>The position</strong></p><ul><li>Monitor and respond to service alerts</li><li>Diagnose issues with domain names</li><li>Performing Linux and cPanel server administration and troubleshooting</li><li>Assist customers with technical support enquiries, via phone, live chats, and/or emails</li><li>Flexibility is key, as this is a permanent full-time position, on a 24/7 rotating roster.</li></ul><p><br></p><p><strong>The right person (is it you?)</strong></p><p>As this is an entry-level position, previous experience is <strong>not a requirement,</strong> as we provide comprehensive training to successful candidates. Although previous experience is not required, a love and a good understanding of technology will take you far.</p><p><br></p><p>To be the best in this role, we are looking for people with the following attributes:</p><ul><li>A passion for technology (cyber security, gaming, PC building, etc.)</li><li>The ability to absorb information and learn quickly</li><li>Efficient problem-solving skills</li><li>A positive attitude towards our customers and service delivery</li><li>Attention to detail</li></ul><p><br></p><p>Any previous experience in the following areas would be highly regarded:</p><ul><li>cPanel (WHM) control panel</li><li>Domain names</li><li>DNS</li><li>FTP, SSH and email protocols such as POP3, IMAP and SMTP</li><li>Linux (CentOS) and VMware<br><br></li></ul><p><strong>The Benefits of Working With the Nexigen Digital Team</strong></p><p><br>We pride ourselves on our unique facilities and team culture, and a top-down mandate to take care of the people who take care of our customers. There's a reason we were awarded “Employer of Choice” in the Australian Business Awards.</p><p><br></p><p>Some of the office perks include:</p><ul><li>A weekly selection of delicious meals prepared in our on-site kitchen for breakfast and lunch.</li><li>A fully-stocked snack bar featuring an assortment of chips, chocolates, nuts, protein bars and fresh fruit.</li><li>A drink fridge loaded with an assortment of soft drinks, juices and water.</li><li>A fully equipped private gym with weekly on-site personal training sessions.</li><li>A team wellness centre with a soundproof gaming stadium featuring an 85” 4K TV, racing car simulator, pinball machine, arcade machine, and air hockey table.</li><li>An on-site salon where our resident barber and stylist provide free haircuts on a regular basis.</li></ul><p><br></p><p>We actively encourage training and upskilling for personal development and will fund courses that have a beneficial impact on the business.</p><p><br></p><p>Please note that due to strict security requirements, the successful applicant will be required to complete a National Police Check as a condition of employment.</p></div><br><br><p>PI<a href=\"tel:287091818\">287091818</a></p>",
-      "keywords": [
-        "technical",
-        "support",
-        "analyst"
       ]
     }
   ]
