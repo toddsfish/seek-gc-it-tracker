@@ -1,383 +1,343 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "region": "Gold Coast",
-  "scraped_at": "2026-10-17T08:19:59.031435+10:00",
-  "total_jobs": 52,
+  "scraped_at": "2026-10-18T07:52:50.907997+10:00",
+  "total_jobs": 46,
   "keywords": [
     {
       "term": "engineer",
-      "count": 11,
-      "share": 0.2115
+      "count": 10,
+      "share": 0.2174
     },
     {
       "term": "support",
-      "count": 11,
-      "share": 0.2115
+      "count": 9,
+      "share": 0.1957
     },
     {
       "term": "it",
-      "count": 9,
-      "share": 0.1731
+      "count": 8,
+      "share": 0.1739
     },
     {
       "term": "analyst",
       "count": 6,
-      "share": 0.1154
+      "share": 0.1304
     },
     {
       "term": "manager",
       "count": 6,
-      "share": 0.1154
-    },
-    {
-      "term": "officer",
-      "count": 5,
-      "share": 0.0962
-    },
-    {
-      "term": "developer",
-      "count": 4,
-      "share": 0.0769
+      "share": 0.1304
     },
     {
       "term": "software",
       "count": 4,
-      "share": 0.0769
+      "share": 0.087
     },
     {
-      "term": "technician",
+      "term": "officer",
       "count": 4,
-      "share": 0.0769
+      "share": 0.087
     },
     {
       "term": "delivery",
       "count": 4,
-      "share": 0.0769
+      "share": 0.087
+    },
+    {
+      "term": "developer",
+      "count": 3,
+      "share": 0.0652
+    },
+    {
+      "term": "technician",
+      "count": 3,
+      "share": 0.0652
     },
     {
       "term": "service",
       "count": 3,
-      "share": 0.0577
+      "share": 0.0652
     },
     {
       "term": "project",
       "count": 3,
-      "share": 0.0577
+      "share": 0.0652
     },
     {
       "term": "business",
       "count": 2,
-      "share": 0.0385
-    },
-    {
-      "term": "operations",
-      "count": 2,
-      "share": 0.0385
+      "share": 0.0435
     },
     {
       "term": "ai",
       "count": 2,
-      "share": 0.0385
+      "share": 0.0435
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.0385
-    },
-    {
-      "term": "technology",
-      "count": 2,
-      "share": 0.0385
+      "share": 0.0435
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0385
+      "share": 0.0435
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0385
+      "share": 0.0435
     },
     {
       "term": "technical",
       "count": 2,
-      "share": 0.0385
-    },
-    {
-      "term": "broadbeach",
-      "count": 2,
-      "share": 0.0385
-    },
-    {
-      "term": "coordinator",
-      "count": 2,
-      "share": 0.0385
+      "share": 0.0435
     },
     {
       "term": "administrator",
       "count": 2,
-      "share": 0.0385
+      "share": 0.0435
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0385
+      "share": 0.0435
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.0385
+      "share": 0.0435
     },
     {
       "term": "soc",
       "count": 2,
-      "share": 0.0385
+      "share": 0.0435
     },
     {
       "term": "test",
       "count": 2,
-      "share": 0.0385
+      "share": 0.0435
+    },
+    {
+      "term": "operations",
+      "count": 1,
+      "share": 0.0217
     },
     {
       "term": "intelligence",
       "count": 1,
-      "share": 0.0192
-    },
-    {
-      "term": "salesforce",
-      "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0192
-    },
-    {
-      "term": "netsuite",
-      "count": 1,
-      "share": 0.0192
-    },
-    {
-      "term": "erp",
-      "count": 1,
-      "share": 0.0192
-    },
-    {
-      "term": "migration",
-      "count": 1,
-      "share": 0.0192
-    },
-    {
-      "term": "customisation",
-      "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "associate",
       "count": 1,
-      "share": 0.0192
-    },
-    {
-      "term": "net",
-      "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "services",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "recent",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "prep",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "year",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "account",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
+    },
+    {
+      "term": "broadbeach",
+      "count": 1,
+      "share": 0.0217
     },
     {
       "term": "desk",
       "count": 1,
-      "share": 0.0192
-    },
-    {
-      "term": "inventory",
-      "count": 1,
-      "share": 0.0192
-    },
-    {
-      "term": "cruise",
-      "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "systems",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
+    },
+    {
+      "term": "technology",
+      "count": 1,
+      "share": 0.0217
     },
     {
       "term": "nursing",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "director",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "experience",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
+    },
+    {
+      "term": "coordinator",
+      "count": 1,
+      "share": 0.0217
     },
     {
       "term": "portfolio",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "management",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "consultant",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "formwork",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "telecommunications",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "worker",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "quality",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "assurance",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0217
     }
   ],
   "jobs": [
@@ -1244,121 +1204,6 @@
         "service",
         "desk",
         "analyst"
-      ]
-    },
-    {
-      "job_id": "94689990",
-      "job_title": ".Net Engineer",
-      "business_name": "Lanson Partners",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94689990",
-      "advertiser_id": "45143741",
-      "posted_date": "2026-09-17T02:33:57Z",
-      "job_description": "<strong>Senior .NET Engineer | Permanent | Gold Coast<br></strong><br> We’re partnering with a major Australian financial services organisation on a permanent Senior .NET Engineer opportunity within a complex, business-critical application environment.<br><br> This is not a pure greenfield role. The successful engineer will be comfortable working across a mature .NET estate, supporting existing applications while also delivering new APIs, integrations and improvements across a broader enterprise platform.<br><br> <strong>What you’ll be working on</strong><br> <ul> <li>Hands-on development across C# and ASP.NET</li> <li>Building and enhancing REST / Web APIs</li> <li>Supporting and improving mature .NET applications</li> <li>Complex enterprise integrations</li> <li>SQL Server development, query optimisation and performance tuning</li> <li>Application security, authentication and authorisation</li> <li>Production support and root-cause analysis</li> <li>Broader solution design across interconnected systems</li> <li>Working with technical and business stakeholders to understand problems and deliver practical solutions</li> </ul> <strong>What we’re looking for</strong><br> <ul> <li>Strong hands-on C# / .NET experience</li> <li>ASP.NET and Web API experience</li> <li>Strong OOP and .NET fundamentals</li> <li>Deep SQL Server knowledge, including performance tuning and query optimisation</li> <li>Experience with API and application security</li> <li>Comfortable working in legacy or mature application environments</li> <li>Strong troubleshooting and production support capability</li> <li>Ability to understand wider system dependencies and contribute to solution design</li> <li>Enterprise experience preferred, but financial services is not essential</li> </ul> The key requirement is technical depth. We’re looking for someone who remains genuinely hands-on and is comfortable working in a complex, mature application environment.<br><br> <strong>Location:</strong> Gold Coast, Queensland<br><br><strong>Working model:</strong> Hybrid, 2–3 days per week in office<br><br><strong>Salary:</strong> $140k–$165k base + 12% super + $11k bonus<br><br> The interview process includes a technical assessment followed by technical and leadership interviews.<br><br> If you’re an experienced .NET Engineer who enjoys getting under the hood of complex systems rather than only working on greenfield projects, reach out to Matt Kirk on <a href=\"mailto:matt.kirk@lansonpartners.com\">matt.kirk@lansonpartners.com</a> or apply using the link.",
-      "keywords": [
-        "net",
-        "engineer"
-      ]
-    },
-    {
-      "job_id": "94690164",
-      "job_title": "Inventory Coordinator (Cruise and Inventory Operations) - Broadbeach, QLD",
-      "business_name": "Flight Centre Travel Group",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Broadbeach, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94690164",
-      "advertiser_id": "35725927",
-      "posted_date": "2026-09-17T02:32:20Z",
-      "job_description": "<div>\n<p>If you love working with data, enjoy solving problems, and get genuine satisfaction from well-organised spreadsheets and accurate reporting, this could be the perfect opportunity for you.</p>\n<p>As a Cruise &amp; Inventory Operations Coordinator - Groups, you'll play a critical role in managing cruise group and charter inventory, ensuring products are accurate, available for sale, and maintained across multiple systems. Working closely with Product Managers, cruise line partners, Sales teams, and Operations teams, you'll help drive inventory accuracy, supplier compliance, and commercial success.</p>\n<p>This is an exciting opportunity for someone who enjoys working behind the scenes to keep complex operations running smoothly while building a long-term career within the travel industry.</p>\n</div>\n<p>What you'll be doing...</p>\n<ul>\n<li>Manage group and charter cruise inventory, allocations, contracted space, and package availability across multiple cruise lines</li>\n<li>Load, maintain, and update inventory, pricing, and product information within Traveltek and associated systems</li>\n<li>Monitor inventory performance, supplier commitments, and allocation utilisation, escalating issues where required</li>\n<li>Produce and maintain inventory, sales, manifest, and upgrade reporting to support commercial decision-making</li>\n<li>Conduct regular audits to ensure inventory, rates, package configurations, and system data remain accurate</li>\n<li>Coordinate supplier requirements, cabin naming, booking amendments, cancellations, and contractual deadlines</li>\n<li>Provide inventory support and troubleshooting assistance to Sales, Product, After Sales, and Operations teams</li>\n<li>Contribute to a safe, inclusive, and accessible work environment where all Flighties feel welcomed, respected, and supported to thrive</li>\n</ul>\n<p>Who You Are:</p>\n<ul>\n<li>Previous experience within travel, tourism, cruise operations, inventory management, product support, or a similar coordination role</li>\n<li>Experience working with business systems, databases, inventory platforms, and spreadsheets</li>\n<li>Strong attention to detail with the ability to manage large volumes of information accurately</li>\n<li>Excellent organisational and time management skills with the ability to manage competing priorities</li>\n<li>Strong analytical and problem-solving skills with the ability to identify and resolve data discrepancies</li>\n<li>Excellent written and verbal communication skills with the ability to work across multiple stakeholder groups</li>\n<li>Experience using Traveltek or similar travel inventory and reservation systems will be highly regarded</li>\n<li>Experience within cruise, wholesale travel, tour operations, inventory allocations, group bookings, or advanced Excel reporting will be highly regarded</li>\n</ul>\n<p>Your awesome extras...</p>\n<p>&nbsp;&nbsp; &nbsp;📚 Ongoing skills development</p>\n<p>&nbsp; &nbsp;🚀Catapult your career across a network of brands and businesses in an evolving industry</p>\n<p>&nbsp; &nbsp;✈️ Say no to full price! Nab discounts on travel and more thanks to our sweet rewards program</p>\n<p>&nbsp; &nbsp;👩‍⚕️ Access to industry leading health and well - being programs and financial advisors</p>\n<p>&nbsp; &nbsp;🌴 Set up shop in a swanky beachfront office in Broadbeach</p>\n<p>&nbsp; &nbsp;💃🏿 Enjoy social events to promote networking, celebration of wins, and sometimes just for fun!</p>\n<p>&nbsp; &nbsp;👐🏻 Take volunteer leave as part of giving back to the local community</p>\n<p> #LI-KP1#IGNT#LI-Onsite </p>\n<p>Ready to Start Your Journey? If you’re excited to kickstart your career in the travel industry, we want to hear from you! Apply now and let’s embark on this adventure together!</p>\n<p>Explore the world and make a difference—one customer at a time!</p>\n<p>Our Talent Acquisition Team kindly requests no unsolicited resumes or approaches from Recruitment Agencies. Flight Centre Travel Group is not responsible for any fees related to unsolicited resumes.</p>",
-      "keywords": [
-        "inventory",
-        "coordinator",
-        "cruise",
-        "operations",
-        "broadbeach"
-      ]
-    },
-    {
-      "job_id": "94686691",
-      "job_title": "NetSuite Developer – ERP Migration & Customisation",
-      "business_name": "Private Advertiser",
-      "work_type": "Contract/Temp",
-      "job_type": "Developers/Programmers",
-      "pay_range": "$100 – $110 per hour",
-      "area": "Ormeau, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94686691",
-      "advertiser_id": "",
-      "posted_date": "2026-09-17T01:08:50Z",
-      "job_description": "<p><strong>NetSuite Developer – ERP Migration &amp; Customisation</strong></p><p><strong>Contract:</strong> Short-term contract / project-based<br><strong>Location:</strong> Onsite - Ormeau, QLD<br><strong>Engagement:</strong> Immediate start preferred</p><p><strong>About the Role</strong></p><p>We are seeking an experienced <strong>NetSuite Developer</strong> for a short-term contract to support the implementation of NetSuite within an established wholesale business.</p><p>The role will have a strong focus on <strong>data migration and ETL from our legacy ERP into NetSuite</strong>, together with developing and customising NetSuite workflows to support our operational requirements.</p><p>This is a hands-on role suited to someone who understands both the technical capabilities of NetSuite and how ERP systems need to operate in a busy <strong>wholesale, inventory and distribution environment</strong>.</p><p><strong>Key Responsibilities</strong></p><ul><li><p>Assist with the <strong>migration of data from our legacy ERP into NetSuite</strong>, including extraction, transformation, cleansing, mapping, validation and import.</p></li><li><p>Develop and execute ETL processes for master and transactional data, including customers, suppliers, products/SKUs, pricing, inventory, purchase orders, sales orders and related records.</p></li><li><p>Perform data reconciliation and validation to ensure completeness and accuracy following migration.</p></li><li><p>Review existing business processes and translate operational requirements into effective <strong>NetSuite workflows and customisations</strong>.</p></li><li><p>Configure and customise NetSuite to support wholesale processes including:</p><ul><li><p>Sales order processing and fulfilment</p></li><li><p>Purchasing and replenishment</p></li><li><p>Inventory and warehouse management</p></li><li><p>Customer and supplier management</p></li><li><p>Pricing and discount structures</p></li><li><p>Import purchasing and inbound inventory</p></li><li><p>Order approvals and exception management</p></li><li><p>Invoicing, credits and related financial workflows</p></li></ul></li><li><p>Develop <strong>SuiteScript</strong> solutions where standard NetSuite functionality or SuiteFlow cannot adequately support business requirements.</p></li><li><p>Create and modify workflows, custom records, custom fields, forms, saved searches, reports and scripts.</p></li><li><p>Automate manual processes and improve workflow efficiency across sales, purchasing, inventory, warehouse and finance functions.</p></li><li><p>Troubleshoot migration, scripting, workflow and integration issues.</p></li><li><p>Document customisations, scripts, migration processes and key system configurations.</p></li><li><p>Work closely with internal stakeholders to understand current processes, identify gaps and develop practical NetSuite solutions.</p></li></ul><p><strong>About You</strong></p><p>You will be an experienced NetSuite developer or technical consultant who is comfortable working independently and delivering practical solutions within a defined implementation timeframe.</p><p>Ideally, you will have:</p><ul><li><p>Strong hands-on <strong>NetSuite development and customisation experience</strong>.</p></li><li><p>Demonstrated experience with <strong>ERP migrations and ETL</strong>, preferably involving migration from a legacy ERP into NetSuite.</p></li><li><p>Strong experience with <strong>SuiteScript 2.x/2.1</strong>.</p></li><li><p>Experience with <strong>SuiteFlow, SuiteBuilder, saved searches, custom records and custom forms</strong>.</p></li><li><p>Experience with CSV imports, data mapping, transformation, cleansing and reconciliation.</p></li><li><p>Understanding of NetSuite integrations and APIs, including <strong>SuiteTalk REST/SOAP and RESTlets</strong>, where required.</p></li><li><p>Strong understanding of <strong>wholesale, distribution and inventory-based business processes</strong>.</p></li><li><p>Experience working with sales orders, purchase orders, inventory, fulfilment, receipting and related financial transactions.</p></li><li><p>Ability to understand an existing operational process and determine whether it should be addressed through configuration, workflow or custom scripting.</p></li><li><p>Strong troubleshooting and problem-solving skills.</p></li><li><p>Clear documentation and communication skills.</p></li></ul><p><strong>Highly Regarded</strong></p><p>Experience with any of the following would be advantageous:</p><ul><li><p>High-volume wholesale or distribution businesses</p></li><li><p>Containerised/import purchasing and inbound logistics</p></li><li><p>Multi-location inventory</p></li><li><p>Complex customer pricing and discount structures</p></li><li><p>EDI or third-party system integrations</p></li><li><p>Warehouse and freight integrations</p></li><li><p>NetSuite WMS</p></li><li><p>NetSuite OneWorld</p></li><li><p>Large-scale ERP data migration and reconciliation</p></li></ul><p><strong>The Engagement</strong></p><p>This is a <strong>short-term, project-focused contract</strong> with clearly defined implementation and migration objectives. The successful contractor will work closely with our internal team and NetSuite implementation resources to help ensure our legacy data is migrated accurately and NetSuite is configured and customised to support our day-to-day business processes.</p><p>We are particularly interested in someone who can combine <strong>strong NetSuite technical capability with an understanding of how a wholesale business actually operates</strong>.</p><p>If you have hands-on experience delivering NetSuite migrations, developing SuiteScript customisations and building practical workflows for wholesale or distribution businesses, we would like to hear from you.</p>",
-      "keywords": [
-        "netsuite",
-        "developer",
-        "erp",
-        "migration",
-        "customisation"
-      ]
-    },
-    {
-      "job_id": "94685678",
-      "job_title": "IT Support Officer",
-      "business_name": "Banks Benchtops",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Arundel, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94685678",
-      "advertiser_id": "400196524",
-      "posted_date": "2026-09-17T00:29:02Z",
-      "job_description": "<h2>IT Support Officer</h2><p><strong>Banks Benchtops</strong></p><p><strong>About the Role</strong></p><p>We're looking for a motivated junior IT professional to join our team across Banks Benchtops — growing Queensland-based stonemasonry businesses sharing a fast-paced, multi-site IT environment.</p><p>Based at our Arundel (Gold Coast) office, you'll work directly alongside the IT Manager to keep day-to-day operations running smoothly while getting genuine exposure to a broad range of systems, infrastructure projects, and business integrations. AI tools are increasingly central to how we work, and this role will actively contribute to how we adopt and integrate them. This is a hands-on role that will grow with you.</p><p><strong>What You'll Do</strong></p><ul><li><p>Provide first and second-level IT support to staff across our five sites (Arundel, Brendale, Archerfield, Rocklea)</p></li><li><p>Set up, configure, and troubleshoot Windows PCs, laptops, iOS devices, and printers</p></li><li><p>Support and maintain our Microsoft 365 environment (Exchange Online, SharePoint, Teams, OneDrive)</p></li><li><p>Assist with device management via Zoho Endpoint Central MDM</p></li><li><p>Help manage user accounts, access controls, and onboarding/offboarding in Entra ID</p></li><li><p>Assist with monitoring email security, responding to phishing reports, and managing quarantine queues</p></li><li><p>Contribute to IT projects including CRM integrations, workflow automation, and SharePoint development</p></li><li><p>Assist in evaluating, deploying, and supporting AI tools and assistants across the business</p></li><li><p>Help research and test AI integrations that improve team productivity and automate repetitive workflows</p></li><li><p>Maintain IT documentation, asset registers, and support tickets</p></li><li><p>Liaise with vendors and third-party support contacts as required</p></li><li><p>Support and troubleshoot hardware and software across desktops, laptops, and mobile devices</p></li><li><p>Assist users remotely, resolving issues efficiently without always being on-site</p></li><li><p>Provide support and gain exposure to CRM platforms (HubSpot, Cin7, Salesforce, or similar)</p></li><li><p>Support networking and server infrastructure as required</p></li><li><p>Provide support for industry software such as AutoCAD, SECAD, or similar design/manufacturing tools</p></li></ul><p><strong>What We're Looking For</strong></p><p><strong>Essential:</strong></p><ul><li><p>A genuine interest in IT — whether from study, self-teaching, or hands-on experience</p></li><li><p>Minimum 1-2 years of practical IT experience required</p></li><li><p>Solid understanding of Windows operating systems and Microsoft 365 basics</p></li><li><p>Experience with Microsoft 365 administration (Exchange, SharePoint, Entra ID)</p></li><li><p>Hands-on experience with AI tools — LLMs, AI assistants, prompt engineering, or local AI deployments (e.g. Ollama, OpenAI API, Claude)</p></li><li><p>Strong communication skills and a customer-first attitude when supporting staff</p></li><li><p>Ability to work independently and manage competing priorities</p></li><li><p>Eagerness to learn and take on new challenges</p></li><li><p>Full working rights in Australia</p></li></ul><p><strong>Desirable (not required):</strong></p><ul><li><p>Familiarity with mobile device management (MDM) platforms</p></li><li><p>Exposure to Power Automate, SharePoint, or similar tools</p></li><li><p>Understanding of email security concepts (SPF, DKIM, DMARC)</p></li><li><p>Any experience with HubSpot, Xero, or ERP/CRM systems</p></li><li><p>Interest in agentic AI workflows, automation, or integrating AI into business processes</p></li><li><p>Familiarity or experience working in a construction or manufacturing company</p></li><li><p>Relevant IT qualifications (Industry Certificates or equivalent)</p></li></ul><p><strong>What We Offer</strong></p><p><strong>A real IT role with genuine variety — no two days are the same</strong></p><ul><li><p>Direct mentorship from an experienced IT Manager across a broad tech stack</p></li><li><p>Exposure to Microsoft 365, cloud infrastructure, CRM platforms, Power Automate, AI tools, and more</p></li><li><p>Supportive team culture across a well-established, privately owned business group</p></li><li><p>Opportunity to grow into a senior IT role as the business scales</p></li><li><p>Gold Coast-based role — Arundel office with occasional site travel</p></li></ul><p><br></p>",
-      "keywords": [
-        "it",
-        "support",
-        "officer"
-      ]
-    },
-    {
-      "job_id": "94685311",
-      "job_title": "Level 1 Support technician",
-      "business_name": "Daelibs Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$65,000 – $76,000 per year",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94685311",
-      "advertiser_id": "37450607",
-      "posted_date": "2026-09-17T00:21:06Z",
-      "job_description": "<h2><strong>About Us</strong></h2><p>Daelibs is an award-winning IoT company with over 20 years of experience delivering cutting-edge spatial solutions. We pride ourselves on providing industry-leading technology supported by outstanding customer service.</p><p>Our core business provides mobile SaaS solutions to a range of private organisations and government clients, with our technology operating across the Asia-Pacific region.</p><hr><h2><strong>About the Role</strong></h2><p>We’re seeking a motivated and customer-focused <strong>Level 1 Customer Support Technician</strong> to join our award winning team. As the first point of contact for our valued customers, you’ll play a key role in delivering prompt, effective support while embodying the Daelibs brand through your professionalism and personable approach.</p><p>In this role, you’ll provide timely resolutions to routine technical issues, manage service requests, and escalate matters that fall outside your scope.</p><hr><h2><strong>Key Responsibilities</strong></h2><ul><li><p>Deliver frontline support services in line with agreed SLAs</p></li><li><p>Log, validate, and document incoming support requests</p></li><li><p>Maintain accurate records in the ticketing system</p></li><li><p>Provide timely updates to customers and internal teams</p></li><li><p>Install, configure, and maintain Standard Operating Environments (SOE)</p></li><li><p>Troubleshoot and resolve hardware/software issues</p></li><li><p>Test new product releases and assist with QA processes</p></li><li><p>Escalate complex issues as appropriate</p></li><li><p>Maintain up-to-date support documentation and standards</p></li><li><p>Contribute to support process improvements and team initiatives</p></li></ul><hr><h2><strong>About You</strong></h2><p>To be successful in this role, you will demonstrate:</p><ul><li><p>A genuine passion for delivering exceptional customer service</p></li><li><p>Strong written and verbal communication skills</p></li><li><p>Exposure to IT technical support or related activities</p></li><li><p>Solid troubleshooting and problem-solving abilities</p></li><li><p>High attention to detail</p></li><li><p>Effective time management and prioritisation skills</p></li><li><p>Strong interpersonal skills and the ability to work with a diverse range of customers</p></li><li><p>Adaptability and a proactive approach to change</p></li><li><p>A high level of self-motivation and personal accountability</p></li></ul><hr><h2><strong>Desirable Qualifications and Experience</strong></h2><ul><li><p>Background in IT or a relevant qualification</p></li></ul><hr><p>If you’re ready to take the next step in your career, click <strong>‘Apply for this job’</strong> via SEEK and upload your cover letter and resume.</p>",
-      "keywords": [
-        "support",
-        "technician"
-      ]
-    },
-    {
-      "job_id": "94685152",
-      "job_title": "Salesforce & Technology Lead",
-      "business_name": "JLF Group of Companies",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "$140,000 – $180,000 per year",
-      "area": "Nerang, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94685152",
-      "advertiser_id": "45276000",
-      "posted_date": "2026-09-17T00:04:24Z",
-      "job_description": "<p><strong>About Custodian</strong>&nbsp;</p><p>Custodian is an Australian property investment company with a long history of helping Australians build long-term wealth through residential property investment.&nbsp;</p><p>Our end-to-end investment model brings together property strategy, finance, property acquisition, construction and property management support, providing clients with a simpler, lower-risk way to invest in new property.&nbsp;</p><p>Technology is increasingly central to how we attract and manage clients, operate our business, manage data and deliver an exceptional client experience.&nbsp;</p><p>We are looking for a commercially minded, hands-on Salesforce &amp; Technology Lead to take ownership of Salesforce and help shape the technology, systems and processes that will support Custodian's next phase of growth.&nbsp;</p><p><strong>The Opportunity</strong>&nbsp;</p><p>This is an in-office role based at our Gold Coast office.</p><p>This is a newly created role for someone who can operate at the intersection of Salesforce, technology, data and business improvement.&nbsp;</p><p>You will be Custodian's internal Salesforce expert and technology lead, working closely with senior leaders and teams across the business to identify opportunities, solve problems and implement practical technology solutions.&nbsp;</p><p>The role combines hands-on Salesforce development and optimisation with technology strategy, project leadership, automation, data, integrations and vendor management.&nbsp;</p><p>We are looking for someone who is strategic enough to see the bigger picture, but hands-on enough to roll up their sleeves and make things happen. You will also be responsible for managing external consultants for specialist assistance as needed, and ensuring technology optimisation projects are delivered in a timely and efficient manner, and on budget.&nbsp;</p><p><strong>Key Responsibilities</strong>&nbsp;</p><ul><li><p>Own the ongoing development, optimisation and performance of Salesforce as a critical business platform.&nbsp;</p></li></ul><ul><li><p>Act as Custodian's primary Salesforce subject matter expert and provide technical guidance across the business.&nbsp;</p></li></ul><ul><li><p>Design, configure, develop and implement Salesforce solutions, including Flows, automation, reports, dashboards and, where appropriate, Apex and Lightning Web Components.&nbsp;</p></li></ul><ul><li><p>Translate business requirements and pain points into practical, scalable technology solutions.&nbsp;</p></li></ul><ul><li><p>Improve data quality, governance, reporting and visibility across the customer lifecycle.&nbsp;</p></li></ul><ul><li><p>Design, manage and improve integrations, APIs and data flows between Salesforce and other business systems.&nbsp;</p></li></ul><ul><li><p>Lead technology and systems projects from concept through to implementation, including requirements, planning, testing, delivery and adoption.&nbsp;</p></li></ul><ul><li><p>Identify opportunities to automate manual processes and improve productivity through technology, AI and workflow automation.&nbsp;</p></li></ul><ul><li><p>Manage external Salesforce developers, consultants and technology providers, ensuring appropriate scope, quality, cost and delivery.&nbsp;</p></li></ul><ul><li><p>Evaluate technology solutions and suppliers based on business value, risk, cost and return on investment.&nbsp;</p></li></ul><ul><li><p>Ensure technology systems are appropriately secure, reliable, documented and governed.&nbsp;</p></li></ul><ul><li><p>Support Salesforce adoption through effective user engagement, training and continuous improvement.&nbsp;</p></li></ul><ul><li><p>Stay informed about emerging Salesforce, AI and technology capabilities and identify those with genuine commercial application for Custodian.&nbsp;</p></li></ul><p><strong>Skills &amp; Experience</strong>&nbsp;</p><p><strong>Essential</strong>&nbsp;</p><ul><li><p>Significant experience in a senior Salesforce, business systems, technology or digital transformation role.&nbsp;</p></li></ul><ul><li><p>Strong hands-on Salesforce experience across configuration, automation, development, reporting and data management.&nbsp;</p></li></ul><ul><li><p>Experience with Salesforce Flow and ideally Apex, Lightning Web Components, Salesforce Marketing Cloud, and Salesforce APIs.&nbsp;</p></li></ul><ul><li><p>Demonstrated experience delivering technology or Salesforce projects from requirements through to implementation.&nbsp;</p></li></ul><ul><li><p>Experience managing external technology consultants, developers or suppliers.&nbsp;</p></li></ul><ul><li><p>Strong business process improvement and problem-solving skills.&nbsp;</p></li></ul><ul><li><p>Excellent stakeholder management and communication skills.&nbsp;</p></li></ul><ul><li><p>Commercial mindset with an ability to assess technology based on business value, cost, risk and ROI.&nbsp;</p></li></ul><ul><li><p>Ability to work independently, take ownership and drive initiatives through to completion.&nbsp;</p></li></ul><p><strong>Desirable</strong>&nbsp;</p><ul><li><p>Salesforce certifications.&nbsp;</p></li></ul><ul><li><p>Understanding of cybersecurity, privacy and technology governance.&nbsp;</p></li></ul><ul><li><p>Experience in property, financial services, professional services or another customer-facing environment.&nbsp;</p></li></ul><p><strong>The Person</strong>&nbsp;</p><p>You are:&nbsp;</p><ul><li><p><strong>Strategic but hands-on</strong> – able to develop a roadmap but equally comfortable getting into Salesforce and building the solution.&nbsp;</p></li></ul><ul><li><p><strong>Commercial</strong> – focused on business outcomes, not technology for technology's sake.&nbsp;</p></li></ul><ul><li><p><strong>A problem solver</strong> – naturally curious and motivated to find better ways of doing things.&nbsp;</p></li></ul><ul><li><p><strong>Pragmatic</strong> – able to balance the ideal solution with what is practical and valuable.&nbsp;</p></li></ul><ul><li><p><strong>Influential</strong> – confident working with senior leaders, frontline teams and technical specialists.&nbsp;</p></li></ul><ul><li><p><strong>Accountable</strong> – you take ownership of outcomes, not just tasks.&nbsp;</p></li></ul><ul><li><p><strong>A strong communicator</strong> – able to explain complex technology in straightforward business language.&nbsp;</p></li></ul><p><strong>Why Join Custodian?</strong>&nbsp;</p><p>This is an opportunity to build, not simply maintain.&nbsp;</p><p>You will have genuine ownership of Custodian's Salesforce and technology capability and the opportunity to influence how the business operates as it enters its next phase of growth.&nbsp;</p><p>You'll work directly with senior leaders and teams across the business, with the autonomy to bring in specialist expertise where required.&nbsp;</p><p>Most importantly, you'll see your work translate directly into better systems, less administration, better data, greater productivity and a better experience for our clients and our people.&nbsp;</p><p>We also invest heavily in our culture so you’ll work alongside people who genuinely enjoying coming to work each day, enjoy social functions, weekly yoga class and paid birthday leave.&nbsp;</p><p>If this role sounds like a good fit? Or perhaps you feel you can undertake most, but not all of the role, please reach out. We’d still like to speak with you.&nbsp;</p>",
-      "keywords": [
-        "salesforce",
-        "technology"
       ]
     }
   ]
