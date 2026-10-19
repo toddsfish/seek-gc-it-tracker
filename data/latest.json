@@ -1,336 +1,443 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "region": "Gold Coast",
-  "scraped_at": "2026-10-19T08:03:28.522571+10:00",
-  "total_jobs": 42,
+  "scraped_at": "2026-10-20T09:13:07.562574+10:00",
+  "total_jobs": 45,
   "keywords": [
+    {
+      "term": "support",
+      "count": 11,
+      "share": 0.2444
+    },
     {
       "term": "engineer",
       "count": 9,
-      "share": 0.2143
-    },
-    {
-      "term": "support",
-      "count": 9,
-      "share": 0.2143
+      "share": 0.2
     },
     {
       "term": "it",
-      "count": 6,
-      "share": 0.1429
+      "count": 7,
+      "share": 0.1556
     },
     {
       "term": "manager",
       "count": 6,
-      "share": 0.1429
+      "share": 0.1333
     },
     {
       "term": "analyst",
       "count": 4,
-      "share": 0.0952
+      "share": 0.0889
+    },
+    {
+      "term": "developer",
+      "count": 4,
+      "share": 0.0889
     },
     {
       "term": "software",
       "count": 4,
-      "share": 0.0952
+      "share": 0.0889
+    },
+    {
+      "term": "technician",
+      "count": 4,
+      "share": 0.0889
     },
     {
       "term": "officer",
       "count": 4,
-      "share": 0.0952
+      "share": 0.0889
     },
     {
-      "term": "developer",
+      "term": "systems",
       "count": 3,
-      "share": 0.0714
+      "share": 0.0667
     },
     {
-      "term": "technician",
+      "term": "administrator",
       "count": 3,
-      "share": 0.0714
+      "share": 0.0667
+    },
+    {
+      "term": "technical",
+      "count": 3,
+      "share": 0.0667
     },
     {
       "term": "project",
       "count": 3,
-      "share": 0.0714
+      "share": 0.0667
     },
     {
       "term": "delivery",
       "count": 3,
-      "share": 0.0714
+      "share": 0.0667
     },
     {
       "term": "business",
       "count": 2,
-      "share": 0.0476
+      "share": 0.0444
+    },
+    {
+      "term": "operations",
+      "count": 2,
+      "share": 0.0444
     },
     {
       "term": "ai",
       "count": 2,
-      "share": 0.0476
+      "share": 0.0444
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.0476
+      "share": 0.0444
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0476
+      "share": 0.0444
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0476
+      "share": 0.0444
     },
     {
-      "term": "technical",
+      "term": "network",
       "count": 2,
-      "share": 0.0476
+      "share": 0.0444
+    },
+    {
+      "term": "coordinator",
+      "count": 2,
+      "share": 0.0444
     },
     {
       "term": "service",
       "count": 2,
-      "share": 0.0476
-    },
-    {
-      "term": "administrator",
-      "count": 2,
-      "share": 0.0476
+      "share": 0.0444
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0476
+      "share": 0.0444
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.0476
+      "share": 0.0444
     },
     {
       "term": "soc",
       "count": 2,
-      "share": 0.0476
+      "share": 0.0444
     },
     {
       "term": "test",
       "count": 2,
-      "share": 0.0476
-    },
-    {
-      "term": "operations",
-      "count": 1,
-      "share": 0.0238
+      "share": 0.0444
     },
     {
       "term": "intelligence",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "associate",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
+    },
+    {
+      "term": "computer",
+      "count": 1,
+      "share": 0.0222
     },
     {
       "term": "services",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "recent",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "prep",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "year",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "account",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "broadbeach",
       "count": 1,
-      "share": 0.0238
-    },
-    {
-      "term": "systems",
-      "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "technology",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "nursing",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "director",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "experience",
       "count": 1,
-      "share": 0.0238
-    },
-    {
-      "term": "coordinator",
-      "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "portfolio",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "management",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "consultant",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "formwork",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "telecommunications",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "worker",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "quality",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "assurance",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
+    },
+    {
+      "term": "web",
+      "count": 1,
+      "share": 0.0222
+    },
+    {
+      "term": "umbraco",
+      "count": 1,
+      "share": 0.0222
+    },
+    {
+      "term": "cms",
+      "count": 1,
+      "share": 0.0222
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0238
+      "share": 0.0222
     }
   ],
   "jobs": [
+    {
+      "job_id": "95362560",
+      "job_title": "Technical Support & Operations Coordinator",
+      "business_name": "Woods & Co",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "$70,000 - $80,000 + super",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95362560",
+      "advertiser_id": "38821903",
+      "posted_date": "2026-10-19T22:13:42Z",
+      "job_description": "<p><strong>Woods &amp; Co </strong>Recruitment has partnered with a growing and innovative technology business specialising in beautifully designed, permanent photobooth installations across pubs and clubs. With a strong focus on hospitality, customer service and reliable technology, they're looking to add a hands-on and technically minded Technical Support &amp; Operations Coordinator to their growing team.</p><p>This is an opportunity suited to someone who enjoys problem-solving, working with technology and delivering outstanding customer service. You'll be responsible for monitoring photobooths remotely, managing client enquiries, troubleshooting technical issues and supporting the day-to-day operations of the business. Working closely with the events and operations teams, you'll also assist with installations and attend venues to resolve hardware issues when required.</p><p><strong>What's in it for you?</strong></p><ul><li><p>Opportunity to join a growing and innovative technology business</p></li><li><p>Varied role across technical support, customer service and operations</p></li><li><p>Hands-on exposure to a range of software, hardware and monitoring systems</p></li><li><p>Opportunity to develop your technical skills and learn new systems</p></li><li><p>Supportive and collaborative team environment</p></li><li><p>A mix of independent work, problem-solving and teamwork</p></li></ul><p><strong>What you'll be doing</strong></p><ul><li><p>Responding to client enquiries via email and digital platforms with a friendly, professional approach</p></li><li><p>Monitoring photobooths remotely and troubleshooting technical issues as they arise</p></li><li><p>Learning and managing internal software, monitoring systems and backend tools</p></li><li><p>Maintaining accurate fault logs, service records and event documentation</p></li><li><p>Coordinating with the events and operations teams before and during activations</p></li><li><p>Supporting backend administration, logistics and day-to-day operations</p></li><li><p>Attending venues to resolve hardware issues and assisting with photobooth installations when required</p></li><li><p>Escalating complex issues, following up on faults and helping improve system reliability</p></li></ul><p><strong>What we're looking for</strong></p><ul><li><p>Experience in technical support, IT, customer service, administration, hospitality, events or a similar role</p></li><li><p>Intermediate computer skills and the ability to quickly learn new software</p></li><li><p>Strong problem-solving skills and a calm approach under pressure</p></li><li><p>Excellent written and verbal communication skills</p></li><li><p>A customer-first mindset with strong organisational skills and attention to detail</p></li><li><p>Basic coding, software development or HTML knowledge would be highly regarded, but isn't essential</p></li><li><p>Ability to work independently and as part of a collaborative team</p></li><li><p>Queensland-based and able to attend venues onsite when required</p></li><li><p>Flexible, reliable and available to work the required weekday, evening and weekend roster</p></li></ul><p>If this sounds like you, please don't delay and&nbsp;APPLY NOW! We are interviewing immediately.</p><p>For a confidential discussion please call Flynn on<strong>&nbsp;<a href=\"tel:0489 089 604\">0489 089 604</a>&nbsp;</strong>Or email:&nbsp;<strong><a href=\"mailto:flynn@woodsco.com.au\">flynn@woodsco.com.au</a>&nbsp;</strong></p><p>Woods &amp; Co Recruitment&nbsp;is committed to creating a positively diverse and inclusive workforce that values all backgrounds and experiences. We do not discriminate and encourage applications (no matter age or status) from Aboriginal and Torres Strait Islander people, people from culturally and/or linguistically diverse backgrounds, all members, and genders of the LGBTQI community and people with disability. &nbsp;&nbsp; *You will only be contacted if you are shortlisted.</p>",
+      "keywords": [
+        "technical",
+        "support",
+        "operations",
+        "coordinator"
+      ]
+    },
+    {
+      "job_id": "95345437",
+      "job_title": "Level 2 IT Support Technician / Systems & Network Administrator",
+      "business_name": "Future Business Technology Group",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "$70,000 – $80,000 per year",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95345437",
+      "advertiser_id": "62668697",
+      "posted_date": "2026-10-19T03:51:06Z",
+      "job_description": "<p><strong>About the role</strong></p><p>You'll work across a broad range of customer environments, providing remote and onsite support while helping manage their day-to-day IT systems. The position is based in Southport CBD, with periodic travel to our Brisbane office and customer sites across South East Queensland.</p><p><strong>Key responsibilities</strong></p><ul><li><p>Level 1 and Level 2 remote and onsite support</p></li><li><p>Microsoft 365 administration, including Entra ID, Exchange, SharePoint, Intune and Defender</p></li><li><p>Windows and macOS workstation and server environments</p></li><li><p>User onboarding, offboarding, accounts and permissions</p></li><li><p>Network troubleshooting across routers, firewalls, switches, Wi-Fi, VLANs, DNS and DHCP</p></li><li><p>Managing customer devices and assets through RMM platform</p></li><li><p>Endpoint security, cybersecurity monitoring and remediation</p></li><li><p>Backup monitoring, troubleshooting and management</p></li><li><p>Microsoft 365, workstation, network and hardware deployments</p></li><li><p>Hosted VoIP phone system and handset support</p></li></ul><p><strong>About you</strong></p><ul><li><p>Solid hands-on experience with Microsoft 365 administration</p></li><li><p>Experience with Windows and macOS environments</p></li><li><p>Windows Server experience</p></li><li><p>Microsoft Intune, Defender, Entra ID, Exchange and SharePoint experience</p></li><li><p>Networking and Wi-Fi troubleshooting</p></li><li><p>Endpoint security and backup solutions experience</p></li><li><p>RMM and remote support tools experience</p></li><li><p>Hardware and software troubleshooting</p></li><li><p>Basic VoIP and business telephony knowledge</p></li><li><p>Current Australian Driver's Licence</p></li></ul><p><strong>About us</strong></p><p>FBT Group is a proudly Australian-owned technology company with over 40 years in business. Starting in business communications and telecommunications, we've continued to evolve with technology and today provide Managed IT, Microsoft 365, Cyber Security, Cloud, Networking, Backup and Business Telephony solutions to customers across Australia. With offices in Southport CBD and Brisbane Southside, we're a growing team of experienced professionals.</p><p><strong>Benefits</strong></p><ul><li><p>Competitive salary based on experience and qualifications</p></li><li><p>Southport CBD office location</p></li><li><p>Varied work across IT, Cloud, Cyber Security, Networking and Telecommunications</p></li><li><p>Exposure to customers and environments across Australia</p></li><li><p>Mix of helpdesk, onsite and project work</p></li><li><p>Ongoing training and support for relevant industry certifications</p></li><li><p>Genuine opportunity to grow your technical career</p></li><li><p>Supportive and experienced team</p></li><li><p>Annual team-building events, including overseas team trips</p></li></ul><p><br></p>",
+      "keywords": [
+        "it",
+        "support",
+        "technician",
+        "systems",
+        "network",
+        "administrator"
+      ]
+    },
+    {
+      "job_id": "95345421",
+      "job_title": "Computer Network and Systems Engineer",
+      "business_name": "Nova Biomedical",
+      "work_type": "Full time",
+      "job_type": "Engineering - Network",
+      "pay_range": "$70,000 – $80,000 per year",
+      "area": "Arundel, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95345421",
+      "advertiser_id": "61915879",
+      "posted_date": "2026-10-19T03:48:24Z",
+      "job_description": "<p><strong>About the role</strong></p><p>We’re looking for a full-time Computer Network and Systems Engineer to join our technical team. You’ll install, configure, maintain and troubleshoot networked medical and computer-based equipment at client sites, so that devices integrate reliably with hospital networks and IT systems.</p><p><strong>Key responsibilities</strong></p><ul><li><p>Install, configure and commission medical and computer-based equipment, including connecting devices to hospital networks and IT systems</p></li><li><p>Carry out software and firmware updates and system configuration on medical and computer devices</p></li><li><p>Diagnose and resolve faults across hardware, software and network components</p></li><li><p>Carry out preventative maintenance, servicing and calibration of equipment in hospitals and day surgeries</p></li><li><p>Perform electrical safety testing to AS/NZS 3551 and AS/NZS 3760</p></li><li><p>Keep accurate service records, test results and reports, and upload them to our job management system</p></li><li><p>Liaise with hospital biomedical, clinical, IT and facilities staff to schedule work and report on equipment and system condition</p></li><li><p>Follow ISO 9001 quality processes, manufacturer service procedures and WHS requirements</p></li><li><p>Travel to client sites across Queensland and interstate as required</p></li></ul><p><strong>About you</strong></p><ul><li><p>A relevant qualification in computer systems, networking, electronics or biomedical engineering, or equivalent experience</p></li><li><p>Experience configuring, troubleshooting and maintaining networked systems and devices</p></li><li><p>Strong fault-finding and problem-solving skills</p></li><li><p>Good communication skills and the ability to work with clinical and technical staff</p></li><li><p>Current driver’s licence and willingness to travel</p></li></ul><p><strong>How to apply</strong></p><p>Apply via Seek with your resume and a short cover letter outlining your relevant experience. Will only be looking at applicant through seek and will not consider applicants via email.</p>",
+      "keywords": [
+        "computer",
+        "network",
+        "systems",
+        "engineer"
+      ]
+    },
+    {
+      "job_id": "95337412",
+      "job_title": "Web Developer (Umbraco CMS)",
+      "business_name": "Koben Digital",
+      "work_type": "Full time",
+      "job_type": "Web Development & Production",
+      "pay_range": "",
+      "area": "Robina, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95337412",
+      "advertiser_id": "35293242",
+      "posted_date": "2026-10-18T23:27:46Z",
+      "job_description": "<p><strong>About the role</strong></p><p>We are hiring a developer to join our delivery team. You will build and maintain CMS projects for our clients, working with designers, project managers and other developers from planning through to launch and support.</p><p>This is an in-office full-time role. <strong>We do not offer hybrid or work at home arrangements.</strong></p><p>We will not respond to recruiters, and we do not need assistance in hiring for this role.</p><p><strong>Key responsibilities</strong></p><ul><li><p>Build Umbraco websites and integrations from specifications and designs</p></li><li><p>Help plan and estimate work with the project team</p></li><li><p>Upgrade and maintain existing client sites</p></li><li><p>Review code and follow our development standards</p></li><li><p>Use AI tools as part of planning, building, testing and reviewing work</p></li></ul><p><strong>About you</strong></p><ul><li><p>2 to 3 years of commercial development experience</p></li><li><p>Solid C# and .NET skills</p></li><li><p>Experience with a CMS, ideally Umbraco</p></li><li><p>Working knowledge of HTML, CSS and JavaScript</p></li><li><p>Experience building front ends with Tailwind CSS and Next.js</p></li><li><p>Comfortable with SQL, Git and Azure</p></li><li><p>Confident using AI coding tools (such as Claude Code, Copilot or Cursor) in your daily work, and able to explain how you check the output</p></li><li><p>Clear written and verbal communication</p></li></ul><p><strong>About us</strong></p><p>Koben is a Gold Coast digital agency. We specialise in Umbraco CMS development and build websites and digital platforms for government, not-for-profit and enterprise clients across Australia.</p><p><strong>Benefits</strong></p><ul><li><p>Monthly team lunch</p></li><li><p>No suits, causal attire, relaxed environment</p></li><li><p>Umbraco certification after a period of continuous service</p></li></ul><p><br></p>",
+      "keywords": [
+        "web",
+        "developer",
+        "umbraco",
+        "cms"
+      ]
+    },
     {
       "job_id": "95308118",
       "job_title": "Telecommunications Worker",
@@ -386,23 +493,6 @@
         "magento",
         "stack",
         "developer"
-      ]
-    },
-    {
-      "job_id": "95254840",
-      "job_title": "Principal Engineer",
-      "business_name": "VenueSumo Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Engineering - Software",
-      "pay_range": "",
-      "area": "Mermaid Beach, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95254840",
-      "advertiser_id": "62460031",
-      "posted_date": "2026-10-14T03:06:35Z",
-      "job_description": "<p><strong>About us</strong></p><p>VenueSumo is the all-in-one POS, online ticketing and venue management platform for family entertainment centres, amusement parks and attractions. Venue operators run their whole business on us: bookings and ticketing, point of sale, waivers, memberships, CRM, payments, gift cards and more. We're an Australian-born SaaS scale-up growing fast across Australia, North America and the UK. We've just closed a growth equity round, and we're investing it in the team and the product. Our ambition is big: to make VenueSumo the leading AI-native operating system for leisure and attractions, where intelligent automation handles the busywork and operators spend their time on guests.</p><p><strong>About the role</strong></p><p>You'll be one of the most senior hands-on engineers at VenueSumo. You'll build features end to end across our .NET backend, SQL Server data layer and web front end, and you'll own the Microsoft Azure infrastructure they run on. As a technical lead, you'll set the bar for code quality, lead the technical design of major features and integrations, and mentor the engineers around you. You'll work closely with our Head of Engineering and CTO on architecture and on modernising the platform. You'll also make our cloud platform resilient, secure, observable and cost-efficient as we scale across three continents. Above all, we're looking for a systems thinker and an innovative problem solver. You'll use the best AI development tools every day, but AI is there to amplify great engineers, not to do the thinking for them. We want someone who understands problems deeply, sees how the pieces of a complex platform fit together, and designs solutions that last.</p><p><strong>Key responsibilities</strong></p><ul><li><p>Design, build and ship features end to end: C#/.NET services and APIs, SQL Server, and modern web front ends</p></li><li><p>Own your work from first prototype to production, including testing, release and support</p></li><li><p>Work with Product to turn ideas into working prototypes in days, then harden them into production features</p></li><li><p>Take on the hardest technical problems: performance, data integrity, reporting and complex business logic</p></li><li><p>Fix customer-raised issues quickly and at the root cause, not just the symptom</p></li><li><p>Own the Azure environment our platform runs on: compute, databases, storage, networking, CDN and identity</p></li><li><p>Define infrastructure as code so every environment is repeatable and version controlled</p></li><li><p>Build and run CI/CD pipelines (Azure DevOps or GitHub Actions) that let us ship small changes safely and often</p></li><li><p>Make the platform observable, with monitoring, logging, alerting and incident response using Azure Monitor and Application Insights</p></li><li><p>Lead on reliability, scalability, backup and disaster recovery, and on multi-region readiness as we grow across Australia, North America and the UK</p></li></ul><p><strong>About you</strong></p><ul><li><p>A systems architect's mindset. You think about how a whole platform fits together (data, services, integrations and infrastructure) and design for scale, resilience and change</p></li><li><p>A track record as an innovative problem solver: you break down complex, ambiguous problems, weigh the trade-offs and find elegant solutions</p></li><li><p>8+ years in software engineering, including time as a lead or senior engineer setting technical direction for a team</p></li><li><p>Strong full stack skills: C#/.NET and SQL Server (T-SQL), plus modern web front ends (JavaScript/TypeScript; React or similar)</p></li><li><p>Proven hands-on experience designing, building and running production infrastructure on Microsoft Azure</p></li><li><p>Infrastructure as code and CI/CD pipelines (Azure DevOps or GitHub Actions)</p></li><li><p>Solid knowledge of Azure networking, identity and security (virtual networks, Microsoft Entra ID, Key Vault, managed identities), and monitoring with Azure Monitor and Application Insights</p></li><li><p>Experience with performance tuning, scaling, high availability and disaster recovery for a production SaaS platform</p></li><li><p>Experience designing APIs and integrations at scale, and modernising a mature codebase while it keeps serving customers</p></li><li><p>Deep, current hands-on use of AI coding tools, paired with the judgement to know where AI helps and where careful thinking matters more</p></li></ul><p><strong>Benefits</strong></p><ul><li><p>A senior, hands-on lead role in a freshly funded, fast-growing SaaS business</p></li><li><p>Real influence over our architecture, our infrastructure and how we build the leading AI-native operating system for leisure and attractions</p></li><li><p>A generous budget for the best AI tools. No waiting for approval to try what's new</p></li><li><p>Competitive salary</p></li><li><p>A Gold Coast office at Mermaid Beach, or remote from anywhere in Australia or New Zealand</p></li><li><p>A small team of highly talented senior developers who ship fast and work close to the venues that use our software every day</p></li></ul><p><br></p>",
-      "keywords": [
-        "engineer"
       ]
     },
     {
