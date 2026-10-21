@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "region": "Gold Coast",
-  "scraped_at": "2026-10-21T08:49:50.227135+10:00",
+  "scraped_at": "2026-10-22T08:54:12.428391+10:00",
   "total_jobs": 48,
   "keywords": [
     {
       "term": "support",
-      "count": 14,
-      "share": 0.2917
+      "count": 13,
+      "share": 0.2708
     },
     {
       "term": "engineer",
@@ -16,8 +16,8 @@
     },
     {
       "term": "it",
-      "count": 8,
-      "share": 0.1667
+      "count": 7,
+      "share": 0.1458
     },
     {
       "term": "manager",
@@ -25,19 +25,14 @@
       "share": 0.125
     },
     {
-      "term": "technician",
+      "term": "analyst",
       "count": 5,
       "share": 0.1042
     },
     {
-      "term": "analyst",
-      "count": 4,
-      "share": 0.0833
-    },
-    {
-      "term": "developer",
-      "count": 4,
-      "share": 0.0833
+      "term": "technician",
+      "count": 5,
+      "share": 0.1042
     },
     {
       "term": "software",
@@ -45,9 +40,9 @@
       "share": 0.0833
     },
     {
-      "term": "officer",
-      "count": 4,
-      "share": 0.0833
+      "term": "developer",
+      "count": 3,
+      "share": 0.0625
     },
     {
       "term": "network",
@@ -65,7 +60,12 @@
       "share": 0.0625
     },
     {
-      "term": "technical",
+      "term": "service",
+      "count": 3,
+      "share": 0.0625
+    },
+    {
+      "term": "officer",
       "count": 3,
       "share": 0.0625
     },
@@ -110,17 +110,22 @@
       "share": 0.0417
     },
     {
+      "term": "specialist",
+      "count": 2,
+      "share": 0.0417
+    },
+    {
+      "term": "technical",
+      "count": 2,
+      "share": 0.0417
+    },
+    {
       "term": "coordinator",
       "count": 2,
       "share": 0.0417
     },
     {
-      "term": "service",
-      "count": 2,
-      "share": 0.0417
-    },
-    {
-      "term": "product",
+      "term": "desk",
       "count": 2,
       "share": 0.0417
     },
@@ -170,22 +175,7 @@
       "share": 0.0208
     },
     {
-      "term": "help",
-      "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "desk",
-      "count": 1,
-      "share": 0.0208
-    },
-    {
       "term": "application",
-      "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "specialist",
       "count": 1,
       "share": 0.0208
     },
@@ -200,27 +190,17 @@
       "share": 0.0208
     },
     {
+      "term": "help",
+      "count": 1,
+      "share": 0.0208
+    },
+    {
+      "term": "applications",
+      "count": 1,
+      "share": 0.0208
+    },
+    {
       "term": "recent",
-      "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "account",
-      "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "helpdesk",
-      "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "prep",
-      "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "year",
       "count": 1,
       "share": 0.0208
     },
@@ -245,7 +225,22 @@
       "share": 0.0208
     },
     {
-      "term": "broadbeach",
+      "term": "helpdesk",
+      "count": 1,
+      "share": 0.0208
+    },
+    {
+      "term": "prep",
+      "count": 1,
+      "share": 0.0208
+    },
+    {
+      "term": "year",
+      "count": 1,
+      "share": 0.0208
+    },
+    {
+      "term": "account",
       "count": 1,
       "share": 0.0208
     },
@@ -256,6 +251,11 @@
     },
     {
       "term": "technology",
+      "count": 1,
+      "share": 0.0208
+    },
+    {
+      "term": "product",
       "count": 1,
       "share": 0.0208
     },
@@ -386,6 +386,43 @@
     }
   ],
   "jobs": [
+    {
+      "job_id": "95405431",
+      "job_title": "Service Desk Analyst",
+      "business_name": "EFEX",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Robina, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95405431",
+      "advertiser_id": "39088275",
+      "posted_date": "2026-10-21T05:48:26Z",
+      "job_description": "<p><strong>Ready to take the next step in your IT career?</strong></p><p><strong></strong></p><p>At <strong>efex</strong>, no two days are the same. In this role, you'll join our <strong>onPlatinum </strong>team on the<strong> Gold Coast</strong>, supporting a diverse range of clients, working with modern technologies, and developing your skills within a supportive and customer-focused MSP environment. Backed by the scale and opportunities of a national technology provider, you'll have the chance to learn, grow and build a rewarding IT career.</p><p></p><p><strong>Who We Are</strong></p><p>With over 20 locations across Australia and a strong national presence, <strong>efex</strong> is one of Australia's leading managed technology providers. We deliver right-sized solutions across IT, print, communications and security, helping businesses work smarter, stay connected and grow with confidence.</p><p></p><p>As part of the <strong>efex</strong> group, <strong>onPlatinum</strong> is our Gold Coast-based team, known for delivering exceptional customer service and trusted technology solutions to businesses throughout the region. By combining local expertise and relationships with the resources and capability of a national organisation, we offer the best of both worlds for our clients and our people.</p><p></p><p>Our culture is approachable, collaborative and people focused. We build genuine relationships, speak in plain language, and work together to solve problems that make a real difference for our customers.</p><p></p><p><strong>The Role</strong></p><p>As a&nbsp;<strong>Service Desk Analyst</strong>, you will play a key role in supporting our clients and ensuring their IT systems run smoothly. This is a full-time role based on the <strong>Gold Coast</strong>, offering plenty of variety, client interaction and exposure to a broad range of technologies and environments.</p><p> </p><p><strong>You will:</strong></p><ul>\n<li>Provide high-quality IT support and exceptional customer service</li>\n<li>Troubleshoot and resolve client issues across a range of technologies</li>\n<li>Manage service requests and incidents through Salesforce</li>\n<li>Maintain accurate ticket notes, timesheets, and documentation</li>\n<li>Apply security best practices across implementations</li>\n<li>Work collaboratively with colleagues to deliver seamless service</li>\n</ul><p><strong></strong></p><p><strong>About You</strong></p><p><strong>You’ll thrive in this role if you have:</strong></p><ul>\n<li>Previous MSP or internal IT experience</li>\n<li>Strong customer service and client-facing skills</li>\n</ul><p><strong>A solid background in:</strong></p><ul>\n<li>Workstation troubleshooting</li>\n<li>Active Directory and Microsoft 365 support</li>\n<li>Backup and recovery processes</li>\n<li>Remote monitoring and management tools</li>\n<li>Servers, switches, routers, firewalls, and storage</li>\n<li>Azure and VoIP solutions</li>\n</ul><p><strong>And personally, you’ll bring:</strong></p><ul>\n<li>A desire to keep learning and stay across new technologies</li>\n<li>A friendly, positive approach to client service</li>\n<li>Excellent communication skills</li>\n<li>The ability to work in a fast-paced environment while staying organised</li>\n</ul><p></p><p><strong>What We Offer:</strong></p><ul>\n<li>\n<strong>Competitive salary</strong>: based on skills and experience </li>\n<li>\n<strong>Supportive, down-to-earth culture</strong>: collaboration and respect are at the core of our team</li>\n<li>\n<strong>Birthday leave:</strong> celebrate your day, on us</li>\n<li>\n<strong>Wellbeing leave:</strong> take up to two days from your personal leave each year to focus on your wellbeing</li>\n<li>\n<strong>Career pathways</strong>: choose the direction that suits you best, whether that’s advancing your technical expertise, stepping into project work, or moving towards leadership opportunities as they arise</li>\n<li>\n<strong>Challenging, rewarding work</strong>: every day brings variety with new clients, problems, and technologies to solve</li>\n</ul><p></p><p><strong>Why Join efex?</strong></p><p>This is more than just a helpdesk role; it’s an opportunity to grow with one of Australia’s fastest-growing MSPs. You’ll gain exposure to diverse environments and cutting-edge technologies while being supported every step of the way.</p><p></p><p>Apply now!</p><p></p><p><em>Please note: all shortlisted candidates will be required to undergo a National Police Check as part of the recruitment process.</em></p>",
+      "keywords": [
+        "service",
+        "desk",
+        "analyst"
+      ]
+    },
+    {
+      "job_id": "95405389",
+      "job_title": "Applications Specialist",
+      "business_name": "Feros Care",
+      "work_type": "Contract/Temp",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "Based on experience + Super + NFP Salary packaging",
+      "area": "Coolangatta, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95405389",
+      "advertiser_id": "26252854",
+      "posted_date": "2026-10-21T05:46:43Z",
+      "job_description": "<p><strong>Application Specialist</strong><br> <br> <strong>We're Feros Care, and we're pleased to meet you.</strong><br> <br> <strong>And what we care most about is helping people live healthier, happier, better-connected lives.</strong><br> <br> Since 1990, we've been making it happen, both for older Australians and people with disability. We are proud to be Game Changers. Dream Makers. Kindness Champions. Culture Shapers. Vibrant Creators. And it's not just us who thinks so; We've won many awards on the local and international stage for our approach.<br> <br> We're looking for an experienced Applications Specialist to join our Information Technology &amp; Communications team on a <strong>6 month contract</strong>, based in our Coolangatta office with flexible hybrid working arrangements. With several exciting projects and system improvements underway, you'll hit the ground running and make a tangible impact from day one.<br> <br> <strong>Make an impact while helping shape how our applications support the future of Feros Care.</strong><br> <br> As our Applications Specialist, you'll be the key escalation point for business application issues, while proactively identifying opportunities to optimise systems, improve processes and enhance the overall user experience. With a broad IT background and a passion for continuous improvement, you'll support, enhance and optimise the applications our people rely on every day.<br> <br> Working closely with stakeholders, vendors and colleagues across the business, you'll deliver practical solutions, drive better outcomes and help ensure our technology continues to evolve alongside the needs of Feros Care.<br> <br> <strong>What you'll do </strong></p><ul><li>Act as a key escalation point for business application issues, providing Level 2 support and troubleshooting to resolve complex technical challenges.</li><li>Support, maintain and optimise our application landscape to ensure systems remain reliable, secure and fit for purpose.</li><li>Partner with internal stakeholders and external vendors to deliver practical solutions and improve user experiences.</li><li>Manage application updates, patching and enhancements while supporting security and compliance requirements.</li><li>Identify opportunities to improve business processes, workflows and system performance.</li><li>Assist with application implementation, enhancement and continuous improvement projects.</li><li>Create and maintain application documentation, knowledge articles and support guides.</li><li>Monitor application performance and help ensure Feros Care's technology environment remains innovative, efficient and aligned to business needs.</li></ul><p><strong>What you'll bring</strong></p><ul><li>Strong Level 2 support capabilities and a methodical approach to troubleshooting and problem solving.</li><li>Broad IT knowledge and the ability to quickly learn and adapt to new applications and technologies.</li><li>Exceptional communication skills, with the ability to explain technical concepts to non-technical audiences.</li><li>Demonstrated ability to build effective relationships with internal stakeholders, third-party vendors and cross functional teams.</li><li>A proactive, solutions focused approach with a passion for continuous improvement.</li><li>Strong organisational and time management skills, with the ability to manage competing priorities.</li><li>High attention to detail and a commitment to delivering exceptional customer service.</li><li>Experience with Microsoft technologies and enterprise applications.</li><li>Exposure to aged care, health, disability or community services environments will be advantageous.</li></ul><p><strong>Qualifications &amp; Checks</strong></p><ul><li>Tertiary qualifications in Information Technology, Computer Science or a related discipline will be highly regarded.</li><li>Minimum 2 years' experience in a Service Desk environment, with at least 1 year in a Level 2 support role.</li><li>Experience using the ITIL framework (desirable).</li><li>Current unrestricted Australian Driver's Licence.</li><li>Undergo a Nationally Coordinated Criminal History Check.</li><li>Valid Australian working rights.</li></ul><p><strong>Why Feros Care?</strong><br> At Feros Care, we value our people and offer:</p><ul><li>Not for Profit Salary Packaging of up to $15,900 per annum, and meal and entertainment salary sacrifice of up to $2,650 per annum, all tax free, stretching your income further.</li><li>Flexible Working Arrangements, including a hybrid model with a combination of working from our Coolangatta office and the flexibility to work remotely.</li><li>17.5% Annual Leave loading.</li><li>Cultural Leave Days for eligible employees.</li><li>Enjoy exclusive discounts, financial tips, and wellness programs through our ForME employee benefits platform.</li><li>Private Health Insurance Discount with Medibank.</li><li>Employee Assistance Program (EAP).</li><li>Paid Parental Leave (9 weeks) for eligible employees.</li><li>Access to Fitness Passport - discounted gym and pool memberships for you and your family.</li><li>$200 referral bonus per successful referral.</li></ul><p><em>We actively seek to include, welcome and value the unique contributions of all people. We encourage applications from Aboriginal and Torres Strait Islander people, people from cultural and linguistically diverse backgrounds, and people with disability.</em><br><br> If you would like to discuss accessibility requirements, preferred communication methods or other possibilities, please contact <a href=\"mailto:talentacquisition@feroscare.com.au\">talentacquisition@feroscare.com.au</a></p>",
+      "keywords": [
+        "applications",
+        "specialist"
+      ]
+    },
     {
       "job_id": "95391132",
       "job_title": "Level 3 Help Desk Support",
@@ -939,7 +976,7 @@
       "url": "https://www.seek.com.au/job/94984135",
       "advertiser_id": "63895271",
       "posted_date": "2026-09-30T22:13:55Z",
-      "job_description": "<p><strong>About the role</strong></p><p>We are seeking a full-time IT professional with strong communication skills, a willingness to learn and a desire to join a progressive team. Working in our Mermaid Beach office, you will be an integral part of the team.</p><p><strong>Key responsibilities</strong></p><ul><li>Configuring Sitesec systems, AI parameters and custom functions for systems installed on construction sites</li><li>Technical system configuration, preparing technology systems for dispatch to site</li><li>Providing phone, email and remote support to existing customers</li><li>Answering help desk tickets</li><li>Data management</li></ul><p><strong>About you</strong></p><ul><li>Minimum one year of experience in a customer service-related position</li><li>Experience working with network devices is preferable</li><li>Strong documentation, communication and customer management skills</li><li>Problem-solving ability</li><li>Driven and eager to understand all technical elements of the business</li></ul><p><strong>About us</strong></p><p>Sitesec is Australia's leading construction security technology provider.</p>",
+      "job_description": "<p><strong>Love technology, solving problems and figuring out how things work? This could be the opportunity you've been looking for.</strong></p><p>We're looking for a switched-on, motivated individual who's hungry to learn, loves a challenge and wants to be part of a fast-growing Australian technology company.</p><p>At SITESEC, we're changing the way construction sites are secured through smart, solar-powered security systems, AI technology and remote monitoring.</p><p>We're not looking for someone who just wants to sit at a desk and work through tickets all day. We want someone who gets excited about technology, takes ownership of problems and genuinely enjoys finding solutions.</p><p>Based in our <strong>Mermaid Beach office</strong>, you'll be part of a young, ambitious team where your work makes a real difference every day.</p><p><br></p><h2>The Role</h2><p>You'll be right in the middle of the technology that powers SITESEC.</p><p>From configuring AI-powered security cameras to troubleshooting live systems across Australia, you'll be working with real technology, solving real problems and continuously building your technical knowledge.</p><p>This is a hands-on technical role with plenty of variety, responsibility and opportunities to develop your skills.</p><p><strong>What You'll Be Doing</strong></p><ul><li><p>Configuring security camera systems, AI detection parameters and custom functions</p></li><li><p>Preparing, testing and configuring technology before it's deployed to construction sites</p></li><li><p>Troubleshooting cameras, networking equipment and remotely connected systems</p></li><li><p>Providing technical support to customers via phone, email and remote access</p></li><li><p>Investigating and resolving help desk tickets efficiently</p></li><li><p>Managing system data, configurations and technical documentation</p></li><li><p>Working closely with our operations and field teams to keep systems performing at their best</p></li><li><p>Learning new technologies and helping us continuously improve our systems</p></li></ul><p><br></p><h2>Who We're Looking For</h2><p><strong>We care just as much about your attitude and drive as we do your experience.</strong></p><p>We want someone who is naturally curious, picks things up quickly and isn't afraid to tackle something they've never done before.</p><ul><li><p><strong>Problem Solver:</strong> You love figuring things out and won't give up at the first hurdle</p></li><li><p><strong>Self-Motivated:</strong> You take initiative and don't need someone looking over your shoulder</p></li><li><p><strong>Fast Learner:</strong> You're keen to develop new skills and expand your technical knowledge</p></li><li><p><strong>Great Communicator:</strong> You can explain technical issues clearly and confidently</p></li><li><p><strong>Team Player:</strong> You bring positive energy, work well with others and enjoy being part of a team</p></li><li><p><strong>Detail-Oriented:</strong> You take pride in doing things right</p></li></ul><p><br></p><p><strong>What You'll Need</strong></p><ul><li><p>Minimum 1 year of experience in a customer service or technical support environment</p></li><li><p>Strong communication and organisational skills</p></li><li><p>Confidence using computers and learning new software</p></li><li><p>Good troubleshooting and problem-solving abilities</p></li><li><p>Experience with networking devices, IP cameras or similar technology is highly regarded</p></li><li><p>A genuine willingness to learn and grow</p></li></ul><p>You don't need to know everything on day one. <strong>If you've got the right attitude, technical curiosity and work ethic, we want to hear from you.</strong></p>",
       "keywords": [
         "it",
         "support",
@@ -1093,7 +1130,7 @@
       "url": "https://www.seek.com.au/job/94932499",
       "advertiser_id": "34057721",
       "posted_date": "2026-09-29T01:08:55Z",
-      "job_description": "<div><p><strong>Project Delivery Coordinator | Technology Projects </strong></p><p><strong>Location:</strong> Southport, Gold Coast | Mon-Fri (9am-5pm) | WFH 1 day per week post-probation </p><p><strong>Salary:</strong> $120,000 - $150,000 base + super, depending on experience</p><p><br></p><p><strong>12-Month Fixed Term Contract (with potential to transition to a permanent opportunity) </strong></p><p><br></p><p><strong>About the Role </strong></p><p>As Infinity continues to grow, so does our Technology team. We're looking for a <strong>Project Delivery Coordinator</strong> who is passionate about collaboration, thrives in a fast-paced environment, and enjoys helping turn great ideas into successful outcomes.</p><p>This is an exciting opportunity for someone who loves bringing structure to complexity, keeping teams aligned, and helping projects progress from concept to completion.</p><p><br></p><p>Working closely with our Project Managers and key business stakeholders, you'll play an important role in supporting the delivery of technology initiatives and maintaining momentum across multiple projects.</p><p><br></p><p>You'll gain exposure to a diverse portfolio of projects, including system enhancements, application implementations, cloud-based solutions, integrations, process improvement initiatives, and the rollout of a new ERP platform.</p><p>While this role focuses on project coordination and delivery support, it offers valuable exposure across the full project lifecycle and provides a strong pathway for future growth into Project Management.</p><p> </p><p><strong>About Infinity Group </strong></p><p>At Infinity Group, we exist to help everyday Australians conquer debt, build wealth, and create lasting financial freedom. Through our flagship Rapid Repay program, our average client pays off their home loan up to 20 years sooner and saves approximately $270,000 in interest. </p><p><br></p><p>What began as a personal vision has grown into one of Australia's most awarded financial services groups, built on education, driven by transformation, and backed by real results. As we continue to grow, founders Rebecca and Graeme Holm remain deeply connected to the business, ensuring our mission stays personal, powerful, and people-first. This is your opportunity to shape the content behind one of Australia's fastest-growing financial services and create stories that genuinely inspire action. </p><p><br></p><p><strong>What You'll Be Doing </strong></p><ul><li>Supporting Project Managers across multiple technology and business projects.</li><li>Coordinating project activities, schedules, documentation, reporting, and supporting compliance with project delivery, risk, and security requirements.</li><li>Tracking actions, dependencies, milestones, risks, and deliverables to ensure projects remain on track.</li><li>Monitoring project backlogs and assisting with delivery planning and prioritisation activities.</li><li>Assisting with software testing activities and supporting testing lifecycles.</li><li>Facilitating and coordinating project meetings, workshops, stakeholder reviews, project status updates, and milestone tracking to support successful project delivery.</li><li>Maintaining project documentation and collaborating with both technical and business stakeholders.</li><li>Supporting project budgeting, reporting, and delivery administration activities.</li></ul><p> </p><p><strong>What You'll Bring </strong></p><ul><li>3-5 years' experience supporting Project Managers in the delivery of technology, software, application, ERP, CRM, integration, or system enhancement projects.</li><li>Practical understanding of Agile, Scrum, and Waterfall methodologies, including the key attributes of each approach and when they are applied.</li><li>Experience working on software implementations, application enhancements, cloud-hosted solutions, or integration-based projects.</li><li>Strong stakeholder engagement and communication skills, with the confidence to work effectively across technical and business teams.</li><li>Understanding of software testing lifecycles and release processes.</li><li>Awareness of project budgeting, milestone tracking, reporting, and delivery administration activities.</li><li>A foundational understanding of risk management principles, data security requirements, risk framework definitions, and working within defined security boundaries.</li><li>Intermediate proficiency in Microsoft Project, Asana, Jira, and Confluence.</li><li>Strong organisational skills with the ability to manage competing priorities and deadlines.</li></ul><p><strong>Highly Regarded</strong></p><ul><li>Completion of introductory project delivery, project management, or Agile training courses.</li><li>Exposure to ERP implementation projects.</li><li><strong>Knowledge of mortgage, lending, financial services, or property purchasing lifecycles.</strong></li></ul><p><br></p><p><strong>Why Join Infinity? </strong></p><p>At Infinity, we don’t just change our clients’ lives, we change the lives of our people too. Here’s what joining our team means for you and your family: </p><ul><li><strong>Financial Empowerment </strong>– Free access to become an Infinity client, including support from our mortgage brokers, advisers, strategists, and relationship managers (who wouldn't love to pay off their home loan in under 10 years?!) </li><li><strong>Career Growth </strong>– Infinity has grown rapidly and we’re only getting started. With rapid growth comes rapid opportunity. </li><li><strong>Competitive Remuneration</strong> – We hire the best, and we reward the best. </li><li><strong>First-Class Onboarding </strong>– Includes an all-expenses-paid trip to our Real Estate Mastery (REM) event to immerse yourself into everything Infinity, a company iPhone and laptop, and a full company induction at our Gold Coast headquarters on day one. </li></ul><p> </p><p><strong>Ready to join us? </strong></p><p>If you’re looking for more than just a job - if you want to help everyday Australians build wealth and secure their financial future - then Infinity is the place for you. Submit your application today, or reach out directly to <strong>Hannah Oxley, Talent Acquisition Partner at Infinity Group</strong>, via LinkedIn if you have any questions. </p><p> </p><p>#LI-LB1 </p></div><br><div><p><br></p></div><br><br><p>PI<a href=\"tel:287363133\">287363133</a></p>",
+      "job_description": "<div><p><strong>Project Delivery Coordinator | Technology Projects </strong></p><p><strong>Location:</strong> Southport, Gold Coast | Mon-Fri (9am-5pm) | WFH 1 day per week post-probation </p><p><strong>Salary:</strong> $120,000 base + super</p><p><br></p><p><strong>12-Month Fixed Term Contract (with potential to transition to a permanent opportunity) </strong></p><p><br></p><p><strong>About the Role </strong></p><p>As Infinity continues to grow, so does our Technology team. We're looking for a <strong>Project Delivery Coordinator</strong> who is passionate about collaboration, thrives in a fast-paced environment, and enjoys helping turn great ideas into successful outcomes.</p><p>This is an exciting opportunity for someone who loves bringing structure to complexity, keeping teams aligned, and helping projects progress from concept to completion.</p><p><br></p><p>Working closely with our Project Managers and key business stakeholders, you'll play an important role in supporting the delivery of technology initiatives and maintaining momentum across multiple projects.</p><p><br></p><p>You'll gain exposure to a diverse portfolio of projects, including system enhancements, application implementations, cloud-based solutions, integrations, process improvement initiatives, and the rollout of a new ERP platform.</p><p>While this role focuses on project coordination and delivery support, it offers valuable exposure across the full project lifecycle and provides a strong pathway for future growth into Project Management.</p><p> </p><p><strong>About Infinity Group </strong></p><p>At Infinity Group, we exist to help everyday Australians conquer debt, build wealth, and create lasting financial freedom. Through our flagship Rapid Repay program, our average client pays off their home loan up to 20 years sooner and saves approximately $270,000 in interest. </p><p><br></p><p>What began as a personal vision has grown into one of Australia's most awarded financial services groups, built on education, driven by transformation, and backed by real results. As we continue to grow, founders Rebecca and Graeme Holm remain deeply connected to the business, ensuring our mission stays personal, powerful, and people-first. This is your opportunity to shape the content behind one of Australia's fastest-growing financial services and create stories that genuinely inspire action. </p><p><br></p><p><strong>What You'll Be Doing </strong></p><ul><li>Supporting Project Managers across multiple technology and business projects.</li><li>Coordinating project activities, schedules, documentation, reporting, and supporting compliance with project delivery, risk, and security requirements.</li><li>Tracking actions, dependencies, milestones, risks, and deliverables to ensure projects remain on track.</li><li>Monitoring project backlogs and assisting with delivery planning and prioritisation activities.</li><li>Assisting with software testing activities and supporting testing lifecycles.</li><li>Facilitating and coordinating project meetings, workshops, stakeholder reviews, project status updates, and milestone tracking to support successful project delivery.</li><li>Maintaining project documentation and collaborating with both technical and business stakeholders.</li><li>Supporting project budgeting, reporting, and delivery administration activities.</li></ul><p> </p><p><strong>What You'll Bring </strong></p><ul><li>2-3 years' experience supporting Project Managers in the delivery of technology, software, application, ERP, CRM, integration, or system enhancement projects.</li><li>Practical understanding of Agile, Scrum, and Waterfall methodologies, including the key attributes of each approach and when they are applied.</li><li>Experience working on software implementations, application enhancements, cloud-hosted solutions, or integration-based projects.</li><li>Strong stakeholder engagement and communication skills, with the confidence to work effectively across technical and business teams.</li><li>Understanding of software testing lifecycles and release processes.</li><li>Awareness of project budgeting, milestone tracking, reporting, and delivery administration activities.</li><li>A foundational understanding of risk management principles, data security requirements, risk framework definitions, and working within defined security boundaries.</li><li>Intermediate proficiency in Microsoft Project, Asana, Jira, and Confluence.</li><li>Strong organisational skills with the ability to manage competing priorities and deadlines.</li></ul><p><strong>Highly Regarded</strong></p><ul><li>Completion of introductory project delivery, project management, or Agile training courses.</li><li>Exposure to ERP implementation projects.</li><li><strong>Knowledge of mortgage, lending, financial services, or property purchasing lifecycles.</strong></li></ul><p><br></p><p><strong>Why Join Infinity? </strong></p><p>At Infinity, we don’t just change our clients’ lives, we change the lives of our people too. Here’s what joining our team means for you and your family: </p><ul><li><strong>Financial Empowerment </strong>– Free access to become an Infinity client, including support from our mortgage brokers, advisers, strategists, and relationship managers (who wouldn't love to pay off their home loan in under 10 years?!) </li><li><strong>Career Growth </strong>– Infinity has grown rapidly and we’re only getting started. With rapid growth comes rapid opportunity. </li><li><strong>Competitive Remuneration</strong> – We hire the best, and we reward the best. </li><li><strong>First-Class Onboarding </strong>– Includes an all-expenses-paid trip to our Real Estate Mastery (REM) event to immerse yourself into everything Infinity, a company iPhone and laptop, and a full company induction at our Gold Coast headquarters on day one. </li></ul><p> </p><p><strong>Ready to join us? </strong></p><p>If you’re looking for more than just a job - if you want to help everyday Australians build wealth and secure their financial future - then Infinity is the place for you. Submit your application today, or reach out directly to <strong>Hannah Oxley, Talent Acquisition Partner at Infinity Group</strong>, via LinkedIn if you have any questions. </p><p> </p><p>#LI-LB1 </p></div><br><div><p><br></p></div><br><br><p>PI<a href=\"tel:287363133\">287363133</a></p>",
       "keywords": [
         "project",
         "delivery",
@@ -1262,45 +1299,6 @@
         "program",
         "delivery",
         "manager"
-      ]
-    },
-    {
-      "job_id": "94794069",
-      "job_title": "IT Support Officer - Broadbeach, QLD",
-      "business_name": "Ignite",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Broadbeach, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94794069",
-      "advertiser_id": "55324746",
-      "posted_date": "2026-09-22T03:58:40Z",
-      "job_description": "<p>&nbsp;</p>\n<div>Ignite Travel Group is looking for an IT Support Analyst to join our Technology team and play a key role in keeping our people connected, productive, and supported. Reporting to the IT Operations Manager, you will work closely with managers and team members across the business, delivering exceptional technical support and maintaining a reliable computing environment. This is a hands-on opportunity where you'll troubleshoot issues, support network infrastructure, deploy new technology, and contribute to continuous improvement initiatives that enhance the overall employee experience.</div>\n<p>&nbsp;</p>\n<p><strong>A day in the life:</strong></p>\n<div>\n<ul>\n<li>Provide first-line technical support to end-users, resolving hardware, software, and system issues in a timely manner.</li>\n<li>Manage incidents and service requests through the ticketing system, ensuring accurate documentation and SLA compliance.</li>\n<li>Install, configure, maintain, and troubleshoot computer hardware, peripherals, and software applications.</li>\n<li>Perform system upgrades, software updates, and security patching activities.</li>\n<li>Support LAN, WAN, and WLAN environments, including troubleshooting connectivity and network-related issues.</li>\n<li>Deploy and configure new laptops, workstations, mobile devices, and user accounts in line with security requirements.</li>\n<li>Maintain IT security standards through user access management, malware protection, backups, and policy compliance.</li>\n<li>Identify and implement opportunities to improve IT processes, service delivery, and operational efficiency.</li>\n<li>Contribute to a safe, inclusive, and accessible work environment where all Flighties feel welcomed, respected, and supported to thrive.</li>\n</ul>\n</div>\n<p>&nbsp;</p>\n<p><strong>Who you are:</strong></p>\n<div>\n<ul>\n<li>Bachelor's degree in Information Technology, Computer Science, or a related discipline, or equivalent practical experience.</li>\n<li>Proven experience in an IT Helpdesk, Service Desk, Desktop Support, or similar technical support environment.</li>\n<li>Demonstrated experience supporting users, ICT systems, and multi-site technology environments.</li>\n<li>Strong knowledge of LAN, WAN, WLAN infrastructure, networking fundamentals, and troubleshooting techniques.</li>\n<li>Experience supporting routers, switches, wireless access points, and network connectivity.</li>\n<li>Proficiency supporting Windows, macOS, and common business software applications.</li>\n<li>Strong understanding of IT security standards, controls, and best practices.</li>\n<li>Excellent communication, problem-solving, and customer service skills, with the ability to work independently and collaboratively.</li>\n</ul>\n</div>\n<p>&nbsp;</p>\n<p><strong>What you'll enjoy:</strong></p>\n<p>&nbsp;</p>\n<div>\n<p>📚&nbsp;Ongoing skills development</p>\n</div>\n<div>\n<p>🚀&nbsp;Catapult your career across a network of brands and businesses in an evolving industry</p>\n</div>\n<div>\n<p>✈️&nbsp;Say no to full price! Nab discounts on travel and more thanks to our sweet rewards program</p>\n</div>\n<div>\n<p>👩‍⚕️&nbsp;Access to industry leading health and well - being programs and financial advisors</p>\n</div>\n<div>\n<p>🌴&nbsp;Set up shop in a swanky beachfront office in Broadbeach</p>\n</div>\n<div>\n<p>💃🏿&nbsp;Enjoy social events to promote networking, celebration of wins, and sometimes just for fun!</p>\n</div>\n<div>\n<p>&nbsp;👐🏻&nbsp;Take volunteer leave as part of giving back to the local community</p>\n<p>#LI-KP1#IGNT#LI-Onsite</p>\n</div>\n<p>&nbsp;</p>",
-      "keywords": [
-        "it",
-        "support",
-        "officer",
-        "broadbeach"
-      ]
-    },
-    {
-      "job_id": "94768969",
-      "job_title": "Technical Product Developer",
-      "business_name": "ALEXANDRA AUSTRALIA",
-      "work_type": "Full time",
-      "job_type": "Product Management & Development",
-      "pay_range": "$65,000 – $70,000 per year",
-      "area": "Molendinar, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94768969",
-      "advertiser_id": "62291521",
-      "posted_date": "2026-09-21T06:32:48Z",
-      "job_description": "<p><strong>Role Overview:</strong></p><p>The <strong>Technical Product Developer </strong>is responsible for ensuring that all garments are developed and produced to <strong>high-quality, fit, and workmanship standards</strong>.</p><p>This role works closely with the <strong>Founder, Head of design and manufacturers</strong> to oversee the <strong>development of product, sourcing, technical specifications and fit process</strong> from initial <strong>prototype development to bulk production</strong>.</p><p>The Technical Product developer will <strong>be responsible for garment development and fit process</strong> across multiple product categories, ensuring consistency in <strong>quality,</strong> &nbsp;<strong>sizing, grading, and garment construction</strong> in line with Alexandra Australia’s brand standards.</p><p><strong>Key Responsibilities:</strong></p><p><strong>Product Development</strong></p><ul><li><p>Attend product ranging sessions with Founder and Head of Design</p></li><li><p>Assist Head of Design with sourcing fabrics and trims.</p></li><li><p>Maintain the organisation of design resources, samples and supplier folders</p></li><li><p>Create and maintain <strong>detailed Tech Packs</strong> briefed by the <strong>Founder</strong> <strong>and Head</strong> <strong>of Design</strong>, ensuring accurate specifications for <strong>styling, fit, and workmanship</strong> for manufacturer handover.</p></li><li><p>Prepare lab dips, bulk fabric and trims for approval.</p></li></ul><p><strong>Fit Process</strong></p><ul><li><p>Measure all garments at<strong> proto</strong> <strong>sampling, SMS, pre-production, and bulk production stages</strong>, ensuring consistency with <strong>spec sheets and company standards</strong>. &nbsp;&nbsp;</p></li><li><p>Attend <strong>fit sessions with the Founder and Head of Desgn</strong>, ensuring samples align with design briefs and delivery timelines.</p></li><li><p>Contribute <strong>technical advice </strong>regarding <strong>fit and construction requirements</strong>.</p></li><li><p>Compile and document <strong>detailed fit comments</strong> after each session, ensuring necessary amendments are made for the next sample stage.</p></li><li><p>Create and update <strong>graded size specifications</strong> following Alexandra grading charts across all product categories, ensuring brand consistency.</p></li><li><p>Maintain <strong>consistency of sizing and quality</strong> across multiple manufacturers.</p></li></ul><p><strong>Manufacturer Liaison</strong></p><ul><li><p>Communicate <strong>fit, construction, and quality feedback</strong> directly with offshore manufacturers.</p></li><li><p>Liaise with manufacturers on <strong>sizing, fit, grading, and workmanship adjustments</strong>.</p></li><li><p>Ensure suppliers comply with <strong>labelling, packaging, and branding requirements</strong> across all production stages.</p></li><li><p>Assist in ensuring key deadlines (development, fit approvals, and bulk production milestones) are met.</p></li></ul><p><strong>Quality Control &amp; Assurance</strong></p><ul><li><p>Conduct thorough <strong>QC inspections</strong> across all stages, ensuring <strong>fabric, trims, and construction</strong> meet approved standards.</p></li><li><p>Ensure garments meet <strong>grading, fit, and quality specifications</strong>, adjusting when necessary to improve consistency.</p></li><li><p>Assist in the <strong>development of a block library</strong>, maintaining <strong>fit consistency across product categories</strong>.</p></li><li><p>Ensure all garments are production-ready, with <strong>accurate Tech Packs, graded specs, and Bill of Materials (BOM) documentation</strong>.</p></li></ul><p><strong>&nbsp;</strong></p><p><strong>Documentation &amp; System Management</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maintain <strong>accurate and up-to-date tech packs</strong> in the <strong>PLM system</strong></p><p><br></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Keep Bill of materials (BOMs) updated with <strong>labelling, packaging, and trim requirements</strong>.</p><ul><li><p>Conduct administrative tasks related to <strong>manufacturer documentation, tracking, and approvals</strong>.</p></li></ul><p><br></p><p><strong>The Ideal Candidate Will Have:</strong></p><ul><li><p>Degree or <strong>tertiary qualification in Fashion, Textiles, or Garment Technology</strong>.</p></li><li><p><strong>2+ years of experience</strong> as a <strong>Product Developer or</strong> <strong>Garment Technician</strong> in the fashion industry.</p></li><li><p>Good knowledge of <strong>garment construction, specifications, grading, and quality assurance</strong> (pattern-making experience is a bonus).</p></li><li><p>Experience across <strong>multiple product categories</strong>, with knowledge of <strong>woven and stretch fabrics</strong>.</p></li><li><p>Proficiency in <strong>Excel</strong>, and <strong>PLM</strong> systems (or similar production software).</p></li><li><p>Strong <strong>attention to detail and accuracy</strong>, ensuring high technical standards are maintained.</p></li><li><p>Experience working with <strong>offshore manufacturers </strong>is highly desirable.</p></li><li><p>Excellent <strong>communication skills</strong> to manage manufacturer relationships effectively.</p></li><li><p>Ability to <strong>work in a fast-paced environment</strong>, meeting tight deadlines while ensuring quality standards.</p></li><li><p>A <strong>collaborative and team-oriented approach</strong>, working closely with the Founder and Head of Design.</p></li><li><p>Strong <strong>organisational and time-management skills</strong></p></li><li><p>Experience with Adobe Illustrator is a bonus</p></li></ul><p><br></p><p><strong>Why Join Alexandra Australia?</strong></p><ul><li><p>Be part of a <strong>leading Australian womenswear brand</strong> committed to quality and innovation.</p></li><li><p>50% off clothing <strong>discount</strong></p></li><li><p>Onsite undercover <strong>parking</strong></p></li><li><p>Work with a <strong>collaborative, creative, and passionate team</strong> in a <strong>fast-growing business</strong>.</p></li><li><p>Play a key role in ensuring <strong>product excellence and customer satisfaction</strong>.</p></li><li><p>Opportunity to <strong>work across diverse product categories</strong> with room for growth.</p></li></ul><p><br></p>",
-      "keywords": [
-        "technical",
-        "product",
-        "developer"
       ]
     }
   ]
