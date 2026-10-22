@@ -1,391 +1,474 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "region": "Gold Coast",
-  "scraped_at": "2026-10-22T08:54:12.428391+10:00",
-  "total_jobs": 48,
+  "scraped_at": "2026-10-23T08:52:35.056145+10:00",
+  "total_jobs": 50,
   "keywords": [
     {
       "term": "support",
       "count": 13,
-      "share": 0.2708
+      "share": 0.26
     },
     {
       "term": "engineer",
       "count": 9,
-      "share": 0.1875
+      "share": 0.18
     },
     {
       "term": "it",
-      "count": 7,
-      "share": 0.1458
+      "count": 9,
+      "share": 0.18
     },
     {
       "term": "manager",
       "count": 6,
-      "share": 0.125
+      "share": 0.12
     },
     {
       "term": "analyst",
       "count": 5,
-      "share": 0.1042
+      "share": 0.1
     },
     {
       "term": "technician",
       "count": 5,
-      "share": 0.1042
+      "share": 0.1
+    },
+    {
+      "term": "ai",
+      "count": 4,
+      "share": 0.08
     },
     {
       "term": "software",
       "count": 4,
-      "share": 0.0833
+      "share": 0.08
+    },
+    {
+      "term": "technology",
+      "count": 3,
+      "share": 0.06
     },
     {
       "term": "developer",
       "count": 3,
-      "share": 0.0625
+      "share": 0.06
     },
     {
       "term": "network",
       "count": 3,
-      "share": 0.0625
+      "share": 0.06
     },
     {
       "term": "systems",
       "count": 3,
-      "share": 0.0625
+      "share": 0.06
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0625
+      "share": 0.06
     },
     {
       "term": "service",
       "count": 3,
-      "share": 0.0625
+      "share": 0.06
     },
     {
       "term": "officer",
       "count": 3,
-      "share": 0.0625
+      "share": 0.06
     },
     {
       "term": "project",
       "count": 3,
-      "share": 0.0625
+      "share": 0.06
     },
     {
       "term": "delivery",
       "count": 3,
-      "share": 0.0625
+      "share": 0.06
     },
     {
       "term": "business",
       "count": 2,
-      "share": 0.0417
+      "share": 0.04
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0417
+      "share": 0.04
     },
     {
-      "term": "ai",
+      "term": "consultant",
       "count": 2,
-      "share": 0.0417
+      "share": 0.04
     },
     {
-      "term": "solution",
+      "term": "cybersecurity",
       "count": 2,
-      "share": 0.0417
+      "share": 0.04
+    },
+    {
+      "term": "cloud",
+      "count": 2,
+      "share": 0.04
+    },
+    {
+      "term": "managed",
+      "count": 2,
+      "share": 0.04
+    },
+    {
+      "term": "services",
+      "count": 2,
+      "share": 0.04
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0417
+      "share": 0.04
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0417
-    },
-    {
-      "term": "specialist",
-      "count": 2,
-      "share": 0.0417
-    },
-    {
-      "term": "technical",
-      "count": 2,
-      "share": 0.0417
-    },
-    {
-      "term": "coordinator",
-      "count": 2,
-      "share": 0.0417
+      "share": 0.04
     },
     {
       "term": "desk",
       "count": 2,
-      "share": 0.0417
+      "share": 0.04
+    },
+    {
+      "term": "specialist",
+      "count": 2,
+      "share": 0.04
+    },
+    {
+      "term": "technical",
+      "count": 2,
+      "share": 0.04
+    },
+    {
+      "term": "coordinator",
+      "count": 2,
+      "share": 0.04
     },
     {
       "term": "program",
       "count": 2,
-      "share": 0.0417
+      "share": 0.04
     },
     {
       "term": "soc",
       "count": 2,
-      "share": 0.0417
+      "share": 0.04
     },
     {
       "term": "test",
       "count": 2,
-      "share": 0.0417
+      "share": 0.04
+    },
+    {
+      "term": "enterprise",
+      "count": 1,
+      "share": 0.02
+    },
+    {
+      "term": "solutions",
+      "count": 1,
+      "share": 0.02
+    },
+    {
+      "term": "architect",
+      "count": 1,
+      "share": 0.02
     },
     {
       "term": "intelligence",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
+    },
+    {
+      "term": "solution",
+      "count": 1,
+      "share": 0.02
+    },
+    {
+      "term": "manufacturing",
+      "count": 1,
+      "share": 0.02
+    },
+    {
+      "term": "financial",
+      "count": 1,
+      "share": 0.02
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "associate",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "services",
-      "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "application",
-      "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "sql",
-      "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "integrations",
-      "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "help",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
+    },
+    {
+      "term": "application",
+      "count": 1,
+      "share": 0.02
+    },
+    {
+      "term": "sql",
+      "count": 1,
+      "share": 0.02
+    },
+    {
+      "term": "integrations",
+      "count": 1,
+      "share": 0.02
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "recent",
       "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "field",
-      "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "break",
-      "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "fix",
-      "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "goldcoast",
-      "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "prep",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "year",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "account",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
+    },
+    {
+      "term": "field",
+      "count": 1,
+      "share": 0.02
+    },
+    {
+      "term": "break",
+      "count": 1,
+      "share": 0.02
+    },
+    {
+      "term": "fix",
+      "count": 1,
+      "share": 0.02
+    },
+    {
+      "term": "goldcoast",
+      "count": 1,
+      "share": 0.02
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "technology",
-      "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "nursing",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "director",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "experience",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "portfolio",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "management",
       "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "consultant",
-      "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "formwork",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "telecommunications",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "worker",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "quality",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "assurance",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "umbraco",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "cms",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0208
+      "share": 0.02
     }
   ],
   "jobs": [
+    {
+      "job_id": "95432860",
+      "job_title": "Manufacturing Technology Consultant | AI, Cybersecurity, Cloud & Managed IT",
+      "business_name": "First Focus IT P/L",
+      "work_type": "Full time",
+      "job_type": "Consultants",
+      "pay_range": "$150,000 – $200,000/year, plus up to $100,000 OTE",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95432860",
+      "advertiser_id": "35852943",
+      "posted_date": "2026-10-22T05:57:17Z",
+      "job_description": "<p><strong>You know manufacturing.</strong></p><p>Not just that factories are full of expensive machinery, production schedules rarely go exactly to plan, and the words \"the system is down\" can make an Operations Manager's blood pressure rise faster than a Friday afternoon production deadline.</p><p>You understand how manufacturing businesses actually operate, how business owners and operations leaders think, how technology decisions get made, and why reliability matters more than the cheapest quote.</p><p>Maybe you've sold manufacturing technology. Maybe you've worked in manufacturing IT. Maybe you've helped manufacturers modernise production systems, cybersecurity, ERP platforms, infrastructure or cloud environments.</p><p>Whatever your path, you know that manufacturing businesses don't buy technology for technology's sake. They buy outcomes.</p><p>First Focus is looking for a <strong>Manufacturing Technology Consultant</strong> to help Australian manufacturers confidently navigate AI, cybersecurity, managed IT and cloud transformation.</p><p>We are Australia's leading managed AI and IT services provider, and our marketing engine delivers a strong pipeline of qualified opportunities from businesses already looking to improve how they work.</p><p>This is an individual contributor role. It isn't a graduate sales position, and it isn't a lead generation role. You'll need to arrive with strong commercial instincts, excellent discovery skills and the ability to build credibility quickly with business owners, Managing Directors, Operations Managers and manufacturing leaders.</p><p><br></p><h2>What You'll Be Doing</h2><p>You'll work with small and mid-sized manufacturing businesses, typically between 20 and 250 users, who are reviewing their technology strategy, cybersecurity, AI roadmap or existing IT partner.</p><p>AI is rapidly changing manufacturing.</p><p>Business owners and operations leaders want to know how Microsoft Copilot, secure AI assistants and automation can improve production planning, inventory management, reporting, supply chain visibility and productivity without compromising operational reliability, data security or business continuity.</p><p>You'll help manufacturers move beyond AI curiosity into practical, secure and commercially sensible adoption.</p><p>You'll lead the commercial conversation from qualification through to proposal and close. That means understanding how the business operates, where technology is creating friction, how decisions are made, who needs to be involved and what success looks like.</p><p>You'll work closely with technical specialists, solution architects and delivery teams, but you'll own the client relationship and sales process. You don't need to be the deepest technical expert in the room. You do need to confidently translate cybersecurity, AI, cloud and managed services into outcomes that resonate with business owners, operations leaders and manufacturing executives.</p><p>You'll write clear, commercially credible proposals that explain the business case for change, while ensuring smooth handovers into implementation because a successful sale doesn't end with a signature.</p><p>And in manufacturing, a successful implementation means a lot more than everyone being able to log into their laptops on Monday morning.</p><p><br></p><h2>About You</h2><p>You understand that selling into manufacturing businesses is different.</p><p>Trust is earned. Reliability matters. Downtime matters. Relationships matter.</p><p>You know how to have commercial conversations with professionals who expect you to understand their business before talking about yours.</p><p>You understand that when production stops, the consequences aren't just technical. They can mean missed deadlines, lost revenue, disrupted supply chains and some fairly unhappy customers.</p><p>You're also naturally curious about AI and already using it to improve the way you work, whether that's research, writing, preparation, productivity or client engagement.</p><p>You'll probably be a great fit if you have:</p><ul><li><p>At least five years' experience in consultative B2B sales, solution consulting or technology consulting.</p></li><li><p><strong>Experience selling into manufacturing businesses or working directly within manufacturing, industrial or production environments.</strong></p></li><li><p>Experience with managed services, manufacturing technology, cybersecurity, cloud, AI, ERP systems, infrastructure or operational technology.</p></li><li><p>Confidence engaging with Managing Directors, Business Owners, CEOs, CFOs, COOs, Operations Managers, Production Managers and IT decision-makers.</p></li><li><p>Strong discovery skills and the discipline to qualify opportunities properly.</p></li><li><p>Excellent written communication and proposal development skills.</p></li><li><p>Enough technical curiosity to understand AI, cybersecurity, cloud and manufacturing systems while knowing when to bring technical specialists into the conversation.</p></li><li><p>High commercial standards and the expectation that your remuneration reflects the value you create.</p></li></ul><p>Experience with manufacturing technology environments, including ERP systems, production management platforms, operational technology (OT), industrial networks or manufacturing IT infrastructure, would be highly regarded.</p><p>You don't need to know how to repair a CNC machine. But understanding why an unexpected production outage is a bigger problem than someone's Outlook calendar refusing to synchronise would certainly help.</p><p><strong>This role probably isn't the right fit if your experience has been primarily lead generation, transactional product sales or heavily supported enterprise sales where large bid teams carry most of the commercial process.</strong></p><p>We're specifically looking for someone who understands the manufacturing industry, not simply a generalist technology consultant looking for a new market to sell into.</p><p><br></p><h2>What Great Looks Like</h2><p>Within six months you'll be confidently leading strategic conversations with business owners, Managing Directors and manufacturing leaders, converting qualified opportunities into long-term managed services clients and becoming a trusted advisor to manufacturers navigating AI and technology change.</p><p>You'll build credibility because you understand the commercial realities of manufacturing.</p><p>You'll earn trust internally because you qualify thoroughly, sell accurately and hand over opportunities that delivery teams genuinely enjoy implementing.</p><p>Most importantly, you'll help Australian manufacturers embrace AI safely, improve cybersecurity, modernise infrastructure, reduce operational risk and create better experiences for their employees and customers.</p><p>You'll understand that technology should support production, not become another reason production stops.</p><p><br></p><h2>Why First Focus</h2><p>Manufacturing businesses don't need another IT supplier.</p><p>They need a technology partner who understands operational reliability, cyber risk, business continuity and how manufacturing businesses actually work.</p><p>First Focus is Australia's leading managed AI and IT services provider, with more than 350 specialists across Australia, New Zealand and the Philippines.</p><p>We're helping Australian businesses use AI in practical, secure and commercially valuable ways. Behind every conversation you'll have is deep technical capability across managed AI, managed IT, cybersecurity, cloud, Microsoft technologies, modern workplace and business technology.</p><p>You'll have genuine delivery capability behind you, a trusted brand in the market and a marketing engine generating qualified demand.</p><p>You won't spend your days cold calling from a spreadsheet.</p><p>You'll spend them helping manufacturers that already know they need to modernise, making smart technology decisions that improve productivity, reduce risk, strengthen business continuity and create lasting client relationships.</p><p>Our First Focus values include <strong>Be the Solution</strong>, which fits this role particularly well. We believe in taking ownership, solving problems and following through, rather than selling technology and leaving someone else to deal with the consequences.</p><p>Learn more about First Focus and our values at https://www.firstfocus.com.au/about-us/.</p><p>Because when a manufacturer's systems stop working, \"have you tried turning it off and on again?\" isn't always the commercially sensible answer.</p><p><br></p><h2>What You'll Get</h2><ul><li><p>A competitive salary package, plus other benefits.</p></li><li><p>A strong pipeline of qualified opportunities, supported by an established marketing engine.</p></li><li><p>Flexible working arrangements that support genuine work-life balance.</p></li><li><p>Free access to Uprise, including 1:1 coaching with qualified psychologists or counsellors.</p></li><li><p><strong>Never Stop Growing:</strong> 10 paid study days per year, paid exam fees and pay rises for certifications (conditions apply).</p></li><li><p>Weekly internal training sessions and access to our learning library.</p></li><li><p>Our FastTrack mentoring program to support your development.</p></li><li><p>Our MAD (Making a Difference) Council, supporting equality, charity and environmental initiatives.</p></li><li><p>The option of a Tesla company car (conditions apply).</p></li><li><p>Regular social events and a genuinely supportive team culture.</p></li></ul><p><br></p><h2>Ready to Make an Impact?</h2><p>If you understand manufacturing, know how to build trusted commercial relationships and want to help Australian businesses make smarter technology decisions, we'd love to hear from you.</p><p>Bring your industry expertise, your commercial instincts and your curiosity.</p><p>We'll bring the technical expertise, qualified opportunities and a team that knows how to deliver.</p><p><br></p><h2>Neurodiversity</h2><p>Neurodiversity: First Focus welcomes applications from Neurodiverse candidates. We recommend &amp; appreciate disclosure along with the application so that a copy of our Neurodiversity Statement can be provided outlining the flexible options we can offer to best showcase your skills.</p><h2>AI in Recruitment</h2><p>AI in Recruitment: We use AI-assisted recruitment tools as part of our recruitment process. These tools do not make hiring decisions. Candidate information is handled in accordance with the Privacy Act 1988 (Cth).</p>",
+      "keywords": [
+        "manufacturing",
+        "technology",
+        "consultant",
+        "ai",
+        "cybersecurity",
+        "cloud",
+        "managed",
+        "it"
+      ]
+    },
+    {
+      "job_id": "95423370",
+      "job_title": "Enterprise & Solutions Architect",
+      "business_name": "The BUSY Group",
+      "work_type": "Full time",
+      "job_type": "Architects",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95423370",
+      "advertiser_id": "14264186",
+      "posted_date": "2026-10-22T01:53:47Z",
+      "job_description": "<p>With almost 50 years of impact behind us, The BUSY Group is continuing to expand our reach across employment services, education, apprenticeships, vocational training and community programs. As our organisation grows globally, so does the complexity and opportunity within our technology landscape.</p>\n<br><p>We are looking for an experienced Enterprise &amp; Solution Architect to help guide that evolution.&nbsp;</p>\n\n<p>This is a rare opportunity to step into a highly influential role where you'll help shape technology strategy, modernise platforms, enable innovation, and ensure our technology investments support the next phase of growth. We're not looking for someone who wants to sit in the ivory tower producing diagrams nobody reads.&nbsp;</p>\n\n<p>We're looking for someone who enjoys rolling up their sleeves, solving complex problems and turning ideas into practical outcomes. Someone who can see the bigger picture while still helping teams navigate the path to get there.&nbsp;</p>\n\n<p><strong>About the Role&nbsp;</strong></p>\n\n<p>Reporting to the Chief Digital and Technology Officer, you'll play a key role in defining and governing enterprise architecture across The BUSY Group, while leading solution design for strategic initiatives and transformational programs.&nbsp;</p>\n\n<p>You'll work closely with executive leaders, business stakeholders, project teams and technology partners to ensure our technology ecosystem is scalable, secure, fit-for-purpose and aligned to organisational objectives.&nbsp;</p>\n\n<p>Key responsibilities include:&nbsp;</p>\n\n<ul>\n\t<li>Develop and maintain enterprise architecture frameworks, standards and roadmaps.&nbsp;</li>\n\t<li>Create technology strategies that support organisational growth and digital transformation.&nbsp;</li>\n\t<li>Lead solution architecture for major projects and business initiatives.&nbsp;</li>\n\t<li>Evaluate emerging technologies and recommend opportunities for innovation and improvement.&nbsp;</li>\n\t<li>Guide application, data, infrastructure and integration architecture decisions.&nbsp;</li>\n\t<li>Support cloud-first and modern workplace initiatives.&nbsp;</li>\n\t<li>Work closely with delivery teams to ensure solutions are practical, achievable and aligned to architectural principles.&nbsp;</li>\n\t<li>Partner with business leaders to understand challenges, identify opportunities and design scalable technology solutions.&nbsp;</li>\n\t<li>Influence technology investment decisions and long-term planning.</li>\n</ul>\n\n<p><strong>Why Join The BUSY Group?&nbsp;</strong></p>\n\n<p>At The BUSY Group, our work changes lives. Every day we help people gain skills, find employment, complete their education and create better futures for themselves and their communities.&nbsp;</p>\n\n<p>When you join us, you'll have the opportunity to:&nbsp;</p>\n\n<ul>\n\t<li>Shape technology strategy across a large and diverse international organisation.&nbsp;</li>\n\t<li>Influence significant transformation and modernisation initiatives.&nbsp;</li>\n\t<li>Work in an organisation with a strong social purpose and genuine community impact.&nbsp;</li>\n\t<li>Collaborate with passionate and committed leaders.&nbsp;</li>\n\t<li>Make your mark during an exciting period of growth and evolution.&nbsp;</li>\n\t<li>Enjoy flexibility and a supportive culture.&nbsp;</li>\n</ul>\n<br><p><strong>About You&nbsp;</strong></p>\n\n<p>You are naturally curious, commercially minded and excited by the challenge of helping a growing organisation scale effectively.&nbsp;</p>\n\n<p>You don't just identify problems. You find ways to solve them.&nbsp;</p>\n\n<p>You'll bring:&nbsp;</p>\n\n<ul>\n\t<li>Experience in Enterprise Architecture, Solution Architecture or a similar senior technology leadership role.&nbsp;</li>\n\t<li>Demonstrated success influencing enterprise-wide technology strategy.&nbsp;</li>\n\t<li>Strong understanding of cloud platforms, enterprise applications, software design and development, integration patterns, data architecture and cybersecurity principles.&nbsp;</li>\n\t<li>Experience delivering architecture outcomes within complex, multi-site organisations.&nbsp;</li>\n\t<li>Exceptional stakeholder engagement and communication skills.&nbsp;</li>\n\t<li>The ability to translate technical complexity into practical business solutions.&nbsp;</li>\n\t<li>A proactive and outcomes-focused mindset.&nbsp;</li>\n\t<li>A desire to build, improve and make things happen.</li>\n</ul>\n\n<p><strong>Ready to Build What's Next?&nbsp;</strong></p>\n\n<p>If you're an architect who enjoys balancing strategic vision with practical execution, and you're energised by the opportunity to help a growing organisation scale for the future, we'd love to hear from you.&nbsp;</p>\n\n<p>This role will actively commence recruitment from the date of advertisement. The closing date of this ad is dependent on the appointment of the role.&nbsp;</p>\n\n<p>The BUSY Group is an organisation that prioritises the safeguarding of children and all vulnerable people by actively adopting strategies that embed a culture of zero tolerance for abuse of any kind. The appointment of successful applicants will be subject to satisfactory employment screening including criminal history and relevant working with children checks. &nbsp;</p>\n\n<p>The BUSY Group is committed to achieving a diverse workforce and strongly encourages applications from First Nations People, veterans, people from culturally diverse backgrounds and people with disabilities.&nbsp;</p>",
+      "keywords": [
+        "enterprise",
+        "solutions",
+        "architect"
+      ]
+    },
     {
       "job_id": "95405431",
       "job_title": "Service Desk Analyst",
@@ -815,20 +898,27 @@
     },
     {
       "job_id": "95102073",
-      "job_title": "Solution Consultant",
+      "job_title": "Financial Services Technology Consultant | AI, Cybersecurity, Cloud & Managed IT",
       "business_name": "First Focus IT P/L",
       "work_type": "Full time",
-      "job_type": "Sales - Pre & Post",
-      "pay_range": "Competitive pkg + 10 paid training days",
+      "job_type": "Consultants",
+      "pay_range": "$150,000 – $200,000/year, plus up to $100,000 OTE",
       "area": "Bundall, Gold Coast QLD",
       "region": "Gold Coast",
       "url": "https://www.seek.com.au/job/95102073",
       "advertiser_id": "35852943",
       "posted_date": "2026-10-07T01:24:13Z",
-      "job_description": "<p>You know how to sell complex services into SMB and mid-market organisations.</p><p>Not products. Not licences. Not simple transactional deals. Services.</p><p>First Focus is looking for a proven Solution Consultant who can turn qualified conversations into high-quality commercial outcomes. We are the leading managed AI and IT services provider in Australia and New Zealand, and our marketing engine creates a strong flow of opportunities with businesses already exploring change.</p><p>Your role is to qualify well, run sharp discovery, shape the right solution and close clients who are a strong fit for our managed AI, managed IT, cloud, cyber, modern workplace and project capabilities.</p><p>This is a individual contributor role. It is not a training-ground sales position, and it is not a lead generation role. You will need to arrive with developed discovery skills, commercial discipline and the ability to build trust with executives quickly.</p><h2><strong>What You Will Be Doing</strong></h2><p>You will work with businesses typically in the 20 to 200 seat range that are reviewing their IT environment, AI initiatives, security posture, systems maturity or current technology partner.</p><p>AI is at the forefront of this role. First Focus is the market leader in helping SMBs do more with AI in practical, secure and commercially useful ways. You will be at the heart of those conversations, helping business leaders move from curiosity and experimentation to clear priorities, sensible adoption and measurable outcomes.</p><p>You will lead the commercial conversation from qualification through to proposal and close. That means understanding the client’s business, identifying real pain, testing urgency, mapping decision process and shaping a solution that is commercially sound and operationally deliverable.</p><p>You will work closely with technical specialists, but you will own the sales process. You do not need to be the deepest technical person in the room. You do need to know how to translate AI, security, cloud and managed services capability into business value, ask strong questions and keep the conversation moving toward a decision.</p><p>You will write clear, credible proposals that help senior stakeholders understand the case for change. You will also ensure clean handovers into onboarding and delivery, because selling something properly includes setting the client and the delivery team up for success.</p><h2><strong>About You</strong></h2><p>You have already sold complex B2B services and you understand that services sales is different from product sales. Trust matters earlier. Discovery matters more. The value has to be made clear before the client can confidently move.</p><p>You are curious about AI and already using it to work smarter. You experiment with it in your professional and personal life, not because it is trendy, but because you can see how it improves research, communication, productivity, decision-making and client outcomes.</p><p>You are likely to be a strong fit if you have:</p><ul><li><p>At least five years of consultative selling, solution consulting or services sales experience.</p></li><li><p>A track record selling managed services, professional services, IT consulting, cyber, cloud, systems integration, AI-enabled services or similar complex services.</p></li><li><p>Experience selling into SMB or mid-market organisations.</p></li><li><p>Confidence speaking with owners, CEOs, CFOs, COOs, IT leaders and senior managers.</p></li><li><p>The ability to qualify firmly and avoid wasting time on weak opportunities.</p></li><li><p>Strong written communication and the ability to produce clear proposals.</p></li><li><p>Enough technical curiosity to learn our service lines quickly and know when to bring in specialists.</p></li><li><p>A genuine interest in AI and how it can help businesses improve performance.</p></li><li><p>Commercial maturity, high standards and the expectation that your remuneration should reflect the value you create.</p></li></ul><p>This role is probably not right if your experience is mainly lead generation, account management, product sales or enterprise sales with large internal bid teams around you. It is also not right if you need a highly scripted sales process to be effective, or if AI is something you only talk about rather than actively use.</p><h2><strong>What Great Looks Like</strong></h2><p>Within six months, you will be running strong executive discovery with limited supervision, converting a meaningful percentage of assigned opportunities, producing commercially sharp proposals and contributing materially to new recurring revenue.</p><p>You will be trusted by prospects because you understand their business. You will be trusted internally because you qualify properly, sell accurately and set expectations clearly.</p><p>You will also be helping SMB leaders understand where AI can create real business value, where they need better foundations first and how First Focus can help them move forward safely and practically.</p><h2><strong>Why First Focus</strong></h2><p>First Focus is the leading managed AI and IT services provider in Australia and New Zealand, with more than 400 specialists across Australia, New Zealand and the Philippines.</p><p>We are at the front of helping SMBs use AI to work smarter, improve productivity, strengthen decision-making and modernise the way they operate. You will have genuine delivery depth behind you, strong brand credibility and a proven marketing engine creating qualified demand.</p><p>You will not be building a pipeline from scratch. You will be working with businesses that already know who we are and are actively exploring options. Your job is to turn the right opportunities into long-term client relationships.</p><h2><strong>Benefits</strong></h2><ul><li><p>Strong base-weighted remuneration with achievable performance incentives.</p></li></ul><ul><li><p>Hybrid work and flexible hours.</p></li><li><p>Paid study days and structured professional development.</p></li><li><p>Generous parental leave and wellbeing programs.</p></li><li><p>Extra leave for volunteering or community work.</p></li><li><p>Referral bonuses and profit share, subject to eligibility.</p></li><li><p>Access to deep technical capability across managed AI, managed IT, cloud, cyber, modern workplace and projects.</p></li></ul><p>If you already know how to sell professional services, are genuinely curious about AI and want a senior IC role with qualified demand, strong delivery capability and serious earning potential, we would be happy to speak with you.</p><p>Questions before applying? Reach out to Brendan Ritchie for a confidential conversation.</p><p><em>First Focus welcomes applications from Neurodiverse candidates. We recommend &amp; appreciate disclosure along with the application so that a copy of our Neurodiversity Statement can be provided outlining the flexible options we can offer to best showcase your skills.</em></p>",
+      "job_description": "<p><strong>You know financial services.</strong></p><p>Not just that accountants love spreadsheets, financial advisers love compliance, and somehow a relatively simple process can turn into seventeen forms and three approval meetings.</p><p>You understand how financial services firms actually operate, how business owners and directors think, how technology decisions get made, and why trust matters more than the cheapest quote.</p><p>Maybe you've sold financial services technology. Maybe you've worked in financial services IT. Maybe you've helped accounting firms, financial advisers, wealth managers or insurance businesses modernise their systems, cybersecurity or cloud platforms.</p><p>Whatever your path, you know that financial services businesses don't buy technology for technology's sake. They buy outcomes.</p><p>First Focus is looking for a <strong>Financial Services Technology Consultant</strong> to help financial services firms confidently navigate AI, cybersecurity, managed IT and cloud transformation.</p><p>We are Australia's leading managed AI and IT services provider, and our marketing engine delivers a strong pipeline of qualified opportunities from businesses already looking to improve how they work.</p><p>This is an individual contributor role. It isn't a graduate sales position, and it isn't a lead generation role. You'll need to arrive with strong commercial instincts, excellent discovery skills and the ability to build credibility quickly with business owners, directors, financial services leaders and senior decision-makers.</p><p><br></p><h2>What You'll Be Doing</h2><p>You'll work with small and mid-sized financial services businesses, typically between 20 and 250 users, who are reviewing their technology strategy, cybersecurity, AI roadmap or existing IT partner.</p><p>AI is rapidly changing financial services.</p><p>Business owners and directors want to know how Microsoft Copilot, secure AI assistants and automation can improve financial reporting, client engagement, document processing, compliance workflows and productivity without compromising confidentiality, data security or regulatory obligations.</p><p>You'll help firms move beyond AI curiosity into practical, secure and commercially sensible adoption.</p><p>You'll lead the commercial conversation from qualification through to proposal and close. That means understanding how the business operates, where technology is creating friction, how decisions are made, who needs to be involved and what success looks like.</p><p>You'll work closely with technical specialists, solution architects and delivery teams, but you'll own the client relationship and sales process. You don't need to be the deepest technical expert in the room. You do need to confidently translate cybersecurity, AI, cloud and managed services into outcomes that resonate with business owners, directors and financial services leaders.</p><p>You'll write clear, commercially credible proposals that explain the business case for change, while ensuring smooth handovers into implementation because a successful sale doesn't end with a signature.</p><p><br></p><h2>About You</h2><p>You understand that selling into financial services firms is different.</p><p>Trust is earned. Reputation matters. Risk matters. Relationships matter.</p><p>You know how to have commercial conversations with professionals who expect you to understand their business before talking about yours.</p><p>You're also naturally curious about AI and already using it to improve the way you work, whether that's research, writing, preparation, productivity or client engagement.</p><p><strong>You'll probably be a great fit if you have:</strong></p><ul><li><p>At least five years' experience in consultative B2B sales, solution consulting or technology consulting.</p></li><li><p>Experience selling into financial services organisations, including accounting firms, financial advice practices, wealth management businesses, insurance brokers or lending organisations.</p></li><li><p>Experience with managed services, financial services technology, cybersecurity, cloud, AI, document management or industry-specific business platforms.</p></li><li><p>Confidence engaging with Managing Directors, Business Owners, CEOs, CFOs, Practice Managers, Compliance Managers and IT decision-makers.</p></li><li><p>Strong discovery skills and the discipline to qualify opportunities properly.</p></li><li><p>Excellent written communication and proposal development skills.</p></li><li><p>Enough technical curiosity to understand AI, cybersecurity and cloud services while knowing when to bring technical specialists into the conversation.</p></li><li><p>High commercial standards and the expectation that your remuneration reflects the value you create.</p></li></ul><p>Experience with financial services technologies such as Xero, MYOB, BGL, Class, Xplan, AdviserLogic, Salesforce Financial Services Cloud or other accounting, wealth management and financial services platforms would be highly regarded, but isn't essential.</p><p><strong>This role probably isn't the right fit if your experience has been primarily lead generation, transactional product sales or heavily supported enterprise sales where large bid teams carry most of the commercial process.</strong></p><p>We're specifically looking for someone who understands the financial services industry, not simply a generalist technology consultant looking for a new market to sell into.</p><p><br></p><h2>What Great Looks Like</h2><p>Within six months you'll be confidently leading strategic conversations with business owners, directors and financial services leaders, converting qualified opportunities into long-term managed services clients and becoming a trusted advisor to firms navigating AI and technology change.</p><p>You'll build credibility because you understand the commercial realities of financial services.</p><p>You'll earn trust internally because you qualify thoroughly, sell accurately and hand over opportunities that delivery teams genuinely enjoy implementing.</p><p>Most importantly, you'll help Australian financial services businesses embrace AI safely, improve cybersecurity, modernise infrastructure and create better experiences for both their teams and their clients.</p><p><br></p><h2>Why First Focus</h2><p>Financial services businesses don't need another IT supplier.</p><p>They need a technology partner who understands confidentiality, cyber risk, regulatory obligations, business continuity and how financial services professionals actually work.</p><p>First Focus is Australia's leading managed AI and IT services provider, with more than 350 specialists across Australia, New Zealand and the Philippines.</p><p>We're helping professional services firms use AI in practical, secure and commercially valuable ways. Behind every conversation you'll have is deep technical capability across managed AI, managed IT, cybersecurity, cloud, Microsoft technologies, modern workplace and professional services.</p><p>You'll have genuine delivery capability behind you, a trusted brand in the market and a marketing engine generating qualified demand.</p><p>You won't spend your days cold calling from a spreadsheet. Which, given the industry's fondness for spreadsheets, is probably worth mentioning.</p><p>You'll spend them helping businesses that already know they need to modernise, making smart technology decisions that improve productivity, reduce risk and create lasting client relationships.</p><p>Our First Focus values include <strong>Be the Solution</strong>, which is particularly relevant here. We believe in taking ownership, solving problems and following through, rather than simply selling technology and hoping someone else figures out the difficult bits.</p><p>Learn more about First Focus and our values at https://www.firstfocus.com.au/about-us/.</p><h2>Neurodiversity</h2><p>Neurodiversity: First Focus welcomes applications from Neurodiverse candidates. We recommend &amp; appreciate disclosure along with the application so that a copy of our Neurodiversity Statement can be provided outlining the flexible options we can offer to best showcase your skills.</p><h2>AI in Recruitment</h2><p>AI in Recruitment: We use AI-assisted recruitment tools as part of our recruitment process. These tools do not make hiring decisions. Candidate information is handled in accordance with the Privacy Act 1988 (Cth).</p>",
       "keywords": [
-        "solution",
-        "consultant"
+        "financial",
+        "services",
+        "technology",
+        "consultant",
+        "ai",
+        "cybersecurity",
+        "cloud",
+        "managed",
+        "it"
       ]
     },
     {
