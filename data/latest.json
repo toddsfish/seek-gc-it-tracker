@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "region": "Gold Coast",
-  "scraped_at": "2026-10-24T08:45:23.197480+10:00",
+  "scraped_at": "2026-10-25T08:07:08.895287+10:00",
   "total_jobs": 48,
   "keywords": [
     {
@@ -16,8 +16,8 @@
     },
     {
       "term": "engineer",
-      "count": 9,
-      "share": 0.1875
+      "count": 10,
+      "share": 0.2083
     },
     {
       "term": "analyst",
@@ -30,7 +30,7 @@
       "share": 0.125
     },
     {
-      "term": "officer",
+      "term": "software",
       "count": 5,
       "share": 0.1042
     },
@@ -40,7 +40,7 @@
       "share": 0.0833
     },
     {
-      "term": "software",
+      "term": "officer",
       "count": 4,
       "share": 0.0833
     },
@@ -71,11 +71,6 @@
     },
     {
       "term": "administrator",
-      "count": 3,
-      "share": 0.0625
-    },
-    {
-      "term": "technical",
       "count": 3,
       "share": 0.0625
     },
@@ -141,6 +136,11 @@
     },
     {
       "term": "specialist",
+      "count": 2,
+      "share": 0.0417
+    },
+    {
+      "term": "technical",
       "count": 2,
       "share": 0.0417
     },
@@ -246,31 +246,6 @@
     },
     {
       "term": "year",
-      "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "school",
-      "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "pacific",
-      "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "pines",
-      "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "state",
-      "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "high",
       "count": 1,
       "share": 0.0208
     },
@@ -437,26 +412,21 @@
   ],
   "jobs": [
     {
-      "job_id": "95472045",
-      "job_title": "School Technical Officer - Pacific Pines State High School",
-      "business_name": "Queensland Department of Education",
+      "job_id": "95472363",
+      "job_title": "Senior Software Engineer",
+      "business_name": "Tradezone Pty Ltd",
       "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
+      "job_type": "Engineering - Software",
       "pay_range": "",
-      "area": "Pacific Pines, Gold Coast QLD",
+      "area": "Helensvale, Gold Coast QLD",
       "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95472045",
-      "advertiser_id": "20931168",
-      "posted_date": "2026-10-23T20:11:22Z",
-      "job_description": "<div>\n \n <p>Pacific Pines State High School is seeking a skilled and service-focused School Technical Officer to support the effective operation, maintenance and optimisation of the school's information and communication technology (ICT) systems.</p>\n </div>\n<div>\n <p><strong>About the School</strong></p>\n<p>Pacific Pines State High School is a proud and established school that values strong and supportive relationships between staff, parents, and students. As a school our mission is to inspire excellence to empower success. We value our staff and support our students to achieve these goals. It is these ideas and values that form the foundation of our teaching and learning practices and contribute to a positive and supportive school culture.</p>\n<p><strong>About the Role</strong></p>\n<p>The role focuses on providing high-quality technical support to staff and students, troubleshooting hardware and software issues, maintaining network infrastructure and ensuring reliable access to the technology that underpins teaching and learning. Working collaboratively with school staff and departmental support teams, the School Technical Officer will deliver practical solutions, provide technical guidance and contribute to a secure, efficient and responsive ICT environment.</p>\n<p><strong>Your Responsibilities</strong></p>\n<ul>\n<li>Provide advice and assistance on maximising the potential of ICT operations within the school/college, including acquisition, installation, operation, maintenance, repair and replacement.</li>\n<li>Support the school community with technical advice, instruction and assistance with electronic equipment, in accordance with departmental, school and manufacturer's policy, guidelines and network standards.</li>\n<li>Assist in the provision of in-service training to staff, on the effective application of ICT tools to successfully achieve and deliver educational services to students.</li>\n<li>Provide effective and efficient support to staff and students to resolve problems associated with school computing facilities, whilst ensuring high end customer focus and communication.</li>\n<li>Provide regular preventative maintenance, routine and emergency repairs to all ICT facilities and associated electronic equipment.</li>\n<li>Other suitable duties, consistent with the duties and responsibilities of the position as directed by the supervisor or nominated delegate.</li>\n<li>Maintain a range of technical services and accountable records related to the support of ICT, including infrastructure, used by the school/college.</li>\n<li>Communicate with various stakeholders, including Regional and Central Support, on technical matters and provide technical advice, when required.</li>\n</ul>\n<p>The suitable applicant requires the following skills and knowledge:</p>\n<ul>\n<li>Technical knowledge of server hardware and configuration, and networking peripherals.</li>\n<li>A high or good level understanding of PC desktop and laptop systems, Apple iPads and printer support.</li>\n<li>Excellent communication and interpersonal skills.</li>\n<li>Strong analytical and problem-solving skills.</li>\n<li>A strong client focus.</li>\n<li>The ability to work as part of a team.</li>\n<li>Strong technical knowledge of server hardware and configuration, and networking peripherals.</li>\n<li>Understanding of Local Area Networks and of Wide Area Networks.</li>\n<li>Experience using remote support tools to support servers and workstations remotely, within the school environment.</li>\n<li>The ability to research, identify and apply creative solutions to problems.</li>\n<li>Sound working knowledge of network security and security protocols.</li>\n<li>Other suitable duties, consistent with the duties and responsibilities of the position as directed by the supervisor or nominated delegate.</li>\n</ul>\n<p><strong>About You</strong></p>\n<p>If you have strong technical expertise, excellent problem-solving and communication skills, and a passion for supporting education through technology, this is an opportunity to make a valuable contribution to the school community.</p>\n<p><strong>Interested? To Apply:</strong> &nbsp;</p>\n<ul>\n<li>Attach a brief resume including contact details for 2 referees (referees should have an understanding of your relevant work history);</li>\n<li>Attach a 2-page written statement in response to the attached role description. &nbsp;</li>\n<li>Attach evidence of the mandatory requirements outlined in the attached role description. &nbsp;</li>\n</ul>\n<p><strong>Progressional roles show a salary range spanning two classifications. Appointment will be made at the level appropriate to skill and fulfilment of required criteria</strong></p>\n<p>Applications remain current for 12 months from the closing date and may be considered for appointment to identical or similar vacancies within the Department. &nbsp;</p>\n<p>Applications from recruitment agencies will not be accepted. &nbsp;</p>\n </div>",
+      "url": "https://www.seek.com.au/job/95472363",
+      "advertiser_id": "46711243",
+      "posted_date": "2026-10-23T22:41:02Z",
+      "job_description": "<p><strong>About us:</strong></p><p>Tradezone is one of Australia’s fastest-growing electrical wholesalers. Since launching in 2015, we’ve grown to operate six state-of-the-art distribution centres nationwide, supplying electrical, solar, HVAC, data and safety products to trade professionals across Australia - with further expansion on the horizon.</p><p>As part of the Kingston Group, a privately owned, family-run Australian business with more than 40 years of wholesale and distribution experience, Tradezone combines the scale and capability of a national operation with the culture and values of a close-knit team.</p><p>Technology and innovation are at the heart of what we do. From our real-time online platform and live-stock visibility, to our dedicated national delivery fleet with live tracking, we’re continually investing in smarter, more efficient ways to serve our customers and support our continued growth.</p><p><strong>About the Role</strong></p><p>Technology drives our business forward, and we’re proud to have our own creative and practical in-house IT and technology teams. We’re seeking a Senior Software Engineer who wants to make a real impact.</p><p>You’ll help design, build and evolve the technology behind our growing national operations, from our real-time online platform and live stock visibility to the systems supporting our distribution centres, offices and customer experience.</p><p>If you enjoy solving meaningful problems and seeing the real-world impact of your work, we’d like to hear from you.</p><p><strong>Your Responsibilities</strong></p><p>•&nbsp;&nbsp;&nbsp; Design, develop and maintain scalable applications, APIs and integrations.</p><p>•&nbsp;&nbsp;&nbsp; Contribute to software architecture, technical decisions and engineering best practices.</p><p>•&nbsp;&nbsp;&nbsp; Write clean, maintainable and well tested code.</p><p>•&nbsp;&nbsp;&nbsp; Deploy and support production applications, including ongoing maintenance and upgrades.</p><p>•&nbsp;&nbsp;&nbsp; Optimise databases, troubleshoot complex issues and improve system performance.</p><p>•&nbsp;&nbsp;&nbsp; Work with teams across the business to turn operational requirements into practical solutions.</p><p><strong><br>What You’ll Bring</strong></p><p>Substantial hands on experience building and maintaining production systems, with strong skills in:</p><p>•&nbsp;&nbsp;&nbsp; <strong>Python</strong> - backend development, APIs, integrations, automation and database access.</p><p>•&nbsp;&nbsp;&nbsp; <strong>PostgreSQL</strong> - database design, SQL, indexing and query optimisation.</p><p>•&nbsp;&nbsp;&nbsp; <strong>Docker</strong> - containerisation, Docker Compose, networking and persistent storage.</p><p>•&nbsp;&nbsp;&nbsp; <strong>Git &amp; Linux</strong> - collaborative development, version control, and supporting and troubleshooting production systems.</p><p>Experience with the following would also be highly regarded:</p><p>•&nbsp;&nbsp;&nbsp; <strong>TimescaleDB</strong> - time-series data management within PostgreSQL.</p><p>•&nbsp;&nbsp;&nbsp; <strong>MongoDB</strong> - document modelling, querying, indexing and aggregation.</p><p>•&nbsp;&nbsp;&nbsp; <strong>Redis</strong> - caching, session management and performance optimisation.</p><p>•&nbsp;&nbsp;&nbsp; <strong>Dokploy</strong> - deploying and managing Docker applications.</p><p>•&nbsp;&nbsp;&nbsp; <strong>Nginx &amp; uWSGI</strong> - reverse proxying, TLS and Python application serving where required.</p><p>•&nbsp;&nbsp;&nbsp; <strong>ElectricSQL / Electric</strong> - synchronising PostgreSQL data with client applications.</p><p>You take ownership of your work, communicate clearly and bring a proactive, practical approach to solving problems. You’re comfortable collaborating with technical colleagues and stakeholders across the business.</p><p><br><strong>Why Tradezone?</strong></p><p>Join a fast-growing Australian business where technology isn’t just part of what we do – it drives us forward.</p><p>With expansive B2B and B2C platforms, complex engineering challenges and ambitious growth plans, you’ll have the opportunity to shape technical solutions, influence how we build and scale, and turn big ideas into real-world impact.</p><p>Work alongside smart, creative people who challenge convention, solve meaningful problems and are always looking for better ways to do things.</p><p><strong>Big ideas. Smart tech. Real impact.</strong> If you’re ready to take ownership, push boundaries and help shape what’s next at Tradezone, we’d love to hear from you.</p>",
       "keywords": [
-        "school",
-        "technical",
-        "officer",
-        "pacific",
-        "pines",
-        "state",
-        "high"
+        "software",
+        "engineer"
       ]
     },
     {
