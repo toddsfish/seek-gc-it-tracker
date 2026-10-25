@@ -1,416 +1,464 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "region": "Gold Coast",
-  "scraped_at": "2026-10-25T08:07:08.895287+10:00",
-  "total_jobs": 48,
+  "scraped_at": "2026-10-26T08:10:46.210119+10:00",
+  "total_jobs": 49,
   "keywords": [
     {
       "term": "support",
       "count": 14,
-      "share": 0.2917
+      "share": 0.2857
     },
     {
       "term": "it",
       "count": 11,
-      "share": 0.2292
+      "share": 0.2245
     },
     {
       "term": "engineer",
       "count": 10,
-      "share": 0.2083
+      "share": 0.2041
     },
     {
       "term": "analyst",
       "count": 6,
-      "share": 0.125
+      "share": 0.1224
     },
     {
       "term": "technician",
       "count": 6,
-      "share": 0.125
+      "share": 0.1224
     },
     {
       "term": "software",
       "count": 5,
-      "share": 0.1042
+      "share": 0.102
+    },
+    {
+      "term": "officer",
+      "count": 5,
+      "share": 0.102
     },
     {
       "term": "ai",
       "count": 4,
-      "share": 0.0833
-    },
-    {
-      "term": "officer",
-      "count": 4,
-      "share": 0.0833
+      "share": 0.0816
     },
     {
       "term": "business",
       "count": 3,
-      "share": 0.0625
+      "share": 0.0612
     },
     {
       "term": "technology",
       "count": 3,
-      "share": 0.0625
+      "share": 0.0612
     },
     {
       "term": "developer",
       "count": 3,
-      "share": 0.0625
+      "share": 0.0612
     },
     {
       "term": "network",
       "count": 3,
-      "share": 0.0625
+      "share": 0.0612
     },
     {
       "term": "systems",
       "count": 3,
-      "share": 0.0625
+      "share": 0.0612
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0625
+      "share": 0.0612
     },
     {
       "term": "service",
       "count": 3,
-      "share": 0.0625
+      "share": 0.0612
+    },
+    {
+      "term": "technical",
+      "count": 3,
+      "share": 0.0612
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "consultant",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "cybersecurity",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "cloud",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "managed",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "services",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "desk",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "specialist",
       "count": 2,
-      "share": 0.0417
-    },
-    {
-      "term": "technical",
-      "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "coordinator",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "manager",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "soc",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0408
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "intelligence",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "manufacturing",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "associate",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "help",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
+    },
+    {
+      "term": "school",
+      "count": 1,
+      "share": 0.0204
+    },
+    {
+      "term": "upper",
+      "count": 1,
+      "share": 0.0204
+    },
+    {
+      "term": "coomera",
+      "count": 1,
+      "share": 0.0204
+    },
+    {
+      "term": "state",
+      "count": 1,
+      "share": 0.0204
+    },
+    {
+      "term": "college",
+      "count": 1,
+      "share": 0.0204
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "sql",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "integrations",
       "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "applications",
-      "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "recent",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
+    },
+    {
+      "term": "applications",
+      "count": 1,
+      "share": 0.0204
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "prep",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "year",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "account",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "nursing",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "director",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "experience",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "portfolio",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "management",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "project",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "formwork",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "worker",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "quality",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "assurance",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "umbraco",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "cms",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0204
     }
   ],
   "jobs": [
+    {
+      "job_id": "95481086",
+      "job_title": "School Technical officer - Upper Coomera State College",
+      "business_name": "Queensland Department of Education",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Coomera, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95481086",
+      "advertiser_id": "20931168",
+      "posted_date": "2026-10-25T16:02:54Z",
+      "job_description": "<div>\n \n <p>Upper Coomera State College is seeking two passionate and committed ICT professionals to join our team in 2027.<br>Working across our Prep to Year 12 College, both positions will play an important role in supporting the delivery of reliable and effective ICT services for our students and staff.<br>We are looking for technically skilled, \ncustomer-focused individuals who enjoy problem-solving, working collaboratively and providing high-quality technical support in a busy school environment.</p>\n </div>\n<div>\n <p><strong>About our College:</strong></p>\n<p>As a Prep to year 12 campus we cater for all children from ages 5 to 17 and offer every opportunity for each student to experience an individual learning pathway. We offer a caring, nurturing learning environment that acknowledges difference, celebrates effort and strives for excellence. &nbsp;Our College provides a wide range of subjects and learning opportunities with a strong focus on literacy, numeracy, science, e-Learning, the arts and global citizenship. &nbsp;Your&nbsp;child&nbsp;will&nbsp;be&nbsp;encouraged&nbsp;to discover and&nbsp;develop their interests and talents, pursue&nbsp;their&nbsp;goals&nbsp;and&nbsp;dreams and to reach their full potential so they may succeed in their chosen pathways&nbsp;and&nbsp;actively&nbsp;contribute to&nbsp;a&nbsp;global society.</p>\n<p><strong>About the Role:</strong></p>\n<p>The two positions will work collaboratively to provide effective ICT support across the College.</p>\n<p><strong>Responsibilities Include:</strong></p>\n<ul>\n<li>Provide advice and assistance on maximising the potential of ICT operations within the school/college, including acquisition, installation, operation, maintenance, repair and replacement.</li>\n<li>Support the college community with technical advice, instruction and assistance with electronic equipment, in accordance with departmental, school and manufacturer's policy, guidelines and network standards.</li>\n<li>Assist in the provision of in-service training to staff, on the effective application of ICT tools to successfully achieve and deliver educational services to students.</li>\n<li>Provide effective and efficient support to staff and students to resolve problems associated with college computing facilities, whilst ensuring high end customer focus and communication.</li>\n<li>Provide regular preventative maintenance, routine and emergency repairs to all ICT facilities and associated electronic equipment.</li>\n<li>Maintain a range of technical services and accountable records related to the support of ICT, including infrastructure, used by the school/college.</li>\n<li>Communicate with various stakeholders, including Regional and Central Support, on technical matters and provide technical advice, when required.</li>\n</ul>\n<p><strong>About You:</strong></p>\n<p>It would be highly desirable to have the following skills and knowledge:</p>\n<ul>\n<li>Technical knowledge of server hardware and configuration, and networking peripherals.</li>\n<li>A high or good level understanding of PC desktop and laptop systems, Apple iPads and printer support.</li>\n<li>Excellent communication and interpersonal skills.</li>\n<li>Strong analytical and problem-solving skills.</li>\n<li>Experience using remote support tools to support servers and workstations remotely, within the school environment.</li>\n<li>The ability to research, identify and apply creative solutions to problems.</li>\n<li>Sound working knowledge of network security and security protocols.</li>\n</ul>\n<p><strong>Interested? To Apply:</strong> &nbsp;</p>\n<ul>\n<li>Attach a brief resume including contact details for 2 referees (referees should have an understanding of your relevant work history);&nbsp;</li>\n<li>Attach a 2-page written statement in response to the attached role description. &nbsp;</li>\n</ul>\n<p><strong>Progressional roles show a salary range spanning two classifications. Appointment will be made at the level appropriate to skill and fulfilment of required criteria.</strong>&nbsp;</p>\n<p>We welcome all applicants to share any support needed to ensure our recruitment process is inclusive. &nbsp;</p>\n<p>Applications remain current for 12 months from the closing date and may be considered for appointment to identical or similar vacancies within the Department. &nbsp;</p>\n<p>Applications from recruitment agencies will not be accepted. &nbsp;</p>\n </div>",
+      "keywords": [
+        "school",
+        "technical",
+        "officer",
+        "upper",
+        "coomera",
+        "state",
+        "college"
+      ]
+    },
     {
       "job_id": "95472363",
       "job_title": "Senior Software Engineer",
@@ -423,7 +471,7 @@
       "url": "https://www.seek.com.au/job/95472363",
       "advertiser_id": "46711243",
       "posted_date": "2026-10-23T22:41:02Z",
-      "job_description": "<p><strong>About us:</strong></p><p>Tradezone is one of Australia’s fastest-growing electrical wholesalers. Since launching in 2015, we’ve grown to operate six state-of-the-art distribution centres nationwide, supplying electrical, solar, HVAC, data and safety products to trade professionals across Australia - with further expansion on the horizon.</p><p>As part of the Kingston Group, a privately owned, family-run Australian business with more than 40 years of wholesale and distribution experience, Tradezone combines the scale and capability of a national operation with the culture and values of a close-knit team.</p><p>Technology and innovation are at the heart of what we do. From our real-time online platform and live-stock visibility, to our dedicated national delivery fleet with live tracking, we’re continually investing in smarter, more efficient ways to serve our customers and support our continued growth.</p><p><strong>About the Role</strong></p><p>Technology drives our business forward, and we’re proud to have our own creative and practical in-house IT and technology teams. We’re seeking a Senior Software Engineer who wants to make a real impact.</p><p>You’ll help design, build and evolve the technology behind our growing national operations, from our real-time online platform and live stock visibility to the systems supporting our distribution centres, offices and customer experience.</p><p>If you enjoy solving meaningful problems and seeing the real-world impact of your work, we’d like to hear from you.</p><p><strong>Your Responsibilities</strong></p><p>•&nbsp;&nbsp;&nbsp; Design, develop and maintain scalable applications, APIs and integrations.</p><p>•&nbsp;&nbsp;&nbsp; Contribute to software architecture, technical decisions and engineering best practices.</p><p>•&nbsp;&nbsp;&nbsp; Write clean, maintainable and well tested code.</p><p>•&nbsp;&nbsp;&nbsp; Deploy and support production applications, including ongoing maintenance and upgrades.</p><p>•&nbsp;&nbsp;&nbsp; Optimise databases, troubleshoot complex issues and improve system performance.</p><p>•&nbsp;&nbsp;&nbsp; Work with teams across the business to turn operational requirements into practical solutions.</p><p><strong><br>What You’ll Bring</strong></p><p>Substantial hands on experience building and maintaining production systems, with strong skills in:</p><p>•&nbsp;&nbsp;&nbsp; <strong>Python</strong> - backend development, APIs, integrations, automation and database access.</p><p>•&nbsp;&nbsp;&nbsp; <strong>PostgreSQL</strong> - database design, SQL, indexing and query optimisation.</p><p>•&nbsp;&nbsp;&nbsp; <strong>Docker</strong> - containerisation, Docker Compose, networking and persistent storage.</p><p>•&nbsp;&nbsp;&nbsp; <strong>Git &amp; Linux</strong> - collaborative development, version control, and supporting and troubleshooting production systems.</p><p>Experience with the following would also be highly regarded:</p><p>•&nbsp;&nbsp;&nbsp; <strong>TimescaleDB</strong> - time-series data management within PostgreSQL.</p><p>•&nbsp;&nbsp;&nbsp; <strong>MongoDB</strong> - document modelling, querying, indexing and aggregation.</p><p>•&nbsp;&nbsp;&nbsp; <strong>Redis</strong> - caching, session management and performance optimisation.</p><p>•&nbsp;&nbsp;&nbsp; <strong>Dokploy</strong> - deploying and managing Docker applications.</p><p>•&nbsp;&nbsp;&nbsp; <strong>Nginx &amp; uWSGI</strong> - reverse proxying, TLS and Python application serving where required.</p><p>•&nbsp;&nbsp;&nbsp; <strong>ElectricSQL / Electric</strong> - synchronising PostgreSQL data with client applications.</p><p>You take ownership of your work, communicate clearly and bring a proactive, practical approach to solving problems. You’re comfortable collaborating with technical colleagues and stakeholders across the business.</p><p><br><strong>Why Tradezone?</strong></p><p>Join a fast-growing Australian business where technology isn’t just part of what we do – it drives us forward.</p><p>With expansive B2B and B2C platforms, complex engineering challenges and ambitious growth plans, you’ll have the opportunity to shape technical solutions, influence how we build and scale, and turn big ideas into real-world impact.</p><p>Work alongside smart, creative people who challenge convention, solve meaningful problems and are always looking for better ways to do things.</p><p><strong>Big ideas. Smart tech. Real impact.</strong> If you’re ready to take ownership, push boundaries and help shape what’s next at Tradezone, we’d love to hear from you.</p>",
+      "job_description": "<p><strong>About us:</strong></p><p>Tradezone is one of Australia’s fastest-growing electrical wholesalers. Since launching in 2015, we’ve grown to operate six state-of-the-art distribution centres nationwide, supplying electrical, solar, HVAC, data and safety products to trade professionals across Australia - with further expansion on the horizon.</p><p>As part of the Kingston Group, a privately owned, family-run Australian business with more than 40 years of wholesale and distribution experience, Tradezone combines the scale and capability of a national operation with the culture and values of a close-knit team.</p><p>Technology and innovation are at the heart of what we do. From our real-time online platform and live-stock visibility, to our dedicated national delivery fleet with live tracking, we’re continually investing in smarter, more efficient ways to serve our customers and support our continued growth.</p><p><strong>About the Role</strong></p><p>Technology drives our business forward, and we’re proud to have our own creative and practical in-house IT and technology teams. We’re seeking a Senior Software Engineer who wants to make a real impact.</p><p>You’ll help design, build and evolve the technology behind our growing national operations, from our real-time online platform and live stock visibility to the systems supporting our distribution centres, offices and customer experience.</p><p>If you enjoy solving meaningful problems and seeing the real-world impact of your work, we’d like to hear from you.</p><p><strong>Your Responsibilities</strong></p><p>•&nbsp;&nbsp; Design, develop and maintain scalable applications, APIs and integrations.</p><p>•&nbsp;&nbsp; Contribute to software architecture, technical decisions and engineering best practices.</p><p>•&nbsp;&nbsp; Write clean, maintainable and well-tested code.</p><p>•&nbsp;&nbsp; Optimise databases, troubleshoot complex issues and improve system performance.</p><p>•&nbsp;&nbsp; Deploy and support production applications, including ongoing maintenance and upgrades.</p><p>•&nbsp;&nbsp; Work with teams across the business to turn operational requirements into practical solutions.</p><p><strong><br>What You’ll Bring</strong></p><p>Substantial hands on experience building and maintaining production systems, with strong skills in:</p><p>•&nbsp;&nbsp; <strong>Python</strong> - backend development, APIs, integrations, automation and database access.</p><p>•&nbsp;&nbsp; <strong>PostgreSQL</strong> - database design, SQL, indexing and query optimisation.</p><p>•&nbsp;&nbsp; <strong>Docker &amp; Dokploy</strong> - containerisation, Docker Compose, networking, persistent storage, deployment and application management.</p><p>•&nbsp;&nbsp; <strong>Git</strong> - version control, branching, code reviews and collaborative development.</p><p>•&nbsp;&nbsp; <strong>Linux / Debian</strong> - deploying, supporting and troubleshooting applications in Debian-based production environments.</p><p>Experience with the following would also be highly regarded:</p><p>•&nbsp;&nbsp; <strong>TimescaleDB</strong> – time series data management within PostgreSQL.</p><p>•&nbsp;&nbsp; <strong>MongoDB</strong> - document modelling, querying, indexing and aggregation.</p><p>•&nbsp;&nbsp; <strong>Redis</strong> - caching, session management and performance optimisation.</p><p>•&nbsp;&nbsp; <strong>Nginx &amp; uWSGI</strong> - reverse proxying, TLS and Python application serving where required.</p><p>•&nbsp;&nbsp; <strong>ElectricSQL / Electric</strong> - synchronising PostgreSQL data with client applications.</p><p>You take ownership of your work, communicate clearly and bring a proactive, practical approach to solving problems. You’re comfortable collaborating with technical colleagues and stakeholders across the business.</p><p><br><strong>Why Tradezone?</strong></p><p>Join a fast-growing Australian business where technology isn’t just part of what we do – it drives us forward.</p><p>With expansive B2B and B2C platforms, complex engineering challenges and ambitious growth plans, you’ll have the opportunity to shape technical solutions, influence how we build and scale, and turn big ideas into real-world impact.</p><p>Work alongside smart, creative people who challenge convention, solve meaningful problems and are always looking for better ways to do things.</p><p><strong>Big ideas. Smart tech. Real impact.</strong> If you’re ready to take ownership, push boundaries and help shape what’s next at Tradezone, we’d love to hear from you.</p>",
       "keywords": [
         "software",
         "engineer"
