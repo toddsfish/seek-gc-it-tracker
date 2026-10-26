@@ -1,462 +1,498 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "region": "Gold Coast",
-  "scraped_at": "2026-10-26T08:10:46.210119+10:00",
-  "total_jobs": 49,
+  "scraped_at": "2026-10-27T09:28:25.280645+10:00",
+  "total_jobs": 51,
   "keywords": [
     {
       "term": "support",
       "count": 14,
-      "share": 0.2857
+      "share": 0.2745
     },
     {
       "term": "it",
-      "count": 11,
-      "share": 0.2245
+      "count": 12,
+      "share": 0.2353
     },
     {
       "term": "engineer",
-      "count": 10,
-      "share": 0.2041
+      "count": 11,
+      "share": 0.2157
     },
     {
       "term": "analyst",
       "count": 6,
-      "share": 0.1224
+      "share": 0.1176
+    },
+    {
+      "term": "software",
+      "count": 6,
+      "share": 0.1176
     },
     {
       "term": "technician",
       "count": 6,
-      "share": 0.1224
+      "share": 0.1176
     },
     {
-      "term": "software",
+      "term": "developer",
       "count": 5,
-      "share": 0.102
-    },
-    {
-      "term": "officer",
-      "count": 5,
-      "share": 0.102
+      "share": 0.098
     },
     {
       "term": "ai",
       "count": 4,
-      "share": 0.0816
+      "share": 0.0784
+    },
+    {
+      "term": "officer",
+      "count": 4,
+      "share": 0.0784
     },
     {
       "term": "business",
       "count": 3,
-      "share": 0.0612
+      "share": 0.0588
+    },
+    {
+      "term": "operations",
+      "count": 3,
+      "share": 0.0588
     },
     {
       "term": "technology",
       "count": 3,
-      "share": 0.0612
+      "share": 0.0588
     },
     {
-      "term": "developer",
+      "term": "data",
       "count": 3,
-      "share": 0.0612
+      "share": 0.0588
     },
     {
       "term": "network",
       "count": 3,
-      "share": 0.0612
+      "share": 0.0588
     },
     {
       "term": "systems",
       "count": 3,
-      "share": 0.0612
+      "share": 0.0588
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0612
+      "share": 0.0588
     },
     {
       "term": "service",
       "count": 3,
-      "share": 0.0612
+      "share": 0.0588
     },
     {
-      "term": "technical",
+      "term": "manager",
       "count": 3,
-      "share": 0.0612
+      "share": 0.0588
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.0408
-    },
-    {
-      "term": "operations",
-      "count": 2,
-      "share": 0.0408
+      "share": 0.0392
     },
     {
       "term": "consultant",
       "count": 2,
-      "share": 0.0408
+      "share": 0.0392
     },
     {
       "term": "cybersecurity",
       "count": 2,
-      "share": 0.0408
+      "share": 0.0392
     },
     {
       "term": "cloud",
       "count": 2,
-      "share": 0.0408
+      "share": 0.0392
     },
     {
       "term": "managed",
       "count": 2,
-      "share": 0.0408
+      "share": 0.0392
     },
     {
       "term": "services",
       "count": 2,
-      "share": 0.0408
+      "share": 0.0392
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0408
-    },
-    {
-      "term": "data",
-      "count": 2,
-      "share": 0.0408
-    },
-    {
-      "term": "telecommunications",
-      "count": 2,
-      "share": 0.0408
+      "share": 0.0392
     },
     {
       "term": "desk",
       "count": 2,
-      "share": 0.0408
+      "share": 0.0392
+    },
+    {
+      "term": "telecommunications",
+      "count": 2,
+      "share": 0.0392
     },
     {
       "term": "specialist",
       "count": 2,
-      "share": 0.0408
+      "share": 0.0392
+    },
+    {
+      "term": "technical",
+      "count": 2,
+      "share": 0.0392
     },
     {
       "term": "coordinator",
       "count": 2,
-      "share": 0.0408
-    },
-    {
-      "term": "manager",
-      "count": 2,
-      "share": 0.0408
+      "share": 0.0392
     },
     {
       "term": "soc",
       "count": 2,
-      "share": 0.0408
+      "share": 0.0392
+    },
+    {
+      "term": "web",
+      "count": 2,
+      "share": 0.0392
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "intelligence",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "manufacturing",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "associate",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "help",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
-      "term": "school",
+      "term": "l2",
       "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "upper",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "coomera",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "state",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "college",
-      "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "sql",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "integrations",
       "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "recent",
-      "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
-      "term": "helpdesk",
+      "term": "recent",
       "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "prep",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "year",
-      "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "account",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "break",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "fix",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "goldcoast",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
+    },
+    {
+      "term": "helpdesk",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "prep",
+      "count": 1,
+      "share": 0.0196
+    },
+    {
+      "term": "year",
+      "count": 1,
+      "share": 0.0196
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "nursing",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "director",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "digital",
-      "count": 1,
-      "share": 0.0204
-    },
-    {
-      "term": "experience",
-      "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "portfolio",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "management",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "project",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "formwork",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "worker",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "quality",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "assurance",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
-      "term": "web",
+      "term": "house",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "umbraco",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "cms",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0204
+      "share": 0.0196
     }
   ],
   "jobs": [
     {
-      "job_id": "95481086",
-      "job_title": "School Technical officer - Upper Coomera State College",
-      "business_name": "Queensland Department of Education",
+      "job_id": "95508007",
+      "job_title": "Help Desk Support (L2)",
+      "business_name": "Rec4Tech",
       "work_type": "Full time",
       "job_type": "Help Desk & IT Support",
+      "pay_range": "$60K - $$80K + super",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95508007",
+      "advertiser_id": "62309954",
+      "posted_date": "2026-10-26T22:37:57Z",
+      "job_description": "We're partnering with a growing Managed Services Provider looking for a Level 2 Help Desk Engineer to join its Gold Coast team.<br> <br>This is a full-time, office-based role supporting clients remotely and onsite. Some travel will be required, including occasional overnight stays.<br> <br><strong>What's in it for you...</strong><br> <ul> <li>Competitive salary package</li> <li>Paid certifications upon successful completion</li> <li>Opportunities to assist with client projects</li> <li>Support from experienced senior engineers</li> <li>Friendly team that values learning, accountability and great client service</li> </ul> <strong>What you'll be doing...</strong><br> <ul> <li>Managing Level 1 and Level 2 support requests through to resolution</li> <li>Supporting users across Microsoft 365, Entra ID, Exchange Online, Teams and SharePoint</li> <li>Troubleshooting Windows devices, applications, printers and connectivity issues</li> <li>Managing user accounts, permissions, licensing and onboarding requests</li> <li>Supporting Intune, endpoint management, VPNs and network environments</li> <li>Assisting with Microsoft 365 migrations and client projects</li> <li>Escalating complex issues while maintaining ownership of the client experience</li> <li>Keeping ticket notes and technical documentation accurate and up to date</li> <li>Providing onsite support and travelling to client locations when required</li> </ul> <strong>What we're looking for...</strong><br> <ul> <li>Previous Level 1 or Level 2 IT support experience</li> <li>MSP experience is strongly preferred</li> <li>Practical Microsoft 365 administration and troubleshooting skills</li> <li>Exposure to Entra ID, Exchange Online and Intune</li> <li>Understanding of Windows environments and networking fundamentals</li> <li>Experience working with ticketing systems and SLAs</li> <li>Strong communication, documentation and customer service skills</li> <li>A proactive approach to problem-solving and learning</li> <li>Ability to work full-time from the Gold Coast office</li> <li>Willingness to travel and complete occasional overnight stays</li> <li>Australian working rights and the ability to obtain a Police Check and NDIS Worker Screening clearance</li> </ul> You don't need to know everything on day one. We're looking for someone with a strong technical foundation, a genuine interest in technology and the confidence to ask questions when needed.<br><br> <strong>How to get involved...</strong><br><br> Ready for your next step? <strong>APPLY NOW!</strong><br> <br>Submit your CV or contact Dean from Rec4Tech for a confidential chat at <a href=\"mailto:dean@rec4tech.jobs\">dean@rec4tech.jobs</a>.<br><br> <em>At Rec4Tech, we know diversity isn't just important, it's what makes workplaces awesome!</em><br> <em><br>We don't care about labels like race, religion, gender identity, sexual orientation, age or whether you prefer pineapple on pizza. What matters is your talent and passion.</em><br> <em><br>Need an adjustment during the application process? Let us know and we'll happily help.</em>",
+      "keywords": [
+        "help",
+        "desk",
+        "support",
+        "l2"
+      ]
+    },
+    {
+      "job_id": "95508001",
+      "job_title": "Data Engineer",
+      "business_name": "Kinetic",
+      "work_type": "Contract/Temp",
+      "job_type": "Engineering - Software",
       "pay_range": "",
       "area": "Coomera, Gold Coast QLD",
       "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95481086",
-      "advertiser_id": "20931168",
-      "posted_date": "2026-10-25T16:02:54Z",
-      "job_description": "<div>\n \n <p>Upper Coomera State College is seeking two passionate and committed ICT professionals to join our team in 2027.<br>Working across our Prep to Year 12 College, both positions will play an important role in supporting the delivery of reliable and effective ICT services for our students and staff.<br>We are looking for technically skilled, \ncustomer-focused individuals who enjoy problem-solving, working collaboratively and providing high-quality technical support in a busy school environment.</p>\n </div>\n<div>\n <p><strong>About our College:</strong></p>\n<p>As a Prep to year 12 campus we cater for all children from ages 5 to 17 and offer every opportunity for each student to experience an individual learning pathway. We offer a caring, nurturing learning environment that acknowledges difference, celebrates effort and strives for excellence. &nbsp;Our College provides a wide range of subjects and learning opportunities with a strong focus on literacy, numeracy, science, e-Learning, the arts and global citizenship. &nbsp;Your&nbsp;child&nbsp;will&nbsp;be&nbsp;encouraged&nbsp;to discover and&nbsp;develop their interests and talents, pursue&nbsp;their&nbsp;goals&nbsp;and&nbsp;dreams and to reach their full potential so they may succeed in their chosen pathways&nbsp;and&nbsp;actively&nbsp;contribute to&nbsp;a&nbsp;global society.</p>\n<p><strong>About the Role:</strong></p>\n<p>The two positions will work collaboratively to provide effective ICT support across the College.</p>\n<p><strong>Responsibilities Include:</strong></p>\n<ul>\n<li>Provide advice and assistance on maximising the potential of ICT operations within the school/college, including acquisition, installation, operation, maintenance, repair and replacement.</li>\n<li>Support the college community with technical advice, instruction and assistance with electronic equipment, in accordance with departmental, school and manufacturer's policy, guidelines and network standards.</li>\n<li>Assist in the provision of in-service training to staff, on the effective application of ICT tools to successfully achieve and deliver educational services to students.</li>\n<li>Provide effective and efficient support to staff and students to resolve problems associated with college computing facilities, whilst ensuring high end customer focus and communication.</li>\n<li>Provide regular preventative maintenance, routine and emergency repairs to all ICT facilities and associated electronic equipment.</li>\n<li>Maintain a range of technical services and accountable records related to the support of ICT, including infrastructure, used by the school/college.</li>\n<li>Communicate with various stakeholders, including Regional and Central Support, on technical matters and provide technical advice, when required.</li>\n</ul>\n<p><strong>About You:</strong></p>\n<p>It would be highly desirable to have the following skills and knowledge:</p>\n<ul>\n<li>Technical knowledge of server hardware and configuration, and networking peripherals.</li>\n<li>A high or good level understanding of PC desktop and laptop systems, Apple iPads and printer support.</li>\n<li>Excellent communication and interpersonal skills.</li>\n<li>Strong analytical and problem-solving skills.</li>\n<li>Experience using remote support tools to support servers and workstations remotely, within the school environment.</li>\n<li>The ability to research, identify and apply creative solutions to problems.</li>\n<li>Sound working knowledge of network security and security protocols.</li>\n</ul>\n<p><strong>Interested? To Apply:</strong> &nbsp;</p>\n<ul>\n<li>Attach a brief resume including contact details for 2 referees (referees should have an understanding of your relevant work history);&nbsp;</li>\n<li>Attach a 2-page written statement in response to the attached role description. &nbsp;</li>\n</ul>\n<p><strong>Progressional roles show a salary range spanning two classifications. Appointment will be made at the level appropriate to skill and fulfilment of required criteria.</strong>&nbsp;</p>\n<p>We welcome all applicants to share any support needed to ensure our recruitment process is inclusive. &nbsp;</p>\n<p>Applications remain current for 12 months from the closing date and may be considered for appointment to identical or similar vacancies within the Department. &nbsp;</p>\n<p>Applications from recruitment agencies will not be accepted. &nbsp;</p>\n </div>",
+      "url": "https://www.seek.com.au/job/95508001",
+      "advertiser_id": "21458938",
+      "posted_date": "2026-10-26T22:37:29Z",
+      "job_description": "<h2>Data Engineer</h2><ul><li>Build your experience across Kinetic's enterprise data platforms and warehousing solutions.</li><li>Develop your technical skills across SQL, Python and Microsoft Azure.</li><li>January 2027 start | Coomera based</li></ul><h2>About the Role</h2><p>We're looking for a Data Engineer to join Kinetic's data team, supporting the development and management of our enterprise data platforms and data warehousing solutions. This 12-month fixed-term contract commences in January 2027 and offers the opportunity to build your experience with Australia's leading bus operator.</p><p>Working alongside Senior Data Engineers, you'll contribute to data pipeline development, system integration and platform operations within Microsoft Azure. You'll also work with large and complex datasets, troubleshoot technical issues and maintain documentation covering data models, data flows and ETL processes.</p><p>This role will suit an early-career Data Engineer who is curious, eager to learn and motivated to develop their technical skills in a fast-paced environment. You'll gain hands-on experience with enterprise data platforms and broaden your technical capabilities while working alongside experienced Data Engineers. A strong technical foundation, a proactive approach to problem-solving and a genuine willingness to learn will set you up for success in this role.</p><h2>What You Will Do</h2><ul><li>Build and maintain data pipelines and support data warehousing solutions within Microsoft Azure.</li><li>Support data ingestion, transformation and system integration processes.</li><li>Work with large datasets and implement solutions against established reference designs.</li><li>Troubleshoot database, pipeline and platform availability issues.</li><li>Maintain technical documentation, including data models, data flows and ETL processes.</li><li>Support pipeline scheduling, load balancing and collaborative code development</li></ul><h2>What You Will Need</h2><ul><li>Experience building ELT/ETL pipelines and working with SQL.</li><li>Experience supporting data testing, validation or troubleshooting.</li><li>Understanding of data warehousing and database management principles.</li><li>Experience with Azure technologies such as Data Factory and Synapse Analytics.</li><li>Proficiency in SQL, Python or other data engineering tools and languages.</li><li>Experience working with APIs and system integrations.</li><li>Strong problem-solving skills and attention to detail.</li><li>Ability to communicate effectively and work collaboratively within a team environment.</li><li>Exposure to GitHub or Azure DevOps, cloud-based data platforms, data warehousing and technical documentation will be highly regarded, though not essential.</li></ul><h2>About us</h2><p>At Kinetic, we don't just move people - we're creating the positive change our planet needs. As a leader in sustainable transport, we're committed to creating cleaner, safer, and greener environments for generations to come.</p><p>Our size and scale give our people real opportunities to learn, grow, and progress in their careers. Calm, positive and respectful team players thrive here. Our people embrace change and are encouraged to stretch their comfort zone while making a difference. We challenge each other to be our best.</p><p>We're driven by respect, diversity and genuine connection. From networking groups to community partnerships and volunteering, our camaraderie naturally brings people together. Our energy and dedication keep communities moving and our people growing.</p><h2>How to apply</h2><p>Kinetic&nbsp;is proud to be an Equal Opportunity Employer and our people represent the community which we service. We invite all suitably qualified applicants to apply, including First Nations People, and people from diverse social, cultural and gender backgrounds.</p><p>If you're interested in this rewarding role with Kinetic then click the 'Apply' button now!</p>",
       "keywords": [
-        "school",
-        "technical",
-        "officer",
-        "upper",
-        "coomera",
-        "state",
-        "college"
+        "data",
+        "engineer"
+      ]
+    },
+    {
+      "job_id": "95492744",
+      "job_title": "Software Developer",
+      "business_name": "theBOSSapp",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "",
+      "area": "Ashmore, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95492744",
+      "advertiser_id": "63910196",
+      "posted_date": "2026-10-26T04:53:44Z",
+      "job_description": "<h2>About theBOSSapp</h2><p>theBOSSapp is Australian-built operations management software that takes the chaos out of running a business. Born inside PTG Group, one of Australia’s fastest growing engineering companies, it started as a solution to a real problem: managing crews, equipment, projects and compliance across the country without drowning in admin. That hands-on insight shaped a platform that keeps evolving with new technology and the changing needs of the businesses that use it, across a broad range of industries.</p><p>One platform, the whole business. theBOSSapp brings projects and tasks, equipment and resources, timesheets and payroll, invoicing, HR and training, quality improvement, marketing and more together in one place. Built in line with ISO 9001 quality management principles, it gives managers real-time visibility so they can make faster, smarter decisions with confidence.</p><p>This is a growing business, with the backing of an established group. You’ll join an innovative, creative and progressive team that challenges ideas, builds custom features and works side by side with customers to solve their unique problems. Your work won’t sit on a shelf; it will change how real businesses run every single day. If you’re ready to take the next exciting leap in your career, build something that really matters, have real input and grow with us, we want to hear from you.</p><p><br></p><h2>The role</h2><p>We’re looking for a Software Developer who builds with AI every day. You’ll design, build and ship features across theBOSSapp, from new modules to custom work for customers, with AI coding tools at the centre of how you work.</p><p>AI is a core part of how our team builds software. We use AI coding agents every day to plan, write, test and review code. We need developers who already work this way and have a solid grounding in software development to back it up. You’ll know how to get great results from AI tools and, just as important, when the output isn’t good enough.</p><h2>What you’ll do</h2><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Design, build, test and maintain features across web and mobile</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use AI coding tools and agents throughout your daily work, from planning and scaffolding to testing and refactoring</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Turn customer problems into clean, reliable, well-tested code</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Review code, whether written by AI or by people, with a sharp eye for quality, security and maintainability</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Share what works and help shape how the team builds with AI</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Troubleshoot and resolve issues in production</p><h2>What you’ll bring</h2><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Degree in computer science, software engineering or a related field, or equivalent experience</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1+ years of commercial software development experience</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hands-on experience using AI coding tools (e.g. Claude Code, Cursor, Copilot, Codex) in real development work</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Skills in PHP and Laravel, React and TypeScript, and MySQL (or a similar stack, and keen to learn ours)</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Solid software fundamentals: architecture, testing, debugging and writing maintainable code</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience building and consuming REST APIs</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Familiarity with AWS and Git</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The judgement to know when to trust AI output and when to dig in yourself</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Curious, practical and keen to keep up with how AI is changing software development</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clear communicator who enjoys working in a team</p><h2>Highly regarded</h2><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience giving AI agents larger, multi-step tasks, and setting up the context, rules and guardrails that make them work well</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience with SaaS or operations software</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mobile app development experience</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience with Docker and CI/CD pipelines</p>",
+      "keywords": [
+        "software",
+        "developer"
+      ]
+    },
+    {
+      "job_id": "95486965",
+      "job_title": "IT Operations Manager",
+      "business_name": "Experience Gold Coast",
+      "work_type": "Contract/Temp",
+      "job_type": "Management",
+      "pay_range": "",
+      "area": "Broadbeach, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95486965",
+      "advertiser_id": "62314304",
+      "posted_date": "2026-10-26T02:14:24Z",
+      "job_description": "<p><strong>About Us</strong></p><p>Experience Gold Coast (EGC) is a single, unified organisation that brings together HOTA (Home of the Arts), Destination Gold Coast, Study Gold Coast and Major Events Gold Coast. Formed in 2023, EGC plays a central role in driving the growth of the city’s visitor economy, with a focus on tourism, events, arts and culture, and education. Our objective is to position the Gold Coast as the lifestyle capital of Australia.</p><p></p><p><strong>About the Role</strong></p><p>We’re looking for an experienced IT Operations Manager to join EGC on a <strong>12-month fixed-term contract</strong>. You’ll be EGC’s key internal IT contact, taking day-to-day ownership of our technology environment across HOTA, Student Hub and Broadbeach.</p><p></p><p>Reporting to the General Manager, Business Services, you’ll provide hands-on technical leadership across IT operations, infrastructure, cybersecurity and business systems, coordinating issues and priorities with our managed-service provider and specialist suppliers.&nbsp;You’ll resolve and coordinate day-to-day IT needs, provide practical advice on technology improvements, and lead approved projects that strengthen the reliability, security and performance of our multi-site environment.&nbsp;</p><p><strong></strong></p><p><strong>What You’ll Do</strong></p><ul>\n<li>Oversee IT operations, infrastructure, networks, connectivity and business systems across EGC sites, whilst providing hands-on support, triage and coordination as EGC’s key internal contact.</li>\n<li>Work closely with and coordinate our managed service provider and technology suppliers, ensuring clear priorities, accountability and timely issue resolution.</li>\n<li>Coordinate major incidents, cybersecurity risks, system changes and business continuity arrangements.</li>\n<li>Develop technology roadmaps, identify improvement opportunities and provide clear, practical advice to the business on technology priorities, risks, options and investment needs.&nbsp;Lead approved technology projects and changes, from planning through to implementation, testing and ongoing support.</li>\n<li>Oversee technology procurement, licensing, assets, renewals and supplier costs.</li>\n<li>Build strong stakeholder relationships and support the adoption of approved AI tools, including Microsoft 365 Copilot.</li>\n</ul><p></p><p><strong>What You’ll Bring</strong></p><ul>\n<li>Demonstrated experience managing IT services in a multi-site organisation, including outsourced or co-managed IT environments.</li>\n<li>Strong technical knowledge of enterprise networking, infrastructure, connectivity, wireless and firewalls.</li>\n<li>Experience across IT service management, cybersecurity, cloud services, business applications and technology projects.</li>\n<li>Working knowledge of Microsoft 365 Copilot and enterprise AI tools, including information protection and user adoption.</li>\n<li>Strong supplier management, commercial, procurement and technology asset management skills.</li>\n<li>Excellent communication, stakeholder engagement and problem-solving skills, with the ability to translate technical issues into practical business solutions.</li>\n<li>Sound judgement, strong prioritisation skills and flexibility to support critical incidents or implementations outside standard hours when required.</li>\n<li>Relevant ITIL, project management, cybersecurity, networking or Microsoft qualifications are desirable, as is experience supporting venues, tourism, events or other public-facing operations.</li>\n</ul><p><strong></strong></p><p><strong>Why You’ll Love Working With Us</strong></p><ul>\n<li>Be Part of the Action: Work at the heart of the Gold Coast’s thriving arts and culture scene, where creativity and community come together.</li>\n<li>Exclusive Discounts: Enjoy discounts at Food &amp; Beverage outlets across the HOTA precinct, plus discounted tickets to cinema screenings, events and activities.</li>\n<li>Empowerment Time: Take four paid days per year dedicated to personal growth and wellbeing.</li>\n<li>Paid Parental Leave: We support our team members with paid leave during this important life stage.</li>\n<li>Wellbeing Support: Access Sonder, our comprehensive team member care and wellbeing service.</li>\n<li>Professional Development: Unlock learning opportunities through our Learning Lab, offering up to 1,000 courses to help you grow and thrive.</li>\n</ul><p>Join us in creating unforgettable experiences at Experience Gold Coast!</p><p><strong></strong></p><p><strong>How to Apply</strong></p><p>Take the next step in your IT leadership career and apply today!</p><p></p><p>Please submit a brief cover letter along with your resume.</p><p></p><p>Experience Gold Coast values diversity and inclusion. We are dedicated to providing equitable employment opportunities and welcome applications from individuals of all cultures, genders, ages, Australia’s First Nations Peoples, LGBTIQ+ communities, and people with disabilities.</p>",
+      "keywords": [
+        "it",
+        "operations",
+        "manager"
+      ]
+    },
+    {
+      "job_id": "95483652",
+      "job_title": "In-house Junior Web Developer",
+      "business_name": "Jade Finance Australia",
+      "work_type": "Full time",
+      "job_type": "Web Development & Production",
+      "pay_range": "$70,000 – $80,000 per year + Super",
+      "area": "Varsity Lakes, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95483652",
+      "advertiser_id": "44558677",
+      "posted_date": "2026-10-26T00:10:27Z",
+      "job_description": "<p><strong>In-house Junior Web Developer</strong></p><p><strong>Jade Finance Australia</strong></p><p><strong>Location:</strong> Varsity Lakes, Gold Coast, QLD<br><strong>Job Type:</strong> Full-Time, On-Site</p><p><br><strong>About Us</strong></p><p>Jade Finance is an Australian finance brokerage operating nationally, providing asset finance to individuals and businesses. We’re a people-first business that values strong working relationships, collaboration and the energetic environment we create within our team. Building a positive culture is central to how we operate and we look for like-minded people who want to grow with a business that values commitment, teamwork, and long-term development.</p><p><br></p><hr><p><br></p><h2><strong>The Opportunity</strong></h2><p>We’re expanding our in-house development team and are looking for a talented Junior Web Developer to join Jade Finance on a full-time, on-site basis.</p><p>This role is ideal for a developer who enjoys building, maintaining and improving real-world digital products. You’ll work closely with marketing, design and internal stakeholders to deliver high-quality web solutions that directly support the business.</p><p><br></p><hr><p><br></p><h2><strong>About the Role</strong></h2><p>You’ll play a hands-on role across our websites and internal projects with responsibilities including:</p><ul><li><p>Developing, maintaining, and improving company websites and internal web projects</p></li><li><p>Building, customising and maintaining WordPress websites, including themes, layouts, plugins, performance and integrations</p></li><li><p>Writing clean, efficient and well-structured code across front-end and back-end components</p></li><li><p>Troubleshooting, debugging and resolving website and application issues</p></li><li><p>Working collaboratively with internal teams to gather requirements and deliver solutions</p></li><li><p>Providing progress updates and supporting smooth testing and deployments</p></li></ul><p><br></p><hr><p><br></p><h2><strong>What We’re Looking For</strong></h2><ul><li><p>Experience with WordPress, HTML, CSS, JavaScript, React.js and PHP</p></li><li><p>Ability to work independently and troubleshoot both front-end and back-end issues</p></li><li><p>High attention to detail with strong problem-solving skills</p></li><li><p>Clear communication skills and the ability to work collaboratively in a team environment</p></li><li><p>Strong organisational and time-management skills</p></li><li><p>Experience with Zapier and API integrations is advantageous but not required</p></li><li><p>Must have full Australian work rights</p></li></ul><p><br></p><hr><p><br></p><h2><strong>Please Note</strong></h2><p>This is a <strong>full-time, on-site position</strong> based at our <strong>Varsity Lakes office</strong>.</p><p>To demonstrate that you’ve read the job description, please include the phrase <strong>“Better Finance, Better Loans”</strong> at the top of your cover letter.</p><p><br></p><hr><p><br></p><h2><strong>How to Apply</strong></h2><p>If this role sounds like a good fit and you’re interested in joining our team, please submit the following via SEEK:</p><p>a) Resume<br>b) Cover letter</p><p>If you have any questions about the role, you’re welcome to contact our recruitment team at <strong><a href=\"mailto:info@jade.finance\">info@jade.finance</a></strong>.</p><p><br></p><p>Socials:</p><p>https://www.facebook.com/cheaperloans/</p><p>https://au.linkedin.com/company/jade-finance-australia</p><p>https://www.instagram.com/jadefinance_/</p>",
+      "keywords": [
+        "house",
+        "web",
+        "developer"
       ]
     },
     {
@@ -611,25 +647,6 @@
       "keywords": [
         "applications",
         "specialist"
-      ]
-    },
-    {
-      "job_id": "95391132",
-      "job_title": "Level 3 Help Desk Support",
-      "business_name": "Rec4Tech",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$80K - $110K + Super",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95391132",
-      "advertiser_id": "62309954",
-      "posted_date": "2026-10-20T22:44:43Z",
-      "job_description": "<strong>Level 3 Help Desk Support - Gold Coast MSP<br></strong><br><strong>Gold Coast, QLD</strong> |&nbsp;<strong>Full-time</strong> |&nbsp;<strong>MSP Environment</strong><br>&nbsp;&nbsp;<br>Are you the go-to tech troubleshooter in your team? Do you love variety, solving problems, and helping businesses get the most from their IT? If so, you might be exactly who we're looking for!<br>&nbsp;&nbsp;<br><strong>Why join our client...</strong><br> <ul> <li>Be part of a friendly, close-knit team that values your ideas and initiative</li> <li>Work with a variety of clients and technologies - no two days are the same</li> <li>Ongoing training and development to keep your skills sharp</li> <li>Great Gold Coast location - skip the city commute</li> <li>Opportunity to make a real impact in a growing business</li> </ul> &nbsp;&nbsp;<br>Our client is a growing Gold Coast-based MSP delivering tailored IT solutions to a diverse client base. From network configuration and server management to cloud migrations and cybersecurity, we keep our clients' businesses running securely and efficiently. Now, we're looking for a Level 2-3 Help Desk Support to join their team and take ownership of delivering exceptional support and solutions.<br>&nbsp;&nbsp;<br><strong>What you'll be doing...</strong><br> <ul> <li>Supporting and maintaining client infrastructure - servers, networks, cloud services, and more</li> <li>Troubleshooting complex technical issues remotely and on-site</li> <li>Implementing robust security measures including firewalls, endpoint protection, and monitoring</li> <li>Planning and executing migrations, upgrades, and new technology rollouts</li> <li>Building strong client relationships and ensuring IT aligns with their business goals</li> <li>Maintaining accurate documentation for smooth operations and quick resolutions</li> </ul> <strong>What we're looking for...</strong><br> <ul> <li>Solid experience in a Systems Admin or Senior Help Desk role (Level 2-3)</li> <li>Strong skills across Windows Server, Microsoft 365, Azure, networking, and virtualization</li> <li>Proven problem-solving abilities - the bigger the challenge, the better!</li> <li>Great communication skills with a customer-first mindset</li> <li>The ability to work autonomously while collaborating with a supportive team</li> <li>MSP experience highly regarded (you'll know the fast-paced, variety-packed nature of the work!</li> </ul> If you're ready to bring your technical expertise, problem-solving skills, and client-first approach to a role where you can truly make a difference, we'd love to hear from you.<br>&nbsp;&nbsp;<br><strong>How to get involved...</strong><br> <br>Ready to take your career to the next level?&nbsp;<strong>APPLY NOW</strong>&nbsp;<strong>!</strong>&nbsp;Submit your CV and a cover letter outlining your experience and achievements or contact Dean from rec4tech.jobs for a confidential chat <a href=\"mailto:dean@rec4tech.jobs\">dean@rec4tech.jobs</a>&nbsp;<br><br><em>At Rec4Tech, we know that diversity isn't just important ** it's what makes workplaces awesome!&nbsp;</em><br><em>We don't care about labels like race, religion, gender identity, sexual orientation, age, or whether you prefer pineapple on pizza (no judgment here). What matters is your talent and passion. Need a tweak or two to make the application process work for you? No worries—let us know, and we'll sort it out. Let's do this together!</em>",
-      "keywords": [
-        "help",
-        "desk",
-        "support"
       ]
     },
     {
@@ -907,26 +924,6 @@
       ]
     },
     {
-      "job_id": "95211410",
-      "job_title": "Nursing Director (Digital Experience)",
-      "business_name": "Department of Health - Queensland",
-      "work_type": "Full time",
-      "job_type": "Product Management & Development",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95211410",
-      "advertiser_id": "32285210",
-      "posted_date": "2026-10-12T08:34:09Z",
-      "job_description": "<div>\n \n <p>The primary focus of this role is to enhance efficiency and service delivery improvements to optimise Health Service performance. </p>\n </div>\n<div>\n <p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Nursing Director (Digital Experience)</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Direct the implementation and change management for clinical digital initiatives</li>\n<li>Provide authoritative counsel to Clinical Governance Committee regarding the use and opportunity for digital to support safe clinical care</li>\n<li>Identify and resolve complex clinical, operational and professional issues across multiple digital initiatives</li>\n<li>Provide authoritative, expert and timely advice on digital healthcare strategies</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>Qualifications – Bachelor of Nursing or equivalent</li>\n<li>Registration with the Nursing Midwifery Board of Australia</li>\n<li>Evidence of vaccination, or be able to be vaccinated against and remain vaccinated against - Measles, Mumps, Rubella, Varicella, Pertussis and Hepatitis B</li>\n<li>Tuberculosis screening, to identify if the tuberculosis vaccination may be required</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary $184,991 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services (GCHHS) Strategic Plan 2028.</p>\n<p>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture. DHI is responsible for enhancing efficiency and service delivery improvements to optimise Health Service performance. It also oversees strategic partnerships that help the Health Service implement alternative models of service delivery, ensuring value for money, and driving improvements in performance, and innovation.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong>Monday, 26 October 2026</strong></p>\n<p>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </p>\n<p><strong>Job Ad reference:</strong> GC694661</p>\n<p>Please note: no third-party applications will be accepted. </p>\n </div>",
-      "keywords": [
-        "nursing",
-        "director",
-        "digital",
-        "experience"
-      ]
-    },
-    {
       "job_id": "95172758",
       "job_title": "IT Support Officer - Level 1 (or Recent Graduate)",
       "business_name": "Acworth Recruitment",
@@ -1077,7 +1074,7 @@
       "url": "https://www.seek.com.au/job/95081106",
       "advertiser_id": "62661973",
       "posted_date": "2026-10-06T04:17:13Z",
-      "job_description": "<p>Are you a passionate &amp; caring person looking to develop your training skills in a positive environment?</p><p>We are looking for enthusiastic and people-focused individuals that love to share their knowledge and skills with others. Candidates will have great communication skills with a diverse scope of people and willingness to learn and serve students towards a greater understanding.&nbsp;This role is remote and is suited for people all across Australia.</p><p><br></p><p><strong>Application Information:</strong></p><p>To apply for this role, you must:</p><ol><li><p>Answer the Video Submission Question here - <strong>https://vocalvideo.com/c/eqc-institute-trainer</strong></p><ol><li><p><strong>Please note: </strong>Candidates that complete the Video Submission will be prioritised as this role involves speaking to students face-to-face via Zoom.</p></li></ol></li><li><p>Provide a resume highlighting your experience, knowledge, and skills relevant to this role. (Submit this via Seek)</p></li></ol><p><br></p><p><br><strong>Job Role:</strong><br>Provide education and training to students via <strong>Online Course Coaching.</strong></p><p>Being a Course Coach involves:</p><ul><li><p>Tutoring and teaching adult learners. This is done by having consistent communication with students via Zoom calls, phone or written communication.</p></li><li><p>General support and connection with students about course questions and study requirements.</p></li><li><p>Basic scheduling and time management skills are required for a successful candidate.</p></li><li><p>Working with a passionate team to ensure student success.</p></li></ul><p><br></p><p>We are currently hiring course coaches with Cyber Security skills and experience or Full Stack Web Development skills. If you meet either one of these skills please apply below!<br><br></p><p><strong>Skills Needed Cyber:</strong></p><ul><li><p>Experience with Cyber Security Systems and Tools (Basic Cloudflare, AWS, Wireshark, Virtual Machines)</p></li><li><p>Strong understanding of Cyber Security foundations</p></li><li><p>Industry experience is preferred</p></li></ul><p><br></p><p><strong>Skills Needed Web Development:</strong></p><ul><li><p>Experience in Full Stack Web Development</p></li><li><p>Proficiency with at least 2 programming languages (HTML, CSS, JavaScript, Python)</p></li><li><p>Experience with Github and SQL or similar database programing</p></li><li><p>Experience with Blockchain and AI / ML is preferred</p></li></ul><p><br></p><p><strong>Universal Training Skills:</strong></p><ul><li><p>Strong English Communication Skills</p></li><li><p>Computer with appropriate microphone and camera settings to host a zoom call</p></li><li><p>Flexible availability to communicate with students</p></li><li><p>Valid TAE (training and assessment) qualification - if you do not have this, be willing to obtain the qualification.<br>&nbsp;</p></li></ul><p><strong>Salary</strong>:</p><p>This is a part-time role. The part-time rate for a Course Coach for this particular role is $45 per hour. Successful candidates will be doing 10 hours per week.</p><p>This job is dependent on student availability and self-autonomy for scheduling. Hours are averaged across the week, with hours being dependent on student availability.</p><p><br></p><p><strong>About Us</strong></p><p>We are a Vocational Education and Training Organisation who's team has been operating for over 10 years in this space. We make sure to always focus on delivering quality materials, practical training and always aim to find new ways that can raise the bar across different industries. What sets us apart is our commitment to and incredible student experience whilst studying.</p><p><br></p><p>We work together; listening and challenging to create a supportive work environment whereby everyone works together and is equal.<br></p><p>We are hiring ASAP so if you think this role suits you, we would love to get in touch with you.<br></p><p>Work with us, to work together, and as a team let's inspire the next round of industry leaders!</p>",
+      "job_description": "<p>Are you a passionate &amp; caring person looking to develop your training skills in a positive environment?</p><p>We are looking for enthusiastic and people-focused individuals that love to share their knowledge and skills with others. Candidates will have great communication skills with a diverse scope of people and willingness to learn and serve students towards a greater understanding.&nbsp;This role is remote and is suited for people all across Australia.</p><p><br></p><p><strong>Application Information:</strong></p><p>To apply for this role, you must:</p><ol><li><p>Provide a resume highlighting your experience, knowledge, and skills relevant to this role. (Submit this via Seek)</p></li></ol><p><br></p><p><br><strong>Job Role:</strong><br>Provide education and training to students via <strong>Online Course Coaching.</strong></p><p>Being a Course Coach involves:</p><ul><li><p>Tutoring and teaching adult learners. This is done by having consistent communication with students via Zoom calls, phone or written communication.</p></li><li><p>General support and connection with students about course questions and study requirements.</p></li><li><p>Basic scheduling and time management skills are required for a successful candidate.</p></li><li><p>Working with a passionate team to ensure student success.</p></li></ul><p><br></p><p>We are currently hiring course coaches with Cyber Security skills and experience or Full Stack Web Development skills. If you meet either one of these skills please apply below!<br><br></p><p><strong>Skills Needed Cyber:</strong></p><ul><li><p>Experience with Cyber Security Systems and Tools (Basic Cloudflare, AWS, Wireshark, Virtual Machines)</p></li><li><p>Strong understanding of Cyber Security foundations</p></li><li><p>Industry experience is preferred</p></li></ul><p><br></p><p><strong>Skills Needed Web Development:</strong></p><ul><li><p>Experience in Full Stack Web Development</p></li><li><p>Proficiency with at least 2 programming languages (HTML, CSS, JavaScript, Python)</p></li><li><p>Experience with Github and SQL or similar database programing</p></li><li><p>Experience with Blockchain and AI / ML is preferred</p></li></ul><p><br></p><p><strong>Universal Training Skills:</strong></p><ul><li><p>Strong English Communication Skills</p></li><li><p>Computer with appropriate microphone and camera settings to host a zoom call</p></li><li><p>Flexible availability to communicate with students</p></li><li><p>Valid TAE (training and assessment) qualification - if you do not have this, be willing to obtain the qualification.<br>&nbsp;</p></li></ul><p><strong>Salary</strong>:</p><p>This is a part-time role. The part-time rate for a Course Coach for this particular role is $45 per hour. Successful candidates will be doing 10 hours per week.</p><p>This job is dependent on student availability and self-autonomy for scheduling. Hours are averaged across the week, with hours being dependent on student availability.</p><p><br></p><p><strong>About Us</strong></p><p>We are a Vocational Education and Training Organisation who's team has been operating for over 10 years in this space. We make sure to always focus on delivering quality materials, practical training and always aim to find new ways that can raise the bar across different industries. What sets us apart is our commitment to and incredible student experience whilst studying.</p><p><br></p><p>We work together; listening and challenging to create a supportive work environment whereby everyone works together and is equal.<br></p><p>We are hiring ASAP so if you think this role suits you, we would love to get in touch with you.<br></p><p>Work with us, to work together, and as a team let's inspire the next round of industry leaders!</p>",
       "keywords": [
         "cyber",
         "security",
