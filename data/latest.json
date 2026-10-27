@@ -1,406 +1,483 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "region": "Gold Coast",
-  "scraped_at": "2026-10-27T09:28:25.280645+10:00",
-  "total_jobs": 51,
+  "scraped_at": "2026-10-28T09:21:20.304193+10:00",
+  "total_jobs": 54,
   "keywords": [
     {
       "term": "support",
       "count": 14,
-      "share": 0.2745
+      "share": 0.2593
     },
     {
       "term": "it",
       "count": 12,
-      "share": 0.2353
+      "share": 0.2222
     },
     {
       "term": "engineer",
       "count": 11,
-      "share": 0.2157
+      "share": 0.2037
     },
     {
       "term": "analyst",
-      "count": 6,
-      "share": 0.1176
+      "count": 7,
+      "share": 0.1296
     },
     {
       "term": "software",
-      "count": 6,
-      "share": 0.1176
+      "count": 7,
+      "share": 0.1296
     },
     {
       "term": "technician",
       "count": 6,
-      "share": 0.1176
+      "share": 0.1111
     },
     {
       "term": "developer",
       "count": 5,
-      "share": 0.098
+      "share": 0.0926
+    },
+    {
+      "term": "business",
+      "count": 4,
+      "share": 0.0741
     },
     {
       "term": "ai",
       "count": 4,
-      "share": 0.0784
+      "share": 0.0741
     },
     {
-      "term": "officer",
+      "term": "systems",
       "count": 4,
-      "share": 0.0784
+      "share": 0.0741
     },
     {
-      "term": "business",
-      "count": 3,
-      "share": 0.0588
+      "term": "desk",
+      "count": 4,
+      "share": 0.0741
+    },
+    {
+      "term": "administrator",
+      "count": 4,
+      "share": 0.0741
+    },
+    {
+      "term": "service",
+      "count": 4,
+      "share": 0.0741
+    },
+    {
+      "term": "manager",
+      "count": 4,
+      "share": 0.0741
     },
     {
       "term": "operations",
       "count": 3,
-      "share": 0.0588
+      "share": 0.0556
     },
     {
       "term": "technology",
       "count": 3,
-      "share": 0.0588
+      "share": 0.0556
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0588
+      "share": 0.0556
     },
     {
       "term": "network",
       "count": 3,
-      "share": 0.0588
+      "share": 0.0556
     },
     {
-      "term": "systems",
+      "term": "officer",
       "count": 3,
-      "share": 0.0588
+      "share": 0.0556
     },
     {
-      "term": "administrator",
+      "term": "specialist",
       "count": 3,
-      "share": 0.0588
-    },
-    {
-      "term": "service",
-      "count": 3,
-      "share": 0.0588
-    },
-    {
-      "term": "manager",
-      "count": 3,
-      "share": 0.0588
+      "share": 0.0556
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.0392
+      "share": 0.037
     },
     {
       "term": "consultant",
       "count": 2,
-      "share": 0.0392
+      "share": 0.037
     },
     {
       "term": "cybersecurity",
       "count": 2,
-      "share": 0.0392
+      "share": 0.037
     },
     {
       "term": "cloud",
       "count": 2,
-      "share": 0.0392
+      "share": 0.037
     },
     {
       "term": "managed",
       "count": 2,
-      "share": 0.0392
+      "share": 0.037
     },
     {
       "term": "services",
       "count": 2,
-      "share": 0.0392
+      "share": 0.037
     },
     {
       "term": "stack",
       "count": 2,
-      "share": 0.0392
+      "share": 0.037
     },
     {
-      "term": "desk",
+      "term": "help",
       "count": 2,
-      "share": 0.0392
+      "share": 0.037
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.0392
-    },
-    {
-      "term": "specialist",
-      "count": 2,
-      "share": 0.0392
+      "share": 0.037
     },
     {
       "term": "technical",
       "count": 2,
-      "share": 0.0392
+      "share": 0.037
     },
     {
       "term": "coordinator",
       "count": 2,
-      "share": 0.0392
+      "share": 0.037
+    },
+    {
+      "term": "engineering",
+      "count": 2,
+      "share": 0.037
     },
     {
       "term": "soc",
       "count": 2,
-      "share": 0.0392
+      "share": 0.037
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0392
+      "share": 0.037
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "intelligence",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "manufacturing",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "associate",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "help",
-      "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "l2",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "sql",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "integrations",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "recent",
-      "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "account",
       "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "field",
-      "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "break",
-      "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "fix",
-      "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "goldcoast",
-      "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "prep",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "year",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
+    },
+    {
+      "term": "field",
+      "count": 1,
+      "share": 0.0185
+    },
+    {
+      "term": "break",
+      "count": 1,
+      "share": 0.0185
+    },
+    {
+      "term": "fix",
+      "count": 1,
+      "share": 0.0185
+    },
+    {
+      "term": "goldcoast",
+      "count": 1,
+      "share": 0.0185
     },
     {
       "term": "sharepoint",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "portfolio",
-      "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "management",
-      "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "project",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "engineering",
-      "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "team",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "formwork",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "worker",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "quality",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "assurance",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
+    },
+    {
+      "term": "website",
+      "count": 1,
+      "share": 0.0185
+    },
+    {
+      "term": "growth",
+      "count": 1,
+      "share": 0.0185
+    },
+    {
+      "term": "projects",
+      "count": 1,
+      "share": 0.0185
     },
     {
       "term": "umbraco",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "cms",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     },
     {
       "term": "trainer",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0185
     }
   ],
   "jobs": [
+    {
+      "job_id": "95520292",
+      "job_title": "Software Engineering Manager",
+      "business_name": "Gold Coast Hospital & Health Service",
+      "work_type": "Full time",
+      "job_type": "Management",
+      "pay_range": "$160,092 - $169,398 per annum + 12.75% super",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95520292",
+      "advertiser_id": "32285403",
+      "posted_date": "2026-10-27T05:30:03Z",
+      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Software Engineering Manager</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Lead and manage development teams across recruitment, onboarding, performance, development and daily operations.</li>\n<li>Set and maintain engineering standards, code quality frameworks and technical governance.</li>\n<li>Oversee agile delivery across development teams, including scoping, technical direction and complex engineering decisions.</li>\n<li>Partner with product management on product-engineering decisions, feasibility and roadmap priorities.</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>Tertiary degree in Information Technology, Computer Science, Software Engineering, or an equivalent qualification.</li>\n<li>Proven experience leading and managing software development teams across multiple technical disciplines</li>\n<li>Strong understanding of modern software development lifecycle practices, agile methodologies and engineering management principles</li>\n<li>Deep technical knowledge of modern web development languages, frameworks and architectures</li>\n<li>Experience with cloud platforms and infrastructure, particularly Microsoft Azure</li>\n<li>Demonstrated ability to establish and enforce engineering standards, code quality frameworks, testing practices and technical governance across a development</li>\n<li>Software Development Lifecycle (SDLC): Extensive understanding of SDLC principles, with practical experience leading delivery across the full lifecycle of software projects</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Your application<br></strong>Please include in your cover letter the following with examples:</p>\n<ul>\n<li>Recent, hands-on leadership of a software team, including recruitment, onboarding, performance management and development.</li>\n<li>Current technical depth in modern web development (TypeScript, React, Next.js, Node.js), with the credibility to set technical direction.</li>\n<li>Microsoft Azure experience, including deployment strategy and cloud-native applications.</li>\n<li>Sets and enforces engineering standards: code quality, automated testing, CI/CD and application security.</li>\n<li>Delivery across the full software lifecycle, using agile practice.</li>\n<li>Highly regarded: use of AI-assisted development tools and use of engineering metrics.</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $160,092 - $169,398 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services Strategic Plan 2028. <br><br>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.&nbsp;</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Monday, 16 November 2026</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC695720<br><em>Please note: no third-party applications will be accepted. </em></p>",
+      "keywords": [
+        "software",
+        "engineering",
+        "manager"
+      ]
+    },
+    {
+      "job_id": "95517955",
+      "job_title": "Business Systems Administrator",
+      "business_name": "Alder Constructions Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Other",
+      "pay_range": "",
+      "area": "Helensvale, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95517955",
+      "advertiser_id": "20961859",
+      "posted_date": "2026-10-27T04:14:29Z",
+      "job_description": "<p>Alder Group is proudly celebrating 23 years in 2026, bringing engineering and construction teams together under one roof to deliver high-quality building, civil and infrastructure projects across Queensland and Northern NSW.</p><p>&nbsp;</p><p>As our new <strong>Business Systems Administrator</strong>, you'll play a pivotal role in ensuring our business systems run seamlessly while driving continuous improvement across the organisation. This is an exciting opportunity for someone who enjoys solving problems, working with people, and finding smarter ways to leverage technology to support business success.</p><p>&nbsp;</p><p>You'll become the go-to expert for our business applications, helping employees get the most out of the systems they use every day while influencing the future direction of our technology landscape. </p><p>&nbsp;</p><p><strong>About the Role</strong></p><p>Reporting to the General Manager for Information, Data &amp; Technology, you'll be responsible for the administration, support, optimisation and continuous improvement of Alder's business systems portfolio. You'll act as the primary point of contact for users, ensuring systems remain reliable, effective and aligned to operational needs. </p><p>&nbsp;</p><p>Key responsibilities include:</p><ul><li>Providing application support and resolving incidents and service requests</li><li>Managing user access, system configurations and business application administration</li><li>Coordinating with software vendors and support providers</li><li>Supporting system upgrades, testing, releases and user adoption activities</li><li>Driving process improvements and system enhancements</li><li>Assisting with automation, integration and digital transformation initiatives</li><li>Maintaining application documentation, governance and support processes</li><li>Working closely with stakeholders to identify opportunities to improve efficiency and user experience. &nbsp;</li></ul><p>&nbsp;</p><p><strong>About You</strong></p><p>You are naturally curious, solutions-focused and passionate about technology. You enjoy working with people, understanding how businesses operate and finding ways to improve systems and processes.</p><p>You'll bring:</p><ul><li>Experience supporting and administering business applications</li><li>Strong troubleshooting and problem-solving skills</li><li>Experience managing incidents, service requests and system enhancements</li><li>Exposure to software vendors and third-party support providers</li><li>Experience supporting system upgrades, testing and releases</li><li>Knowledge of IT service management or ticketing platforms</li><li>Strong communication and stakeholder engagement skills</li><li>Familiarity with Microsoft 365 and modern workplace technologies. </li></ul><p>&nbsp;</p><p><strong>About Alder Group</strong></p><p>At Alder Group, we deliver award-winning construction and infrastructure projects that positively impact communities across Queensland and Northern NSW. Our diverse portfolio spans Infrastructure, Water and Wastewater, Education, Health, Commercial, Industrial, Hospitality and Community sectors.</p><p>&nbsp;</p><p><strong>What We Offer</strong></p><ul><li>A supportive and collaborative workplace where people are valued, respected and encouraged to do their best work.</li><li>A genuine \"One Team\" mindset and focus on continuous improvement.</li><li>Opportunities to develop your capability, expand your experience and grow your career within a dynamic and evolving business.</li><li>Exposure to a broad range of technologies, projects and business operations.</li><li>A structured pathway into systems administration and infrastructure-focused roles.</li><li>A competitive remuneration package aligned to your experience and the value you bring to the role.</li></ul><p>&nbsp;</p><p>If you're looking for a role where you can combine technical expertise, stakeholder engagement and continuous improvement while helping shape the future of technology within a growing organisation, we'd love to hear from you.</p><p>&nbsp;</p>",
+      "keywords": [
+        "business",
+        "systems",
+        "administrator"
+      ]
+    },
+    {
+      "job_id": "95513092",
+      "job_title": "Website Specialist - Growth Projects",
+      "business_name": "The BUSY Group",
+      "work_type": "Full time",
+      "job_type": "Web Development & Production",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95513092",
+      "advertiser_id": "14264186",
+      "posted_date": "2026-10-27T02:07:33Z",
+      "job_description": "<p>At <b>The BUSY Group</b>, we're committed to making a positive difference in the lives of individuals, families and communities. With operations spanning Australia, New Zealand, Canada and the UK, our team supports people through employment services, education, skills development and community programs that create meaningful opportunities and lasting impact.</p>\n<br><p><b>About the Role</b></p>\n\n<p>At <b>The BUSY Group</b>, we're growing rapidly and investing heavily in our digital presence. We're seeking an experienced <b>Website Specialist - Growth Projects</b> to lead the delivery of new website builds, website refurbishments and strategic digital projects across a diverse portfolio of more than 20 websites.</p>\n\n<p>This is a unique opportunity to join a purpose-driven organisation where your work will directly support initiatives that change lives through employment, education, apprenticeships, skills and community services. Reporting to the <b>Digital Marketing Manager</b>, you'll play a critical role in helping our brands grow through high-performing, engaging and user-focused digital experiences.</p>\n\n<p>As the Website Specialist - Growth Projects, you'll take ownership of website and digital project delivery from concept through to launch and post-launch review. Working across multiple concurrent projects, you'll coordinate stakeholders, manage timelines, oversee website implementation, monitor quality standards and ensure projects are delivered on time and to scope.</p>\n\n<p>This role combines hands-on website management with strong project coordination skills, making it ideal for someone who enjoys both the technical and organisational aspects of digital delivery.</p>\n\n<p>You'll work closely with our growth projects team, digital specialists, content and creative teams, business stakeholders and external partners to create outstanding digital experiences that support organisational growth.</p>\n\n<p><b>Key responsibilities</b></p>\n\n<p>Lead Website Projects End-to-End</p>\n\n<ul>\n\t<li>Manage multiple website builds, refurbishments and digital projects simultaneously</li>\n\t<li>Translate business requirements into clearly defined project scopes and delivery plans</li>\n\t<li>Develop and manage project timelines, milestones, risks and dependencies</li>\n\t<li>Coordinate internal stakeholders, agencies and suppliers throughout project delivery</li>\n\t<li>Drive projects through discovery, build, testing, approvals, launch and review phases</li>\n</ul>\n\n<p>Website Build &amp; Implementation</p>\n\n<ul>\n\t<li>Build and maintain websites, landing pages and microsites using WordPress and modern page builders</li>\n\t<li>Configure page structures, forms, calls-to-action and user journeys</li>\n\t<li>Implement content and creative assets using approved templates and design systems</li>\n\t<li>Coordinate specialist development and integrations with external partners</li>\n\t<li>Support website launches and transition projects into business-as-usual ownership</li>\n</ul>\n\n<p>Quality, Performance &amp; User Experience</p>\n\n<ul>\n\t<li>Conduct comprehensive quality assurance testing before launch</li>\n\t<li>Ensure websites are responsive, accessible and aligned with UX best practice</li>\n\t<li>Implement on-page SEO and website performance standards</li>\n\t<li>Coordinate analytics, tracking and conversion measurement requirements</li>\n\t<li>Monitor and resolve website issues to ensure high-quality outcomes</li>\n</ul>\n\n<p>Security, Privacy &amp; Compliance</p>\n\n<ul>\n\t<li>Support security, privacy and procurement approval processes for web platforms and vendors</li>\n\t<li>Assist with risk assessments and approval documentation</li>\n\t<li>Ensure approved tools, plugins and integrations meet organisational standards</li>\n\t<li>Coordinate with internal technical, security and infrastructure teams when required</li>\n</ul>\n\n<p>Collaboration &amp; Continuous Improvement</p>\n\n<ul>\n\t<li>Work closely with content, creative, CRM and digital marketing specialists</li>\n\t<li>Engage business stakeholders and external suppliers to drive project outcomes</li>\n\t<li>Evaluate project performance and identify opportunities for improvement</li>\n\t<li>Maintain reusable templates, processes and project documentation</li>\n\t<li>Contribute ideas that improve website delivery and digital performance</li>\n</ul>\n\n<p><b>Why BUSY?</b></p>\n\n<p>Our people enjoy:</p>\n\n<ul>\n\t<li>A meaningful role within a purpose-driven organisation.</li>\n\t<li>A collaborative and supportive team environment.</li>\n\t<li>The opportunity to contribute to an organisation making a real difference across Australia, New Zealand, the UK and Canada.</li>\n\t<li>Genuine career progression across a growing organisation&nbsp;with a personal training and development budget</li>\n\t<li>Enjoy a hybrid work model, collaborating in the office and working from home</li>\n\t<li>Paid Parental Leave and annual My BUSY Day&nbsp;&nbsp;</li>\n\t<li>3 day gifted leave Christmas closure </li>\n\t<li>Fitness Passport, retail discounts and wellbeing programs&nbsp;&nbsp;</li>\n</ul>\n<br><p><b>About you</b></p>\n\n<p>You're a highly organised digital professional who thrives on managing multiple priorities and delivering quality outcomes. You're equally comfortable discussing business objectives with stakeholders as you are working within a CMS to bring a project to life. You enjoy solving problems, building relationships and ensuring nothing falls through the cracks. You will have: </p>\n\n<ul>\n\t<li>7+ years' experience delivering website or digital projects</li>\n\t<li>Proven experience managing website projects from planning through to launch</li>\n\t<li>Strong hands-on experience with WordPress and modern page builders</li>\n\t<li>Experience working with website content, forms, integrations and digital platforms</li>\n\t<li>Knowledge of accessibility, SEO, website performance and analytics best practices</li>\n\t<li>Strong project management, stakeholder engagement and communication skills</li>\n\t<li>Ability to manage competing deadlines while maintaining attention to detail</li>\n\t<li>A proactive and solutions-focused approach</li>\n\t<li>Degree or Diploma in Digital Media, Web Development, Marketing, Communications, Project Management or a related discipline, or</li>\n\t<li>Equivalent relevant industry experience</li>\n</ul>\n\n<p><b>Highly regarded:</b></p>\n\n<ul>\n\t<li>Experience with Bricks, Elementor, Gravity Forms, HubSpot, GA4 or Google Tag Manager</li>\n\t<li>Working knowledge of HTML and CSS</li>\n\t<li>Experience working in growth marketing or digital transformation environments</li>\n\t<li>Experience managing third-party vendors and agencies</li>\n\t<li>Exposure to security, privacy and procurement approval processes</li>\n\t<li>Experience working across multiple brands or large organisations</li>\n</ul>\n\n<p><b>Next Steps </b></p>\n\n<p>This role will actively commence recruitment from the date of advertisement. The closing date of this ad is dependent on the appointment of the role.</p>\n\n<p>The BUSY Group is an organisation that prioritises the safeguarding of children and all vulnerable people by actively adopting strategies that embed a culture of zero tolerance for abuse of any kind. The appointment of successful applicants will be subject to satisfactory employment screening including criminal history and relevant working with children checks.&nbsp;</p>\n\n<p>The BUSY Group is committed to achieving a diverse workforce and strongly encourages applications from First Nations People, veterans, people from culturally diverse backgrounds and people with disabilities</p>",
+      "keywords": [
+        "website",
+        "specialist",
+        "growth",
+        "projects"
+      ]
+    },
+    {
+      "job_id": "95509975",
+      "job_title": "Level 3 Help Desk Support",
+      "business_name": "Rec4Tech",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "$80K - $110K + Super",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95509975",
+      "advertiser_id": "62309954",
+      "posted_date": "2026-10-27T00:31:14Z",
+      "job_description": "<strong>Level 3 Help Desk Support - Gold Coast MSP<br></strong><br><strong>Gold Coast, QLD</strong> |&nbsp;<strong>Full-time</strong> |&nbsp;<strong>MSP Environment</strong><br>&nbsp;&nbsp;<br>Are you the go-to tech troubleshooter in your team? Do you love variety, solving problems, and helping businesses get the most from their IT? If so, you might be exactly who we're looking for!<br>&nbsp;&nbsp;<br><strong>Why join our client...</strong><br> <ul> <li>Be part of a friendly, close-knit team that values your ideas and initiative</li> <li>Work with a variety of clients and technologies - no two days are the same</li> <li>Ongoing training and development to keep your skills sharp</li> <li>Great Gold Coast location - skip the city commute</li> <li>Opportunity to make a real impact in a growing business</li> </ul> &nbsp;&nbsp;<br>Our client is a growing Gold Coast-based MSP delivering tailored IT solutions to a diverse client base. From network configuration and server management to cloud migrations and cybersecurity, we keep our clients' businesses running securely and efficiently. Now, we're looking for a Level 2-3 Help Desk Support to join their team and take ownership of delivering exceptional support and solutions.<br>&nbsp;&nbsp;<br><strong>What you'll be doing...</strong><br> <ul> <li>Supporting and maintaining client infrastructure - servers, networks, cloud services, and more</li> <li>Troubleshooting complex technical issues remotely and on-site</li> <li>Implementing robust security measures including firewalls, endpoint protection, and monitoring</li> <li>Planning and executing migrations, upgrades, and new technology rollouts</li> <li>Building strong client relationships and ensuring IT aligns with their business goals</li> <li>Maintaining accurate documentation for smooth operations and quick resolutions</li> </ul> <strong>What we're looking for...</strong><br> <ul> <li>Full working rights in Australia</li> <li>Solid experience in a Systems Admin or Senior Help Desk role (Level 2-3)</li> <li>Strong skills across Windows Server, Microsoft 365, Azure, networking, and virtualization</li> <li>Proven problem-solving abilities - the bigger the challenge, the better!</li> <li>Great communication skills with a customer-first mindset</li> <li>The ability to work autonomously while collaborating with a supportive team</li> <li>MSP experience highly regarded (you'll know the fast-paced, variety-packed nature of the work!</li> </ul> If you're ready to bring your technical expertise, problem-solving skills, and client-first approach to a role where you can truly make a difference, we'd love to hear from you.<br>&nbsp;&nbsp;<br><strong>How to get involved...</strong><br> <br>Ready to take your career to the next level?&nbsp;<strong>APPLY NOW</strong>&nbsp;<strong>!</strong>&nbsp;Submit your CV and a cover letter outlining your experience and achievements or contact Dean from rec4tech.jobs for a confidential chat <a href=\"mailto:dean@rec4tech.jobs\">dean@rec4tech.jobs</a>&nbsp;<br><br><em>At Rec4Tech, we know that diversity isn't just important ** it's what makes workplaces awesome!&nbsp;</em><br><em>We don't care about labels like race, religion, gender identity, sexual orientation, age, or whether you prefer pineapple on pizza (no judgment here). What matters is your talent and passion. Need a tweak or two to make the application process work for you? No worries—let us know, and we'll sort it out. Let's do this together!</em>",
+      "keywords": [
+        "help",
+        "desk",
+        "support"
+      ]
+    },
     {
       "job_id": "95508007",
       "job_title": "Help Desk Support (L2)",
@@ -413,7 +490,7 @@
       "url": "https://www.seek.com.au/job/95508007",
       "advertiser_id": "62309954",
       "posted_date": "2026-10-26T22:37:57Z",
-      "job_description": "We're partnering with a growing Managed Services Provider looking for a Level 2 Help Desk Engineer to join its Gold Coast team.<br> <br>This is a full-time, office-based role supporting clients remotely and onsite. Some travel will be required, including occasional overnight stays.<br> <br><strong>What's in it for you...</strong><br> <ul> <li>Competitive salary package</li> <li>Paid certifications upon successful completion</li> <li>Opportunities to assist with client projects</li> <li>Support from experienced senior engineers</li> <li>Friendly team that values learning, accountability and great client service</li> </ul> <strong>What you'll be doing...</strong><br> <ul> <li>Managing Level 1 and Level 2 support requests through to resolution</li> <li>Supporting users across Microsoft 365, Entra ID, Exchange Online, Teams and SharePoint</li> <li>Troubleshooting Windows devices, applications, printers and connectivity issues</li> <li>Managing user accounts, permissions, licensing and onboarding requests</li> <li>Supporting Intune, endpoint management, VPNs and network environments</li> <li>Assisting with Microsoft 365 migrations and client projects</li> <li>Escalating complex issues while maintaining ownership of the client experience</li> <li>Keeping ticket notes and technical documentation accurate and up to date</li> <li>Providing onsite support and travelling to client locations when required</li> </ul> <strong>What we're looking for...</strong><br> <ul> <li>Previous Level 1 or Level 2 IT support experience</li> <li>MSP experience is strongly preferred</li> <li>Practical Microsoft 365 administration and troubleshooting skills</li> <li>Exposure to Entra ID, Exchange Online and Intune</li> <li>Understanding of Windows environments and networking fundamentals</li> <li>Experience working with ticketing systems and SLAs</li> <li>Strong communication, documentation and customer service skills</li> <li>A proactive approach to problem-solving and learning</li> <li>Ability to work full-time from the Gold Coast office</li> <li>Willingness to travel and complete occasional overnight stays</li> <li>Australian working rights and the ability to obtain a Police Check and NDIS Worker Screening clearance</li> </ul> You don't need to know everything on day one. We're looking for someone with a strong technical foundation, a genuine interest in technology and the confidence to ask questions when needed.<br><br> <strong>How to get involved...</strong><br><br> Ready for your next step? <strong>APPLY NOW!</strong><br> <br>Submit your CV or contact Dean from Rec4Tech for a confidential chat at <a href=\"mailto:dean@rec4tech.jobs\">dean@rec4tech.jobs</a>.<br><br> <em>At Rec4Tech, we know diversity isn't just important, it's what makes workplaces awesome!</em><br> <em><br>We don't care about labels like race, religion, gender identity, sexual orientation, age or whether you prefer pineapple on pizza. What matters is your talent and passion.</em><br> <em><br>Need an adjustment during the application process? Let us know and we'll happily help.</em>",
+      "job_description": "We're partnering with a growing Managed Services Provider looking for a Level 2 Help Desk Engineer to join its Gold Coast team.<br> <br>This is a full-time, office-based role supporting clients remotely and onsite. Some travel will be required, including occasional overnight stays.<br> <br><strong>What's in it for you...</strong><br> <ul> <li>Competitive salary package</li> <li>Paid certifications upon successful completion</li> <li>Opportunities to assist with client projects</li> <li>Support from experienced senior engineers</li> <li>Friendly team that values learning, accountability and great client service</li> </ul> <strong>What you'll be doing...</strong><br> <ul> <li>Managing Level 1 and Level 2 support requests through to resolution</li> <li>Supporting users across Microsoft 365, Entra ID, Exchange Online, Teams and SharePoint</li> <li>Troubleshooting Windows devices, applications, printers and connectivity issues</li> <li>Managing user accounts, permissions, licensing and onboarding requests</li> <li>Supporting Intune, endpoint management, VPNs and network environments</li> <li>Assisting with Microsoft 365 migrations and client projects</li> <li>Escalating complex issues while maintaining ownership of the client experience</li> <li>Keeping ticket notes and technical documentation accurate and up to date</li> <li>Providing onsite support and travelling to client locations when required</li> </ul> <strong>What we're looking for...</strong><br> <ul> <li>Full Australian working rights and the ability to obtain a Police Check and NDIS Worker Screening clearance</li> <li>Previous Level 1 or Level 2 IT support experience</li> <li>MSP experience is strongly preferred</li> <li>Practical Microsoft 365 administration and troubleshooting skills</li> <li>Exposure to Entra ID, Exchange Online and Intune</li> <li>Understanding of Windows environments and networking fundamentals</li> <li>Experience working with ticketing systems and SLAs</li> <li>Strong communication, documentation and customer service skills</li> <li>A proactive approach to problem-solving and learning</li> <li>Ability to work full-time from the Gold Coast office</li> <li>Willingness to travel and complete occasional overnight stays</li> </ul> You don't need to know everything on day one. We're looking for someone with a strong technical foundation, a genuine interest in technology and the confidence to ask questions when needed.<br><br> <strong>How to get involved...</strong><br><br> Ready for your next step? <strong>APPLY NOW!</strong><br> <br>Submit your CV or contact Dean from Rec4Tech for a confidential chat at <a href=\"mailto:dean@rec4tech.jobs\">dean@rec4tech.jobs</a>.<br><br> <em>At Rec4Tech, we know diversity isn't just important, it's what makes workplaces awesome!</em><br> <em><br>We don't care about labels like race, religion, gender identity, sexual orientation, age or whether you prefer pineapple on pizza. What matters is your talent and passion.</em><br> <em><br>Need an adjustment during the application process? Let us know and we'll happily help.</em>",
       "keywords": [
         "help",
         "desk",
@@ -507,7 +584,7 @@
       "url": "https://www.seek.com.au/job/95472363",
       "advertiser_id": "46711243",
       "posted_date": "2026-10-23T22:41:02Z",
-      "job_description": "<p><strong>About us:</strong></p><p>Tradezone is one of Australia’s fastest-growing electrical wholesalers. Since launching in 2015, we’ve grown to operate six state-of-the-art distribution centres nationwide, supplying electrical, solar, HVAC, data and safety products to trade professionals across Australia - with further expansion on the horizon.</p><p>As part of the Kingston Group, a privately owned, family-run Australian business with more than 40 years of wholesale and distribution experience, Tradezone combines the scale and capability of a national operation with the culture and values of a close-knit team.</p><p>Technology and innovation are at the heart of what we do. From our real-time online platform and live-stock visibility, to our dedicated national delivery fleet with live tracking, we’re continually investing in smarter, more efficient ways to serve our customers and support our continued growth.</p><p><strong>About the Role</strong></p><p>Technology drives our business forward, and we’re proud to have our own creative and practical in-house IT and technology teams. We’re seeking a Senior Software Engineer who wants to make a real impact.</p><p>You’ll help design, build and evolve the technology behind our growing national operations, from our real-time online platform and live stock visibility to the systems supporting our distribution centres, offices and customer experience.</p><p>If you enjoy solving meaningful problems and seeing the real-world impact of your work, we’d like to hear from you.</p><p><strong>Your Responsibilities</strong></p><p>•&nbsp;&nbsp; Design, develop and maintain scalable applications, APIs and integrations.</p><p>•&nbsp;&nbsp; Contribute to software architecture, technical decisions and engineering best practices.</p><p>•&nbsp;&nbsp; Write clean, maintainable and well-tested code.</p><p>•&nbsp;&nbsp; Optimise databases, troubleshoot complex issues and improve system performance.</p><p>•&nbsp;&nbsp; Deploy and support production applications, including ongoing maintenance and upgrades.</p><p>•&nbsp;&nbsp; Work with teams across the business to turn operational requirements into practical solutions.</p><p><strong><br>What You’ll Bring</strong></p><p>Substantial hands on experience building and maintaining production systems, with strong skills in:</p><p>•&nbsp;&nbsp; <strong>Python</strong> - backend development, APIs, integrations, automation and database access.</p><p>•&nbsp;&nbsp; <strong>PostgreSQL</strong> - database design, SQL, indexing and query optimisation.</p><p>•&nbsp;&nbsp; <strong>Docker &amp; Dokploy</strong> - containerisation, Docker Compose, networking, persistent storage, deployment and application management.</p><p>•&nbsp;&nbsp; <strong>Git</strong> - version control, branching, code reviews and collaborative development.</p><p>•&nbsp;&nbsp; <strong>Linux / Debian</strong> - deploying, supporting and troubleshooting applications in Debian-based production environments.</p><p>Experience with the following would also be highly regarded:</p><p>•&nbsp;&nbsp; <strong>TimescaleDB</strong> – time series data management within PostgreSQL.</p><p>•&nbsp;&nbsp; <strong>MongoDB</strong> - document modelling, querying, indexing and aggregation.</p><p>•&nbsp;&nbsp; <strong>Redis</strong> - caching, session management and performance optimisation.</p><p>•&nbsp;&nbsp; <strong>Nginx &amp; uWSGI</strong> - reverse proxying, TLS and Python application serving where required.</p><p>•&nbsp;&nbsp; <strong>ElectricSQL / Electric</strong> - synchronising PostgreSQL data with client applications.</p><p>You take ownership of your work, communicate clearly and bring a proactive, practical approach to solving problems. You’re comfortable collaborating with technical colleagues and stakeholders across the business.</p><p><br><strong>Why Tradezone?</strong></p><p>Join a fast-growing Australian business where technology isn’t just part of what we do – it drives us forward.</p><p>With expansive B2B and B2C platforms, complex engineering challenges and ambitious growth plans, you’ll have the opportunity to shape technical solutions, influence how we build and scale, and turn big ideas into real-world impact.</p><p>Work alongside smart, creative people who challenge convention, solve meaningful problems and are always looking for better ways to do things.</p><p><strong>Big ideas. Smart tech. Real impact.</strong> If you’re ready to take ownership, push boundaries and help shape what’s next at Tradezone, we’d love to hear from you.</p>",
+      "job_description": "<p><strong>About us:</strong></p><p>Tradezone is one of Australia’s fastest-growing electrical wholesalers. Since launching in 2015, we’ve grown to operate six state-of-the-art distribution centres nationwide, supplying electrical, solar, HVAC, data and safety products to trade professionals across Australia - with further expansion on the horizon.</p><p>As part of the Kingston Group, a privately owned, family-run Australian business with more than 40 years of wholesale and distribution experience, Tradezone combines the scale and capability of a national operation with the culture and values of a close-knit team.</p><p>Technology and innovation are at the heart of what we do. From our real-time online platform and live-stock visibility, to our dedicated national delivery fleet with live tracking, we’re continually investing in smarter, more efficient ways to serve our customers and support our continued growth.</p><p><strong>About the Role</strong></p><p>Technology drives our business forward, and we’re proud to have our own creative and practical in-house IT and technology teams. We’re seeking a Senior Software Engineer who wants to make a real impact.</p><p>You’ll help design, build and evolve the technology behind our growing national operations, from our real-time online platform and live stock visibility to the systems supporting our distribution centres, offices and customer experience.</p><p>If you enjoy solving meaningful problems and seeing the real-world impact of your work, we’d like to hear from you.</p><p><strong>Your Responsibilities</strong></p><p>•&nbsp;&nbsp; Design, develop and maintain scalable applications, APIs and integrations.</p><p>•&nbsp;&nbsp; Contribute to software architecture, technical decisions and engineering best practices.</p><p>•&nbsp;&nbsp; Write clean, maintainable and well-tested code.</p><p>•&nbsp;&nbsp; Optimise databases, troubleshoot complex issues and improve system performance.</p><p>•&nbsp;&nbsp; Deploy and support production applications, including ongoing maintenance and upgrades.</p><p>•&nbsp;&nbsp; Work with teams across the business to turn operational requirements into practical solutions.</p><ul><li><p>AutoStore / WMS &amp; Robotics Integrations — integrating warehouse management systems with AutoStore or other robotic automation platforms to support inventory, order fulfilment and warehouse operations.</p></li></ul><p><strong><br>What You’ll Bring</strong></p><p>Substantial hands on experience building and maintaining production systems, with strong skills in:</p><p>•&nbsp;&nbsp; <strong>Python</strong> - backend development, APIs, integrations, automation and database access.</p><p>•&nbsp;&nbsp; <strong>PostgreSQL</strong> - database design, SQL, indexing and query optimisation.</p><p>•&nbsp;&nbsp; <strong>Docker &amp; Dokploy</strong> - containerisation, Docker Compose, networking, persistent storage, deployment and application management.</p><p>•&nbsp;&nbsp; <strong>Git</strong> - version control, branching, code reviews and collaborative development.</p><p>•&nbsp;&nbsp; <strong>Linux / Debian</strong> - deploying, supporting and troubleshooting applications in Debian-based production environments.</p><p>Experience with the following would also be highly regarded:</p><p>•&nbsp;&nbsp; <strong>TimescaleDB</strong> – time series data management within PostgreSQL.</p><p>•&nbsp;&nbsp; <strong>MongoDB</strong> - document modelling, querying, indexing and aggregation.</p><p>•&nbsp;&nbsp; <strong>Redis</strong> - caching, session management and performance optimisation.</p><p>•&nbsp;&nbsp; <strong>Nginx &amp; uWSGI</strong> - reverse proxying, TLS and Python application serving where required.</p><p>•&nbsp;&nbsp; <strong>ElectricSQL / Electric</strong> - synchronising PostgreSQL data with client applications.</p><p>You take ownership of your work, communicate clearly and bring a proactive, practical approach to solving problems. You’re comfortable collaborating with technical colleagues and stakeholders across the business.</p><p><br><strong>Why Tradezone?</strong></p><p>Join a fast-growing Australian business where technology isn’t just part of what we do – it drives us forward.</p><p>With expansive B2B and B2C platforms, complex engineering challenges and ambitious growth plans, you’ll have the opportunity to shape technical solutions, influence how we build and scale, and turn big ideas into real-world impact.</p><p>Work alongside smart, creative people who challenge convention, solve meaningful problems and are always looking for better ways to do things.</p><p><strong>Big ideas. Smart tech. Real impact.</strong> If you’re ready to take ownership, push boundaries and help shape what’s next at Tradezone, we’d love to hear from you.</p>",
       "keywords": [
         "software",
         "engineer"
@@ -830,6 +907,26 @@
       ]
     },
     {
+      "job_id": "95530679",
+      "job_title": "IT Service Desk Analyst",
+      "business_name": "Stratco",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Ormeau, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95530679",
+      "advertiser_id": "31313862",
+      "posted_date": "2026-10-14T05:05:02Z",
+      "job_description": "<ul>\n<li><strong>Supportive team that values initiative and collaboration </strong></li>\n<li><strong>A culture that recognises great work</strong></li>\n<li><strong>Ongoing career opportunities</strong></li>\n</ul>\n<p>When technology works, nobody notices. When it doesn't, you're the person everyone wants on speed dial.</p>\n<p>We're looking for an IT Service Desk Analyst who thrives on solving problems, delivering exceptional customer experiences, and keeping people productive when technology gets in the way. You'll be the trusted first point of contact for our users, turning frustrations into solutions and ensuring every interaction leaves a positive impression.</p>\n<p>This isn't just about resetting passwords and logging tickets. It's about being the face of IT, building trust, and making a genuine impact across Stratco.</p>\n<p>Stratco is an Australian-owned innovator, manufacturer, and marketer of quality building and renovation solutions. With sophisticated manufacturing facilities, retail stores, and professional trade representation throughout Australia and New Zealand, Stratco has supplied a comprehensive range of products to the building and construction industries, and home improvement and DIY markets for over 75 years.</p>\n<p>Your broader responsibilities will include:</p>\n<ul>\n<li>Manage and resolve helpdesk requests in a timely and effective manner</li>\n<li>Troubleshooting network, hardware, software, printer, mobile devices, etc. issues</li>\n<li>Maintain asset records and relevant documentation</li>\n<li>Provide high level support to various industry and custom applications</li>\n<li>Understanding of change, problem and release management principles&nbsp;</li>\n<li>Develop checklists for typical problems, recommend procedure &amp; controls for prevention</li>\n<li>Provide end user support to all Stratco sites nationally and internationally, some travel may be required</li>\n<li>Collaborate with team members, other business areas and projects as required</li>\n<li>Strict adherence to our critical safety rules &amp; contributing to a safe working environment</li>\n</ul>\n<p><strong>The individual</strong></p>\n<p>We're on the lookout for a \"can do\", customer focused individual that can demonstrate:&nbsp;</p>\n<ul>\n<li>Experience in an IT Service Desk, Helpdesk, Desktop Support, or similar technical support role.</li>\n<li>Applicable qualifications in an IT related discipline</li>\n<li>A passion to deliver outstanding customer service with the ability to build and support professional working relationships at all levels</li>\n<li>Highly developed time management, problem-solving and communication skills</li>\n<li>Experience configuring, administering Microsoft 365, Microsoft Server products including Active Directory and Exchange</li>\n<li>Knowledge of WAN/LAN, IP Networking, DHCP/DNS and general network principals</li>\n<li>Knowledge of Windows desktop, Windows server environments including current and previous generations</li>\n<li>ITIL certification desirable</li>\n</ul>\n<p><strong>Life at Stratco includes</strong>&nbsp;<br>Holistic Wellness &amp; Mental Health Support | 24/7 EAP to team members &amp; family&nbsp;|&nbsp;Flexible Working Arrangements |&nbsp;Team Member Discounts&nbsp;|&nbsp;Professional Development &amp; Career Growth | Competitive Remuneration |&nbsp;Positive Workplace Culture &amp; Inclusion&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;<br><strong>Our EVP&nbsp;</strong><br>At Stratco, manufacturing is our foundation, but our people are our future. We empower our team to grow and succeed, within an inclusive and collaborative environment, where every individual matters, and innovation thrives. We are committed to offering fulfilling and rewarding career paths, ongoing learning and development, and recognition for outstanding service. Join us and build the future&nbsp;you’ve&nbsp;always envisaged, while redefining outdoor living and improving the lifestyles of our customers.&nbsp;<br>We’re&nbsp;committed to fostering a workplace where&nbsp;everyone&nbsp;can thrive, understanding that careers evolve&nbsp;alongside&nbsp;life. Whether&nbsp;you’re&nbsp;advancing, reskilling, caregiving, or&nbsp;redefining&nbsp;you next&nbsp;chapter, at Stratco, we build roles that grow with you.&nbsp;</p>\n<p><br>At Stratco, Safety is paramount, and we take every measure to ensure our team members&nbsp;‘Return Home Safe’.&nbsp;<br>&nbsp;<br>To see more information about Stratco &amp; our careers please visit –&nbsp;stratco.com.au/careers&nbsp;</p>",
+      "keywords": [
+        "it",
+        "service",
+        "desk",
+        "analyst"
+      ]
+    },
+    {
       "job_id": "95253771",
       "job_title": "Senior SOC Analyst",
       "business_name": "Eagna Consulting",
@@ -903,44 +1000,6 @@
         "data",
         "ai",
         "engineer"
-      ]
-    },
-    {
-      "job_id": "95223561",
-      "job_title": "Portfolio Management Principal",
-      "business_name": "Southern Cross University",
-      "work_type": "Full time",
-      "job_type": "Programme & Project Management",
-      "pay_range": "$146,718 - $165,887 plus 17% superannuation",
-      "area": "Bilinga, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95223561",
-      "advertiser_id": "15012749",
-      "posted_date": "2026-10-13T01:24:19Z",
-      "job_description": "<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing <a href=\"https://www.scu.edu.au/southern-cross-model/\" target=\"_self\">Southern Cross Model</a> brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity</strong></p>\n<p>Technology Services is evolving how technology is delivered and operated across Southern Cross University, with a focus on reliable services, high-quality delivery and technology that delivers lasting value.</p>\n<p>As Portfolio Management Principal, you'll lead the priroitisation, delivery and operational performance of technology products and services across the University. You'll ensure technology solutions meet business needs, operate reliably and deliver measurable outcomes.</p>\n<p>Working closely with leaders, delivery teams, engineering and platform specialists, vendors and senior stakeholders, you'll balance competing priorities, resolve complex delivery challenges and ensure operational requirements are considered throughout the technology lifecycle. You'll drive continuous improvement across service performance, release quality, technical risk and product value, while ensuring our technology platforms remain secure, well-supported and fit for purpose.</p>\n<p>This is a senior leadership opportunity for someone who combines strong technical delivery and product expertise with operational judgement and commercial acumen. You'll also play a key role in developing people, strengthening delivery capability and creating an environment where teams can deliver high-quality outcomes and continually improve how they work.</p>\n<p>You will make an impact by:</p>\n<ul>\n<li>Leading and influencing technology prioritisation, delivery and operations from design through to ongoing support</li>\n<li>Driving service reliability, performance, release quality and risk management</li>\n<li>Aligning product priorities and delivery plans with University needs</li>\n<li>Strengthening vendor performance, commercial outcomes and value for money</li>\n<li>Building high-performing teams and improving technical delivery capability</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<p>You're an experienced technology delivery and product leader who understands that successful technology outcomes depend on more than getting projects across the line. You know how to bring together product value, technical quality and operational reliability to deliver solutions that work for the organisation over the long term.</p>\n<p>You combine strategic thinking with hands-on delivery and operational experience, and are confident navigating complex technology environments. You can translate business needs into clear delivery priorities, make informed decisions about competing demands and work across technical and business teams to resolve challenges and maintain momentum.</p>\n<p>You're also a capable people leader who develops talent, builds strong working relationships and leads teams through change. You value continuous improvement, understand the importance of effective vendor partnerships and can balance commercial considerations with service quality and long-term sustainability.</p>\n<p>To succeed in this role, you will also need:</p>\n<ul>\n<li>A relevant degree and substantial technology delivery or product leadership experience</li>\n<li>Experience delivering complex technology solutions through to live operation and support</li>\n<li>Strong knowledge of enterprise platforms, service performance and operational risk</li>\n<li>Proven capability in vendor management, contract negotiation and commercial outcomes</li>\n<li>Experience developing teams, improving delivery practices and leading organisational change</li>\n</ul>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/gold-coast/\" target=\"_self\">Gold Coast</a>, <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/coffs-harbour/\" target=\"_self\">Coffs Harbour</a> and the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/lismore/\" target=\"_self\">Northern Rivers</a> region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li>Full-time, continuing (permanent)</li>\n<li>Located at Gold Coast, QLD 4225. Relocation assistance is available, making it easier to join our regional communities</li>\n<li>HEW Level 10. The base salary ranges from $146,718 - $165,887 per annum, plus 17% employer’s contribution to superannuation. The total remuneration package is up to $194,087.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit <a href=\"https://www.scu.edu.au/about/jobs-at-southern-cross/why-work-at-southern-cross-university/\" target=\"_self\">Why work at Southern Cross University?</a></p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>To view the full position advertisement and details of the application process, please click on the APPLY button where you will be redirected to the Southern Cross University website. &nbsp;&nbsp;</p>\n<p><strong>Applications close 11.30pm AEDT 27 October 2026.</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. &nbsp;Employer visa sponsorship is not available for this position.</p>\n<p>Applicants must apply online and attach a CV and cover letter. The cover letter must clearly address each selection criterion in the position description. Information to support you prepare your application is available on our <a href=\"https://www.scu.edu.au/about/jobsscu/vacancies/applying-for-a-position/\" target=\"_self\">website.</a></p>\n<p><em>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to </em><a href=\"mailto:jobs@scu.edu.au\" target=\"_self\"><em>jobs@scu.edu.au.</em></a></p>\n<p><strong>#LI-VC1</strong></p>\n<p><strong>#GC</strong></p>\n",
-      "keywords": [
-        "portfolio",
-        "management"
-      ]
-    },
-    {
-      "job_id": "95172758",
-      "job_title": "IT Support Officer - Level 1 (or Recent Graduate)",
-      "business_name": "Acworth Recruitment",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Burleigh Heads, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95172758",
-      "advertiser_id": "36752432",
-      "posted_date": "2026-10-09T08:01:23Z",
-      "job_description": "<p><strong>Ozdoc Solutions Partnership </strong>are Australia’s premier Medical IT provider. We custom design IT solutions to meet the needs of today’s demanding Health industry via the best combination of on premise, hybrid and complete cloud-systems including hardware, software, and state of the art digital solutions. We are committed to excellence, growth, integrity, and innovation while striving to be as human as possible, after all they are our core values.</p><p><br></p><p><strong>“We care for technology so you can care for people”</strong></p><p><br></p><p><strong>About the Role</strong></p><p>We are on the hunt for the next great team member. &nbsp;</p><p><br></p><p>We’re looking for a super driven person to join our team as a Level 1/Entry level <strong>Associate Support Engineer</strong>. You'll learn to be hands-on with all our client support, receiving exposer to everything as you will become part of our First Response team delivering initial triage to servers, desktops, networks, you name it as you grow.</p><p><br></p><p>Still studying and have extra capacity, we will even consider someone working towards Graduation and looking for a foot in the door [Cert 3/4, Diploma or Degree] with strong customer service experience (ie retail, hospitality etc) and is the \"go to\" person for friends and family with their IT issues.</p><p><br></p><p>You'll need a growth mentality and a great can-do attitude, love working directly with people and most importantly be part of a strong team culture…..along with diligence, enthusiasm, willingness to go the extra mile, and desire to contribute and succeed.</p><p><br></p><p>Show your skill and there is plenty of opportunity to move quickly and grow within our team!</p><p><br></p><p><strong>What Qualities are we looking for?&nbsp;&nbsp;</strong></p><ul><li><p>Exceptional skills in dealing with people</p></li><li><p>A positive and friendly attitude</p></li><li><p>Passionate about solving client issues</p></li><li><p>A creative approach in solving problems</p></li><li><p>Most of all, a team player and willingness to grow.</p></li></ul><p><br></p><p><strong>What’s on Offer</strong></p><ul><li><p>A commencing salary of $55K plus superannuation will be offered with the potential for an increase following probation for an exceptional candidate.</p></li><li><p>Additional after hours renumeration on top of base salary</p></li><li><p>A proactive and supportive work environment, with up-to-date equipment, that supports employee development.</p></li><li><p>A challenging role where you are always learning!</p></li><li><p>Burleigh Heads based – work close to home</p></li><li><p>Flexible work options</p></li><li><p>Salary sacrifice plans</p></li><li><p>Employee referral program</p></li><li><p>Peer bonus program</p></li><li><p>Gift vouchers on your birthday and the day off, yes that’s right we don’t work birthdays at Ozdoc</p></li><li><p>Quarterly team building events</p></li><li><p>Monthly team lunches</p></li><li><p>Ability to be heard outside of the crowd</p></li></ul><p><br></p><p><strong>What stands out as a bonus to being shortlisted in this application?&nbsp;&nbsp;</strong></p><ul><li><p>Already completed a graduate certification</p></li><li><p>Any Microsoft fundamental certifications</p></li><li><p>Any additional IT certifications</p></li><li><p>Any certification that isn’t IT related however can be applied to this role</p></li></ul><p><br></p><p><strong>Want to join the Ozdoc team?</strong></p><p>If you are ready to <strong>build your CAREER</strong> with an organisation that prides itself on intimacy with its customers and building a strong team, then send your application in now!</p><p><br></p><p>Applicants are asked to provide a current resume along with details/ evidence to support the above requirements of the role.</p><p><strong>&nbsp;</strong></p><p>Please note that only applicants meeting the criteria outlined above will be contacted as part of the short-listing process.</p>",
-      "keywords": [
-        "it",
-        "support",
-        "officer",
-        "recent"
       ]
     },
     {
