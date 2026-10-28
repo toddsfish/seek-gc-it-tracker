@@ -1,28 +1,28 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "region": "Gold Coast",
-  "scraped_at": "2026-10-28T09:21:20.304193+10:00",
+  "scraped_at": "2026-10-29T09:44:02.656651+10:00",
   "total_jobs": 54,
   "keywords": [
     {
       "term": "support",
+      "count": 16,
+      "share": 0.2963
+    },
+    {
+      "term": "it",
       "count": 14,
       "share": 0.2593
     },
     {
-      "term": "it",
+      "term": "engineer",
       "count": 12,
       "share": 0.2222
     },
     {
-      "term": "engineer",
-      "count": 11,
-      "share": 0.2037
-    },
-    {
       "term": "analyst",
-      "count": 7,
-      "share": 0.1296
+      "count": 9,
+      "share": 0.1667
     },
     {
       "term": "software",
@@ -35,17 +35,27 @@
       "share": 0.1111
     },
     {
-      "term": "developer",
+      "term": "manager",
+      "count": 6,
+      "share": 0.1111
+    },
+    {
+      "term": "desk",
       "count": 5,
       "share": 0.0926
     },
     {
-      "term": "business",
+      "term": "service",
+      "count": 5,
+      "share": 0.0926
+    },
+    {
+      "term": "developer",
       "count": 4,
       "share": 0.0741
     },
     {
-      "term": "ai",
+      "term": "data",
       "count": 4,
       "share": 0.0741
     },
@@ -55,27 +65,12 @@
       "share": 0.0741
     },
     {
-      "term": "desk",
-      "count": 4,
-      "share": 0.0741
-    },
-    {
       "term": "administrator",
       "count": 4,
       "share": 0.0741
     },
     {
-      "term": "service",
-      "count": 4,
-      "share": 0.0741
-    },
-    {
-      "term": "manager",
-      "count": 4,
-      "share": 0.0741
-    },
-    {
-      "term": "operations",
+      "term": "business",
       "count": 3,
       "share": 0.0556
     },
@@ -85,7 +80,7 @@
       "share": 0.0556
     },
     {
-      "term": "data",
+      "term": "ai",
       "count": 3,
       "share": 0.0556
     },
@@ -101,6 +96,11 @@
     },
     {
       "term": "specialist",
+      "count": 3,
+      "share": 0.0556
+    },
+    {
+      "term": "technical",
       "count": 3,
       "share": 0.0556
     },
@@ -135,12 +135,12 @@
       "share": 0.037
     },
     {
-      "term": "stack",
+      "term": "help",
       "count": 2,
       "share": 0.037
     },
     {
-      "term": "help",
+      "term": "ongc",
       "count": 2,
       "share": 0.037
     },
@@ -150,17 +150,7 @@
       "share": 0.037
     },
     {
-      "term": "technical",
-      "count": 2,
-      "share": 0.037
-    },
-    {
-      "term": "coordinator",
-      "count": 2,
-      "share": 0.037
-    },
-    {
-      "term": "engineering",
+      "term": "operations",
       "count": 2,
       "share": 0.037
     },
@@ -210,6 +200,11 @@
       "share": 0.0185
     },
     {
+      "term": "stack",
+      "count": 1,
+      "share": 0.0185
+    },
+    {
       "term": "associate",
       "count": 1,
       "share": 0.0185
@@ -240,27 +235,17 @@
       "share": 0.0185
     },
     {
+      "term": "coordinator",
+      "count": 1,
+      "share": 0.0185
+    },
+    {
       "term": "applications",
       "count": 1,
       "share": 0.0185
     },
     {
       "term": "account",
-      "count": 1,
-      "share": 0.0185
-    },
-    {
-      "term": "helpdesk",
-      "count": 1,
-      "share": 0.0185
-    },
-    {
-      "term": "prep",
-      "count": 1,
-      "share": 0.0185
-    },
-    {
-      "term": "year",
       "count": 1,
       "share": 0.0185
     },
@@ -285,22 +270,37 @@
       "share": 0.0185
     },
     {
+      "term": "helpdesk",
+      "count": 1,
+      "share": 0.0185
+    },
+    {
+      "term": "prep",
+      "count": 1,
+      "share": 0.0185
+    },
+    {
+      "term": "year",
+      "count": 1,
+      "share": 0.0185
+    },
+    {
+      "term": "delivery",
+      "count": 1,
+      "share": 0.0185
+    },
+    {
+      "term": "engineering",
+      "count": 1,
+      "share": 0.0185
+    },
+    {
       "term": "sharepoint",
       "count": 1,
       "share": 0.0185
     },
     {
       "term": "product",
-      "count": 1,
-      "share": 0.0185
-    },
-    {
-      "term": "project",
-      "count": 1,
-      "share": 0.0185
-    },
-    {
-      "term": "delivery",
       "count": 1,
       "share": 0.0185
     },
@@ -326,16 +326,6 @@
     },
     {
       "term": "coach",
-      "count": 1,
-      "share": 0.0185
-    },
-    {
-      "term": "team",
-      "count": 1,
-      "share": 0.0185
-    },
-    {
-      "term": "formwork",
       "count": 1,
       "share": 0.0185
     },
@@ -388,19 +378,106 @@
       "term": "cms",
       "count": 1,
       "share": 0.0185
-    },
-    {
-      "term": "customer",
-      "count": 1,
-      "share": 0.0185
-    },
-    {
-      "term": "trainer",
-      "count": 1,
-      "share": 0.0185
     }
   ],
   "jobs": [
+    {
+      "job_id": "95562258",
+      "job_title": "IT Support Engineer, Level 2 - ONGC",
+      "business_name": "Lyra Technology Group",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Arundel, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95562258",
+      "advertiser_id": "62871597",
+      "posted_date": "2026-10-28T21:16:32Z",
+      "job_description": "<p><strong>Lyra Technology Group&nbsp;</strong>is a&nbsp;private&nbsp;equity-backed holding company that invests in and&nbsp;operates&nbsp;industry leading technology service businesses. Our companies are&nbsp;operated&nbsp;independently by exceptional management teams. Companies that join our group&nbsp;retain&nbsp;the employees, name, and culture that have made them successful. As a platform of&nbsp;Evergreen&nbsp;Services&nbsp;Group, we never divest from businesses we partner with and approach every decision with the goal of driving sustainable and healthy growth over the long term.  </p><p></p><p>Our Operating Company, <strong>ONGC</strong>, is looking for an experienced <strong>IT Support Engineer, Level 2 </strong>to join their team in Arundel, GQ.</p><p></p><p><strong></strong></p><p><strong>About The Role</strong></p><p>As a <strong>Level 2 IT Support Engineer</strong>, you'll provide advanced technical support across a diverse range of client environments while managing escalated issues from the Level 1 team. You'll take ownership of incidents from diagnosis through to resolution, contribute to infrastructure improvements, and help deliver an exceptional customer experience.</p><p></p><p><strong>Key Responsibilities</strong></p><ul>\n<li>Provide Level 2 technical support across desktop, server, network, and cloud environments.</li>\n<li>Manage escalated incidents and service requests, ensuring timely resolution.</li>\n<li>Troubleshoot Microsoft 365, Azure, Active Directory, Exchange, and Windows environments.</li>\n<li>Support networking technologies including firewalls, switches, VPNs, and wireless infrastructure.</li>\n<li>Maintain accurate documentation and ticket updates within the PSA system.</li>\n<li>Build strong client relationships through professional communication and outstanding customer service.</li>\n<li>Assist with infrastructure upgrades, migrations, and technology projects.</li>\n<li>Collaborate with Level 3 Engineers on complex technical issues when required.</li>\n</ul><p><strong>About You</strong></p><p>To succeed in this role, you will ideally have MSP experience, excellent troubleshooting skills, and a proactive approach to customer support.</p><p></p><p><strong>Essential Skills &amp; Experience</strong></p><ul>\n<li>3+years' experience in an MSP or similar IT support environment.</li>\n<li>Relevant IT qualifications or equivalent industry experience.</li>\n<li>Experience providing Level 2 support across Microsoft environments.</li>\n<li>Strong knowledge of Microsoft 365, Azure, Active Directory, Exchange Online, andWindows Server.</li>\n<li>Experience supporting networking technologies including switches, firewalls, VPNs and Wi-Fi.</li>\n<li>Excellent communication and customer service skills.</li>\n</ul><p><strong>Preferred Experience</strong></p><ul>\n<li>Microsoft certifications (MS-900, AZ-900, MD-102, MS-102, AZ-104, or similar).</li>\n<li>CompTIA, Cisco, or ITIL certifications.</li>\n<li>Experience with ConnectWise PSA and ConnectWise RMM.</li>\n<li>Exposure to Microsoft Intune, SharePoint, Microsoft Defender, or Azure Virtual Desktop</li>\n</ul><p><strong>Benefits</strong></p><ul>\n<li>Flexible working arrangements – 2 days WFH</li>\n<li>Clear career progression pathways</li>\n<li>Exposure to meaningful, enterprise technology projects</li>\n<li>Supportive, collaborative team culture focused on growth and innovation</li>\n<li>Opportunity to work with emerging AI technologies and innovative automation solutions</li>\n<li>Be part of a values-driven organisation committed to delivering exceptional outcomes for clients across Australia</li>\n<p>&nbsp;</p>\n</ul>",
+      "keywords": [
+        "it",
+        "support",
+        "engineer",
+        "ongc"
+      ]
+    },
+    {
+      "job_id": "95562246",
+      "job_title": "Service Delivery Manager - ONGC",
+      "business_name": "Lyra Technology Group",
+      "work_type": "Full time",
+      "job_type": "Management",
+      "pay_range": "",
+      "area": "Arundel, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95562246",
+      "advertiser_id": "62871597",
+      "posted_date": "2026-10-28T21:13:29Z",
+      "job_description": "<p><strong>Lyra Technology Group&nbsp;</strong>is a&nbsp;private&nbsp;equity-backed holding company that invests in and&nbsp;operates&nbsp;industry leading technology service businesses. Our companies are&nbsp;operated&nbsp;independently by exceptional management teams. Companies that join our group&nbsp;retain&nbsp;the employees, name, and culture that have made them successful. As a platform of&nbsp;Evergreen&nbsp;Services&nbsp;Group, we never divest from businesses we partner with and approach every decision with the goal of driving sustainable and healthy growth over the long term.  </p><p></p><p>Our Operating Company, <strong>ONGC</strong>, is looking for a <strong>Service Delivery Manager </strong>to join their team in Arundel, GQ.</p><p><strong></strong></p><p><strong>About The Role</strong></p><p></p><p>ONGC is looking for an accomplished <strong>Service Delivery Manager</strong> to lead their Managed Services function, drive operational excellence and deliver outstanding customer outcomes. </p><p></p><p>You will work closely with the Service Desk Manager and Team Leaders to ensure engineers are supported, workloads are managed effectively, tickets progress efficiently and customer issues are resolved before they escalate.</p><p></p><p>This is a hands-on leadership role that requires strong operational discipline, commercial awareness and the technical understanding to guide decisions across evolving technologies, systems and automation.</p><p></p><p><strong>Key Responsibilities</strong></p><ul>\n<li>Own operational performance</li>\n<li>Lead and develop people</li>\n<li>Champion customer experience</li>\n<li>Drive commercial outcomes</li>\n<li>Manage capacity and capability</li>\n<li>Turn data into action</li>\n<li>Improve systems and processes</li>\n<li>Provide technical oversight</li>\n<li>Collaborate across the business</li>\n</ul><p><strong>About You</strong></p><ul>\n<li>5–10 years of relevant experience, ideally within an MSP, Managed Services, Service Desk or technical operations environment.</li>\n<li>Proven experience managing service delivery, operational performance, customer relationships and team productivity.</li>\n<li>Strong knowledge of IT service management, incident and escalation management, SLA management, queue operations and continuous improvement.</li>\n<li>Commercial acumen, with the ability to understand utilisation, billable hours, gross margin and cost-to-serve, and translate performance data into practical action.</li>\n<li>Experience working with service management platforms and reporting tools, ideally including ConnectWise and BrightGauge.</li>\n<li>The ability to lead, coach and hold people accountable while building a collaborative, high-performing team.</li>\n<li>Strong communication skills and the confidence to manage challenging customer situations and engage with both technical and non-technical stakeholders.</li>\n<li>Broad technical knowledge and the ability to guide escalations, challenge assumptions and identify opportunities across emerging technologies and automation.</li>\n<li>ITIL certification or equivalent practical experience. Relevant business or technology management qualifications will be advantageous.</li>\n</ul><p></p><p><strong>Benefits</strong></p><ul>\n<li>Flexible working arrangements – 2 days WFH</li>\n<li>Clear career progression pathways</li>\n<li>Exposure to meaningful, enterprise technology projects</li>\n<li>Supportive, collaborative team culture focused on growth and innovation</li>\n<li>Opportunity to work with emerging AI technologies and innovative automation solutions</li>\n<li>Be part of a values-driven organisation committed to delivering exceptional outcomes for clients across Australia</li>\n<p>&nbsp;</p>\n</ul>",
+      "keywords": [
+        "service",
+        "delivery",
+        "manager",
+        "ongc"
+      ]
+    },
+    {
+      "job_id": "95542375",
+      "job_title": "IT Support Analyst",
+      "business_name": "Palm Lake Group",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95542375",
+      "advertiser_id": "400234618",
+      "posted_date": "2026-10-28T03:43:10Z",
+      "job_description": "<p><strong>About Us</strong><br>Established in 1977, Palm Lake Group is a proudly Australian, family-owned business with extensive experience in developing, constructing, and managing Lifestyle Resorts, Retirement Villages, and Aged Care Facilities across Australia. Our resorts aren't just places to live they're vibrant, active communities designed for comfort, connection, and enjoyment.<br> <br>Join us in redefining over-50s living.<br> <br><strong>Position Details</strong><br>We are seeking an experienced and customer-focused IT Support Analyst to join our IT team based at our Southport Head Office. Supporting staff across Palm Lake Group's operations in Queensland, New South Wales, and Victoria, you will provide Level 1 and Level 2 IT support, resolve technical issues, manage service requests, and help deliver reliable and secure IT services across the business. This is a full-time permanent position reporting to the IT Business Partner.<br> <br><strong>Responsibilities</strong></p><ul><li>Provide Level 1 and Level 2 IT support to staff across Palm Lake Group.</li><li>Log, track, and manage incidents and service requests through ServiceNow.</li><li>Troubleshoot hardware, software, Microsoft 365, connectivity, and device issues.</li><li>Configure and deploy laptops, desktops and mobile devices using Microsoft Intune.</li><li>Manage user accounts, access and permissions across Active Directory and Microsoft Entra ID.</li><li>Develop and maintain IT documentation, user guides, and support resources.</li><li>Assist with IT projects, equipment rollouts, relocations, and system improvements.</li><li>Provide onsite support at Palm Lake Group locations as required.</li><li>Work closely with internal stakeholders and external IT partners to resolve issues and improve service delivery.</li><li>Contribute to continuous improvement of IT processes, systems, and user experience.</li></ul><p><strong>What We're Looking For:</strong><br>To succeed in this role, you'll bring:</p><ul><li>3+ years experience in an IT Service Desk, Help Desk, or IT Support role.</li><li>Experience using ServiceNow or a similar IT Service Management (ITSM) platform.</li><li>Strong troubleshooting skills across Windows, Microsoft 365, printers, mobile devices, and business applications.</li><li>Hands-on experience with Microsoft Intune, Active Directory and Microsoft Entra ID.</li><li>Understanding of Microsoft 365 administration and end-user support.</li><li>Knowledge of cybersecurity best practices and secure account management.</li><li>Excellent customer service and communication skills.</li><li>Strong organisational skills with the ability to manage multiple priorities.</li><li>A positive, team-focused attitude with a willingness to learn and adapt.</li><li>Ability to travel locally and interstate on occasion to support Palm Lake Group operations.</li></ul><p><strong>Why Join Us?</strong><br>At Palm Lake, we pride ourselves on offering exceptional lifestyle communities and providing our staff with a supportive and rewarding work environment. We offer our team:</p><ul><li>Competitive Remuneration</li><li>Free Parking in Southport CBD</li><li>Work-life Balance with flexible working hours (Between 7am-5pm, Mon to Fri)</li><li>24/7 free access to compassionate, confidential support with our Employee Assistance Program (EAP)</li><li>Celebrate Milestones with tenure rewards!</li><li>Supportive team culture - Be part of a vibrant and inclusive team where your contributions are valued</li><li>Career Opportunities - Palm Lake Group spans 4 entities, 27 lifestyle resort communities and 7 aged care facilities across Australia's east coast, from development &amp; construction to resort management &amp; aged care, the career pathways and opportunities with Palm Lake Group are truly endless.</li></ul><p><strong>How to Apply</strong><br>If you are an experienced, enthusiastic &amp; customer focused IT Support professional, we would love to hear from you.<br> <br>The recruitment process will commence as applications are received, so don't delay in submitting your CV if this sounds like the role for you!<br><br><em>Only shortlisted applicants will be contacted.</em></p>",
+      "keywords": [
+        "it",
+        "support",
+        "analyst"
+      ]
+    },
+    {
+      "job_id": "95535937",
+      "job_title": "Senior Data Analyst - Part Time",
+      "business_name": "City of Gold Coast",
+      "work_type": "Contract/Temp",
+      "job_type": "Other",
+      "pay_range": "From $111,401 Pro rata - Plus Superannuation",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95535937",
+      "advertiser_id": "16652581",
+      "posted_date": "2026-10-28T00:36:47Z",
+      "job_description": "<ul> <li><strong>Fixed term Part time / 12 hours </strong></li> <li> <strong>Salary: </strong>From $111,401 Pro rata plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG2245/assets/32751372\">Senior Data Analyst</a> </li> </ul> <p><strong>About Strategy People &amp; Performance </strong></p> <p>We lead into the future by setting the strategic direction for our organisation through a deep understanding of our community and our people. We look beyond today to identify innovative opportunities, foster a high-performing culture, and champion safe and healthy work practices across the organisation. </p> <p><strong>About the role </strong></p> <p>We are seeking an experienced and detail-oriented Senior Data Analyst for a fixed term, part-time opportunity for 12 hours per week. This position will be job shared with another incumbent making up 36 hours. This is a fixed term, part-time opportunity until October 2027. Working days are flexible.</p> <p>The role is responsible for designing, developing, and implementing reporting and dashboard solutions that support data-driven decision-making across the organisation.</p> <p>The position will require strong technical expertise in data analytics with a deep understanding of business processes and data needs. The analyst collaborates closely with stakeholders to translate complex data into meaningful insights that inform strategic and operational outcomes.</p> <p><strong>Key Deliverables</strong></p> <ul> <li>Build a deep understanding of the Planning, Regulation and Service business, including their data, systems and processes, to recommend and tailor analytics solutions</li> <li>Design, develop and maintain automated reports and dashboards that clearly communicate business insights</li> <li>Use Power BI, DAX, Power Query, SQL, and other analytics tools to extract, transform, combine and analyse data from corporate systems and other sources</li> <li>Present insights through charts, graphs, and other visuals</li> <li>Apply sound analytics methods, problem solving, critical thinking and strong communication</li> <li>Mentor and support team members to build their skills and foster a collaborative, innovative team</li> <li>Manage data analysis requests and priorities and collaborate with mentor team members</li> <li>Deliver tangible results that grow the City’s data-driven decision-making, in line with its high-performance principles</li> <li>Promote safety, wellbeing, and a culture of care and respect.</li> </ul> <p><strong>We’re looking for people who have: </strong></p> <ul> <li>A bachelor or postgraduate qualification in Data Analytics, Data Science or a related discipline, or equivalent relevant experience</li> <li>Strong, demonstrated technical expertise in data analytics, combined with a solid understanding of business processes and data needs</li> <li>The ability to work closely with internal customers and technical teams to deliver meaningful outcomes, while consistently applying best practice and achieving best value</li> <li>Experience or knowledge of Pathway ERP system and data desirable.</li> </ul> <p><strong>Why join us?</strong></p> <p>This is an opportunity to play a critical role in maintaining and improving the quality of Council's asset information, supporting the delivery of essential services to our community. You'll work within a collaborative team environment where innovation, continuous improvement, and professional growth are valued and encouraged. </p> <p><strong>How to apply</strong></p> <p>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p> <p><strong>Contact Person</strong> Jansen Croft</p> <p><strong>Contact Email</strong> <a href=\"mailto:jcroft@goldcoast.qld.gov.au\">jcroft@goldcoast.qld.gov.au</a></p> <p><strong>Closing Date</strong> Sunday 8 November 2026 @ 11:59pm AEST</p> <p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
+      "keywords": [
+        "data",
+        "analyst"
+      ]
+    },
+    {
+      "job_id": "95534582",
+      "job_title": "Service Desk Manager (Technical)",
+      "business_name": "Rec4Tech",
+      "work_type": "Full time",
+      "job_type": "Management",
+      "pay_range": "$110K - $130K + Super",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95534582",
+      "advertiser_id": "62309954",
+      "posted_date": "2026-10-27T23:28:51Z",
+      "job_description": "<strong>Gold Coast | Newly Created Position | Office-based leadership role &nbsp;</strong><br><br> We’re partnering with an established Gold Coast Managed Services Provider to find a technically strong people leader who can develop the team, improve service delivery and take ownership of the service desk’s performance.<br> <br><strong>MSP experience and full working rights in Australia are essential for this position.<br></strong><br> <strong>What’s in it for you?</strong><br> <ul> <li>A newly created position with scope to influence processes, standards and team development.</li> <li>An opportunity to step up from technical team leadership or bring your existing service desk management experience.</li> <li>A role that combines hands-on technical involvement with people leadership.</li> </ul> <strong>The opportunity</strong><br> This role brings together technical leadership, people development and service delivery. You’ll help shape how the service desk operates, establish clear expectations and build consistent practices that support both the team and its clients.<br><br> You’ll need to be comfortable coaching engineers, managing priorities and stepping into complex technical escalations. Working with the CTO, you’ll turn recurring issues into lasting improvements and help the team deliver reliable, well-documented support.<br><br> <strong>What you’ll be doing</strong><br> <ul> <li>Leading, coaching and developing technical staff, including supporting individual training and certification plans.</li> <li>Taking ownership of service desk priorities, ticket quality, escalations and SLA performance.</li> <li>Providing senior technical guidance and helping resolve complex infrastructure, cloud, networking and security issues.</li> <li>Reviewing ageing and reopened tickets, identifying recurring problems and driving permanent fixes.</li> <li>Improving documentation, troubleshooting practices and communication with clients.</li> <li>Overseeing patch compliance, backup reliability and scheduled restore testing.</li> <li>Working with the CTO to agree performance targets and review progress quarterly.</li> <li>Supporting major incidents and scheduled changes outside standard hours when required.</li> </ul> <strong>What you’ll bring</strong><br> You may currently be a Technical Team Lead, Service Desk Team Leader or Service Desk Manager. Your title matters less than your ability to lead people, make sound technical decisions and improve service delivery.<br> You will need:<br> <ul> <li><strong>Previous experience working within an MSP.</strong></li> <li><strong>Full working rights in Australia.</strong></li> <li>At least eight years’ experience in IT support and infrastructure, including three years in a senior escalation or technical lead role.</li> <li>At least two years’ experience leading or managing technical staff.</li> <li>Demonstrated success improving SLA performance and service quality in a ticket-driven environment.</li> <li>A calm, clear communication style and the ability to coach people constructively.</li> <li>A current driver’s licence, reliable transport and willingness to complete a National Police Check.</li> </ul> <strong>Your technical background</strong><br> You’ll bring strong troubleshooting capability across Microsoft and business infrastructure environments, with experience covering:<br> <ul> <li><strong>Microsoft Server and virtualisation:</strong> Active Directory, DNS, DHCP, Group Policy, RDS, file and print services, Hyper-V, VMware and/or Proxmox VE.</li> <li><strong>Modern workplace:</strong> Windows 11, Intune, Autopilot, Microsoft 365, Entra ID, Conditional Access and Defender.</li> <li><strong>Cloud infrastructure:</strong> Azure infrastructure, networking, identity integration and backup, plus AWS services such as EC2, VPC and IAM.</li> <li><strong>Networking:</strong> Routing, switching, VLANs, firewalls, VPNs, wireless and internet services.</li> <li><strong>Security and resilience:</strong> MFA, MDR, email security, system hardening, incident response, backup and disaster recovery.</li> </ul> Experience with ConnectWise PSA, NinjaOne, IT Glue, Sophos, Veeam or Datto BCDR will be highly regarded, as will Linux administration, scripting and automation, and relevant Microsoft, Cisco or ITIL certifications.<br> <br><strong>What success looks like</strong><br> Your impact will show through a more capable team, stronger client satisfaction, consistent SLA performance and fewer recurring issues. You’ll help create a service desk where tickets are owned, documentation is useful and engineers have a clear path to develop.<br> <br><strong>How to get involved…</strong><br> Ready to take your career to the next level? APPLY NOW! Submit your CV or contact Dean from rec4tech.jobs for a confidential chat at <a href=\"mailto:dean@rec4tech.jobs\">dean@rec4tech.jobs</a><br><br> <em>At Rec4Tech, we know that diversity isn't just important, it's what makes workplaces awesome!</em><br> <br><em>We don't care about labels like race, religion, gender identity, sexual orientation, age, or whether you prefer pineapple on pizza (no judgment here). What matters is your talent and passion. Need a tweak or two to make the application process work for you? No worries, let us know and we'll sort it out. Let's do this together!<br></em><br> Rec4Tech is managing this search exclusively. Please direct all queries to Deano.",
+      "keywords": [
+        "service",
+        "desk",
+        "manager",
+        "technical"
+      ]
+    },
     {
       "job_id": "95520292",
       "job_title": "Software Engineering Manager",
@@ -1021,24 +1098,6 @@
       ]
     },
     {
-      "job_id": "95171312",
-      "job_title": "Junior-Mid Full-Stack Developer",
-      "business_name": "LAPM",
-      "work_type": "Full time",
-      "job_type": "Engineering - Software",
-      "pay_range": "",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95171312",
-      "advertiser_id": "55028276",
-      "posted_date": "2026-10-09T07:21:00Z",
-      "job_description": "<p><strong>The Company</strong></p><p>LAPM specialises in providing top-tier legal practice management, technology and services to law firms across Australia.</p><p>Based on the Gold Coast and growing rapidly, we've built a strong reputation for solving real challenges faced by law firms — from software migrations and implementations to developing innovative legal technology products that make running a law firm easier.</p><p>We are preparing for the official launch of our new legal cloud platform. Designed specifically for Australian law firms, our product brings together matter management, documents, workflows, billing, trust accounting and more into one integrated platform.</p><p>We're looking for an enthusiastic and motivated <strong>Junior–Mid Full-Stack Developer</strong> to join our growing technology team at an exciting stage of our journey.</p><p>You'll help us build new features, improve existing functionality, resolve technical challenges and contribute to the ongoing development of a platform designed to make a genuine difference to how law firms operate.</p><p><strong>The Role</strong></p><p>As a Junior–Mid Full-Stack Developer, you'll work across our application stack, contributing to both frontend and backend development.</p><p>You'll be involved in building intuitive user interfaces, developing backend functionality, working with databases and supporting application testing and deployment. Working closely with our Lead Developer, you'll receive guidance, feedback and opportunities to develop your technical skills while taking ownership of your work.</p><p>We're a growing business with a practical, collaborative approach to development. You'll have the opportunity to see your work make a real impact, contribute ideas and help shape a product as it evolves.</p><p>The role offers flexible remote working, alongside regular collaboration days at our Gold Coast office.</p><p><strong>What You’ll Do</strong></p><ul><li><p><strong>Feature Development:</strong> Write clean, maintainable code to implement new features across the front-end and back-end.</p></li><li><p><strong>Bug Fixing &amp; Maintenance: </strong>Identify, troubleshoot, and resolve performance bottlenecks, UI glitches, and functional bugs, tracing issues to their root cause.</p></li><li><p><strong>Database Work:</strong> Write and optimise SQL queries and help ensure the accuracy of billing and accounting data.</p></li><li><p><strong>Testing:</strong> Write and maintain automated tests to keep our platform stable.</p></li><li><p><strong>Collaboration:</strong> Participate in code reviews, daily stand-ups, and brainstorming sessions to improve platform functionality.</p></li><li><p><strong>Documentation:</strong> Keep codebase documentation up to date to ensure seamless scaling as the team grows.</p></li></ul><p><strong>What We’re Looking For</strong></p><p>We're looking for someone with a solid foundation in software development, strong problem-solving skills and a genuine interest in building great software.</p><p>Ideally, you'll bring:</p><ul><li><p><strong>Experience:</strong> Approximately 2–4 years of experience developing web applications, whether commercially or through a strong portfolio of practical projects.</p></li><li><p><strong>Technical Skills:</strong> Experience with Python and/or TypeScript, with a willingness to work across both. Our technology stack includes Python (FastAPI), React / Next.js, TypeScript and PostgreSQL.</p></li><li><p><strong>Database Knowledge:</strong> Sound SQL skills, including the ability to understand, write and troubleshoot queries.</p></li><li><p><strong>Cloud Awareness:</strong> Familiarity with cloud platforms such as AWS, Microsoft Azure or Google Cloud.</p></li><li><p><strong>Problem-Solving:</strong> Strong analytical and debugging skills, with the ability to investigate issues, understand existing code and develop practical solutions.</p></li><li><p><strong>Code Quality:</strong> An understanding of clean coding principles, version control and good software development practices.</p></li><li><p><strong>Security Awareness:</strong> An appreciation of data privacy, application security and the importance of protecting sensitive client information.</p></li><li><p><strong>Communication &amp; Collaboration:</strong> The ability to communicate effectively, ask questions, receive feedback and work as part of a collaborative team.</p></li><li><p><strong>Working Rights:</strong> Full working rights in Australia.</p></li></ul><p>You don't need to know everything from day one. We're equally interested in your ability to learn, your approach to solving problems and your willingness to develop your skills.</p><p><strong>Nice-to-Haves</strong></p><p>Experience or exposure to any of the following would be advantageous:</p><ul><li><p>Automated testing frameworks and testing practices.</p></li><li><p>CI/CD pipelines, deployment processes and AWS infrastructure.</p></li><li><p>Accounting, billing, financial or other data-intensive software applications.</p></li><li><p>AI APIs, integrations or AI-assisted development tools.</p></li><li><p>Legal technology, fintech, cybersecurity or other industries where data accuracy and security are critical.</p></li></ul><p><strong>The Person</strong></p><p>Beyond your technical skills, we're looking for someone who enjoys building software, solving problems and being part of a team that takes pride in what it delivers.</p><p>You'll be someone who:</p><ul><li><p><strong>Enjoys solving problems</strong> — you're naturally curious, like understanding how things work and aren't afraid to investigate a challenge.</p></li><li><p><strong>Takes pride in your work</strong> — you care about writing quality code, getting the details right and delivering functionality that works as intended.</p></li><li><p><strong>Is keen to learn and grow</strong> — you're open to feedback, willing to ask questions and motivated to continually improve your technical skills.</p></li><li><p><strong>Shows initiative</strong> — you're comfortable working through problems independently while knowing when to seek guidance or collaborate with others.</p></li><li><p><strong>Thinks beyond the code</strong> — you understand that great software isn't just about technical functionality; it's about creating a better experience for the people using it.</p></li><li><p><strong>Works well with others</strong> — you're approachable, communicate clearly and enjoy contributing to a collaborative development environment.</p></li><li><p><strong>Embraces change</strong> — you're adaptable, open to new ideas and comfortable working in a growing business where priorities and opportunities evolve.</p></li><li><p><strong>Wants to make an impact</strong> — you're excited by the opportunity to contribute to a product, see your work come to life and help shape its future.</p></li></ul><p><strong>Most importantly, you'll care about what you're building and the people using it.</strong></p><p>We're not developing software for the sake of it. We're building technology that solves real problems for Australian law firms, and we want someone who shares that focus.</p><p><strong>Why LAPM?</strong></p><p><strong>Be part of something growing.</strong></p><p>You'll be joining an Australian technology company at an exciting stage, with the opportunity to contribute to the ongoing development and launch of our flagship software platform.</p><p><strong>Work on a real product with real impact.</strong></p><p>Your work won't disappear into a backlog of projects. You'll help build and improve software that law firms rely on to manage their day-to-day operations.</p><p><strong>Learn from experienced developers.</strong></p><p>You'll work closely with our Lead Developer, gaining practical experience, technical guidance and opportunities to develop your skills across a modern application stack.</p><p><strong>Have a voice in what we build.</strong></p><p>We're a collaborative team that values ideas, initiative and continuous improvement. You'll have opportunities to contribute to technical discussions, product enhancements and how we approach development.</p><p><strong>Enjoy flexibility and a supportive team.</strong></p><p>We offer flexible working arrangements, with regular opportunities to collaborate in person at our Gold Coast office.</p><p><strong>Grow with the business.</strong></p><p>As LAPM continues to expand, you'll have opportunities to broaden your experience, take on greater responsibility and grow your career alongside our technology team.</p><p>We're a practical, down-to-earth team. We work hard, support each other and take pride in delivering solutions that make a difference.</p><p>If you're looking for an opportunity to develop your skills, contribute to an exciting software product and be part of a growing Australian technology business, we'd love to hear from you.</p><p><strong>The Next Step</strong></p><p>If you're interested in this role and meet the criteria mentioned above, please click 'apply now.' We look forward to receiving your application and discussing how you can contribute to our team.</p>",
-      "keywords": [
-        "stack",
-        "developer"
-      ]
-    },
-    {
       "job_id": "95130549",
       "job_title": "Helpdesk Support Officer - Prep to Year 12",
       "business_name": "Trinity Lutheran College",
@@ -1159,25 +1218,6 @@
       "keywords": [
         "support",
         "technician"
-      ]
-    },
-    {
-      "job_id": "95075434",
-      "job_title": "Customer Service Trainer (QLD)",
-      "business_name": "Nexigen Digital",
-      "work_type": "Full time",
-      "job_type": "Other",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95075434",
-      "advertiser_id": "25685289",
-      "posted_date": "2026-10-06T02:18:38Z",
-      "job_description": "<div><p><strong>About Nexigen Digital</strong><br><br>We are Australia’s largest privately-owned group of online service providers, which includes brands such as VentraIP, Synergy Wholesale and Intaserve.</p><p><br></p><p>Every day, our all-Australian team delivers exceptional service and outstanding support to our 400,000+ customers who choose us for their domain names, website hosting and online presence.</p><p><br></p><p>Over the past seventeen years, we have been constant game-changers, industry innovators, award winners, and community leaders - and now is your chance to join our team.</p><p><br></p></div><br><div><p><strong>Joining our Customer Service team</strong></p><p><br>We are looking for people who have a real passion for training and coaching, and thrive on developing and improving the team. You will be responsible for all team member education and ongoing training under the guidance and direction of the Customer Service Manager.</p><p><br></p><p><strong>The position</strong></p><ul><li>Responsible for onboarding new employees.</li><li>Providing initial training and support.</li><li>Creating and maintaining documentation and training courses.</li><li>Performing ongoing training and providing constructive feedback to improve team members’ knowledge and performance.</li><li>Assisting with answering general questions from the team on the floor.<br><br></li></ul><p><strong>The right person (is it you?)</strong></p><p><br>We are looking for someone who is passionate about education, coaching, and empowering team members. While prior training experience is beneficial, a strong drive to support others and continuously improve team performance is essential.</p><p><br></p><p>To succeed in this role, we are looking for people with the following attributes:</p><ul><li>A passion for coaching, mentoring, and developing others.</li><li>Strong communication skills and the ability to explain complex topics clearly.</li><li>An enthusiastic and engaging approach to training.</li><li>Capability to adapt training methods to suit different learning styles.</li><li>A commitment to continuous improvement and team growth.<br><br></li></ul><p>Any previous experience in the following areas would be highly regarded:</p><ul><li>Designing and delivering onboarding and training courses.</li><li>Creating instructional documentation and educational materials.</li><li>Customer service and technical support best practices.</li><li>Assessing skills and providing constructive feedback.</li><li>Knowledge of web hosting, domains, and billing-related topics.<br><br></li></ul><p><strong>The Benefits of Working With the Nexigen Digital Team</strong></p><p><br>We pride ourselves on our unique facilities and team culture, and a top-down mandate to take care of the people who take care of our customers. There's a reason we were awarded “Employer of Choice” in the Australian Business Awards.</p><p><br></p><p>Some of the office perks include:</p><ul><li>A weekly selection of delicious meals prepared in our on-site kitchen for breakfast and lunch.</li><li>A fully-stocked snack bar featuring an assortment of chips, chocolates, nuts, protein bars and fresh fruit.</li><li>A drink fridge loaded with an assortment of soft drinks, juices and water.</li><li>A fully equipped private gym with weekly on-site personal training sessions.</li><li>A team wellness centre with a soundproof gaming stadium featuring an 85” 4K TV, racing car simulator, pinball machine, arcade machine, and air hockey table.</li><li>An on-site salon where our resident barber and stylist provide free haircuts on a regular basis.<br><br></li></ul><p>Please note that due to strict security requirements, the successful applicant will be required to complete a National Police Check as a condition of employment.</p><p><br></p><p><strong>If this sounds like you, submit your application today, and we look forward to speaking with you soon.</strong></p></div><br><br><p>PI<a href=\"tel:287508190\">287508190</a></p>",
-      "keywords": [
-        "customer",
-        "service",
-        "trainer"
       ]
     },
     {
@@ -1372,25 +1412,6 @@
       ]
     },
     {
-      "job_id": "94932499",
-      "job_title": "Project Delivery Coordinator",
-      "business_name": "Infinity Group Australia Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Programme & Project Management",
-      "pay_range": "$120,000 - $150,000 base + super, depending on exp",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94932499",
-      "advertiser_id": "34057721",
-      "posted_date": "2026-09-29T01:08:55Z",
-      "job_description": "<div><p><strong>Project Delivery Coordinator | Technology Projects </strong></p><p><strong>Location:</strong> Southport, Gold Coast | Mon-Fri (9am-5pm) | WFH 1 day per week post-probation </p><p><strong>Salary:</strong> $120,000 base + super</p><p><br></p><p><strong>12-Month Fixed Term Contract (with potential to transition to a permanent opportunity) </strong></p><p><br></p><p><strong>About the Role </strong></p><p>As Infinity continues to grow, so does our Technology team. We're looking for a <strong>Project Delivery Coordinator</strong> who is passionate about collaboration, thrives in a fast-paced environment, and enjoys helping turn great ideas into successful outcomes.</p><p>This is an exciting opportunity for someone who loves bringing structure to complexity, keeping teams aligned, and helping projects progress from concept to completion.</p><p><br></p><p>Working closely with our Project Managers and key business stakeholders, you'll play an important role in supporting the delivery of technology initiatives and maintaining momentum across multiple projects.</p><p><br></p><p>You'll gain exposure to a diverse portfolio of projects, including system enhancements, application implementations, cloud-based solutions, integrations, process improvement initiatives, and the rollout of a new ERP platform.</p><p>While this role focuses on project coordination and delivery support, it offers valuable exposure across the full project lifecycle and provides a strong pathway for future growth into Project Management.</p><p> </p><p><strong>About Infinity Group </strong></p><p>At Infinity Group, we exist to help everyday Australians conquer debt, build wealth, and create lasting financial freedom. Through our flagship Rapid Repay program, our average client pays off their home loan up to 20 years sooner and saves approximately $270,000 in interest. </p><p><br></p><p>What began as a personal vision has grown into one of Australia's most awarded financial services groups, built on education, driven by transformation, and backed by real results. As we continue to grow, founders Rebecca and Graeme Holm remain deeply connected to the business, ensuring our mission stays personal, powerful, and people-first. This is your opportunity to shape the content behind one of Australia's fastest-growing financial services and create stories that genuinely inspire action. </p><p><br></p><p><strong>What You'll Be Doing </strong></p><ul><li>Supporting Project Managers across multiple technology and business projects.</li><li>Coordinating project activities, schedules, documentation, reporting, and supporting compliance with project delivery, risk, and security requirements.</li><li>Tracking actions, dependencies, milestones, risks, and deliverables to ensure projects remain on track.</li><li>Monitoring project backlogs and assisting with delivery planning and prioritisation activities.</li><li>Assisting with software testing activities and supporting testing lifecycles.</li><li>Facilitating and coordinating project meetings, workshops, stakeholder reviews, project status updates, and milestone tracking to support successful project delivery.</li><li>Maintaining project documentation and collaborating with both technical and business stakeholders.</li><li>Supporting project budgeting, reporting, and delivery administration activities.</li></ul><p> </p><p><strong>What You'll Bring </strong></p><ul><li>2-3 years' experience supporting Project Managers in the delivery of technology, software, application, ERP, CRM, integration, or system enhancement projects.</li><li>Practical understanding of Agile, Scrum, and Waterfall methodologies, including the key attributes of each approach and when they are applied.</li><li>Experience working on software implementations, application enhancements, cloud-hosted solutions, or integration-based projects.</li><li>Strong stakeholder engagement and communication skills, with the confidence to work effectively across technical and business teams.</li><li>Understanding of software testing lifecycles and release processes.</li><li>Awareness of project budgeting, milestone tracking, reporting, and delivery administration activities.</li><li>A foundational understanding of risk management principles, data security requirements, risk framework definitions, and working within defined security boundaries.</li><li>Intermediate proficiency in Microsoft Project, Asana, Jira, and Confluence.</li><li>Strong organisational skills with the ability to manage competing priorities and deadlines.</li></ul><p><strong>Highly Regarded</strong></p><ul><li>Completion of introductory project delivery, project management, or Agile training courses.</li><li>Exposure to ERP implementation projects.</li><li><strong>Knowledge of mortgage, lending, financial services, or property purchasing lifecycles.</strong></li></ul><p><br></p><p><strong>Why Join Infinity? </strong></p><p>At Infinity, we don’t just change our clients’ lives, we change the lives of our people too. Here’s what joining our team means for you and your family: </p><ul><li><strong>Financial Empowerment </strong>– Free access to become an Infinity client, including support from our mortgage brokers, advisers, strategists, and relationship managers (who wouldn't love to pay off their home loan in under 10 years?!) </li><li><strong>Career Growth </strong>– Infinity has grown rapidly and we’re only getting started. With rapid growth comes rapid opportunity. </li><li><strong>Competitive Remuneration</strong> – We hire the best, and we reward the best. </li><li><strong>First-Class Onboarding </strong>– Includes an all-expenses-paid trip to our Real Estate Mastery (REM) event to immerse yourself into everything Infinity, a company iPhone and laptop, and a full company induction at our Gold Coast headquarters on day one. </li></ul><p> </p><p><strong>Ready to join us? </strong></p><p>If you’re looking for more than just a job - if you want to help everyday Australians build wealth and secure their financial future - then Infinity is the place for you. Submit your application today, or reach out directly to <strong>Hannah Oxley, Talent Acquisition Partner at Infinity Group</strong>, via LinkedIn if you have any questions. </p><p> </p><p>#LI-LB1 </p></div><br><div><p><br></p></div><br><br><p>PI<a href=\"tel:287363133\">287363133</a></p>",
-      "keywords": [
-        "project",
-        "delivery",
-        "coordinator"
-      ]
-    },
-    {
       "job_id": "94928199",
       "job_title": "Sharepoint Administrator",
       "business_name": "Peoplebank Australia QLD",
@@ -1406,44 +1427,6 @@
       "keywords": [
         "sharepoint",
         "administrator"
-      ]
-    },
-    {
-      "job_id": "94912207",
-      "job_title": "Engineering Team Lead - Formwork",
-      "business_name": "Acrow Formwork & Scaffolding Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Team Leaders",
-      "pay_range": "",
-      "area": "Stapylton, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94912207",
-      "advertiser_id": "26233013",
-      "posted_date": "2026-09-28T03:48:45Z",
-      "job_description": "<h2>The Opportunity</h2><p>We are seeking an experienced <strong>Formwork Team Leader</strong> to lead the engineering design, drafting and certification of formwork projects across Queensland.</p><p>This is a senior technical and leadership role suited to a <strong>Chartered Structural Engineer with substantial hands-on experience designing and certifying formwork, falsework and shoring systems</strong>.</p><p>You will lead a specialist engineering team while remaining actively involved in complex engineering work — reviewing project requirements, developing solutions, undertaking structural analysis, reviewing designs and providing engineering certification.</p><p>Our formwork projects regularly involve challenging geometries, significant loads, unusual support conditions and bespoke formwork arrangements. The role offers the opportunity to work on <strong>interesting, technically demanding building and civil infrastructure projects throughout Queensland</strong>.</p><h2></h2><h2>What You’ll Be Doing</h2><ul><li><p>Lead the engineering and drafting delivery of formwork projects in Queensland</p></li><li><p>Manage, mentor and provide technical direction to engineers, designers and drafters within the team</p></li><li><p>Design, analyse, review and <strong>certify formwork, falsework and shoring systems</strong></p></li><li><p>Undertake structural analysis and detailed engineering calculations for conventional and bespoke formwork arrangements</p></li><li><p>Develop practical engineering solutions for complex site constraints, concrete pours and construction sequences</p></li><li><p>Undertake and review <strong>FEA and frame analysis models</strong></p></li><li><p>Review Revit models, formwork layouts, engineering drawings and design documentation</p></li><li><p>Ensure designs comply with applicable Australian Standards, Codes of Practice and safety-in-design requirements</p></li><li><p>Provide technical support to project, sales and site teams</p></li><li><p>Liaise directly with clients regarding engineering requirements and technical solutions</p></li><li><p>Resolve complex engineering and site issues</p></li><li><p>Review and approve engineering documentation prior to issue</p></li><li><p>Support the technical development and mentoring of engineers and drafters within the wider engineering team</p></li></ul><h2></h2><h2>About You</h2><p>The successful candidate will have:</p><ul><li><p><strong>Chartered Professional Engineer (CPEng) status</strong></p></li><li><p>Degree in Civil or Structural Engineering</p></li><li><p><strong>Significant experience designing and certifying formwork, falsework and shoring systems – essential</strong></p></li><li><p>Strong structural engineering and temporary works design capability</p></li><li><p>Professional experience using Autodesk REVIT &amp; Autodesk AutoCAD</p></li><li><p>Strong experience using structural analysis / FEA software such as <strong>SpaceGass, Microstran, RSTAB or Strand7</strong></p></li><li><p>Strong understanding of Australian structural design standards and codes of practice</p></li><li><p>Demonstrated ability to undertake detailed structural calculations and independently verify complex designs</p></li><li><p>Experience leading, mentoring or technically supervising engineers, designers and drafters</p></li><li><p>Ability to develop practical solutions to unusual and technically challenging problems</p></li></ul><h2></h2><h2>Why Join Us?</h2><p>This is an opportunity to take a leading technical role within a major Australian formwork and temporary works engineering business.</p><p>You will work on a broad range of <strong>interesting and challenging formwork projects</strong>, with the opportunity to influence engineering solutions from initial concept through to final certification and site delivery.</p><p>The position combines <strong>technical engineering, design and drafting coordination, project leadership and people leadership</strong>, while allowing you to remain closely involved in the complex engineering work.</p><p>We offer a <strong>competitive salary package based on experience</strong>, strong technical support and the opportunity to work with a large national engineering team.</p><p><strong>T</strong>he role is based at our <strong>Stapylton, QLD office, supporting formwork projects throughout Queensland</strong>.</p><p>If you are an experienced Chartered Structural Engineer with specialist formwork design experience and are ready to lead technically challenging projects and a high-performing engineering and drafting team, we would like to hear from you.</p>",
-      "keywords": [
-        "engineering",
-        "team",
-        "formwork"
-      ]
-    },
-    {
-      "job_id": "94904121",
-      "job_title": "Business Graduate – Operations & AI",
-      "business_name": "ZWECK",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "",
-      "area": "Burleigh Heads, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94904121",
-      "advertiser_id": "55047529",
-      "posted_date": "2026-09-27T23:15:04Z",
-      "job_description": "<p><strong>About Us</strong>&nbsp;</p><p>Zweck is the internal Group Services division supporting a group of businesses across construction, insurance repairs and finance.&nbsp;</p><p>We are recruiting a Business Graduate to work within <strong>Roof Ninjas</strong>, our specialist metal roofing business. You will join a practical team spanning administration, estimating, supervision and eight tradespeople.&nbsp;</p><p>Across the broader group, we are using AI and automation to improve how our businesses operate. We value curiosity, ownership and people who are willing to test better ways of working.&nbsp;</p><p><strong>About the Role</strong>&nbsp;</p><p><strong>Learn how the business runs, take ownership of the work, then help us automate it.</strong>&nbsp;</p><p>This is a hands-on graduate role combining operations, administration and applied AI.&nbsp;</p><p>You will first learn and perform the day-to-day work that keeps Roof Ninjas moving. Once you understand a process and can manage it reliably, you will help document, improve and automate it.&nbsp;</p><p><strong>Learn it. Do it. Automate it.</strong>&nbsp;</p><p>Key responsibilities include:&nbsp;</p><ul><li><p>Maintaining trade and job schedules&nbsp;</p></li></ul><ul><li><p>Collecting, checking and following up timesheets&nbsp;</p></li></ul><ul><li><p>Setting up jobs and preparing job packs&nbsp;</p></li></ul><ul><li><p>Maintaining project and compliance documentation&nbsp;</p></li></ul><ul><li><p>Supporting supervisors with administration and resourcing&nbsp;</p></li></ul><ul><li><p>Following up outstanding information and actions&nbsp;</p></li></ul><ul><li><p>Communicating with office staff, supervisors and trades&nbsp;</p></li></ul><ul><li><p>Documenting recurring processes&nbsp;</p></li></ul><ul><li><p>Identifying repetitive or error-prone work&nbsp;</p></li></ul><ul><li><p>Building and testing practical automations&nbsp;</p></li></ul><ul><li><p>Improving forms, templates and reporting&nbsp;</p></li></ul><ul><li><p>Monitoring automated processes and handling exceptions&nbsp;</p></li></ul><p>You may use tools such as Claude, ChatGPT, Claude Code, Codex, n8n, Power Automate, Quickbase and Microsoft 365.&nbsp;</p><p>The goal is not to automate work you do not understand. You will learn the process, become accountable for it and then find a better way to deliver it.&nbsp;</p><p><strong>About You</strong>&nbsp;</p><p>We are looking for a recent or soon-to-be graduate who is:&nbsp;</p><ul><li><p>Curious about how businesses operate&nbsp;</p></li></ul><ul><li><p>Organised, dependable and willing to follow things through&nbsp;</p></li></ul><ul><li><p>Comfortable performing detailed administrative work&nbsp;</p></li></ul><ul><li><p>An active user of AI tools&nbsp;</p></li></ul><ul><li><p>Interested in automation, systems and process improvement&nbsp;</p></li></ul><ul><li><p>Able to create structure when instructions are not perfect&nbsp;</p></li></ul><ul><li><p>Comfortable communicating with both office staff and tradespeople&nbsp;</p></li></ul><ul><li><p>Keen to take on real responsibility early in their career&nbsp;</p></li></ul><p>You do not need roofing or construction experience. We can teach you how the operation works.&nbsp;</p><p>Bonus points if you have:&nbsp;</p><ul><li><p>Built an automation, workflow or AI tool&nbsp;</p></li></ul><ul><li><p>Used Claude Code, Codex, n8n, Power Automate, Make or Zapier&nbsp;</p></li></ul><ul><li><p>Created a useful spreadsheet, dashboard, form or small application&nbsp;</p></li></ul><ul><li><p>A university, work or personal project you can show us&nbsp;</p></li></ul><p><strong>Apply Today</strong>&nbsp;</p><p>Please apply through SEEK with your resume and a short statement covering:&nbsp;</p><ul><li><p>Why this role interests you&nbsp;</p></li></ul><ul><li><p>How you currently use AI&nbsp;</p></li></ul><ul><li><p>Something you have built, improved or automated&nbsp;</p></li></ul><ul><li><p>An example of a repetitive task you would improve and how you would approach it&nbsp;</p></li></ul><p>We are not looking for a perfect background. We are looking for curiosity, initiative and someone who wants to learn how a business works before helping us build a better version of it.&nbsp;</p>",
-      "keywords": [
-        "business",
-        "operations",
-        "ai"
       ]
     }
   ]
