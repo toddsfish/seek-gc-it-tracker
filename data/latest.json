@@ -1,386 +1,386 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "region": "Gold Coast",
-  "scraped_at": "2026-10-29T09:44:02.656651+10:00",
-  "total_jobs": 54,
+  "scraped_at": "2026-10-30T09:43:08.819575+10:00",
+  "total_jobs": 51,
   "keywords": [
     {
       "term": "support",
       "count": 16,
-      "share": 0.2963
+      "share": 0.3137
     },
     {
       "term": "it",
-      "count": 14,
-      "share": 0.2593
+      "count": 13,
+      "share": 0.2549
     },
     {
       "term": "engineer",
       "count": 12,
-      "share": 0.2222
+      "share": 0.2353
     },
     {
       "term": "analyst",
-      "count": 9,
-      "share": 0.1667
+      "count": 7,
+      "share": 0.1373
     },
     {
       "term": "software",
       "count": 7,
-      "share": 0.1296
-    },
-    {
-      "term": "technician",
-      "count": 6,
-      "share": 0.1111
+      "share": 0.1373
     },
     {
       "term": "manager",
-      "count": 6,
-      "share": 0.1111
+      "count": 7,
+      "share": 0.1373
     },
     {
       "term": "desk",
       "count": 5,
-      "share": 0.0926
+      "share": 0.098
     },
     {
-      "term": "service",
+      "term": "technician",
       "count": 5,
-      "share": 0.0926
+      "share": 0.098
     },
     {
       "term": "developer",
       "count": 4,
-      "share": 0.0741
+      "share": 0.0784
     },
     {
       "term": "data",
       "count": 4,
-      "share": 0.0741
+      "share": 0.0784
     },
     {
       "term": "systems",
       "count": 4,
-      "share": 0.0741
+      "share": 0.0784
     },
     {
-      "term": "administrator",
+      "term": "service",
       "count": 4,
-      "share": 0.0741
+      "share": 0.0784
     },
     {
       "term": "business",
       "count": 3,
-      "share": 0.0556
+      "share": 0.0588
     },
     {
       "term": "technology",
       "count": 3,
-      "share": 0.0556
+      "share": 0.0588
     },
     {
       "term": "ai",
       "count": 3,
-      "share": 0.0556
+      "share": 0.0588
     },
     {
       "term": "network",
       "count": 3,
-      "share": 0.0556
+      "share": 0.0588
+    },
+    {
+      "term": "administrator",
+      "count": 3,
+      "share": 0.0588
     },
     {
       "term": "officer",
       "count": 3,
-      "share": 0.0556
+      "share": 0.0588
     },
     {
       "term": "specialist",
       "count": 3,
-      "share": 0.0556
-    },
-    {
-      "term": "technical",
-      "count": 3,
-      "share": 0.0556
+      "share": 0.0588
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.037
+      "share": 0.0392
     },
     {
       "term": "consultant",
       "count": 2,
-      "share": 0.037
+      "share": 0.0392
     },
     {
       "term": "cybersecurity",
       "count": 2,
-      "share": 0.037
+      "share": 0.0392
     },
     {
       "term": "cloud",
       "count": 2,
-      "share": 0.037
+      "share": 0.0392
     },
     {
       "term": "managed",
       "count": 2,
-      "share": 0.037
+      "share": 0.0392
     },
     {
       "term": "services",
       "count": 2,
-      "share": 0.037
+      "share": 0.0392
     },
     {
       "term": "help",
       "count": 2,
-      "share": 0.037
+      "share": 0.0392
     },
     {
       "term": "ongc",
       "count": 2,
-      "share": 0.037
+      "share": 0.0392
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.037
+      "share": 0.0392
+    },
+    {
+      "term": "technical",
+      "count": 2,
+      "share": 0.0392
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.037
+      "share": 0.0392
     },
     {
-      "term": "soc",
+      "term": "applications",
       "count": 2,
-      "share": 0.037
+      "share": 0.0392
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.037
+      "share": 0.0392
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "intelligence",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "manufacturing",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "associate",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "l2",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "application",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "sql",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "integrations",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0185
-    },
-    {
-      "term": "applications",
-      "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "account",
       "count": 1,
-      "share": 0.0185
-    },
-    {
-      "term": "field",
-      "count": 1,
-      "share": 0.0185
-    },
-    {
-      "term": "break",
-      "count": 1,
-      "share": 0.0185
-    },
-    {
-      "term": "fix",
-      "count": 1,
-      "share": 0.0185
-    },
-    {
-      "term": "goldcoast",
-      "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "prep",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "year",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
+    },
+    {
+      "term": "ict",
+      "count": 1,
+      "share": 0.0196
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0185
-    },
-    {
-      "term": "sharepoint",
-      "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
+    },
+    {
+      "term": "soc",
+      "count": 1,
+      "share": 0.0196
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "worker",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "quality",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "assurance",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "website",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "growth",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "projects",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "umbraco",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     },
     {
       "term": "cms",
       "count": 1,
-      "share": 0.0185
+      "share": 0.0196
     }
   ],
   "jobs": [
+    {
+      "job_id": "95589117",
+      "job_title": "ICT Applications Support Manager",
+      "business_name": "Neumann Steel",
+      "work_type": "Full time",
+      "job_type": "Management",
+      "pay_range": "$135000 + Superannuation",
+      "area": "Currumbin, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95589117",
+      "advertiser_id": "36874639",
+      "posted_date": "2026-10-29T22:43:33Z",
+      "job_description": "<p><strong>Why work for Neumann Steel?</strong><br>\nYou would be working for one of the most reputable family owned and operated companies first established on the Gold Coast over 50 years ago. We specialise in steel reinforcing and plastic accessory products in the QLD and NSW markets. Our highly integrated supply chain is supported by our experienced staff and a wealth of industry knowledge.<br>\n&nbsp;&nbsp;<br>\nWith a people-first mindset, Neumann Steel is dedicated to supporting the local community and fostering long-lasting relationships while delivering quality commercial and residential projects in the spirit of openness and honesty. We strive to build a rewarding, inclusive, and inspiring culture, with innovation at the forefront of mind.</p>\n<br><p>KEY RESPONSIBILITIES</p>\n\n<p>This role partners with internal customers to support growth in our AI tools and data and ongoing improvements in our current Tier 1 applications (excluding manufacturing ERP).&nbsp;<br>\n•&nbsp;&nbsp; &nbsp;Creation of a scope document to include what the business data requirements are and develop tools, either by yourself or a partner, to develop an app or AI tool. Link this with our data in our data warehouse through appropriate data governance and enterprise security.<br>\n•&nbsp;&nbsp; &nbsp;Understand Tier 1 applications and whether we are utilising the systems to their full advantage. Partner with the business and external vendors to optimise these systems. Systems could include Elmo (HRIS), Mex (Maintenance system), Micropay, Kronos (Time &amp; Attendance), Ellby (AP Scanning), Donesafe (Safety System) and any others.&nbsp;<br>\n•&nbsp;&nbsp; &nbsp;Submit projects to IT steering committee that may need approval for resources and priority planning. Follow project management processes starting with project scoping, project updates, to project completion including implementation and change control. Give updates to the steering committee on project progress and any issues or project closures. Once a quarter choose submit projects based on business need and initial scoping.<br>\n•&nbsp;&nbsp; &nbsp;Get users out of spreadsheets and using the data warehouse to work for us and not against us. Scope process improvements with system improvements.<br>\n•&nbsp;&nbsp; &nbsp;Work with Data &amp; AI team to optimise what we include in the data warehouse and how we can utilise the data to improve performance. Whether performance is a new App, saving time on spreadsheets or work arounds outside of the system.<br>\n•&nbsp;&nbsp; &nbsp;Solve business problems through automation and applications development/deployment via a systematic approach of process mapping of current to future state positions.<br>\n•&nbsp;&nbsp; &nbsp;Define and implement strategies to improve practices and engagement across the whole business, drive change management, and add value to departmental projects.<br>\n•&nbsp;&nbsp; &nbsp;Build and maintain strong client relationships both internally and externally and constantly assess customer feedback to provide guidance and assistance on improvements to IT service delivery.<br>\n•&nbsp;&nbsp; &nbsp;Review Applications landscape for better leverage of available assets or cost savings opportunities. Utilise data warehouse to de-commission systems no longer needed.<br>\n•&nbsp;&nbsp; &nbsp;Support Managers to manage performance outcomes and reviews.</p>\n<br><p>QUALIFICATIONS/KNOWLEDGE &amp; EXPERIENCE</p>\n\n<p>•&nbsp;&nbsp; &nbsp;Proven relevant working experience in a similar role.<br>\n•&nbsp;&nbsp; &nbsp;Continuous improvement mentality.<br>\n•&nbsp;&nbsp; &nbsp;Planning and project management skills.<br>\n•&nbsp;&nbsp; &nbsp;Can critically assess business issues and formulate IT driven solutions.<br>\n•&nbsp;&nbsp; &nbsp;Ability to see the bigger pITure but also roll up their sleeves and own project initiatives from start to completion.<br>\n•&nbsp;&nbsp; &nbsp;Strong knowledge of IT systems and applications and ability to engage productively with vendors.<br>\n•&nbsp;&nbsp; &nbsp;Excellent communication and interpersonal skills through written and oral communications.<br>\n•&nbsp;&nbsp; &nbsp;Can work with people at all levels of the business; not afraid to walk the floor to get feedback.<br>\n•&nbsp;&nbsp; &nbsp;Ability to prioritise tasks, problem-solve and work and learn autonomously and in a team.<br>\n•&nbsp;&nbsp; &nbsp;Relevant tertiary or equivalent qualifications preferred.</p>",
+      "keywords": [
+        "ict",
+        "applications",
+        "support",
+        "manager"
+      ]
+    },
     {
       "job_id": "95562258",
       "job_title": "IT Support Engineer, Level 2 - ONGC",
@@ -945,25 +945,6 @@
       ]
     },
     {
-      "job_id": "95295398",
-      "job_title": "Senior Technical Support Analyst",
-      "business_name": "Southern Cross University",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95295398",
-      "advertiser_id": "15012749",
-      "posted_date": "2026-10-15T11:42:50Z",
-      "job_description": "<div><div>\n<ul>\n<li>Hands on AV support across teaching and meeting spaces</li>\n<li>Troubleshoot modern AV and Microsoft Teams technologies</li>\n<li>Enhance the technology experience for staff and students</li>\n</ul>\n<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing Southern Cross Model brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity </strong></p>\n<p>Technology plays a vital role in how we teach, learn and connect. At Southern Cross University, we're looking for a Senior Technical Support Analyst with strong audiovisual (AV) expertise to ensure our teaching spaces, meeting rooms and collaborative environments work seamlessly.</p>\n<p>This is a hands-on role for someone who enjoys solving technical challenges, supporting people and making technology work when it matters most. From troubleshooting AV systems in teaching rooms to supporting Microsoft Teams meetings, presentations and conferencing facilities, you'll help staff and students get the most from the technology around them.</p>\n<p>You'll work across our university campuses, providing specialist technical support for AV equipment, meeting room systems and associated technologies. You'll also contribute to system improvements, preventative maintenance, technical documentation and the resolution of complex issues, working with colleagues and vendors to deliver reliable, high-quality support.</p>\n<p>If you're technically curious, customer-focused and enjoy being the person who can resolve a challenging problem, this is an opportunity to put your skills to work in a dynamic university environment.</p>\n<p>You will make an impact by:</p>\n<ul>\n<li> Providing hands on AV support across teaching rooms, meeting spaces and presentation environments</li>\n<li>Troubleshooting audiovisual, conferencing and Microsoft Teams meeting technologies</li>\n<li>Maintaining and improving AV systems through testing, updates and preventative checks</li>\n<li>Supporting staff and students with technical guidance, training and problem resolution</li>\n<li>Leading complex technical escalations and working with vendors to improve system reliability</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<p>You'll be an experienced technical support professional with a strong understanding of audiovisual technology and a practical, solutions-focused approach. You enjoy working directly with people, diagnosing problems under pressure and ensuring technology works reliably for teaching, meetings and events.</p>\n<p>You will be confident supporting AV and conferencing environments, including room-based presentation systems, Microsoft Teams meetings and integrated audio and video technologies. Experience with systems such as Q-SYS, Crestron or similar AV control platforms will be highly regarded.</p>\n<p>You bring the judgement to manage complex technical issues independently, communicate clearly with users and collaborate with other technical teams when problems require a broader solution. You'll also enjoy sharing your knowledge, helping colleagues develop their skills and identifying ways to prevent recurring issues.</p>\n<p>To succeed in this role, you will also need:</p>\n<ul>\n<li> Relevant IT, AV or electronics qualification, or equivalent experience</li>\n<li> Demonstrated experience in AV support, troubleshooting and user assistance</li>\n<li> Strong knowledge of conferencing platforms, AV equipment and system integration</li>\n<li> Excellent problem solving, communication and customer service skills </li>\n<li> A current driver’s license, willing to travel between campuses and a valid Working With Children Check&nbsp; </li>\n</ul>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the Gold Coast, Coffs Harbour and the Northern Rivers region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li> Full-time, continuing (permanent)</li>\n<li> Located at Coffs Harbour, NSW 2450. Relocation assistance is available, making it easier to join our regional communities </li>\n<li> HEW Level 7. The base salary ranges from $111,612 - $121,190 per annum, plus 17% employer’s contribution to superannuation. The total remuneration package is up to $141,792. </li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit Why work at Southern Cross University?</p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>Name: Vivian Cormier</p>\n<p>Email: <a href=\"mailto:Jobs@scu.edu.au\">Jobs@scu.edu.au</a></p>\n<p><strong>Applications close 11.30pm AEDT 29 October 2026.</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. &nbsp;Employer visa sponsorship is not available for this position. </p>\n<p>Applicants must apply online and attach a CV and cover letter. The cover letter must clearly address each selection criterion in the position description. Information to support you prepare your application is available on our website.&nbsp; &nbsp;</p>\n<p>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to <a href=\"mailto:jobs@scu.edu.au\">jobs@scu.edu.au</a>.<strong> </strong></p>\n<p>#LI-VC1</p>\n<p>#CH</p>\n<p>\nPosition Description Opens in new window\n</p>\n</div></div>",
-      "keywords": [
-        "technical",
-        "support",
-        "analyst"
-      ]
-    },
-    {
       "job_id": "95281959",
       "job_title": "OpenMage/Magento Full-Stack Developer",
       "business_name": "Tradezone Pty Ltd",
@@ -1368,65 +1349,6 @@
         "it",
         "support",
         "engineer"
-      ]
-    },
-    {
-      "job_id": "94942522",
-      "job_title": "SOC Analyst",
-      "business_name": "Secure Internet Storage Solutions",
-      "work_type": "Full time",
-      "job_type": "Security",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94942522",
-      "advertiser_id": "30645551",
-      "posted_date": "2026-09-29T05:51:35Z",
-      "job_description": "<p><strong>Senior SOC Analyst </strong>- Gold Coast (Southport)</p><p>Secure-ISS is a Gold Coast-headquartered MSSP delivering 24/7 SOC, detection engineering and incident response to organisations across Australia. We're hiring an experienced analyst to lead investigations, drive detection engineering and help shape how our SOC operates.</p><p>This role reports to the Security Operations Manager.</p><p><br></p><p><strong>What you'll own</strong></p><p>- Lead response on escalated incidents end to end: scoping, containment, eradication, and client communication through to close-out</p><p>- Build and tune detections in IBM QRadar and SentinelOne.</p><p>- Maintain runbooks.</p><p>- Act as escalation point and mentor for L1/L2 analysts, and drive improvements to triage processes</p><p>- Support client security uplift, including Essential Eight assessment and remediation work</p><p>- Translate findings into clear reporting for both technical staff and executive audiences</p><p><br></p><p><strong>What you bring</strong></p><p>- 3+ years in a SOC, including time as an escalation point and incident responder</p><p>- Hands-on SIEM and EDR experience</p><p>- Solid Windows and Active Directory attack/defence knowledge (Sysmon, event log analysis, process injection, persistence, etc.)</p><p>- Strong written communication: you can brief a sysadmin and a board member in the same afternoon</p><p>- Willingness to work a rotating roster including weekends and after-hours</p><p><br></p><p><strong>Nice to have</strong></p><p>- Degree in IT/Cyber, or relevant certifications</p><p>- Scripting and automation: PowerShell, Python, and SOAR/workflow tooling</p><p>- MSSP or multi-tenant environment experience</p><p>- Familiarity with the ASD Essential Eight and Australian compliance landscape</p><p><br></p><p><strong>What we offer</strong></p><p>- Competitive salary and allowances, based on skills and experience</p><p>- Mobile phone and laptop provided</p><p>- Hybrid working arrangements</p><p>- Genuine input into detection strategy, automation and SOC processes</p><p>- Based in Southport on the Gold Coast</p><p>Start date flexible for the right candidate. If this sounds like your next move, click Apply.</p>",
-      "keywords": [
-        "soc",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "94942698",
-      "job_title": "Field Service Technician (IT Break/Fix) - Goldcoast",
-      "business_name": "Infinet Service Logistics",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94942698",
-      "advertiser_id": "38754174",
-      "posted_date": "2026-09-29T05:30:33Z",
-      "job_description": "<h2><strong>About the Role</strong></h2><p>Infinet Service Logistics is seeking motivated and customer focused <strong>Field Service Technicians</strong> to join our Gold Coast team.</p><p>You will provide onsite break/fix, repair, maintenance and support services for laptops, desktops, monitors, peripherals and other ICT equipment across commercial and enterprise customer environments.</p><h2><strong>Key Responsibilities</strong></h2><ul><li><p>Diagnose and repair IT hardware faults onsite.</p></li><li><p>Replace and configure laptops, desktops, monitors and peripherals.</p></li><li><p>Perform installations, upgrades and equipment swaps.</p></li><li><p>Manage spare parts and vehicle stock.</p></li><li><p>Complete service documentation accurately and on time.</p></li><li><p>Meet customer SLAs including 2-hour, 4-hour and Next Business Day response requirements.</p></li><li><p>Deliver outstanding customer service.</p></li></ul><h2><strong>About You</strong></h2><h2><strong>Essential</strong></h2><ul><li><p>Previous experience in IT field services, desktop support or break/fix environments.</p></li><li><p>Strong troubleshooting and diagnostic skills.</p></li><li><p>Excellent communication and customer service skills.</p></li><li><p>Ability to work independently and manage a mobile workload.</p></li><li><p>Current Australian Driver's Licence.</p></li><li><p>Full working rights in Australia.</p></li></ul><h2><strong>Preferred</strong></h2><ul><li><p>Experience repairing laptops and desktop hardware.</p></li><li><p><strong>Lenovo repair and warranty service experience highly regarded.</strong></p></li><li><p>Experience with enterprise IT support environments.</p></li><li><p>Technical or IT qualifications.</p></li></ul><h2><strong>What We Offer</strong></h2><ul><li><p><strong>Full time or contractor opportunities available</strong></p></li><li><p>Brisbane based role with local travel.</p></li><li><p>Ongoing technical training and development.</p></li><li><p>Supportive team environment.</p></li><li><p>Opportunity to work with leading enterprise technology customers.</p></li></ul><p>If you're a hands on IT technician who enjoys solving technical problems and delivering excellent customer service, we'd love to hear from you.</p><p><strong>Apply now and join the Infinet Field Services team.</strong></p>",
-      "keywords": [
-        "field",
-        "service",
-        "technician",
-        "it",
-        "break",
-        "fix",
-        "goldcoast"
-      ]
-    },
-    {
-      "job_id": "94928199",
-      "job_title": "Sharepoint Administrator",
-      "business_name": "Peoplebank Australia QLD",
-      "work_type": "Contract/Temp",
-      "job_type": "Networks & Systems Administration",
-      "pay_range": "AUD 120000 - 125000 per annum, including super",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94928199",
-      "advertiser_id": "28936124",
-      "posted_date": "2026-09-28T19:44:06Z",
-      "job_description": "Job title: Sharepoint Administrator<br>12 Month Fixed term contract<br>Annual salary: $125k including super<br>Loation: Gold coast (hybrid)<br><br> <strong>As the selected candidate, you will:</strong><br><ul><li>Lead the redesign and optimisation of the SharePoint Online environment, including site structures, libraries, and document management practices.</li><li>Drive governance, data, and document management, along with migration and archiving initiatives to streamline information flow.</li><li>Collaborate with stakeholders across the business to improve collaboration, security, and information management practices.</li><li>Manage permissions, access controls, and site ownership to ensure compliance with governance standards.</li><li>Support the migration of business data from legacy systems and network drives into secure, well-structured SharePoint solutions.</li><li>Establish and enforce governance standards such as naming conventions, retention policies, and document management protocols.</li></ul><strong>To be successful in this role you should have:</strong><br><ul><li>Strong hands-on experience administering SharePoint Online.</li><li>Proven ability to manage permissions, site structures, and information architecture.</li><li>Knowledge of governance, retention, compliance, and document management best practices.</li><li>Experience with file migrations, permissions management, and security protocols.</li><li>Exposure to tools such as Microsoft Purview, Data Loss Prevention (DLP), PowerShell, Teams, OneDrive, or Azure Files will be highly regarded.</li></ul>Please reach out to have a confidential chat and reference #272341- <a href=\"mailto:mangal.kadam@peoplebank.com.au\">mangal.kadam@peoplebank.com.au</a>/<a href=\"tel:7 3003 7693\">7 3003 7693</a><br><br><br><br><br><strong>Peoplebank</strong> and <strong>Leaders IT</strong> are committed to creating a diverse and inclusive workplace where everyone belongs. We welcome applications from people of all backgrounds, identities, and experiences. If you need adjustments to the recruitment process due to your circumstances, please let us know—we’re here to support you.",
-      "keywords": [
-        "sharepoint",
-        "administrator"
       ]
     }
   ]
