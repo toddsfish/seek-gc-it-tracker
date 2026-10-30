@@ -1,373 +1,434 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "region": "Gold Coast",
-  "scraped_at": "2026-10-30T09:43:08.819575+10:00",
-  "total_jobs": 51,
+  "scraped_at": "2026-10-31T09:22:42.778228+10:00",
+  "total_jobs": 50,
   "keywords": [
     {
       "term": "support",
-      "count": 16,
-      "share": 0.3137
+      "count": 17,
+      "share": 0.34
     },
     {
       "term": "it",
-      "count": 13,
-      "share": 0.2549
+      "count": 12,
+      "share": 0.24
     },
     {
       "term": "engineer",
-      "count": 12,
-      "share": 0.2353
+      "count": 10,
+      "share": 0.2
     },
     {
       "term": "analyst",
       "count": 7,
-      "share": 0.1373
+      "share": 0.14
     },
     {
       "term": "software",
       "count": 7,
-      "share": 0.1373
+      "share": 0.14
     },
     {
-      "term": "manager",
-      "count": 7,
-      "share": 0.1373
+      "term": "developer",
+      "count": 5,
+      "share": 0.1
     },
     {
       "term": "desk",
       "count": 5,
-      "share": 0.098
+      "share": 0.1
     },
     {
       "term": "technician",
       "count": 5,
-      "share": 0.098
+      "share": 0.1
     },
     {
-      "term": "developer",
-      "count": 4,
-      "share": 0.0784
+      "term": "manager",
+      "count": 5,
+      "share": 0.1
     },
     {
-      "term": "data",
+      "term": "business",
       "count": 4,
-      "share": 0.0784
+      "share": 0.08
     },
     {
-      "term": "systems",
+      "term": "officer",
       "count": 4,
-      "share": 0.0784
+      "share": 0.08
     },
     {
       "term": "service",
       "count": 4,
-      "share": 0.0784
-    },
-    {
-      "term": "business",
-      "count": 3,
-      "share": 0.0588
-    },
-    {
-      "term": "technology",
-      "count": 3,
-      "share": 0.0588
+      "share": 0.08
     },
     {
       "term": "ai",
       "count": 3,
-      "share": 0.0588
+      "share": 0.06
     },
     {
       "term": "network",
       "count": 3,
-      "share": 0.0588
+      "share": 0.06
     },
     {
-      "term": "administrator",
+      "term": "systems",
       "count": 3,
-      "share": 0.0588
+      "share": 0.06
     },
     {
-      "term": "officer",
+      "term": "data",
       "count": 3,
-      "share": 0.0588
+      "share": 0.06
     },
     {
       "term": "specialist",
       "count": 3,
-      "share": 0.0588
+      "share": 0.06
     },
     {
-      "term": "solution",
+      "term": "technology",
       "count": 2,
-      "share": 0.0392
+      "share": 0.04
     },
     {
       "term": "consultant",
       "count": 2,
-      "share": 0.0392
+      "share": 0.04
     },
     {
       "term": "cybersecurity",
       "count": 2,
-      "share": 0.0392
+      "share": 0.04
     },
     {
       "term": "cloud",
       "count": 2,
-      "share": 0.0392
+      "share": 0.04
     },
     {
       "term": "managed",
       "count": 2,
-      "share": 0.0392
+      "share": 0.04
     },
     {
       "term": "services",
       "count": 2,
-      "share": 0.0392
+      "share": 0.04
     },
     {
       "term": "help",
       "count": 2,
-      "share": 0.0392
+      "share": 0.04
+    },
+    {
+      "term": "administrator",
+      "count": 2,
+      "share": 0.04
     },
     {
       "term": "ongc",
       "count": 2,
-      "share": 0.0392
+      "share": 0.04
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.0392
+      "share": 0.04
+    },
+    {
+      "term": "application",
+      "count": 2,
+      "share": 0.04
     },
     {
       "term": "technical",
       "count": 2,
-      "share": 0.0392
+      "share": 0.04
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0392
-    },
-    {
-      "term": "applications",
-      "count": 2,
-      "share": 0.0392
+      "share": 0.04
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0392
+      "share": 0.04
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
+    },
+    {
+      "term": "solution",
+      "count": 1,
+      "share": 0.02
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "intelligence",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "manufacturing",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
-      "term": "associate",
+      "term": "golang",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "l2",
       "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "application",
-      "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "sql",
-      "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "integrations",
-      "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "coordinator",
-      "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "account",
-      "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "helpdesk",
-      "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "prep",
-      "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "year",
-      "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
+    },
+    {
+      "term": "coordinator",
+      "count": 1,
+      "share": 0.02
+    },
+    {
+      "term": "sql",
+      "count": 1,
+      "share": 0.02
+    },
+    {
+      "term": "integrations",
+      "count": 1,
+      "share": 0.02
+    },
+    {
+      "term": "applications",
+      "count": 1,
+      "share": 0.02
+    },
+    {
+      "term": "account",
+      "count": 1,
+      "share": 0.02
+    },
+    {
+      "term": "helpdesk",
+      "count": 1,
+      "share": 0.02
+    },
+    {
+      "term": "prep",
+      "count": 1,
+      "share": 0.02
+    },
+    {
+      "term": "year",
+      "count": 1,
+      "share": 0.02
+    },
+    {
+      "term": "partner",
+      "count": 1,
+      "share": 0.02
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
-      "term": "product",
+      "term": "infrastructure",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "soc",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "worker",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "quality",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "assurance",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "website",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "growth",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "projects",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "umbraco",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     },
     {
       "term": "cms",
       "count": 1,
-      "share": 0.0196
+      "share": 0.02
     }
   ],
   "jobs": [
     {
+      "job_id": "95608147",
+      "job_title": "ICT Support Officer",
+      "business_name": "St Hilda's School",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95608147",
+      "advertiser_id": "20420790",
+      "posted_date": "2026-10-30T09:04:58Z",
+      "job_description": "<p><strong>ICT Support Officer</strong></p><p><strong>St Hilda’s School | Gold Coast | Queensland</strong></p><p><strong>Full Time Term Time Plus One Week Each Holiday Period</strong></p><p><strong>Monday to Friday 38 hours/week</strong></p><p><strong>Commencing: January 2027</strong></p><p>St Hilda’s School is seeking a customer-focused ICT Support Officer to join our Information, Communication and Technology team. Reporting to the Head of Information Technology, you will provide Level 1 and Level 2 helpdesk and technical support to staff and students,&nbsp;end-user device support, hardware and software troubleshooting, classroom audio-visual (AV) support and assistance during school events, while&nbsp;helping to ensure a reliable and secure technology experience across the School community.</p><p><strong>About the role</strong></p><ul> <li>Deliver responsive helpdesk support by phone, email, ticketing system, and in person, diagnosing and resolving hardware and software faults</li> <li>Deploy, configure, and maintain laptops, desktops, iPads, and mobile devices across Windows and Apple environments</li> <li>Support endpoint management, including device enrolment, application deployment, and security policies through Microsoft Intune, JAMF, or SCCM</li> <li>Assist with user account management across Active Directory, Microsoft Entra ID, and Microsoft 365</li> <li>Support printing infrastructure, classroom audio-visual equipment, and technical, sound, and lighting requirements for assemblies and school events, including occasional work outside regular hours</li> <li>Maintain accurate hardware and software licence inventories and assist with endpoint security monitoring</li></ul><p><strong>About you</strong></p><ul> <li>Two to three years’ experience in an IT helpdesk or technical support role, ideally within a school environment</li> <li>Experience supporting Windows, macOS, and iOS platforms, with working knowledge of Microsoft Intune highly regarded</li> <li>Familiarity with hybrid environments, including Active Directory, Microsoft Entra ID, and Microsoft 365</li> <li>Practical experience setting up and troubleshooting classroom AV equipment and event sound systems</li> <li>Excellent communication skills, with the ability to explain technical concepts clearly to non-technical users</li> <li>A relevant IT qualification or industry certification (desirable)</li> <li>A genuine commitment to working within a faith-based girls’ school and a personal approach that reflects warmth, integrity, and the Christian ethos of St Hilda’s</li></ul><p><strong>About Us</strong></p><p>Located on Queensland’s Gold Coast, we are one of Australia’s leading independent Anglican Day and Boarding Schools for girls from Pre-Prep to Year 12. With an enviable reputation of excellence in girls’ education and world class facilities, St Hilda’s School has a long and proud history of outstanding academic achievement, grounded in strong Anglican Christian values.</p><p><strong>Selection Criteria:</strong></p><p><strong>1.&nbsp; </strong><strong>Helpdesk and technical support experience</strong></p><p>Demonstrated experience delivering ICT helpdesk support preferably within a school or enterprise environment, with strong diagnostic skills and a dedication to high-quality customer service.</p><p><strong>2.&nbsp; </strong><strong>Device and endpoint management (Microsoft Intune highly regarded)</strong></p><p>Proven experience deploying, configuring, and supporting Windows (10/11), macOS, and iOS platforms, with hands-on experience or working knowledge of endpoint management platforms such as Microsoft Intune (desirable), JAMF, or SCCM.</p><p><strong>3.&nbsp; </strong><strong>Server and cloud environment awareness</strong></p><p>Familiarity with hybrid operating environments, including basic user and device management within Active Directory, Microsoft Entra ID, and Microsoft 365.</p><p><strong>4.&nbsp; </strong><strong>Audio-visual and technical skills</strong></p><p>Practical experience setting up, operating, and troubleshooting classroom AV hardware, sound desks, and presentation systems for events.</p><p><strong>5.&nbsp; Communication and interpersonal skills</strong></p><p>Highly developed communication skills, with the ability to explain technical concepts clearly to non-technical users and to build positive relationships with staff, students, and external vendors.</p><p><strong>6.&nbsp; Alignment with School values and culture</strong></p><p>A genuine commitment to working within a faith-based girls’ school environment, with personal conduct that reflects warmth, integrity, and the values and Christian ethos of St Hilda’s.</p><p><strong>Why Join St Hilda’s School?</strong></p><p>Be part of a passionate values-driven community which embraces collaboration and innovation and supports staff wellbeing and professional growth. We are a community which promotes belonging and connectedness. We offer staff onsite parking, access to Fitness Passport, a comprehensive employee assistance program and professional development opportunities. Enjoy the convenience of an onsite co-located Early Learning Centre at very reasonable rates, providing peace of mind and proximity for staff with young families.</p><p>As a prospective member of the St Hilda’s Community, you must be willing to support the Code of Conduct and the stated values and Anglican Ethos of the School.</p><p><strong>Application Requirements</strong></p><p>Please submit the following:</p><ol> <li>&nbsp;A maximum two-page A4 written response (size 12 font) addressing the selection criteria</li> <li>A full Curriculum Vitae, including contact details for two professional referees</li></ol><p>Applications should be submitted by<strong> 8.00am Monday 16 November 2026. </strong></p><p>Applications will be reviewed as they are received. St Hilda’s School reserves the right to interview and appoint prior to the closing date. Applicants are encouraged to apply early.</p><p>Any questions about the position should be directed to Human Resources on <a href=\"mailto:hr@sthildas.qld.edu.au\">hr@sthildas.qld.edu.au</a> . Applications are to be submitted through the online recruitment platforms and not emailed directly.</p><p>&nbsp;</p><p>&nbsp;</p>",
+      "keywords": [
+        "ict",
+        "support",
+        "officer"
+      ]
+    },
+    {
+      "job_id": "95603564",
+      "job_title": "Senior Application Support",
+      "business_name": "Peoplebank Australia QLD",
+      "work_type": "Contract/Temp",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "Competitive",
+      "area": "Australia Fair, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95603564",
+      "advertiser_id": "28936124",
+      "posted_date": "2026-10-30T06:43:05Z",
+      "job_description": "<strong>Role:&nbsp; Senior Application Support<br></strong><strong>12 months initial contract, possible extension<br>Open to candidates in ACT, VIC, NSW, SA, TAS - Hybrid options<br>Must be Australian Citizen<br>NV1 Clearance is an advantage<br>-<br><br></strong>About the Role:<strong><br><br></strong>We’re seeking a <strong>Senior Application Support Analyst</strong> to join an enterprise applications support team, triaging and resolving incidents and service requests across <strong>SAP and/or Salesforce</strong>, managing escalations, and supporting release/testing cycles.<br><br><strong>Key responsibilities</strong><ul><li>Investigate, prioritise and resolve L1–L2 incidents/service requests via an ITSM tool using ITIL practices</li><li>Manage/escalate priority issues and coordinate with technical teams and vendors</li><li>Diagnose whether issues are system (IT) vs business-rule/process related</li><li>Perform data analysis and reporting including trend/root cause analysis in Excel</li><li>Support replication/testing (SIT/UAT/BVT) and assist with release activities</li><li>Mentor team members on support standards and best practice</li></ul><br><strong>Qualifications</strong><br><ul><li><strong>5+ years</strong> in an ICT/application support role</li><li>Experienced in&nbsp; supporting <strong>SAP or Salesforce</strong></li><li>Hands-on use of an <strong>ITSM platform</strong> and applying <strong>ITIL</strong> for incident management</li><li>Strong stakeholder engagement and communication skills</li><li>Interest in <strong>accessibility</strong> and inclusive design principles</li><li>Strong Excel-based analysis/reporting capability</li></ul><br>If interested, please apply to the advert or send your resume to <a href=\"mailto:trisha.bornasal@peoplebank.com.au\">trisha.bornasal@peoplebank.com.au</a>&nbsp;referencing job #272746.<br><br><em>Note: We may use Aida (AI-assisted screening) as part of the initial application screening process.</em><br><br><br><strong>Peoplebank</strong> and <strong>Leaders IT</strong> are committed to creating a diverse and inclusive workplace where everyone belongs. We welcome applications from people of all backgrounds, identities, and experiences. If you need adjustments to the recruitment process due to your circumstances, please let us know—we’re here to support you.",
+      "keywords": [
+        "application",
+        "support"
+      ]
+    },
+    {
+      "job_id": "95602620",
+      "job_title": "Infrastructure Support Engineer",
+      "business_name": "CFC Underwriting Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95602620",
+      "advertiser_id": "39105336",
+      "posted_date": "2026-10-30T06:11:35Z",
+      "job_description": "<strong>Description</strong><div>\n<strong><em>Are you a hands-on IT support professional who enjoys solving technical problems and delivering exceptional customer service?</em></strong>&nbsp;<br><br>\n</div><div>\n<em>We’re looking for a proactive and technically capable EUT Services &amp; Infrastructure Support Engineer to become the primary IT contact for our Gold Coast office and support colleagues across CFC Australia and Global Security Services (GSS).<br><br></em><strong>About the role:</strong>&nbsp;</div><div>This is an opportunity to take ownership of onsite technology support within our Gold Coast office while contributing to CFC’s global EUT operating model.&nbsp;<br><br>\n</div><div>You’ll work across Microsoft 365, identity and access management, endpoint technologies, networking, meeting room technology and office infrastructure. You’ll collaborate with experienced global teams while helping to improve the technology experience for colleagues across Australia.&nbsp;<br><br>\n</div><div>&nbsp;<br><strong>Why Join Us?</strong>&nbsp;<br>Working with CFC means joining a market‑leading, innovative underwriting team that values excellence, development, and collaboration. You’ll have access to meaningful professional growth opportunities, exposure to diverse risks and brokers, and the chance to strengthen your industry presence through events and networking. &nbsp;<br><br>\n</div><div>Our culture emphasises continuous improvement, teamwork, and a supportive environment that empowers you to succeed and progress in your underwriting career.&nbsp;<br><br>\n</div><div>\n<em><br></em><br>\n</div><br><br><strong>Responsibilities Include:</strong><ul>\n<li>Providing onsite, walk-up and remote IT support across CFC Australia and GSS&nbsp;</li>\n<li>Managing incidents and service requests through to resolution&nbsp;</li>\n<li>Supporting employee onboarding, offboarding, account administration and device deployment&nbsp;</li>\n<li>Administering Microsoft 365, Entra ID, MFA and endpoint technologies&nbsp;</li>\n<li>Troubleshooting devices, applications, networks, VPNs and meeting room technology&nbsp;</li>\n<li>Supporting local infrastructure and escalating complex issues to global teams&nbsp;</li>\n<li>Maintaining IT assets, documentation and operational procedures&nbsp;</li>\n<li>Supporting technology projects, change activities and service improvements&nbsp;</li>\n</ul><br><br><strong>About You:</strong><ul>\n<li>Experience in desktop support, End User Technology, infrastructure support or a similar role&nbsp;</li>\n<li>Hands-on experience with Microsoft 365, Entra ID and endpoint technologies&nbsp;</li>\n<li>Strong troubleshooting skills across Windows, macOS, Teams and networking&nbsp;</li>\n<li>Knowledge of Cisco, Meraki, Cato or similar technologies&nbsp;</li>\n<li>Experience working within ITIL-based service management processes&nbsp;</li>\n<li>Strong customer service, communication and problem-solving skills&nbsp;</li>\n<li>Ability to work independently while collaborating with global teams</li>\n</ul><br><br><strong>Why you'll love working at CFC:</strong><div>We are proud winners of Top Insurance Employers 2022, 2023 and 2024 and 5-Star Diversity, Equity &amp; Inclusion awards (Insurance Business Australia). All employees enjoy:&nbsp;</div><ul>\n<li>Our ‘Excellence Program’ encourages and rewards a culture of high-performing individuals and teams&nbsp;</li>\n<li>‘You Do You Day’ – an annual additional leave today to do something that brings you joy&nbsp;</li>\n<li>Commitment-free social club, with monthly in-office catch ups and quarterly events to get to know your colleagues better&nbsp;</li>\n<li>Annual end of financial year and end of calendar year events, in addition to social club arrangements&nbsp;</li>\n<li>Optional annual charity volunteering day, facilitated by us&nbsp;</li>\n<li>3 additional personal leave days per year – for whatever you need&nbsp;</li>\n<li>Flexible public holidays – to celebrate our diversity you can “Swap” 2 public holidays for a more culturally significant day to suit you&nbsp;</li>\n</ul><div><br></div><div>Applications will only be considered where you clearly explain in an application letter why you are a match for this role.  You must also include your resume.&nbsp;<br>&nbsp;</div><div>Applicants must be an Australian Citizen or Permanent Resident to apply for this role.&nbsp;<br>&nbsp;</div><div>Only shortlisted candidates will be contacted.&nbsp;</div>",
+      "keywords": [
+        "infrastructure",
+        "support",
+        "engineer"
+      ]
+    },
+    {
       "job_id": "95589117",
-      "job_title": "ICT Applications Support Manager",
+      "job_title": "IT Business Partner",
       "business_name": "Neumann Steel",
       "work_type": "Full time",
       "job_type": "Management",
-      "pay_range": "$135000 + Superannuation",
+      "pay_range": "",
       "area": "Currumbin, Gold Coast QLD",
       "region": "Gold Coast",
       "url": "https://www.seek.com.au/job/95589117",
@@ -375,10 +436,9 @@
       "posted_date": "2026-10-29T22:43:33Z",
       "job_description": "<p><strong>Why work for Neumann Steel?</strong><br>\nYou would be working for one of the most reputable family owned and operated companies first established on the Gold Coast over 50 years ago. We specialise in steel reinforcing and plastic accessory products in the QLD and NSW markets. Our highly integrated supply chain is supported by our experienced staff and a wealth of industry knowledge.<br>\n&nbsp;&nbsp;<br>\nWith a people-first mindset, Neumann Steel is dedicated to supporting the local community and fostering long-lasting relationships while delivering quality commercial and residential projects in the spirit of openness and honesty. We strive to build a rewarding, inclusive, and inspiring culture, with innovation at the forefront of mind.</p>\n<br><p>KEY RESPONSIBILITIES</p>\n\n<p>This role partners with internal customers to support growth in our AI tools and data and ongoing improvements in our current Tier 1 applications (excluding manufacturing ERP).&nbsp;<br>\n•&nbsp;&nbsp; &nbsp;Creation of a scope document to include what the business data requirements are and develop tools, either by yourself or a partner, to develop an app or AI tool. Link this with our data in our data warehouse through appropriate data governance and enterprise security.<br>\n•&nbsp;&nbsp; &nbsp;Understand Tier 1 applications and whether we are utilising the systems to their full advantage. Partner with the business and external vendors to optimise these systems. Systems could include Elmo (HRIS), Mex (Maintenance system), Micropay, Kronos (Time &amp; Attendance), Ellby (AP Scanning), Donesafe (Safety System) and any others.&nbsp;<br>\n•&nbsp;&nbsp; &nbsp;Submit projects to IT steering committee that may need approval for resources and priority planning. Follow project management processes starting with project scoping, project updates, to project completion including implementation and change control. Give updates to the steering committee on project progress and any issues or project closures. Once a quarter choose submit projects based on business need and initial scoping.<br>\n•&nbsp;&nbsp; &nbsp;Get users out of spreadsheets and using the data warehouse to work for us and not against us. Scope process improvements with system improvements.<br>\n•&nbsp;&nbsp; &nbsp;Work with Data &amp; AI team to optimise what we include in the data warehouse and how we can utilise the data to improve performance. Whether performance is a new App, saving time on spreadsheets or work arounds outside of the system.<br>\n•&nbsp;&nbsp; &nbsp;Solve business problems through automation and applications development/deployment via a systematic approach of process mapping of current to future state positions.<br>\n•&nbsp;&nbsp; &nbsp;Define and implement strategies to improve practices and engagement across the whole business, drive change management, and add value to departmental projects.<br>\n•&nbsp;&nbsp; &nbsp;Build and maintain strong client relationships both internally and externally and constantly assess customer feedback to provide guidance and assistance on improvements to IT service delivery.<br>\n•&nbsp;&nbsp; &nbsp;Review Applications landscape for better leverage of available assets or cost savings opportunities. Utilise data warehouse to de-commission systems no longer needed.<br>\n•&nbsp;&nbsp; &nbsp;Support Managers to manage performance outcomes and reviews.</p>\n<br><p>QUALIFICATIONS/KNOWLEDGE &amp; EXPERIENCE</p>\n\n<p>•&nbsp;&nbsp; &nbsp;Proven relevant working experience in a similar role.<br>\n•&nbsp;&nbsp; &nbsp;Continuous improvement mentality.<br>\n•&nbsp;&nbsp; &nbsp;Planning and project management skills.<br>\n•&nbsp;&nbsp; &nbsp;Can critically assess business issues and formulate IT driven solutions.<br>\n•&nbsp;&nbsp; &nbsp;Ability to see the bigger pITure but also roll up their sleeves and own project initiatives from start to completion.<br>\n•&nbsp;&nbsp; &nbsp;Strong knowledge of IT systems and applications and ability to engage productively with vendors.<br>\n•&nbsp;&nbsp; &nbsp;Excellent communication and interpersonal skills through written and oral communications.<br>\n•&nbsp;&nbsp; &nbsp;Can work with people at all levels of the business; not afraid to walk the floor to get feedback.<br>\n•&nbsp;&nbsp; &nbsp;Ability to prioritise tasks, problem-solve and work and learn autonomously and in a team.<br>\n•&nbsp;&nbsp; &nbsp;Relevant tertiary or equivalent qualifications preferred.</p>",
       "keywords": [
-        "ict",
-        "applications",
-        "support",
-        "manager"
+        "it",
+        "business",
+        "partner"
       ]
     },
     {
@@ -490,7 +550,7 @@
       "url": "https://www.seek.com.au/job/95520292",
       "advertiser_id": "32285403",
       "posted_date": "2026-10-27T05:30:03Z",
-      "job_description": "<p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Software Engineering Manager</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Lead and manage development teams across recruitment, onboarding, performance, development and daily operations.</li>\n<li>Set and maintain engineering standards, code quality frameworks and technical governance.</li>\n<li>Oversee agile delivery across development teams, including scoping, technical direction and complex engineering decisions.</li>\n<li>Partner with product management on product-engineering decisions, feasibility and roadmap priorities.</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>Tertiary degree in Information Technology, Computer Science, Software Engineering, or an equivalent qualification.</li>\n<li>Proven experience leading and managing software development teams across multiple technical disciplines</li>\n<li>Strong understanding of modern software development lifecycle practices, agile methodologies and engineering management principles</li>\n<li>Deep technical knowledge of modern web development languages, frameworks and architectures</li>\n<li>Experience with cloud platforms and infrastructure, particularly Microsoft Azure</li>\n<li>Demonstrated ability to establish and enforce engineering standards, code quality frameworks, testing practices and technical governance across a development</li>\n<li>Software Development Lifecycle (SDLC): Extensive understanding of SDLC principles, with practical experience leading delivery across the full lifecycle of software projects</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Your application<br></strong>Please include in your cover letter the following with examples:</p>\n<ul>\n<li>Recent, hands-on leadership of a software team, including recruitment, onboarding, performance management and development.</li>\n<li>Current technical depth in modern web development (TypeScript, React, Next.js, Node.js), with the credibility to set technical direction.</li>\n<li>Microsoft Azure experience, including deployment strategy and cloud-native applications.</li>\n<li>Sets and enforces engineering standards: code quality, automated testing, CI/CD and application security.</li>\n<li>Delivery across the full software lifecycle, using agile practice.</li>\n<li>Highly regarded: use of AI-assisted development tools and use of engineering metrics.</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $160,092 - $169,398 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services Strategic Plan 2028. <br><br>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.&nbsp;</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Monday, 16 November 2026</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC695720<br><em>Please note: no third-party applications will be accepted. </em></p>",
+      "job_description": "<p><strong>This frontline support role provides essential support enabling the development and delivery of frontline services, programs and outcomes.</strong></p>\n<p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Software Engineering Manager</strong> to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Lead and manage development teams across recruitment, onboarding, performance, development and daily operations.</li>\n<li>Set and maintain engineering standards, code quality frameworks and technical governance.</li>\n<li>Oversee agile delivery across development teams, including scoping, technical direction and complex engineering decisions.</li>\n<li>Partner with product management on product-engineering decisions, feasibility and roadmap priorities.</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>Tertiary degree in Information Technology, Computer Science, Software Engineering, or an equivalent qualification.</li>\n<li>Proven experience leading and managing software development teams across multiple technical disciplines</li>\n<li>Strong understanding of modern software development lifecycle practices, agile methodologies and engineering management principles</li>\n<li>Deep technical knowledge of modern web development languages, frameworks and architectures</li>\n<li>Experience with cloud platforms and infrastructure, particularly Microsoft Azure</li>\n<li>Demonstrated ability to establish and enforce engineering standards, code quality frameworks, testing practices and technical governance across a development</li>\n<li>Software Development Lifecycle (SDLC): Extensive understanding of SDLC principles, with practical experience leading delivery across the full lifecycle of software projects</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Your application<br></strong>Please include in your cover letter the following with examples:</p>\n<ul>\n<li>Recent, hands-on leadership of a software team, including recruitment, onboarding, performance management and development.</li>\n<li>Current technical depth in modern web development (TypeScript, React, Next.js, Node.js), with the credibility to set technical direction.</li>\n<li>Microsoft Azure experience, including deployment strategy and cloud-native applications.</li>\n<li>Sets and enforces engineering standards: code quality, automated testing, CI/CD and application security.</li>\n<li>Delivery across the full software lifecycle, using agile practice.</li>\n<li>Highly regarded: use of AI-assisted development tools and use of engineering metrics.</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Diverse Work Culture</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Permanent full time</li>\n<li>Base salary ranging from $160,092 - $169,398 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>The Digital Health and Innovation (DHI) division has been established to drive significant service improvements and digital transformation opportunities, in alignment with the strategic objectives outlined in the Gold Coast Hospital and Health Services Strategic Plan 2028. <br><br>The DHI portfolio consists of interconnected functional business units and teams, including Digital Project Delivery, Digital Experience, Technology Operations, Health Information and Digital Security and Architecture.&nbsp;</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Monday, 16 November 2026</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC695720<br><em>Please note: no third-party applications will be accepted. </em></p>",
       "keywords": [
         "software",
         "engineering",
@@ -514,6 +574,24 @@
         "business",
         "systems",
         "administrator"
+      ]
+    },
+    {
+      "job_id": "95515061",
+      "job_title": "Golang Lead Developer",
+      "business_name": "Peoplebank Australia QLD",
+      "work_type": "Contract/Temp",
+      "job_type": "Developers/Programmers",
+      "pay_range": "Competitive",
+      "area": "Australia Fair, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95515061",
+      "advertiser_id": "28936124",
+      "posted_date": "2026-10-27T02:59:06Z",
+      "job_description": "<strong>Role:&nbsp; Lead Developer<br></strong><strong>Locations:&nbsp; QLD, ACT, NSW, VIC<br></strong><strong>Work Right:&nbsp; Must be Australian Citizen<br></strong><strong>Security Clearance:&nbsp; Must be able to obtain NV1<br>12 months contract, possible extension<br><br></strong>-<br>About the Role:<br><br>We’re seeking an experienced <strong>Principal Developer / Lead Backend API Developer</strong> to lead the design, development and ongoing evolution of a <strong>consumer API platform</strong> that supports <strong>web applications, portals and mobile apps</strong> in a highly governed environment.<br>You’ll provide hands-on technical leadership, set engineering standards, and work closely with cross-functional teams (frontend, platform engineering, integration and enterprise platforms) to deliver secure, scalable and reliable digital services.<br>&nbsp;<br>A major focus is the development of a new middleware platform that will sit between the backend systems, MuleSoft services, and customer-facing portals. The successful candidate will help establish the backend team and technical practices supporting this platform.&nbsp;<br>&nbsp;<br><strong><br>Key Responsibilities&nbsp;</strong><br><ul><li>Lead the establishment of the new middleware/backend development team.&nbsp;</li></ul><ul><li>Provide technical leadership and set engineering standards and practices.&nbsp;</li></ul><ul><li>Mentor and guide a small team of developers.&nbsp;</li></ul><ul><li>Lead troubleshooting, debugging, and production issue resolution.&nbsp;</li></ul><ul><li>Drive high-quality software engineering outcomes.&nbsp;</li></ul><ul><li>Support both portal and mobile application teams through shared middleware services.&nbsp;</li></ul>&nbsp;<br><strong>Technical Skills Required :</strong><br><ul><li>Leading design/delivery of <strong>enterprise-scale backend services</strong>, API platforms and integrations.</li><li>Strong expertise in <strong>Golang</strong>, <strong>GraphQL</strong>, API architecture, authN/authZ patterns, and service-to-service communication.</li><li>Cloud-native delivery/operations experience with <strong>Kubernetes</strong> and <strong>AWS</strong> (incl. <strong>EKS</strong>).</li><li>Establishing engineering standards, code reviews, automated testing and delivery governance.</li><li>Practical experience using <strong>AI-assisted software engineering tools</strong> while maintaining strong oversight/accountability.</li><li>Production support and debugging of complex systems</li><li>Integration experience with enterprise platforms such as <strong>Salesforce</strong> and <strong>MuleSoft</strong> (or equivalent).</li></ul><br>Interested applicants may apply to the advert or may send their updated resume to <a href=\"mailto:trisha.bornasal@peoplebank.com.au\">trisha.bornasal@peoplebank.com.au</a>&nbsp;referencing job #272099.<br><br><br><em>Note: We may use Aida (AI-assisted screening) as part of the initial application screening process.</em><br><br><br><strong>Peoplebank</strong> and <strong>Leaders IT</strong> are committed to creating a diverse and inclusive workplace where everyone belongs. We welcome applications from people of all backgrounds, identities, and experiences. If you need adjustments to the recruitment process due to your circumstances, please let us know—we’re here to support you.",
+      "keywords": [
+        "golang",
+        "developer"
       ]
     },
     {
@@ -1255,100 +1333,6 @@
         "it",
         "support",
         "officer"
-      ]
-    },
-    {
-      "job_id": "94970510",
-      "job_title": "IT Systems Administrator",
-      "business_name": "Gilmour Space Technologies",
-      "work_type": "Full time",
-      "job_type": "Networks & Systems Administration",
-      "pay_range": "Base Salary Plus Superannuation",
-      "area": "Yatala, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94970510",
-      "advertiser_id": "43912085",
-      "posted_date": "2026-09-30T05:40:24Z",
-      "job_description": "<p><b>All Orbits, All Planets - Join us on our journey</b></p><p>Gilmour Space is a leading Australian space company, developing launch vehicles, satellite platforms, advanced propulsion technologies; and launching from our licensed orbital spaceport in Bowen, North Queensland.</p><p>Are you a creative and experienced 'IT Systems Administrator' looking for a dynamic role where your skills will make a real impact? Have you ever dreamt of building rockets right here in Australia? Well now’s your chance! Gilmour Space is seeking a talented individual to join our innovative team to send rockets to Space! Conveniently located between Brisbane and the Gold Coast, our new state-of-the-art facility, purpose-built for designing and manufacturing rockets in-house, is equipped with the latest technology and tools, providing an ideal environment for innovation and excellence. So, what are you waiting for? Join us and be a part of a forward-thinking team dedicated to pushing the boundaries of space exploration and let’s send Australia to Space together!</p><p><b>How you will contribute to our mission in getting Australia to space:</b></p><p>The below is designed to give you an idea of the role you will play. There will be many more exciting and innovative things to do:</p><ul> <li>Responsible for the maintenance, configuration, and reliable operation of computer systems, network, servers, and virtualisation. </li> <li>Install and upgrade software, hardware, network systems, and integrate automation processes. </li> <li>Manage network, servers, storage, and technology tools. </li> <li>Monitor systems performance and troubleshoot related issues. </li> <li>Monitor network and ensure security and efficiency of IT infrastructure, both physical and virtual. </li> <li>Troubleshoot issues and outages by running diagnostics and document problems, resolutions, system changes and setups, prioritising problems, and assess impact of issues. </li> <li>Act as an escalation point for the IT Systems Engineer.</li> <li>Provide documentation and technical specifications to IT staff for planning and implementing new or upgrades of existing IT infrastructure. </li> <li>Upgrade HW/SW systems with new releases and patches. </li> <li>Maintain, investigate, recommend, and contribute to strategic development of ICT solutions in a way that enables business objectives. </li> <li>Ensure availability and up-time of corporate systems (desktops, servers, mobile devices, network infrastructure, etc.)</li> <li>Other duties as requested by Management. </li></ul><div> <b>Internal Activity Expectations:</b></div><div> <ul>  <li>Project delivery (requirements, solutions, development, deployment, training / support).</li>  <li>System maintenance (disk space, traffic).</li>  <li>Software upgrades (Ansys, Solidworks etc.).</li>  <li>Hardware upgrades (firmware and suitability). </li>  <li>Systems automation and continuous improvements. </li>  <li>Monitoring spam and continuous improvement.</li>  <li>L2/L3 troubleshooting.</li> </ul></div><div> <strong>Minimum Qualifications, Skills and Experience:</strong></div><div> <ul>  <li>Bachelor’s degree in Computer Science, Information Technology, System Administration, or a closely related field, or equivalent experience required. </li>  <li>Evidence of exceptional ability.</li>  <li>NV1 Security Clearance eligible preferred.</li> </ul> <div>  <b>Desired Qualifications, Skills and Experience:</b> </div></div><div> <ul>  <li>5+ years of experience in network administration and/or system administration</li>  <li>Proven experience as a System Administrator, Network Administrator, or similar role providing Level 3 support across Microsoft Stack (AD, Exchange, O365 Admin, SharePoint, Power-Bi, Dynamics…) and Linux (Ubuntu/RedHat) fleet</li>  <li>Strong knowledge of systems and networking software, hardware, and related protocols, system security (e.g. RBAC, IDS, IPS, DLP), encryption methods and data backup/recovery practises and solutions.</li>  <li>Experience with databases, cloud solutions Azure/AWS, networks (LAN, WAN, WLAN, SAN, NAS, VPN), HPC systems and related software.</li>  <li>Ability to analyse and automate processes with scripting and automation tools, active knowledge of PowerShell, Bash, Python and GPO Management </li>  <li>Practical experience with RMM, MDM, MAM tools.</li>  <li>Working knowledge of virtualisation, Hyper-V, Proxmox, or equivalent.</li>  <li>The ability to work independently and part of teams.</li>  <li>Excellent communication skills and sense for our mission.</li>  <li>Problem-solving aptitude and ability to adapt to complex and fast-moving environment.</li>  <li>Understanding of ITIL, SOE highly desirable.</li>  <li>System administration and IT certifications in Linux, Microsoft, or other network related fields are a plus.</li> </ul> <div>  <p><strong>How to Apply:</strong></p>  <p>Applicants must be an Australian Citizen/Permanent Resident or have an appropriate Australian work visa or work entitlements.</p>  <p>If you are a proactive team player with a passion to get Australia to space and a desire to succeed, please apply now by clicking the apply button and including your resume and cover letter or head to our&nbsp;<strong>careers page: www.gspace.com/career</strong></p>  <p>Gilmour Space Technologies is proud to be an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all team members. We strongly encourage applications from Aboriginal and Torres Strait Islander peoples for all positions.</p>  <p>No Recruitment Agencies Please</p> </div></div>",
-      "keywords": [
-        "it",
-        "systems",
-        "administrator"
-      ]
-    },
-    {
-      "job_id": "94967592",
-      "job_title": "Technology Product Manager",
-      "business_name": "Village Roadshow Theme Parks Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Product Management & Development",
-      "pay_range": "",
-      "area": "Oxenford, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94967592",
-      "advertiser_id": "27039902",
-      "posted_date": "2026-09-30T04:04:07Z",
-      "job_description": "<p><strong>Technology Product Manager</strong><br><strong>Full Time Salary</strong><br><strong>Movie World, Oxenford, Gold Coast</strong></p>\n<p><strong>The Opportunity</strong><br>An exciting opportunity exists for an experienced Technology Product Manager to lead a portfolio of automation, AI and digital products across Village Roadshow Theme Parks.</p>\n<p>You'll be accountable for the lifecycle of internally developed solutions and selected third-party technology products, ensuring technology investment is focused on practical solutions that deliver measurable business value.</p>\n<p>Working closely with business stakeholders, Solution Engineering, Data Engineering and the broader Technology team, you'll lead initiatives from problem identification and prioritisation through to delivery, operationalisation and continuous improvement while supporting the ongoing evolution of the team's products and capabilities.</p>\n<p><strong>Key Responsibilities</strong><br>Leading the delivery and ongoing improvement of automation, AI and digital products, you’ll be:<br>• Owning the roadmap, backlog and lifecycle of internally developed solutions and selected third-party technology products, ensuring priorities align with business strategy, operational needs and measurable value. <br>• Building strong partnerships with business stakeholders to identify opportunities, define business needs and lead initiatives from problem identification through to delivery, adoption and benefits realisation. <br>• Providing technology leadership across automation, AI and internally developed applications, guiding solution design, architecture and technology selection while remaining hands-on where required. <br>• Leading the adoption of AI, agentic workflows and automation technologies, assessing technologies and approaches based on business requirements, complexity, risk, cost and maintainability. <br>• Ensuring development initiatives are appropriately scoped, prioritised and delivered to agreed outcomes, timelines and budgets, supported by effective development, testing, deployment and support practices. <br>• Leading, coaching and developing the Solution Engineering team, while promoting knowledge sharing, engineering discipline and continuous improvement. <br>• Maintaining accountability for the performance, reliability, cost and ongoing effectiveness of production solutions, using operational performance, user feedback and business outcomes to drive improvements. <br>• Participating in AI governance and technology forums, contributing technology expertise and advocating for practical automation and AI opportunities across the organisation.</p>\n<p><strong>What We’re Looking For</strong><br>Technology leadership with a practical, business-focused approach. You’ll bring: <br>• <strong>3+ years' hands-on experience</strong> in solution engineering, software development, automation engineering, application development or a comparable technology delivery role.<br>• <strong>2+ years' experience</strong> leading technology teams, including prioritising work, providing technology direction, coaching engineers and managing delivery.<br>• Demonstrated experience delivering technology solutions from business problem and requirements through design, build, testing, deployment and production operation.<br>• Strong hands-on technology capability, with experience developing applications, integrations, automation or related software solutions.<br>• Experience with AI technologies, agentic workflows and automation platforms such as Power Automate, n8n, Workato, Logic Apps or similar.<br>• Experience working with APIs, system integrations, databases, cloud services and modern application architecture.<br>• Experience with modern software engineering and DevOps practices, including source control, CI/CD, testing, deployment and production monitoring.<br>• Strong commercial acumen, stakeholder management and communication skills.<br>• Strong analytical and problem-solving skills, with the ability to quickly understand unfamiliar business processes and technologies.<br><strong>Highly Regarded</strong><br>• Experience designing and deploying agentic AI solutions.<br>• Experience with Microsoft technologies including Azure, Power Platform, Fabric and Dataverse.<br>• Experience with cloud-native applications, serverless architectures and API-based integrations.<br>• Experience managing internally developed and third-party technology products.<br>• Understanding of AI governance, responsible AI, information security and privacy considerations.<br>• Formal technology, engineering or related qualifications, or equivalent practical experience.</p>\n<p><strong>Your backstage pass to fun, friends and unforgettable memories!</strong><br>• Unlimited free entry to our amazing theme parks!<br>• Earn complimentary passes to share with family and friends!<br>• Enjoy discounts on food &amp; beverage, retail and animal experiences across our parks!<br>• Exclusive employee deals through our Village Employee Benefits App, partnered with 65+ major retailers! <br>• Unique team events and awards, celebrating our people is part of the fun!<br>• Reward and recognition programs with prizes for outstanding contributions<br>• Wellbeing support with our on-site team and 24/7 Employee Assistance Program (EAP)<br>• Professional development opportunities with internal training, we love to grow our talent!</p>\n<p>At Village Roadshow Theme Parks, our purpose is simple: <strong>create joy and memories that last a lifetime</strong>. Every day, our team brings this to life across our iconic properties , from Warner Bros. Movie World and Sea World, to Wet’n’Wild, Paradise Country, Topgolf, Sea World Resort, Australian Outback Spectacular, and Village Roadshow Studios.</p>\n<p>Working here isn’t just a job, it’s being part of a team that loves what they do, in a vibrant, fun, and supportive environment. You’ll meet amazing people, develop new skills, and help create unforgettable experiences for our guests.</p>\n<p>We value everyone’s unique contributions and encourage candidates of all backgrounds, abilities, and experiences to apply. Apply today to join one of the most exciting tourist attractions on the Gold Coast and start creating memories, for our guests, your team, and your career!</p>",
-      "keywords": [
-        "technology",
-        "product",
-        "manager"
-      ]
-    },
-    {
-      "job_id": "94966878",
-      "job_title": "Solution Engineer",
-      "business_name": "Village Roadshow Theme Parks Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "",
-      "area": "Oxenford, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94966878",
-      "advertiser_id": "27039902",
-      "posted_date": "2026-09-30T03:45:31Z",
-      "job_description": "<p><strong>Solution Engineer</strong><br><strong>Full Time Salary</strong><br><strong>Movie World, Oxenford, Gold Coast</strong></p>\n<p><strong>The Opportunity</strong><br>Technology plays an important role in supporting how we work across Village Roadshow Theme Parks. We're looking for a Solution Engineer to design, build, deploy and support automation, AI-enabled and digital solutions that enhance business processes, operational efficiency and decision-making.</p>\n<p>Working closely with business stakeholders and supported by the Technology Product Manager, you'll manage solutions through their full lifecycle, from requirements gathering and solution design through to development, deployment, operational support and continuous improvement. You'll also collaborate with Data, Infrastructure, Business Systems and other Technology teams to deliver practical, fit-for-purpose solutions across the organisation.</p>\n<p><strong>Key Responsibilities</strong><br>Delivering practical automation, AI and digital solutions, you’ll be:<br>• Working with business stakeholders to understand operational challenges, gather requirements and identify opportunities for automation, AI and process improvement. <br>• Designing end-to-end solutions and developing prototypes and proof-of-concepts to validate business needs and solution feasibility. <br>• Building workflow automations, AI-enabled solutions, applications and system integrations using appropriate technologies and platforms. <br>• Developing applications, APIs, integrations and supporting backend services across enterprise systems, databases and data platforms. <br>• Managing testing, deployment and release activities to ensure solutions are transitioned effectively into production. <br>• Applying DevOps practices including source control, environment management, CI/CD and release management. <br>• Monitoring solution performance, reliability and availability while troubleshooting issues and implementing improvements. <br>• Collaborating with Data, Infrastructure, Business Systems and Cyber Security teams to ensure solutions align with organisational standards and requirements. <br>• Evaluating emerging technologies and identifying opportunities to enhance existing solutions and capabilities.</p>\n<p><strong>What We’re Looking For</strong><br>You enjoy solving business challenges through technology and delivering practical solutions that create value. You’ll bring: <br>• Experience across automation, application development, systems integration and cloud-based technologies. <br>• Strong communication and stakeholder engagement skills, with the ability to understand business needs and translate them into effective solutions. <br>• Experience working with technologies such as Python, Power Platform, APIs, databases and enterprise systems. <br>• Knowledge of software development lifecycle practices including testing, deployment and DevOps. <br>• Strong analytical, troubleshooting and problem-solving skills. <br>• The ability to manage competing priorities while working collaboratively within a multidisciplinary technology team.<br><strong>Highly regarded</strong><br>• Experience with Microsoft Azure and Power Platform technologies.<br>• Experience with agentic AI, RAG and related AI solution frameworks.<br>• Experience with Docker, cloud deployment technologies or application security practices.<br>• Experience with Figma, UI/UX design tools or supporting third-party SaaS applications.<br>• Exposure to agile or product-oriented delivery environments.</p>\n<p><strong>Your backstage pass to fun, friends and unforgettable memories!</strong><br>• Unlimited free entry to our amazing theme parks!<br>• Earn complimentary passes to share with family and friends!<br>• Enjoy discounts on food &amp; beverage, retail and animal experiences across our parks!<br>• Exclusive employee deals through our Village Employee Benefits App, partnered with 65+ major retailers! <br>• Unique team events and awards, celebrating our people is part of the fun!<br>• Reward and recognition programs with prizes for outstanding contributions<br>• Wellbeing support with our on-site team and 24/7 Employee Assistance Program (EAP)<br>• Professional development opportunities with internal training, we love to grow our talent!</p>\n<p>At Village Roadshow Theme Parks, our purpose is simple: <strong>create joy and memories that last a lifetime</strong>. Every day, our team brings this to life across our iconic properties , from Warner Bros. Movie World and Sea World, to Wet’n’Wild, Paradise Country, Topgolf, Sea World Resort, Australian Outback Spectacular, and Village Roadshow Studios.</p>\n<p>Working here isn’t just a job, it’s being part of a team that loves what they do, in a vibrant, fun, and supportive environment. You’ll meet amazing people, develop new skills, and help create unforgettable experiences for our guests.</p>\n<p>We value everyone’s unique contributions and encourage candidates of all backgrounds, abilities, and experiences to apply. Apply today to join one of the most exciting tourist attractions on the Gold Coast and start creating memories, for our guests, your team, and your career!</p>",
-      "keywords": [
-        "solution",
-        "engineer"
-      ]
-    },
-    {
-      "job_id": "94966494",
-      "job_title": "Associate Data Engineer",
-      "business_name": "Village Roadshow Theme Parks Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "",
-      "area": "Oxenford, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94966494",
-      "advertiser_id": "27039902",
-      "posted_date": "2026-09-30T03:35:46Z",
-      "job_description": "<p><strong>Associate Data Engineer</strong><br><strong>Full Time Salary</strong><br><strong>Movie World, Oxenford, Gold Coast</strong></p>\n<p><strong>The Opportunity</strong><br>We're looking for an Associate Data Engineer to help develop and support our centralised data platform, bringing together information from multiple operational systems to create reliable, accessible and meaningful data assets.</p>\n<p>Working closely with business, technology and Commercial Insights teams, you'll support the integration, transformation and delivery of data that enables operational reporting, analytics and near real-time business insights. You'll also contribute to the ongoing development of our Microsoft Fabric environment and help deliver practical data solutions across the organisation.</p>\n<p><strong>Key Responsibilities</strong><br>Turning data into reliable business insights, you’ll be:<br>• Supporting the development and administration of the Microsoft Fabric data platform, including Lakehouse, Warehouse and data pipeline environments. <br>• Building and maintaining data pipelines that ingest, transform and integrate data from multiple operational systems, supporting both scheduled and near real-time data requirements. <br>• Developing curated datasets, staging tables and reporting views that enable operational reporting, analytics and self-service insights. <br>• Working with business, technology and Commercial Insights teams to understand business processes, data requirements and source systems, contributing to practical data solutions. <br>• Assisting with data validation, monitoring and reconciliation activities to ensure data assets are accurate, complete, timely and fit for business use. <br>• Maintaining documentation for data sources, pipelines, transformations, data models and operating procedures to support knowledge sharing and ongoing platform support. <br>• Identifying opportunities to improve data pipelines, platform performance, automation and development practices. <br>• Collaborating with technology, analytics, business and project teams to deliver data solutions and contribute to broader data and technology initiatives.</p>\n<p><strong>What We’re Looking For</strong><br>You enjoy working with data, solving problems and helping turn information into meaningful business outcomes. You’ll bring: <br>• Experience using SQL and Python for data engineering, analytics, reporting or data processing activities. <br>• An understanding of data engineering concepts, including data integration, transformation, modelling, data quality and pipeline development. <br>• Experience working with data from multiple systems within a large or complex business environment. <br>• Familiarity with Microsoft Fabric and business intelligence platforms such as Power BI, Qlik or Tableau. <br>• Strong analytical and problem-solving skills, with the ability to investigate and resolve data quality, integration and pipeline issues. <br>• The ability to understand business requirements, analyse data from unfamiliar systems and translate needs into practical data solutions. <br>• Strong communication and stakeholder engagement skills, with the ability to work effectively with both technical and business teams. <br>• Strong organisational skills, attention to detail and the ability to maintain clear technical documentation while managing multiple priorities. <br>• A continuous improvement mindset and willingness to learn and adopt new technologies and ways of working.<br><strong>Highly Regarded</strong><br>• Experience with Microsoft Azure data, integration, storage or automation services.<br>• Exposure to Power Platform technologies, including Power Apps, Power Automate or Dataverse.<br>• Experience working with APIs, JSON, REST integrations or other common system integration patterns.<br>• Familiarity with Git, source control and modern development practices.<br>• Exposure to cloud data architectures, near real-time data pipelines, data governance or enterprise data management practices.<br>• Experience using AI-assisted development tools to support solution delivery.</p>\n<p><strong>Your backstage pass to fun, friends and unforgettable memories!</strong><br>• Unlimited free entry to our amazing theme parks!<br>• Earn complimentary passes to share with family and friends!<br>• Enjoy discounts on food &amp; beverage, retail and animal experiences across our parks!<br>• Exclusive employee deals through our Village Employee Benefits App, partnered with 65+ major retailers! <br>• Unique team events and awards, celebrating our people is part of the fun!<br>• Reward and recognition programs with prizes for outstanding contributions<br>• Wellbeing support with our on-site team and 24/7 Employee Assistance Program (EAP)<br>• Professional development opportunities with internal training, we love to grow our talent!</p>\n<p>At Village Roadshow Theme Parks, our purpose is simple: <strong>create joy and memories that last a lifetime</strong>. Every day, our team brings this to life across our iconic properties , from Warner Bros. Movie World and Sea World, to Wet’n’Wild, Paradise Country, Topgolf, Sea World Resort, Australian Outback Spectacular, and Village Roadshow Studios.</p>\n<p>Working here isn’t just a job, it’s being part of a team that loves what they do, in a vibrant, fun, and supportive environment. You’ll meet amazing people, develop new skills, and help create unforgettable experiences for our guests.</p>\n<p>We value everyone’s unique contributions and encourage candidates of all backgrounds, abilities, and experiences to apply. Apply today to join one of the most exciting tourist attractions on the Gold Coast and start creating memories, for our guests, your team, and your career!</p>",
-      "keywords": [
-        "associate",
-        "data",
-        "engineer"
-      ]
-    },
-    {
-      "job_id": "94961926",
-      "job_title": "IT Support Engineer – Level 1",
-      "business_name": "Cursa Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Biggera Waters, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94961926",
-      "advertiser_id": "25458650",
-      "posted_date": "2026-09-30T01:42:48Z",
-      "job_description": "<p>Cursa Pty Ltd is a Gold Coast-based IT services provider delivering reliable, secure and practical technology solutions to businesses.</p><p>We support our clients across Microsoft 365, cloud services, cybersecurity, networking, backup, endpoint management and day-to-day IT support.</p><p>As Cursa continues to grow, we're looking for an enthusiastic <strong>Level 1 IT Support Engineer</strong> to join our technical team.</p><p>This is a hands-on role suited to someone who enjoys technology, problem solving and helping people. You'll be responsible for providing frontline technical support to our clients while working alongside experienced engineers who can assist with more complex issues.</p><p>You don't need to know everything on day one. We're looking for someone with <strong>good IT fundamentals, strong communication skills, initiative and a genuine desire to develop a career in IT.</strong></p><h2>What you'll be doing</h2><p>As part of the Cursa technical team, you'll:</p><ul><li><p>Respond to incoming client support requests and service tickets</p></li><li><p>Provide friendly and professional Level 1 technical support</p></li><li><p>Troubleshoot Windows desktops, laptops and common business applications</p></li><li><p>Support Microsoft 365 applications including Outlook, Teams, OneDrive and SharePoint</p></li><li><p>Assist with Microsoft 365 user accounts, passwords, groups and permissions</p></li><li><p>Assist with new user onboarding and employee offboarding</p></li><li><p>Configure and deploy desktops, laptops and Microsoft 365 applications</p></li><li><p>Troubleshoot printers, scanners and other business peripherals</p></li><li><p>Assist with basic internet, Wi-Fi and network connectivity issues</p></li><li><p>Assist with email and Outlook troubleshooting</p></li><li><p>Perform basic hardware diagnostics and troubleshooting</p></li><li><p>Provide support remotely, by phone, email and onsite when required</p></li><li><p>Accurately document support requests, troubleshooting and resolutions</p></li><li><p>Keep clients updated throughout the support process</p></li><li><p>Escalate more complex technical issues to Level 2 and senior engineers</p></li><li><p>Maintain and update client technical documentation</p></li></ul><h2>About you</h2><p>We're looking for someone who enjoys technology but also understands that <strong>great IT support is about people as much as computers.</strong></p><p>Ideally, you'll have:</p><ul><li><p>Some previous IT support, Help Desk, Service Desk or similar experience</p></li><li><p>Good Windows 10/11 troubleshooting skills</p></li><li><p>Familiarity with Microsoft 365</p></li><li><p>Basic knowledge of Outlook, Teams, OneDrive and SharePoint</p></li><li><p>An understanding of computer hardware and peripherals</p></li><li><p>Basic networking knowledge</p></li><li><p>Good troubleshooting and problem-solving skills</p></li><li><p>Strong written and verbal communication skills</p></li><li><p>Good organisation and time-management skills</p></li><li><p>Attention to detail</p></li><li><p>The ability to follow documented procedures</p></li><li><p>The ability to work independently while knowing when to ask for assistance</p></li><li><p>A professional and friendly approach when dealing with clients</p></li><li><p>A genuine interest in technology and willingness to learn</p></li></ul><p>Previous experience working for an <strong>MSP or IT service provider</strong> would be beneficial, but isn't essential.</p><h2>Desirable experience</h2><p>Previous exposure to any of the following would be advantageous, but <strong>is not required</strong>:</p><ul><li><p><strong>Microsoft 365 &amp; Cloud:</strong> Microsoft 365 administration, Entra ID, Exchange Online, SharePoint, OneDrive, Intune and Defender.</p></li><li><p><strong>Windows &amp; Networking:</strong> Windows Server, macOS, TCP/IP, DNS, DHCP, business Wi-Fi and general network troubleshooting.</p></li><li><p><strong>MSP &amp; Support Tools:</strong> Autotask PSA, IT Glue, RocketCyber, Inky, Dark Web ID, BullPhish ID, SaaS Alerts, Datto RMM and Datto EDR</p></li><li><p><strong>Backup &amp; Security:</strong> Backup, recovery, endpoint security and related business continuity solutions.</p></li><li><p><strong>Training &amp; Certifications:</strong> Microsoft certifications or other relevant IT qualifications are highly regarded.</p></li></ul><p><strong>Don't tick every box? We'd still encourage you to apply.</strong></p><p>You don't need experience across all of these technologies. We're looking for someone with good technical fundamentals, a willingness to learn and an interest in developing their skills across a broad range of business IT environments.</p><h2>What we offer</h2><ul><li><p>Full-time, permanent position</p></li><li><p>Monday to Friday, 8:30am to 5:00pm</p></li><li><p>Gold Coast-based office</p></li><li><p>Ongoing technical training and professional development</p></li><li><p>Exposure to a wide variety of technologies and client environments</p></li><li><p>Hands-on experience across Microsoft 365, cloud, networking, security and infrastructure</p></li><li><p>Support and mentoring from experienced engineers</p></li><li><p>Opportunities to gradually take ownership of more complex technical work</p></li><li><p>Exposure to project and onsite work as your experience develops</p></li><li><p>A genuine pathway into <strong>Level 2 IT Support and more senior technical roles</strong></p></li><li><p>A team environment where initiative, learning and personal development are encouraged</p></li></ul><h2>Requirements</h2><p>To be considered for this position, applicants must:</p><ul><li><p>Hold a current Australian driver's licence</p></li><li><p>Have strong written and spoken English communication skills</p></li><li><p>Be an Australian citizen or permanent resident with unrestricted working rights</p></li><li><p>Currently reside in Australia</p></li><li><p>Be available for occasional after-hours work if required</p></li><li><p>Be willing to undergo reference and background checks where required</p></li></ul><p>International applications will not be considered for this position.</p><h2>Ready to join Cursa?</h2><p>If you're passionate about technology, enjoy helping people and want an opportunity to <strong>develop your skills and build a long-term career in IT</strong>, we'd like to hear from you.</p><p>Please submit your <strong>current resume and a brief cover letter</strong> outlining your experience, interest in IT and why you'd like to join Cursa.</p><p>Please note that only applicants meeting the criteria outlined above will be contacted as part of the short-listing process.</p><p><strong>No recruitment agencies, please.</strong></p>",
-      "keywords": [
-        "it",
-        "support",
-        "engineer"
       ]
     }
   ]
