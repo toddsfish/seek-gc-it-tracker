@@ -1,18 +1,18 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "region": "Gold Coast",
-  "scraped_at": "2026-10-31T09:22:42.778228+10:00",
+  "scraped_at": "2026-11-01T08:56:11.916759+10:00",
   "total_jobs": 50,
   "keywords": [
     {
       "term": "support",
-      "count": 17,
-      "share": 0.34
+      "count": 16,
+      "share": 0.32
     },
     {
       "term": "it",
-      "count": 12,
-      "share": 0.24
+      "count": 11,
+      "share": 0.22
     },
     {
       "term": "engineer",
@@ -28,6 +28,11 @@
       "term": "software",
       "count": 7,
       "share": 0.14
+    },
+    {
+      "term": "business",
+      "count": 5,
+      "share": 0.1
     },
     {
       "term": "developer",
@@ -50,7 +55,7 @@
       "share": 0.1
     },
     {
-      "term": "business",
+      "term": "systems",
       "count": 4,
       "share": 0.08
     },
@@ -71,11 +76,6 @@
     },
     {
       "term": "network",
-      "count": 3,
-      "share": 0.06
-    },
-    {
-      "term": "systems",
       "count": 3,
       "share": 0.06
     },
@@ -125,17 +125,17 @@
       "share": 0.04
     },
     {
+      "term": "telecommunications",
+      "count": 2,
+      "share": 0.04
+    },
+    {
       "term": "administrator",
       "count": 2,
       "share": 0.04
     },
     {
       "term": "ongc",
-      "count": 2,
-      "share": 0.04
-    },
-    {
-      "term": "telecommunications",
       "count": 2,
       "share": 0.04
     },
@@ -225,17 +225,17 @@
       "share": 0.02
     },
     {
-      "term": "coordinator",
-      "count": 1,
-      "share": 0.02
-    },
-    {
       "term": "sql",
       "count": 1,
       "share": 0.02
     },
     {
       "term": "integrations",
+      "count": 1,
+      "share": 0.02
+    },
+    {
+      "term": "coordinator",
       "count": 1,
       "share": 0.02
     },
@@ -366,6 +366,25 @@
     }
   ],
   "jobs": [
+    {
+      "job_id": "95615626",
+      "job_title": "Business Systems Officer",
+      "business_name": "Kalwun Development Corporation Ltd",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "",
+      "area": "Varsity Lakes, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95615626",
+      "advertiser_id": "35401029",
+      "posted_date": "2026-10-31T03:03:20Z",
+      "job_description": "<p><strong>Join the Kalwun Team - Make a Real Impact in Community!</strong></p>\n\n<p>Kalwun Development Corporation Ltd, a proud Aboriginal and Torres Strait Islander community-controlled organisation, is calling on passionate changemakers to join our&nbsp;Business Systems &amp; Enablement&nbsp;team.</p>\n\n<p>Whether you’re delivering frontline services, supporting our community behind the scenes, or helping to strengthen cultural connections, your work will make a real difference in the lives of Aboriginal and Torres Strait Islander people across South East Queensland. Kalwun offers a wide range of programs across health, community, and family services, all grounded in culture, care, and connection.</p>\n\n<p><strong>About the role</strong><br>\nThe Business Systems Officer supports the administration, maintenance and continuous improvement of Kalwun's business systems and software, including operational, financial, reporting and workflow platforms.&nbsp;The role supports day-to-day system administration, maintains data integrity, manages user access and permissions, assists with system troubleshooting, and supports staff in the effective use of business applications.</p>\n\n<p>Working collaboratively with internal teams and external software providers, the Business Systems Officer contributes to system implementations, upgrades, testing, documentation and process improvements to ensure Kalwun's systems remain efficient, reliable and aligned with organisational requirements.</p>\n\n<p>This is a full-time fixed term role for approximately 18 months, covering parental leave. The role is based in Varsity Lakes, however partial work from home is available.&nbsp;</p>\n\n<p><strong>What you'll be doing</strong>&nbsp; &nbsp;</p>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li><strong>Business Systems Administration:</strong> Configure, maintain and support organisational business systems, including user access, permissions, security settings and system performance.</li>\n\t<li><strong>Systems Support &amp; Training:</strong> Provide staff with technical support, troubleshooting, guidance and training to ensure effective use of business applications.</li>\n\t<li><strong>Systems Improvement &amp; Projects:</strong> Assist with system implementations, upgrades, testing, integrations and process improvements to enhance operational efficiency.</li>\n\t<li><strong>Data Management &amp; Reporting:</strong> Maintain data accuracy and integrity, investigate discrepancies and support the development of reports and dashboards.</li>\n\t<li><strong>Systems Governance &amp; Compliance:</strong> Maintain system controls, access permissions, documentation and compliance with organisational policies and data security requirements.</li>\n\t<li><strong>Finance &amp; Operational Systems:</strong> Provide administration and support for key financial and operational platforms, including<strong> Sage Intacct and Sandwai,</strong> working closely with Finance and operational teams to improve system functionality and processes.</li>\n</ul>\n\n<h2><strong>About You</strong></h2>\n\n<p>You’re someone who:</p>\n\n<ul>\n\t<li>Builds strong, respectful relationships with Aboriginal and Torres Strait Islander communities</li>\n\t<li>Brings experience in business systems administration, application support or a similar role</li>\n\t<li>Is passionate about making a positive impact and supporting others with heart and purpose</li>\n</ul>\n\n<p><strong>Essential selection criteria</strong></p>\n\n<ol>\n\t<li>Sound understanding of business operations, systems and workflows.</li>\n\t<li>Experience working with business software, including ERP, CRM, workflow or operational management platforms.</li>\n\t<li>Strong analytical, problem-solving and troubleshooting skills.</li>\n\t<li>Excellent attention to detail and commitment to data accuracy.</li>\n\t<li>Understanding of user access management, system permissions and data security principles.</li>\n\t<li>Proficiency in Microsoft Office applications, including Excel.</li>\n</ol>\n\n<p><strong>Requirements</strong></p>\n\n<ul>\n\t<li>National police check</li>\n\t<li>Current drivers' license (minimum Ps).</li>\n</ul>\n\n<p><strong>What we offer&nbsp;</strong><br>\nKalwun values the contributions of all staff and is committed to providing an inclusive workplace where all staff feel accepted, included and welcomed. Our Employees enjoy a variety of benefits including:</p>\n\n<ul>\n\t<li>Competitive salary of $92,000 + super per annum</li>\n\t<li>Salary sacrifice of $15,900 per annum which can significantly increase your take home pay, plus meal and entertainment expenses of $2,650</li>\n\t<li>Company that is focused on improving the health and wellbeing of our community</li>\n\t<li>5 weeks annual leave + extra paid personal leave</li>\n\t<li>Paid parental leave</li>\n\t<li>A workplace where mob lead the way.</li>\n</ul>\n\n\n\n<p><strong>Our Commitment to Culture</strong><br>\nKalwun strongly encourages Aboriginal and Torres Strait Islander peoples to apply. We are committed to creating a culturally safe, inclusive and respectful workplace where staff and clients feel valued, heard and supported.</p>\n\n<p><strong>To apply</strong><br>\nSend us your CV and a short cover letter addressing the selection criteria.</p>\n\n<p><strong>Together, let’s build stronger futures for our kids, our families, and our communities.</strong></p>",
+      "keywords": [
+        "business",
+        "systems",
+        "officer"
+      ]
+    },
     {
       "job_id": "95608147",
       "job_title": "ICT Support Officer",
@@ -1314,25 +1333,6 @@
       "keywords": [
         "account",
         "manager"
-      ]
-    },
-    {
-      "job_id": "94984135",
-      "job_title": "IT Support Officer",
-      "business_name": "Sitesec PTY LTD",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$70,000 per year",
-      "area": "Mermaid Waters, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/94984135",
-      "advertiser_id": "63895271",
-      "posted_date": "2026-09-30T22:13:55Z",
-      "job_description": "<p><strong>Love technology, solving problems and figuring out how things work? This could be the opportunity you've been looking for.</strong></p><p>We're looking for a switched-on, motivated individual who's hungry to learn, loves a challenge and wants to be part of a fast-growing Australian technology company.</p><p>At SITESEC, we're changing the way construction sites are secured through smart, solar-powered security systems, AI technology and remote monitoring.</p><p>We're not looking for someone who just wants to sit at a desk and work through tickets all day. We want someone who gets excited about technology, takes ownership of problems and genuinely enjoys finding solutions.</p><p>Based in our <strong>Mermaid Beach office</strong>, you'll be part of a young, ambitious team where your work makes a real difference every day.</p><p><br></p><h2>The Role</h2><p>You'll be right in the middle of the technology that powers SITESEC.</p><p>From configuring AI-powered security cameras to troubleshooting live systems across Australia, you'll be working with real technology, solving real problems and continuously building your technical knowledge.</p><p>This is a hands-on technical role with plenty of variety, responsibility and opportunities to develop your skills.</p><p><strong>What You'll Be Doing</strong></p><ul><li><p>Configuring security camera systems, AI detection parameters and custom functions</p></li><li><p>Preparing, testing and configuring technology before it's deployed to construction sites</p></li><li><p>Troubleshooting cameras, networking equipment and remotely connected systems</p></li><li><p>Providing technical support to customers via phone, email and remote access</p></li><li><p>Investigating and resolving help desk tickets efficiently</p></li><li><p>Managing system data, configurations and technical documentation</p></li><li><p>Working closely with our operations and field teams to keep systems performing at their best</p></li><li><p>Learning new technologies and helping us continuously improve our systems</p></li></ul><p><br></p><h2>Who We're Looking For</h2><p><strong>We care just as much about your attitude and drive as we do your experience.</strong></p><p>We want someone who is naturally curious, picks things up quickly and isn't afraid to tackle something they've never done before.</p><ul><li><p><strong>Problem Solver:</strong> You love figuring things out and won't give up at the first hurdle</p></li><li><p><strong>Self-Motivated:</strong> You take initiative and don't need someone looking over your shoulder</p></li><li><p><strong>Fast Learner:</strong> You're keen to develop new skills and expand your technical knowledge</p></li><li><p><strong>Great Communicator:</strong> You can explain technical issues clearly and confidently</p></li><li><p><strong>Team Player:</strong> You bring positive energy, work well with others and enjoy being part of a team</p></li><li><p><strong>Detail-Oriented:</strong> You take pride in doing things right</p></li></ul><p><br></p><p><strong>What You'll Need</strong></p><ul><li><p>Minimum 1 year of experience in a customer service or technical support environment</p></li><li><p>Strong communication and organisational skills</p></li><li><p>Confidence using computers and learning new software</p></li><li><p>Good troubleshooting and problem-solving abilities</p></li><li><p>Experience with networking devices, IP cameras or similar technology is highly regarded</p></li><li><p>A genuine willingness to learn and grow</p></li></ul><p>You don't need to know everything on day one. <strong>If you've got the right attitude, technical curiosity and work ethic, we want to hear from you.</strong></p>",
-      "keywords": [
-        "it",
-        "support",
-        "officer"
       ]
     }
   ]
