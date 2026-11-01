@@ -1,368 +1,358 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "region": "Gold Coast",
-  "scraped_at": "2026-11-01T08:56:11.916759+10:00",
-  "total_jobs": 50,
+  "scraped_at": "2026-11-02T09:14:20.322297+10:00",
+  "total_jobs": 48,
   "keywords": [
     {
       "term": "support",
       "count": 16,
-      "share": 0.32
+      "share": 0.3333
     },
     {
       "term": "it",
       "count": 11,
-      "share": 0.22
+      "share": 0.2292
     },
     {
       "term": "engineer",
-      "count": 10,
-      "share": 0.2
+      "count": 9,
+      "share": 0.1875
     },
     {
       "term": "analyst",
       "count": 7,
-      "share": 0.14
+      "share": 0.1458
     },
     {
       "term": "software",
-      "count": 7,
-      "share": 0.14
+      "count": 6,
+      "share": 0.125
     },
     {
       "term": "business",
       "count": 5,
-      "share": 0.1
+      "share": 0.1042
     },
     {
       "term": "developer",
       "count": 5,
-      "share": 0.1
-    },
-    {
-      "term": "desk",
-      "count": 5,
-      "share": 0.1
+      "share": 0.1042
     },
     {
       "term": "technician",
       "count": 5,
-      "share": 0.1
+      "share": 0.1042
     },
     {
-      "term": "manager",
+      "term": "desk",
       "count": 5,
-      "share": 0.1
+      "share": 0.1042
     },
     {
       "term": "systems",
       "count": 4,
-      "share": 0.08
+      "share": 0.0833
     },
     {
       "term": "officer",
       "count": 4,
-      "share": 0.08
+      "share": 0.0833
     },
     {
       "term": "service",
       "count": 4,
-      "share": 0.08
+      "share": 0.0833
+    },
+    {
+      "term": "manager",
+      "count": 4,
+      "share": 0.0833
     },
     {
       "term": "ai",
       "count": 3,
-      "share": 0.06
+      "share": 0.0625
     },
     {
       "term": "network",
       "count": 3,
-      "share": 0.06
+      "share": 0.0625
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.06
+      "share": 0.0625
     },
     {
       "term": "specialist",
       "count": 3,
-      "share": 0.06
+      "share": 0.0625
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.04
+      "share": 0.0417
     },
     {
       "term": "consultant",
       "count": 2,
-      "share": 0.04
+      "share": 0.0417
     },
     {
       "term": "cybersecurity",
       "count": 2,
-      "share": 0.04
+      "share": 0.0417
     },
     {
       "term": "cloud",
       "count": 2,
-      "share": 0.04
+      "share": 0.0417
     },
     {
       "term": "managed",
       "count": 2,
-      "share": 0.04
+      "share": 0.0417
     },
     {
       "term": "services",
       "count": 2,
-      "share": 0.04
-    },
-    {
-      "term": "help",
-      "count": 2,
-      "share": 0.04
+      "share": 0.0417
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.04
+      "share": 0.0417
     },
     {
       "term": "administrator",
       "count": 2,
-      "share": 0.04
+      "share": 0.0417
+    },
+    {
+      "term": "help",
+      "count": 2,
+      "share": 0.0417
     },
     {
       "term": "ongc",
       "count": 2,
-      "share": 0.04
+      "share": 0.0417
     },
     {
       "term": "application",
       "count": 2,
-      "share": 0.04
+      "share": 0.0417
     },
     {
       "term": "technical",
       "count": 2,
-      "share": 0.04
+      "share": 0.0417
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.04
+      "share": 0.0417
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.04
+      "share": 0.0417
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "intelligence",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "manufacturing",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "golang",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "l2",
-      "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
-      "term": "sql",
+      "term": "l2",
       "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "integrations",
-      "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
+    },
+    {
+      "term": "sql",
+      "count": 1,
+      "share": 0.0208
+    },
+    {
+      "term": "integrations",
+      "count": 1,
+      "share": 0.0208
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "account",
-      "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "prep",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "year",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "infrastructure",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "soc",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "worker",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "quality",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "assurance",
       "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "automation",
-      "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "website",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "growth",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "projects",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "umbraco",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     },
     {
       "term": "cms",
       "count": 1,
-      "share": 0.02
+      "share": 0.0208
     }
   ],
   "jobs": [
@@ -1296,43 +1286,6 @@
       "keywords": [
         "support",
         "technician"
-      ]
-    },
-    {
-      "job_id": "95055111",
-      "job_title": "Software Automation Engineer",
-      "business_name": "Westpac Banking Corporation",
-      "work_type": "Full time",
-      "job_type": "Testing & Quality Assurance",
-      "pay_range": "Base salary + annual bonus + 12% super",
-      "area": "Surfers Paradise, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95055111",
-      "advertiser_id": "46210554",
-      "posted_date": "2026-10-05T04:51:44Z",
-      "job_description": "<p><br>\n<b>Create your best future and join Westpac as a Software Automation Engineer.</b></p>\n\n<p><b>What’s the role?</b></p>\n\n<p>You'll play a key role in helping One commercial banking deliver high quality, reliable technology solutions for our Business Lending customers. As an Automation Engineer, you'll build and enhance automation frameworks that improve testing efficiency, support complex data migration activities, and strengthen confidence in business-critical technology changes.</p>\n\n<p>Working across multiple enterprise applications, you'll automate testing processes, validate large scale data movements, investigate technical issues and collaborate with engineers, architects, business analysts and delivery teams to solve complex challenges. You'll also contribute to improving ways of working, enhancing automation capability and helping teams deliver better outcomes, faster.</p>\n\n<p>This is a full time, hybrid role based in Surfers Paradise, Queensland.</p>\n\n<p><b>What do I need?</b></p>\n\n<p>• Strong experience designing, building and improving automation frameworks for enterprise applications</p>\n\n<p>• Hands on experience with TypeScript, Java, Python, Selenium, UFT, API testing or similar automation technologies</p>\n\n<p>• Experience using SQL, MySQL or similar databases to analyse data, validate outcomes and investigate defects</p>\n\n<p>• Understanding of CI/CD practices, DevOps ways of working and continuous testing approaches</p>\n\n<p>• Experience using AI agents to accelerate and optimise testing, including test data generation and augmentation, test case and automation-script generation, test-data validation and reconciliation</p>\n\n<p>• Strong communication, analytical and stakeholder engagement skills with the ability to work across multiple teams and technologies</p>\n\n<p><b>Why join us?</b></p>\n\n<p>We’re obsessed with becoming our customers #1 banking partner for life and we’re looking for people who are passionate about helping us achieve that goal. In return we’re committed to making Westpac the best place to work in the country. Here are just a few of the ways we’re already doing that:</p>\n\n<p>• Special offers on banking products and discounts from top brands, including generous employee only mortgage rates<br>\n• Flexible work arrangements to help you achieve a greater work life balance, and a variety of leave options including Culture, Lifestyle and Wellbeing leave<br>\n• Tailored learning and development opportunities to help your grow your career within the bank<br>\n• Lots of opportunities to give back to the Community by getting involved in our many volunteering initiatives</p>\n\n<p><b>Create your future today</b></p>\n\n<p>To get started, simply click on the APPLY or APPLY NOW button</p>\n\n<p>We’re all about creating a supportive and inclusive community. We welcome everyone no matter your age, gender, background, or abilities. We also provide additional support to welcome our veterans, Indigenous Australians and neurodiverse community.<br>\nIf you need any adjustments during the recruitment process, you can find more information and contact details on our&nbsp;FAQs and how to contact us page, under the ‘Diversity, sustainability and flexibility’ section.</p>\n\n<p><b>#LI-Hybrid</b></p>\n\n",
-      "keywords": [
-        "software",
-        "automation",
-        "engineer"
-      ]
-    },
-    {
-      "job_id": "95026772",
-      "job_title": "Account Manager",
-      "business_name": "NextGen HR Pty Ltd",
-      "work_type": "Contract/Temp",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$100,000 – $120,000 per year",
-      "area": "Varsity Lakes, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95026772",
-      "advertiser_id": "43563925",
-      "posted_date": "2026-10-02T07:26:08Z",
-      "job_description": "<h2>Account Manager | Technology</h2><h2>Fixed-Term Maternity Leave Contract | 6 Months | Varsity Lakes, Gold Coast</h2><p><strong>Great with clients? Commercially switched on? Comfortable talking tech without needing to be the technical expert?</strong></p><p>DJC Systems is looking for an experienced <strong>Account Manager</strong> to join our team on a fixed-term contract, covering a period of maternity leave for approximately <strong>6 months</strong>.</p><p>Based from our <strong>Varsity Lakes office on the Gold Coast</strong>, you’ll step into an established portfolio of clients and take ownership of those relationships keeping clients engaged, understanding what’s happening in their businesses and ensuring they continue to receive genuine value from their partnership with DJC.</p><p>You <strong>don’t need to be an IT technician</strong>, and you don’t necessarily need to come from an MSP.</p><p>What we are looking for is someone with experience in a <strong>technology-focused environment</strong> who understands the fundamentals of tech, can confidently navigate conversations with clients and technical teams, and knows how to build strong commercial relationships.</p><h2>The Role</h2><p>As Account Manager, you’ll be the primary commercial point of contact for your assigned clients.</p><p>You’ll take the time to understand their businesses, technology environments and future plans, while working closely with DJC’s technical and service teams to make sure the right people are brought into the conversation when needed.</p><p>You’ll lead regular client reviews, manage ongoing commercial activity and identify opportunities where additional technology, projects or services could genuinely benefit the client.</p><p>This is a relationship-led role with a commercial edge perfect for someone who enjoys getting to know their clients, asking the right questions and connecting the dots.</p><h2>What You’ll Be Doing</h2><ul><li><p>Take ownership of an established portfolio of client relationships</p></li><li><p>Build trusted relationships with key client stakeholders</p></li><li><p>Lead regular Tactical Business Reviews and ongoing client meetings</p></li><li><p>Develop an understanding of each client’s business, technology environment and future plans</p></li><li><p>Identify opportunities across projects, hardware, software, licensing and additional services</p></li><li><p>Manage and progress client opportunities through the sales pipeline</p></li><li><p>Coordinate agreement renewals and other commercial requirements</p></li><li><p>Support clients with commercial and invoicing queries</p></li><li><p>Work closely with DJC’s Service Desk, Engineering, Projects, Security and Finance teams</p></li><li><p>Ensure client feedback, priorities and challenges are communicated internally</p></li><li><p>Coordinate smooth handovers between client conversations and technical delivery</p></li><li><p>Maintain accurate client, opportunity and meeting information within DJC’s systems</p></li></ul><h2>What We’re Looking For</h2><p>You’ll be a confident relationship builder who can walk into an established portfolio, quickly get to know your clients and become someone they trust.</p><p>We’d love to hear from you if you have:</p><ul><li><p>Previous experience in <strong>Account Management, Client Relationship Management or a similar client-facing commercial role</strong></p></li><li><p>Experience working within <strong>technology, software, telecommunications, IT services or another tech-focused environment</strong></p></li><li><p>A good understanding of technology fundamentals you don't need to be highly technical, but you need to be comfortable talking about technology</p></li><li><p>Strong relationship-building and stakeholder management skills</p></li><li><p>Commercial confidence and the ability to identify opportunities within existing accounts</p></li><li><p>The ability to ask great questions, understand a client's needs and bring in the right technical expertise when required</p></li><li><p>Excellent written and verbal communication skills</p></li><li><p>Strong organisation and the ability to manage multiple clients, priorities and deadlines</p></li><li><p>Confidence working collaboratively across technical and non-technical teams</p></li></ul><p><strong>MSP experience would be welcomed, but it is not essential.</strong></p><h2>Why DJC Systems?</h2><p>This is an opportunity to step straight into an established portfolio and make an impact from day one.</p><p>You’ll work alongside an experienced team who can provide the technical expertise — your role is to <strong>own the relationship, understand the client and bring the right people together</strong>.</p><p>Based alongside the team in <strong>Varsity Lakes</strong>, you’ll have the opportunity to build strong internal relationships as well as spend time face-to-face with clients.</p><p>For someone looking for a fixed-term opportunity within the technology industry, this is a chance to gain great exposure, take genuine ownership and work with a diverse portfolio of established clients.</p><h2>Sound Like You?</h2><p>If you’re a natural relationship builder with Account Management experience and enough tech knowledge to confidently operate in a technology environment, we’d love to hear from you.</p><p><strong>Apply now to join DJC Systems on the Gold Coast.</strong></p>",
-      "keywords": [
-        "account",
-        "manager"
       ]
     }
   ]
