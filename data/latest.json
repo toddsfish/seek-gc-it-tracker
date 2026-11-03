@@ -1,361 +1,473 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "region": "Gold Coast",
-  "scraped_at": "2026-11-02T09:14:20.322297+10:00",
-  "total_jobs": 48,
+  "scraped_at": "2026-11-03T11:56:09.043433+10:00",
+  "total_jobs": 53,
   "keywords": [
     {
       "term": "support",
-      "count": 16,
-      "share": 0.3333
+      "count": 17,
+      "share": 0.3208
     },
     {
       "term": "it",
       "count": 11,
-      "share": 0.2292
+      "share": 0.2075
     },
     {
       "term": "engineer",
-      "count": 9,
-      "share": 0.1875
+      "count": 11,
+      "share": 0.2075
     },
     {
       "term": "analyst",
       "count": 7,
-      "share": 0.1458
+      "share": 0.1321
     },
     {
       "term": "software",
       "count": 6,
-      "share": 0.125
+      "share": 0.1132
     },
     {
       "term": "business",
       "count": 5,
-      "share": 0.1042
+      "share": 0.0943
     },
     {
       "term": "developer",
       "count": 5,
-      "share": 0.1042
+      "share": 0.0943
     },
     {
       "term": "technician",
       "count": 5,
-      "share": 0.1042
+      "share": 0.0943
     },
     {
       "term": "desk",
       "count": 5,
-      "share": 0.1042
+      "share": 0.0943
+    },
+    {
+      "term": "manager",
+      "count": 5,
+      "share": 0.0943
     },
     {
       "term": "systems",
       "count": 4,
-      "share": 0.0833
+      "share": 0.0755
     },
     {
       "term": "officer",
       "count": 4,
-      "share": 0.0833
+      "share": 0.0755
     },
     {
       "term": "service",
       "count": 4,
-      "share": 0.0833
+      "share": 0.0755
     },
     {
-      "term": "manager",
-      "count": 4,
-      "share": 0.0833
+      "term": "consultant",
+      "count": 3,
+      "share": 0.0566
     },
     {
       "term": "ai",
       "count": 3,
-      "share": 0.0625
+      "share": 0.0566
     },
     {
       "term": "network",
       "count": 3,
-      "share": 0.0625
+      "share": 0.0566
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0625
+      "share": 0.0566
+    },
+    {
+      "term": "administrator",
+      "count": 3,
+      "share": 0.0566
     },
     {
       "term": "specialist",
       "count": 3,
-      "share": 0.0625
+      "share": 0.0566
+    },
+    {
+      "term": "applications",
+      "count": 3,
+      "share": 0.0566
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.0417
-    },
-    {
-      "term": "consultant",
-      "count": 2,
-      "share": 0.0417
+      "share": 0.0377
     },
     {
       "term": "cybersecurity",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0377
     },
     {
       "term": "cloud",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0377
     },
     {
       "term": "managed",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0377
     },
     {
       "term": "services",
       "count": 2,
-      "share": 0.0417
-    },
-    {
-      "term": "telecommunications",
-      "count": 2,
-      "share": 0.0417
-    },
-    {
-      "term": "administrator",
-      "count": 2,
-      "share": 0.0417
+      "share": 0.0377
     },
     {
       "term": "help",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0377
+    },
+    {
+      "term": "telecommunications",
+      "count": 2,
+      "share": 0.0377
     },
     {
       "term": "ongc",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0377
     },
     {
       "term": "application",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0377
     },
     {
       "term": "technical",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0377
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0377
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0377
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "intelligence",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "manufacturing",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
+    },
+    {
+      "term": "allres",
+      "count": 1,
+      "share": 0.0189
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
+    },
+    {
+      "term": "net",
+      "count": 1,
+      "share": 0.0189
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "golang",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "ict",
-      "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "l2",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
+    },
+    {
+      "term": "ict",
+      "count": 1,
+      "share": 0.0189
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "sql",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "integrations",
       "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "applications",
-      "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "prep",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "year",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
+    },
+    {
+      "term": "process",
+      "count": 1,
+      "share": 0.0189
+    },
+    {
+      "term": "improvement",
+      "count": 1,
+      "share": 0.0189
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "infrastructure",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "soc",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "worker",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "quality",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "assurance",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "website",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "growth",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "projects",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "umbraco",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     },
     {
       "term": "cms",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0189
     }
   ],
   "jobs": [
+    {
+      "job_id": "95634995",
+      "job_title": "Applications Administrator",
+      "business_name": "Bond University",
+      "work_type": "Full time",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "$99,108 per annum plus 12% superannuation",
+      "area": "Robina, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95634995",
+      "advertiser_id": "20551487",
+      "posted_date": "2026-11-02T05:00:17Z",
+      "job_description": "<p><strong>As Australia's first private University, Bond University based at Robina, Gold Coast seeks to be recognised internationally as a leading independent university, imbued with a spirit to innovate, a commitment to influence and a dedication to inspire tomorrow's professionals who share a personalised and transformational student experience.</strong></p><p><strong>&nbsp;</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support student systems and data administration across the University.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Administer and configure student systems to support users effectively.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monitor, troubleshoot and improve system performance and processes.</p><p><strong>&nbsp;</strong></p><p><strong>Applications Administrator</strong></p><p><strong>University Registrar - Student Business Services</strong></p><p><strong>Full-time, Continuing Appointment</strong></p><p><strong>Position Reference No: <a href=\"tel:201413250\">201413250</a></strong></p><p><br></p><p><strong>Join Australia’s number one University for teaching*, and enjoy staff benefits including:</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free staff car parking</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Salary packaging options for FBT and Non-FBT items#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17.5% of base salary leave loading</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Staff wellbeing program</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free &amp; Confidential Employee Assistance Program available for all staff</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Study assistance for staff and dependents#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Corporate health and finance discounts</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Medical Centre and Counselling Services</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Sports Centre including gym, fitness classes and pool#</p><p><br></p><p><strong>About the Position</strong></p><p>The Applications Administrator will act as a key support resource in the Student Systems and Data team. The team is responsible for the administration and updates to the student management system used by Bond University, the timetabling system, the student placement system, the student wellbeing systems, the student portal and reporting to Government on student data.</p><p><br></p><p>The Applications Administrator will be assigned to provide support in delivering dedicated software solutions to university stakeholders, enabling business improvement, data accuracy and effective system maintenance. This role requires collaboration across the university, including Student Business Services, Information Technology Services, the Student Success and Wellbeing team and the University’s faculties and academic units, to ensure optimal value is derived from core systems. The role is also responsible for system configuration, system health, and daily operational support including performance monitoring, data integration and reporting from the support systems.</p><p><br></p><p>The primary focus of the role is supporting the InPlace Student Placement Management System, and the suite of Symplicity products (Advocate, Access, UniHub &amp; CSM) used by the Registrar’s portfolio and other designated student facing and support roles and organisational areas. However, support to other applications may be required as business needs arise across the Student Systems and Data team.</p><p><br></p><p><strong>About the Person</strong></p><p>The ideal candidate will be able to demonstrate the following:</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Completion of a bachelor’s level qualification in Information Technology and/or relevant work experience.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Extensive experience within a professional ICT environment covering planning, administering, maintaining, and supporting business applications and data security.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; High-level problem-solving skills, including the ability to proactively develop innovative solutions.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sound understanding of technical IT issues to enable discussions with internal and external technical specialists.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience in managing third-party vendor suppliers and issue resolution.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong technical writing skills with proven ability to maintain comprehensive written system documentation.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ability to monitor continuous data integrations and perform relevant data cleansing for raised exceptions.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrated experience in defining and optimising business processes.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong cross-functional relationship management skills, including excellent written and oral communication skills.</p><p><strong>&nbsp;</strong></p><p><strong>Salary details</strong></p><p>The salary for this full-time position commences at $99,108 per annum plus 12% superannuation per annum.</p><p><br></p><p><strong>Further information</strong></p><p>Position-related enquiries can be directed to Tanya Cook, <a href=\"mailto:tcook@bond.edu.au\" target=\"_blank\">tcook@bond.edu.au</a> or <a href=\"tel:07 55951172\">07 55951172</a>.</p><p><br></p><p><strong>How to Apply for this Position</strong></p><p>For further details regarding this appointment, please reference the <a href=\"https://bond.edu.au/sites/default/files/2025-08/PD%20Applications%20Administrator.pdf\" target=\"_blank\">Position Description and Selection Criteria.</a></p><p><br></p><p>Click&nbsp;<em>Apply Now</em>&nbsp;and&nbsp;<em>Create New Account</em>&nbsp;to get started. You can:</p><ul><li><p>Upload your Resume – your account will be created automatically, or</p></li><li><p>Manually enter your details to set up your account.</p></li></ul><p>Please ensure your application includes:</p><ul><li><p>A current resume</p></li><li><p>A cover letter addressing the Selection Criteria outlined in the Position Description above</p></li></ul><p><br></p><p>For current Bond University staff, apply directly via <a href=\"https://hrconnect.bond.edu.au\" target=\"_blank\">People Connect</a>, log in with staff credentials, from the Home dashboard select Careers, select the role and apply.<br><br>If you require any assistance with your application submission, please visit <a href=\"https://bond.edu.au/about-bond/careers-bond/applying-jobs-bond\" target=\"_blank\">Applying for jobs at Bond</a>.</p><p><br></p><p><strong>Applications close: 11:59pm, Monday 16 November 2026</strong></p><p><br></p><p><em>Applicants must have current work rights in Australia at the time of application. This status will be verified as part of the recruitment process.</em></p><p><br></p><p><em>Pre-employment checks: Appointment is subject to satisfactory pre-employment checks (including working rights verification, reference checks and a certified copy of your highest qualification). In line with the National Higher Education Code to Prevent and Respond to Gender-based Violence 2025, preferred candidates must complete a Gender-Based Violence (GBV) Declaration, and any offer of employment will be conditional upon the University’s review of the declaration. For more information, please visit our website via this link:&nbsp;</em><a href=\"https://bond.edu.au/our-university/careers-at-bond/applying-for-jobs-at-bond\" target=\"_blank\"><em>Applying for Jobs at Bond</em></a></p><p><br></p><p><strong>Conditions of employment are offered under a Bond Workplace Agreement (BWA).</strong></p><p><br></p><p>Bond University is an equal opportunity employer, and we encourage our students and staff to respect individuality and diversity. In line with Bond University’s values, people from diverse backgrounds, women, Aboriginal and Torres Strait Islander people, people who identify as LGBTIQ+, and people with a disability are encouraged to apply for positions at the University.</p><p><br></p><p><a href=\"https://bond.edu.au/privacy\" target=\"_blank\">Bond University Privacy Policy</a></p><p>#Eligibility criteria or membership fees apply<br>*Australian Financial Review’s Best Universities Ranking 2024&nbsp;</p>",
+      "keywords": [
+        "applications",
+        "administrator"
+      ]
+    },
+    {
+      "job_id": "95632982",
+      "job_title": "Support Engineer – Level 2",
+      "business_name": "Acworth Recruitment",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Burleigh Heads, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95632982",
+      "advertiser_id": "36752432",
+      "posted_date": "2026-11-02T03:54:37Z",
+      "job_description": "<p><strong>About Ozdoc Solutions</strong></p><p>Ozdoc Solutions Partnership is Australia’s premier Medical IT provider, delivering customised technology solutions to meet the needs of today's demanding healthcare industry.</p><p><br></p><p>We design and implement the best combination of on-premise, hybrid and complete cloud systems, incorporating hardware, software and state-of-the-art digital solutions.</p><p><br></p><p>We are committed to excellence, growth, integrity and innovation, while always striving to be as human as possible — after all, our clients and our team are at the heart of everything we do.</p><p><br></p><p><strong>“We care for technology so you can care for people.”</strong></p><p><strong>&nbsp;</strong></p><p><strong>About the Role</strong></p><p>We are looking for an experienced and motivated <strong>Level 2 Support Engineer</strong> to join our team and take the next step in their IT career.</p><p><br></p><p>This is a hands-on technical support role where you'll be working directly with our healthcare clients to investigate, troubleshoot and resolve more complex IT issues across their environments.</p><p><br></p><p>You'll be part of a professional support team, taking escalated issues beyond first-response troubleshooting and working through problems across servers, desktops, networks, Microsoft environments, cloud systems and other technologies within our clients' environments.</p><p><br></p><p><strong>We're not simply looking for someone who wants to stay at Level 2. We're looking for someone with the</strong> <strong>drive and capability to keep developing</strong>.</p><p><br></p><p>For the right person, there are two potential career pathways:</p><p><strong>Pathway 1 – L2 Support → L3 Support</strong></p><p>Continue developing your technical depth, taking on increasingly complex escalations, troubleshooting and infrastructure responsibilities as you progress towards a Level 3 Support Engineer role.</p><p><strong>Pathway 2 – L2 Support → L2 Field Engineer → L3 Field Engineer</strong></p><p>For someone who enjoys getting out from behind the desk, there is also the opportunity to develop into a Field Engineering role, gaining greater hands-on exposure to client environments, projects and infrastructure before progressing towards L3 Field Engineering.</p><p>The pathway will depend on your strengths, interests and career aspirations.</p><p><strong>&nbsp;</strong></p><p><strong>What You'll Be Doing</strong></p><ul><li><p>Provide Level 2 technical support to clients across a range of IT environments</p></li><li><p>Investigate and resolve escalated technical issues</p></li><li><p>Troubleshoot hardware, software, network and connectivity issues</p></li><li><p>Support Microsoft and cloud-based environments</p></li><li><p>Diagnose issues across desktops, servers and network infrastructure</p></li><li><p>Manage tickets through to resolution while maintaining clear client communication</p></li><li><p>Escalate complex issues appropriately and work collaboratively with other engineers</p></li><li><p>Assist with maintaining and supporting client infrastructure</p></li><li><p>Contribute to projects, improvements and technology upgrades</p></li><li><p>Document solutions, processes and technical information</p></li><li><p>Build strong relationships with clients through exceptional communication and service</p></li><li><p>Continue developing your technical knowledge and capabilities</p></li></ul><p><strong>&nbsp;</strong></p><p><strong>What We're Looking For</strong></p><p>We're looking for someone who already has a solid foundation in IT support and is ready to take their technical career further.</p><p><br></p><p>You'll ideally have:</p><ul><li><p>Previous experience working in a Level 2 IT Support role or at least 18 months working in a Level 1 IT Support role.</p></li><li><p>Strong troubleshooting and problem-solving capabilities</p></li><li><p>Experience supporting Windows desktop environments</p></li><li><p>Exposure to Microsoft 365 and cloud technologies</p></li><li><p>Understanding of networking fundamentals</p></li><li><p>Experience working with servers and/or infrastructure</p></li><li><p>The ability to diagnose problems rather than simply follow a script</p></li><li><p>Excellent communication and customer service skills</p></li><li><p>Strong attention to detail and documentation skills</p></li><li><p>A positive, proactive and can-do attitude</p></li><li><p>The ability to work independently while being a strong team player</p></li><li><p>A genuine desire to learn, develop and progress your career</p></li></ul><p><br></p><p>Relevant IT qualifications and certifications will be highly regarded, including Microsoft certifications and other industry-recognised technical qualifications.</p><p><br></p><p>We're also interested in where you want to go next. If you're ambitious, enjoy solving problems and want to develop towards L3 Support or Field Engineering, we'd like to hear from you.</p><p><br></p><p><strong>What’s on Offer</strong></p><ul><li><p>$75,000 – $85,000 + superannuation, depending on experience and capability</p></li><li><p>Genuine career development opportunities</p></li><li><p>Clear pathways towards L3 Support or L2/L3 Field Engineering</p></li><li><p>Additional after-hours remuneration on top of your base salary</p></li><li><p>Proactive and supportive work environment</p></li><li><p>Up-to-date technology and equipment</p></li><li><p>Challenging work where you're always learning</p></li><li><p>Burleigh Heads location — work close to home</p></li><li><p>Flexible work options</p></li><li><p>Salary sacrifice plans</p></li><li><p>Employee referral program</p></li><li><p>Peer bonus program</p></li><li><p>Birthday gift voucher and the day off — yes, we don't work birthdays at Ozdoc !</p></li><li><p>Quarterly team-building events</p></li><li><p>Monthly team lunches</p></li><li><p>The opportunity to have your ideas heard and make a genuine contribution</p></li></ul><p><strong>&nbsp;</strong></p><p><strong>Why Ozdoc?</strong></p><p>At Ozdoc, you're not just another technician working through a queue of tickets.</p><p><br></p><p>You'll become part of a close-knit team supporting clients where technology genuinely matters. You'll have exposure to a broad range of environments, the opportunity to work on interesting technical challenges and the support to keep developing your career.</p><p><br></p><p>If you're ready to move beyond Level 2 and want a role where your next step is part of the plan, this could be the opportunity you've been looking for.</p><p><br></p><p><strong>Want to Join the Ozdoc Team?</strong></p><p>If you're an experienced Level 2 Support Engineer ready to build your technical career with an organisation that values its people, its clients and continuous development, we'd love to hear from you.</p><p><br></p><p>Please submit your current resume along with details and evidence of your experience, qualifications and technical capabilities.</p><p><br></p><p>Only applicants meeting the criteria outlined above will be contacted as part of the shortlisting process.</p>",
+      "keywords": [
+        "support",
+        "engineer"
+      ]
+    },
+    {
+      "job_id": "95629980",
+      "job_title": "ALLRes Consultant",
+      "business_name": "Accor Apartments and Realty",
+      "work_type": "Full time",
+      "job_type": "Consultants",
+      "pay_range": "Global Discounts + Reward & Recognition Programs",
+      "area": "Surfers Paradise, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95629980",
+      "advertiser_id": "47372921",
+      "posted_date": "2026-11-02T02:37:22Z",
+      "job_description": "<p>We are&nbsp;Accor, a world leader in the hospitality industry represented in 110 countries and over 5,000 hotels globally. Placing people at the heart of what we do with more than 300,000 hospitality experts, nurturing passion for service and achievement beyond limits. Building on the strength of our teams, we personalise expert solutions to break new ground and reimagine hospitality to inspire new ways to experience the world.&nbsp;</p><p><strong>Purpose</strong></p><p>As an ALLRes Consultant, based at the Accor Gold Coast Corporate Office, you assume a pivotal role within our ALLRes and Guest Experience Team. Think of yourself as the go-to expert for room availability, rates, and creating reservations for our properties across Australia and New Zealand. You bring a touch of excitement by suggesting enticing upgrades; all while working seamlessly with our Teams on-site to ensure a smooth and enjoyable guest experience.</p><p><strong>Primary Responsibilities</strong></p><ul><li><p>Manage reservations made via phone, email, and online platforms, providing guests with accurate information on room availability, rates, and special offers</p></li><li><p>Be the first point of contact for our guests, addressing inquiries, answering questions, and assisting with reservation modifications and cancellations</p></li><li><p>Safely and securely handle payment transactions and verify billing details for accuracy</p></li><li><p>Suggest room upgrades, offer special amenities, and fulfil specific guest requests to elevate their stay</p></li><li><p>Assist in resolving guest complaints or issues related to reservations or billing</p></li></ul><p><strong>Skills and Experience</strong></p><ul><li><p>Customer service-oriented with exceptional communication skills</p></li><li><p>Previous experience in a similar role in the hospitality industry is preferred</p></li><li><p>Proficiency in using Microsoft Office, reservation and property management systems is a plus</p></li><li><p>Problem-solving skills and the ability to remain calm under pressure</p></li><li><p>Team player with a positive attitude and willingness to go the extra mile</p></li><li><p>Capable of embracing a flexible rotating schedule, including nights, weekends, and public holidays</p></li></ul><p><strong>&nbsp;Accor Benefits</strong></p><ul><li><p>ALL Heartist Membership -&nbsp;Take advantage of discounts on accommodation and food &amp; beverage worldwide!</p></li><li><p>Family &amp; Friends Discounts&nbsp;-&nbsp;Available on a range of accommodation, services and events for those who mean the most to you</p></li><li><p>Accor Live Limitless (ALL) Loyalty Program&nbsp;-&nbsp;Earn status &amp; reward points on your worldwide stays</p></li><li><p>Learn Your Way&nbsp;-&nbsp;Support your career development with access to Accor’s industry leading training platforms, Accor Academy and Typsy</p></li><li><p>Build Your Network&nbsp;-&nbsp;With more than 300,000 Accor professionals globally sharing the same guest passion, you have the ability to grow your hospitality network worldwide</p></li><li><p>Worldwide Opportunities&nbsp;-&nbsp;We are a world leading hotel operator! With over 400 hotels in the Pacific and more than 5,000 across 110 countries, offering limitless opportunities to grow your career</p></li></ul><p>At Accor, we welcome you as you are. We help you grow and learn, so that work brings purpose to your life. By joining Accor, every chapter of your story is yours to write, and together we can imagine tomorrow's hospitality. Accor is an inclusive company, building diverse teams across the globe.</p><p><strong>Everyone has a story and we want to learn yours. We invite you to APPLY NOW.</strong></p>",
+      "keywords": [
+        "allres",
+        "consultant"
+      ]
+    },
+    {
+      "job_id": "95629586",
+      "job_title": "Manager, Applications and Process Improvement",
+      "business_name": "Bond University",
+      "work_type": "Full time",
+      "job_type": "Management",
+      "pay_range": "$116,195.70 per annum, plus 12% Superannuation",
+      "area": "Robina, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95629586",
+      "advertiser_id": "20551487",
+      "posted_date": "2026-11-02T02:24:58Z",
+      "job_description": "<p><strong>As Australia's first private University, Bond University based at Robina, Gold Coast seeks to be recognised internationally as a leading independent university, imbued with a spirit to innovate, a commitment to influence and a dedication to inspire tomorrow's professionals who share a personalised and transformational student experience.</strong></p><p><strong>&nbsp;</strong></p><p><strong>Manager, Applications and Process Improvement</strong></p><p><strong>University Registrar - Student Business Services</strong></p><p><strong>Full-time, Continuing Appointment</strong></p><p><strong>Position Reference No: <a href=\"tel:201413249\">201413249</a></strong></p><p><br></p><p><strong>Join Australia’s number one University for teaching*, and enjoy staff benefits including:</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free staff car parking</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Salary packaging options for FBT and Non-FBT items#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17.5% of base salary leave loading</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Staff wellbeing program</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free &amp; Confidential Employee Assistance Program available for all staff</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Study assistance for staff and dependents#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Corporate health and finance discounts</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Medical Centre and Counselling Services</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Sports Centre including gym, fitness classes and pool#</p><p><br></p><p><strong>About the Position</strong></p><p>The Manager, Applications and Process Improvement is focused on delivering services to support the University’s commitment to an exceptional student experience, leading to positive outcomes in student success, retention and completion.</p><p><br></p><p>The role will have a focus on student systems and associated process improvements, using an evidence-based approach to facilitate the identification and implementation of improvements as well as methods to measure service performance, implementation, and development. The post holder ensures consistency, smooth integration of systems and services, liaising with relevant internal and external stakeholders and effective management of change impacts. This includes identifying and investigating business process improvement opportunities and service delivery enhancements, coordinating the development and implementation of service improvement plans for specific systems or processes, in consultation with stakeholders and with the Director’s oversight.</p><p><br></p><p>The post holder assists with implementing improvements to the university’s student system (<em>Student One</em>) in collaboration with the Manager, Student Systems &amp; Data, and oversees management of applications such as the <em>MyBond </em>student portal and app, as well as systems support for <em>Time Edit</em> timetabling software.</p><p><br></p><p><strong>About the Person</strong></p><p>The ideal candidate will be able to demonstrate the following:</p><p>&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Completion of, or progress towards, relevant postgraduate qualifications and extensive relevant experience; or an equivalent combination of relevant experience and education.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Significant experience in business analysis, process mapping, re-engineering, continuous improvement and organisational change, including analysing complex problems and developing practical solutions.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Extensive knowledge of contemporary approaches to customer service (preferably in a higher education setting), with demonstrated experience using administrative systems and data analysis to improve service delivery to students.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong interpersonal and communication skills, with the ability to build strategic and trusted working relationships with a diverse range of technical and non-technical stakeholders.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proven project management skills, including the ability to set achievable, time-bound tasks from strategic and tactical objectives, and to work autonomously and in a team, managing multiple tasks under tight deadlines.</p><p><br></p><p><strong>Salary details</strong></p><p>The salary for this full-time position commences at $116,195.70 per annum plus 12% superannuation per annum.</p><p><br></p><p><strong>Further information</strong></p><p>Position-related enquiries can be directed to Tanya Cook, <a href=\"mailto:tcook@bond.edu.au\" target=\"_blank\">tcook@bond.edu.au</a> or <a href=\"tel:07-5595 1172\">07-5595 1172</a>.</p><p><br></p><p><strong>How to Apply for this Position</strong></p><p>For further details regarding this appointment, please reference the <a href=\"https://bond.edu.au/sites/default/files/2026-11/PD%20Manager%2C%20Applications%20and%20Process%20Improvement%20SEP%202026.v1%20%281%29.pdf\" target=\"_blank\">Position Description</a> and Selection Criteria.</p><p><br></p><p>Click&nbsp;<em>Apply Now</em>&nbsp;and&nbsp;<em>Create New Account</em>&nbsp;to get started. You can:</p><ul><li><p>Upload your Resume – your account will be created automatically, or</p></li><li><p>Manually enter your details to set up your account.</p></li></ul><p>Please ensure your application includes:</p><ul><li><p>A current resume</p></li><li><p>A cover letter addressing the Selection Criteria outlined in the Position Description above</p></li></ul><p><br></p><p>For current Bond University staff, apply directly via <a href=\"https://hrconnect.bond.edu.au\" target=\"_blank\">People Connect</a>, log in with staff credentials, from the Home dashboard select Careers, select the role and apply.</p><p><br><br>If you require any assistance with your application submission, please visit <a href=\"https://bond.edu.au/about-bond/careers-bond/applying-jobs-bond\" target=\"_blank\">Applying for jobs at Bond</a>.</p><p><br></p><p><strong>Applications close: 11:59pm, Monday 16 November 2026</strong></p><p><br></p><p><em>Applicants must have current work rights in Australia at the time of application. This status will be verified as part of the recruitment process.</em></p><p><br></p><p><em>Pre-employment checks: Appointment is subject to satisfactory pre-employment checks (including working rights verification, reference checks and a certified copy of your highest qualification). In line with the National Higher Education Code to Prevent and Respond to Gender-based Violence 2025, preferred candidates must complete a Gender-Based Violence (GBV) Declaration, and any offer of employment will be conditional upon the University’s review of the declaration. For more information, please visit our website via this link:&nbsp;</em><a href=\"https://bond.edu.au/our-university/careers-at-bond/applying-for-jobs-at-bond\" target=\"_blank\"><em>Applying for Jobs at Bond</em></a></p><p><br></p><p><strong>Conditions of employment are offered under a Bond Workplace Agreement (BWA).</strong></p><p><br></p><p>Bond University is an equal opportunity employer, and we encourage our students and staff to respect individuality and diversity. In line with Bond University’s values, people from diverse backgrounds, women, Aboriginal and Torres Strait Islander people, people who identify as LGBTIQ+, and people with a disability are encouraged to apply for positions at the University.</p><p><a href=\"https://bond.edu.au/privacy\" target=\"_blank\">Bond University Privacy Policy</a></p><p>#Eligibility criteria or membership fees apply<br>*Australian Financial Review’s Best Universities Ranking 2024&nbsp;</p>",
+      "keywords": [
+        "manager",
+        "applications",
+        "process",
+        "improvement"
+      ]
+    },
+    {
+      "job_id": "95625797",
+      "job_title": ".Net Engineer",
+      "business_name": "Lanson Partners",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95625797",
+      "advertiser_id": "45143741",
+      "posted_date": "2026-11-01T23:42:43Z",
+      "job_description": "We’re partnering with a major Australian financial services organisation to hire a Senior .NET Engineer into a business-critical lending technology team on the Gold Coast.<br><br> This role sits within a significant transformation program focused on simplifying and modernising a complex business lending environment. You’ll work across an established .NET application estate while helping deliver new APIs, integrations and platform improvements that reduce manual processes and improve the flow of data across multiple systems.<br><br> This is not a pure greenfield role. It will suit an experienced engineer who is comfortable understanding mature systems, diagnosing complex issues and improving existing platforms rather than automatically rewriting them.<br><br> <strong>The role<br></strong> <br>You’ll work across a combination of new development, integration and BAU engineering, with responsibility for:<br> <ul> <li>Designing and developing C#/.NET applications and REST APIs</li> <li>Building and improving integrations across interconnected enterprise systems</li> <li>Working across both modern and established .NET applications</li> <li>Investigating complex production issues and driving root-cause resolution</li> <li>Designing secure and maintainable API solutions</li> <li>Working closely with other engineers, architects and business stakeholders</li> <li>Contributing to technical design, code reviews and engineering standards</li> <li>Improving application reliability, maintainability and performance</li> <li>Supporting broader platform modernisation and transformation initiatives</li> </ul> <strong>What we’re looking for</strong> <br><br>You’ll ideally bring strong hands-on experience across:<br> <ul> <li>C# and .NET / .NET Framework</li> <li>ASP.NET MVC / Web API</li> <li>RESTful API design</li> <li>SQL Server and T-SQL</li> <li>Object-oriented design and core .NET fundamentals</li> <li>SOLID principles and common design patterns</li> <li>Authentication, authorisation and API security</li> <li>Exception handling and production-grade error management</li> <li>Enterprise integrations</li> <li>Production troubleshooting and root-cause analysis</li> <li>Solution design across complex application environments</li> </ul> Experience within banking, financial services or another large enterprise environment would be useful, but it’s not essential.<br><br> More important is your ability to understand complex systems, make sound technical decisions and clearly explain the reasoning behind your approach.<br> <br><strong>Why consider it?</strong> <br><br>You’ll join a major transformation program where the work has direct impact on how business lending is delivered across the organisation.<br><br> There is a genuine mix of engineering challenges across APIs, integrations, application modernisation, production problem-solving and solution design, with the opportunity to work across both established platforms and newer technology.<br><br> The role is based on the <strong>Gold Coast</strong> with a hybrid working model of approximately <strong>2–3 days per week in the office</strong>.<br><br> <strong>Package: up to approximately $165k base + super + bonus.<br></strong><br> The interview process includes a technical assessment followed by technical and leadership interviews.<br><br> If you’re an experienced .NET Engineer who enjoys getting under the hood of complex systems rather than only working on greenfield projects, reach out to Matt Kirk on <a href=\"mailto:matt.kirk@lansonpartners.com\">matt.kirk@lansonpartners.com</a> or apply using the link.",
+      "keywords": [
+        "net",
+        "engineer"
+      ]
+    },
     {
       "job_id": "95615626",
       "job_title": "Business Systems Officer",
