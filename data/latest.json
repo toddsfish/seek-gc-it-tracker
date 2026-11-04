@@ -1,381 +1,478 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "region": "Gold Coast",
-  "scraped_at": "2026-11-03T11:56:09.043433+10:00",
-  "total_jobs": 53,
+  "scraped_at": "2026-11-04T10:17:33.059637+10:00",
+  "total_jobs": 56,
   "keywords": [
     {
       "term": "support",
-      "count": 17,
-      "share": 0.3208
+      "count": 18,
+      "share": 0.3214
     },
     {
       "term": "it",
-      "count": 11,
-      "share": 0.2075
+      "count": 12,
+      "share": 0.2143
     },
     {
       "term": "engineer",
       "count": 11,
-      "share": 0.2075
+      "share": 0.1964
     },
     {
       "term": "analyst",
       "count": 7,
-      "share": 0.1321
+      "share": 0.125
+    },
+    {
+      "term": "officer",
+      "count": 6,
+      "share": 0.1071
     },
     {
       "term": "software",
       "count": 6,
-      "share": 0.1132
+      "share": 0.1071
+    },
+    {
+      "term": "manager",
+      "count": 6,
+      "share": 0.1071
     },
     {
       "term": "business",
       "count": 5,
-      "share": 0.0943
+      "share": 0.0893
     },
     {
       "term": "developer",
       "count": 5,
-      "share": 0.0943
+      "share": 0.0893
     },
     {
       "term": "technician",
       "count": 5,
-      "share": 0.0943
+      "share": 0.0893
     },
     {
       "term": "desk",
       "count": 5,
-      "share": 0.0943
-    },
-    {
-      "term": "manager",
-      "count": 5,
-      "share": 0.0943
+      "share": 0.0893
     },
     {
       "term": "systems",
       "count": 4,
-      "share": 0.0755
-    },
-    {
-      "term": "officer",
-      "count": 4,
-      "share": 0.0755
+      "share": 0.0714
     },
     {
       "term": "service",
       "count": 4,
-      "share": 0.0755
+      "share": 0.0714
     },
     {
       "term": "consultant",
       "count": 3,
-      "share": 0.0566
+      "share": 0.0536
     },
     {
       "term": "ai",
       "count": 3,
-      "share": 0.0566
+      "share": 0.0536
     },
     {
       "term": "network",
       "count": 3,
-      "share": 0.0566
+      "share": 0.0536
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0566
+      "share": 0.0536
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0566
+      "share": 0.0536
+    },
+    {
+      "term": "technical",
+      "count": 3,
+      "share": 0.0536
     },
     {
       "term": "specialist",
       "count": 3,
-      "share": 0.0566
+      "share": 0.0536
     },
     {
       "term": "applications",
       "count": 3,
-      "share": 0.0566
+      "share": 0.0536
     },
     {
       "term": "technology",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0357
     },
     {
       "term": "cybersecurity",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0357
     },
     {
       "term": "cloud",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0357
     },
     {
       "term": "managed",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0357
     },
     {
       "term": "services",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0357
     },
     {
-      "term": "help",
+      "term": "ict",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0357
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0357
     },
     {
-      "term": "ongc",
+      "term": "help",
       "count": 2,
-      "share": 0.0377
-    },
-    {
-      "term": "application",
-      "count": 2,
-      "share": 0.0377
-    },
-    {
-      "term": "technical",
-      "count": 2,
-      "share": 0.0377
+      "share": 0.0357
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0357
+    },
+    {
+      "term": "application",
+      "count": 2,
+      "share": 0.0357
+    },
+    {
+      "term": "ongc",
+      "count": 2,
+      "share": 0.0357
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0357
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "intelligence",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "manufacturing",
       "count": 1,
-      "share": 0.0189
-    },
-    {
-      "term": "allres",
-      "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
+    },
+    {
+      "term": "allres",
+      "count": 1,
+      "share": 0.0179
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "golang",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
+    },
+    {
+      "term": "distribution",
+      "count": 1,
+      "share": 0.0179
+    },
+    {
+      "term": "centre",
+      "count": 1,
+      "share": 0.0179
     },
     {
       "term": "l2",
       "count": 1,
-      "share": 0.0189
-    },
-    {
-      "term": "ict",
-      "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "sql",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "integrations",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "prep",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "year",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
+    },
+    {
+      "term": "marymount",
+      "count": 1,
+      "share": 0.0179
+    },
+    {
+      "term": "college",
+      "count": 1,
+      "share": 0.0179
+    },
+    {
+      "term": "burleigh",
+      "count": 1,
+      "share": 0.0179
+    },
+    {
+      "term": "waters",
+      "count": 1,
+      "share": 0.0179
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "process",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "improvement",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "infrastructure",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "soc",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "worker",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
+    },
+    {
+      "term": "its",
+      "count": 1,
+      "share": 0.0179
     },
     {
       "term": "quality",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "assurance",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "website",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "growth",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "projects",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "umbraco",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     },
     {
       "term": "cms",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0179
     }
   ],
   "jobs": [
+    {
+      "job_id": "95675872",
+      "job_title": "ICT Support Officer (Distribution Centre)",
+      "business_name": "Princess Polly E-Boutique",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Highland Park, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95675872",
+      "advertiser_id": "25850161",
+      "posted_date": "2026-11-04T00:13:38Z",
+      "job_description": "<div><p>Princess Polly is the global fashion brand at the forefront of trend-driven, lower impact and accessible apparel. Established as an online force in the Australian retail scene in 2010, Princess Polly quickly became the clothing brand found in every influencer haul, viral TikTok, Instagram OOTD and celeb street looks. Now, one of the fastest-growing online women's fashion brands in the USA, Princess Polly has been delivering the best online shopping experience to customers worldwide for over 10 years. </p></div><br><div><p>Are you passionate about tech, thrive in a fast-paced environment, and love solving problems on the go? Join Princess Polly as our ICT Support Officer supporting our high-performing Distribution Centre and wider business.&nbsp;</p><p><br></p><p>You’ll act as the go to tech expert, supporting end users and ensuring our systems are running smoothly and securely. Reporting to the Director of Technology, we want someone who is proactive, solutions-focused, and loves working in an agile environment with cutting edge technologies. </p><p><br></p><p><strong>What you'll doing </strong></p><ul><li>Providing on-the-ground tech support for our DC team and wider business operations.</li><li>Troubleshooting IT hardware including scanners, label printers, barcode scanners, and PC stations.</li><li>Supporting our SaaS applications and liaising with third-party vendors to resolve system issues.</li><li>Monitoring cybersecurity risks and taking proactive action to mitigate them.</li><li>Managing the network environment – routers, switches, Wi-Fi, and more.<br>Supporting custom internal tools and systems such as Polly Portal and Gift Card Management.</li><li>Ensuring SOX-compliant user access provisioning and reporting.</li><li>Staying up to date with tech trends and bringing innovative support ideas to the table.</li></ul><p><strong>Key skills and experience we're looking for </strong></p><ul><li>Strong experience in ICT support, ideally in a fast-paced agile environment, warehouse or logistics environment would be highly desirable.&nbsp;</li><li>Confident troubleshooting both Windows and macOS systems.</li><li>Experience supporting mobile devices (Android and iOS).</li><li>Solid knowledge of Microsoft 365 and Google Workspace.</li><li>Understanding of cybersecurity best practices.</li><li>Strong communication skills to explain technical concepts clearly.</li><li>Self-starter who works autonomously and is proactive with follow-up and escalation.</li><li>Team player who thrives in a collaborative and high-energy environment.</li></ul><p><br></p><p>Princess Polly is an Equal Opportunity Employer (EOE) We're committed to a diverse and inclusive workplace and encourage applicants from all walks of life. Come join us, different makes us better. </p><p><br></p><p>What are you waiting for? Come experience something different and amazing in the online fashion space!</p><p><br></p><p>#PrincessPolly #PursueYourPassion #PrincessPollyCareers</p></div><br><br><p>PI<a href=\"tel:288158239\">288158239</a></p>",
+      "keywords": [
+        "ict",
+        "support",
+        "officer",
+        "distribution",
+        "centre"
+      ]
+    },
+    {
+      "job_id": "95674633",
+      "job_title": "Technical Officer (ITS)",
+      "business_name": "Department of Transport and Main Roads",
+      "work_type": "Full time",
+      "job_type": "Testing & Quality Assurance",
+      "pay_range": "$95,173 - $02,635 per annum",
+      "area": "Nerang, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95674633",
+      "advertiser_id": "20906222",
+      "posted_date": "2026-11-03T23:11:45Z",
+      "job_description": "<p></p>\n<p>As a Technical Officer (ITS), you will provide specialist technical support for the installation, maintenance, testing and commissioning of Intelligent Transport Systems infrastructure. Working alongside electricians and field crews, you will play a key role in ensuring ITS assets are delivered safely, efficiently and in accordance with departmental standards and industry legislation.</p>\n<p><strong>Key responsibilities include:</strong><br>• Installing, maintaining and testing ITS equipment in line with departmental specifications and compliance requirements.<br>• Providing technical advice and support for the planning, design, construction, testing and commissioning of ITS applications and traffic management systems.<br>• Supporting the successful delivery of ITS projects while ensuring quality, safety and stakeholder expectations are met.<br>• Assisting with the integration of new and emerging transport technologies used to improve road network operations and safety.<br>• Leading and supporting field crews while developing strong relationships with internal and external stakeholders.</p>\n<p><strong>About you</strong><br>You are a motivated technical professional who enjoys working in a dynamic field environment and contributing to innovative transport solutions. You bring strong communication skills, sound technical knowledge and a commitment to safety, quality and teamwork.</p>\n<p>To be successful, you'll ideally possess experience in electrical, communications or Intelligent Transport Systems technology and have the ability to work both independently and collaboratively to achieve project outcomes.</p>\n<p><strong>Mandatory requirements</strong><br>• Current Queensland C class driver's licence or equivalent.<br>• White Card - General Construction Induction.<br>• Diploma of Engineering (Electrical, Electronic) or equivalent.<br>• Restricted Electrical Licence (minimum licence codes 1, 2, 3 and 5), or &nbsp; to obtain within six months of commencement in accordance with role requirements.<br>• Ability to undertake travel as required throughout the operational area and across the state.</p>\n<p><strong>Why choose RoadTek?</strong><br>At RoadTek, you'll be part of a highly skilled, multidisciplinary organisation delivering transport infrastructure solutions that connect communities across Queensland. As part of TMR, you'll enjoy:</p>\n<p>• Opportunities to work with innovative and emerging transport technologies.<br>• Diverse and meaningful projects that improve road safety and network performance.<br>• Ongoing learning, development and career growth opportunities.<br>• A strong safety culture and commitment to inclusion, respect and teamwork.<br>• Work-life balance and the benefits of being part of the Queensland Government.</p>\n<p><strong>Why the Gold Coast?</strong><br>Enjoy a lifestyle that combines career opportunity with some of Queensland's most iconic beaches, national parks and outdoor attractions. The Gold Coast offers excellent schools, vibrant dining and entertainment precincts, and easy access to Brisbane and northern New South Wales, making it an outstanding place to build both your career and lifestyle.</p>\n<p>If you're ready to help deliver the technology that keeps Queensland moving, we'd love to hear from you.</p>\n<p><strong>Applications will remain current for 12 months.</strong></p>\n<p><strong>Job Ad Reference: QLD/706395/26</strong></p>\n<p><strong>Cloising Date: Wednesday, 18 November 2026</strong></p>",
+      "keywords": [
+        "technical",
+        "officer",
+        "its"
+      ]
+    },
+    {
+      "job_id": "95661964",
+      "job_title": "IT Manager - Marymount College, BURLEIGH WATERS",
+      "business_name": "Brisbane Catholic Education",
+      "work_type": "Full time",
+      "job_type": "Management",
+      "pay_range": "$104,381 -  $112,088 + 12.75% Super",
+      "area": "Burleigh Waters, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95661964",
+      "advertiser_id": "12584090",
+      "posted_date": "2026-11-03T06:25:15Z",
+      "job_description": "Company description:<br><br><p><strong>About Brisbane Catholic Education</strong> <br>Brisbane Catholic Education (BCE) is a vibrant learning community within the Archdiocese, employing over 12,000 people across a diverse range of positions. As the largest provider of Catholic education in Queensland, BCE is dedicated to delivering high-quality education from Prep to Year 12. Through strong partnerships with parents, governments, and the wider community, BCE fosters social responsibility, self-discipline and Catholic values in all its students. We offer a supportive working culture where care for the individual is an important part of our ethos. Arrive at work every day to a welcoming and compassionate environment, knowing that you'll be supported to take care of what's important to you. <a href=\"https://www.bne.catholic.edu.au/Pages/default.aspx\" target=\"_blank\">Learn more about Brisbane Catholic Education</a>. </p><p> </p><br><br>Job description:<br><br><p><strong>About our school </strong><br> Embrace Marymount College's holistic approach to education, which integrates academic, spiritual, and pastoral dimensions, and contribute to a school with a proven track record of excellence in academics, arts, and athletics. Engage with a diverse, inclusive community and align with our inspirational mission grounded in the teachings of Jesus, Mary, and St. Francis, fostering a meaningful and fulfilling work environment.  </p> <p>Marymount offers a dynamic and forward-thinking educational environment where evidence-based teaching methods and ongoing professional development are key. Join a collaborative and supportive faculty that values your contributions and encourages growth, while enjoying a balanced workload with non-contact hours and flexible scheduling for a healthy work-life balance. Benefit from a prime location near vibrant cafes and the coast, with convenient public transport options. Experience the advantages of teaching where the college vision and mission statement advocate for strong student-teacher relationships. Our favourable support staff-to-teacher ratio ensures you have the resources needed to succeed. Situated on site with Mary, Mother of Mercy Church and Marymount Primary school, there is a consistent approach to Catholic education that is supported from Prep right through to Year 12. The facilities on site including multiple ovals, gymnasium, barista, and pool, help you to ensure a healthy work-life balance as member of our Marymount community. <a href=\"https://marymount.qld.edu.au/\" target=\"_blank\">Explore our school website</a> to learn more about us.</p> <p><strong>Summary</strong></p> <p>Join Marymount College, Burleigh as <strong>IT Manager </strong>and drive the innovative planning and delivery of ICT services and play a key role in achieving the school's strategic goals and operational excellence. We are seeking a proactive, tech-savvy <strong>IT Manager</strong> with strong leadership skills, solid experience and knowledge working with Mac Operating Systems. </p> <p> </p> <ul> <li><strong>Location:</strong> Marymount College - Burleigh Waters (S)</li> <li><strong>Start date:</strong> ASAP</li> <li><strong>Work hours:</strong> 38.00 hours per week | 7:30 a.m. to 3:30 p.m (Monday to Friday)</li> <li><strong>Salary:</strong> $104,381 -  $112,088 + 12.75% Super </li> <li><strong>Status:</strong> Full Time Continuing</li> <li><strong>Ad close date:</strong> 24/11/2026</li> <li><strong>Contact:</strong> <a href=\"tel:(07) 5586 1000\">(07) 5586 1000</a>  |  ​ <a href=\"mailto:info@marymount.qld.edu.au\">info@marymount.qld.edu.au</a> </li> </ul> <p><strong>About the opportunity</strong></p> <p>In this position you will be responsible for:</p> <ul> <li>Manage the ICT strategic direction of ICT operations within the school, providing strategic advice, analysis and support to the leadership team in relation to ICT</li> <li>Investigating and implementing hardware, software and ICT infrastructure, in consultation with the Leadership Team that is sustainable and responsive to the needs of the school community</li> <li>Providing strategic advice to the Leadership Team on the operations and future directions of the changing ICT education sector, technology and infrastructure improvement</li> <li>Managing the ICT infrastructure and systems budget and resource allocations, providing advice and reports on future requirements</li> <li>Managing ICT staff, including performance management, training and development and workforce planning.</li> </ul> <p><strong>About you</strong></p> <p>To be successful in this position you will bring relevant contemporary skills and experience including:</p> <ul> <li>Previous management of ICT operations providing expert advice to a leadership team</li> <li>Expertise in evaluating and implementing sustainable hardware, software, and ICT infrastructure</li> <li>Marymount College uses Mac operating systems for student laptops; therefore, a strong working knowledge of Apple computers is essential</li> <li>In-depth knowledge of the evolving ICT education sector, to be able to offer strategic advice on technology and infrastructure improvements within a school setting</li> <li>Experience in managing ICT budgets, resource allocations, and providing insights on future requirements</li> <li>Proven ability to manage and develop ICT staff through performance management, training, and workforce planning</li> <li>Tertiary qualification at Associate Diploma/Diploma level in ICT or related field</li> <li>For this position you are not required to be Catholic.</li> </ul> <p> </p> <p>Eligibility and Safeguarding requirements:</p> <ul> <li>Eligibility to work in Australia for the duration of the appointment</li> <li>Hold a Paid Employee Positive Notice Blue Card prior to commencement.</li> </ul> <p><strong>Why choose BCE</strong></p> <p>Join us and be part of the largest Catholic Diocese in Queensland, nurturing your personal and professional development goals. As a valued member of our organisation, <a href=\"https://www.bne.catholic.edu.au/bce-employment/new-employee-and-staff-benefits/Pages/default.aspx\" target=\"_blank\">enjoy these and other rewards</a>:</p> <ul> <li>Opportunities for career advancement and professional development </li> <li>Competitive remuneration and flexible work arrangements (position dependent)</li> <li>Access to targeted AI tools and training with a focus on innovation and strong ethical standards. Learn more here: <a href=\"https://www.bne.catholic.edu.au/aboutus/Pages/Rome-Call-for-AI-Ethics.aspx\">The Rome Call for AI Ethics</a> and <a href=\"https://news.microsoft.com/en-au/features/brisbane-catholic-education-to-deploy-microsoft-365-copilot-to-12500-educators-and-support-staff-in-largest-rollout-for-k-12-globally/\">Microsoft Australia News Centre</a></li> <li>Salary packaging and salary-sacrificing options </li> <li>Active staff social club and wellness programs </li> <li>Personal support for our employees and families through the Employee Assistance Program.</li> </ul> <p> </p> <p> </p> <p>Please note applications for this position may be considered as they are received, and an appointment made prior to the advertised close date.  </p> <p> </p> <p>Everyone at BCE models and fosters a commitment to the safeguarding of children and promotes a culture where <a href=\"https://www.bne.catholic.edu.au/aboutus/Documents/Safeguarding%20commitment%20and%20stopline%20poster%20for%20Brisbane%20Catholic%20Education.pdf\" target=\"_blank\">student protection is everyone's responsibility</a>. The Archdiocese of Brisbane has standards of conduct for workers to maintain a safe and healthy environment for children. Our commitment to these standards requires that we conduct <a href=\"https://www.qld.gov.au/law/laws-regulated-industries-and-accountability/queensland-laws-and-regulations/regulated-industries-and-licensing/blue-card-services\" target=\"_blank\">working with children checks</a> and background referencing for all persons who will engage in direct and regular involvement with children and young people and/or adults-at-risk. The organisation is fully committed to child safety and has a zero tolerance to abuse of children or adults-at-risk. </p> <p> </p> <p>Equity and inclusion are at the <a href=\"https://www.bne.catholic.edu.au/vision\" target=\"_blank\">core of our Catholic values</a> and we recognise the benefits of a diverse workforce. We encourage and welcome candidates from all backgrounds to apply for this position.  </p> <p> </p> <p>By choosing to continue, you agree to the Privacy Policy (Employment Collection Notice which includes being contacted by Brisbane Catholic Education in future if a similar position becomes available) and to be included in BCE's talent pools for future opportunities. <a href=\"https://www.bne.catholic.edu.au/aboutus/legals/Pages/Privacy.aspx\" target=\"_blank\">Show Privacy Policy</a></p>",
+      "keywords": [
+        "it",
+        "manager",
+        "marymount",
+        "college",
+        "burleigh",
+        "waters"
+      ]
+    },
     {
       "job_id": "95634995",
       "job_title": "Applications Administrator",
@@ -1242,7 +1339,7 @@
     },
     {
       "job_id": "95227533",
-      "job_title": "Data and AI Engineer",
+      "job_title": "Principal AI and Data Engineer",
       "business_name": "Alder Constructions Pty Ltd",
       "work_type": "Full time",
       "job_type": "Other",
@@ -1254,8 +1351,8 @@
       "posted_date": "2026-10-13T02:57:49Z",
       "job_description": "<p></p><p>Alder Group is proudly celebrating 23 years in 2026, bringing engineering and construction teams together under one roof to deliver high-quality building, civil and infrastructure projects across Queensland and Northern NSW.</p><p>&nbsp;</p><p>At Alder, we're not just building communities, we're building the future.</p><p>As we continue to transform how we leverage technology, data and artificial intelligence across our business, we're looking for an exceptional <strong>Data &amp; AI Engineer</strong> to establish and lead our enterprise data and AI capability from the ground up.</p><p>&nbsp;</p><p>This is a rare opportunity to join a growing business at a pivotal stage of its digital transformation journey. You'll have the autonomy, influence and support to design and develop the data foundations, reporting frameworks, automation opportunities and AI solutions that will drive smarter decisions and unlock business performance across the organisation. </p><p>&nbsp;</p><p><strong>About the Role</strong></p><p>Reporting to the General Manager - Information, Data &amp; Technology, you will lead the development of Alder's enterprise data platform and serve as the technical owner of our data, analytics and AI capabilities.</p><p>&nbsp;</p><p>You'll be responsible for designing the architecture, governance frameworks and reporting solutions that transform business data into trusted information assets, while identifying opportunities to leverage automation, analytics and AI to improve business outcomes. </p><p>&nbsp;</p><p>This is a hands-on role where you will participate and lead the initial requirements gathering, options analysis and design phases and then build the data platform, integrations and reporting from ground up.</p><p>&nbsp;</p><p>Key responsibilities include:</p><ul><li>Design and develop Alder's enterprise data platform, architecture and governance frameworks</li><li>Build scalable data models, pipelines, integrations and reporting solutions</li><li>Deliver business insights through Power BI, analytics and AI-enabled solutions</li><li>Drive automation and process improvement initiatives across the organisation</li><li>Champion data quality, governance and emerging technology opportunities</li><li>Partner with stakeholders to translate business needs into actionable data solutions</li><li>Develop and support AI-enabled prototypes and solutions that improve productivity, decision-making and operational efficiency</li></ul><p>&nbsp;</p><p><strong>About You</strong></p><p>You're a strategic thinker with strong technical capability who enjoys solving complex business challenges through data.</p><ul><li>Experience with enterprise data platforms, modern data architectures or data warehousing</li><li>Strong skills in data modelling, integration, reporting and analytics</li><li>Knowledge of data governance, automation and AI technologies</li><li>Experience with Power BI and platforms such as Fabric, Snowflake or Databricks</li><li>Strong stakeholder engagement and communication skills</li><li>A proactive mindset and passion for continuous improvement</li><li>Degree in Data Analytics, Data Science, Information Technology, Computer Science, Software Engineering or a related discipline is highly desirable.</li></ul><p>&nbsp;</p><p><strong>About Alder Group</strong></p><p>At Alder Group, we deliver award-winning construction and infrastructure projects that positively impact communities across Queensland and Northern NSW. Our diverse portfolio spans Infrastructure, Water and Wastewater, Education, Health, Commercial, Industrial, Hospitality and Community sectors.</p><p>&nbsp;</p><p><strong>What We Offer</strong></p><ul><li>A supportive and collaborative workplace where people are valued, respected and encouraged to do their best work.</li><li>A genuine \"One Team\" mindset and focus on continuous improvement.</li><li>Opportunities to develop your capability, expand your experience and grow your career within a dynamic and evolving business.</li><li>Exposure to a broad range of technologies, projects and business operations.</li><li>A structured pathway into systems administration and infrastructure-focused roles.</li><li>A competitive remuneration package aligned to your experience and the value you bring to the role.</li></ul><p></p><p></p>",
       "keywords": [
-        "data",
         "ai",
+        "data",
         "engineer"
       ]
     },
