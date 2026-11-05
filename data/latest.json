@@ -1,416 +1,439 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "region": "Gold Coast",
-  "scraped_at": "2026-11-04T10:17:33.059637+10:00",
-  "total_jobs": 56,
+  "scraped_at": "2026-11-05T10:38:51.637626+10:00",
+  "total_jobs": 55,
   "keywords": [
     {
       "term": "support",
-      "count": 18,
-      "share": 0.3214
+      "count": 17,
+      "share": 0.3091
     },
     {
       "term": "it",
       "count": 12,
-      "share": 0.2143
+      "share": 0.2182
     },
     {
       "term": "engineer",
       "count": 11,
-      "share": 0.1964
+      "share": 0.2
     },
     {
       "term": "analyst",
-      "count": 7,
-      "share": 0.125
+      "count": 6,
+      "share": 0.1091
     },
     {
       "term": "officer",
       "count": 6,
-      "share": 0.1071
+      "share": 0.1091
     },
     {
       "term": "software",
       "count": 6,
-      "share": 0.1071
+      "share": 0.1091
     },
     {
       "term": "manager",
       "count": 6,
-      "share": 0.1071
+      "share": 0.1091
     },
     {
       "term": "business",
       "count": 5,
-      "share": 0.0893
+      "share": 0.0909
     },
     {
       "term": "developer",
       "count": 5,
-      "share": 0.0893
-    },
-    {
-      "term": "technician",
-      "count": 5,
-      "share": 0.0893
-    },
-    {
-      "term": "desk",
-      "count": 5,
-      "share": 0.0893
+      "share": 0.0909
     },
     {
       "term": "systems",
       "count": 4,
-      "share": 0.0714
+      "share": 0.0727
     },
     {
-      "term": "service",
+      "term": "technician",
       "count": 4,
-      "share": 0.0714
+      "share": 0.0727
+    },
+    {
+      "term": "desk",
+      "count": 4,
+      "share": 0.0727
+    },
+    {
+      "term": "technology",
+      "count": 3,
+      "share": 0.0545
     },
     {
       "term": "consultant",
       "count": 3,
-      "share": 0.0536
+      "share": 0.0545
     },
     {
       "term": "ai",
       "count": 3,
-      "share": 0.0536
+      "share": 0.0545
     },
     {
       "term": "network",
       "count": 3,
-      "share": 0.0536
+      "share": 0.0545
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0536
+      "share": 0.0545
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0536
+      "share": 0.0545
     },
     {
       "term": "technical",
       "count": 3,
-      "share": 0.0536
+      "share": 0.0545
     },
     {
       "term": "specialist",
       "count": 3,
-      "share": 0.0536
+      "share": 0.0545
     },
     {
       "term": "applications",
       "count": 3,
-      "share": 0.0536
+      "share": 0.0545
     },
     {
-      "term": "technology",
-      "count": 2,
-      "share": 0.0357
+      "term": "service",
+      "count": 3,
+      "share": 0.0545
     },
     {
       "term": "cybersecurity",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0364
     },
     {
       "term": "cloud",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0364
     },
     {
       "term": "managed",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0364
     },
     {
       "term": "services",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0364
     },
     {
       "term": "ict",
       "count": 2,
-      "share": 0.0357
-    },
-    {
-      "term": "telecommunications",
-      "count": 2,
-      "share": 0.0357
+      "share": 0.0364
     },
     {
       "term": "help",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0364
+    },
+    {
+      "term": "telecommunications",
+      "count": 2,
+      "share": 0.0364
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0364
     },
     {
       "term": "application",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0364
     },
     {
       "term": "ongc",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0364
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0364
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "intelligence",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "manufacturing",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "allres",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "golang",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "distribution",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "centre",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "l2",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "sql",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "integrations",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "prep",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "year",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "marymount",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "waters",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "process",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "improvement",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "infrastructure",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
+    },
+    {
+      "term": "digital",
+      "count": 1,
+      "share": 0.0182
     },
     {
       "term": "soc",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "worker",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "its",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "quality",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "assurance",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "website",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "growth",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "projects",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "umbraco",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "cms",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     }
   ],
   "jobs": [
+    {
+      "job_id": "95677448",
+      "job_title": "Technology & Digital Lead",
+      "business_name": "Gold Coast Events Management Ltd",
+      "work_type": "Full time",
+      "job_type": "Programme & Project Management",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95677448",
+      "advertiser_id": "62212246",
+      "posted_date": "2026-11-04T01:17:04Z",
+      "job_description": "<p><strong>ABOUT US&nbsp;</strong></p><p>Events Management Queensland (EMQ) is a leading event management company and a subsidiary of Tourism and Events Queensland (TEQ).&nbsp; <br>&nbsp;<br>Our team delivers world-class mass participation sporting events that drive tourism, generate significant economic impact and showcase Queensland on the national and international stage. Our portfolio includes the Transurban Bridge to Brisbane, ASICS Gold Coast Marathon, T100 Triathlon World Tour Gold Coast, Toowoomba Wellcamp Airport Running Festival and the Pan Pacific Masters Games.&nbsp;<br>&nbsp;<br>Every event we deliver is focused on creating exceptional participant experiences while generating lasting benefits for Queensland communities.&nbsp;</p><p><strong>THE OPPORTUNITY&nbsp;</strong></p><p>Reporting to the Chief Financial Officer, drive EMQ technology strategy, systems, digital platforms and business improvement initiatives.&nbsp;</p><p><strong>KEY RESPONSIBILITIES</strong></p><ul><li><p>Develop and implement EMQ's technology strategy and roadmap.</p></li><li><p>Lead business improvement, systems enhancement and digital transformation initiatives.</p></li><li><p>Lead critical business platforms including CRM systems, websites, registration technology and digital integrations.</p></li><li><p>Oversee technology vendors and service providers, ensuring service levels are achieved.</p></li><li><p>Drive cyber security, governance and business continuity initiatives.</p></li><li><p>Partner with business leaders to identify technology opportunities that improve operational efficiency and customer experience.</p></li><li><p>Lead technology projects from business case development through to implementation.</p></li><li><p>Monitor emerging technologies and recommend innovative solutions that support organisational growth.</p></li></ul><p><strong>ABOUT YOU&nbsp;</strong></p><p>To be successful in this role, you will bring:</p><ul><li><p>Qualifications in Information Technology, Business Information Systems, Computer Science, Project Management or a related discipline.</p></li><li><p>Minimum 5+ years' experience in technology leadership, digital transformation, business systems or IT project management.</p></li><li><p>Proven experience delivering technology projects and business improvement initiatives.</p></li><li><p>Strong understanding of cloud-based platforms, cyber security, integrations and business applications.</p></li><li><p>Experience managing external technology providers and vendor relationships.</p></li><li><p>Strong stakeholder engagement and business partnering capabilities.</p></li><li><p>Industry certifications such as ITIL, PRINCE2, PMP, Agile, Microsoft Certifications or Cyber Security qualifications will be highly regarded.</p></li><li><p>Ability to translate technical concepts into practical business outcomes.</p></li></ul><p><strong>WHY JOIN EMQ?</strong></p><p>Join a passionate and collaborative team delivering some of Queensland's most recognised sporting events while making a genuine impact behind the scenes.</p><p>At EMQ you'll enjoy:</p><ul><li><p>Working on nationally and internationally recognised events.</p></li><li><p>A collaborative, supportive and high-performing team culture.</p></li><li><p>The opportunity to influence strategic business decisions.</p></li><li><p>Diverse and meaningful work where no two days are the same.</p></li><li><p>Professional development and leadership opportunities.</p></li></ul><p><strong>HOW TO APPLY</strong></p><p>If you're looking to take the next step in your career and contribute to one of Queensland's leading event organisations, we'd love to hear from you.</p><p>Click<strong> Apply</strong> and submit:</p><ul><li><p>Your current resume; and</p></li><li><p>A brief cover letter outlining your suitability for the role.</p></li></ul><p><strong>&nbsp;Applications will be reviewed as they are received, so we encourage you to apply early.</strong></p>",
+      "keywords": [
+        "technology",
+        "digital"
+      ]
+    },
     {
       "job_id": "95675872",
       "job_title": "ICT Support Officer (Distribution Centre)",
@@ -418,7 +441,7 @@
       "work_type": "Full time",
       "job_type": "Help Desk & IT Support",
       "pay_range": "",
-      "area": "Highland Park, Gold Coast QLD",
+      "area": "Gold Coast QLD",
       "region": "Gold Coast",
       "url": "https://www.seek.com.au/job/95675872",
       "advertiser_id": "25850161",
@@ -463,7 +486,7 @@
       "url": "https://www.seek.com.au/job/95661964",
       "advertiser_id": "12584090",
       "posted_date": "2026-11-03T06:25:15Z",
-      "job_description": "Company description:<br><br><p><strong>About Brisbane Catholic Education</strong> <br>Brisbane Catholic Education (BCE) is a vibrant learning community within the Archdiocese, employing over 12,000 people across a diverse range of positions. As the largest provider of Catholic education in Queensland, BCE is dedicated to delivering high-quality education from Prep to Year 12. Through strong partnerships with parents, governments, and the wider community, BCE fosters social responsibility, self-discipline and Catholic values in all its students. We offer a supportive working culture where care for the individual is an important part of our ethos. Arrive at work every day to a welcoming and compassionate environment, knowing that you'll be supported to take care of what's important to you. <a href=\"https://www.bne.catholic.edu.au/Pages/default.aspx\" target=\"_blank\">Learn more about Brisbane Catholic Education</a>. </p><p> </p><br><br>Job description:<br><br><p><strong>About our school </strong><br> Embrace Marymount College's holistic approach to education, which integrates academic, spiritual, and pastoral dimensions, and contribute to a school with a proven track record of excellence in academics, arts, and athletics. Engage with a diverse, inclusive community and align with our inspirational mission grounded in the teachings of Jesus, Mary, and St. Francis, fostering a meaningful and fulfilling work environment.  </p> <p>Marymount offers a dynamic and forward-thinking educational environment where evidence-based teaching methods and ongoing professional development are key. Join a collaborative and supportive faculty that values your contributions and encourages growth, while enjoying a balanced workload with non-contact hours and flexible scheduling for a healthy work-life balance. Benefit from a prime location near vibrant cafes and the coast, with convenient public transport options. Experience the advantages of teaching where the college vision and mission statement advocate for strong student-teacher relationships. Our favourable support staff-to-teacher ratio ensures you have the resources needed to succeed. Situated on site with Mary, Mother of Mercy Church and Marymount Primary school, there is a consistent approach to Catholic education that is supported from Prep right through to Year 12. The facilities on site including multiple ovals, gymnasium, barista, and pool, help you to ensure a healthy work-life balance as member of our Marymount community. <a href=\"https://marymount.qld.edu.au/\" target=\"_blank\">Explore our school website</a> to learn more about us.</p> <p><strong>Summary</strong></p> <p>Join Marymount College, Burleigh as <strong>IT Manager </strong>and drive the innovative planning and delivery of ICT services and play a key role in achieving the school's strategic goals and operational excellence. We are seeking a proactive, tech-savvy <strong>IT Manager</strong> with strong leadership skills, solid experience and knowledge working with Mac Operating Systems. </p> <p> </p> <ul> <li><strong>Location:</strong> Marymount College - Burleigh Waters (S)</li> <li><strong>Start date:</strong> ASAP</li> <li><strong>Work hours:</strong> 38.00 hours per week | 7:30 a.m. to 3:30 p.m (Monday to Friday)</li> <li><strong>Salary:</strong> $104,381 -  $112,088 + 12.75% Super </li> <li><strong>Status:</strong> Full Time Continuing</li> <li><strong>Ad close date:</strong> 24/11/2026</li> <li><strong>Contact:</strong> <a href=\"tel:(07) 5586 1000\">(07) 5586 1000</a>  |  ​ <a href=\"mailto:info@marymount.qld.edu.au\">info@marymount.qld.edu.au</a> </li> </ul> <p><strong>About the opportunity</strong></p> <p>In this position you will be responsible for:</p> <ul> <li>Manage the ICT strategic direction of ICT operations within the school, providing strategic advice, analysis and support to the leadership team in relation to ICT</li> <li>Investigating and implementing hardware, software and ICT infrastructure, in consultation with the Leadership Team that is sustainable and responsive to the needs of the school community</li> <li>Providing strategic advice to the Leadership Team on the operations and future directions of the changing ICT education sector, technology and infrastructure improvement</li> <li>Managing the ICT infrastructure and systems budget and resource allocations, providing advice and reports on future requirements</li> <li>Managing ICT staff, including performance management, training and development and workforce planning.</li> </ul> <p><strong>About you</strong></p> <p>To be successful in this position you will bring relevant contemporary skills and experience including:</p> <ul> <li>Previous management of ICT operations providing expert advice to a leadership team</li> <li>Expertise in evaluating and implementing sustainable hardware, software, and ICT infrastructure</li> <li>Marymount College uses Mac operating systems for student laptops; therefore, a strong working knowledge of Apple computers is essential</li> <li>In-depth knowledge of the evolving ICT education sector, to be able to offer strategic advice on technology and infrastructure improvements within a school setting</li> <li>Experience in managing ICT budgets, resource allocations, and providing insights on future requirements</li> <li>Proven ability to manage and develop ICT staff through performance management, training, and workforce planning</li> <li>Tertiary qualification at Associate Diploma/Diploma level in ICT or related field</li> <li>For this position you are not required to be Catholic.</li> </ul> <p> </p> <p>Eligibility and Safeguarding requirements:</p> <ul> <li>Eligibility to work in Australia for the duration of the appointment</li> <li>Hold a Paid Employee Positive Notice Blue Card prior to commencement.</li> </ul> <p><strong>Why choose BCE</strong></p> <p>Join us and be part of the largest Catholic Diocese in Queensland, nurturing your personal and professional development goals. As a valued member of our organisation, <a href=\"https://www.bne.catholic.edu.au/bce-employment/new-employee-and-staff-benefits/Pages/default.aspx\" target=\"_blank\">enjoy these and other rewards</a>:</p> <ul> <li>Opportunities for career advancement and professional development </li> <li>Competitive remuneration and flexible work arrangements (position dependent)</li> <li>Access to targeted AI tools and training with a focus on innovation and strong ethical standards. Learn more here: <a href=\"https://www.bne.catholic.edu.au/aboutus/Pages/Rome-Call-for-AI-Ethics.aspx\">The Rome Call for AI Ethics</a> and <a href=\"https://news.microsoft.com/en-au/features/brisbane-catholic-education-to-deploy-microsoft-365-copilot-to-12500-educators-and-support-staff-in-largest-rollout-for-k-12-globally/\">Microsoft Australia News Centre</a></li> <li>Salary packaging and salary-sacrificing options </li> <li>Active staff social club and wellness programs </li> <li>Personal support for our employees and families through the Employee Assistance Program.</li> </ul> <p> </p> <p> </p> <p>Please note applications for this position may be considered as they are received, and an appointment made prior to the advertised close date.  </p> <p> </p> <p>Everyone at BCE models and fosters a commitment to the safeguarding of children and promotes a culture where <a href=\"https://www.bne.catholic.edu.au/aboutus/Documents/Safeguarding%20commitment%20and%20stopline%20poster%20for%20Brisbane%20Catholic%20Education.pdf\" target=\"_blank\">student protection is everyone's responsibility</a>. The Archdiocese of Brisbane has standards of conduct for workers to maintain a safe and healthy environment for children. Our commitment to these standards requires that we conduct <a href=\"https://www.qld.gov.au/law/laws-regulated-industries-and-accountability/queensland-laws-and-regulations/regulated-industries-and-licensing/blue-card-services\" target=\"_blank\">working with children checks</a> and background referencing for all persons who will engage in direct and regular involvement with children and young people and/or adults-at-risk. The organisation is fully committed to child safety and has a zero tolerance to abuse of children or adults-at-risk. </p> <p> </p> <p>Equity and inclusion are at the <a href=\"https://www.bne.catholic.edu.au/vision\" target=\"_blank\">core of our Catholic values</a> and we recognise the benefits of a diverse workforce. We encourage and welcome candidates from all backgrounds to apply for this position.  </p> <p> </p> <p>By choosing to continue, you agree to the Privacy Policy (Employment Collection Notice which includes being contacted by Brisbane Catholic Education in future if a similar position becomes available) and to be included in BCE's talent pools for future opportunities. <a href=\"https://www.bne.catholic.edu.au/aboutus/legals/Pages/Privacy.aspx\" target=\"_blank\">Show Privacy Policy</a></p>",
+      "job_description": "Company description:<br><br><p><strong>About Brisbane Catholic Education</strong> <br>Brisbane Catholic Education (BCE) is a vibrant learning community within the Archdiocese, employing over 12,000 people across a diverse range of positions. As the largest provider of Catholic education in Queensland, BCE is dedicated to delivering high-quality education from Prep to Year 12. Through strong partnerships with parents, governments, and the wider community, BCE fosters social responsibility, self-discipline and Catholic values in all its students. We offer a supportive working culture where care for the individual is an important part of our ethos. Arrive at work every day to a welcoming and compassionate environment, knowing that you'll be supported to take care of what's important to you. <a href=\"https://www.bne.catholic.edu.au/Pages/default.aspx\" target=\"_blank\">Learn more about Brisbane Catholic Education</a>. </p><p> </p><br><br>Job description:<br><br><p> </p> <p><strong>About our school </strong><br> Embrace Marymount College's holistic approach to education, which integrates academic, spiritual, and pastoral dimensions, and contribute to a school with a proven track record of excellence in academics, arts, and athletics. Engage with a diverse, inclusive community and align with our inspirational mission grounded in the teachings of Jesus, Mary, and St. Francis, fostering a meaningful and fulfilling work environment.  </p> <p>Marymount offers a dynamic and forward-thinking educational environment where evidence-based teaching methods and ongoing professional development are key. Join a collaborative and supportive faculty that values your contributions and encourages growth, while enjoying a balanced workload with non-contact hours and flexible scheduling for a healthy work-life balance. Benefit from a prime location near vibrant cafes and the coast, with convenient public transport options. Experience the advantages of teaching where the college vision and mission statement advocate for strong student-teacher relationships. Our favourable support staff-to-teacher ratio ensures you have the resources needed to succeed. Situated on site with Mary, Mother of Mercy Church and Marymount Primary school, there is a consistent approach to Catholic education that is supported from Prep right through to Year 12. The facilities on site including multiple ovals, gymnasium, barista, and pool, help you to ensure a healthy work-life balance as member of our Marymount community. <a href=\"https://marymount.qld.edu.au/\" target=\"_blank\">Explore our school website</a> to learn more about us.</p> <p><strong>Summary</strong></p> <p>Join Marymount College, Burleigh as <strong>IT Manager </strong>and drive the innovative planning and delivery of ICT services and play a key role in achieving the school's strategic goals and operational excellence. We are seeking a proactive, tech-savvy <strong>IT Manager</strong> with strong leadership skills, solid experience and knowledge working with Mac Operating Systems. </p> <p> </p> <ul> <li><strong>Location:</strong> Marymount College - Burleigh Waters (S)</li> <li><strong>Start date:</strong> ASAP</li> <li><strong>Work hours:</strong> 38.00 hours per week | 7:30 a.m. to 3:30 p.m (Monday to Friday)</li> <li><strong>Salary:</strong> $104,381 -  $112,088 + 12.75% Super </li> <li><strong>Status:</strong> Full Time Continuing</li> <li><strong>Ad close date:</strong> 24/11/2026</li> <li><strong>Contact:</strong> <a href=\"tel:(07) 5586 1000\">(07) 5586 1000</a>  |  ​ <a href=\"mailto:info@marymount.qld.edu.au\">info@marymount.qld.edu.au</a> </li> </ul> <p><strong>About the opportunity</strong></p> <p>In this position you will be responsible for:</p> <ul> <li>Manage the ICT strategic direction of ICT operations within the school, providing strategic advice, analysis and support to the leadership team in relation to ICT</li> <li>Investigating and implementing hardware, software and ICT infrastructure, in consultation with the Leadership Team that is sustainable and responsive to the needs of the school community</li> <li>Providing strategic advice to the Leadership Team on the operations and future directions of the changing ICT education sector, technology and infrastructure improvement</li> <li>Managing the ICT infrastructure and systems budget and resource allocations, providing advice and reports on future requirements</li> <li>Managing ICT staff, including performance management, training and development and workforce planning.</li> </ul> <p><strong>About you</strong></p> <p>To be successful in this position you will bring relevant contemporary skills and experience including:</p> <ul> <li>Previous management of ICT operations providing expert advice to a leadership team</li> <li>Expertise in evaluating and implementing sustainable hardware, software, and ICT infrastructure</li> <li>Marymount College uses Mac operating systems for student laptops; therefore, a strong working knowledge of Apple computers is essential</li> <li>In-depth knowledge of the evolving ICT education sector, to be able to offer strategic advice on technology and infrastructure improvements within a school setting</li> <li>Experience in managing ICT budgets, resource allocations, and providing insights on future requirements</li> <li>Proven ability to manage and develop ICT staff through performance management, training, and workforce planning</li> <li>Tertiary qualification at Associate Diploma/Diploma level in ICT or related field</li> <li>For this position you are not required to be Catholic.</li> </ul> <p> </p> <p>Eligibility and Safeguarding requirements:</p> <ul> <li>Eligibility to work in Australia for the duration of the appointment</li> <li>Hold a Paid Employee Positive Notice Blue Card prior to commencement.</li> </ul> <p><strong>Why choose BCE</strong></p> <p>Join us and be part of the largest Catholic Diocese in Queensland, nurturing your personal and professional development goals. As a valued member of our organisation, <a href=\"https://www.bne.catholic.edu.au/bce-employment/new-employee-and-staff-benefits/Pages/default.aspx\" target=\"_blank\">enjoy these and other rewards</a>:</p> <ul> <li>Opportunities for career advancement and professional development </li> <li>Competitive remuneration and flexible work arrangements (position dependent)</li> <li>Access to targeted AI tools and training with a focus on innovation and strong ethical standards. Learn more here: <a href=\"https://www.bne.catholic.edu.au/aboutus/Pages/Rome-Call-for-AI-Ethics.aspx\">The Rome Call for AI Ethics</a> and <a href=\"https://news.microsoft.com/en-au/features/brisbane-catholic-education-to-deploy-microsoft-365-copilot-to-12500-educators-and-support-staff-in-largest-rollout-for-k-12-globally/\">Microsoft Australia News Centre</a></li> <li>Salary packaging and salary-sacrificing options </li> <li>Active staff social club and wellness programs </li> <li>Personal support for our employees and families through the Employee Assistance Program.</li> </ul> <p> </p> <p> </p> <p>Please note applications for this position may be considered as they are received, and an appointment made prior to the advertised close date.  </p> <p> </p> <p>Everyone at BCE models and fosters a commitment to the safeguarding of children and promotes a culture where <a href=\"https://www.bne.catholic.edu.au/aboutus/Documents/Safeguarding%20commitment%20and%20stopline%20poster%20for%20Brisbane%20Catholic%20Education.pdf\" target=\"_blank\">student protection is everyone's responsibility</a>. The Archdiocese of Brisbane has standards of conduct for workers to maintain a safe and healthy environment for children. Our commitment to these standards requires that we conduct <a href=\"https://www.qld.gov.au/law/laws-regulated-industries-and-accountability/queensland-laws-and-regulations/regulated-industries-and-licensing/blue-card-services\" target=\"_blank\">working with children checks</a> and background referencing for all persons who will engage in direct and regular involvement with children and young people and/or adults-at-risk. The organisation is fully committed to child safety and has a zero tolerance to abuse of children or adults-at-risk. </p> <p> </p> <p>Equity and inclusion are at the <a href=\"https://www.bne.catholic.edu.au/vision\" target=\"_blank\">core of our Catholic values</a> and we recognise the benefits of a diverse workforce. We encourage and welcome candidates from all backgrounds to apply for this position.  </p> <p> </p> <p>By choosing to continue, you agree to the Privacy Policy (Employment Collection Notice which includes being contacted by Brisbane Catholic Education in future if a similar position becomes available) and to be included in BCE's talent pools for future opportunities. <a href=\"https://www.bne.catholic.edu.au/aboutus/legals/Pages/Privacy.aspx\" target=\"_blank\">Show Privacy Policy</a></p>",
       "keywords": [
         "it",
         "manager",
@@ -957,7 +980,7 @@
       "url": "https://www.seek.com.au/job/95472363",
       "advertiser_id": "46711243",
       "posted_date": "2026-10-23T22:41:02Z",
-      "job_description": "<p><strong>About us:</strong></p><p>Tradezone is one of Australia’s fastest-growing electrical wholesalers. Since launching in 2015, we’ve grown to operate six state-of-the-art distribution centres nationwide, supplying electrical, solar, HVAC, data and safety products to trade professionals across Australia - with further expansion on the horizon.</p><p>As part of the Kingston Group, a privately owned, family-run Australian business with more than 40 years of wholesale and distribution experience, Tradezone combines the scale and capability of a national operation with the culture and values of a close-knit team.</p><p>Technology and innovation are at the heart of what we do. From our real-time online platform and live-stock visibility, to our dedicated national delivery fleet with live tracking, we’re continually investing in smarter, more efficient ways to serve our customers and support our continued growth.</p><p><strong>About the Role</strong></p><p>Technology drives our business forward, and we’re proud to have our own creative and practical in-house IT and technology teams. We’re seeking a Senior Software Engineer who wants to make a real impact.</p><p>You’ll help design, build and evolve the technology behind our growing national operations, from our real-time online platform and live stock visibility to the systems supporting our distribution centres, offices and customer experience.</p><p>If you enjoy solving meaningful problems and seeing the real-world impact of your work, we’d like to hear from you.</p><p><strong>Your Responsibilities</strong></p><p>•&nbsp;&nbsp; Design, develop and maintain scalable applications, APIs and integrations.</p><p>•&nbsp;&nbsp; Contribute to software architecture, technical decisions and engineering best practices.</p><p>•&nbsp;&nbsp; Write clean, maintainable and well-tested code.</p><p>•&nbsp;&nbsp; Optimise databases, troubleshoot complex issues and improve system performance.</p><p>•&nbsp;&nbsp; Deploy and support production applications, including ongoing maintenance and upgrades.</p><p>•&nbsp;&nbsp; Work with teams across the business to turn operational requirements into practical solutions.</p><ul><li><p>AutoStore / WMS &amp; Robotics Integrations — integrating warehouse management systems with AutoStore or other robotic automation platforms to support inventory, order fulfilment and warehouse operations.</p></li></ul><p><strong><br>What You’ll Bring</strong></p><p>Substantial hands on experience building and maintaining production systems, with strong skills in:</p><p>•&nbsp;&nbsp; <strong>Python</strong> - backend development, APIs, integrations, automation and database access.</p><p>•&nbsp;&nbsp; <strong>PostgreSQL</strong> - database design, SQL, indexing and query optimisation.</p><p>•&nbsp;&nbsp; <strong>Docker &amp; Dokploy</strong> - containerisation, Docker Compose, networking, persistent storage, deployment and application management.</p><p>•&nbsp;&nbsp; <strong>Git</strong> - version control, branching, code reviews and collaborative development.</p><p>•&nbsp;&nbsp; <strong>Linux / Debian</strong> - deploying, supporting and troubleshooting applications in Debian-based production environments.</p><p>Experience with the following would also be highly regarded:</p><p>•&nbsp;&nbsp; <strong>TimescaleDB</strong> – time series data management within PostgreSQL.</p><p>•&nbsp;&nbsp; <strong>MongoDB</strong> - document modelling, querying, indexing and aggregation.</p><p>•&nbsp;&nbsp; <strong>Redis</strong> - caching, session management and performance optimisation.</p><p>•&nbsp;&nbsp; <strong>Nginx &amp; uWSGI</strong> - reverse proxying, TLS and Python application serving where required.</p><p>•&nbsp;&nbsp; <strong>ElectricSQL / Electric</strong> - synchronising PostgreSQL data with client applications.</p><p>You take ownership of your work, communicate clearly and bring a proactive, practical approach to solving problems. You’re comfortable collaborating with technical colleagues and stakeholders across the business.</p><p><br><strong>Why Tradezone?</strong></p><p>Join a fast-growing Australian business where technology isn’t just part of what we do – it drives us forward.</p><p>With expansive B2B and B2C platforms, complex engineering challenges and ambitious growth plans, you’ll have the opportunity to shape technical solutions, influence how we build and scale, and turn big ideas into real-world impact.</p><p>Work alongside smart, creative people who challenge convention, solve meaningful problems and are always looking for better ways to do things.</p><p><strong>Big ideas. Smart tech. Real impact.</strong> If you’re ready to take ownership, push boundaries and help shape what’s next at Tradezone, we’d love to hear from you.</p>",
+      "job_description": "<p><strong>About Us:</strong></p><p>Tradezone is one of Australia’s fastest-growing electrical wholesalers. Since launching in 2015, we’ve grown to operate six state-of-the-art distribution centres nationwide, supplying electrical, solar, HVAC, data and safety products to trade professionals across Australia - with further expansion on the horizon.</p><p>As part of the Kingston Group, a privately owned, family-run Australian business with more than 40 years of wholesale and distribution experience, Tradezone combines the scale and capability of a national operation with the culture and values of a close-knit team.</p><p>Technology and innovation are at the heart of what we do. From our real-time online platform and live-stock visibility, to our dedicated national delivery fleet with live tracking, we’re continually investing in smarter, more efficient ways to serve our customers and support our continued growth.</p><p><br></p><p><strong>About the Role:</strong></p><p>Technology drives our business forward, and we’re proud to have our own creative and practical in-house IT and technology teams. We’re seeking a Senior Software Engineer who wants to make a real impact.</p><p>You’ll help design, build and evolve the technology behind our growing national operations, from our real-time online platform and live stock visibility to the systems supporting our distribution centres, offices and customer experience.</p><p>If you enjoy solving meaningful problems and seeing the real-world impact of your work, we’d like to hear from you.</p><p><br></p><p><strong>Your Responsibilities</strong></p><ul><li><p>Design, develop and maintain scalable applications, APIs and integrations.</p></li><li><p>Contribute to software architecture, technical decisions and engineering best practices.</p></li><li><p>Write clean, maintainable and well-tested code.</p></li><li><p>AutoStore / WMS &amp; Robotics Integrations — integrating warehouse management systems with AutoStore or other robotic automation platforms to support inventory, order fulfilment and warehouse operations.</p></li><li><p>Optimise databases, troubleshoot complex issues and improve system performance.</p></li><li><p>Deploy and support production applications, including ongoing maintenance and upgrades.</p></li><li><p>Work with teams across the business to turn operational requirements into practical solutions.</p></li></ul><p><br></p><p><strong>What You’ll Bring</strong></p><p>Substantial hands on experience building and maintaining production systems, with strong skills in:</p><ul><li><p>Python &amp; Next.JS - backend development, APIs, integrations, automation and database access.</p></li><li><p>PostgreSQL - database design, SQL, indexing and query optimisation.</p></li><li><p>Docker &amp; Dokploy - containerisation, Docker Compose, networking, persistent storage, deployment and application management.</p></li><li><p>Linux / Debian - deploying, supporting and troubleshooting applications in Debian-based production environments.</p></li><li><p>Experience with the following would also be highly regarded:</p></li><li><p>TimescaleDB – time series data management within PostgreSQL.</p></li><li><p>MongoDB - document modelling, querying, indexing and aggregation.</p></li><li><p>Redis - caching, session management and performance optimisation.</p></li><li><p>Nginx &amp; uWSGI - reverse proxying, TLS and Python application serving where required.</p></li><li><p>ElectricSQL / Electric - synchronising PostgreSQL data with client applications.</p></li></ul><p>You take ownership of your work, communicate clearly and bring a proactive, practical approach to solving problems. You’re comfortable collaborating with technical colleagues and stakeholders across the business.</p><p><br></p><p><strong>Why Tradezone?</strong></p><p>Join a fast-growing Australian business where technology isn’t just part of what we do – it drives us forward.</p><p>With expansive B2B and B2C platforms, complex engineering challenges and ambitious growth plans, you’ll have the opportunity to shape technical solutions, influence how we build and scale, and turn big ideas into real-world impact.</p><p>Work alongside smart, creative people who challenge convention, solve meaningful problems and are always looking for better ways to do things.</p><p>Big ideas. Smart tech. Real impact. If you’re ready to take ownership, push boundaries and help shape what’s next at Tradezone, we’d love to hear from you.</p>",
       "keywords": [
         "software",
         "engineer"
@@ -1060,25 +1083,6 @@
         "enterprise",
         "solution",
         "architect"
-      ]
-    },
-    {
-      "job_id": "95405431",
-      "job_title": "Service Desk Analyst",
-      "business_name": "EFEX",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Robina, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95405431",
-      "advertiser_id": "39088275",
-      "posted_date": "2026-10-21T05:48:26Z",
-      "job_description": "<p><strong>Ready to take the next step in your IT career?</strong></p><p><strong></strong></p><p>At <strong>efex</strong>, no two days are the same. In this role, you'll join our <strong>onPlatinum </strong>team on the<strong> Gold Coast</strong>, supporting a diverse range of clients, working with modern technologies, and developing your skills within a supportive and customer-focused MSP environment. Backed by the scale and opportunities of a national technology provider, you'll have the chance to learn, grow and build a rewarding IT career.</p><p></p><p><strong>Who We Are</strong></p><p>With over 20 locations across Australia and a strong national presence, <strong>efex</strong> is one of Australia's leading managed technology providers. We deliver right-sized solutions across IT, print, communications and security, helping businesses work smarter, stay connected and grow with confidence.</p><p></p><p>As part of the <strong>efex</strong> group, <strong>onPlatinum</strong> is our Gold Coast-based team, known for delivering exceptional customer service and trusted technology solutions to businesses throughout the region. By combining local expertise and relationships with the resources and capability of a national organisation, we offer the best of both worlds for our clients and our people.</p><p></p><p>Our culture is approachable, collaborative and people focused. We build genuine relationships, speak in plain language, and work together to solve problems that make a real difference for our customers.</p><p></p><p><strong>The Role</strong></p><p>As a&nbsp;<strong>Service Desk Analyst</strong>, you will play a key role in supporting our clients and ensuring their IT systems run smoothly. This is a full-time role based on the <strong>Gold Coast</strong>, offering plenty of variety, client interaction and exposure to a broad range of technologies and environments.</p><p> </p><p><strong>You will:</strong></p><ul>\n<li>Provide high-quality IT support and exceptional customer service</li>\n<li>Troubleshoot and resolve client issues across a range of technologies</li>\n<li>Manage service requests and incidents through Salesforce</li>\n<li>Maintain accurate ticket notes, timesheets, and documentation</li>\n<li>Apply security best practices across implementations</li>\n<li>Work collaboratively with colleagues to deliver seamless service</li>\n</ul><p><strong></strong></p><p><strong>About You</strong></p><p><strong>You’ll thrive in this role if you have:</strong></p><ul>\n<li>Previous MSP or internal IT experience</li>\n<li>Strong customer service and client-facing skills</li>\n</ul><p><strong>A solid background in:</strong></p><ul>\n<li>Workstation troubleshooting</li>\n<li>Active Directory and Microsoft 365 support</li>\n<li>Backup and recovery processes</li>\n<li>Remote monitoring and management tools</li>\n<li>Servers, switches, routers, firewalls, and storage</li>\n<li>Azure and VoIP solutions</li>\n</ul><p><strong>And personally, you’ll bring:</strong></p><ul>\n<li>A desire to keep learning and stay across new technologies</li>\n<li>A friendly, positive approach to client service</li>\n<li>Excellent communication skills</li>\n<li>The ability to work in a fast-paced environment while staying organised</li>\n</ul><p></p><p><strong>What We Offer:</strong></p><ul>\n<li>\n<strong>Competitive salary</strong>: based on skills and experience </li>\n<li>\n<strong>Supportive, down-to-earth culture</strong>: collaboration and respect are at the core of our team</li>\n<li>\n<strong>Birthday leave:</strong> celebrate your day, on us</li>\n<li>\n<strong>Wellbeing leave:</strong> take up to two days from your personal leave each year to focus on your wellbeing</li>\n<li>\n<strong>Career pathways</strong>: choose the direction that suits you best, whether that’s advancing your technical expertise, stepping into project work, or moving towards leadership opportunities as they arise</li>\n<li>\n<strong>Challenging, rewarding work</strong>: every day brings variety with new clients, problems, and technologies to solve</li>\n</ul><p></p><p><strong>Why Join efex?</strong></p><p>This is more than just a helpdesk role; it’s an opportunity to grow with one of Australia’s fastest-growing MSPs. You’ll gain exposure to diverse environments and cutting-edge technologies while being supported every step of the way.</p><p></p><p>Apply now!</p><p></p><p><em>Please note: all shortlisted candidates will be required to undergo a National Police Check as part of the recruitment process.</em></p>",
-      "keywords": [
-        "service",
-        "desk",
-        "analyst"
       ]
     },
     {
@@ -1418,24 +1422,6 @@
         "cloud",
         "managed",
         "it"
-      ]
-    },
-    {
-      "job_id": "95098957",
-      "job_title": "Level 1 Support Technician",
-      "business_name": "CORTECH SYSTEMS",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$59,000 – $70,000 per year",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95098957",
-      "advertiser_id": "43248531",
-      "posted_date": "2026-10-06T23:37:06Z",
-      "job_description": "<p><strong>About the role</strong></p><p>You're the first voice customers hear when something goes wrong. You'll resolve routine issues quickly, keep customers informed, and hand complex problems to our Level 2 team with clear notes so nobody has to ask the same question twice.</p><p><strong>Key responsibilities</strong></p><ul><li><p>Provide frontline support by phone, email, and chat within agreed SLAs</p></li><li><p>Log, triage, and document every request accurately in a ticketing system</p></li><li><p>Troubleshoot and resolve hardware, software, and account issues</p></li><li><p>Build, configure, and maintain our Standard Operating Environment (SOE), the standardised desktop setup we deploy to customers</p></li><li><p>Test new product releases and help with QA</p></li><li><p>Escalate complex or high-risk issues with clear context and next steps</p></li><li><p>Keep support documentation current and suggest ways to improve our processes</p></li></ul><p><strong>About you</strong></p><ul><li><p>Some hands-on IT support experience, whether from a help desk, a placement, or your own projects. Entry-level candidates who show strong aptitude are welcome.</p></li><li><p>Practical troubleshooting skills across Windows, macOS, Microsoft 365, and networking basics</p></li><li><p>Clear, jargon-free communication, written and spoken. You stay calm and courteous when a customer is frustrated.</p></li><li><p>The ability to juggle multiple tickets and prioritise based on urgency and impact</p></li><li><p>Care with detail, especially when handling customer data and access</p></li><li><p>IT qualification or certification (e.g. CompTIA A+, Microsoft MD-102/MS-900, Certificate III or IV in IT), or experience with ticketing system (nice to have)</p></li><li><p>Employment is subject to a Police Check</p></li></ul><p><strong>About us</strong></p><p>For over 20 years, Cortech has provided products and services to customers. Our customers stay with us because our support team treats every call like it matters, and we give them the tools and training to do it well.</p><p>Please send your CV to <strong><a href=\"mailto:info@cortechsystems.com.au\">info@cortechsystems.com.au</a></strong></p>",
-      "keywords": [
-        "support",
-        "technician"
       ]
     },
     {
