@@ -1,391 +1,480 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "region": "Gold Coast",
-  "scraped_at": "2026-11-06T10:37:46.447888+10:00",
-  "total_jobs": 52,
+  "scraped_at": "2026-11-07T09:53:24.709005+10:00",
+  "total_jobs": 53,
   "keywords": [
     {
       "term": "support",
       "count": 16,
-      "share": 0.3077
+      "share": 0.3019
     },
     {
       "term": "it",
       "count": 12,
-      "share": 0.2308
+      "share": 0.2264
     },
     {
       "term": "engineer",
-      "count": 11,
-      "share": 0.2115
+      "count": 12,
+      "share": 0.2264
     },
     {
       "term": "officer",
       "count": 6,
-      "share": 0.1154
+      "share": 0.1132
     },
     {
       "term": "developer",
       "count": 6,
-      "share": 0.1154
+      "share": 0.1132
     },
     {
       "term": "software",
       "count": 6,
-      "share": 0.1154
+      "share": 0.1132
     },
     {
       "term": "manager",
       "count": 6,
-      "share": 0.1154
+      "share": 0.1132
     },
     {
       "term": "analyst",
       "count": 5,
-      "share": 0.0962
+      "share": 0.0943
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.0769
+      "share": 0.0755
     },
     {
       "term": "business",
       "count": 3,
-      "share": 0.0577
+      "share": 0.0566
     },
     {
       "term": "systems",
       "count": 3,
-      "share": 0.0577
+      "share": 0.0566
     },
     {
       "term": "technology",
       "count": 3,
-      "share": 0.0577
-    },
-    {
-      "term": "consultant",
-      "count": 3,
-      "share": 0.0577
-    },
-    {
-      "term": "ai",
-      "count": 3,
-      "share": 0.0577
+      "share": 0.0566
     },
     {
       "term": "network",
       "count": 3,
-      "share": 0.0577
-    },
-    {
-      "term": "data",
-      "count": 3,
-      "share": 0.0577
+      "share": 0.0566
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0577
+      "share": 0.0566
+    },
+    {
+      "term": "administrator",
+      "count": 3,
+      "share": 0.0566
     },
     {
       "term": "technical",
       "count": 3,
-      "share": 0.0577
-    },
-    {
-      "term": "specialist",
-      "count": 3,
-      "share": 0.0577
-    },
-    {
-      "term": "applications",
-      "count": 3,
-      "share": 0.0577
+      "share": 0.0566
     },
     {
       "term": "service",
       "count": 3,
-      "share": 0.0577
+      "share": 0.0566
     },
     {
-      "term": "cybersecurity",
+      "term": "consultant",
       "count": 2,
-      "share": 0.0385
+      "share": 0.0377
     },
     {
-      "term": "cloud",
+      "term": "ai",
       "count": 2,
-      "share": 0.0385
-    },
-    {
-      "term": "managed",
-      "count": 2,
-      "share": 0.0385
-    },
-    {
-      "term": "services",
-      "count": 2,
-      "share": 0.0385
+      "share": 0.0377
     },
     {
       "term": "ict",
       "count": 2,
-      "share": 0.0385
-    },
-    {
-      "term": "administrator",
-      "count": 2,
-      "share": 0.0385
+      "share": 0.0377
     },
     {
       "term": "help",
       "count": 2,
-      "share": 0.0385
+      "share": 0.0377
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.0385
+      "share": 0.0377
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0385
-    },
-    {
-      "term": "application",
-      "count": 2,
-      "share": 0.0385
+      "share": 0.0377
     },
     {
       "term": "ongc",
       "count": 2,
-      "share": 0.0385
+      "share": 0.0377
+    },
+    {
+      "term": "application",
+      "count": 2,
+      "share": 0.0377
+    },
+    {
+      "term": "specialist",
+      "count": 2,
+      "share": 0.0377
+    },
+    {
+      "term": "applications",
+      "count": 2,
+      "share": 0.0377
+    },
+    {
+      "term": "infrastructure",
+      "count": 2,
+      "share": 0.0377
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0385
+      "share": 0.0377
+    },
+    {
+      "term": "data",
+      "count": 2,
+      "share": 0.0377
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0192
-    },
-    {
-      "term": "manufacturing",
-      "count": 1,
-      "share": 0.0192
-    },
-    {
-      "term": "financial",
-      "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "allres",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
+    },
+    {
+      "term": "manufacturing",
+      "count": 1,
+      "share": 0.0189
+    },
+    {
+      "term": "cybersecurity",
+      "count": 1,
+      "share": 0.0189
+    },
+    {
+      "term": "cloud",
+      "count": 1,
+      "share": 0.0189
+    },
+    {
+      "term": "managed",
+      "count": 1,
+      "share": 0.0189
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "golang",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
+    },
+    {
+      "term": "services",
+      "count": 1,
+      "share": 0.0189
     },
     {
       "term": "distribution",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "centre",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "l2",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "sql",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "integrations",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "prep",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "year",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "marymount",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "waters",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "process",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "improvement",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
-      "term": "infrastructure",
+      "term": "field",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "soc",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
+    },
+    {
+      "term": "product",
+      "count": 1,
+      "share": 0.0189
+    },
+    {
+      "term": "scenic",
+      "count": 1,
+      "share": 0.0189
+    },
+    {
+      "term": "rim",
+      "count": 1,
+      "share": 0.0189
     },
     {
       "term": "worker",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "its",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "quality",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "assurance",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "website",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "growth",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "projects",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "umbraco",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "cms",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     }
   ],
   "jobs": [
+    {
+      "job_id": "95745460",
+      "job_title": "Senior Field Engineer (Level 3)",
+      "business_name": "Acworth Recruitment",
+      "work_type": "Full time",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "",
+      "area": "Burleigh Heads, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95745460",
+      "advertiser_id": "36752432",
+      "posted_date": "2026-11-06T07:32:22Z",
+      "job_description": "<p><strong>About Ozdoc Solutions</strong></p><p>Ozdoc Solutions Partnership is Australia’s premier Medical IT provider, delivering customised technology solutions to meet the needs of today's demanding healthcare industry.</p><p><br></p><p>We design and implement the best combination of on-premise, hybrid and complete cloud systems, incorporating hardware, software and state-of-the-art digital solutions.</p><p><br></p><p>We are committed to excellence, growth, integrity and innovation, while always striving to be as human as possible — after all, our clients and our team are at the heart of everything we do.</p><p><br></p><p><strong>“We care for technology so you can care for people.”</strong></p><p><br></p><p><strong>About the Role</strong></p><p>We are on the hunt for the next great team member. &nbsp;</p><p><br></p><p>We’re looking for a super driven <strong>Senior Field Engineer</strong> ready for a change. You'll be a key asset to our Professional Services team and hands on with senior onsite and project work - covering exceptional service delivery of projects ranging from onsite server solutions, hosted server solutions, core networks, security services, modality, and advanced desktop deployments, you name it plus more.</p><p><br></p><p>We are looking for a candidate with extremely strong technical and customer service skills that wants to be challenged. This is a role with potential growth, a role where you will be pushed for delivery deadlines, held accountable and challenged on a day-to-day basis. A role that will require dedication and after-hours work to succeed, a role that will be ultimately rewarding for the right person.</p><p><br></p><p>You'll need a great can-do attitude, and love working directly with clients…..along with diligence, enthusiasm, willingness to go the extra mile, and desire to contribute to a team of professionals.</p><p><br></p><p>Show your skill and there is plenty of opportunity to move quickly and grow within our team!</p><p><br></p><p><strong>What Qualities are we looking for?&nbsp;&nbsp;</strong></p><ul><li><p>Exceptional skills in dealing with people</p></li><li><p>A positive and friendly attitude</p></li><li><p>Passionate about identifying and solving client issues</p></li><li><p>A creative approach in solving problems</p></li><li><p>Someone that takes ownership to completion</p></li><li><p>Most of all, a team player and willingness to help people grow.</p></li></ul><p><br></p><p><strong>What’s on Offer</strong></p><ul><li><p>A commencing salary of $85-$100K plus superannuation and a <strong>fully maintained company vehicle with private use</strong> included will be offered dependant on qualifications and experience (a higher salary may be offered to an <strong>exceptional </strong>candidate).</p></li><li><p>Additional after hours renumeration on top of base salary.</p></li></ul><ul><li><p>Proactive and supportive work environment</p></li><li><p>Up-to-date technology and equipment</p></li><li><p>Challenging work where you're always learning</p></li><li><p>Burleigh Heads location — work close to home</p></li><li><p>Flexible work options</p></li><li><p>Salary sacrifice plans</p></li><li><p>Employee referral program</p></li><li><p>Peer bonus program</p></li><li><p>Birthday gift voucher and the day off — yes, we don't work birthdays at Ozdoc !</p></li><li><p>Quarterly team-building events</p></li><li><p>Monthly team lunches</p></li></ul><p>The opportunity to have your ideas heard and make a genuine contribution</p><p><strong>&nbsp;</strong></p><p><strong>Want to join the Ozdoc team?</strong></p><p>If you are ready to <strong>continue your CAREER</strong> with an organisation that prides itself on intimacy with its customers and building a strong team, then send your application in now!</p><p><br></p><p>Applicants are asked to provide a current resume along with details/ evidence to support the above requirements of the role.</p><p><strong>&nbsp;</strong></p><p>Please note that only applicants meeting the criteria outlined above will be contacted as part of the short-listing process.</p>",
+      "keywords": [
+        "field",
+        "engineer"
+      ]
+    },
+    {
+      "job_id": "95744223",
+      "job_title": "Senior Infrastructure Engineer",
+      "business_name": "Gold Coast Convention & Exhibition Centre",
+      "work_type": "Full time",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "",
+      "area": "Broadbeach, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95744223",
+      "advertiser_id": "21889565",
+      "posted_date": "2026-11-06T06:49:26Z",
+      "job_description": "<p>Gold Coast Convention and Exhibition Centre (GCCEC) is looking for an experienced Senior Infrastructure Engineer with strong skills across Cisco networking and Microsoft enterprise technologies.</p>\n<br><p>This is a senior, hands-on technical role with responsibility for infrastructure architecture, engineering standards and the ongoing development of our technology environment.<br>\nYou'll work across enterprise networks, servers, cloud platforms, identity and security systems, while helping shape the future direction of infrastructure at GCCEC.<br>\nUnlike many traditional enterprise IT environments, our infrastructure must also support a busy calendar of conferences, exhibitions and major public events, each with different technical requirements.<br>\nPlease note that the position title for this role is known as Platform Engineering Lead internally.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>WHAT YOU'LL BE DOING</strong><br>\nWorking closely with the IT Manager and our service operations teams, you'll be the senior technical authority for GCCEC's infrastructure environment.<br>\nYour responsibilities will include:</p>\n\n<ul>\n\t<li>Designing, implementing and improving our Cisco network infrastructure, including routing, switching, wireless and network security</li>\n\t<li>Engineering and maintaining Microsoft infrastructure, including Windows Server, Azure, Active Directory, Entra ID and Microsoft 365</li>\n\t<li>Leading infrastructure architecture, technical design and engineering standards across our on-premises and cloud environments</li>\n\t<li>Managing infrastructure resilience, capacity, backup, disaster recovery and the underlying data centre and network environment</li>\n\t<li>Providing senior technical expertise for complex incidents, infrastructure changes and major technology projects</li>\n\t<li>Mentoring other IT team members, improving technical documentation and building a more consistent, supportable technology environment</li>\n\t<li>An important part of this role is helping us modernise and standardise our infrastructure, reducing technical risk and making our systems easier to manage, maintain and support.</li>\n</ul>\n\n<p>You'll have the opportunity to influence technology decisions, contribute to infrastructure strategy and lead the engineering work needed to turn those decisions into reality.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>ABOUT YOU</strong><br>\nWe're looking for an experienced infrastructure engineer who enjoys hands-on technical work but is equally comfortable thinking about architecture, design and long-term technology direction.<br>\nYour core technical experience will include:</p>\n\n<ul>\n\t<li>Strong experience with enterprise Cisco networking, including routing, switching and wireless</li>\n\t<li>Solid engineering experience across Microsoft technologies, particularly Windows Server, Azure, Active Directory and Microsoft 365</li>\n\t<li>Experience designing, implementing and supporting enterprise infrastructure with a focus on security, reliability and performance</li>\n\t<li>Strong troubleshooting skills and the ability to resolve complex infrastructure issues</li>\n\t<li>The ability to document technical solutions, establish standards and share knowledge with colleagues</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>Additional experience that would be highly regarded includes:</p>\n\n<ul>\n\t<li>Microsoft Azure Local and hybrid cloud environments</li>\n\t<li>Palo Alto Networks firewalls and security technologies</li>\n\t<li>Microsoft Entra ID and enterprise endpoint management</li>\n\t<li>Enterprise backup, recovery and disaster recovery solutions</li>\n\t<li>Data centre infrastructure, including structured cabling, power and cooling systems</li>\n\t<li>Relevant Cisco, Microsoft or other professional certifications</li>\n</ul>\n\n<p>You don't need to have worked with every technology in our environment. We're most interested in someone with a strong engineering foundation, sound technical judgement and the ability to learn and adapt.</p>\n\n<p>Just as importantly, you'll be someone who takes ownership, communicates clearly and understands the value of documentation, knowledge sharing and good engineering practices.</p>\n\n<p><strong>A technology environment that's a little different</strong><br>\nAt GCCEC, infrastructure engineering is about more than keeping corporate systems running.<br>\nOur technology supports everything from everyday business operations through to major conferences, exhibitions and public events attracting thousands of visitors.<br>\nThat means working across conventional enterprise IT, complex networking, data centre infrastructure and the integration points between IT and professional audiovisual systems.<br>\nOur systems need to be reliable and secure, but also flexible enough to accommodate rapidly changing event requirements.<br>\nIt's a varied technical environment where you'll encounter interesting engineering challenges and see the operational impact of your work.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>WHY JOIN GCCEC?</strong></p>\n\n<p>We're continuing to invest in our technology environment, with a focus on resilience, cybersecurity, infrastructure modernisation and better engineering practices.<br>\nAs our Senior Infrastructure Engineer, you'll have a genuine opportunity to influence technical decisions and help establish the standards and architecture that will guide our infrastructure over the coming years.<br>\nYou'll work with a small, collaborative IT team where your expertise will be valued, your contribution will be visible and you'll have the opportunity to work across a much broader technology environment than many conventional infrastructure roles.<br>\nIf you're an experienced engineer who enjoys solving complex problems, designing better systems and taking technical ownership, we'd love to hear from you.<br>\n&nbsp;</p>\n\n<p>We pride ourselves on our values of Community, Initiative, Respect, Teamwork and Welcoming. &nbsp;These values sit at the heart of how we work, how we treat our people, represent our business and deliver outstanding events. &nbsp;</p>\n\n<p>Plus, we offer the following people perks:</p>\n\n<ul>\n\t<li>Free undercover parking in the heart of Broadbeach</li>\n\t<li>Discounted onsite team member café</li>\n\t<li>Flexible work arrangements</li>\n\t<li>Paid parental leave</li>\n\t<li>Discounted food and beverage and accommodation at The Star Entertainment Group properties</li>\n\t<li>Access to health &amp; wellbeing programs</li>\n\t<li>Ongoing learning and development opportunities</li>\n\t<li>Reward &amp; Recognition Program</li>\n</ul>\n\n<p>Reaching Earthcheck Master Certification status we are an environmentally conscious and sustainability focused organisation that seeks to continuously educate, support and ensure our team members foster and understand the importance of our environmental stewardship.</p>\n\n<p>&nbsp;</p>\n\n<p>Full Australian working rights are required for this position in addition to a probity check.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>The Gold Coast Convention and Exhibition Centre is part of The Star Entertainment Group.<br>\nTo apply, please upload your cover letter and resume.</strong><br>\n<br>\n&nbsp;</p>",
+      "keywords": [
+        "infrastructure",
+        "engineer"
+      ]
+    },
+    {
+      "job_id": "95739374",
+      "job_title": "IT Administrator - Scenic Rim",
+      "business_name": "GELITA Australia Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Team Leaders",
+      "pay_range": "",
+      "area": "Josephville, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95739374",
+      "advertiser_id": "55286989",
+      "posted_date": "2026-11-06T04:16:55Z",
+      "job_description": "<p><strong>IT ADMINISTRATOR</strong></p><p><strong>&nbsp;</strong></p><p><strong>Who We Are</strong></p><p><br></p><p>The GELITA Group is one of the world’s leading manufacturers of gelatine and collagen peptides and has more than 2,800 employees and 22 sites across six continents, including our head office based in Germany. Through our global presence, we foster unparalleled, systemic coverage of sectors aligned with our mission to improve quality of life from health and nutritional supplements markets to pharmaceutical and medical industries. In addition, our products offer a wide range of extremely exciting technical applications. We consciously focus on scientific research and developing natural solutions to complex problems. We live innovation and consistently follow our guiding principles of excellence, experience, and customer orientation.<br><br>The full-time position of IT Administrator&nbsp;is based at our manufacturing facility situated at Josephville, located approximately 90 km south of Brisbane.&nbsp; As this role is pivotal in the support of our manufacturing plant, the successful applicant will be required to attend the workplace at Josephville to provide this support. &nbsp;</p><p><br></p><p><strong>About the Role</strong></p><p><br></p><p>Reporting to the Head of Finance Australia locally and the Head of Global System Management &amp; Services globally, duties will include, but are not limited to:&nbsp;</p><p><br></p><ul><li><p>Administration, configuration, and management of the IT environment and regional infrastructure.&nbsp;</p></li><li><p>Identification of network capacity needs and management of network resources to ensure the provision of agreed customer support.</p></li><li><p>Conducting network troubleshooting to segregate and identify general network problems.</p></li><li><p>Selection, acquisition, installation, and maintenance of IT hardware and software.</p></li><li><p>Administration of Microsoft Active Directory, virtual environment(s), and communication systems (email, hardware as well as data connectivity)&nbsp;</p></li><li><p>Network / Intrusion / Data Security Administration and associated monitoring.&nbsp;</p></li><li><p>Direct as well as remote support of users including hardware / software, operating systems, and applications.&nbsp;</p></li><li><p>Support implementation / planning of upgrades, deletions, additions, and changes to support infrastructure.</p></li><li><p>Maintain and update documentation of procedures and configurations.</p></li><li><p>Coordinate, control, and monitor operations, implementations, and/or services of 3rd party suppliers.</p></li><li><p>Manage and support service desk related projects and incoming support requests.</p></li><li><p>Support of group security strategies</p></li><li><p>Keep current with technical developments, platforms, tools, technologies and issues to remain competitive</p></li><li><p>Planning and implementation of software and hardware as well as upgrades</p></li><li><p>Conduct user queries and surveys to support continuous improvement within the regional IT and IT processes.</p></li><li><p>Responsible for monitoring and managing data backups, security and tape rotation</p></li></ul><p><br></p><p><strong>About You</strong></p><p><br></p><p>The successful applicant will be able to cope with a varied workload, be a good team player with a proactive attitude, be responsible and reliable, and be able to prioritise and take ownership of all tasks given. The candidate must be professional and courteous as well as adopt a flexible approach to their work.</p><p><br></p><p>Minimum 5 years of previous work experience in IT administration, IT operations and support, network and technical services, and/or software application development would be desirable. Formal qualifications in Information technology, computer science, or another cognate discipline would also be advantageous. In addition, capability across the following areas would be highly regarded:</p><ul><li><p>Proficient English communication skills to enable effective interaction as part of an international team.</p></li><li><p>Ability to negotiate with users under pressure while delivering professional services in a timely manner.</p></li><li><p>Ability to travel domestically and internationally where required.</p></li><li><p>Knowledge / experience in the use of VMWare, SCCM, and/or Veeam, Network Switches</p></li></ul><p><br></p><p><strong><em>Equal Opportunity Employer</em></strong></p><p><br></p><p>GELITA is proudly an equal opportunity employer. The GELITA management principles are based on common values. Communication and trust are the pillars on which our teams act. This philosophy enables us to engage and retain the very best employees.<br><br>&nbsp;</p><p>If you are interested in joining the GELITA team, applications with cover letter can be emailed to our Specialist HR, <a href=\"mailto:hannah.stephan@gelita.com\">hannah.stephan@gelita.com</a></p><p><br></p>",
+      "keywords": [
+        "it",
+        "administrator",
+        "scenic",
+        "rim"
+      ]
+    },
+    {
+      "job_id": "95731410",
+      "job_title": "Head of Product & Technology",
+      "business_name": "Aged Care Reviews Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Team Leaders",
+      "pay_range": "$150,000 – $170,000 per year",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95731410",
+      "advertiser_id": "31529275",
+      "posted_date": "2026-11-06T00:40:55Z",
+      "job_description": "<h2><strong>🚀 Responsibilities:&nbsp;</strong></h2><ul><li><p><strong>Translate Business Needs into Delivery:</strong> Work directly with Client Services, Provider Growth, Marketing and Finance to turn business problems into clear requirements, user stories and acceptance criteria, then make sure they ship.</p></li><li><p><strong>Lead the Team:</strong> Lead, coach and unblock a team of five across engineering and IT support. Review code, set standards and step into the Laravel and React codebase when needed.</p></li><li><p><strong>Own the Product Roadmap:</strong> Turn the priorities set by the Executive Director and CEO into delivery, propose trade-offs, and change course quickly when the business needs it.</p></li><li><p><strong>AI &amp; Automation:</strong> Deliver AI features, integrations and workflow automation that reduce manual effort, as part of our AI Roadmap.</p></li><li><p><strong>Keep Things Running:</strong> Act as senior escalation for incidents across cloud, networking, Microsoft 365 and contact centre telephony (3CX, SIP, SMS) supporting teams in Australia, Fiji and the Philippines. Own security, suppliers and budgets.<br></p></li></ul><h2><strong>🏢 Company Profile: </strong>&nbsp;</h2><p>Aged Care Decisions is passionate about helping people in need, empowering them in their health care experiences. Our services encompass placement care, service provider matching, cutting-edge technology solutions, and a comprehensive consumer review website. We’ve since launched Care Decisions, bringing the same model to Australians navigating the NDIS.</p><p>Find out more about our company: https://agedcaredecisions.com.au/about/</p><p>Read what clients and families say about us: https://g.page/r/CTbfWRSCdvPpEBA</p><p>In December 2022, Aged Care Decisions was backed by growth-focused private equity firm Fortitude Investment Partners (FIP). Since then, the business has continued to grow rapidly, while ensuring best practice in all areas of the business.</p><p><strong>This is not a CTO role. We want a hands-on technical leader who is close to the code, easy to approach, light on process, and happy to change priorities when the business needs it. Someone who makes things simpler, not more complicated, and turns business problems into working solutions that help families find care faster.</strong></p><p>You’ll work closely with growth-focused founders and the backing of a private equity firm, executing against our FY27–FY28 growth plan. This role reports to the Executive Director, transitioning to the CEO in the short to medium term, and leads the Product, Engineering and IT team.<br></p><h2><strong>📋 Requirements:</strong>&nbsp;</h2><ul><li><p><strong>Business Translation:</strong> Proven ability to turn business problems into clear requirements and user stories, and to explain trade-offs to non-technical people.</p></li><li><p><strong>Team Leadership:</strong> 3+ years leading a small team of developers and/or IT support, as a tech lead, engineering manager or similar.</p></li><li><p><strong>Current Technical Skills:</strong> 10+ years in software engineering. Current on PHP/Laravel, React, REST APIs and CI/CD, and credible in a code review. Not someone whose hands-on coding stopped years ago.</p></li><li><p><strong>AI &amp; Automation:</strong> Has delivered AI or workflow automation features into production.</p></li><li><p><strong>Infrastructure &amp; Security:</strong> Practical networking, AWS/Azure, Microsoft 365 and security skills. Comfortable leading incident response.</p></li><li><p><strong>Culture:</strong> Hands-on, low-ego, accessible and flexible. Prefers shipping to process, reports and frameworks.</p></li><li><p><strong>Highly Regarded:</strong> Engineering management at a SaaS or scale-up, or leading an in-house dev and IT team at a services business. Legacy modernisation (CodeIgniter), 3CX/telephony, Power BI, offshore teams, and aged care, NDIS or marketplace experience.</p></li></ul><p><br></p><h2>🛠️ <strong>Our Tech Stack:</strong></h2><p>PHP/Laravel, React and legacy CodeIgniter · REST APIs, MySQL, PostgreSQL · AWS and Azure · Docker, CI/CD, Bitbucket · Jira and Confluence · Microsoft 365 and Power BI · 3CX, SIP, SMS<br></p><h2><strong>🤝 Relationships:</strong>&nbsp;</h2><ul><li><p><strong>Internal:</strong> Lead the Product, Engineering and IT team. Work closely with the Executive Director, CEO, Client Services, Provider Growth, Marketing and Finance.</p></li><li><p><strong>External:</strong> Manage technology suppliers, vendors and security partners.</p><p><br></p></li></ul><h2><strong>✉️ Apply:</strong></h2><p><strong>Join our leadership team, own the technology behind Australia’s largest aged care and NDIS placement service, and make a real difference for families. Apply now to be part of our journey!</strong></p><p>This role is based full time in our Southport office on the Gold Coast. Remote work is not available.</p><p>Please apply through the Apply link, and include a cover letter and CV addressed to:</p><p>Ken Ray – Co-Founder &amp; Executive Director</p><p><strong>Closing date for applications – Friday 4 December 2026</strong></p>",
+      "keywords": [
+        "product",
+        "technology"
+      ]
+    },
     {
       "job_id": "95677448",
       "job_title": "Technology & Digital Lead",
@@ -846,24 +935,6 @@
       ]
     },
     {
-      "job_id": "95508001",
-      "job_title": "Data Engineer",
-      "business_name": "Kinetic",
-      "work_type": "Contract/Temp",
-      "job_type": "Engineering - Software",
-      "pay_range": "",
-      "area": "Coomera, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95508001",
-      "advertiser_id": "21458938",
-      "posted_date": "2026-10-26T22:37:29Z",
-      "job_description": "<h2>Data Engineer</h2><ul><li>Build your experience across Kinetic's enterprise data platforms and warehousing solutions.</li><li>Develop your technical skills across SQL, Python and Microsoft Azure.</li><li>January 2027 start | Coomera based</li></ul><h2>About the Role</h2><p>We're looking for a Data Engineer to join Kinetic's data team, supporting the development and management of our enterprise data platforms and data warehousing solutions. This 12-month fixed-term contract commences in January 2027 and offers the opportunity to build your experience with Australia's leading bus operator.</p><p>Working alongside Senior Data Engineers, you'll contribute to data pipeline development, system integration and platform operations within Microsoft Azure. You'll also work with large and complex datasets, troubleshoot technical issues and maintain documentation covering data models, data flows and ETL processes.</p><p>This role will suit an early-career Data Engineer who is curious, eager to learn and motivated to develop their technical skills in a fast-paced environment. You'll gain hands-on experience with enterprise data platforms and broaden your technical capabilities while working alongside experienced Data Engineers. A strong technical foundation, a proactive approach to problem-solving and a genuine willingness to learn will set you up for success in this role.</p><h2>What You Will Do</h2><ul><li>Build and maintain data pipelines and support data warehousing solutions within Microsoft Azure.</li><li>Support data ingestion, transformation and system integration processes.</li><li>Work with large datasets and implement solutions against established reference designs.</li><li>Troubleshoot database, pipeline and platform availability issues.</li><li>Maintain technical documentation, including data models, data flows and ETL processes.</li><li>Support pipeline scheduling, load balancing and collaborative code development</li></ul><h2>What You Will Need</h2><ul><li>Experience building ELT/ETL pipelines and working with SQL.</li><li>Experience supporting data testing, validation or troubleshooting.</li><li>Understanding of data warehousing and database management principles.</li><li>Experience with Azure technologies such as Data Factory and Synapse Analytics.</li><li>Proficiency in SQL, Python or other data engineering tools and languages.</li><li>Experience working with APIs and system integrations.</li><li>Strong problem-solving skills and attention to detail.</li><li>Ability to communicate effectively and work collaboratively within a team environment.</li><li>Exposure to GitHub or Azure DevOps, cloud-based data platforms, data warehousing and technical documentation will be highly regarded, though not essential.</li></ul><h2>About us</h2><p>At Kinetic, we don't just move people - we're creating the positive change our planet needs. As a leader in sustainable transport, we're committed to creating cleaner, safer, and greener environments for generations to come.</p><p>Our size and scale give our people real opportunities to learn, grow, and progress in their careers. Calm, positive and respectful team players thrive here. Our people embrace change and are encouraged to stretch their comfort zone while making a difference. We challenge each other to be our best.</p><p>We're driven by respect, diversity and genuine connection. From networking groups to community partnerships and volunteering, our camaraderie naturally brings people together. Our energy and dedication keep communities moving and our people growing.</p><h2>How to apply</h2><p>Kinetic&nbsp;is proud to be an Equal Opportunity Employer and our people represent the community which we service. We invite all suitably qualified applicants to apply, including First Nations People, and people from diverse social, cultural and gender backgrounds.</p><p>If you're interested in this rewarding role with Kinetic then click the 'Apply' button now!</p>",
-      "keywords": [
-        "data",
-        "engineer"
-      ]
-    },
-    {
       "job_id": "95492744",
       "job_title": "Software Developer",
       "business_name": "theBOSSapp",
@@ -1034,24 +1105,6 @@
         "enterprise",
         "solution",
         "architect"
-      ]
-    },
-    {
-      "job_id": "95405389",
-      "job_title": "Applications Specialist",
-      "business_name": "Feros Care",
-      "work_type": "Contract/Temp",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "Based on experience + Super + NFP Salary packaging",
-      "area": "Coolangatta, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95405389",
-      "advertiser_id": "26252854",
-      "posted_date": "2026-10-21T05:46:43Z",
-      "job_description": "<p><strong>Application Specialist</strong><br> <br> <strong>We're Feros Care, and we're pleased to meet you.</strong><br> <br> <strong>And what we care most about is helping people live healthier, happier, better-connected lives.</strong><br> <br> Since 1990, we've been making it happen, both for older Australians and people with disability. We are proud to be Game Changers. Dream Makers. Kindness Champions. Culture Shapers. Vibrant Creators. And it's not just us who thinks so; We've won many awards on the local and international stage for our approach.<br> <br> We're looking for an experienced Applications Specialist to join our Information Technology &amp; Communications team on a <strong>6 month contract</strong>, based in our Coolangatta office with flexible hybrid working arrangements. With several exciting projects and system improvements underway, you'll hit the ground running and make a tangible impact from day one.<br> <br> <strong>Make an impact while helping shape how our applications support the future of Feros Care.</strong><br> <br> As our Applications Specialist, you'll be the key escalation point for business application issues, while proactively identifying opportunities to optimise systems, improve processes and enhance the overall user experience. With a broad IT background and a passion for continuous improvement, you'll support, enhance and optimise the applications our people rely on every day.<br> <br> Working closely with stakeholders, vendors and colleagues across the business, you'll deliver practical solutions, drive better outcomes and help ensure our technology continues to evolve alongside the needs of Feros Care.<br> <br> <strong>What you'll do </strong></p><ul><li>Act as a key escalation point for business application issues, providing Level 2 support and troubleshooting to resolve complex technical challenges.</li><li>Support, maintain and optimise our application landscape to ensure systems remain reliable, secure and fit for purpose.</li><li>Partner with internal stakeholders and external vendors to deliver practical solutions and improve user experiences.</li><li>Manage application updates, patching and enhancements while supporting security and compliance requirements.</li><li>Identify opportunities to improve business processes, workflows and system performance.</li><li>Assist with application implementation, enhancement and continuous improvement projects.</li><li>Create and maintain application documentation, knowledge articles and support guides.</li><li>Monitor application performance and help ensure Feros Care's technology environment remains innovative, efficient and aligned to business needs.</li></ul><p><strong>What you'll bring</strong></p><ul><li>Strong Level 2 support capabilities and a methodical approach to troubleshooting and problem solving.</li><li>Broad IT knowledge and the ability to quickly learn and adapt to new applications and technologies.</li><li>Exceptional communication skills, with the ability to explain technical concepts to non-technical audiences.</li><li>Demonstrated ability to build effective relationships with internal stakeholders, third-party vendors and cross functional teams.</li><li>A proactive, solutions focused approach with a passion for continuous improvement.</li><li>Strong organisational and time management skills, with the ability to manage competing priorities.</li><li>High attention to detail and a commitment to delivering exceptional customer service.</li><li>Experience with Microsoft technologies and enterprise applications.</li><li>Exposure to aged care, health, disability or community services environments will be advantageous.</li></ul><p><strong>Qualifications &amp; Checks</strong></p><ul><li>Tertiary qualifications in Information Technology, Computer Science or a related discipline will be highly regarded.</li><li>Minimum 2 years' experience in a Service Desk environment, with at least 1 year in a Level 2 support role.</li><li>Experience using the ITIL framework (desirable).</li><li>Current unrestricted Australian Driver's Licence.</li><li>Undergo a Nationally Coordinated Criminal History Check.</li><li>Valid Australian working rights.</li></ul><p><strong>Why Feros Care?</strong><br> At Feros Care, we value our people and offer:</p><ul><li>Not for Profit Salary Packaging of up to $15,900 per annum, and meal and entertainment salary sacrifice of up to $2,650 per annum, all tax free, stretching your income further.</li><li>Flexible Working Arrangements, including a hybrid model with a combination of working from our Coolangatta office and the flexibility to work remotely.</li><li>17.5% Annual Leave loading.</li><li>Cultural Leave Days for eligible employees.</li><li>Enjoy exclusive discounts, financial tips, and wellness programs through our ForME employee benefits platform.</li><li>Private Health Insurance Discount with Medibank.</li><li>Employee Assistance Program (EAP).</li><li>Paid Parental Leave (9 weeks) for eligible employees.</li><li>Access to Fitness Passport - discounted gym and pool memberships for you and your family.</li><li>$200 referral bonus per successful referral.</li></ul><p><em>We actively seek to include, welcome and value the unique contributions of all people. We encourage applications from Aboriginal and Torres Strait Islander people, people from cultural and linguistically diverse backgrounds, and people with disability.</em><br><br> If you would like to discuss accessibility requirements, preferred communication methods or other possibilities, please contact <a href=\"mailto:talentacquisition@feroscare.com.au\">talentacquisition@feroscare.com.au</a></p>",
-      "keywords": [
-        "applications",
-        "specialist"
       ]
     },
     {
@@ -1366,31 +1419,6 @@
         "officer",
         "prep",
         "year"
-      ]
-    },
-    {
-      "job_id": "95102073",
-      "job_title": "Financial Services Technology Consultant | AI, Cybersecurity, Cloud & Managed IT",
-      "business_name": "First Focus IT P/L",
-      "work_type": "Full time",
-      "job_type": "Consultants",
-      "pay_range": "$200,000 – $300,000 per year",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95102073",
-      "advertiser_id": "35852943",
-      "posted_date": "2026-10-07T01:24:13Z",
-      "job_description": "<p><strong>You know financial services.</strong></p><p>Not just that accountants love spreadsheets, financial advisers love compliance, and somehow a relatively simple process can turn into seventeen forms and three approval meetings.</p><p>You understand how financial services firms actually operate, how business owners and directors think, how technology decisions get made, and why trust matters more than the cheapest quote.</p><p>Maybe you've sold financial services technology. Maybe you've worked in financial services IT. Maybe you've helped accounting firms, financial advisers, wealth managers or insurance businesses modernise their systems, cybersecurity or cloud platforms.</p><p>Whatever your path, you know that financial services businesses don't buy technology for technology's sake. They buy outcomes.</p><p>First Focus is looking for a <strong>Financial Services Technology Consultant</strong> to help financial services firms confidently navigate AI, cybersecurity, managed IT and cloud transformation.</p><p>We are Australia's leading managed AI and IT services provider, and our marketing engine delivers a strong pipeline of qualified opportunities from businesses already looking to improve how they work.</p><p>This is an individual contributor role. It isn't a graduate sales position, and it isn't a lead generation role. You'll need to arrive with strong commercial instincts, excellent discovery skills, genuine depth of financial services industry knowledge and the ability to build credibility quickly with business owners, directors, financial services leaders and senior decision-makers.</p><p><br></p><h2>What You'll Be Doing</h2><p>You'll work with small and mid-sized financial services businesses, typically between 20 and 250 users, who are reviewing their technology strategy, cybersecurity, AI roadmap or existing IT partner.</p><p>AI is rapidly changing financial services.</p><p>Business owners and directors want to know how Microsoft Copilot, secure AI assistants and automation can improve financial reporting, client engagement, document processing, compliance workflows and productivity without compromising confidentiality, data security or regulatory obligations.</p><p>You'll help firms move beyond AI curiosity into practical, secure and commercially sensible adoption.</p><p>You'll lead the commercial conversation from qualification through to proposal and close. That means understanding how the business operates, where technology is creating friction, how decisions are made, who needs to be involved and what success looks like.</p><p>You'll work closely with technical specialists, solution architects and delivery teams, but you'll own the client relationship and sales process. You'll be expected to quickly develop a strong understanding of First Focus's AI, cybersecurity, cloud and managed services offerings, confidently lead technical and commercial conversations, and translate these services into outcomes that resonate with business owners, directors and financial services leaders. You'll be expected to quickly master the key technical talking points and confidently lead client conversations independently, bringing in technical specialists for genuinely complex requirements rather than routine discussions.</p><p>You'll write clear, commercially credible proposals that explain the business case for change, while ensuring smooth handovers into implementation because a successful sale doesn't end with a signature.</p><p><br></p><h2>About You</h2><p>You understand that selling into financial services firms is different.</p><p>Trust is earned. Reputation matters. Risk matters. Relationships matter.</p><p>You know how to have commercial conversations with professionals who expect you to understand their business before talking about yours.</p><p>You're also naturally curious about AI and already using it to improve the way you work, whether that's research, writing, preparation, productivity or client engagement.</p><p>You'll probably be a great fit if you have:</p><ul><li><p>At least five years' experience in consultative B2B sales, solution consulting or technology consulting, with sustained exposure to the financial services industry.</p></li><li><p>Demonstrated depth of experience working with financial services organisations, including accounting firms, financial advice practices, wealth management businesses, insurance brokers or lending organisations. You'll understand their workflows, business systems and decision-making processes, and be able to explain technology decisions you've personally influenced and the outcomes delivered.</p></li><li><p>Experience with managed services, financial services technology, cybersecurity, cloud, AI, document management or industry-specific business platforms.</p></li><li><p>Confidence engaging with Managing Directors, Business Owners, CEOs, CFOs, Practice Managers, Compliance Managers and IT decision-makers.</p></li><li><p>Strong discovery skills and the discipline to qualify opportunities properly.</p></li><li><p>Excellent written communication and proposal development skills.</p></li><li><p>Strong technical aptitude and the ability to quickly become confident discussing AI, cybersecurity, cloud and managed services independently, including the key capabilities, risks and business outcomes, without routinely relying on technical specialists to lead client conversations.</p></li><li><p>High commercial standards and the expectation that your remuneration reflects the value you create.</p></li></ul><p>Experience with financial services technologies such as Xero, MYOB, BGL, Class, Xplan, AdviserLogic, Salesforce Financial Services Cloud or other accounting, wealth management and financial services platforms would be highly regarded, but isn't essential.</p><p><strong>This role probably isn't the right fit if your experience has been primarily lead generation, transactional product sales or heavily supported enterprise sales where large bid teams carry most of the commercial process.</strong></p><p>We're specifically looking for someone who understands the financial services industry, not simply a generalist technology consultant looking for a new market to sell into.</p><p><br></p><h2>What Great Looks Like</h2><p>Within six months you'll be confidently leading strategic and technical conversations with business owners, directors and financial services leaders, independently communicating the value of First Focus's services, converting qualified opportunities into long-term managed services clients and becoming a trusted advisor to firms navigating AI and technology change.</p><p>You'll build credibility because you understand the commercial realities of financial services.</p><p>You'll earn trust internally because you qualify thoroughly, sell accurately and hand over opportunities that delivery teams genuinely enjoy implementing.</p><p>Most importantly, you'll help Australian financial services businesses embrace AI safely, improve cybersecurity, modernise infrastructure and create better experiences for both their teams and their clients.</p><p><br></p><h2>Why First Focus</h2><p>Financial services businesses don't need another IT supplier.</p><p>They need a technology partner who understands confidentiality, cyber risk, regulatory obligations, business continuity and how financial services professionals actually work.</p><p>First Focus is Australia's leading managed AI and IT services provider, with more than 350 specialists across Australia, New Zealand and the Philippines.</p><p>We're helping professional services firms use AI in practical, secure and commercially valuable ways. Behind every conversation you'll have is deep technical capability across managed AI, managed IT, cybersecurity, cloud, Microsoft technologies, modern workplace and professional services.</p><p>You'll have genuine delivery capability behind you, a trusted brand in the market and a marketing engine generating qualified demand.</p><p>You won't spend your days cold calling from a spreadsheet. Which, given the industry's fondness for spreadsheets, is probably worth mentioning.</p><p>You'll spend them helping businesses that already know they need to modernise, making smart technology decisions that improve productivity, reduce risk and create lasting client relationships.</p><p>Our First Focus values include <strong>Be the Solution</strong>, which is particularly relevant here. We believe in taking ownership, solving problems and following through, rather than simply selling technology and hoping someone else figures out the difficult bits.</p><p>Learn more about First Focus and our values at https://www.firstfocus.com.au/about-us/.</p><p><br></p><h2>What You'll Get</h2><ul><li><p>A competitive base salary between <strong>$150,000–$200,000 base excluding superannuation, plus up to $100k OTE</strong></p></li><li><p>A strong pipeline of qualified opportunities, supported by an established marketing engine.</p></li><li><p>Flexible working arrangements that support genuine work-life balance.</p></li><li><p>Free access to Uprise, including 1:1 coaching with qualified psychologists or counsellors.</p></li><li><p><strong>Never Stop Growing:</strong> 10 paid study days per year, paid exam fees and pay rises for certifications (conditions apply).</p></li><li><p>Weekly internal training sessions and access to our learning library.</p></li><li><p>Our FastTrack mentoring program to support your development.</p></li><li><p>Our MAD (Making a Difference) Council, supporting equality, charity and environmental initiatives.</p></li><li><p>The option of a Tesla company car (conditions apply).</p></li><li><p>Regular social events and a genuinely supportive team culture.</p></li></ul><p><br></p><h2>Neurodiversity</h2><p>Neurodiversity: First Focus welcomes applications from Neurodiverse candidates. We recommend &amp; appreciate disclosure along with the application so that a copy of our Neurodiversity Statement can be provided outlining the flexible options we can offer to best showcase your skills.</p><h2>AI in Recruitment</h2><p>AI in Recruitment: We use AI-assisted recruitment tools as part of our recruitment process. These tools do not make hiring decisions. Candidate information is handled in accordance with the Privacy Act 1988 (Cth).</p>",
-      "keywords": [
-        "financial",
-        "services",
-        "technology",
-        "consultant",
-        "ai",
-        "cybersecurity",
-        "cloud",
-        "managed",
-        "it"
       ]
     }
   ]
