@@ -1,418 +1,388 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "region": "Gold Coast",
-  "scraped_at": "2026-11-05T10:38:51.637626+10:00",
-  "total_jobs": 55,
+  "scraped_at": "2026-11-06T10:37:46.447888+10:00",
+  "total_jobs": 52,
   "keywords": [
     {
       "term": "support",
-      "count": 17,
-      "share": 0.3091
+      "count": 16,
+      "share": 0.3077
     },
     {
       "term": "it",
       "count": 12,
-      "share": 0.2182
+      "share": 0.2308
     },
     {
       "term": "engineer",
       "count": 11,
-      "share": 0.2
-    },
-    {
-      "term": "analyst",
-      "count": 6,
-      "share": 0.1091
+      "share": 0.2115
     },
     {
       "term": "officer",
       "count": 6,
-      "share": 0.1091
+      "share": 0.1154
+    },
+    {
+      "term": "developer",
+      "count": 6,
+      "share": 0.1154
     },
     {
       "term": "software",
       "count": 6,
-      "share": 0.1091
+      "share": 0.1154
     },
     {
       "term": "manager",
       "count": 6,
-      "share": 0.1091
+      "share": 0.1154
     },
     {
-      "term": "business",
+      "term": "analyst",
       "count": 5,
-      "share": 0.0909
-    },
-    {
-      "term": "developer",
-      "count": 5,
-      "share": 0.0909
-    },
-    {
-      "term": "systems",
-      "count": 4,
-      "share": 0.0727
-    },
-    {
-      "term": "technician",
-      "count": 4,
-      "share": 0.0727
+      "share": 0.0962
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.0727
+      "share": 0.0769
+    },
+    {
+      "term": "business",
+      "count": 3,
+      "share": 0.0577
+    },
+    {
+      "term": "systems",
+      "count": 3,
+      "share": 0.0577
     },
     {
       "term": "technology",
       "count": 3,
-      "share": 0.0545
+      "share": 0.0577
     },
     {
       "term": "consultant",
       "count": 3,
-      "share": 0.0545
+      "share": 0.0577
     },
     {
       "term": "ai",
       "count": 3,
-      "share": 0.0545
+      "share": 0.0577
     },
     {
       "term": "network",
       "count": 3,
-      "share": 0.0545
+      "share": 0.0577
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0545
+      "share": 0.0577
     },
     {
-      "term": "administrator",
+      "term": "technician",
       "count": 3,
-      "share": 0.0545
+      "share": 0.0577
     },
     {
       "term": "technical",
       "count": 3,
-      "share": 0.0545
+      "share": 0.0577
     },
     {
       "term": "specialist",
       "count": 3,
-      "share": 0.0545
+      "share": 0.0577
     },
     {
       "term": "applications",
       "count": 3,
-      "share": 0.0545
+      "share": 0.0577
     },
     {
       "term": "service",
       "count": 3,
-      "share": 0.0545
+      "share": 0.0577
     },
     {
       "term": "cybersecurity",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "cloud",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "managed",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "services",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "ict",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
+    },
+    {
+      "term": "administrator",
+      "count": 2,
+      "share": 0.0385
     },
     {
       "term": "help",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "application",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "ongc",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0182
-    },
-    {
-      "term": "intelligence",
-      "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "manufacturing",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "financial",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "allres",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "golang",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "distribution",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "centre",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "l2",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "sql",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "integrations",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "prep",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "year",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "marymount",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "waters",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "process",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "improvement",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "infrastructure",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "soc",
       "count": 1,
-      "share": 0.0182
-    },
-    {
-      "term": "cyber",
-      "count": 1,
-      "share": 0.0182
-    },
-    {
-      "term": "security",
-      "count": 1,
-      "share": 0.0182
-    },
-    {
-      "term": "development",
-      "count": 1,
-      "share": 0.0182
-    },
-    {
-      "term": "course",
-      "count": 1,
-      "share": 0.0182
-    },
-    {
-      "term": "coach",
-      "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "worker",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "its",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "quality",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "assurance",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "website",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "growth",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "projects",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "umbraco",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "cms",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     }
   ],
   "jobs": [
@@ -508,7 +478,7 @@
       "url": "https://www.seek.com.au/job/95634995",
       "advertiser_id": "20551487",
       "posted_date": "2026-11-02T05:00:17Z",
-      "job_description": "<p><strong>As Australia's first private University, Bond University based at Robina, Gold Coast seeks to be recognised internationally as a leading independent university, imbued with a spirit to innovate, a commitment to influence and a dedication to inspire tomorrow's professionals who share a personalised and transformational student experience.</strong></p><p><strong>&nbsp;</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support student systems and data administration across the University.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Administer and configure student systems to support users effectively.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monitor, troubleshoot and improve system performance and processes.</p><p><strong>&nbsp;</strong></p><p><strong>Applications Administrator</strong></p><p><strong>University Registrar - Student Business Services</strong></p><p><strong>Full-time, Continuing Appointment</strong></p><p><strong>Position Reference No: <a href=\"tel:201413250\">201413250</a></strong></p><p><br></p><p><strong>Join Australia’s number one University for teaching*, and enjoy staff benefits including:</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free staff car parking</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Salary packaging options for FBT and Non-FBT items#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17.5% of base salary leave loading</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Staff wellbeing program</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free &amp; Confidential Employee Assistance Program available for all staff</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Study assistance for staff and dependents#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Corporate health and finance discounts</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Medical Centre and Counselling Services</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Sports Centre including gym, fitness classes and pool#</p><p><br></p><p><strong>About the Position</strong></p><p>The Applications Administrator will act as a key support resource in the Student Systems and Data team. The team is responsible for the administration and updates to the student management system used by Bond University, the timetabling system, the student placement system, the student wellbeing systems, the student portal and reporting to Government on student data.</p><p><br></p><p>The Applications Administrator will be assigned to provide support in delivering dedicated software solutions to university stakeholders, enabling business improvement, data accuracy and effective system maintenance. This role requires collaboration across the university, including Student Business Services, Information Technology Services, the Student Success and Wellbeing team and the University’s faculties and academic units, to ensure optimal value is derived from core systems. The role is also responsible for system configuration, system health, and daily operational support including performance monitoring, data integration and reporting from the support systems.</p><p><br></p><p>The primary focus of the role is supporting the InPlace Student Placement Management System, and the suite of Symplicity products (Advocate, Access, UniHub &amp; CSM) used by the Registrar’s portfolio and other designated student facing and support roles and organisational areas. However, support to other applications may be required as business needs arise across the Student Systems and Data team.</p><p><br></p><p><strong>About the Person</strong></p><p>The ideal candidate will be able to demonstrate the following:</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Completion of a bachelor’s level qualification in Information Technology and/or relevant work experience.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Extensive experience within a professional ICT environment covering planning, administering, maintaining, and supporting business applications and data security.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; High-level problem-solving skills, including the ability to proactively develop innovative solutions.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sound understanding of technical IT issues to enable discussions with internal and external technical specialists.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience in managing third-party vendor suppliers and issue resolution.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong technical writing skills with proven ability to maintain comprehensive written system documentation.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ability to monitor continuous data integrations and perform relevant data cleansing for raised exceptions.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrated experience in defining and optimising business processes.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong cross-functional relationship management skills, including excellent written and oral communication skills.</p><p><strong>&nbsp;</strong></p><p><strong>Salary details</strong></p><p>The salary for this full-time position commences at $99,108 per annum plus 12% superannuation per annum.</p><p><br></p><p><strong>Further information</strong></p><p>Position-related enquiries can be directed to Tanya Cook, <a href=\"mailto:tcook@bond.edu.au\" target=\"_blank\">tcook@bond.edu.au</a> or <a href=\"tel:07 55951172\">07 55951172</a>.</p><p><br></p><p><strong>How to Apply for this Position</strong></p><p>For further details regarding this appointment, please reference the <a href=\"https://bond.edu.au/sites/default/files/2025-08/PD%20Applications%20Administrator.pdf\" target=\"_blank\">Position Description and Selection Criteria.</a></p><p><br></p><p>Click&nbsp;<em>Apply Now</em>&nbsp;and&nbsp;<em>Create New Account</em>&nbsp;to get started. You can:</p><ul><li><p>Upload your Resume – your account will be created automatically, or</p></li><li><p>Manually enter your details to set up your account.</p></li></ul><p>Please ensure your application includes:</p><ul><li><p>A current resume</p></li><li><p>A cover letter addressing the Selection Criteria outlined in the Position Description above</p></li></ul><p><br></p><p>For current Bond University staff, apply directly via <a href=\"https://hrconnect.bond.edu.au\" target=\"_blank\">People Connect</a>, log in with staff credentials, from the Home dashboard select Careers, select the role and apply.<br><br>If you require any assistance with your application submission, please visit <a href=\"https://bond.edu.au/about-bond/careers-bond/applying-jobs-bond\" target=\"_blank\">Applying for jobs at Bond</a>.</p><p><br></p><p><strong>Applications close: 11:59pm, Monday 16 November 2026</strong></p><p><br></p><p><em>Applicants must have current work rights in Australia at the time of application. This status will be verified as part of the recruitment process.</em></p><p><br></p><p><em>Pre-employment checks: Appointment is subject to satisfactory pre-employment checks (including working rights verification, reference checks and a certified copy of your highest qualification). In line with the National Higher Education Code to Prevent and Respond to Gender-based Violence 2025, preferred candidates must complete a Gender-Based Violence (GBV) Declaration, and any offer of employment will be conditional upon the University’s review of the declaration. For more information, please visit our website via this link:&nbsp;</em><a href=\"https://bond.edu.au/our-university/careers-at-bond/applying-for-jobs-at-bond\" target=\"_blank\"><em>Applying for Jobs at Bond</em></a></p><p><br></p><p><strong>Conditions of employment are offered under a Bond Workplace Agreement (BWA).</strong></p><p><br></p><p>Bond University is an equal opportunity employer, and we encourage our students and staff to respect individuality and diversity. In line with Bond University’s values, people from diverse backgrounds, women, Aboriginal and Torres Strait Islander people, people who identify as LGBTIQ+, and people with a disability are encouraged to apply for positions at the University.</p><p><br></p><p><a href=\"https://bond.edu.au/privacy\" target=\"_blank\">Bond University Privacy Policy</a></p><p>#Eligibility criteria or membership fees apply<br>*Australian Financial Review’s Best Universities Ranking 2024&nbsp;</p>",
+      "job_description": "<p><strong>As Australia's first private University, Bond University based at Robina, Gold Coast seeks to be recognised internationally as a leading independent university, imbued with a spirit to innovate, a commitment to influence and a dedication to inspire tomorrow's professionals who share a personalised and transformational student experience.</strong></p><p><strong>&nbsp;</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support student systems and data administration across the University.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Administer and configure student systems to support users effectively.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monitor, troubleshoot and improve system performance and processes.</p><p><strong>&nbsp;</strong></p><p><strong>Applications Administrator</strong></p><p><strong>University Registrar - Student Business Services</strong></p><p><strong>Full-time, Continuing Appointment</strong></p><p><strong>Position Reference No: <a href=\"tel:201413250\">201413250</a></strong></p><p><br></p><p><strong>Join Australia’s number one University for teaching*, and enjoy staff benefits including:</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free staff car parking</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Salary packaging options for FBT and Non-FBT items#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17.5% of base salary leave loading</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Staff wellbeing program</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free &amp; Confidential Employee Assistance Program available for all staff</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Study assistance for staff and dependents#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Corporate health and finance discounts</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Medical Centre and Counselling Services</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Sports Centre including gym, fitness classes and pool#</p><p><br></p><p><strong>About the Position</strong></p><p>The Applications Administrator will act as a key support resource in the Student Systems and Data team. The team is responsible for the administration and updates to the student management system used by Bond University, the timetabling system, the student placement system, the student wellbeing systems, the student portal and reporting to Government on student data.</p><p><br></p><p>The Applications Administrator will be assigned to provide support in delivering dedicated software solutions to university stakeholders, enabling business improvement, data accuracy and effective system maintenance. This role requires collaboration across the university, including Student Business Services, Information Technology Services, the Student Success and Wellbeing team and the University’s faculties and academic units, to ensure optimal value is derived from core systems. The role is also responsible for system configuration, system health, and daily operational support including performance monitoring, data integration and reporting from the support systems.</p><p><br></p><p>The primary focus of the role is supporting the InPlace Student Placement Management System, and the suite of Symplicity products (Advocate, Access, UniHub &amp; CSM) used by the Registrar’s portfolio and other designated student facing and support roles and organisational areas. However, support to other applications may be required as business needs arise across the Student Systems and Data team.</p><p><br></p><p><strong>About the Person</strong></p><p>The ideal candidate will be able to demonstrate the following:</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Completion of a bachelor’s level qualification in Information Technology and/or relevant work experience.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Extensive experience within a professional ICT environment covering planning, administering, maintaining, and supporting business applications and data security.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; High-level problem-solving skills, including the ability to proactively develop innovative solutions.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sound understanding of technical IT issues to enable discussions with internal and external technical specialists.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience in managing third-party vendor suppliers and issue resolution.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong technical writing skills with proven ability to maintain comprehensive written system documentation.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ability to monitor continuous data integrations and perform relevant data cleansing for raised exceptions.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrated experience in defining and optimising business processes.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong cross-functional relationship management skills, including excellent written and oral communication skills.</p><p><strong>&nbsp;</strong></p><p><strong>Salary details</strong></p><p>The salary for this full-time position commences at $99,108 per annum plus 12% superannuation per annum.</p><p><br></p><p><strong>Further information</strong></p><p>Position-related enquiries can be directed to Tanya Cook, <a href=\"mailto:tcook@bond.edu.au\" target=\"_blank\">tcook@bond.edu.au</a> or <a href=\"tel:07 55951172\">07 55951172</a>.</p><p><br></p><p><strong>How to Apply for this Position</strong></p><p>For further details regarding this appointment, please reference the <a href=\"https://bond.edu.au/sites/default/files/2026-11/PD%20Applications%20Administrator%20October%202026.v1%20%281%29.pdf\" target=\"_blank\">Position Description and Selection Criteria</a><a href=\"https://bond.edu.au/sites/default/files/2025-08/PD%20Applications%20Administrator.pdf\" target=\"_blank\">.</a></p><p><br></p><p>Click&nbsp;<em>Apply Now</em>&nbsp;and&nbsp;<em>Create New Account</em>&nbsp;to get started. You can:</p><ul><li><p>Upload your Resume – your account will be created automatically, or</p></li><li><p>Manually enter your details to set up your account.</p></li></ul><p>Please ensure your application includes:</p><ul><li><p>A current resume</p></li><li><p>A cover letter addressing the Selection Criteria outlined in the Position Description above</p></li></ul><p><br></p><p>For current Bond University staff, apply directly via <a href=\"https://hrconnect.bond.edu.au\" target=\"_blank\">People Connect</a>, log in with staff credentials, from the Home dashboard select Careers, select the role and apply.<br><br>If you require any assistance with your application submission, please visit <a href=\"https://bond.edu.au/about-bond/careers-bond/applying-jobs-bond\" target=\"_blank\">Applying for jobs at Bond</a>.</p><p><br></p><p><strong>Applications close: 11:59pm, Monday 16 November 2026</strong></p><p><br></p><p><em>Applicants must have current work rights in Australia at the time of application. This status will be verified as part of the recruitment process.</em></p><p><br></p><p><em>Pre-employment checks: Appointment is subject to satisfactory pre-employment checks (including working rights verification, reference checks and a certified copy of your highest qualification). In line with the National Higher Education Code to Prevent and Respond to Gender-based Violence 2025, preferred candidates must complete a Gender-Based Violence (GBV) Declaration, and any offer of employment will be conditional upon the University’s review of the declaration. For more information, please visit our website via this link:&nbsp;</em><a href=\"https://bond.edu.au/our-university/careers-at-bond/applying-for-jobs-at-bond\" target=\"_blank\"><em>Applying for Jobs at Bond</em></a></p><p><br></p><p><strong>Conditions of employment are offered under a Bond Workplace Agreement (BWA).</strong></p><p><br></p><p>Bond University is an equal opportunity employer, and we encourage our students and staff to respect individuality and diversity. In line with Bond University’s values, people from diverse backgrounds, women, Aboriginal and Torres Strait Islander people, people who identify as LGBTIQ+, and people with a disability are encouraged to apply for positions at the University.</p><p><br></p><p><a href=\"https://bond.edu.au/privacy\" target=\"_blank\">Bond University Privacy Policy</a></p><p>#Eligibility criteria or membership fees apply<br>*Australian Financial Review’s Best Universities Ranking 2024&nbsp;</p>",
       "keywords": [
         "applications",
         "administrator"
@@ -796,25 +766,6 @@
         "software",
         "engineering",
         "manager"
-      ]
-    },
-    {
-      "job_id": "95517955",
-      "job_title": "Business Systems Administrator",
-      "business_name": "Alder Constructions Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Other",
-      "pay_range": "",
-      "area": "Helensvale, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95517955",
-      "advertiser_id": "20961859",
-      "posted_date": "2026-10-27T04:14:29Z",
-      "job_description": "<p>Alder Group is proudly celebrating 23 years in 2026, bringing engineering and construction teams together under one roof to deliver high-quality building, civil and infrastructure projects across Queensland and Northern NSW.</p><p>&nbsp;</p><p>As our new <strong>Business Systems Administrator</strong>, you'll play a pivotal role in ensuring our business systems run seamlessly while driving continuous improvement across the organisation. This is an exciting opportunity for someone who enjoys solving problems, working with people, and finding smarter ways to leverage technology to support business success.</p><p>&nbsp;</p><p>You'll become the go-to expert for our business applications, helping employees get the most out of the systems they use every day while influencing the future direction of our technology landscape. </p><p>&nbsp;</p><p><strong>About the Role</strong></p><p>Reporting to the General Manager for Information, Data &amp; Technology, you'll be responsible for the administration, support, optimisation and continuous improvement of Alder's business systems portfolio. You'll act as the primary point of contact for users, ensuring systems remain reliable, effective and aligned to operational needs. </p><p>&nbsp;</p><p>Key responsibilities include:</p><ul><li>Providing application support and resolving incidents and service requests</li><li>Managing user access, system configurations and business application administration</li><li>Coordinating with software vendors and support providers</li><li>Supporting system upgrades, testing, releases and user adoption activities</li><li>Driving process improvements and system enhancements</li><li>Assisting with automation, integration and digital transformation initiatives</li><li>Maintaining application documentation, governance and support processes</li><li>Working closely with stakeholders to identify opportunities to improve efficiency and user experience. &nbsp;</li></ul><p>&nbsp;</p><p><strong>About You</strong></p><p>You are naturally curious, solutions-focused and passionate about technology. You enjoy working with people, understanding how businesses operate and finding ways to improve systems and processes.</p><p>You'll bring:</p><ul><li>Experience supporting and administering business applications</li><li>Strong troubleshooting and problem-solving skills</li><li>Experience managing incidents, service requests and system enhancements</li><li>Exposure to software vendors and third-party support providers</li><li>Experience supporting system upgrades, testing and releases</li><li>Knowledge of IT service management or ticketing platforms</li><li>Strong communication and stakeholder engagement skills</li><li>Familiarity with Microsoft 365 and modern workplace technologies. </li></ul><p>&nbsp;</p><p><strong>About Alder Group</strong></p><p>At Alder Group, we deliver award-winning construction and infrastructure projects that positively impact communities across Queensland and Northern NSW. Our diverse portfolio spans Infrastructure, Water and Wastewater, Education, Health, Commercial, Industrial, Hospitality and Community sectors.</p><p>&nbsp;</p><p><strong>What We Offer</strong></p><ul><li>A supportive and collaborative workplace where people are valued, respected and encouraged to do their best work.</li><li>A genuine \"One Team\" mindset and focus on continuous improvement.</li><li>Opportunities to develop your capability, expand your experience and grow your career within a dynamic and evolving business.</li><li>Exposure to a broad range of technologies, projects and business operations.</li><li>A structured pathway into systems administration and infrastructure-focused roles.</li><li>A competitive remuneration package aligned to your experience and the value you bring to the role.</li></ul><p>&nbsp;</p><p>If you're looking for a role where you can combine technical expertise, stakeholder engagement and continuous improvement while helping shape the future of technology within a growing organisation, we'd love to hear from you.</p><p>&nbsp;</p>",
-      "keywords": [
-        "business",
-        "systems",
-        "administrator"
       ]
     },
     {
@@ -1323,6 +1274,24 @@
       ]
     },
     {
+      "job_id": "95231119",
+      "job_title": "Software Developer - Gold Coast",
+      "business_name": "SB Recruitment Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "Salary negotiable depending on experience",
+      "area": "Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95231119",
+      "advertiser_id": "25844743",
+      "posted_date": "2026-10-13T04:16:29Z",
+      "job_description": "<strong>The Company…..</strong><br> Our client is a highly regarded Australian business with an established market presence and a strong industry reputation. As they continue to invest in digital transformation, they are growing their close knit technology team and looking for an early career developer who wants to learn fast and build real solutions from day one.<br> You will be supported by experienced developers who care about helping you grow, while working on projects that matter to the business.<br> <br><strong>The Job…..</strong><br> As a Software Developer, you will work across a modern technology stack, contributing to new development and the ongoing evolution of core business systems. You will:<br> <ul> <li>Build and maintain full stack applications using React and modern backend technologies</li> <li>Help develop and support custom APIs, an in house CRM platform and new Point of Sale (POS) functionality</li> <li>Learn to build serverless, event driven solutions using Azure Functions and cloud native services</li> <li>Contribute to the development and improvement of CRM data structures</li> <li>Take on increasing ownership of projects and technical decisions as your skills grow</li> <li>Work closely with a small, friendly and highly engaged internal technology team, with regular code reviews and mentoring</li> </ul> <strong>You…..</strong><br> You do not need to tick every box. Our client is looking for strong foundations and a genuine passion for building software.<br><br>Essential:<br> <ul> <li>Up to 2 years’ commercial experience as a Full Stack or Backend Developer (graduates, internship and project experience will be considered)</li> <li>Solid JavaScript and TypeScript skills, with hands on React experience</li> <li>Working knowledge of Python</li> <li>Familiarity with Git and pull request workflows</li> <li>A curious, pragmatic mindset, good communication skills and a commitment to writing clean, maintainable code</li> <li>The ability to work in the Gold Coast office five days a week</li> </ul> Nice to have (on the job training available):<br> <ul> <li>Exposure to Azure Functions or equivalent AWS or GCP serverless services</li> <li>Awareness of OAuth2 and token based authentication, including MSAL or Microsoft Entra ID</li> <li>Azure DevOps experience</li> </ul> <strong>What’s On Offer…..</strong><br> <ul> <li>Mentoring and hands on guidance from experienced developers</li> <li>Genuine exposure to modern cloud and serverless technologies</li> <li>A clear path to more ownership and influence over technical direction</li> <li>A stable and growing Australian business investing in technology</li> <li>Long term career growth within a supportive team culture</li> </ul> <strong>How to apply….</strong><br> This position is based full time onsite at the company’s Gold Coast office. Please only apply if you are able to commit to working onsite five days per week.<br> To apply, click the Apply button or contact Jenny Quigley at SB Recruitment on <a href=\"tel:02 9002 5005\">02 9002 5005</a> for a confidential discussion.",
+      "keywords": [
+        "software",
+        "developer"
+      ]
+    },
+    {
       "job_id": "95229260",
       "job_title": "Software Services Engineer I",
       "business_name": "Gilmour Space Technologies",
@@ -1422,65 +1391,6 @@
         "cloud",
         "managed",
         "it"
-      ]
-    },
-    {
-      "job_id": "95098172",
-      "job_title": "Business Intelligence Analyst",
-      "business_name": "Nexigen Digital",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95098172",
-      "advertiser_id": "25685289",
-      "posted_date": "2026-10-06T22:53:55Z",
-      "job_description": "<div><p><strong>About Nexigen Digital</strong><br>We are Australia’s largest privately-owned group of online service providers, which includes brands such as VentraIP, Synergy Wholesale and Intaserve.<br><br></p><p>Every day our all-Australian team delivers exceptional service and outstanding support to our 200,000+ customers who choose us for their domain names, website hosting and online presence.</p><p><br></p><p>Over the past seventeen years, we have been constant game-changers, industry innovators, award winners, and community leaders - and now is your chance to join our team.</p><p><br></p></div><br><div><p><strong>Role Purpose</strong></p><p><br></p><p>At Nexigen Digital, we generate valuable data across multiple platforms and aim to consolidate these data points into a single source of truth. We are looking for a hands-on Business Intelligence Developer to build our data architecture from the ground up.</p><p><br></p><p>In this 12-month contract, you will own the end-to-end data lifecycle, from extracting raw data from our disconnected systems and building a centralised data warehouse. Designing interactive dashboards that will drive our executive decision-making. If you succeed in laying this foundation, there is a strong intent to transition this role into a permanent, ongoing position leading our analytics strategy.</p><p><br></p><p><br></p><p><strong>Key Responsibilities</strong></p><ul><li>Develop and maintain ETL processes, data integration solutions and automated data pipelines across multiple source systems.</li><li>Architect and build a centralised data warehouse or data mart, ensuring the data is cleaned, modelled accurately and optimised for reporting.</li><li>Develop, deploy, and maintain interactive, automated dashboards that track key business metrics and trends.</li><li>Work directly with stakeholders to translate vague business questions into concrete data requirements and actionable insights.</li></ul><p><br></p><p><strong>Skills &amp; Experience</strong></p><p><br></p><p><strong>Essential</strong></p><ul><li>Excellent analytical, problem-solving and consulting skills. </li><li>Strong SQL skills for querying, merging, and transforming complex datasets. </li><li>Expertise in building commercial dashboards in a Business Intelligence environment</li><li>Excellent communication skills – listening, written and verbal</li></ul><p><br></p><p><strong>Desirable</strong></p><ul><li>Proven experience using modern data integration tools or custom scripting (Python) to extract data from APIs.</li><li>Strong understanding of relational database </li><li>Understand what drives revenue, margins, and operational efficiency, and you know how to communicate these concepts to stakeholders. </li></ul><p><br></p><p><br><br></p><p><strong>The Benefits of Working With the Nexigen Digital Team</strong><br>Aside from being awarded “Employer of Choice” in the Australian Business Awards, we are often referred to as the Google of south-east Melbourne thanks to our unique facilities and team culture, and a top-down mandate to take care of the people who take care of our customers.</p><p>Some of the office perks include:</p><ul><li>A weekly selection of delicious meals prepared in our on-site kitchen for breakfast and lunch.</li><li>A fully-stocked snack bar featuring an assortment of chips, chocolates, nuts, protein bars and fresh fruit.</li><li>A drink fridge loaded with an assortment of soft drinks, juices and water.</li><li>A fully equipped private gym with weekly on-site personal training sessions.</li><li>A team wellness centre with a sound-proof gaming stadium featuring an 85” 4K TV, racing car simulator, pinball machine, arcade machine, and air hockey table.</li><li>An on-site salon where our resident barber and stylist provide free haircuts on a regular basis.</li></ul><p>We actively encourage training and upskilling for personal development and will fund courses that have a beneficial impact on the business.</p><p>Please note that due to strict security requirements the successful applicant will be required to complete a National Police Check as a condition of employment.</p><p><br></p></div><br><br><p>PI<a href=\"tel:287532556\">287532556</a></p>",
-      "keywords": [
-        "business",
-        "intelligence",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "95081106",
-      "job_title": "Cyber Security and/or Software Development Course Coach",
-      "business_name": "Equinim College of Technology",
-      "work_type": "Part time",
-      "job_type": "Security",
-      "pay_range": "$45 per hour",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95081106",
-      "advertiser_id": "62661973",
-      "posted_date": "2026-10-06T04:17:13Z",
-      "job_description": "<p>Are you a passionate &amp; caring person looking to develop your training skills in a positive environment?</p><p>We are looking for enthusiastic and people-focused individuals that love to share their knowledge and skills with others. Candidates will have great communication skills with a diverse scope of people and willingness to learn and serve students towards a greater understanding.&nbsp;This role is remote and is suited for people all across Australia.</p><p><br></p><p><strong>Application Information:</strong></p><p>To apply for this role, you must:</p><ol><li><p>Provide a resume highlighting your experience, knowledge, and skills relevant to this role. (Submit this via Seek)</p></li></ol><p><br></p><p><br><strong>Job Role:</strong><br>Provide education and training to students via <strong>Online Course Coaching.</strong></p><p>Being a Course Coach involves:</p><ul><li><p>Tutoring and teaching adult learners. This is done by having consistent communication with students via Zoom calls, phone or written communication.</p></li><li><p>General support and connection with students about course questions and study requirements.</p></li><li><p>Basic scheduling and time management skills are required for a successful candidate.</p></li><li><p>Working with a passionate team to ensure student success.</p></li></ul><p><br></p><p>We are currently hiring course coaches with Cyber Security skills and experience or Full Stack Web Development skills. If you meet either one of these skills please apply below!<br><br></p><p><strong>Skills Needed Cyber:</strong></p><ul><li><p>Experience with Cyber Security Systems and Tools (Basic Cloudflare, AWS, Wireshark, Virtual Machines)</p></li><li><p>Strong understanding of Cyber Security foundations</p></li><li><p>Industry experience is preferred</p></li></ul><p><br></p><p><strong>Skills Needed Web Development:</strong></p><ul><li><p>Experience in Full Stack Web Development</p></li><li><p>Proficiency with at least 2 programming languages (HTML, CSS, JavaScript, Python)</p></li><li><p>Experience with Github and SQL or similar database programing</p></li><li><p>Experience with Blockchain and AI / ML is preferred</p></li></ul><p><br></p><p><strong>Universal Training Skills:</strong></p><ul><li><p>Strong English Communication Skills</p></li><li><p>Computer with appropriate microphone and camera settings to host a zoom call</p></li><li><p>Flexible availability to communicate with students</p></li><li><p>Valid TAE (training and assessment) qualification - if you do not have this, be willing to obtain the qualification.<br>&nbsp;</p></li></ul><p><strong>Salary</strong>:</p><p>This is a part-time role. The part-time rate for a Course Coach for this particular role is $45 per hour. Successful candidates will be doing 10 hours per week.</p><p>This job is dependent on student availability and self-autonomy for scheduling. Hours are averaged across the week, with hours being dependent on student availability.</p><p><br></p><p><strong>About Us</strong></p><p>We are a Vocational Education and Training Organisation who's team has been operating for over 10 years in this space. We make sure to always focus on delivering quality materials, practical training and always aim to find new ways that can raise the bar across different industries. What sets us apart is our commitment to and incredible student experience whilst studying.</p><p><br></p><p>We work together; listening and challenging to create a supportive work environment whereby everyone works together and is equal.<br></p><p>We are hiring ASAP so if you think this role suits you, we would love to get in touch with you.<br></p><p>Work with us, to work together, and as a team let's inspire the next round of industry leaders!</p>",
-      "keywords": [
-        "cyber",
-        "security",
-        "software",
-        "development",
-        "course",
-        "coach"
-      ]
-    },
-    {
-      "job_id": "95075628",
-      "job_title": "Support Technician Level 1",
-      "business_name": "Optix Australasia",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Burleigh Heads, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95075628",
-      "advertiser_id": "63867355",
-      "posted_date": "2026-10-06T02:23:37Z",
-      "job_description": "<p><strong>About the role</strong></p><p>Optix Australasia is seeking a motivated and technically minded individual to join our Operations team as a Support Technician Level 1. This is an entry-level technical role that provides hands-on support across customers, hardware configurations, vehicle telematics, logistics, installations, and troubleshooting. You will work alongside experienced technical professionals while supporting a range of technologies including GPS tracking, video telematics, fleet management systems, IoT devices, and vehicle safety solutions. The Support Technician Level 1 provides essential first-line technical support, logistics coordination, and basic installation assistance. This role supports a range of Company-supplied products that help customers implement and maintain effective safety programs within their organisations.</p><p><strong>Key responsibilities</strong></p><ul><li>Provide Level 1 support via phone, email, messaging platforms and ticketing systems</li><li>Perform basic troubleshooting for hardware, software, connectivity, and installation-related issues</li><li>Support the Installation Team by offering technical guidance and assistance</li><li>Escalate complex or unresolved issues to Senior Support Technician, external vendors, or management</li><li>Operate and maintain provisioning stations, FROOTI stations, test jigs, and backend tools (e.g., DriveCam, DOL)</li><li>Perform device monitoring and generate routine operational reports</li><li>Assist with warehouse activities, including provisioning, minor repairs, and hardware/component handling</li><li>Monitor SIM/M2M portals, troubleshoot activation issues, and track data usage</li><li>Coordinate RMAs and carry out basic hardware fixes where appropriate</li><li>Work collaboratively with Accounts, Client Experience, PMO, Installations, and Technical/Product teams</li></ul><p><strong>About you</strong></p><ul><li>Broad understanding of computer systems, software applications, networking, and device connectivity</li><li>Ability to support and maintain hardware, software, networks, and communication systems</li><li>Strong record-keeping and documentation skills</li><li>Strong interpersonal skills and the ability to work with diverse stakeholders</li><li>Competent troubleshooting and problem-solving abilities</li><li>Interest in technology and willingness to learn new systems and tools</li><li>Strong multi-tasking, prioritisation, and time-management skills</li><li>Confident verbal and written communication skills</li><li>Analytical thinking paired with practical solution delivery</li><li>Proficiency with PCs and Microsoft Office Suite (Word, Excel, Outlook, etc.)</li></ul><p><strong>About us</strong></p><p>Optix Australasia is a company that provides a range of products that help customers implement and maintain effective safety programs within their organisations. The Support Technician Level 1 works closely with the Senior Support Technician and Technical Services lead and reports to the Senior Operations Manager (APAC). This position is predominantly office-based in Burleigh Heads, with occasional travel.</p>",
-      "keywords": [
-        "support",
-        "technician"
       ]
     }
   ]
