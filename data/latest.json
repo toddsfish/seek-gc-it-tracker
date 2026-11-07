@@ -1,403 +1,388 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "region": "Gold Coast",
-  "scraped_at": "2026-11-07T09:53:24.709005+10:00",
-  "total_jobs": 53,
+  "scraped_at": "2026-11-08T09:15:33.527009+10:00",
+  "total_jobs": 52,
   "keywords": [
     {
       "term": "support",
-      "count": 16,
-      "share": 0.3019
+      "count": 15,
+      "share": 0.2885
     },
     {
       "term": "it",
       "count": 12,
-      "share": 0.2264
+      "share": 0.2308
     },
     {
       "term": "engineer",
       "count": 12,
-      "share": 0.2264
-    },
-    {
-      "term": "officer",
-      "count": 6,
-      "share": 0.1132
+      "share": 0.2308
     },
     {
       "term": "developer",
       "count": 6,
-      "share": 0.1132
+      "share": 0.1154
     },
     {
       "term": "software",
       "count": 6,
-      "share": 0.1132
+      "share": 0.1154
     },
     {
       "term": "manager",
       "count": 6,
-      "share": 0.1132
+      "share": 0.1154
+    },
+    {
+      "term": "officer",
+      "count": 5,
+      "share": 0.0962
     },
     {
       "term": "analyst",
       "count": 5,
-      "share": 0.0943
+      "share": 0.0962
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.0755
+      "share": 0.0769
     },
     {
       "term": "business",
       "count": 3,
-      "share": 0.0566
+      "share": 0.0577
     },
     {
       "term": "systems",
       "count": 3,
-      "share": 0.0566
+      "share": 0.0577
     },
     {
       "term": "technology",
       "count": 3,
-      "share": 0.0566
+      "share": 0.0577
     },
     {
       "term": "network",
       "count": 3,
-      "share": 0.0566
+      "share": 0.0577
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0566
+      "share": 0.0577
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0566
+      "share": 0.0577
     },
     {
       "term": "technical",
       "count": 3,
-      "share": 0.0566
+      "share": 0.0577
     },
     {
       "term": "service",
       "count": 3,
-      "share": 0.0566
+      "share": 0.0577
     },
     {
       "term": "consultant",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0385
     },
     {
       "term": "ai",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0385
     },
     {
       "term": "ict",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0385
     },
     {
       "term": "help",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0385
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0385
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0377
-    },
-    {
-      "term": "ongc",
-      "count": 2,
-      "share": 0.0377
+      "share": 0.0385
     },
     {
       "term": "application",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0385
+    },
+    {
+      "term": "ongc",
+      "count": 2,
+      "share": 0.0385
     },
     {
       "term": "specialist",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0385
     },
     {
       "term": "applications",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0385
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0385
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0385
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0385
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "allres",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "manufacturing",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "cybersecurity",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "managed",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "golang",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "services",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "distribution",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "centre",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "l2",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "sql",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "integrations",
       "count": 1,
-      "share": 0.0189
-    },
-    {
-      "term": "helpdesk",
-      "count": 1,
-      "share": 0.0189
-    },
-    {
-      "term": "prep",
-      "count": 1,
-      "share": 0.0189
-    },
-    {
-      "term": "year",
-      "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "marymount",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "waters",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "process",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "improvement",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "soc",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "scenic",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "rim",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "worker",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "its",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "quality",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "assurance",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "website",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "growth",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "projects",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "umbraco",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     },
     {
       "term": "cms",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0192
     }
   ],
   "jobs": [
@@ -1398,27 +1383,6 @@
       "keywords": [
         "support",
         "engineer"
-      ]
-    },
-    {
-      "job_id": "95130549",
-      "job_title": "Helpdesk Support Officer - Prep to Year 12",
-      "business_name": "Trinity Lutheran College",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "School Officer, Level 4 - $77,753",
-      "area": "Ashmore, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95130549",
-      "advertiser_id": "20481382",
-      "posted_date": "2026-10-08T01:31:11Z",
-      "job_description": "<p><strong>Helpdesk Support Officer</strong></p><p><strong>Full-time | Permanent | Monday to Friday&nbsp; &nbsp;</strong></p><p><strong>Salary: School Officer, Level 4, $77,753 per annum</strong></p><p><strong>Are you the person people go to when their tech isn't working - and love being the one who sorts it out?</strong></p><p>Trinity Lutheran College is a Prep to Year 12 Christian co-educational College on the Gold Coast, where exceptional teaching, authentic relationships and a commitment to helping every student flourish are at the heart of everything we do.</p><p>We are looking for a Helpdesk Support Officer, who approaches problems with curiosity, brings compassion and patience to every person they help, takes ownership of tickets through to resolution, and builds genuine relationships across our school community.</p><p><strong>About the role</strong></p><p>Reporting to our ICT Manager, with day-to-day guidance from our ICT Systems Administrator, the Helpdesk Support Officer is the first point of contact for technology support across the College. In this role you’ll be the friendly, knowledgeable face of ICT for staff, students and families, diagnosing and resolving issues, setting up and maintaining devices, and making sure every request is handled with care and followed through to the end.</p><p>This is a role we're hiring for attitude as much as technical skill. We need someone who listens well, explains things simply and kindly, knows when to solve a problem themselves and when to escalate it, and takes genuine pride in helping people feel confident with the technology they use every day.</p><p><strong>Who we’re looking for</strong></p><p>You'll demonstrate the ability to:</p><ul><li><p>Respond to and manage helpdesk tickets with curiosity and initiative, finding lasting fixes rather than quick workarounds.</p></li><li><p>Provide exceptional, compassionate customer service to staff, students and families, explaining technical matters simply and kindly.</p></li><li><p>Take ownership of devices and equipment across their lifecycle - from set-up and deployment through to repair and return.</p></li><li><p>Build genuine, trusted relationships with colleagues across both campuses.</p></li><li><p>Keep clear, accurate records and contribute to knowledge-base articles that help the whole ICT team.</p></li><li><p>Actively support the Christian ethos and values of Trinity Lutheran College.</p></li></ul><p>To learn more about the role please review the <a href=\"https://secure.ermonline.com.au/education/gateway/intranet_gateway.cfm?eu=TU-0373B4DA-AA26-CC72-27820EE21115AC66-0373B4DB-FF89-911C-2668B9FE6ACE7961\" target=\"_blank\">Position Description - Helpdesk Support Officer</a></p><p><strong><em>A covering letter is important to us. Please tell us about a time you helped someone who was frustrated or stuck with technology, and how you turned it into a good experience for them.</em></strong></p><p><strong>Why Trinity?&nbsp;</strong></p><p>Join a college that genuinely invests in its people and its community.</p><ul><li><p>Be part of a small, supportive ICT team with real opportunity to grow your skills.</p></li><li><p>Use data, insight and relationships to influence sustainable enrolment growth.</p></li><li><p>Ongoing professional learning and opportunities to grow.</p></li><li><p>Modern facilities in a central Gold Coast location, including free onsite parking and Gym.</p></li></ul><p>The College expects all staff, students, and the community to embody the values and beliefs of our Lutheran school, reflecting commitment to our policies and educational excellence.</p><p>For further information about our school, please visit our website: tlc.qld.edu.au</p><p><strong>How to apply</strong></p><p>If this role sounds like a good fit for you, we invite you to submit your current CV and include a one-page cover letter, this forms an important part of our selection process.</p><p>If you would like further information about the role prior to applying, please contact our People and Culture team by calling <a href=\"tel:(07) 5556 8200\">(07) 5556 8200</a> or emailing&nbsp;<a href=\"mailto:careers@tlc.qld.edu.au\" target=\"_blank\">careers@tlc.qld.edu.au</a>.</p><p><em>Please note: We are managing this recruitment process directly and are not accepting applications or enquiries from recruitment agencies.</em></p><p><strong><em>Trinity Lutheran College supports the rights of children and young people and is committed to the safety and wellbeing of students. Applicants must hold current Working with Children Card (Blue Card) to be eligible for this role. </em>Interviews of suitable candidates will commence as soon as they are identified.</strong></p>",
-      "keywords": [
-        "helpdesk",
-        "support",
-        "officer",
-        "prep",
-        "year"
       ]
     }
   ]
