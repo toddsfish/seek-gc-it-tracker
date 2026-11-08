@@ -1,388 +1,388 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "region": "Gold Coast",
-  "scraped_at": "2026-11-08T09:15:33.527009+10:00",
-  "total_jobs": 52,
+  "scraped_at": "2026-11-09T09:17:59.258283+10:00",
+  "total_jobs": 50,
   "keywords": [
     {
       "term": "support",
-      "count": 15,
-      "share": 0.2885
+      "count": 14,
+      "share": 0.28
     },
     {
       "term": "it",
       "count": 12,
-      "share": 0.2308
+      "share": 0.24
     },
     {
       "term": "engineer",
-      "count": 12,
-      "share": 0.2308
+      "count": 11,
+      "share": 0.22
     },
     {
       "term": "developer",
       "count": 6,
-      "share": 0.1154
+      "share": 0.12
     },
     {
       "term": "software",
       "count": 6,
-      "share": 0.1154
+      "share": 0.12
     },
     {
       "term": "manager",
       "count": 6,
-      "share": 0.1154
+      "share": 0.12
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.0962
+      "share": 0.1
     },
     {
       "term": "analyst",
-      "count": 5,
-      "share": 0.0962
+      "count": 4,
+      "share": 0.08
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.0769
+      "share": 0.08
     },
     {
       "term": "business",
       "count": 3,
-      "share": 0.0577
+      "share": 0.06
     },
     {
       "term": "systems",
       "count": 3,
-      "share": 0.0577
+      "share": 0.06
     },
     {
       "term": "technology",
       "count": 3,
-      "share": 0.0577
+      "share": 0.06
     },
     {
       "term": "network",
       "count": 3,
-      "share": 0.0577
+      "share": 0.06
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0577
+      "share": 0.06
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0577
+      "share": 0.06
     },
     {
       "term": "technical",
       "count": 3,
-      "share": 0.0577
+      "share": 0.06
     },
     {
       "term": "service",
       "count": 3,
-      "share": 0.0577
+      "share": 0.06
     },
     {
       "term": "consultant",
       "count": 2,
-      "share": 0.0385
+      "share": 0.04
     },
     {
       "term": "ai",
       "count": 2,
-      "share": 0.0385
+      "share": 0.04
     },
     {
       "term": "ict",
       "count": 2,
-      "share": 0.0385
+      "share": 0.04
     },
     {
       "term": "help",
       "count": 2,
-      "share": 0.0385
+      "share": 0.04
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.0385
-    },
-    {
-      "term": "operations",
-      "count": 2,
-      "share": 0.0385
+      "share": 0.04
     },
     {
       "term": "application",
       "count": 2,
-      "share": 0.0385
+      "share": 0.04
     },
     {
       "term": "ongc",
       "count": 2,
-      "share": 0.0385
+      "share": 0.04
+    },
+    {
+      "term": "operations",
+      "count": 2,
+      "share": 0.04
     },
     {
       "term": "specialist",
       "count": 2,
-      "share": 0.0385
+      "share": 0.04
     },
     {
       "term": "applications",
       "count": 2,
-      "share": 0.0385
+      "share": 0.04
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0385
+      "share": 0.04
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0385
-    },
-    {
-      "term": "data",
-      "count": 2,
-      "share": 0.0385
+      "share": 0.04
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "allres",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "manufacturing",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "cybersecurity",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "managed",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "golang",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "services",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "distribution",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "centre",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "l2",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "sql",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "integrations",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "marymount",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "waters",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0192
-    },
-    {
-      "term": "process",
-      "count": 1,
-      "share": 0.0192
-    },
-    {
-      "term": "improvement",
-      "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
+    },
+    {
+      "term": "process",
+      "count": 1,
+      "share": 0.02
+    },
+    {
+      "term": "improvement",
+      "count": 1,
+      "share": 0.02
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "soc",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "scenic",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "rim",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "worker",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "its",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "quality",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "assurance",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "website",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "growth",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "projects",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "umbraco",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
     },
     {
       "term": "cms",
       "count": 1,
-      "share": 0.0192
+      "share": 0.02
+    },
+    {
+      "term": "data",
+      "count": 1,
+      "share": 0.02
     }
   ],
   "jobs": [
@@ -782,24 +782,6 @@
       "keywords": [
         "it",
         "support",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "95535937",
-      "job_title": "Senior Data Analyst - Part Time",
-      "business_name": "City of Gold Coast",
-      "work_type": "Contract/Temp",
-      "job_type": "Other",
-      "pay_range": "From $111,401 Pro rata - Plus Superannuation",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95535937",
-      "advertiser_id": "16652581",
-      "posted_date": "2026-10-28T00:36:47Z",
-      "job_description": "<ul> <li><strong>Fixed term Part time / 12 hours </strong></li> <li> <strong>Salary: </strong>From $111,401 Pro rata plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG2245/assets/32751372\">Senior Data Analyst</a> </li> </ul> <p><strong>About Strategy People &amp; Performance </strong></p> <p>We lead into the future by setting the strategic direction for our organisation through a deep understanding of our community and our people. We look beyond today to identify innovative opportunities, foster a high-performing culture, and champion safe and healthy work practices across the organisation. </p> <p><strong>About the role </strong></p> <p>We are seeking an experienced and detail-oriented Senior Data Analyst for a fixed term, part-time opportunity for 12 hours per week. This position will be job shared with another incumbent making up 36 hours. This is a fixed term, part-time opportunity until October 2027. Working days are flexible.</p> <p>The role is responsible for designing, developing, and implementing reporting and dashboard solutions that support data-driven decision-making across the organisation.</p> <p>The position will require strong technical expertise in data analytics with a deep understanding of business processes and data needs. The analyst collaborates closely with stakeholders to translate complex data into meaningful insights that inform strategic and operational outcomes.</p> <p><strong>Key Deliverables</strong></p> <ul> <li>Build a deep understanding of the Planning, Regulation and Service business, including their data, systems and processes, to recommend and tailor analytics solutions</li> <li>Design, develop and maintain automated reports and dashboards that clearly communicate business insights</li> <li>Use Power BI, DAX, Power Query, SQL, and other analytics tools to extract, transform, combine and analyse data from corporate systems and other sources</li> <li>Present insights through charts, graphs, and other visuals</li> <li>Apply sound analytics methods, problem solving, critical thinking and strong communication</li> <li>Mentor and support team members to build their skills and foster a collaborative, innovative team</li> <li>Manage data analysis requests and priorities and collaborate with mentor team members</li> <li>Deliver tangible results that grow the City’s data-driven decision-making, in line with its high-performance principles</li> <li>Promote safety, wellbeing, and a culture of care and respect.</li> </ul> <p><strong>We’re looking for people who have: </strong></p> <ul> <li>A bachelor or postgraduate qualification in Data Analytics, Data Science or a related discipline, or equivalent relevant experience</li> <li>Strong, demonstrated technical expertise in data analytics, combined with a solid understanding of business processes and data needs</li> <li>The ability to work closely with internal customers and technical teams to deliver meaningful outcomes, while consistently applying best practice and achieving best value</li> <li>Experience or knowledge of Pathway ERP system and data desirable.</li> </ul> <p><strong>Why join us?</strong></p> <p>This is an opportunity to play a critical role in maintaining and improving the quality of Council's asset information, supporting the delivery of essential services to our community. You'll work within a collaborative team environment where innovation, continuous improvement, and professional growth are valued and encouraged. </p> <p><strong>How to apply</strong></p> <p>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p> <p><strong>Contact Person</strong> Jansen Croft</p> <p><strong>Contact Email</strong> <a href=\"mailto:jcroft@goldcoast.qld.gov.au\">jcroft@goldcoast.qld.gov.au</a></p> <p><strong>Closing Date</strong> Sunday 8 November 2026 @ 11:59pm AEST</p> <p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
-      "keywords": [
-        "data",
         "analyst"
       ]
     },
@@ -1364,24 +1346,6 @@
       "keywords": [
         "ai",
         "data",
-        "engineer"
-      ]
-    },
-    {
-      "job_id": "95172670",
-      "job_title": "Support Engineer – Level 2",
-      "business_name": "Acworth Recruitment",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Burleigh Heads, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95172670",
-      "advertiser_id": "36752432",
-      "posted_date": "2026-10-09T08:00:13Z",
-      "job_description": "<p><strong>About Ozdoc Solutions</strong></p><p>Ozdoc Solutions Partnership is Australia’s premier Medical IT provider, delivering customised technology solutions to meet the needs of today's demanding healthcare industry.</p><p><br></p><p>We design and implement the best combination of on-premise, hybrid and complete cloud systems, incorporating hardware, software and state-of-the-art digital solutions.</p><p><br></p><p>We are committed to excellence, growth, integrity and innovation, while always striving to be as human as possible — after all, our clients and our team are at the heart of everything we do.</p><p><br></p><p><strong>“We care for technology so you can care for people.”</strong></p><p><strong>&nbsp;</strong></p><p><strong>About the Role</strong></p><p>We are looking for an experienced and motivated <strong>Level 2 Support Engineer</strong> to join our team and take the next step in their IT career.</p><p><br></p><p>This is a hands-on technical support role where you'll be working directly with our healthcare clients to investigate, troubleshoot and resolve more complex IT issues across their environments.</p><p><br></p><p>You'll be part of a professional support team, taking escalated issues beyond first-response troubleshooting and working through problems across servers, desktops, networks, Microsoft environments, cloud systems and other technologies within our clients' environments.</p><p><br></p><p><strong>We're not simply looking for someone who wants to stay at Level 2. We're looking for someone with the</strong> <strong>drive and capability to keep developing</strong>.</p><p><br></p><p>For the right person, there are two potential career pathways:</p><p><strong>Pathway 1 – L2 Support → L3 Support</strong></p><p>Continue developing your technical depth, taking on increasingly complex escalations, troubleshooting and infrastructure responsibilities as you progress towards a Level 3 Support Engineer role.</p><p><strong>Pathway 2 – L2 Support → L2 Field Engineer → L3 Field Engineer</strong></p><p>For someone who enjoys getting out from behind the desk, there is also the opportunity to develop into a Field Engineering role, gaining greater hands-on exposure to client environments, projects and infrastructure before progressing towards L3 Field Engineering.</p><p>The pathway will depend on your strengths, interests and career aspirations.</p><p><strong>&nbsp;</strong></p><p><strong>What You'll Be Doing</strong></p><ul><li><p>Provide Level 2 technical support to clients across a range of IT environments</p></li><li><p>Investigate and resolve escalated technical issues</p></li><li><p>Troubleshoot hardware, software, network and connectivity issues</p></li><li><p>Support Microsoft and cloud-based environments</p></li><li><p>Diagnose issues across desktops, servers and network infrastructure</p></li><li><p>Manage tickets through to resolution while maintaining clear client communication</p></li><li><p>Escalate complex issues appropriately and work collaboratively with other engineers</p></li><li><p>Assist with maintaining and supporting client infrastructure</p></li><li><p>Contribute to projects, improvements and technology upgrades</p></li><li><p>Document solutions, processes and technical information</p></li><li><p>Build strong relationships with clients through exceptional communication and service</p></li><li><p>Continue developing your technical knowledge and capabilities</p></li></ul><p><strong>&nbsp;</strong></p><p><strong>What We're Looking For</strong></p><p>We're looking for someone who already has a solid foundation in IT support and is ready to take their technical career further.</p><p><br></p><p>You'll ideally have:</p><ul><li><p>Previous experience working in a Level 2 IT Support role or at least 18 months working in a Level 1 IT Support role.</p></li><li><p>Strong troubleshooting and problem-solving capabilities</p></li><li><p>Experience supporting Windows desktop environments</p></li><li><p>Exposure to Microsoft 365 and cloud technologies</p></li><li><p>Understanding of networking fundamentals</p></li><li><p>Experience working with servers and/or infrastructure</p></li><li><p>The ability to diagnose problems rather than simply follow a script</p></li><li><p>Excellent communication and customer service skills</p></li><li><p>Strong attention to detail and documentation skills</p></li><li><p>A positive, proactive and can-do attitude</p></li><li><p>The ability to work independently while being a strong team player</p></li><li><p>A genuine desire to learn, develop and progress your career</p></li></ul><p><br></p><p>Relevant IT qualifications and certifications will be highly regarded, including Microsoft certifications and other industry-recognised technical qualifications.</p><p><br></p><p>We're also interested in where you want to go next. If you're ambitious, enjoy solving problems and want to develop towards L3 Support or Field Engineering, we'd like to hear from you.</p><p><br></p><p><strong>What’s on Offer</strong></p><ul><li><p>$75,000 – $85,000 + superannuation, depending on experience and capability</p></li><li><p>Genuine career development opportunities</p></li><li><p>Clear pathways towards L3 Support or L2/L3 Field Engineering</p></li><li><p>Additional after-hours remuneration on top of your base salary</p></li><li><p>Proactive and supportive work environment</p></li><li><p>Up-to-date technology and equipment</p></li><li><p>Challenging work where you're always learning</p></li><li><p>Burleigh Heads location — work close to home</p></li><li><p>Flexible work options</p></li><li><p>Salary sacrifice plans</p></li><li><p>Employee referral program</p></li><li><p>Peer bonus program</p></li><li><p>Birthday gift voucher and the day off — yes, we don't work birthdays at Ozdoc !</p></li><li><p>Quarterly team-building events</p></li><li><p>Monthly team lunches</p></li><li><p>The opportunity to have your ideas heard and make a genuine contribution</p></li></ul><p><strong>&nbsp;</strong></p><p><strong>Why Ozdoc?</strong></p><p>At Ozdoc, you're not just another technician working through a queue of tickets.</p><p><br></p><p>You'll become part of a close-knit team supporting clients where technology genuinely matters. You'll have exposure to a broad range of environments, the opportunity to work on interesting technical challenges and the support to keep developing your career.</p><p><br></p><p>If you're ready to move beyond Level 2 and want a role where your next step is part of the plan, this could be the opportunity you've been looking for.</p><p><br></p><p><strong>Want to Join the Ozdoc Team?</strong></p><p>If you're an experienced Level 2 Support Engineer ready to build your technical career with an organisation that values its people, its clients and continuous development, we'd love to hear from you.</p><p><br></p><p>Please submit your current resume along with details and evidence of your experience, qualifications and technical capabilities.</p><p><br></p><p>Only applicants meeting the criteria outlined above will be contacted as part of the shortlisting process.</p>",
-      "keywords": [
-        "support",
         "engineer"
       ]
     }
