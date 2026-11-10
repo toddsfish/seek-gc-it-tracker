@@ -1,391 +1,570 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "region": "Gold Coast",
-  "scraped_at": "2026-11-09T09:17:59.258283+10:00",
-  "total_jobs": 50,
+  "scraped_at": "2026-11-10T12:28:29.907744+10:00",
+  "total_jobs": 56,
   "keywords": [
+    {
+      "term": "engineer",
+      "count": 14,
+      "share": 0.25
+    },
     {
       "term": "support",
       "count": 14,
-      "share": 0.28
+      "share": 0.25
     },
     {
       "term": "it",
       "count": 12,
-      "share": 0.24
-    },
-    {
-      "term": "engineer",
-      "count": 11,
-      "share": 0.22
-    },
-    {
-      "term": "developer",
-      "count": 6,
-      "share": 0.12
+      "share": 0.2143
     },
     {
       "term": "software",
-      "count": 6,
-      "share": 0.12
+      "count": 8,
+      "share": 0.1429
+    },
+    {
+      "term": "developer",
+      "count": 7,
+      "share": 0.125
     },
     {
       "term": "manager",
       "count": 6,
-      "share": 0.12
+      "share": 0.1071
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.1
+      "share": 0.0893
+    },
+    {
+      "term": "application",
+      "count": 5,
+      "share": 0.0893
     },
     {
       "term": "analyst",
       "count": 4,
-      "share": 0.08
+      "share": 0.0714
+    },
+    {
+      "term": "technology",
+      "count": 4,
+      "share": 0.0714
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.08
+      "share": 0.0714
     },
     {
       "term": "business",
       "count": 3,
-      "share": 0.06
+      "share": 0.0536
     },
     {
       "term": "systems",
       "count": 3,
-      "share": 0.06
-    },
-    {
-      "term": "technology",
-      "count": 3,
-      "share": 0.06
+      "share": 0.0536
     },
     {
       "term": "network",
       "count": 3,
-      "share": 0.06
+      "share": 0.0536
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.06
+      "share": 0.0536
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.06
+      "share": 0.0536
     },
     {
       "term": "technical",
       "count": 3,
-      "share": 0.06
+      "share": 0.0536
     },
     {
       "term": "service",
       "count": 3,
-      "share": 0.06
+      "share": 0.0536
     },
     {
       "term": "consultant",
       "count": 2,
-      "share": 0.04
-    },
-    {
-      "term": "ai",
-      "count": 2,
-      "share": 0.04
-    },
-    {
-      "term": "ict",
-      "count": 2,
-      "share": 0.04
+      "share": 0.0357
     },
     {
       "term": "help",
       "count": 2,
-      "share": 0.04
+      "share": 0.0357
+    },
+    {
+      "term": "ict",
+      "count": 2,
+      "share": 0.0357
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.04
-    },
-    {
-      "term": "application",
-      "count": 2,
-      "share": 0.04
+      "share": 0.0357
     },
     {
       "term": "ongc",
       "count": 2,
-      "share": 0.04
+      "share": 0.0357
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.04
+      "share": 0.0357
     },
     {
       "term": "specialist",
       "count": 2,
-      "share": 0.04
+      "share": 0.0357
     },
     {
       "term": "applications",
       "count": 2,
-      "share": 0.04
+      "share": 0.0357
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.04
+      "share": 0.0357
+    },
+    {
+      "term": "product",
+      "count": 2,
+      "share": 0.0357
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.04
+      "share": 0.0357
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "allres",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "manufacturing",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
+    },
+    {
+      "term": "ai",
+      "count": 1,
+      "share": 0.0179
     },
     {
       "term": "cybersecurity",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "managed",
       "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "net",
-      "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
+    },
+    {
+      "term": "net",
+      "count": 1,
+      "share": 0.0179
     },
     {
       "term": "golang",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
+    },
+    {
+      "term": "react",
+      "count": 1,
+      "share": 0.0179
+    },
+    {
+      "term": "javascript",
+      "count": 1,
+      "share": 0.0179
     },
     {
       "term": "services",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "distribution",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "centre",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "l2",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "sql",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "integrations",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "marymount",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "waters",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "engineering",
-      "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "process",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "improvement",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
+    },
+    {
+      "term": "engineering",
+      "count": 1,
+      "share": 0.0179
+    },
+    {
+      "term": "platform",
+      "count": 1,
+      "share": 0.0179
+    },
+    {
+      "term": "platforms",
+      "count": 1,
+      "share": 0.0179
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
+    },
+    {
+      "term": "owner",
+      "count": 1,
+      "share": 0.0179
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
+    },
+    {
+      "term": "cyber",
+      "count": 1,
+      "share": 0.0179
+    },
+    {
+      "term": "security",
+      "count": 1,
+      "share": 0.0179
+    },
+    {
+      "term": "development",
+      "count": 1,
+      "share": 0.0179
+    },
+    {
+      "term": "course",
+      "count": 1,
+      "share": 0.0179
+    },
+    {
+      "term": "coach",
+      "count": 1,
+      "share": 0.0179
     },
     {
       "term": "soc",
       "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "product",
-      "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "scenic",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "rim",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "worker",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "its",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "quality",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "assurance",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "website",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "growth",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "projects",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "umbraco",
       "count": 1,
-      "share": 0.02
+      "share": 0.0179
     },
     {
       "term": "cms",
       "count": 1,
-      "share": 0.02
-    },
-    {
-      "term": "data",
-      "count": 1,
-      "share": 0.02
+      "share": 0.0179
     }
   ],
   "jobs": [
+    {
+      "job_id": "95790328",
+      "job_title": "Cyber Security and/or Software Development Course Coach",
+      "business_name": "Equinim College of Technology",
+      "work_type": "Part time",
+      "job_type": "Security",
+      "pay_range": "$45 per hour",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95790328",
+      "advertiser_id": "62661973",
+      "posted_date": "2026-11-10T00:38:44Z",
+      "job_description": "<p>Are you a passionate &amp; caring person looking to develop your training skills in a positive environment?</p><p>We are looking for enthusiastic and people-focused individuals that love to share their knowledge and skills with others. Candidates will have great communication skills with a diverse scope of people and willingness to learn and serve students towards a greater understanding.&nbsp;This role is remote and is suited for people all across Australia.</p><p><br></p><p><strong>Application Information:</strong></p><p>To apply for this role, you must:</p><ol><li><p>Provide a resume highlighting your experience, knowledge, and skills relevant to this role. (Submit this via Seek)</p></li></ol><p><br></p><p><br><strong>Job Role:</strong><br>Provide education and training to students via <strong>Online Course Coaching.</strong></p><p>Being a Course Coach involves:</p><ul><li><p>Tutoring and teaching adult learners. This is done by having consistent communication with students via Zoom calls, phone or written communication.</p></li><li><p>General support and connection with students about course questions and study requirements.</p></li><li><p>Basic scheduling and time management skills are required for a successful candidate.</p></li><li><p>Working with a passionate team to ensure student success.</p></li></ul><p><br></p><p>We are currently hiring course coaches with Cyber Security skills and experience or Full Stack Web Development skills. If you meet either one of these skills please apply below!<br><br></p><p><strong>Skills Needed Cyber:</strong></p><ul><li><p>Experience with Cyber Security Systems and Tools (Basic Cloudflare, AWS, Wireshark, Virtual Machines)</p></li><li><p>Strong understanding of Cyber Security foundations</p></li><li><p>Industry experience is preferred</p></li></ul><p><br></p><p><strong>Skills Needed Web Development:</strong></p><ul><li><p>Experience in Full Stack Web Development</p></li><li><p>Proficiency with at least 2 programming languages (HTML, CSS, JavaScript, Python)</p></li><li><p>Experience with Github and SQL or similar database programing</p></li><li><p>Experience with Blockchain and AI / ML is preferred</p></li></ul><p><br></p><p><strong>Universal Training Skills:</strong></p><ul><li><p>Strong English Communication Skills</p></li><li><p>Computer with appropriate microphone and camera settings to host a zoom call</p></li><li><p>Flexible availability to communicate with students</p></li><li><p>Valid TAE (training and assessment) qualification - if you do not have this, be willing to obtain the qualification.<br>&nbsp;</p></li></ul><p><strong>Salary</strong>:</p><p>This is a part-time role. The part-time rate for a Course Coach for this particular role is $45 per hour. Successful candidates will be doing 10 hours per week.</p><p>This job is dependent on student availability and self-autonomy for scheduling. Hours are averaged across the week, with hours being dependent on student availability.</p><p><br></p><p><strong>About Us</strong></p><p>We are a Vocational Education and Training Organisation who's team has been operating for over 10 years in this space. We make sure to always focus on delivering quality materials, practical training and always aim to find new ways that can raise the bar across different industries. What sets us apart is our commitment to and incredible student experience whilst studying.</p><p><br></p><p>We work together; listening and challenging to create a supportive work environment whereby everyone works together and is equal.<br></p><p>We are hiring ASAP so if you think this role suits you, we would love to get in touch with you.<br></p><p>Work with us, to work together, and as a team let's inspire the next round of industry leaders!</p>",
+      "keywords": [
+        "cyber",
+        "security",
+        "software",
+        "development",
+        "course",
+        "coach"
+      ]
+    },
+    {
+      "job_id": "95778482",
+      "job_title": "Application Engineer",
+      "business_name": "Southern Cross University",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "$124,379 - 137,149 plus 17% superannuation",
+      "area": "Bilinga, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95778482",
+      "advertiser_id": "15012749",
+      "posted_date": "2026-11-09T06:22:50Z",
+      "job_description": "<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing <a href=\"https://www.scu.edu.au/southern-cross-model/\" target=\"_self\">Southern Cross Model</a> brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity</strong></p>\n<p>We're seeking an experienced Application Engineer to design, develop and deliver complex enterprise applications that support the University's teaching, learning and business operations.</p>\n<p>Working within Technology Services, you'll play a key role in modernising applications, connecting critical systems and improving how information and processes flow across the University. You'll work with platforms such as TechnologyOne, Blackboard and Microsoft Dynamics, developing sophisticated integrations, automation and scalable solutions that support both academic and administrative functions.</p>\n<p>This is an opportunity to combine hands-on engineering with technical leadership, influencing solution design, development standards and emerging technologies. You'll collaborate with specialists across the University, contribute to major digital transformation initiatives and help build the next generation of enterprise applications.</p>\n<p>You will make an impact by:</p>\n<ul>\n<li>Designing and delivering complex enterprise applications and integrations</li>\n<li>Connecting platforms including TechnologyOne, Blackboard and Dynamics amongst others</li>\n<li>Building automation solutions that improve university-wide processes</li>\n<li>Leading technical design, development standards and solution delivery</li>\n<li>Mentoring developers and driving innovation across application engineering</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<p>You'll be an experienced application engineer or senior developer with strong technical expertise in designing, building and integrating enterprise applications. You'll understand how to translate complex business requirements into secure, scalable and maintainable solutions, with hands-on capability across modern development frameworks and cloud technologies.</p>\n<p>You'll bring a collaborative approach to technical leadership, confidently working with stakeholders, guiding other developers and solving complex integration challenges. Experience with enterprise platforms such as TechnologyOne or Blackboard will be particularly valuable, especially within higher education or similarly complex organisations.</p>\n<p>To succeed in this role, you will also need:</p>\n<ul>\n<li>Relevant IT qualifications and ideally 5+ years development experience</li>\n<li>Proficiency in .NET, React/TypeScript, Azure and modern UX/UI frameworks</li>\n<li>Experience with APIs, enterprise integrations and application architecture</li>\n<li>Strong knowledge of CI/CD, automate testing, TDD and SOLID principles</li>\n<li>Experience in Agile delivery, code reviews and technical mentoring</li>\n</ul>\n<p>Experience with TechnologyOne, Blackboard, Microsoft Dynamics 365, microservices or enterprise architecture patterns will be highly regarded.&nbsp; Relevant certifications, particularly Microsoft Azure or enterprise platform certifications will also be advantageous.</p>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/gold-coast/\" target=\"_self\">Gold Coast</a>, <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/coffs-harbour/\" target=\"_self\">Coffs Harbour</a> and the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/lismore/\" target=\"_self\">Northern Rivers</a> region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li>Full-time, continuing (permanent)</li>\n<li>Located at either Gold Coast, QLD 4225, or Lismore, NSW 2480. Relocation assistance is available, making it easier to join our regional communities</li>\n<li>HEW Level 8. The base salary ranges from $124,379 - $137,149 per annum, plus 17% employer’s contribution to superannuation. The total remuneration package is up to $160,464.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit <a href=\"https://www.scu.edu.au/about/jobs-at-southern-cross/why-work-at-southern-cross-university/\" target=\"_self\">Why work at Southern Cross University?</a></p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>To view the full position advertisement and details of the application process, please click on the APPLY button where you will be redirected to the Southern Cross University website. &nbsp;&nbsp;</p>\n<p><strong>Applications close 11.30pm AEST 22 November 2026</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. &nbsp;Employer visa sponsorship is not available for this position.</p>\n<p>Applicants must apply online and attach a CV and cover letter. The cover letter must clearly address each selection criterion in the position description. Information to support you prepare your application is available on our <a href=\"https://www.scu.edu.au/about/jobsscu/vacancies/applying-for-a-position/\" target=\"_self\">website.</a></p>\n<p><em>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to </em><a href=\"mailto:jobs@scu.edu.au\" target=\"_self\"><em>jobs@scu.edu.au.</em></a></p>\n<p><strong>#LI-VC1</strong></p>\n<p><strong>#Reg1GCLis</strong></p>\n",
+      "keywords": [
+        "application",
+        "engineer"
+      ]
+    },
+    {
+      "job_id": "95778066",
+      "job_title": "Senior Application Developer",
+      "business_name": "Southern Cross University",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "$108,361 - $117,660 plus 17% Superannuation",
+      "area": "Bilinga, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95778066",
+      "advertiser_id": "15012749",
+      "posted_date": "2026-11-09T06:08:34Z",
+      "job_description": "<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing <a href=\"https://www.scu.edu.au/southern-cross-model/\" target=\"_self\">Southern Cross Model</a> brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity</strong></p>\n<p>Southern Cross University is continuing to transform how technology supports teaching, learning and research. As Senior Application Developer – Jira, you'll take technical ownership of our Jira environment, the platform our Technology Services teams rely on to plan, track and deliver their work.</p>\n<p>This is a specialist role for a Jira expert who knows how to make an enterprise platform work harder. You'll own configuration, workflows, automation, integrations, governance and continuous improvement, while ensuring Jira remains secure, reliable, scalable and aligned to the needs of our delivery teams.</p>\n<p>You'll work across the broader Atlassian and technology ecosystem, using your technical expertise to connect platforms, automate processes and create dashboards and tools that give teams and leaders greater visibility of delivery.</p>\n<p>You'll also be the person others turn to for complex problems, technical guidance and better ways of working. Working closely with agile teams, developers, business process specialists and senior stakeholders, you'll translate business needs into smart, sustainable platform solutions.</p>\n<p>You will make an impact by:</p>\n<ul>\n<li>Specialist in Jira configuration, workflows, permissions, automation and governance</li>\n<li>Building integrations and automations across Jira and connected platforms</li>\n<li>Creating dashboards and reporting, that improve delivery visibility</li>\n<li>Leading platform upgrades, migrations, performance and continuous improvement</li>\n<li>Providing expert support, training and technical guidance to delivery teams</li>\n<li>Specialist in enterprise portfolio systems such as Academic Work Tool and others</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<p>You are a specialist and enterprise technology problem-solver who understands that great platform administration goes well beyond configuration.</p>\n<p>You will have hands-on experience managing Jira and enterprise technologies at scale and a strong understanding of how workflows, automation, permissions, integrations and reporting come together to support agile delivery. You're equally comfortable getting into the technical detail and working with stakeholders to understand what they actually need.</p>\n<p>You enjoy taking ownership of a platform, challenging inefficient processes and finding ways to automate or simplify them. You can see the connections between systems and understand how a change in one part of the technology environment can affect another.</p>\n<p>Most importantly, you bring the judgement to balance flexibility with governance, user experience with security, and immediate requirements with longer-term platform sustainability.</p>\n<p>To succeed in this role, you will also need:</p>\n<ul>\n<li>Proven experience administering and developing Jira at enterprise scale</li>\n<li>Strong Jira automation, workflow, dashboard and integration capabilities</li>\n<li>Experience with REST APIs, scripting or similar integration technologies</li>\n<li>Knowledge of Atlassian platforms and enterprise identity/security environments</li>\n<li>Strong stakeholder skills and experience working in agile technology teams</li>\n</ul>\n<p>Experience with Jira Software and Jira Service Management, Confluence, Bitbucket/GitHub, ScriptRunner, Azure DevOps, SSO/SAML and Microsoft technologies will be highly regarded.</p>\n<p>Experience working with enterprise or higher education technology environments will also be advantageous.</p>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/gold-coast/\" target=\"_self\">Gold Coast</a>, <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/coffs-harbour/\" target=\"_self\">Coffs Harbour</a> and the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/lismore/\" target=\"_self\">Northern Rivers</a> region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li>Full-time, continuing (permanent)</li>\n<li>Located at Gold Coast, QLD 4225. Relocation assistance is available, making it easier to join our regional communities</li>\n<li>HEW Level 7. The base salary ranges from $108,361 - $117,660 per annum, plus 17% employer’s contribution to superannuation. The total remuneration package is up to $137,662.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit <a href=\"https://www.scu.edu.au/about/jobs-at-southern-cross/why-work-at-southern-cross-university/\" target=\"_self\">Why work at Southern Cross University?</a></p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>To view the full position advertisement and details of the application process, please click on the APPLY button where you will be redirected to the Southern Cross University website.</p>\n<p><strong>Applications close 11.30pm AEST 8 December 2026.</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. &nbsp;Employer visa sponsorship is not available for this position.</p>\n<p>Applicants must apply online and attach a CV and cover letter. The cover letter must clearly address each selection criterion in the position description. Information to support you prepare your application is available on our <a href=\"https://www.scu.edu.au/about/jobsscu/vacancies/applying-for-a-position/\" target=\"_self\">website.</a></p>\n<p><em>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to </em><a href=\"mailto:jobs@scu.edu.au\" target=\"_self\"><em>jobs@scu.edu.au.</em></a></p>\n<p><strong>#LI-VC1</strong></p>\n<p><strong>#GC</strong></p>\n",
+      "keywords": [
+        "application",
+        "developer"
+      ]
+    },
+    {
+      "job_id": "95777880",
+      "job_title": "Senior Application Engineer",
+      "business_name": "Southern Cross University",
+      "work_type": "Full time",
+      "job_type": "Engineering - Software",
+      "pay_range": "$138,425-$145,123 plus superannuation",
+      "area": "Bilinga, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95777880",
+      "advertiser_id": "15012749",
+      "posted_date": "2026-11-09T06:01:37Z",
+      "job_description": "<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing <a href=\"https://www.scu.edu.au/southern-cross-model/\" target=\"_self\">Southern Cross Model</a> brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity</strong></p>\n<p>Shape the future of enterprise applications and drive technology innovation across Southern Cross University.</p>\n<p>We're seeking an experienced Senior Application Engineer to provide strategic technical leadership across our enterprise application environment, helping shape how technology connects, evolves and supports the University's teaching, learning and business operations.</p>\n<p>Working within Technology Services, you'll lead the design and integration of complex application solutions across platforms, with a focus on TechnologyOne, in the Finance and Student System modules. You will also work through our integration platform. Over 2027 and 2028 you will be instrumental in delivering critical platform uplifts and helping business stakeholders get the most of the new technologies. <br><br>You'll influence architectural direction, establish development standards and drive major technology initiatives that improve efficiency, strengthen connectivity and deliver lasting value.</p>\n<p>This is an opportunity to combine deep technical expertise with university-wide influence. You'll work closely with senior stakeholders, guide technical teams and champion emerging technologies, including AI and automation, to shape a more connected, secure and future-ready technology environment.</p>\n<p>You will make an impact by:</p>\n<ul>\n<li>Setting technical direction and enterprise application standards</li>\n<li>Leading complex integrations, implementations and modernization</li>\n<li>Driving digital transformation through AI, automation and innovation</li>\n<li>Advising senior stakeholders on architecture and technology decisions</li>\n<li>Mentoring technical teams and strengthening engineering capability</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<p>You'll be an accomplished application engineering professional with extensive experience designing, implementing and supporting complex enterprise systems. You'll bring strong expertise in higher education platforms such as TechnologyOne, Dynamics 365, Anthology or Blackboard, together with a deep understanding of system integration, APIs, data management and workflow automation.</p>\n<p>You'll combine strategic thinking with practical technical capability, confidently navigating complex environments and translating business needs into secure, scalable and sustainable solutions. An influential communicator and collaborative technical leader, you'll enjoy developing others, establishing best practices and driving innovation that delivers meaningful organisational outcomes.</p>\n<p>To succeed in this role, you will also need:</p>\n<ul>\n<li>Relevant IT qualifications or equivalent extensive industry experience</li>\n<li>Ideally 8+ years enterprise application and platform experience</li>\n<li>Advanced integration, API, automation and troubleshooting expertise</li>\n<li>Strong knowledge of security, data integrity and compliance principles</li>\n<li>Experience leading complex implementations and Agile/DevOps delivery</li>\n</ul>\n<p>Experience applying AI, analytics or emerging technologies to improve business or learning outcomes will be highly regarded, along with the ability to influence technical decisions and build strong relationships across academic, business, and technology teams.</p>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/gold-coast/\" target=\"_self\">Gold Coast</a>, <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/coffs-harbour/\" target=\"_self\">Coffs Harbour</a> and the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/lismore/\" target=\"_self\">Northern Rivers</a> region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li>Full-time, continuing (permanent)</li>\n<li>Located at either Gold Coast, QLD 4225, or Lismore, NSW 2480. Relocation assistance is available, making it easier to join our regional communities</li>\n<li>HEW Level 9. The base salary ranges from $138,425 - $145,123 per annum, plus 17% employer’s contribution to superannuation. The total remuneration package is up to $169,793.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit <a href=\"https://www.scu.edu.au/about/jobs-at-southern-cross/why-work-at-southern-cross-university/\" target=\"_self\">Why work at Southern Cross University?</a></p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>To view the full position advertisement and details of the application process, please click on the APPLY button where you will be redirected to the Southern Cross University website.</p>\n<p><strong>Applications close 11.30pm AEST 22 November, 2026.</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. &nbsp;Employer visa sponsorship is not available for this position.</p>\n<p>Applicants must apply online and attach a CV and cover letter. The cover letter must clearly address each selection criterion in the position description. Information to support you prepare your application is available on our <a href=\"https://www.scu.edu.au/about/jobsscu/vacancies/applying-for-a-position/\" target=\"_self\">website.</a></p>\n<p><em>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to </em><a href=\"mailto:jobs@scu.edu.au\" target=\"_self\"><em>jobs@scu.edu.au.</em></a></p>\n",
+      "keywords": [
+        "application",
+        "engineer"
+      ]
+    },
+    {
+      "job_id": "95777089",
+      "job_title": "Product Owner",
+      "business_name": "Southern Cross University",
+      "work_type": "Full time",
+      "job_type": "Product Management & Development",
+      "pay_range": "$124,379 - 137,149 plus 17% superannuation",
+      "area": "Bilinga, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95777089",
+      "advertiser_id": "15012749",
+      "posted_date": "2026-11-09T05:33:35Z",
+      "job_description": "<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing <a href=\"https://www.scu.edu.au/southern-cross-model/\" target=\"_self\">Southern Cross Model</a> brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity</strong></p>\n<p>Southern Cross University is seeking an experienced Product Owner to shape and deliver innovative technology solutions that support our teaching, learning, research and student services.</p>\n<p>Working within Technology Services, you'll take ownership of product priorities, roadmaps and backlogs, translating complex business needs into practical, user-focused solutions. You'll collaborate with stakeholders across Future Students, Current Students, Teaching &amp; Learning, and Research &amp; Enterprise, ensuring technology investments deliver meaningful outcomes across the University.</p>\n<p>This is an opportunity to influence how digital products evolve, from initial concept through to delivery, adoption and continuous improvement. You'll work closely with development teams and Scrum Masters, championing user experience, balancing competing priorities and driving product decisions that deliver lasting value.</p>\n<p>You will make an impact by:</p>\n<ul>\n<li>Defining product vision, roadmaps and priorities aligned with University goals</li>\n<li>Managing product backlogs, user stories and acceptance criteria</li>\n<li>Working with stakeholders and delivery teams to develop effective solutions</li>\n<li>Championing user experience, accessibility and successful product adoption</li>\n<li>Using product insights and performance data to drive continuous improvement</li>\n</ul>\n<p>Throughout 2027 and 2028, you’ll play a key role in shaping major technology enhancements to the University’s student systems, supporting the student journey from application through to graduation.</p>\n<p><strong>What you will bring</strong></p>\n<p>You'll be an experienced Product Owner with a strong understanding of agile delivery and the full product lifecycle. You'll know how to translate business requirements into clear product priorities, balance competing stakeholder needs and guide development teams towards solutions that deliver measurable value.</p>\n<p>You'll combine strategic thinking with a practical, collaborative approach, confidently engaging stakeholders, facilitating decisions and championing the needs of end users. Experience with enterprise platforms such as TechnologyOne or Microsoft Dynamics, particularly within higher education or similarly complex environments, will be highly regarded.</p>\n<p>To succeed in this role, you will also need:</p>\n<ul>\n<li>Relevant qualifications in Business, Commerce, IT or related discipline</li>\n<li>Ideally 5+ years’ experience in product ownership or a related role</li>\n<li>Strong agile delivery, backlog management and roadmap planning skills</li>\n<li>Experience managing product lifecycles, value and competing priorities</li>\n<li>Excellent stakeholder engagement, negotiation and vendor management skills</li>\n</ul>\n<p>Experience with product analytics, user acceptance testing, change management and regulatory requirements within higher education will be advantageous.</p>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/gold-coast/\" target=\"_self\">Gold Coast</a>, <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/coffs-harbour/\" target=\"_self\">Coffs Harbour</a> and the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/lismore/\" target=\"_self\">Northern Rivers</a> region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li>Full-time, continuing (permanent)</li>\n<li>Located at either Gold Coast, QLD 4225, or Lismore, NSW 2480. Relocation assistance is available, making it easier to join our regional communities</li>\n<li>HEW Level 8. The base salary ranges from $124,379 - $137,149 per annum, plus 17% employer’s contribution to superannuation. The total remuneration package is up to $160,464.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit <a href=\"https://www.scu.edu.au/about/jobs-at-southern-cross/why-work-at-southern-cross-university/\" target=\"_self\">Why work at Southern Cross University?</a></p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>To view the full position advertisement and details of the application process, please click on the APPLY button where you will be redirected to the Southern Cross University website. &nbsp;&nbsp;</p>\n<p><strong>Applications close 11.30pm AEST 22 November 2026.</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. &nbsp;Employer visa sponsorship is not available for this position.</p>\n<p>Applicants must apply online and attach a CV and cover letter. The cover letter must clearly address each selection criterion in the position description. Information to support you prepare your application is available on our <a href=\"https://www.scu.edu.au/about/jobsscu/vacancies/applying-for-a-position/\" target=\"_self\">website.</a></p>\n<p><em>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to </em><a href=\"mailto:jobs@scu.edu.au\" target=\"_self\"><em>jobs@scu.edu.au.</em></a></p>\n<p><strong>#LI-VC1</strong></p>\n<p><strong>#GC</strong></p>\n",
+      "keywords": [
+        "product",
+        "owner"
+      ]
+    },
+    {
+      "job_id": "95772534",
+      "job_title": "Software Engineer (React & Javascript)",
+      "business_name": "Nexigen Digital",
+      "work_type": "Full time",
+      "job_type": "Engineering - Software",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95772534",
+      "advertiser_id": "25685289",
+      "posted_date": "2026-11-09T03:13:54Z",
+      "job_description": "<div><p><strong>About Nexigen Digital</strong></p><p><br>We are Australia’s largest privately-owned group of online service providers, which includes brands such as VentraIP, Synergy Wholesale and Intaserve.</p><p>Every day our all-Australian team delivers exceptional service and outstanding support to our 200,000+ customers who choose us for their domain names, website hosting and digital marketing.</p><p><br></p><p>Over the past fifteen years, we have been constant game-changers, industry innovators, award winners, and community leaders - and now is your chance to join our team.</p><p><br></p></div><br><div><p><br></p><p><strong>The Position</strong></p><p><br></p><p>As a Software Engineer at Nexigen Digital, you will work with a close, agile team to deliver new projects and continuous improvements to our internal and customer facing systems. We're looking for someone who is passionate, proactive, goal oriented and posses excellent problem solving skills.</p><p>We know first hand that brilliant software engineers come from a variety of backgrounds and experiences, in fact, some of our developers started out on our own customer service help desk. We pride ourselves on maintaining a team culture that provides provides opportunities through collaboration, knowledge sharing and continuous learning and development, and as such are able to provide opportunities to a range of developers with different skillsets and experience.</p><p>An average day may include any or all of the following tasks:</p><ul><li>Building secure, reliable and scalable code that can be used across our platforms</li><li>Working with the latest frontend web technologies such as ReactJS &amp; NextJS</li><li>Maintaining and improving our core billing and CRM systems, domain registrar platforms and our new projects in the pipeline, with opportunities to work across projects and teams</li><li>Work with our product managers and fellow software engineers to scope, build, test and deploy new features and fixes across our projects and products</li><li>Solve complex integration scenarios with external providers and suppliers</li><li>Learn something new</li></ul><p><strong>The right person (is it you?)</strong></p><ul><li>Has one to three years' experience in building responsive web applications (we'll take personal &amp; self taught experience into consideration as well)</li><li>Able to continuously learn new things and adapt to new technologies, methods and processes</li><li>Has built single page applications with React.JS and has a solid understanding of React and JavaScript fundamentals</li><li>Tests their code across multiple web browsers and understands the likely caveats that come up between different engines</li><li>Really knows their way around CSS</li><li>Has integrated and interfaced with RESTFUL APIs</li><li>Understands what makes a for a good user experience</li><li>Knows their way around Git (including GitHub) and has a good understanding of version control</li><li>Is able to work collaboratively within a team environment and follow established standard processes</li><li>Maintains a great attention to detail and able to throughly test their own work to ensure a high quality hand over</li><li>Doesn't practice \"ego driven development\"</li></ul><p><strong>Handy things to have (or are able to learn)</strong></p><ul><li>Experience with Adobe Creative Suite tools</li><li>Experience with the NextJS React framework</li><li>Experience with using a CMS platform such as WordPress</li><li>Knowledge of the Domain Name and Web Hosting (cPanel, WHM, Plesk, etc.) industry is valuable</li><li>Experience working with Linux commands and environment</li><li>A basic understanding of PHP development is very useful</li></ul><p><br><br><br></p><p><strong>The Benefits of Working With the Nexigen Digital Team</strong></p><p><br>Aside from being awarded “Employer of Choice” in the Australian Business Awards, we are often referred to as the Google of south-east Melbourne thanks to our unique facilities and team culture, and a top-down mandate to take care of the people who take care of our customers.</p><p>Some of the office perks include:</p><ul><li>A weekly selection of delicious meals prepared in our on-site kitchen for breakfast and lunch.</li><li>A fully-stocked snack bar featuring an assortment of chips, chocolates, nuts, protein bars and fresh fruit.</li><li>A drink fridge loaded with an assortment of soft drinks, juices and water.</li><li>A fully equipped private gym with weekly on-site personal training sessions.</li><li>A team wellness centre with a sound-proof gaming stadium featuring an 85” 4K TV, racing car simulator, pinball machine, arcade machine, and air hockey table.</li><li>An on-site salon where our resident barber and stylist provide free haircuts on a regular basis.</li></ul><p>We actively encourage training and upskilling for personal development and will fund courses that have a beneficial impact on the business.</p><p>Please note that due to strict security requirements the successful applicant will be required to complete a National Police Check as a condition of employment.</p><p><br></p></div><br><br><p>PI<a href=\"tel:288273723\">288273723</a></p>",
+      "keywords": [
+        "software",
+        "engineer",
+        "react",
+        "javascript"
+      ]
+    },
+    {
+      "job_id": "95767847",
+      "job_title": "Senior Platform Engineer - Technology Platforms",
+      "business_name": "Southern Cross University",
+      "work_type": "Full time",
+      "job_type": "Networks & Systems Administration",
+      "pay_range": "$111,612 - $121,190 plus 17% Superannuation",
+      "area": "Bilinga, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95767847",
+      "advertiser_id": "15012749",
+      "posted_date": "2026-11-09T00:31:55Z",
+      "job_description": "<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing <a href=\"https://www.scu.edu.au/southern-cross-model/\" target=\"_self\">Southern Cross Model</a> brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity</strong></p>\n<p>Bring your Microsoft 365 administration expertise to a role where you can make a real impact on the University's technology environment.</p>\n<p>Southern Cross University is seeking an experienced Senior Platform Engineer with strong hands-on expertise in Microsoft 365 administration, particularly SharePoint Online, Power Platform and Microsoft Entra ID, to help strengthen and evolve our enterprise technology services.</p>\n<p>Working within Technology Services, you'll play a key role in administering, securing and optimising critical Microsoft platforms while contributing to broader cloud and infrastructure initiatives. You'll help improve platform reliability, strengthen governance and security, and support the University's adoption of emerging Microsoft technologies, including Copilot and AI-enabled services.</p>\n<p>This is an opportunity to take technical ownership, influence platform standards and work alongside experienced engineers and specialists to solve complex challenges. You'll also contribute to automation, service improvements and the ongoing modernisation of technology services across the University.</p>\n<p>You will make an impact by:</p>\n<ul>\n<li>Leading Microsoft 365 administration, particularly SharePoint and Power Platform</li>\n<li>Managing Entra ID, identity, authentication and access controls</li>\n<li>Strengthening platform security, governance, reliability and performance</li>\n<li>Troubleshooting complex issues and improving automation and support</li>\n<li>Supporting Microsoft Cloud, Copilot and emerging technology initiatives</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<p>You'll be an experienced Microsoft 365 or platform administrator with strong hands-on expertise in managing enterprise Microsoft environments. You'll have a particular depth of knowledge in SharePoint Online administration, Power Platform and Entra ID, with the ability to configure, secure, maintain and troubleshoot these services.</p>\n<p>You'll combine technical expertise with sound judgement, a proactive approach to problem-solving and a commitment to continuous improvement. Comfortable working across multidisciplinary teams, you'll share your knowledge, provide technical guidance and help deliver secure, reliable and scalable technology services.</p>\n<p>To succeed in this role, you will also need:</p>\n<ul>\n<li>Relevant IT qualifications and/or substantial enterprise platform experience</li>\n<li>Demonstrated Microsoft 365, SharePoint Online and Power Platform administration</li>\n<li>Experience managing platform security, access, governance and performance</li>\n<li>Knowledge of Azure, Windows/Linux environment and automation technologies</li>\n<li>Strong troubleshooting, stakeholder engagement and technical leadership skills</li>\n</ul>\n<p>Experience with Terraform, Ansible, PowerShell, Python, monitoring tools or relevant Microsoft certification will be highly regarded</p>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/gold-coast/\" target=\"_self\">Gold Coast</a>, <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/coffs-harbour/\" target=\"_self\">Coffs Harbour</a> and the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/lismore/\" target=\"_self\">Northern Rivers</a> region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li>Full-time, continuing (permanent)</li>\n<li>Located at either Gold Coast, QLD 4225, or Lismore, NSW 2480. Relocation assistance is available, making it easier to join our regional communities</li>\n<li>HEW Level 7. The base salary ranges from $111,612 - $121,190 per annum, plus 17% employer’s contribution to superannuation. The total remuneration package is up to $141,792.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit <a href=\"https://www.scu.edu.au/about/jobs-at-southern-cross/why-work-at-southern-cross-university/\" target=\"_self\">Why work at Southern Cross University?</a></p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>To view the full position advertisement and details of the application process, please click on the APPLY button where you will be redirected to the Southern Cross University website. &nbsp;&nbsp;</p>\n<p><strong>Applications close 11.30pm AEST 22 November 2026.</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. &nbsp;Employer visa sponsorship is not available for this position.</p>\n<p>Applicants must apply online and attach a CV and cover letter. The cover letter must clearly address each selection criterion in the position description. Information to support you to prepare your application is available on our <a href=\"https://www.scu.edu.au/about/jobsscu/vacancies/applying-for-a-position/\" target=\"_self\">website.</a></p>\n<p><em>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to </em><a href=\"mailto:jobs@scu.edu.au\" target=\"_self\"><em>jobs@scu.edu.au.</em></a></p>\n<p><strong>#LI-VC1</strong></p>\n<p><strong>#Reg1GCLis</strong></p>\n",
+      "keywords": [
+        "platform",
+        "engineer",
+        "technology",
+        "platforms"
+      ]
+    },
     {
       "job_id": "95745460",
       "job_title": "Senior Field Engineer (Level 3)",
@@ -1327,25 +1506,6 @@
       "keywords": [
         "software",
         "services",
-        "engineer"
-      ]
-    },
-    {
-      "job_id": "95227533",
-      "job_title": "Principal AI and Data Engineer",
-      "business_name": "Alder Constructions Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Other",
-      "pay_range": "",
-      "area": "Helensvale, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95227533",
-      "advertiser_id": "20961859",
-      "posted_date": "2026-10-13T02:57:49Z",
-      "job_description": "<p></p><p>Alder Group is proudly celebrating 23 years in 2026, bringing engineering and construction teams together under one roof to deliver high-quality building, civil and infrastructure projects across Queensland and Northern NSW.</p><p>&nbsp;</p><p>At Alder, we're not just building communities, we're building the future.</p><p>As we continue to transform how we leverage technology, data and artificial intelligence across our business, we're looking for an exceptional <strong>Data &amp; AI Engineer</strong> to establish and lead our enterprise data and AI capability from the ground up.</p><p>&nbsp;</p><p>This is a rare opportunity to join a growing business at a pivotal stage of its digital transformation journey. You'll have the autonomy, influence and support to design and develop the data foundations, reporting frameworks, automation opportunities and AI solutions that will drive smarter decisions and unlock business performance across the organisation. </p><p>&nbsp;</p><p><strong>About the Role</strong></p><p>Reporting to the General Manager - Information, Data &amp; Technology, you will lead the development of Alder's enterprise data platform and serve as the technical owner of our data, analytics and AI capabilities.</p><p>&nbsp;</p><p>You'll be responsible for designing the architecture, governance frameworks and reporting solutions that transform business data into trusted information assets, while identifying opportunities to leverage automation, analytics and AI to improve business outcomes. </p><p>&nbsp;</p><p>This is a hands-on role where you will participate and lead the initial requirements gathering, options analysis and design phases and then build the data platform, integrations and reporting from ground up.</p><p>&nbsp;</p><p>Key responsibilities include:</p><ul><li>Design and develop Alder's enterprise data platform, architecture and governance frameworks</li><li>Build scalable data models, pipelines, integrations and reporting solutions</li><li>Deliver business insights through Power BI, analytics and AI-enabled solutions</li><li>Drive automation and process improvement initiatives across the organisation</li><li>Champion data quality, governance and emerging technology opportunities</li><li>Partner with stakeholders to translate business needs into actionable data solutions</li><li>Develop and support AI-enabled prototypes and solutions that improve productivity, decision-making and operational efficiency</li></ul><p>&nbsp;</p><p><strong>About You</strong></p><p>You're a strategic thinker with strong technical capability who enjoys solving complex business challenges through data.</p><ul><li>Experience with enterprise data platforms, modern data architectures or data warehousing</li><li>Strong skills in data modelling, integration, reporting and analytics</li><li>Knowledge of data governance, automation and AI technologies</li><li>Experience with Power BI and platforms such as Fabric, Snowflake or Databricks</li><li>Strong stakeholder engagement and communication skills</li><li>A proactive mindset and passion for continuous improvement</li><li>Degree in Data Analytics, Data Science, Information Technology, Computer Science, Software Engineering or a related discipline is highly desirable.</li></ul><p>&nbsp;</p><p><strong>About Alder Group</strong></p><p>At Alder Group, we deliver award-winning construction and infrastructure projects that positively impact communities across Queensland and Northern NSW. Our diverse portfolio spans Infrastructure, Water and Wastewater, Education, Health, Commercial, Industrial, Hospitality and Community sectors.</p><p>&nbsp;</p><p><strong>What We Offer</strong></p><ul><li>A supportive and collaborative workplace where people are valued, respected and encouraged to do their best work.</li><li>A genuine \"One Team\" mindset and focus on continuous improvement.</li><li>Opportunities to develop your capability, expand your experience and grow your career within a dynamic and evolving business.</li><li>Exposure to a broad range of technologies, projects and business operations.</li><li>A structured pathway into systems administration and infrastructure-focused roles.</li><li>A competitive remuneration package aligned to your experience and the value you bring to the role.</li></ul><p></p><p></p>",
-      "keywords": [
-        "ai",
-        "data",
         "engineer"
       ]
     }
