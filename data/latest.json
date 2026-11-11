@@ -1,433 +1,423 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "region": "Gold Coast",
-  "scraped_at": "2026-11-10T12:28:29.907744+10:00",
-  "total_jobs": 56,
+  "scraped_at": "2026-11-11T10:19:53.211752+10:00",
+  "total_jobs": 55,
   "keywords": [
     {
       "term": "engineer",
       "count": 14,
-      "share": 0.25
+      "share": 0.2545
     },
     {
       "term": "support",
       "count": 14,
-      "share": 0.25
+      "share": 0.2545
     },
     {
       "term": "it",
       "count": 12,
-      "share": 0.2143
+      "share": 0.2182
     },
     {
       "term": "software",
       "count": 8,
-      "share": 0.1429
+      "share": 0.1455
     },
     {
       "term": "developer",
       "count": 7,
-      "share": 0.125
-    },
-    {
-      "term": "manager",
-      "count": 6,
-      "share": 0.1071
+      "share": 0.1273
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.0893
+      "share": 0.0909
     },
     {
       "term": "application",
       "count": 5,
-      "share": 0.0893
+      "share": 0.0909
+    },
+    {
+      "term": "manager",
+      "count": 5,
+      "share": 0.0909
     },
     {
       "term": "analyst",
       "count": 4,
-      "share": 0.0714
+      "share": 0.0727
     },
     {
       "term": "technology",
       "count": 4,
-      "share": 0.0714
+      "share": 0.0727
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.0714
+      "share": 0.0727
     },
     {
       "term": "business",
       "count": 3,
-      "share": 0.0536
+      "share": 0.0545
     },
     {
       "term": "systems",
       "count": 3,
-      "share": 0.0536
+      "share": 0.0545
     },
     {
       "term": "network",
       "count": 3,
-      "share": 0.0536
+      "share": 0.0545
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0536
+      "share": 0.0545
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0536
+      "share": 0.0545
     },
     {
       "term": "technical",
       "count": 3,
-      "share": 0.0536
+      "share": 0.0545
     },
     {
       "term": "service",
       "count": 3,
-      "share": 0.0536
+      "share": 0.0545
     },
     {
       "term": "consultant",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0364
     },
     {
       "term": "help",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0364
     },
     {
       "term": "ict",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0364
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0364
     },
     {
       "term": "ongc",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0364
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0364
     },
     {
       "term": "specialist",
       "count": 2,
-      "share": 0.0357
-    },
-    {
-      "term": "applications",
-      "count": 2,
-      "share": 0.0357
+      "share": 0.0364
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0364
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0364
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0357
+      "share": 0.0364
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "allres",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "manufacturing",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "ai",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "cybersecurity",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "managed",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "golang",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "react",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "javascript",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "services",
       "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "distribution",
-      "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "centre",
-      "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "l2",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
+    },
+    {
+      "term": "distribution",
+      "count": 1,
+      "share": 0.0182
+    },
+    {
+      "term": "centre",
+      "count": 1,
+      "share": 0.0182
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "sql",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "integrations",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "marymount",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "waters",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "process",
-      "count": 1,
-      "share": 0.0179
-    },
-    {
-      "term": "improvement",
-      "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "platforms",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
+    },
+    {
+      "term": "applications",
+      "count": 1,
+      "share": 0.0182
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "owner",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "soc",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "scenic",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "rim",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "worker",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "its",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "quality",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "assurance",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "website",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "growth",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "projects",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "umbraco",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     },
     {
       "term": "cms",
       "count": 1,
-      "share": 0.0179
+      "share": 0.0182
     }
   ],
   "jobs": [
@@ -771,26 +761,6 @@
       "keywords": [
         "allres",
         "consultant"
-      ]
-    },
-    {
-      "job_id": "95629586",
-      "job_title": "Manager, Applications and Process Improvement",
-      "business_name": "Bond University",
-      "work_type": "Full time",
-      "job_type": "Management",
-      "pay_range": "$116,195.70 per annum, plus 12% Superannuation",
-      "area": "Robina, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95629586",
-      "advertiser_id": "20551487",
-      "posted_date": "2026-11-02T02:24:58Z",
-      "job_description": "<p><strong>As Australia's first private University, Bond University based at Robina, Gold Coast seeks to be recognised internationally as a leading independent university, imbued with a spirit to innovate, a commitment to influence and a dedication to inspire tomorrow's professionals who share a personalised and transformational student experience.</strong></p><p><strong>&nbsp;</strong></p><p><strong>Manager, Applications and Process Improvement</strong></p><p><strong>University Registrar - Student Business Services</strong></p><p><strong>Full-time, Continuing Appointment</strong></p><p><strong>Position Reference No: <a href=\"tel:201413249\">201413249</a></strong></p><p><br></p><p><strong>Join Australia’s number one University for teaching*, and enjoy staff benefits including:</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free staff car parking</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Salary packaging options for FBT and Non-FBT items#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17.5% of base salary leave loading</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Staff wellbeing program</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free &amp; Confidential Employee Assistance Program available for all staff</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Study assistance for staff and dependents#</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Corporate health and finance discounts</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Medical Centre and Counselling Services</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onsite Sports Centre including gym, fitness classes and pool#</p><p><br></p><p><strong>About the Position</strong></p><p>The Manager, Applications and Process Improvement is focused on delivering services to support the University’s commitment to an exceptional student experience, leading to positive outcomes in student success, retention and completion.</p><p><br></p><p>The role will have a focus on student systems and associated process improvements, using an evidence-based approach to facilitate the identification and implementation of improvements as well as methods to measure service performance, implementation, and development. The post holder ensures consistency, smooth integration of systems and services, liaising with relevant internal and external stakeholders and effective management of change impacts. This includes identifying and investigating business process improvement opportunities and service delivery enhancements, coordinating the development and implementation of service improvement plans for specific systems or processes, in consultation with stakeholders and with the Director’s oversight.</p><p><br></p><p>The post holder assists with implementing improvements to the university’s student system (<em>Student One</em>) in collaboration with the Manager, Student Systems &amp; Data, and oversees management of applications such as the <em>MyBond </em>student portal and app, as well as systems support for <em>Time Edit</em> timetabling software.</p><p><br></p><p><strong>About the Person</strong></p><p>The ideal candidate will be able to demonstrate the following:</p><p>&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Completion of, or progress towards, relevant postgraduate qualifications and extensive relevant experience; or an equivalent combination of relevant experience and education.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Significant experience in business analysis, process mapping, re-engineering, continuous improvement and organisational change, including analysing complex problems and developing practical solutions.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Extensive knowledge of contemporary approaches to customer service (preferably in a higher education setting), with demonstrated experience using administrative systems and data analysis to improve service delivery to students.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong interpersonal and communication skills, with the ability to build strategic and trusted working relationships with a diverse range of technical and non-technical stakeholders.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proven project management skills, including the ability to set achievable, time-bound tasks from strategic and tactical objectives, and to work autonomously and in a team, managing multiple tasks under tight deadlines.</p><p><br></p><p><strong>Salary details</strong></p><p>The salary for this full-time position commences at $116,195.70 per annum plus 12% superannuation per annum.</p><p><br></p><p><strong>Further information</strong></p><p>Position-related enquiries can be directed to Tanya Cook, <a href=\"mailto:tcook@bond.edu.au\" target=\"_blank\">tcook@bond.edu.au</a> or <a href=\"tel:07-5595 1172\">07-5595 1172</a>.</p><p><br></p><p><strong>How to Apply for this Position</strong></p><p>For further details regarding this appointment, please reference the <a href=\"https://bond.edu.au/sites/default/files/2026-11/PD%20Manager%2C%20Applications%20and%20Process%20Improvement%20SEP%202026.v1%20%281%29.pdf\" target=\"_blank\">Position Description</a> and Selection Criteria.</p><p><br></p><p>Click&nbsp;<em>Apply Now</em>&nbsp;and&nbsp;<em>Create New Account</em>&nbsp;to get started. You can:</p><ul><li><p>Upload your Resume – your account will be created automatically, or</p></li><li><p>Manually enter your details to set up your account.</p></li></ul><p>Please ensure your application includes:</p><ul><li><p>A current resume</p></li><li><p>A cover letter addressing the Selection Criteria outlined in the Position Description above</p></li></ul><p><br></p><p>For current Bond University staff, apply directly via <a href=\"https://hrconnect.bond.edu.au\" target=\"_blank\">People Connect</a>, log in with staff credentials, from the Home dashboard select Careers, select the role and apply.</p><p><br><br>If you require any assistance with your application submission, please visit <a href=\"https://bond.edu.au/about-bond/careers-bond/applying-jobs-bond\" target=\"_blank\">Applying for jobs at Bond</a>.</p><p><br></p><p><strong>Applications close: 11:59pm, Monday 16 November 2026</strong></p><p><br></p><p><em>Applicants must have current work rights in Australia at the time of application. This status will be verified as part of the recruitment process.</em></p><p><br></p><p><em>Pre-employment checks: Appointment is subject to satisfactory pre-employment checks (including working rights verification, reference checks and a certified copy of your highest qualification). In line with the National Higher Education Code to Prevent and Respond to Gender-based Violence 2025, preferred candidates must complete a Gender-Based Violence (GBV) Declaration, and any offer of employment will be conditional upon the University’s review of the declaration. For more information, please visit our website via this link:&nbsp;</em><a href=\"https://bond.edu.au/our-university/careers-at-bond/applying-for-jobs-at-bond\" target=\"_blank\"><em>Applying for Jobs at Bond</em></a></p><p><br></p><p><strong>Conditions of employment are offered under a Bond Workplace Agreement (BWA).</strong></p><p><br></p><p>Bond University is an equal opportunity employer, and we encourage our students and staff to respect individuality and diversity. In line with Bond University’s values, people from diverse backgrounds, women, Aboriginal and Torres Strait Islander people, people who identify as LGBTIQ+, and people with a disability are encouraged to apply for positions at the University.</p><p><a href=\"https://bond.edu.au/privacy\" target=\"_blank\">Bond University Privacy Policy</a></p><p>#Eligibility criteria or membership fees apply<br>*Australian Financial Review’s Best Universities Ranking 2024&nbsp;</p>",
-      "keywords": [
-        "manager",
-        "applications",
-        "process",
-        "improvement"
       ]
     },
     {
