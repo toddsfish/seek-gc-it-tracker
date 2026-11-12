@@ -1,426 +1,592 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "region": "Gold Coast",
-  "scraped_at": "2026-11-11T10:19:53.211752+10:00",
-  "total_jobs": 55,
+  "scraped_at": "2026-11-12T11:45:07.360123+10:00",
+  "total_jobs": 61,
   "keywords": [
     {
       "term": "engineer",
-      "count": 14,
-      "share": 0.2545
+      "count": 16,
+      "share": 0.2623
     },
     {
       "term": "support",
-      "count": 14,
-      "share": 0.2545
+      "count": 16,
+      "share": 0.2623
     },
     {
       "term": "it",
-      "count": 12,
-      "share": 0.2182
+      "count": 15,
+      "share": 0.2459
     },
     {
       "term": "software",
       "count": 8,
-      "share": 0.1455
+      "share": 0.1311
     },
     {
       "term": "developer",
       "count": 7,
-      "share": 0.1273
+      "share": 0.1148
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.0909
+      "share": 0.082
     },
     {
       "term": "application",
       "count": 5,
-      "share": 0.0909
+      "share": 0.082
     },
     {
       "term": "manager",
       "count": 5,
-      "share": 0.0909
+      "share": 0.082
+    },
+    {
+      "term": "business",
+      "count": 4,
+      "share": 0.0656
+    },
+    {
+      "term": "systems",
+      "count": 4,
+      "share": 0.0656
     },
     {
       "term": "analyst",
       "count": 4,
-      "share": 0.0727
+      "share": 0.0656
     },
     {
       "term": "technology",
       "count": 4,
-      "share": 0.0727
+      "share": 0.0656
+    },
+    {
+      "term": "technician",
+      "count": 4,
+      "share": 0.0656
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.0727
-    },
-    {
-      "term": "business",
-      "count": 3,
-      "share": 0.0545
-    },
-    {
-      "term": "systems",
-      "count": 3,
-      "share": 0.0545
+      "share": 0.0656
     },
     {
       "term": "network",
       "count": 3,
-      "share": 0.0545
-    },
-    {
-      "term": "technician",
-      "count": 3,
-      "share": 0.0545
+      "share": 0.0492
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0545
+      "share": 0.0492
     },
     {
       "term": "technical",
       "count": 3,
-      "share": 0.0545
+      "share": 0.0492
     },
     {
       "term": "service",
       "count": 3,
-      "share": 0.0545
+      "share": 0.0492
     },
     {
       "term": "consultant",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0328
     },
     {
       "term": "help",
       "count": 2,
-      "share": 0.0364
-    },
-    {
-      "term": "ict",
-      "count": 2,
-      "share": 0.0364
+      "share": 0.0328
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.0364
-    },
-    {
-      "term": "ongc",
-      "count": 2,
-      "share": 0.0364
+      "share": 0.0328
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0328
     },
     {
       "term": "specialist",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0328
+    },
+    {
+      "term": "ict",
+      "count": 2,
+      "share": 0.0328
+    },
+    {
+      "term": "ongc",
+      "count": 2,
+      "share": 0.0328
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0328
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0328
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0328
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "allres",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "manufacturing",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "ai",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "cybersecurity",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "managed",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "golang",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "react",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "javascript",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
+    },
+    {
+      "term": "data",
+      "count": 1,
+      "share": 0.0164
     },
     {
       "term": "services",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
+    },
+    {
+      "term": "helpdesk",
+      "count": 1,
+      "share": 0.0164
+    },
+    {
+      "term": "photocopier",
+      "count": 1,
+      "share": 0.0164
+    },
+    {
+      "term": "pos",
+      "count": 1,
+      "share": 0.0164
     },
     {
       "term": "l2",
       "count": 1,
-      "share": 0.0182
-    },
-    {
-      "term": "distribution",
-      "count": 1,
-      "share": 0.0182
-    },
-    {
-      "term": "centre",
-      "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "sql",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "integrations",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
+    },
+    {
+      "term": "distribution",
+      "count": 1,
+      "share": 0.0164
+    },
+    {
+      "term": "centre",
+      "count": 1,
+      "share": 0.0164
     },
     {
       "term": "marymount",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "waters",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "platforms",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "owner",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "soc",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "scenic",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "rim",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
+    },
+    {
+      "term": "cx",
+      "count": 1,
+      "share": 0.0164
+    },
+    {
+      "term": "telephony",
+      "count": 1,
+      "share": 0.0164
+    },
+    {
+      "term": "contractor",
+      "count": 1,
+      "share": 0.0164
+    },
+    {
+      "term": "voip",
+      "count": 1,
+      "share": 0.0164
+    },
+    {
+      "term": "sip",
+      "count": 1,
+      "share": 0.0164
+    },
+    {
+      "term": "sms",
+      "count": 1,
+      "share": 0.0164
     },
     {
       "term": "worker",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "its",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "quality",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "assurance",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "website",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "growth",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "projects",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "umbraco",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     },
     {
       "term": "cms",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0164
     }
   ],
   "jobs": [
+    {
+      "job_id": "95830427",
+      "job_title": "Photocopier & POS Technician",
+      "business_name": "The Comtech Group",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "$75,000 – $85,000 per year",
+      "area": "Nerang, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95830427",
+      "advertiser_id": "63112748",
+      "posted_date": "2026-11-11T07:14:12Z",
+      "job_description": "<p><strong>Position Title:</strong>&nbsp;Photocopier &amp; POS Technician<br><strong>Location:</strong>&nbsp;Nerang, QLD</p><p><strong>Position Overview</strong></p><p>The Photocopier &amp; POS Technician is responsible for the installation, maintenance, and repair of HP, Kyocera, and Sharp multifunction devices, photocopiers, point-of-sale (POS) systems, and related equipment within Toowoomba. This role requires a customer-focused approach, strong technical skills, and the ability to work independently while delivering a high standard of service and support to our valued clients.</p><p><strong>Remuneration</strong>&nbsp;package includes a fully serviced company vehicle, fuel card, and laptop.</p><hr><p><strong>Key Responsibilities</strong></p><ul><li><p><strong>Installation &amp; Setup:</strong>&nbsp;Install and configure photocopiers, multifunction devices, and POS systems at customer sites.</p></li><li><p><strong>Maintenance &amp; Repairs:</strong>&nbsp;Perform scheduled preventative maintenance, troubleshoot, and repair faults to minimise downtime.</p></li><li><p><strong>Technical Support:</strong>&nbsp;Provide on-site and remote technical assistance for hardware and software-related issues.</p></li><li><p><strong>Upgrades &amp; Integration:</strong>&nbsp;Carry out software updates, firmware upgrades, and system integrations with customer networks.</p></li><li><p><strong>Customer Service:</strong>&nbsp;Deliver excellent service and clear communication to customers, ensuring a positive experience at every interaction.</p></li><li><p><strong>Training:</strong>&nbsp;Provide end-user training on equipment functions and best practices.</p></li><li><p><strong>Documentation:</strong>&nbsp;Maintain accurate service records, job reports, and parts usage logs.</p></li><li><p><strong>Stock &amp; Parts Management:</strong>&nbsp;Manage spare parts inventory to ensure availability for common repairs.</p></li></ul><hr><p><strong>Skills &amp; Experience</strong></p><ul><li><p>Previous experience servicing photocopiers, multifunction devices, and/or POS systems preferred.</p></li><li><p>Strong mechanical and electronic fault-finding skills.</p></li><li><p>Knowledge of networking fundamentals, including TCP/IP, printing protocols, and device integration.</p></li><li><p>Ability to read and interpret service manuals, wiring diagrams, and technical schematics.</p></li><li><p>Excellent problem-solving and troubleshooting ability.</p></li><li><p>Strong interpersonal skills and a commitment to exceptional customer service.</p></li><li><p>Ability to work independently and manage time effectively.</p></li></ul><hr><p>&nbsp;<strong>Key Attributes</strong></p><ul><li><p>Professional and reliable with a positive attitude.</p></li><li><p>Flexible and adaptable to changing work requirements.</p></li><li><p>Willingness to learn and stay updated with new technology.</p></li><li><p>Commitment to workplace safety and compliance procedures.</p></li></ul><hr><p><strong>About Comtech Business Equipment</strong></p><p>Comtech Business Equipment is Australian owned and operated company based in <strong>Brisbane, Darling Downs, Gold Coast &amp; Northern Rivers, Melbourne, and Sydney</strong>, providing business printing solutions and technical support throughout Australia. We pride ourselves on outstanding customer service and building long-term relationships with our clients.</p>",
+      "keywords": [
+        "photocopier",
+        "pos",
+        "technician"
+      ]
+    },
+    {
+      "job_id": "95825504",
+      "job_title": "Head of IT & Business Systems",
+      "business_name": "TANK STREAM DESIGN PTY LTD",
+      "work_type": "Full time",
+      "job_type": "Management",
+      "pay_range": "",
+      "area": "Burleigh Heads, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95825504",
+      "advertiser_id": "24020841",
+      "posted_date": "2026-11-11T04:33:03Z",
+      "job_description": "<p><strong>About us</strong></p><p>Born and bred on the Gold Coast, our company designs and develops unique lifestyle apparel, headwear, sunglasses and accessories for quality retailers around the world. Our market leading brands are designed and developed by our talented in-house team with an eye for quality, attention to detail and a passion for the outdoor lifestyle.</p><p>From humble beginnings, we have experienced continuous growth over the last 25 years. We are now stocked in retailers all over Australia, Japan, New Zealand, the Caribbean, Canada and the USA. We have established an excellent reputation for innovative and quality products that our retailers and consumers love equally.</p><p><br></p><p><strong>Role Summary</strong></p><p>The <strong>Head of IT &amp; Business Systems</strong> is responsible for leading the growth and implementation of the company’s technology strategy and enhancing business systems to support growth, efficiency, and innovation. This role oversees the design, implementation, security, and optimisation of all IT infrastructure and business applications, ensuring systems are reliable, scalable, and aligned with business objectives.</p><p>The role partners with Department Heads to identify and implement technology solutions that improve processes, drive operational efficiencies, and support cross-departmental collaboration. It is accountable for application development, system integrations, data management, and continuous improvement of IT tools, ensuring that technology enables informed decision-making and supports both strategic and operational goals. As a forward-thinking leader, you will be highly proficient in using Artificial Intelligence (AI) to streamline and enhance business systems, championing the adoption of AI technologies across the organisation to uncover opportunities for automation, smarter decision-making, and structural efficiency.</p><p>Project management is a key aspect of this role, including planning, executing, and delivering technology initiatives on time and within budget. The Head of IT &amp; Business Systems also manages vendor relationships, IT budgets, and ensures compliance with internal standards and best practices.</p><p><br></p><p><strong>Key Responsibilities</strong></p><p><strong>Technology Strategy</strong></p><ul><li><p>Ensure IT initiatives support overall company strategy and drive growth.</p></li><li><p>Drive innovation and adoption of emerging technologies, including AI, to maintain competitive advantage.</p></li><li><p>Develop and maintain the IT roadmap.</p></li><li><p>Oversee planning and delivery of IT projects, ensuring alignment with strategic priorities.</p></li></ul><p><strong>AI, Automation &amp; Innovation</strong></p><ul><li><p>Leverage deep proficiency in AI to evaluate, pilot, and embed intelligent tools that streamline workflows and enhance existing business systems.</p></li><li><p>Identify operational bottlenecks and deploy AI-driven automation (e.g., machine learning, predictive analytics, generative AI) to eliminate manual processes.</p></li><li><p>Establish frameworks and best practices for the ethical, secure, and effective use of AI tools across the organization.</p></li></ul><p><strong>Business Systems &amp; Applications</strong></p><ul><li><p>Lead the development, improvement, and integration of business systems and applications (ERP, CRM, POS, BI, PLM, etc.).</p></li><li><p>Ensure applications are integrated seamlessly across departments, improving workflow and data accuracy with a continuous improvement mindset.</p></li><li><p>Evaluate and implement new technology solutions to enhance business processes and support decision-making.</p></li><li><p>Oversee data warehouse strategy, analytics tools, and system enhancements.</p></li><li><p>Manage projects related to system upgrades, integrations, and new application implementations.</p></li></ul><p><strong>IT Operations</strong></p><ul><li><p>Enhance efficiency, reliability, and scalability of infrastructure and business systems.</p></li><li><p>Maintain IT uptime and infrastructure reliability through day-to-day monitoring and maintenance.</p></li><li><p>Manage internal and external IT vendors to maintain service levels and cost efficiency.</p></li><li><p>Implement backup, disaster recovery, and business continuity plans.</p></li><li><p>Provide onboarding and offboarding functionality across IT systems and security.</p></li><li><p>Work closely with service providers to ensure hardware is fit for purpose and suitable for a global business structure.</p></li></ul><p><strong>Cross-Department Collaboration &amp; Efficiency</strong></p><ul><li><p>Partner with Department Heads to identify and implement opportunities to drive operational efficiencies through technology.</p></li><li><p>Translate business requirements into IT solutions, managing projects, timelines, and budgets.</p></li><li><p>Ensure applications are fully utilized and understood by teams to maximize functionality.</p></li><li><p>Provide technology guidance and training to staff to ensure adoption of systems and processes.</p></li></ul><p><strong>Governance &amp; Security</strong></p><ul><li><p>Establish IT policies, standards, and governance frameworks.</p></li><li><p>Manage IT budgets and ensure cost-effective technology investments.</p></li><li><p>With third-party assistance, oversee cybersecurity initiatives, including risk assessments, user governance, IT policies, and incident response.</p></li></ul><p><br></p><p><strong>About You:</strong></p><p>The ideal candidate will possess a strong analytical mindset, excellent communication skills, and a deep understanding of IT strategy, business systems, infrastructure management, and technology-driven process improvement. Of course, your leadership extends to coaching and developing teams and nurturing high-performance cultures. You will possess a passion for leadership and an innate drive for success.</p><p><br></p><p><strong>Qualifications &amp; Experience</strong></p><ul><li><p>Bachelor’s degree in Computer Science, Information Technology, Business Information Systems, or a related field; MBA or relevant post-grad preferred.</p></li><li><p>Proven track record in a senior IT leadership role (e.g., Head of IT, IT Director, or Business Systems Manager), ideally within a scaling or global business structure.</p></li><li><p>Strong hands-on experience managing and integrating enterprise business systems such as ERP, CRM, POS, BI, and PLM.</p></li><li><p>Demonstrated experience successfully auditing, piloting, and deploying AI solutions or machine learning models to optimise business operations.</p></li><li><p>Deep practical knowledge of modern AI tools, predictive analytics, generative AI, and robotic process automation (RPA) to drive business efficiency.</p></li><li><p>Solid understanding of data warehousing, data governance, and business intelligence tools to enable data-driven decision-making.</p></li><li><p>Proven success leading complex, cross-departmental technology projects on time and within budget using structured methodologies.</p></li><li><p>Firm grasp of cybersecurity principles, risk assessments, and compliance frameworks, including the specific data privacy implications of utilizing AI.</p></li><li><p>Strong commercial acumen with experience negotiating vendor SLAs and managing comprehensive IT budgets.</p></li><li><p>Exceptional communication skills with the ability to translate complex AI and IT concepts into actionable business strategies for non-technical Department Heads.</p></li></ul><p><br></p><p><strong>For You:</strong></p><p>We offer a highly competitive salary.</p><p>As a valued member of our team, you'll play a pivotal role in our company's success and you will be part of a collaborative and passionate team.</p><p>We're a genuine, rapidly growing, business in a vibrant Burleigh Heads location with bright, clean, sunny offices. We are deeply invested in our staff's well-being, and we actively support environmental initiatives.</p><p>We prioritise work-life balance and prioritise the personal well-being of our employees. Moreover, we're committed to fostering growth and development opportunities, both personally and professionally, and we have a culture of nurturing talent from within. If you possess the skills and experience to drive strategic initiatives and optimise our commercial performance, we invite you to apply for this exciting opportunity.</p><p>Our great company culture is rooted in our core values.</p><p>We warmly welcome people from a wide range of backgrounds that love adventure, design, nature and enabling our customers to enjoy their life more. People like you, help us get better daily.</p>",
+      "keywords": [
+        "it",
+        "business",
+        "systems"
+      ]
+    },
+    {
+      "job_id": "95824506",
+      "job_title": "3CX & Telephony Contractor (VoIP / SIP / SMS) — Remote, Part-time",
+      "business_name": "Aged Care Reviews Pty Ltd",
+      "work_type": "Contract/Temp",
+      "job_type": "Telecommunications",
+      "pay_range": "$95 – $125 per hour",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95824506",
+      "advertiser_id": "31529275",
+      "posted_date": "2026-11-11T04:04:13Z",
+      "job_description": "<h2>📞 <strong>About the role</strong><br></h2><p>Aged Care Decisions runs contact centre teams across Australia and offshore, all on 3CX. We’re looking for a hands-on 3CX and telephony specialist to own our voice and SMS environment: keep it running smoothly, look after day-to-day changes and support, and make sure it’s well documented.</p><p>This is a remote, part-time contract of around three months:</p><ul><li><p><strong>Month 1: one day a week.</strong> Handover, getting to know our setup, and picking up open support items.</p></li><li><p><strong>After that: around four to eight hours a week</strong> for routine support, with extra hours agreed as needed.</p></li><li><p><strong>Major outages:</strong> we’d like to agree a coverage window and response time with you for critical failures (e.g. queues down, inbound calls failing). Tell us what you can offer.</p></li></ul><p><br></p><h2>🛠️ <strong>What you’ll do</strong></h2><ul><li><p>Administer and troubleshoot 3CX v20: users, extensions, queues, ring groups, IVRs, business hours, voicemail and inbound/outbound call routing</p></li><li><p>Manage SIP trunks, phone numbers, caller ID, number allocation, porting and routing changes; maintain an accurate number and service inventory</p></li><li><p>Support inbound, outbound and two-way SMS; trace delivery failures across carriers, messaging providers and our business systems</p></li><li><p>Diagnose call quality, dropped calls, one-way audio, registration and connectivity issues using call records, logs, packet captures and network diagnostics</p></li><li><p>Own supplier escalations through to verified resolution</p></li><li><p>Maintain our Linux-based 3CX environment on AWS: monitoring, backups, security and controlled updates</p></li><li><p>Own the 3CX and carrier side of our integrations (call recording, Microsoft Teams presence, CRM): configure and test APIs and webhooks, troubleshoot issues and write small telephony scripts where needed. Our developers own application code changes; you’ll help define what’s needed and test the full flow with them</p></li><li><p>Review carrier invoices, call classifications and usage charges; investigate discrepancies with suppliers and finance</p></li><li><p>Document routing, configuration and support procedures, with tested changes and rollback plans</p></li></ul><p><br></p><h2>✅ <strong>What you’ll bring</strong></h2><ul><li><p>Proven hands-on 3CX administration and troubleshooting, including v20 and contact centre queue and routing configurations</p></li><li><p>Strong SIP/VoIP and networking skills: DNS, firewalls, NAT and audio troubleshooting; comfortable reading logs and packet captures</p></li><li><p>Experience with Australian carriers, number porting, and SMS delivery and routing across multiple suppliers</p></li><li><p>Practical Linux and AWS skills; hands-on with REST APIs, webhooks and light scripting for communications integrations</p></li><li><p>Clear communication, reliable follow-through and concise documentation; able to work independently and remotely</p></li></ul><p><br></p><h2><strong>🏢 Company Profile</strong></h2><p>Aged Care Decisions is passionate about helping people in need, empowering them in their health care experiences. Our services encompass placement care, service provider matching, cutting-edge technology solutions, and a comprehensive consumer review website. We’ve since launched Care Decisions, bringing the same model to Australians navigating the NDIS.</p><p>Find out more about our company: https://agedcaredecisions.com.au/about/</p><p>Read what clients and families say about us: https://g.page/r/CTbfWRSCdvPpEBA</p><p>Our contact centre teams help families find care every day, so when the phones work, people get help faster.<br></p><h2>✉️ <strong>To apply</strong></h2><p><br>Send your CV and a short note covering:</p><ol><li><p>The largest 3CX environment you’ve managed (users, queues, sites)</p></li><li><p>A voice or SMS problem you traced across multiple suppliers, and how you fixed it</p></li><li><p>What outage cover you could offer (hours and response time)</p></li></ol><p><br></p>",
+      "keywords": [
+        "cx",
+        "telephony",
+        "contractor",
+        "voip",
+        "sip",
+        "sms"
+      ]
+    },
+    {
+      "job_id": "95823928",
+      "job_title": "IT Support Engineer",
+      "business_name": "Neteffects",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Ashmore, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95823928",
+      "advertiser_id": "35973684",
+      "posted_date": "2026-11-11T03:48:09Z",
+      "job_description": "<p><strong>Looking for an IT role where you can actually build your skills, work with great technology and have some freedom in how you get the job done?</strong></p><p>Neteffects is looking for an enthusiastic <strong>Support Engineer</strong> to join our growing team.</p><p>Based on the Gold Coast, Neteffects has been providing IT consulting, managed services and technology support to organisations in Australia and around the world for more than 26 years.</p><p>With continued growth and expansion, we're looking for another great person to join our team.</p><p>This is a <strong>full-time position</strong>, preferably based on the Gold Coast, with the opportunity to work across a diverse range of customer environments, technologies and projects.</p><p><strong>The Role</strong></p><p>As a Support Engineer, you'll be part of the team responsible for supporting and managing our customers' technology environments.</p><p>This isn't a role where we expect you to know everything from day one. <strong>Training and support will be provided</strong>, with the aim of developing your skills and progressively involving you in more complex support, implementation projects and the ongoing management of customer networks.</p><p>Depending on your experience, your day could include:</p><ul><li><p>Troubleshooting Windows desktop and application issues</p></li><li><p>Supporting Microsoft 365, Teams, SharePoint and OneDrive</p></li><li><p>Managing user accounts, permissions, MFA and Microsoft Entra ID</p></li><li><p>Supporting Windows Server and Active Directory environments</p></li><li><p>Troubleshooting networks, switches, Wi-Fi, firewalls and VPNs</p></li><li><p>Assisting with Microsoft Azure and cloud environments</p></li><li><p>Supporting Microsoft Intune and managed endpoints</p></li><li><p>Monitoring and maintaining customer systems</p></li><li><p>Managing patching, software deployment and endpoint security</p></li><li><p>Troubleshooting backup and recovery issues</p></li><li><p>Working with virtualised server environments</p></li><li><p>Using remote monitoring, management and ticketing platforms</p></li><li><p>Providing remote and onsite customer support</p></li><li><p>Assisting senior engineers with infrastructure, cloud and security projects</p></li><li><p>Maintaining accurate technical documentation</p></li></ul><p>Our engineers work across desktop, Microsoft 365, device, application, network and infrastructure troubleshooting, with experienced senior engineers available for escalation of more complex cloud, identity, security and infrastructure issues.</p><p><strong>Technologies You'll Work With</strong></p><p>Neteffects works across a wide range of technologies and vendors, including:</p><ul><li><p>Microsoft 365</p></li><li><p>Microsoft Azure</p></li><li><p>Microsoft Entra ID</p></li><li><p>Microsoft Intune</p></li><li><p>Windows Server</p></li><li><p>Cisco</p></li><li><p>Cisco Meraki</p></li><li><p>AWS</p></li><li><p>Veeam</p></li><li><p>ConnectWise</p></li><li><p>Lenovo</p></li><li><p>Endpoint and cybersecurity technologies</p></li><li><p>Hyper-V and VMware</p></li><li><p>Networking, switching, firewalls and wireless infrastructure</p></li></ul><p>The breadth of the role is significant. Current Neteffects work includes technologies and projects involving Intune, Purview, Conditional Access, Exchange Online, certificate services, domain controllers, virtual machines, switching and firewall infrastructure.</p><p><strong>What We're Looking For</strong></p><p>We're interested in people who are genuinely enthusiastic about technology and want to continue developing their skills.</p><p>You don't need to tick every box.</p><p>Experience in any of the following would be advantageous:</p><ul><li><p>Microsoft 365 or Microsoft environments</p></li><li><p>Windows desktops and servers</p></li><li><p>Active Directory and Entra ID</p></li><li><p>Cisco or Meraki networking</p></li><li><p>Azure or AWS</p></li><li><p>Firewalls, switching, Wi-Fi and VPNs</p></li><li><p>Veeam or other backup platforms</p></li><li><p>RMM and ticketing platforms</p></li><li><p>PowerShell</p></li><li><p>MSP or IT service provider environments</p></li></ul><p>A relevant <strong>degree, Microsoft certification or Cisco certification</strong> would be advantageous, but practical skills, attitude and your ability to learn are equally important.</p><p><strong>More Than Technical Skills</strong></p><p>We're looking for someone who:</p><ul><li><p>Enjoys solving problems</p></li><li><p>Takes ownership rather than simply passing problems on</p></li><li><p>Provides exceptional customer service</p></li><li><p>Communicates well with technical and non-technical people</p></li><li><p>Can manage their own workload and priorities</p></li><li><p>Isn't afraid to ask questions when they don't know something</p></li><li><p>Enjoys learning new technologies</p></li><li><p>Works well as part of a team</p></li><li><p>Takes pride in doing things properly</p></li><li><p>Wants to build a long-term career in IT</p></li></ul><p>Most importantly, we're looking for someone with the <strong>right attitude</strong>.</p><p>Technology can be taught. Curiosity, responsibility and a genuine desire to help customers are much harder to teach.</p><p><strong>Why Neteffects?</strong></p><p>We've always believed that talented people do their best work when they're trusted to do their jobs.</p><p>Our workplace and approach to employment have previously attracted coverage from the <strong>Gold Coast Bulletin, The Australian and American Workplace Magazine</strong>.</p><p>We pride ourselves on creating an enjoyable workplace where people are given flexibility and responsibility.</p><p><strong>Your workday is yours to manage.</strong></p><p>We don't believe in hiring smart people and then unnecessarily telling them how to do their jobs. We want our engineers to take ownership of their work, manage their time responsibly and focus on delivering excellent outcomes for our customers.</p><p>We also offer:</p><ul><li><p>Above-average remuneration</p></li><li><p>A generous bonus and commission system</p></li><li><p>Flexible working arrangements</p></li><li><p>Training and professional development</p></li><li><p>Exposure to a broad range of technologies</p></li><li><p>Opportunities to work on implementation projects</p></li><li><p>Direct access to experienced senior engineers</p></li><li><p>Opportunities to develop into cloud, infrastructure, networking and cybersecurity roles</p></li><li><p>A diverse range of customers and technical environments</p></li></ul><p><strong>Build Your Career With Us</strong></p><p>You won't be restricted to answering the same support calls every day.</p><p>As your experience develops, we'll look to involve you in increasingly complex work across <strong>Microsoft 365, Azure, networking, infrastructure, identity, cybersecurity, backup and cloud technologies</strong>.</p><p>Neteffects' existing service model spans end-user support through to Microsoft 365, Azure, cybersecurity, networking and infrastructure engineering.</p><p>If you're exceptional at what you do, provide <strong>spectacular customer service</strong>, enjoy technology and want to work somewhere that gives you the freedom and opportunity to grow, <strong>we want to hear from you.</strong></p><p><strong>Apply Now</strong></p><p>Send us your CV along with a short introduction telling us about yourself, your current experience and the areas of technology that interest you.</p><p><strong>Neteffects</strong><br><em>Managed IT | Cloud | Infrastructure | Cybersecurity</em></p>",
+      "keywords": [
+        "it",
+        "support",
+        "engineer"
+      ]
+    },
+    {
+      "job_id": "95823629",
+      "job_title": "IT Graduate - Helpdesk Support",
+      "business_name": "Neteffects",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Ashmore, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95823629",
+      "advertiser_id": "35973684",
+      "posted_date": "2026-11-11T03:41:18Z",
+      "job_description": "<p>Just finished your IT studies and ready to start your career? Looking for a role where you'll learn from experienced engineers, work with real technology and actually grow?</p><p>Neteffects is looking for an enthusiastic <strong>IT Graduate</strong> to join our helpdesk team in a <strong>Level 1 Support</strong> role.</p><p>Based on the Gold Coast, Neteffects has been providing IT consulting, managed services and technology support to organisations in Australia and around the world for more than 26 years.</p><p>With continued growth and expansion, we're looking for a motivated graduate who wants to build a long-term career in IT.</p><p>This is a <strong>full-time position</strong>, preferably based on the Gold Coast, and is an ideal first step for someone who has recently completed (or is about to complete) a degree, diploma or certification in IT.</p><p><strong>The Role</strong></p><p>As a Level 1 Helpdesk Support Technician, you'll be the first point of contact for our customers when they need help with their technology. You'll log, troubleshoot and resolve everyday IT issues, and escalate more complex problems to our senior engineers.</p><p>We don't expect you to know everything from day one. <strong>Full training and support will be provided</strong>, and you'll work alongside experienced engineers who are happy to share what they know. As your skills and confidence grow, you'll progressively take on more technical work.</p><p>Your day could include:</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Answering support calls, emails and tickets from customers</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Logging, prioritising and updating tickets in our ticketing system</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Troubleshooting Windows desktop, laptop and application issues</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Helping users with Microsoft 365, Outlook, Teams, SharePoint and OneDrive</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Password resets, account unlocks and MFA set-up</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Creating and updating user accounts and basic permissions</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Setting up new computers, phones and peripherals for customers</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Troubleshooting printers, basic network and Wi-Fi connectivity issues</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Installing and updating software</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Providing remote support, with occasional onsite visits</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Escalating more complex issues to senior engineers, and learning from how they resolve them</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Keeping clear notes and maintaining accurate technical documentation</p><p>You'll always have experienced senior engineers available for escalation, so you're never left on your own with a problem you can't solve.</p><p><strong>Technologies You'll Learn</strong></p><p>Neteffects works across a wide range of technologies and vendors. In this role you'll get hands-on exposure to:</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Microsoft 365 and Exchange Online</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Microsoft Entra ID and Active Directory</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Microsoft Intune</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Windows 10/11 and Windows Server</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ConnectWise and remote monitoring and management tools</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lenovo hardware</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cisco and Cisco Meraki networking</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Veeam backup</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Microsoft Azure and AWS</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Endpoint and cybersecurity technologies</p><p>You won't be expected to be an expert in these from the start. This is where you'll build the practical experience that's hard to get from study alone.</p><p><strong>What We're Looking For</strong></p><p>We're interested in people who are genuinely enthusiastic about technology and keen to learn.</p><p>You don't need commercial experience, and you don't need to tick every box.</p><p>Any of the following would be a bonus:</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A recently completed degree, diploma or TAFE qualification in IT</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Entry-level certifications such as Microsoft 365 Fundamentals, CompTIA A+ or Cisco CCNA (or currently studying towards one)</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Basic knowledge of Windows and Microsoft 365</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An understanding of networking fundamentals (IP addressing, DNS, DHCP, Wi-Fi)</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience from an internship, work placement, part-time IT role or volunteer work</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home lab projects, building your own PCs or tinkering with technology in your own time</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Any customer service experience (retail, hospitality and call centre roles all count)</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A current driver's license</p><p>Practical curiosity, attitude and your ability to learn matter more to us than your résumé.</p><p><strong>More Than Technical Skills</strong></p><p>We're looking for someone who:</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enjoys solving problems and figuring out how things work</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Is friendly, patient and enjoys helping people</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Provides exceptional customer service</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Communicates clearly with non-technical people</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Takes ownership of tickets and follows them through</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can stay organised and manage their own workload</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Isn't afraid to ask questions when they don't know something</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Is eager to learn new technologies</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Works well as part of a team</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Takes pride in doing things properly</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wants to build a long-term career in IT</p><p>Most importantly, we're looking for someone with the <strong>right attitude</strong>.</p><p>Technology can be taught. Curiosity, responsibility and a genuine desire to help customers are much harder to teach.</p><p><strong>Why Neteffects?</strong></p><p>We've always believed that people do their best work when they're trusted and supported.</p><p>Our workplace and approach to employment have previously attracted coverage from the <strong>Gold Coast Bulletin, The Australian and American Workplace Magazine</strong>.</p><p>We pride ourselves on creating an enjoyable workplace where people are given flexibility and responsibility.</p><p>As a graduate, you'll get the structure and guidance you need to find your feet, along with the trust and freedom to take ownership of your work as you grow.</p><p>We also offer:</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Competitive graduate remuneration</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A generous bonus system</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Flexible working arrangements</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Structured on-the-job training and mentoring</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support for professional development and certifications</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exposure to a broad range of technologies and customer environments</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Direct access to experienced senior engineers</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A clear pathway from helpdesk into Level 2 support, cloud, infrastructure, networking and cybersecurity roles</p><p><strong>Start Your Career With Us</strong></p><p>This isn't a dead-end helpdesk job where you answer the same calls forever.</p><p>As your skills develop, we'll look to involve you in increasingly technical work across <strong>Microsoft 365, Azure, networking, infrastructure, identity, cybersecurity, backup and cloud technologies</strong>.</p><p>Many great engineers start their careers on the helpdesk. Neteffects' service model spans end-user support through to Microsoft 365, Azure, cybersecurity, networking and infrastructure engineering, so there's plenty of room to grow.</p><p>If you're passionate about technology, enjoy helping people, want to provide <strong>spectacular customer service</strong> and are ready to launch your IT career, <strong>we want to hear from you.</strong></p><p><strong>Apply Now</strong></p><p>Send us your CV along with a short introduction telling us about yourself, your studies, any IT experience you have (including personal projects) and the areas of technology that interest you most.</p><p><strong>Neteffects</strong></p><p><em>Managed IT | Cloud | Infrastructure | Cybersecurity</em></p>",
+      "keywords": [
+        "it",
+        "helpdesk",
+        "support"
+      ]
+    },
+    {
+      "job_id": "95817441",
+      "job_title": "Data Engineer",
+      "business_name": "Hays | Technology",
+      "work_type": "Full time",
+      "job_type": "Engineering - Software",
+      "pay_range": "Daily rate",
+      "area": "Coolangatta, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95817441",
+      "advertiser_id": "29308243",
+      "posted_date": "2026-11-11T00:30:34Z",
+      "job_description": "<p>Looking for Data Engineer - Gold Coast based - Coolangatta<br><br></p><strong>About the Role:</strong><br><strong>Project Description: Data Platform / Snowflake Transformation - Requirement</strong><br><ul><li>The organisation is currently undertaking a large-scale data platform transformation, working alongside a third-party implementation/vendor partner.</li><li>They are looking to bring in experienced contract resources to supplement the vendor team and internal capability, particularly around the technical strategy and delivery of the new data environment.</li><li>The initial requirement is likely to be around four roles, although two are immediate priorities.</li><li>They are looking for people who can start within the next 2-3 weeks.</li><li>Initial contracts will be for 6 months, with the potential for the right individuals to move into permanent positions longer term.</li><li>The vendor is ready to commence, so these resources are needed quickly to work alongside the vendor and help shape and execute the data strategy.</li><li><strong>Key experience require</strong><strong>d: </strong><ul><li>Strong experience delivering large-scale data platform / data transformation programs.</li><li>Proven experience migrating legacy SQL databases into a modern Enterprise Data Warehouse (EDW) environment.</li><li>Strong Snowflake experience, with Snowflake sitting at the centre of the target data architecture.</li><li>Experience designing and/or delivering data ingestion pipelines.</li><li>Experience with cloud-hosted data solutions, ideally across Azure or AWS.</li><li>Comfortable working closely with third-party vendors/consultancies, internal stakeholders and technical teams.</li><li>They need senior, hands-on people rather than junior resources. Someone who can come in, understand the environment quickly and contribute to both the strategy and delivery rather than needing significant direction.</li></ul></li></ul><strong>Data Engineer skill requirement: </strong><br>The Data Engineer builds the pipelines and data structures that move data from the legacy environment into Snowflake and make it usable.<br><ul><li>Extracting data from legacy SQL databases</li><li>Designing and building ingestion pipelines</li><li>ETL/ELT development</li><li>Transforming and loading data into Snowflake</li><li>SQL development</li><li>Data modelling and EDW structures</li><li>Data quality and reconciliation</li><li>Pipeline orchestration</li><li>Performance optimisation</li><li>Potentially tools such as DBT, Azure Data Factory, Databricks, Airflow or Snowflake-native tooling, depending on their chosen architecture</li></ul> <br><strong>What you need to do now:</strong><br>If you're interested in this role, click 'APPLY NOW' to forward an up-to-date copy of your CV, or call now (Himanshu Gupta - <a href=\"tel:+61 (07) 3243 3014\">+61 (07) 3243 3014</a> / <a href=\"mailto:Himanshu.Gupta@Hays.com.au\">Himanshu.Gupta@Hays.com.au</a><br>If this job isn't quite right for you, but you are looking for a new position, please contact us for a confidential discussion about your career.<br>",
+      "keywords": [
+        "data",
+        "engineer"
+      ]
+    },
     {
       "job_id": "95790328",
       "job_title": "Cyber Security and/or Software Development Course Coach",
@@ -433,7 +599,7 @@
       "url": "https://www.seek.com.au/job/95790328",
       "advertiser_id": "62661973",
       "posted_date": "2026-11-10T00:38:44Z",
-      "job_description": "<p>Are you a passionate &amp; caring person looking to develop your training skills in a positive environment?</p><p>We are looking for enthusiastic and people-focused individuals that love to share their knowledge and skills with others. Candidates will have great communication skills with a diverse scope of people and willingness to learn and serve students towards a greater understanding.&nbsp;This role is remote and is suited for people all across Australia.</p><p><br></p><p><strong>Application Information:</strong></p><p>To apply for this role, you must:</p><ol><li><p>Provide a resume highlighting your experience, knowledge, and skills relevant to this role. (Submit this via Seek)</p></li></ol><p><br></p><p><br><strong>Job Role:</strong><br>Provide education and training to students via <strong>Online Course Coaching.</strong></p><p>Being a Course Coach involves:</p><ul><li><p>Tutoring and teaching adult learners. This is done by having consistent communication with students via Zoom calls, phone or written communication.</p></li><li><p>General support and connection with students about course questions and study requirements.</p></li><li><p>Basic scheduling and time management skills are required for a successful candidate.</p></li><li><p>Working with a passionate team to ensure student success.</p></li></ul><p><br></p><p>We are currently hiring course coaches with Cyber Security skills and experience or Full Stack Web Development skills. If you meet either one of these skills please apply below!<br><br></p><p><strong>Skills Needed Cyber:</strong></p><ul><li><p>Experience with Cyber Security Systems and Tools (Basic Cloudflare, AWS, Wireshark, Virtual Machines)</p></li><li><p>Strong understanding of Cyber Security foundations</p></li><li><p>Industry experience is preferred</p></li></ul><p><br></p><p><strong>Skills Needed Web Development:</strong></p><ul><li><p>Experience in Full Stack Web Development</p></li><li><p>Proficiency with at least 2 programming languages (HTML, CSS, JavaScript, Python)</p></li><li><p>Experience with Github and SQL or similar database programing</p></li><li><p>Experience with Blockchain and AI / ML is preferred</p></li></ul><p><br></p><p><strong>Universal Training Skills:</strong></p><ul><li><p>Strong English Communication Skills</p></li><li><p>Computer with appropriate microphone and camera settings to host a zoom call</p></li><li><p>Flexible availability to communicate with students</p></li><li><p>Valid TAE (training and assessment) qualification - if you do not have this, be willing to obtain the qualification.<br>&nbsp;</p></li></ul><p><strong>Salary</strong>:</p><p>This is a part-time role. The part-time rate for a Course Coach for this particular role is $45 per hour. Successful candidates will be doing 10 hours per week.</p><p>This job is dependent on student availability and self-autonomy for scheduling. Hours are averaged across the week, with hours being dependent on student availability.</p><p><br></p><p><strong>About Us</strong></p><p>We are a Vocational Education and Training Organisation who's team has been operating for over 10 years in this space. We make sure to always focus on delivering quality materials, practical training and always aim to find new ways that can raise the bar across different industries. What sets us apart is our commitment to and incredible student experience whilst studying.</p><p><br></p><p>We work together; listening and challenging to create a supportive work environment whereby everyone works together and is equal.<br></p><p>We are hiring ASAP so if you think this role suits you, we would love to get in touch with you.<br></p><p>Work with us, to work together, and as a team let's inspire the next round of industry leaders!</p>",
+      "job_description": "<p>Are you a fun, passionate &amp; caring person looking to develop your training skills in a positive, flexible environment?</p><p>We are looking for enthusiastic and people-focused individuals that love to share their knowledge and skills with others. Candidates will have great communication skills with a diverse scope of people and willingness to learn and serve students towards a greater understanding.&nbsp;This role is remote and is suited for people all across Australia.</p><p><br></p><p><strong>Application Information:</strong></p><p>To apply for this role, you must:</p><ol><li><p>Provide a resume and short cover letter highlighting your experience, knowledge, and skills relevant to this role. (Submit this via Seek)</p></li><li><p>Create and send a short video (no longer that 1-2 minutes) answering the question \"What do you think makes a GREAT coach?\" - Please include the link to this video into your cover letter - It can be completed via Loom or any other shareable video format. <strong>Please note, applications with a video submission will be prioritised due to the online nature of the role.</strong></p></li></ol><p><br></p><p><br><strong>Job Role:</strong><br>Provide education and training to students via <strong>Online Course Coaching.</strong></p><p>Being a Course Coach involves:</p><ul><li><p>Tutoring and teaching adult learners. This is done by having consistent communication with students via Zoom calls, phone or written communication.</p></li><li><p>General support and connection with students about course questions, the industry and study requirements.</p></li><li><p>Scheduling and time management skills are required for a successful candidate.</p></li><li><p>Working with a passionate team to ensure student success.</p></li></ul><p><br></p><p>We are currently hiring course coaches with Cyber Security skills and experience or Full Stack Web Development skills. If you meet either one of these skills please apply below!<br><br></p><p><strong>Skills Needed Cyber:</strong></p><ul><li><p>Experience with Cyber Security Systems and Tools (Basic Cloudflare, AWS, Wireshark, Virtual Machines)</p></li><li><p>Strong understanding of Cyber Security foundations</p></li><li><p>Industry experience is preferred although anyone with general industry experience and a fantastic attitude will be considered!</p></li></ul><p><br></p><p><strong>Skills Needed Web Development:</strong></p><ul><li><p>Experience in Full Stack Web Development</p></li><li><p>Proficiency with at least 2 programming languages (HTML, CSS, JavaScript, Python)</p></li><li><p>Experience with Github and SQL or similar database programing</p></li><li><p>Experience with Blockchain and AI / ML is preferred</p></li></ul><p><br></p><p><strong>Universal Training Skills:</strong></p><ul><li><p>Strong English Communication Skills</p></li><li><p>Computer with appropriate microphone and camera settings to host a zoom call</p></li><li><p>Flexible availability to communicate with students</p></li><li><p>Valid TAE (training and assessment) qualification - if you do not have this, be willing to obtain the qualification.</p></li><li><p>A positive, upbeat and enthusiastic attitude&nbsp;<br>&nbsp;</p></li></ul><p><strong>Salary</strong>:</p><p>This is a part-time role. The part-time rate for a Course Coach for this particular role is $45 per hour. Successful candidates will be doing 10 hours per week.</p><p>This job is dependent on student availability and self-autonomy for scheduling. Hours are averaged across the week, with hours being dependent on student availability.</p><p><br></p><p><strong>About Us</strong></p><p>We are a Vocational Education and Training Organisation who's team has been operating for over 10 years in this space. We make sure to always focus on delivering quality materials, practical training and always aim to find new ways that can raise the bar across different industries. What sets us apart is our commitment to and incredible student experience whilst studying.</p><p><br></p><p>We work together; listening and challenging to create a supportive work environment whereby everyone works together and is equal.<br></p><p>We are hiring ASAP so if you think this role suits you, we would love to get in touch with you.<br></p><p>Work with us, to work together, and as a team let's inspire the next round of industry leaders!</p>",
       "keywords": [
         "cyber",
         "security",
