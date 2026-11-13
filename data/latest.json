@@ -1,476 +1,503 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "region": "Gold Coast",
-  "scraped_at": "2026-11-12T11:45:07.360123+10:00",
-  "total_jobs": 61,
+  "scraped_at": "2026-11-13T10:48:49.028227+10:00",
+  "total_jobs": 59,
   "keywords": [
     {
-      "term": "engineer",
-      "count": 16,
-      "share": 0.2623
-    },
-    {
       "term": "support",
-      "count": 16,
-      "share": 0.2623
+      "count": 17,
+      "share": 0.2881
     },
     {
       "term": "it",
+      "count": 16,
+      "share": 0.2712
+    },
+    {
+      "term": "engineer",
       "count": 15,
-      "share": 0.2459
-    },
-    {
-      "term": "software",
-      "count": 8,
-      "share": 0.1311
-    },
-    {
-      "term": "developer",
-      "count": 7,
-      "share": 0.1148
+      "share": 0.2542
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.082
+      "share": 0.0847
     },
     {
       "term": "application",
       "count": 5,
-      "share": 0.082
+      "share": 0.0847
+    },
+    {
+      "term": "developer",
+      "count": 5,
+      "share": 0.0847
     },
     {
       "term": "manager",
       "count": 5,
-      "share": 0.082
+      "share": 0.0847
     },
     {
       "term": "business",
       "count": 4,
-      "share": 0.0656
+      "share": 0.0678
     },
     {
       "term": "systems",
       "count": 4,
-      "share": 0.0656
+      "share": 0.0678
     },
     {
       "term": "analyst",
       "count": 4,
-      "share": 0.0656
+      "share": 0.0678
     },
     {
       "term": "technology",
       "count": 4,
-      "share": 0.0656
+      "share": 0.0678
+    },
+    {
+      "term": "software",
+      "count": 4,
+      "share": 0.0678
     },
     {
       "term": "technician",
       "count": 4,
-      "share": 0.0656
+      "share": 0.0678
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.0656
+      "share": 0.0678
     },
     {
       "term": "network",
       "count": 3,
-      "share": 0.0492
+      "share": 0.0508
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0492
+      "share": 0.0508
     },
     {
       "term": "technical",
       "count": 3,
-      "share": 0.0492
+      "share": 0.0508
     },
     {
       "term": "service",
       "count": 3,
-      "share": 0.0492
+      "share": 0.0508
+    },
+    {
+      "term": "solution",
+      "count": 2,
+      "share": 0.0339
     },
     {
       "term": "consultant",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0339
     },
     {
       "term": "help",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0339
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0339
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0339
     },
     {
       "term": "specialist",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0339
     },
     {
       "term": "ict",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0339
     },
     {
       "term": "ongc",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0339
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0339
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0339
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0328
+      "share": 0.0339
+    },
+    {
+      "term": "designers",
+      "count": 1,
+      "share": 0.0169
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0164
-    },
-    {
-      "term": "solution",
-      "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "allres",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "manufacturing",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "ai",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "cybersecurity",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "managed",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "golang",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "react",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "javascript",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "data",
       "count": 1,
-      "share": 0.0164
-    },
-    {
-      "term": "services",
-      "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "photocopier",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "l2",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "sql",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "integrations",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "distribution",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "centre",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "marymount",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "waters",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "platforms",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "owner",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "soc",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "scenic",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "rim",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "cx",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "telephony",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "contractor",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "voip",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "sip",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "sms",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "worker",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "its",
       "count": 1,
-      "share": 0.0164
-    },
-    {
-      "term": "quality",
-      "count": 1,
-      "share": 0.0164
-    },
-    {
-      "term": "assurance",
-      "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "website",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "growth",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "projects",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "umbraco",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     },
     {
       "term": "cms",
       "count": 1,
-      "share": 0.0164
+      "share": 0.0169
     }
   ],
   "jobs": [
+    {
+      "job_id": "95852003",
+      "job_title": "Solution Designers",
+      "business_name": "City of Gold Coast",
+      "work_type": "Contract/Temp",
+      "job_type": "Architects",
+      "pay_range": "$111,401-$117,924 p/a plus superannuation",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95852003",
+      "advertiser_id": "16652581",
+      "posted_date": "2026-11-12T04:57:15Z",
+      "job_description": "<ul> <li><strong>Full Time Fixed Term (2x available positions until 30 June 2027) | 9-day fortnight | 36 hours per week</strong></li> <li> <strong>Salary: </strong>From $111,401 to $117,924 per annum plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG2223/assets/32652939\">Solution Designer</a> </li> </ul> <p><strong>About the role </strong></p> <p>We are excited to offer opportunities for some innovative and delivery-focused Solution Designers to join the City of Gold Coast.</p> <p>Reporting to the Coordinator Solution Architecture, you will provide expert advice on solution design best practice and lead technical designs that align with reference solutions, enterprise architecture principles and the City’s enterprise standards. You will develop clear, implementable designs and system specifications that support the successful delivery, transition and operation of ICT solutions across the organisation.</p> <p>Depending on organisational priorities, you may be aligned to one of several activity streams. This could include leading cross-platform initiatives under the IT Operating Model, or contributing to complex ICT portfolio initiatives that require strong governance, technical alignment and operational readiness, coordinating the technical implementation of underpinning foundation architecture to support the ongoing management of City's desktop, mobility and server fleet, and AI solution implementations. Across each stream, your focus will be on ensuring solutions are well defined, practical, compliant, and sustainable in service.</p> <p>You will work closely with project teams, technical specialists, delivery partners, vendors and stakeholders across the Chief Technology Office and the broader City. You will coordinate technical input, manage design dependencies, support transition to operations, and help uplift consistent technical solution architecture patterns and practices that improve the way technology is delivered across the organisation.</p> <p>This is a highly collaborative role suited to someone who can translate business needs into clear technical outcomes, balance design quality with delivery realities, and bring people together to solve complex problems. Your contribution will help ensure technology solutions are fit-for-purpose, aligned to enterprise standards, and capable of supporting services that enhance the Gold Coast way of life.</p> <p><strong>We’re looking for people who have: </strong></p> <p>Most importantly, you will bring experience in a similar Solution Designer or Solution Architect role, with the ability to turn business needs into clear, practical and implementable technology designs. You will be confident working across technical teams, project teams, vendors and business stakeholders to shape solutions that are aligned to enterprise architecture, City standards and operational requirements.</p> <p>To succeed in this role, you will bring:</p> <ul> <li>Demonstrated experience developing solution designs, system specifications and implementation-ready design artefacts that align with enterprise architecture principles, reference solutions, technical patterns and organisational standards.</li> <li>Strong stakeholder engagement and communication skills, with the ability to explain complex technical concepts clearly to both technical and non-technical audiences.</li> <li>A practical delivery mindset, with the ability to balance design quality, compliance, risk, operational readiness and delivery realities.</li> <li>The ability to coordinate technical input across multiple teams, manage dependencies, support transition to operations, and contribute to reliable and consistent solution delivery.</li> <li>Experience working across one or more delivery environments, such as municipal infrastructure projects, cross-platform service initiatives, ICT portfolio delivery, system migrations, operational uplift or technology-enabled business improvement.</li> <li>Strong problem-solving skills, attention to detail, and the ability to work with a high level of autonomy while contributing positively to cross-functional teams.</li> <li>An understanding of ICT risk, service transition, operational support considerations, vendor engagement and the importance of designing solutions that are sustainable beyond project delivery.</li> <li>A continuous improvement mindset, with an interest in uplifting technical patterns, improving solution design practices, and helping the City deliver fit-for-purpose technology outcomes for the community.</li> </ul> <p>Ideally, you will also hold a Bachelor Degree in Information Technology, Project Management or a related discipline, or bring equivalent knowledge and relevant experience.</p> <p>If you have strong solution design capability and can bring people together to deliver practical, standards-aligned technology outcomes, we’d like to hear from you.</p> <p><strong>Be part of shaping the Gold Coast’s future </strong></p> <p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p> <p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p> <ul> <li>9-day fortnight </li> </ul> <ul> <li>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations </li> </ul> <ul> <li>Personal and professional development courses </li> </ul> <ul> <li>Access to 350+ fitness facilities through Fitness Passport </li> </ul> <ul> <li>4 free confidential counselling sessions a year for you or an immediate family member </li> </ul> <ul> <li>1 free nutritionist and financial advice session per year </li> </ul> <p>We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p> <p><strong>How to apply</strong><br>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p> <p><strong>Contact Person</strong> Joana Al-Kassar</p> <p><strong>Contact Email</strong> <a href=\"mailto:jal-kassar@goldcoast.qld.gov.au\">jal-kassar@goldcoast.qld.gov.au</a></p> <p><strong>Closing Date</strong> Sunday 22nd November 2026 /11:59pm AEDT </p> <p> </p> <p>Our selection process may include a one-way video interview via Criteria, a face-to-face or virtual interview via Microsoft Teams, reference checks via Xref and additional checks including police checks, employment history checks, qualification checks, pre-employment medical reviews and drug and alcohol testing. </p> <p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
+      "keywords": [
+        "solution",
+        "designers"
+      ]
+    },
+    {
+      "job_id": "95848781",
+      "job_title": "IT Support Engineer – Level 1",
+      "business_name": "Cursa Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Biggera Waters, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95848781",
+      "advertiser_id": "25458650",
+      "posted_date": "2026-11-12T03:19:49Z",
+      "job_description": "<p>Cursa Pty Ltd is a Gold Coast-based IT services provider delivering reliable, secure and practical technology solutions to businesses.</p><p>We support our clients across Microsoft 365, cloud services, cybersecurity, networking, backup, endpoint management and day-to-day IT support.</p><p>As Cursa continues to grow, we're looking for an enthusiastic <strong>Level 1 IT Support Engineer</strong> to join our technical team.</p><p>This is a hands-on role suited to someone who enjoys technology, problem solving and helping people. You'll be responsible for providing frontline technical support to our clients while working alongside experienced engineers who can assist with more complex issues.</p><p>You don't need to know everything on day one. We're looking for someone with <strong>good IT fundamentals, strong communication skills, initiative and a genuine desire to develop a career in IT.</strong></p><h2>What you'll be doing</h2><p>As part of the Cursa technical team, you'll:</p><ul><li><p>Respond to incoming client support requests and service tickets</p></li><li><p>Provide friendly and professional Level 1 technical support</p></li><li><p>Troubleshoot Windows desktops, laptops and common business applications</p></li><li><p>Support Microsoft 365 applications including Outlook, Teams, OneDrive and SharePoint</p></li><li><p>Assist with Microsoft 365 user accounts, passwords, groups and permissions</p></li><li><p>Assist with new user onboarding and employee offboarding</p></li><li><p>Configure and deploy desktops, laptops and Microsoft 365 applications</p></li><li><p>Troubleshoot printers, scanners and other business peripherals</p></li><li><p>Assist with basic internet, Wi-Fi and network connectivity issues</p></li><li><p>Assist with email and Outlook troubleshooting</p></li><li><p>Perform basic hardware diagnostics and troubleshooting</p></li><li><p>Provide support remotely, by phone, email and onsite when required</p></li><li><p>Accurately document support requests, troubleshooting and resolutions</p></li><li><p>Keep clients updated throughout the support process</p></li><li><p>Escalate more complex technical issues to Level 2 and senior engineers</p></li><li><p>Maintain and update client technical documentation</p></li></ul><h2>About you</h2><p>We're looking for someone who enjoys technology but also understands that <strong>great IT support is about people as much as computers.</strong></p><p>Ideally, you'll have:</p><ul><li><p>Some previous IT support, Help Desk, Service Desk or similar experience</p></li><li><p>Good Windows 10/11 troubleshooting skills</p></li><li><p>Familiarity with Microsoft 365</p></li><li><p>Basic knowledge of Outlook, Teams, OneDrive and SharePoint</p></li><li><p>An understanding of computer hardware and peripherals</p></li><li><p>Basic networking knowledge</p></li><li><p>Good troubleshooting and problem-solving skills</p></li><li><p>Strong written and verbal communication skills</p></li><li><p>Good organisation and time-management skills</p></li><li><p>Attention to detail</p></li><li><p>The ability to follow documented procedures</p></li><li><p>The ability to work independently while knowing when to ask for assistance</p></li><li><p>A professional and friendly approach when dealing with clients</p></li><li><p>A genuine interest in technology and willingness to learn</p></li></ul><p>Previous experience working for an <strong>MSP or IT service provider</strong> would be beneficial, but isn't essential.</p><h2>Desirable experience</h2><p>Previous exposure to any of the following would be advantageous, but <strong>is not required</strong>:</p><ul><li><p><strong>Microsoft 365 &amp; Cloud:</strong> Microsoft 365 administration, Entra ID, Exchange Online, SharePoint, OneDrive, Intune and Defender.</p></li><li><p><strong>Windows &amp; Networking:</strong> Windows Server, macOS, TCP/IP, DNS, DHCP, business Wi-Fi and general network troubleshooting.</p></li><li><p><strong>MSP &amp; Support Tools:</strong> Autotask PSA, IT Glue, RocketCyber, Inky, Dark Web ID, BullPhish ID, SaaS Alerts, Datto RMM and Datto EDR</p></li><li><p><strong>Backup &amp; Security:</strong> Backup, recovery, endpoint security and related business continuity solutions.</p></li><li><p><strong>Training &amp; Certifications:</strong> Microsoft certifications or other relevant IT qualifications are highly regarded.</p></li></ul><p><strong>Don't tick every box? We'd still encourage you to apply.</strong></p><p>You don't need experience across all of these technologies. We're looking for someone with good technical fundamentals, a willingness to learn and an interest in developing their skills across a broad range of business IT environments.</p><h2>What we offer</h2><ul><li><p>Full-time, permanent position</p></li><li><p>Monday to Friday, 8:30am to 5:00pm</p></li><li><p>Gold Coast-based office</p></li><li><p>Ongoing technical training and professional development</p></li><li><p>Exposure to a wide variety of technologies and client environments</p></li><li><p>Hands-on experience across Microsoft 365, cloud, networking, security and infrastructure</p></li><li><p>Support and mentoring from experienced engineers</p></li><li><p>Opportunities to gradually take ownership of more complex technical work</p></li><li><p>Exposure to project and onsite work as your experience develops</p></li><li><p>A genuine pathway into <strong>Level 2 IT Support and more senior technical roles</strong></p></li><li><p>A team environment where initiative, learning and personal development are encouraged</p></li></ul><h2>Requirements</h2><p>To be considered for this position, applicants must:</p><ul><li><p>Hold a current Australian driver's licence</p></li><li><p>Have strong written and spoken English communication skills</p></li><li><p>Be an Australian citizen or permanent resident with unrestricted working rights</p></li><li><p>Currently reside in Australia</p></li><li><p>Be available for occasional after-hours work if required</p></li><li><p>Be willing to undergo reference and background checks where required</p></li></ul><p>International applications will not be considered for this position.</p><h2>Ready to join Cursa?</h2><p>If you're passionate about technology, enjoy helping people and want an opportunity to <strong>develop your skills and build a long-term career in IT</strong>, we'd like to hear from you.</p><p>Please submit your <strong>current resume and a brief cover letter</strong> outlining your experience, interest in IT and why you'd like to join Cursa.</p><p>Please note that only applicants meeting the criteria outlined above will be contacted as part of the short-listing process.</p><p><strong>No recruitment agencies, please.</strong></p>",
+      "keywords": [
+        "it",
+        "support",
+        "engineer"
+      ]
+    },
     {
       "job_id": "95830427",
       "job_title": "Photocopier & POS Technician",
@@ -1217,24 +1244,6 @@
       ]
     },
     {
-      "job_id": "95492744",
-      "job_title": "Software Developer",
-      "business_name": "theBOSSapp",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "",
-      "area": "Ashmore, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95492744",
-      "advertiser_id": "63910196",
-      "posted_date": "2026-10-26T04:53:44Z",
-      "job_description": "<h2>About theBOSSapp</h2><p>theBOSSapp is Australian-built operations management software that takes the chaos out of running a business. Born inside PTG Group, one of Australia’s fastest growing engineering companies, it started as a solution to a real problem: managing crews, equipment, projects and compliance across the country without drowning in admin. That hands-on insight shaped a platform that keeps evolving with new technology and the changing needs of the businesses that use it, across a broad range of industries.</p><p>One platform, the whole business. theBOSSapp brings projects and tasks, equipment and resources, timesheets and payroll, invoicing, HR and training, quality improvement, marketing and more together in one place. Built in line with ISO 9001 quality management principles, it gives managers real-time visibility so they can make faster, smarter decisions with confidence.</p><p>This is a growing business, with the backing of an established group. You’ll join an innovative, creative and progressive team that challenges ideas, builds custom features and works side by side with customers to solve their unique problems. Your work won’t sit on a shelf; it will change how real businesses run every single day. If you’re ready to take the next exciting leap in your career, build something that really matters, have real input and grow with us, we want to hear from you.</p><p><br></p><h2>The role</h2><p>We’re looking for a Software Developer who builds with AI every day. You’ll design, build and ship features across theBOSSapp, from new modules to custom work for customers, with AI coding tools at the centre of how you work.</p><p>AI is a core part of how our team builds software. We use AI coding agents every day to plan, write, test and review code. We need developers who already work this way and have a solid grounding in software development to back it up. You’ll know how to get great results from AI tools and, just as important, when the output isn’t good enough.</p><h2>What you’ll do</h2><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Design, build, test and maintain features across web and mobile</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use AI coding tools and agents throughout your daily work, from planning and scaffolding to testing and refactoring</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Turn customer problems into clean, reliable, well-tested code</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Review code, whether written by AI or by people, with a sharp eye for quality, security and maintainability</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Share what works and help shape how the team builds with AI</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Troubleshoot and resolve issues in production</p><h2>What you’ll bring</h2><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Degree in computer science, software engineering or a related field, or equivalent experience</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1+ years of commercial software development experience</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hands-on experience using AI coding tools (e.g. Claude Code, Cursor, Copilot, Codex) in real development work</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Skills in PHP and Laravel, React and TypeScript, and MySQL (or a similar stack, and keen to learn ours)</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Solid software fundamentals: architecture, testing, debugging and writing maintainable code</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience building and consuming REST APIs</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Familiarity with AWS and Git</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The judgement to know when to trust AI output and when to dig in yourself</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Curious, practical and keen to keep up with how AI is changing software development</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clear communicator who enjoys working in a team</p><h2>Highly regarded</h2><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience giving AI agents larger, multi-step tasks, and setting up the context, rules and guardrails that make them work well</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience with SaaS or operations software</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mobile app development experience</p><p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience with Docker and CI/CD pipelines</p>",
-      "keywords": [
-        "software",
-        "developer"
-      ]
-    },
-    {
       "job_id": "95486965",
       "job_title": "IT Operations Manager",
       "business_name": "Experience Gold Coast",
@@ -1586,63 +1595,6 @@
       "keywords": [
         "soc",
         "analyst"
-      ]
-    },
-    {
-      "job_id": "95251045",
-      "job_title": "Software Quality Assurance Engineer",
-      "business_name": "Nexigen Digital",
-      "work_type": "Full time",
-      "job_type": "Testing & Quality Assurance",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95251045",
-      "advertiser_id": "25685289",
-      "posted_date": "2026-10-14T01:33:54Z",
-      "job_description": "<div><p><strong>About Nexigen Digital</strong></p><p><br>We are Australia’s largest privately-owned group of online service providers, which includes brands such as VentraIP, Synergy Wholesale and Intaserve.</p><p>Every day our all-Australian team delivers exceptional service and outstanding support to our 200,000+ customers who choose us for their domain names, website hosting and digital marketing.</p><p><br></p><p>Over the past fifteen years, we have been constant game-changers, industry innovators, award winners, and community leaders - and now is your chance to join our team.</p><p><br></p></div><br><div><p><br></p><h2><strong>The Position</strong></h2><p><br></p><p>As a Software Quality Assurance Engineer at Nexigen Digital, you will work with a close, agile team to deliver new projects and continuous improvements to our internal and customer facing systems. We're looking for someone who is passionate about software quality, proactive, goal oriented and posses excellent problem solving skills.</p><p>We know first hand that brilliant QA engineers come from a variety of backgrounds and experiences, in fact, much of our QA team started out on our own customer service help desk. We pride ourselves on maintaining a team culture that provides provides opportunities through collaboration, knowledge sharing and continuous learning and development, and as such are able to provide opportunities to a range of developers with different skillsets and experience.</p><p>An average day may include any or all of the following tasks:</p><ul><li>Throughly testing changes and new features added across our platforms</li><li>Creating detailed test plans and documentation to track outcomes</li><li>Liaise with developers and other stakeholders to have defects and quality issues corrected</li><li>Ensure that the final work product meets all the requirements of the feature's scope</li><li>Validate and verify that features and functions are working as intended</li><li>Educating software engineers on common defects and mentoring them in improving their own self-testing abilities</li></ul><h2><strong>The right person (is it you?)</strong></h2><ul><li>Has one to three years' experience working within the software development life cycle (we'll take personal &amp; self taught experience into consideration as well)</li><li>Is extremely detail oriented and can identify user experience problems</li><li>Has a good understanding of software development and programming</li><li>Is curiosity and can 'think outside the box' to determine niche edge cases</li><li>Can problem solve and assist in debugging complex issues</li><li>Has excellent written and verbal communication skills</li><li>Knows their way around a command line and has an understanding of Linux environments</li><li>Has an excellent understanding of relational databases (particularly MySQL), is confident writing SQL queries</li><li>Can create specific test scenarios through manual manipulation (such as editing DB values, making minor code edits, 'faking' dates, etc)</li><li>Has worked with RESTful APIs and SOAP Web Services</li></ul><h2><strong>Handy things to have (or are able to learn)</strong></h2><ul><li>Experience with QA Software such as SoapUI, Postman, BurpSuite, ZAP, Fiddler</li><li>Experience with project management tools such as Jira and Trello</li><li>Experience with PHP and React.JS development</li><li>Knowledge of the Domain Names and Web Hosting (cPanel, WHM, Plesk, etc) industry</li><li>Knowing your way around Git (including GitHub) and has a good understanding of version control</li></ul><p><br><br><br></p><h2><strong>The Benefits of Working With the Nexigen Digital Team</strong></h2><p><br>Aside from being awarded “Employer of Choice” in the Australian Business Awards, we are often referred to as the Google of south-east Melbourne thanks to our unique facilities and team culture, and a top-down mandate to take care of the people who take care of our customers.</p><p>Some of the office perks include:</p><ul><li>A weekly selection of delicious meals prepared in our on-site kitchen for breakfast and lunch.</li><li>A fully-stocked snack bar featuring an assortment of chips, chocolates, nuts, protein bars and fresh fruit.</li><li>A drink fridge loaded with an assortment of soft drinks, juices and water.</li><li>A fully equipped private gym with weekly on-site personal training sessions.</li><li>A team wellness centre with a sound-proof gaming stadium featuring an 85” 4K TV, racing car simulator, pinball machine, arcade machine, and air hockey table.</li><li>An on-site salon where our resident barber and stylist provide free haircuts on a regular basis.</li></ul><p>We actively encourage training and upskilling for personal development and will fund courses that have a beneficial impact on the business.</p><p>Please note that due to strict security requirements the successful applicant will be required to complete a National Police Check as a condition of employment.</p><p><br></p></div><br><br><p>PI<a href=\"tel:287667992\">287667992</a></p>",
-      "keywords": [
-        "software",
-        "quality",
-        "assurance",
-        "engineer"
-      ]
-    },
-    {
-      "job_id": "95231119",
-      "job_title": "Software Developer - Gold Coast",
-      "business_name": "SB Recruitment Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "Salary negotiable depending on experience",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95231119",
-      "advertiser_id": "25844743",
-      "posted_date": "2026-10-13T04:16:29Z",
-      "job_description": "<strong>The Company…..</strong><br> Our client is a highly regarded Australian business with an established market presence and a strong industry reputation. As they continue to invest in digital transformation, they are growing their close knit technology team and looking for an early career developer who wants to learn fast and build real solutions from day one.<br> You will be supported by experienced developers who care about helping you grow, while working on projects that matter to the business.<br> <br><strong>The Job…..</strong><br> As a Software Developer, you will work across a modern technology stack, contributing to new development and the ongoing evolution of core business systems. You will:<br> <ul> <li>Build and maintain full stack applications using React and modern backend technologies</li> <li>Help develop and support custom APIs, an in house CRM platform and new Point of Sale (POS) functionality</li> <li>Learn to build serverless, event driven solutions using Azure Functions and cloud native services</li> <li>Contribute to the development and improvement of CRM data structures</li> <li>Take on increasing ownership of projects and technical decisions as your skills grow</li> <li>Work closely with a small, friendly and highly engaged internal technology team, with regular code reviews and mentoring</li> </ul> <strong>You…..</strong><br> You do not need to tick every box. Our client is looking for strong foundations and a genuine passion for building software.<br><br>Essential:<br> <ul> <li>Up to 2 years’ commercial experience as a Full Stack or Backend Developer (graduates, internship and project experience will be considered)</li> <li>Solid JavaScript and TypeScript skills, with hands on React experience</li> <li>Working knowledge of Python</li> <li>Familiarity with Git and pull request workflows</li> <li>A curious, pragmatic mindset, good communication skills and a commitment to writing clean, maintainable code</li> <li>The ability to work in the Gold Coast office five days a week</li> </ul> Nice to have (on the job training available):<br> <ul> <li>Exposure to Azure Functions or equivalent AWS or GCP serverless services</li> <li>Awareness of OAuth2 and token based authentication, including MSAL or Microsoft Entra ID</li> <li>Azure DevOps experience</li> </ul> <strong>What’s On Offer…..</strong><br> <ul> <li>Mentoring and hands on guidance from experienced developers</li> <li>Genuine exposure to modern cloud and serverless technologies</li> <li>A clear path to more ownership and influence over technical direction</li> <li>A stable and growing Australian business investing in technology</li> <li>Long term career growth within a supportive team culture</li> </ul> <strong>How to apply….</strong><br> This position is based full time onsite at the company’s Gold Coast office. Please only apply if you are able to commit to working onsite five days per week.<br> To apply, click the Apply button or contact Jenny Quigley at SB Recruitment on <a href=\"tel:02 9002 5005\">02 9002 5005</a> for a confidential discussion.",
-      "keywords": [
-        "software",
-        "developer"
-      ]
-    },
-    {
-      "job_id": "95229260",
-      "job_title": "Software Services Engineer I",
-      "business_name": "Gilmour Space Technologies",
-      "work_type": "Full time",
-      "job_type": "Engineering - Software",
-      "pay_range": "Base Salary + Super",
-      "area": "Yatala, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95229260",
-      "advertiser_id": "43912085",
-      "posted_date": "2026-10-13T03:30:53Z",
-      "job_description": "<p><b>All Orbits, All Planets - Join us on our journey</b></p><p>Gilmour Space is the leading Australian rocket company, pioneering next-generation hybrid propulsion technologies for small satellite launch vehicles.</p><p>Are you a creative and experienced Software Services Engineer I looking for a dynamic role where your skills will make a real impact? Have you ever dreamt of building&nbsp;rockets right here in Australia? Well now’s your chance! Gilmour Space is seeking a talented individual to join our innovative team to send rockets to Space! Conveniently located between Brisbane and the Gold Coast, our new state-of-the-art facility, purpose-built for designing and manufacturing rockets in-house, is equipped with the latest technology and tools, providing an ideal environment for innovation and excellence. So, what are you waiting for? Join us and be a part of a forward-thinking team dedicated to pushing the boundaries of space exploration and let’s send Australia to Space together!</p><p><b>How you will contribute to our mission in getting Australia to space:</b></p><p>The below is designed to give you an idea of the role you will play. There will be many more exciting and innovative things to do:</p><ul> <li>Develop and maintain scalable web services that support the design and operation of launch vehicles and satellites.&nbsp;</li> <li>Collaborate as part of a team of software engineers to deliver software products and services.&nbsp;</li> <li>Participate in the development of software engineering designs, processes, and activities.&nbsp;</li> <li>Conduct technical assessments, including concept studies, trade studies, analysis of COTS solutions, and estimates for R&amp;D.&nbsp;</li> <li>Adhere to and participate in product development engineering processes, including requirements definition, preliminary and detailed design, review, procurement, assembly, integration, and verification/validation.&nbsp;</li> <li>Support software unit and integration testing, including potential travel to remote sites.&nbsp;</li> <li>Assist in investigations, troubleshooting, modifications, and repairs.&nbsp;</li> <li>Support R&amp;D activities.&nbsp;</li> <li>Contribute to software engineering production activities related to launch vehicles and satellite product lines.&nbsp;</li> <li>Coordinate with the Mechanical, Propulsion, and Manufacturing engineering departments as well as the Production organization.&nbsp;</li> <li>Ensure all engineering activities are conducted and documented according to Gilmour Space policies and procedures.&nbsp;</li> <li>Perform other duties as requested by management.&nbsp;</li></ul><div></div><p><b>Mandatory Qualifications, Skills and Experience:</b></p><ul> <li>Bachelor’s degree in software, Computer Science, or related field. Alternatively, demonstrated ability and experience equivalent to degree level is well regarded.&nbsp;</li> <li>Ability to operate in dynamic, fast-paced environments.&nbsp;</li> <li>Demonstrated resilience in high-stress situations.&nbsp;</li></ul><p><b>Desired Qualifications, Skills and Experience:</b></p><p><b>We&nbsp;recognise&nbsp;you may not meet all of the below, but don’t let that deter you. We are always looking for hard workers to join our team, so what are you waiting for? Let’s send Australia to space!</b></p><ul> <li>Familiarity with developing full-stack, production-quality applications.&nbsp;</li> <li>Experience with Golang, Python, JavaScript, TypeScript, C/C++.&nbsp;</li> <li>Familiarity with containerization, microservices, and virtual machines.&nbsp;</li> <li>Experience creating RESTful, gRPC and GraphQL APIs.&nbsp;</li> <li>Familiarity with relational, non-relational, and time-series databases.&nbsp;</li> <li>Experience using front-end development frameworks (Vue.js, React, etc.).&nbsp;</li> <li>Understanding web deployment infrastructure such as load balancing etc.&nbsp;</li> <li>Appreciation for message protocols such as MQTT.&nbsp;</li> <li>Familiarity with developing unit and integration tests.&nbsp;</li> <li>Experience with Git workflows.&nbsp;</li> <li>Experience conducting DevOps activities (managing infrastructure, developing CI/CD capabilities).&nbsp;</li> <li>Familiarity with Agile and/or Kanban management frameworks.&nbsp;</li> <li>Understanding of systems engineering practices.&nbsp;</li> <li>Ability to work in a high-paced, challenging work environment.&nbsp;</li> <li>Ability to work efficiently in a team environment with a desire to assist other team members in the day-to-day running of the department.&nbsp;</li></ul><p><b>How to Apply:</b></p><p><b>Applicants must be an Australian Citizen/Permanent Resident or have an appropriate Australian work visa or work entitlements.</b></p><p>If you are a proactive team player with a passion to get Australia to space and a desire to succeed, please apply now by clicking the apply button and including your resume and cover letter or head to our website: CAREER | Gilmour Space Technologies | Rocket launch provider (gspace.com).&nbsp;</p><p>Gilmour Space Technologies is proud to be an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all team members.&nbsp;We strongly encourage applications from Aboriginal and Torres Strait Islander peoples for all positions.</p><p><b>No Recruitment Agencies Please</b></p><p><b>&nbsp;</b></p>",
-      "keywords": [
-        "software",
-        "services",
-        "engineer"
       ]
     }
   ]
