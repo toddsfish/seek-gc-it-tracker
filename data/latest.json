@@ -1,466 +1,483 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "region": "Gold Coast",
-  "scraped_at": "2026-11-13T10:48:49.028227+10:00",
-  "total_jobs": 59,
+  "scraped_at": "2026-11-14T10:33:59.842527+10:00",
+  "total_jobs": 57,
   "keywords": [
+    {
+      "term": "it",
+      "count": 17,
+      "share": 0.2982
+    },
     {
       "term": "support",
       "count": 17,
-      "share": 0.2881
-    },
-    {
-      "term": "it",
-      "count": 16,
-      "share": 0.2712
+      "share": 0.2982
     },
     {
       "term": "engineer",
-      "count": 15,
-      "share": 0.2542
+      "count": 14,
+      "share": 0.2456
     },
     {
       "term": "officer",
-      "count": 5,
-      "share": 0.0847
+      "count": 6,
+      "share": 0.1053
     },
     {
       "term": "application",
       "count": 5,
-      "share": 0.0847
-    },
-    {
-      "term": "developer",
-      "count": 5,
-      "share": 0.0847
+      "share": 0.0877
     },
     {
       "term": "manager",
       "count": 5,
-      "share": 0.0847
+      "share": 0.0877
     },
     {
       "term": "business",
       "count": 4,
-      "share": 0.0678
+      "share": 0.0702
     },
     {
       "term": "systems",
       "count": 4,
-      "share": 0.0678
-    },
-    {
-      "term": "analyst",
-      "count": 4,
-      "share": 0.0678
+      "share": 0.0702
     },
     {
       "term": "technology",
       "count": 4,
-      "share": 0.0678
+      "share": 0.0702
+    },
+    {
+      "term": "developer",
+      "count": 4,
+      "share": 0.0702
     },
     {
       "term": "software",
       "count": 4,
-      "share": 0.0678
+      "share": 0.0702
     },
     {
       "term": "technician",
       "count": 4,
-      "share": 0.0678
+      "share": 0.0702
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.0678
+      "share": 0.0702
+    },
+    {
+      "term": "analyst",
+      "count": 3,
+      "share": 0.0526
     },
     {
       "term": "network",
       "count": 3,
-      "share": 0.0508
+      "share": 0.0526
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0508
+      "share": 0.0526
     },
     {
       "term": "technical",
       "count": 3,
-      "share": 0.0508
+      "share": 0.0526
     },
     {
       "term": "service",
       "count": 3,
-      "share": 0.0508
+      "share": 0.0526
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.0339
+      "share": 0.0351
     },
     {
       "term": "consultant",
       "count": 2,
-      "share": 0.0339
+      "share": 0.0351
     },
     {
       "term": "help",
       "count": 2,
-      "share": 0.0339
+      "share": 0.0351
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.0339
+      "share": 0.0351
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0339
+      "share": 0.0351
     },
     {
       "term": "specialist",
       "count": 2,
-      "share": 0.0339
+      "share": 0.0351
     },
     {
       "term": "ict",
       "count": 2,
-      "share": 0.0339
+      "share": 0.0351
     },
     {
       "term": "ongc",
       "count": 2,
-      "share": 0.0339
-    },
-    {
-      "term": "infrastructure",
-      "count": 2,
-      "share": 0.0339
+      "share": 0.0351
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0339
+      "share": 0.0351
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0339
+      "share": 0.0351
     },
     {
       "term": "designers",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "allres",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "manufacturing",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "ai",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "cybersecurity",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "managed",
       "count": 1,
-      "share": 0.0169
-    },
-    {
-      "term": "openmage",
-      "count": 1,
-      "share": 0.0169
-    },
-    {
-      "term": "magento",
-      "count": 1,
-      "share": 0.0169
-    },
-    {
-      "term": "stack",
-      "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "golang",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "react",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "javascript",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "data",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "photocopier",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "l2",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "sql",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "integrations",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "distribution",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "centre",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "marymount",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "waters",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
+    },
+    {
+      "term": "infrastructure",
+      "count": 1,
+      "share": 0.0175
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "platforms",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "owner",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0169
-    },
-    {
-      "term": "soc",
-      "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "scenic",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "rim",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "cx",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "telephony",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "contractor",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "voip",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "sip",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "sms",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "worker",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "its",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "website",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "growth",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "projects",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "umbraco",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     },
     {
       "term": "cms",
       "count": 1,
-      "share": 0.0169
+      "share": 0.0175
     }
   ],
   "jobs": [
+    {
+      "job_id": "95878281",
+      "job_title": "Senior Software Engineer",
+      "business_name": "Tradezone Pty Ltd",
+      "work_type": "Full time",
+      "job_type": "Engineering - Software",
+      "pay_range": "",
+      "area": "Helensvale, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95878281",
+      "advertiser_id": "46711243",
+      "posted_date": "2026-11-13T05:54:04Z",
+      "job_description": "<p><strong>About Us:</strong></p><p>Tradezone is one of Australia’s fastest-growing electrical wholesalers. Since launching in 2015, we’ve grown to operate six state-of-the-art distribution centres nationwide, supplying electrical, solar, HVAC, data and safety products to trade professionals across Australia - with further expansion on the horizon.</p><p>As part of the Kingston Group, a privately owned, family-run Australian business with more than 40 years of wholesale and distribution experience, Tradezone combines the scale and capability of a national operation with the culture and values of a close-knit team.</p><p>Technology and innovation are at the heart of what we do. From our real-time online platform and live-stock visibility, to our dedicated national delivery fleet with live tracking, we’re continually investing in smarter, more efficient ways to serve our customers and support our continued growth.</p><p><strong>About the Role:</strong></p><p>Technology drives our business forward, and we’re proud to have our own creative and practical in-house IT and technology teams. We’re seeking a Senior Software Engineer who wants to make a real impact.</p><p>You’ll help design, build and evolve the technology behind our growing national operations, from our real-time online platform and live stock visibility to the systems supporting our distribution centers, offices and customer experience.</p><p>If you enjoy solving meaningful problems and seeing the real-world impact of your work, we’d like to hear from you.</p><p><strong>Your Responsibilities</strong></p><ul><li><p>Design, develop and maintain scalable applications, APIs and integrations.</p></li><li><p>Contribute to software architecture, technical decisions and engineering best practices.</p></li><li><p>Write clean, maintainable and well-tested code.</p></li><li><p>AutoStore / WMS &amp; Robotics Integrations — integrating warehouse management systems with AutoStore or other robotic automation platforms to support inventory, order fulfilment and warehouse operations.</p></li><li><p>Optimise databases, troubleshoot complex issues and improve system performance.</p></li><li><p>Deploy and support production applications, including ongoing maintenance and upgrades.</p></li><li><p>Work with teams across the business to turn operational requirements into practical solutions.</p></li></ul><p><strong>What You’ll Bring</strong></p><p>Good communication skills and the ability to take direction and respond positively to this.</p><p>Substantial hands-on experience building and maintaining production systems, with strong skills in:</p><ul><li><p>Typescript, JavaScript, React, Node.js and Next.js.</p></li><li><p>Python &amp; Flask - Including maintaining and improving legacy applications</p></li><li><p>backend development, APIs, integrations, automation and database access.</p></li><li><p>PostgreSQL and MySQL, with strong understanding of data integrity and migrations.</p></li><li><p>Docker &amp; Dokploy - containerisation, Docker Compose, networking, persistent storage, deployment and application management.</p></li><li><p>APIs, background workers, queues, retries and integration troubleshooting.</p></li><li><p>Testing, debugging and safe deployment of production changes.</p></li><li><p>Ability to understand business workflows and communicate with users.</p></li><li><p>Linux / Debian - deploying, supporting and troubleshooting applications in Debian-based production environments.</p></li><li><p>Nginx &amp; uWSGI - reverse proxying, TLS and Python application serving where required.</p></li><li><p>ElectricSQL / Electric - synchronising PostgreSQL data with client applications.</p></li><li><p>Experience with Warehouse, inventory, logistics or ERP systems; Linux and Docker; barcode scanners and offline-capable applications; AI integrations is highly regarded</p></li></ul><p>You take ownership of your work, communicate clearly and bring a proactive, practical approach to solving problems. You’re comfortable collaborating with technical colleagues and stakeholders across the business.</p><p><strong>Why Tradezone?</strong></p><p>Join a fast-growing Australian business where technology isn’t just part of what we do – it drives us forward.</p><p>With expansive B2B and B2C platforms, complex engineering challenges and ambitious growth plans, you’ll have the opportunity to shape technical solutions, influence how we build and scale, and turn big ideas into real-world impact.</p><p>Work alongside smart, creative people who challenge convention, solve meaningful problems and are always looking for better ways to do things.</p><p>Big ideas. Smart tech. Real impact. If you’re ready to take ownership, push boundaries and help shape what’s next at Tradezone, we’d love to hear from you.</p>",
+      "keywords": [
+        "software",
+        "engineer"
+      ]
+    },
+    {
+      "job_id": "95871609",
+      "job_title": "IT Support Officer",
+      "business_name": "The Southport School",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95871609",
+      "advertiser_id": "20423900",
+      "posted_date": "2026-11-13T02:11:13Z",
+      "job_description": "<p><b>Permanent Full-Time Term-Time&nbsp; | Hours: 8.00am – 4.00pm</b></p><p>The Southport School (TSS) is one of Queensland’s oldest schools: an Anglican day and boarding school for boys on the Gold Coast’s beautiful Nerang River. We blend tradition with innovation, and our community is built on teamwork, scholarship and service.</p><p>We are looking for a capable, service-minded IT Support Officer to join our expanding Corporate IT Team commencing 4 January 2027 for training ahead of our school term commencing. Help keep our students, boarders and staff connected and confident with technology.&nbsp;</p><p><b>About the role</b></p><p>Reporting to the Chief Information Officer, you will be joining the IT Support Team as one of our first points of contact for technology support across our two campuses, troubleshooting day-to-day issues, escalating where needed and following up to make sure problems are resolved. You will:</p><ul> <li>Provide prompt, friendly first-level support to students, staff and boarding residents, including connecting personal devices to the school network and responding quickly to classroom technology emergencies</li> <li>Assist with provisioning, imaging and deploying student and staff devices, and with onboarding, account creation and network logins</li> <li>Diagnose and repair end-user hardware, or manage warranty and RMA processes with external vendors</li> <li>Maintain the asset register, device history records and software licence records</li> <li>Install, set up, test and maintain audiovisual equipment, supporting weekly events and key school events, including some outside regular hours</li></ul><p><b>About You</b></p><p>Relevant experience or broad knowledge in related technical fields, including troubleshooting Windows, macOS and Linux, Active Directory or Azure AD, networking fundamentals, and Microsoft 365 support. A calm, patient communicator who can turn technical jargon into simple steps and reassure users under pressure.</p><ul> <li>Self-motivated, able to work unsupervised, and comfortable in a fast-paced, changing environment</li> <li>A Bachelor’s degree or industry certifications (desirable)</li> <li>A current driver’s licence and vehicle for travel between campuses (located across the road from each other in Southport)</li> <li>A current Paid Blue Card (Working with Children Check) obtained prior to commencement &nbsp;and recent Criminal History Check Certificate.</li></ul><p><b>What we offer</b></p><ul> <li>Permanent, full-time term-time employment in a supportive, close-knit school community</li> <li>Spend school holidays with your family and friends</li> <li>Onsite parking</li> <li>Access to our gym and pool</li> <li>Discounts at The Thirty Two Dental Studio</li></ul><p><b>Child safety</b></p><p>TSS is an Anglican child safe organisation committed to promoting the safety, wellbeing and best interests of children. All appointments are subject to a satisfactory Paid Blue Card and criminal history check, and successful applicants will be required to understand and uphold our child safety obligations.</p><p><b>How to apply</b></p><p>Apply online via the TSS careers page. Applications should include a cover letter addressed to the Chief Information Officer and resume.</p><p>Applications close at<b> 8.00am on Monday 23 November 2026.</b></p>",
+      "keywords": [
+        "it",
+        "support",
+        "officer"
+      ]
+    },
     {
       "job_id": "95852003",
       "job_title": "Solution Designers",
@@ -1031,25 +1048,6 @@
       ]
     },
     {
-      "job_id": "95602620",
-      "job_title": "Infrastructure Support Engineer",
-      "business_name": "CFC Underwriting Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Networks & Systems Administration",
-      "pay_range": "",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95602620",
-      "advertiser_id": "39105336",
-      "posted_date": "2026-10-30T06:11:35Z",
-      "job_description": "<strong>Description</strong><div>\n<strong><em>Are you a hands-on IT support professional who enjoys solving technical problems and delivering exceptional customer service?</em></strong>&nbsp;<br><br>\n</div><div>\n<em>We’re looking for a proactive and technically capable EUT Services &amp; Infrastructure Support Engineer to become the primary IT contact for our Gold Coast office and support colleagues across CFC Australia and Global Security Services (GSS).<br><br></em><strong>About the role:</strong>&nbsp;</div><div>This is an opportunity to take ownership of onsite technology support within our Gold Coast office while contributing to CFC’s global EUT operating model.&nbsp;<br><br>\n</div><div>You’ll work across Microsoft 365, identity and access management, endpoint technologies, networking, meeting room technology and office infrastructure. You’ll collaborate with experienced global teams while helping to improve the technology experience for colleagues across Australia.&nbsp;<br><br>\n</div><div>&nbsp;<br><strong>Why Join Us?</strong>&nbsp;<br>Working with CFC means joining a market‑leading, innovative underwriting team that values excellence, development, and collaboration. You’ll have access to meaningful professional growth opportunities, exposure to diverse risks and brokers, and the chance to strengthen your industry presence through events and networking. &nbsp;<br><br>\n</div><div>Our culture emphasises continuous improvement, teamwork, and a supportive environment that empowers you to succeed and progress in your underwriting career.&nbsp;<br><br>\n</div><div>\n<em><br></em><br>\n</div><br><br><strong>Responsibilities Include:</strong><ul>\n<li>Providing onsite, walk-up and remote IT support across CFC Australia and GSS&nbsp;</li>\n<li>Managing incidents and service requests through to resolution&nbsp;</li>\n<li>Supporting employee onboarding, offboarding, account administration and device deployment&nbsp;</li>\n<li>Administering Microsoft 365, Entra ID, MFA and endpoint technologies&nbsp;</li>\n<li>Troubleshooting devices, applications, networks, VPNs and meeting room technology&nbsp;</li>\n<li>Supporting local infrastructure and escalating complex issues to global teams&nbsp;</li>\n<li>Maintaining IT assets, documentation and operational procedures&nbsp;</li>\n<li>Supporting technology projects, change activities and service improvements&nbsp;</li>\n</ul><br><br><strong>About You:</strong><ul>\n<li>Experience in desktop support, End User Technology, infrastructure support or a similar role&nbsp;</li>\n<li>Hands-on experience with Microsoft 365, Entra ID and endpoint technologies&nbsp;</li>\n<li>Strong troubleshooting skills across Windows, macOS, Teams and networking&nbsp;</li>\n<li>Knowledge of Cisco, Meraki, Cato or similar technologies&nbsp;</li>\n<li>Experience working within ITIL-based service management processes&nbsp;</li>\n<li>Strong customer service, communication and problem-solving skills&nbsp;</li>\n<li>Ability to work independently while collaborating with global teams</li>\n</ul><br><br><strong>Why you'll love working at CFC:</strong><div>We are proud winners of Top Insurance Employers 2022, 2023 and 2024 and 5-Star Diversity, Equity &amp; Inclusion awards (Insurance Business Australia). All employees enjoy:&nbsp;</div><ul>\n<li>Our ‘Excellence Program’ encourages and rewards a culture of high-performing individuals and teams&nbsp;</li>\n<li>‘You Do You Day’ – an annual additional leave today to do something that brings you joy&nbsp;</li>\n<li>Commitment-free social club, with monthly in-office catch ups and quarterly events to get to know your colleagues better&nbsp;</li>\n<li>Annual end of financial year and end of calendar year events, in addition to social club arrangements&nbsp;</li>\n<li>Optional annual charity volunteering day, facilitated by us&nbsp;</li>\n<li>3 additional personal leave days per year – for whatever you need&nbsp;</li>\n<li>Flexible public holidays – to celebrate our diversity you can “Swap” 2 public holidays for a more culturally significant day to suit you&nbsp;</li>\n</ul><div><br></div><div>Applications will only be considered where you clearly explain in an application letter why you are a match for this role.  You must also include your resume.&nbsp;<br>&nbsp;</div><div>Applicants must be an Australian Citizen or Permanent Resident to apply for this role.&nbsp;<br>&nbsp;</div><div>Only shortlisted candidates will be contacted.&nbsp;</div>",
-      "keywords": [
-        "infrastructure",
-        "support",
-        "engineer"
-      ]
-    },
-    {
       "job_id": "95589117",
       "job_title": "IT Business Partner",
       "business_name": "Neumann Steel",
@@ -1279,24 +1277,6 @@
         "house",
         "web",
         "developer"
-      ]
-    },
-    {
-      "job_id": "95472363",
-      "job_title": "Senior Software Engineer",
-      "business_name": "Tradezone Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Engineering - Software",
-      "pay_range": "",
-      "area": "Helensvale, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95472363",
-      "advertiser_id": "46711243",
-      "posted_date": "2026-10-23T22:41:02Z",
-      "job_description": "<p><strong>About Us:</strong></p><p>Tradezone is one of Australia’s fastest-growing electrical wholesalers. Since launching in 2015, we’ve grown to operate six state-of-the-art distribution centres nationwide, supplying electrical, solar, HVAC, data and safety products to trade professionals across Australia - with further expansion on the horizon.</p><p>As part of the Kingston Group, a privately owned, family-run Australian business with more than 40 years of wholesale and distribution experience, Tradezone combines the scale and capability of a national operation with the culture and values of a close-knit team.</p><p>Technology and innovation are at the heart of what we do. From our real-time online platform and live-stock visibility, to our dedicated national delivery fleet with live tracking, we’re continually investing in smarter, more efficient ways to serve our customers and support our continued growth.</p><p><br></p><p><strong>About the Role:</strong></p><p>Technology drives our business forward, and we’re proud to have our own creative and practical in-house IT and technology teams. We’re seeking a Senior Software Engineer who wants to make a real impact.</p><p>You’ll help design, build and evolve the technology behind our growing national operations, from our real-time online platform and live stock visibility to the systems supporting our distribution centres, offices and customer experience.</p><p>If you enjoy solving meaningful problems and seeing the real-world impact of your work, we’d like to hear from you.</p><p><br></p><p><strong>Your Responsibilities</strong></p><ul><li><p>Design, develop and maintain scalable applications, APIs and integrations.</p></li><li><p>Contribute to software architecture, technical decisions and engineering best practices.</p></li><li><p>Write clean, maintainable and well-tested code.</p></li><li><p>AutoStore / WMS &amp; Robotics Integrations — integrating warehouse management systems with AutoStore or other robotic automation platforms to support inventory, order fulfilment and warehouse operations.</p></li><li><p>Optimise databases, troubleshoot complex issues and improve system performance.</p></li><li><p>Deploy and support production applications, including ongoing maintenance and upgrades.</p></li><li><p>Work with teams across the business to turn operational requirements into practical solutions.</p></li></ul><p><br></p><p><strong>What You’ll Bring</strong></p><p>Substantial hands on experience building and maintaining production systems, with strong skills in:</p><ul><li><p>Python &amp; Next.JS - backend development, APIs, integrations, automation and database access.</p></li><li><p>PostgreSQL - database design, SQL, indexing and query optimisation.</p></li><li><p>Docker &amp; Dokploy - containerisation, Docker Compose, networking, persistent storage, deployment and application management.</p></li><li><p>Linux / Debian - deploying, supporting and troubleshooting applications in Debian-based production environments.</p></li><li><p>Experience with the following would also be highly regarded:</p></li><li><p>TimescaleDB – time series data management within PostgreSQL.</p></li><li><p>MongoDB - document modelling, querying, indexing and aggregation.</p></li><li><p>Redis - caching, session management and performance optimisation.</p></li><li><p>Nginx &amp; uWSGI - reverse proxying, TLS and Python application serving where required.</p></li><li><p>ElectricSQL / Electric - synchronising PostgreSQL data with client applications.</p></li></ul><p>You take ownership of your work, communicate clearly and bring a proactive, practical approach to solving problems. You’re comfortable collaborating with technical colleagues and stakeholders across the business.</p><p><br></p><p><strong>Why Tradezone?</strong></p><p>Join a fast-growing Australian business where technology isn’t just part of what we do – it drives us forward.</p><p>With expansive B2B and B2C platforms, complex engineering challenges and ambitious growth plans, you’ll have the opportunity to shape technical solutions, influence how we build and scale, and turn big ideas into real-world impact.</p><p>Work alongside smart, creative people who challenge convention, solve meaningful problems and are always looking for better ways to do things.</p><p>Big ideas. Smart tech. Real impact. If you’re ready to take ownership, push boundaries and help shape what’s next at Tradezone, we’d love to hear from you.</p>",
-      "keywords": [
-        "software",
-        "engineer"
       ]
     },
     {
@@ -1540,26 +1520,6 @@
       ]
     },
     {
-      "job_id": "95281959",
-      "job_title": "OpenMage/Magento Full-Stack Developer",
-      "business_name": "Tradezone Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "",
-      "area": "Helensvale, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95281959",
-      "advertiser_id": "46711243",
-      "posted_date": "2026-10-15T03:21:15Z",
-      "job_description": "<p><strong>About Us</strong></p><p>Tradezone is the fastest-growing electrical wholesaler in Australia. We launched in 2015 and now operate six state-of-the-art distribution centres across Australia — supplying electrical, solar, HVAC, data and safety products to trade professionals nationwide, with more sites to come.</p><p>We are a division of the Kingston Group, a private, family-owned Australian company that has been wholesaling and distributing for over 40 years. We combine the strength of a national business with the culture of a close-knit team, and pride ourselves on being at the forefront of technology and innovation — from our real-time online platform and live stock visibility to our own national delivery fleet with live delivery tracking.</p><p><br></p><p><strong>About the Role</strong></p><p>We're looking for an experienced <strong>OpenMage LTS / Magento Developer</strong> to join our team on the Gold Coast.</p><p>This is an exciting opportunity to take ownership of key development projects while maintaining and improving the platforms that support our growing organisation.</p><p>You'll work across both frontend and backend development, supporting our B2B and B2C websites and collaborating with teams across the business. You'll have exposure to a diverse range of technologies, challenging projects and plenty of opportunity to make an impact.</p><p><br><strong>What We Offer</strong></p><ul><li><p><strong>Permanent full-time role</strong> with genuine career progression</p></li><li><p><strong>Work with cutting-edge technology</strong> across expansive B2B and B2C platforms</p></li><li><p><strong>Interesting and challenging projects</strong> in a rapidly growing business</p></li><li><p><strong>Collaborative team environment</strong> with talented people around you</p></li><li><p><strong>Opportunity to take ownership</strong> and make a real impact on our technology platforms</p></li></ul><p><br><strong>What You'll Be Doing</strong></p><ul><li><p>Maintain, develop and improve existing software solutions, primarily <strong>OpenMage LTS / Magento</strong></p></li><li><p>Design, implement and support frontend and backend website features</p></li><li><p>Build and maintain Magento extensions</p></li><li><p>Extend and customise core Magento functionality</p></li><li><p>Work with Magento models and themes</p></li><li><p>Integrate systems and businesses using internal and external APIs</p></li><li><p>Support technology solutions across different areas of the business</p></li><li><p>Contribute to ongoing development and improvement of our B2B and B2C platforms</p></li></ul><p><br><strong>About You</strong></p><ul><li><p>Demonstrated experience with <strong>Magento backend development</strong></p></li><li><p>Strong experience building and maintaining Magento extensions</p></li><li><p>Experience extending and customising core Magento functionality</p></li><li><p>Solid understanding of Magento models</p></li><li><p>Experience integrating systems through APIs</p></li><li><p>Experience with <strong>Zend Framework</strong></p></li><li><p>Experience customising Magento themes</p></li><li><p><strong>MySQL experience</strong> is advantageous</p></li><li><p>A proactive, solutions-focused approach and the ability to work collaboratively across the business</p></li></ul><p><br><strong>Why Tradezone?</strong></p><p>You'll be joining a rapidly growing organisation where technology plays a critical role in how we operate.</p><p>With expansive B2B and B2C platforms, challenging projects, fast-paced delivery and continued investment in technology, you'll have the opportunity to build on your skills and make a genuine impact. If you're passionate about software development and looking for an opportunity to grow with an expanding Australian business, <strong>we'd love to hear from you!</strong></p><p><em>Please ensure your resume is updated with your most recent work history. Only shortlisted candidates will be contacted. No agencies please.</em></p>",
-      "keywords": [
-        "openmage",
-        "magento",
-        "stack",
-        "developer"
-      ]
-    },
-    {
       "job_id": "95530679",
       "job_title": "IT Service Desk Analyst",
       "business_name": "Stratco",
@@ -1576,24 +1536,6 @@
         "it",
         "service",
         "desk",
-        "analyst"
-      ]
-    },
-    {
-      "job_id": "95253771",
-      "job_title": "Senior SOC Analyst",
-      "business_name": "Eagna Consulting",
-      "work_type": "Full time",
-      "job_type": "Security",
-      "pay_range": "Up to $120k depending on experience",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95253771",
-      "advertiser_id": "29614561",
-      "posted_date": "2026-10-14T02:41:37Z",
-      "job_description": "Join an national MSSP running 24/7 SOC, detection engineering and incident response, plus its own in-house product. They’re currently hiring a Senior SOC Analyst ready to own incidents from day one.<br> <br><strong>The role</strong><br> You’ll lead escalated incidents end to end, build and tune detections, mentor L1/L2 analysts and support Essential Eight work for clients. You’ll report to the Security Operations Manager on a 4-week rotating roster, including nights and weekends.<br><strong><br></strong><strong>You’ll bring</strong><br> <ul> <li>Experience working in a SOC</li> <li>Strong Microsoft tech stack and Active Directory experience, including attack and defence</li> <li>Clear written communication for technical and executive audiences</li> <li>Defender, Endpoint, PowerShell/Python, MSSP background and certs highly regarded</li> </ul> <strong>On offer</strong><br> <ul> <li>Allowance plus shift loading for nights</li> <li>Laptop and phone provided, hybrid working</li> <li>Real input into detection strategy, with a path into dark web work</li> <li>Single-round interview, flexible start</li> </ul> If you are interested in this fantastic opportunity do not hesitate to apply by clicking on the link below.",
-      "keywords": [
-        "soc",
         "analyst"
       ]
     }
