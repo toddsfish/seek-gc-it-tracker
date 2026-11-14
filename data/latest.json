@@ -1,446 +1,469 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "region": "Gold Coast",
-  "scraped_at": "2026-11-14T10:33:59.842527+10:00",
-  "total_jobs": 57,
+  "scraped_at": "2026-11-15T09:30:54.198218+10:00",
+  "total_jobs": 58,
   "keywords": [
     {
       "term": "it",
       "count": 17,
-      "share": 0.2982
+      "share": 0.2931
     },
     {
       "term": "support",
       "count": 17,
-      "share": 0.2982
+      "share": 0.2931
     },
     {
       "term": "engineer",
       "count": 14,
-      "share": 0.2456
+      "share": 0.2414
     },
     {
       "term": "officer",
       "count": 6,
-      "share": 0.1053
+      "share": 0.1034
     },
     {
       "term": "application",
       "count": 5,
-      "share": 0.0877
+      "share": 0.0862
     },
     {
       "term": "manager",
       "count": 5,
-      "share": 0.0877
+      "share": 0.0862
     },
     {
       "term": "business",
       "count": 4,
-      "share": 0.0702
+      "share": 0.069
     },
     {
       "term": "systems",
       "count": 4,
-      "share": 0.0702
+      "share": 0.069
     },
     {
       "term": "technology",
       "count": 4,
-      "share": 0.0702
+      "share": 0.069
     },
     {
       "term": "developer",
       "count": 4,
-      "share": 0.0702
+      "share": 0.069
     },
     {
       "term": "software",
       "count": 4,
-      "share": 0.0702
+      "share": 0.069
     },
     {
       "term": "technician",
       "count": 4,
-      "share": 0.0702
+      "share": 0.069
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.0702
+      "share": 0.069
     },
     {
       "term": "analyst",
       "count": 3,
-      "share": 0.0526
+      "share": 0.0517
     },
     {
       "term": "network",
       "count": 3,
-      "share": 0.0526
+      "share": 0.0517
     },
     {
       "term": "administrator",
       "count": 3,
-      "share": 0.0526
+      "share": 0.0517
     },
     {
       "term": "technical",
       "count": 3,
-      "share": 0.0526
+      "share": 0.0517
     },
     {
       "term": "service",
       "count": 3,
-      "share": 0.0526
+      "share": 0.0517
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0345
     },
     {
       "term": "consultant",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0345
     },
     {
       "term": "help",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0345
     },
     {
       "term": "telecommunications",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0345
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0345
+    },
+    {
+      "term": "coordinator",
+      "count": 2,
+      "share": 0.0345
     },
     {
       "term": "specialist",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0345
     },
     {
       "term": "ict",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0345
     },
     {
       "term": "ongc",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0345
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0345
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0351
+      "share": 0.0345
     },
     {
       "term": "designers",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "allres",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "manufacturing",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "ai",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "cybersecurity",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "managed",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "golang",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "react",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "javascript",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "data",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "photocopier",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "l2",
       "count": 1,
-      "share": 0.0175
-    },
-    {
-      "term": "coordinator",
-      "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "sql",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "integrations",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "distribution",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "centre",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "marymount",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "waters",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "infrastructure",
       "count": 1,
-      "share": 0.0175
-    },
-    {
-      "term": "platform",
-      "count": 1,
-      "share": 0.0175
-    },
-    {
-      "term": "platforms",
-      "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "applications",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
+    },
+    {
+      "term": "platform",
+      "count": 1,
+      "share": 0.0172
+    },
+    {
+      "term": "platforms",
+      "count": 1,
+      "share": 0.0172
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "owner",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
+    },
+    {
+      "term": "pmo",
+      "count": 1,
+      "share": 0.0172
     },
     {
       "term": "digital",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "scenic",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "rim",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "cx",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "telephony",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "contractor",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "voip",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "sip",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "sms",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "worker",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "its",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "website",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "growth",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "projects",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "umbraco",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     },
     {
       "term": "cms",
       "count": 1,
-      "share": 0.0175
+      "share": 0.0172
     }
   ],
   "jobs": [
+    {
+      "job_id": "95893429",
+      "job_title": "PMO Coordinator",
+      "business_name": "Feros Care",
+      "work_type": "Contract/Temp",
+      "job_type": "Programme & Project Management",
+      "pay_range": "Super + NFP Salary packaging",
+      "area": "Coolangatta, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95893429",
+      "advertiser_id": "26252854",
+      "posted_date": "2026-11-14T09:18:37Z",
+      "job_description": "<p><strong>PMO Coordinator<br> We're Feros Care, and we're pleased to meet you.<br> And what we care most about is helping people live healthier, happier, better-connected lives.<br></strong><br> Since 1990, we've been making it happen, both for older Australians and people with disability. We are proud to be Game Changers. Dream Makers. Kindness Champions. Culture Shapers. Vibrant Creators. And it's not just us who thinks so; We've won many awards on the local and international stage for our approach.<br> <br> We're seeking a proactive and experienced PMO Coordinator to support an exciting transformation program of work on a<strong> 12 month fixed term contract</strong> with the possibility of extension, based in our Coolangatta office with flexible hybrid working arrangements.<br> <br> <strong>Help drive meaningful change and keep our transformation program moving forward.</strong><br> <br> You will work closely with Project Managers and stakeholders playing an important role in governing multiple projects ensuring they stay on track and reporting to the Program Manager.<br> <br> Whether you're an experienced Project or a PMO Coordinator looking to take the next step in project management, you'll join a supportive team where you'll have the opportunity to build your capability and achieve meaningful outcomes.<br> <br> <strong>What you'll do</strong></p><ul><li>Coordinate PMO governance reporting and documentation across multiple projects and<br> workstreams, including dashboard, status reports and executives.</li><li>Support Project Managers with planning, scheduling, milestone tracking and dependency<br> management.</li><li>Monitor project progress, budgets and resource utilisation, identifying variances and<br> escalating potential risks or issues.</li><li>Monitor and maintain project registers, including risks, issues, actions, decision, and<br> resources ensuring information is accurate and up to date.</li><li>Coordinate project meetings, workshops and governance forums, including creating<br> agendas, meeting minutes and actions.</li><li>Build strong relationships with stakeholders, technology teams supporting effective<br> communication and collaboration.</li><li>Assist with project change control and communication.</li><li>Identify continuous improvement opportunities.</li></ul><p><strong>What you'll bring</strong></p><ul><li>2 - 5 years' experience in a PMO Coordinator, Project Coordinator or similar role, ideally<br> supporting a large organisation or digital technology transformations</li><li>An understanding of project governance, project management methodologies and the<br> project lifecycle.</li><li>Experience maintaining project schedules, registers, reporting and governance<br> documentation.</li><li>Advanced Microsoft Office skills, particularly Excel, SharePoint, PowerPoint and Word.</li><li>Excellent written and verbally communication skills, with the ability to build relationships<br> and work collaboratively with stakeholders.</li><li>A proactive, solutions focused approach, with the ability to manage competing priorities and<br> work independently.</li><li>Familiarity with PRINCE2, PMBOK or Agile methodologies, will be highly regarded.</li><li>Experience in Aged Care, Community Services or the Not for Profit sectors, will be highly<br> regarded.</li></ul><p><strong>Qualifications &amp; Checks</strong></p><ul><li>Qualification in Project Management, or working towards one (desirable).</li><li>Current unrestricted Australian Driver's Licence (desirable).</li><li>Undergo a Nationally Coordinated Criminal History Check.</li><li>Valid Australian working rights.</li></ul><p><strong>Why Feros Care?</strong><br> At Feros Care, we value our people and offer:</p><ul><li>Not for Profit Salary Packaging of up to $15,900 per annum, and meal and entertainment<br> salary sacrifice of up to $2,650 per annum, all tax free, stretching your income further.</li><li>Flexible Working Arrangements, including a hybrid model with a combination of working<br> from our Coolangatta office and the flexibility to work remotely.</li><li>17.5% Annual Leave loading.</li><li>Cultural Leave Days for eligible employees.</li><li>Enjoy exclusive discounts, financial tips, and wellness programs through our ForME<br> employee benefits platform.</li><li>Private Health Insurance Discount with Medibank.</li><li>Employee Assistance Program (EAP).</li><li>Paid Parental Leave (9 weeks) for eligible employees.</li><li>Access to Fitness Passport - discounted gym and pool memberships for you and your family.</li><li>$200 referral bonus per successful referral.</li></ul><p>We actively seek to include, welcome and value the unique contributions of all people. We encourage applications from Aboriginal and Torres Strait Islander people, people from cultural and linguistically diverse backgrounds, and people with disability.<br><br> If you would like to discuss accessibility requirements, preferred communication methods or other possibilities, please contact <a href=\"mailto:talentacquisition@feroscare.com.au\">talentacquisition@feroscare.com.au</a></p>",
+      "keywords": [
+        "pmo",
+        "coordinator"
+      ]
+    },
     {
       "job_id": "95878281",
       "job_title": "Senior Software Engineer",
