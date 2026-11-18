@@ -1,451 +1,569 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "region": "Gold Coast",
-  "scraped_at": "2026-11-17T12:42:34.074720+10:00",
-  "total_jobs": 53,
+  "scraped_at": "2026-11-18T11:58:32.768247+10:00",
+  "total_jobs": 58,
   "keywords": [
     {
       "term": "it",
       "count": 16,
-      "share": 0.3019
+      "share": 0.2759
     },
     {
       "term": "support",
       "count": 15,
-      "share": 0.283
+      "share": 0.2586
     },
     {
       "term": "engineer",
       "count": 13,
-      "share": 0.2453
+      "share": 0.2241
+    },
+    {
+      "term": "systems",
+      "count": 6,
+      "share": 0.1034
     },
     {
       "term": "officer",
-      "count": 5,
-      "share": 0.0943
+      "count": 6,
+      "share": 0.1034
     },
     {
       "term": "developer",
       "count": 5,
-      "share": 0.0943
+      "share": 0.0862
     },
     {
       "term": "application",
       "count": 5,
-      "share": 0.0943
+      "share": 0.0862
     },
     {
-      "term": "systems",
+      "term": "technician",
+      "count": 5,
+      "share": 0.0862
+    },
+    {
+      "term": "analyst",
       "count": 4,
-      "share": 0.0755
+      "share": 0.069
     },
     {
       "term": "technology",
       "count": 4,
-      "share": 0.0755
-    },
-    {
-      "term": "technician",
-      "count": 4,
-      "share": 0.0755
+      "share": 0.069
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.0755
+      "share": 0.069
     },
     {
       "term": "manager",
       "count": 4,
-      "share": 0.0755
+      "share": 0.069
     },
     {
       "term": "business",
       "count": 3,
-      "share": 0.0566
+      "share": 0.0517
     },
     {
       "term": "network",
       "count": 3,
-      "share": 0.0566
+      "share": 0.0517
     },
     {
       "term": "software",
       "count": 3,
-      "share": 0.0566
+      "share": 0.0517
     },
     {
       "term": "technical",
       "count": 3,
-      "share": 0.0566
+      "share": 0.0517
     },
     {
       "term": "service",
       "count": 3,
-      "share": 0.0566
+      "share": 0.0517
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0345
     },
     {
       "term": "consultant",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0345
+    },
+    {
+      "term": "data",
+      "count": 2,
+      "share": 0.0345
     },
     {
       "term": "administrator",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0345
     },
     {
       "term": "help",
       "count": 2,
-      "share": 0.0377
-    },
-    {
-      "term": "specialist",
-      "count": 2,
-      "share": 0.0377
+      "share": 0.0345
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0345
     },
     {
       "term": "coordinator",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0345
     },
     {
-      "term": "analyst",
+      "term": "specialist",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0345
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0345
+    },
+    {
+      "term": "digital",
+      "count": 2,
+      "share": 0.0345
     },
     {
       "term": "web",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0345
     },
     {
       "term": "designers",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "allres",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "manufacturing",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "ai",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "cybersecurity",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "managed",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "golang",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "computer",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "react",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "javascript",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
-      "term": "data",
+      "term": "engineering",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "photocopier",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "telecommunications",
       "count": 1,
-      "share": 0.0189
-    },
-    {
-      "term": "sql",
-      "count": 1,
-      "share": 0.0189
-    },
-    {
-      "term": "integrations",
-      "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "l2",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
+    },
+    {
+      "term": "sql",
+      "count": 1,
+      "share": 0.0172
+    },
+    {
+      "term": "integrations",
+      "count": 1,
+      "share": 0.0172
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "distribution",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "centre",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "marymount",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "waters",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "infrastructure",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "platforms",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "owner",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "pmo",
       "count": 1,
-      "share": 0.0189
-    },
-    {
-      "term": "digital",
-      "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "scenic",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "rim",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
+    },
+    {
+      "term": "fibre",
+      "count": 1,
+      "share": 0.0172
+    },
+    {
+      "term": "mdus",
+      "count": 1,
+      "share": 0.0172
+    },
+    {
+      "term": "brisbane",
+      "count": 1,
+      "share": 0.0172
     },
     {
       "term": "cx",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "telephony",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "contractor",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "voip",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "sip",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "sms",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "its",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "website",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "growth",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "projects",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "umbraco",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
     },
     {
       "term": "cms",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0172
+    },
+    {
+      "term": "literacy",
+      "count": 1,
+      "share": 0.0172
     }
   ],
   "jobs": [
+    {
+      "job_id": "95951331",
+      "job_title": "Data Engineering Lead",
+      "business_name": "The BUSY Group",
+      "work_type": "Full time",
+      "job_type": "Engineering - Software",
+      "pay_range": "",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95951331",
+      "advertiser_id": "14264186",
+      "posted_date": "2026-11-17T11:04:20Z",
+      "job_description": "<p><strong>About The BUSY Group</strong></p>\n\n<p>With almost 50 years of impact behind us, The BUSY Group is continuing to expand our reach across employment services, education, apprenticeships, vocational training and community programs. As our organisation grows globally, so does the complexity and opportunity within our technology landscape.&nbsp;</p>\n\n<p>As one of Australia’s largest purpose-driven organisations, we support people through employment services, education, apprenticeship support, skills training, and community programs. Behind every successful outcome is data that helps us make smarter decisions, improve services, and create meaningful impact for the communities we serve.&nbsp;</p>\n<br><p><strong>About the Role&nbsp;&nbsp;</strong></p>\n\n<p>We are looking for a Data Engineering Lead to take ownership of our growing enterprise data capability and help shape the next generation of data platforms, pipelines, and analytics across a complex and diverse international organisation.&nbsp;</p>\n\n<p>Reporting to the Chief Digital &amp; Technology Officer you will be responsible for designing, building, and supporting the data platforms and pipelines that underpin enterprise reporting and analytics. This role will see you:&nbsp;&nbsp;</p>\n\n<ul>\n\t<li>Build and maintain scalable ETL/ELT pipelines and data integrations across multiple systems&nbsp;</li>\n\t<li>Lead the ingestion, transformation, and modelling of enterprise data&nbsp;</li>\n\t<li>Enhance and optimise our Power BI reporting environment&nbsp;</li>\n\t<li>Develop reliable, secure, and high-performing Azure-based data solutions&nbsp;</li>\n\t<li>Improve data quality, observability, monitoring, and governance controls&nbsp;</li>\n\t<li>Support business stakeholders to unlock greater value from data&nbsp;</li>\n\t<li>Manage third-party vendors and data technology partners&nbsp;</li>\n\t<li>Drive continuous improvement across data engineering standards, practices, and delivery&nbsp;</li>\n\t<li>Help shape future-state architecture and technology decisions across the Group&nbsp;</li>\n</ul>\n\n<p><strong>Why join BUSY?&nbsp;&nbsp;</strong></p>\n\n<p>At The BUSY Group, our work changes lives. Every day we help people gain skills, find employment, complete their education and create better futures for themselves and their communities. We offer:&nbsp;&nbsp;</p>\n\n<ul>\n\t<li>Work that genuinely makes a difference&nbsp;</li>\n\t<li>The opportunity to help shape the future of data across a complex international organisation&nbsp;</li>\n\t<li>A collaborative and supportive team environment&nbsp;</li>\n\t<li>Opportunities to influence enterprise-wide technology and data initiatives&nbsp;</li>\n\t<li>Career growth within one of Australia's largest not-for-profit organisations&nbsp;</li>\n\t<li>Hybrid work model&nbsp;&nbsp;</li>\n\t<li>4 days of additional annual leave including 3 day Christmas closure&nbsp;&nbsp;</li>\n</ul>\n\n<p><strong>About You&nbsp;</strong>&nbsp;</p>\n\n<p>We're looking for a hands-on technical leader who combines strong engineering capability with commercial thinking and stakeholder engagement skills.&nbsp;</p>\n\n<p>You'll ideally have:&nbsp;</p>\n\n<ul>\n\t<li>Proven experience in Data Engineering, Data Platform Development, or a similar role&nbsp;</li>\n\t<li>Strong Azure, SQL, Python and PySpark expertise&nbsp;</li>\n\t<li>Experience building and maintaining enterprise-grade data pipelines&nbsp;</li>\n\t<li>Strong understanding of data modelling, data warehousing and modern ETL/ELT practices&nbsp;</li>\n\t<li>Experience supporting production data environments and troubleshooting complex workloads&nbsp;</li>\n\t<li>Knowledge of data governance, data quality, security and access controls&nbsp;</li>\n\t<li>Experience working with Power BI environments and enterprise reporting solutions&nbsp;</li>\n\t<li>The ability to work autonomously while partnering effectively with diverse stakeholders&nbsp;</li>\n\t<li>Strong analytical, problem-solving and communication skills&nbsp;</li>\n</ul>\n<br><p><strong>Next Steps&nbsp;&nbsp;</strong></p>\n\n<p>If you're passionate about building modern data platforms, enjoy solving complex challenges, and want your work to have real-world purpose, we'd love to hear from you.&nbsp;</p>\n\n<p>This role will actively commence recruitment from the date of advertisement. The closing date of this ad is dependent on the appointment of the role. &nbsp;</p>\n\n<p>The BUSY Group is an organisation that prioritises the safeguarding of children and all vulnerable people by actively adopting strategies that embed a culture of zero tolerance for abuse of any kind. The appointment of successful applicants will be subject to satisfactory employment screening including criminal history and relevant working with children checks.  &nbsp;</p>\n\n<p>The BUSY Group is committed to achieving a diverse workforce and strongly encourages applications from First Nations People, veterans, people from culturally diverse backgrounds and people with disabilities. &nbsp;</p>",
+      "keywords": [
+        "data",
+        "engineering"
+      ]
+    },
+    {
+      "job_id": "95945570",
+      "job_title": "Systems Analyst",
+      "business_name": "Nu-Pure Beverages",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "",
+      "area": "Stapylton, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95945570",
+      "advertiser_id": "27274625",
+      "posted_date": "2026-11-17T07:07:42Z",
+      "job_description": "<div><strong>Support and improve the systems that keep our business moving</strong></div>\n<div>&nbsp;</div>\n<div>Nu-Pure Beverages is looking for a practical, customer-focused <strong>Systems Analyst</strong> to join our IT team at our Stapylton Head Office.</div>\n<div>&nbsp;</div>\n<div>Reporting to the <strong>IT Operations and Support Lead</strong>, you'll support our ERP and enterprise business systems, troubleshoot issues, deliver system improvements and work closely with people across the business to help them get the most out of our technology.&nbsp;</div>\n<div>&nbsp;</div>\n<div>This is a great opportunity for someone who enjoys solving problems, improving how systems work and translating business needs into practical solutions.</div>\n<div>&nbsp;</div>\n<div><strong>What you'll be doing</strong></div>\n<ul>\n<li>Provide functional support for our ERP and other enterprise business systems</li>\n<li>Investigate system issues, identify root causes and coordinate solutions</li>\n<li>Manage application support requests through to resolution</li>\n<li>Work with stakeholders to understand and document business requirements</li>\n<li>Identify opportunities to improve processes through technology</li>\n<li>Assist with system configuration, enhancements and implementations</li>\n<li>Coordinate and support system testing and User Acceptance Testing (UAT)</li>\n<li>Develop user guides, procedures and training materials</li>\n<li>Deliver system training and support to end users</li>\n<li>Identify recurring issues and recommend sustainable solutions</li>\n<li>Support the adoption of new systems, functionality and processes</li>\n</ul>\n<div><strong>About you</strong></div>\n<div>You'll be someone who takes ownership, enjoys getting to the bottom of problems and can communicate confidently with both technical and non-technical stakeholders.</div>\n<div>Ideally, you'll bring:</div>\n<ul>\n<li>Experience supporting ERP, enterprise applications or business systems</li>\n<li>Strong analytical, troubleshooting and problem-solving skills</li>\n<li>Experience gathering and documenting business requirements</li>\n<li>Experience with system testing and UAT</li>\n<li>Strong stakeholder management and customer service skills</li>\n<li>The ability to translate business requirements into practical system solutions</li>\n<li>Strong written and verbal communication skills</li>\n<li>Experience developing system documentation, user guides or training materials</li>\n<li>A relevant tertiary qualification or equivalent demonstrated experience</li>\n</ul>\n<div><strong>Experience with Oracle Fusion Cloud ERP or Oracle ERP will be highly regarded</strong>, along with experience in manufacturing, FMCG or another operational environment.&nbsp;</div>\n<div>&nbsp;</div>\n<div><strong>Why join Nu-Pure?</strong></div>\n<div>You'll join an Australian manufacturing business where technology directly impacts day-to-day operations. You'll have the opportunity to work across different areas of the business, build strong relationships with stakeholders and contribute to the ongoing improvement of our enterprise systems.</div>\n<div>&nbsp;</div>\n<div>The role is based at our <strong>Stapylton Head Office</strong>, with some travel to other Nu-Pure sites as required. The PD specifically calls for the ability to travel between sites when needed.&nbsp;</div>\n<div>&nbsp;</div>\n<div><strong>What's on offer?</strong></div>\n<ul>\n<li>Permanent full-time opportunity</li>\n<li>Head Office-based role in Stapylton</li>\n<li>Broad exposure to enterprise systems across an operational manufacturing business</li>\n<li>Opportunity to contribute to system improvements and how technology is used across the business</li>\n</ul>\n<div>If you're looking for a hands-on Systems Analyst role where you can solve problems, improve systems and work closely with the people who use them every day, <strong>we'd love to hear from you.</strong></div>\n<div>&nbsp;</div>\n<div>Apply now with your resume.</div>",
+      "keywords": [
+        "systems",
+        "analyst"
+      ]
+    },
+    {
+      "job_id": "95944238",
+      "job_title": "Systems Analyst",
+      "business_name": "Auto Parts Supply",
+      "work_type": "Full time",
+      "job_type": "Business/Systems Analysts",
+      "pay_range": "$80,000 – $105,000 per year",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95944238",
+      "advertiser_id": "41207660",
+      "posted_date": "2026-11-17T06:25:41Z",
+      "job_description": "<h2>Systems Analyst –&nbsp;</h2><p><br></p><h2>Auto Parts Supply QLD Pty Ltd</h2><h2><strong><br>Location:</strong> Southport QLD 4215</h2><h2><strong>Employment Type:</strong> Full-time, Permanent</h2><h2><strong>Salary:</strong> $80,000 – $105,000 + superannuation,</h2><h2>depending on skills and experience<br><br></h2><h2><strong>About Auto Parts Supply QLD Pty Ltd</strong></h2><p>Auto Parts Supply QLD Pty Ltd is an established Queensland automotive parts business operating from Southport on the Gold Coast.</p><p>We specialise in supplying new genuine and quality aftermarket automotive parts through our online business to customers across Australia. Our operations involve online sales, automotive parts sourcing, inventory management, warehousing, customer enquiries, order processing, purchasing, supplier management, nationwide and international distribution.</p><p>As our business continues to expand its online and operational capabilities, we are seeking an experienced <strong>Systems Analyst</strong> to help analyse, improve and integrate the technology systems that support our business.</p><h2><strong>About the Position</strong></h2><p>The Systems Analyst will be responsible for analysing the company's existing ICT systems and business processes and identifying opportunities to improve efficiency, functionality and reliability.</p><p>The position will work closely with management, warehouse and sales staff, customers, suppliers and external technology providers to understand business requirements and develop practical ICT solutions.</p><p>The role will focus particularly on the systems supporting our <strong>online automotive parts business, inventory, warehouse operations, customer orders, supplier management, sales, reporting and business administration</strong>.</p><h2><strong>Key Responsibilities</strong></h2><ul><li><p>Analyse existing ICT systems used by Auto Parts Supply QLD Pty Ltd and identify system limitations, inefficiencies and opportunities for improvement.</p></li><li><p>Analyse business processes covering online sales, customer orders, purchasing, inventory management, warehouse operations and product distribution.</p></li><li><p>Consult with management and employees to identify business requirements and opportunities for system improvements.</p></li><li><p>Evaluate existing software applications and recommend modifications, additional system components or alternative ICT solutions.</p></li><li><p>Analyse the integration between the company's online store, inventory systems, accounting systems, CRM/customer management systems and other business applications.</p></li><li><p>Identify opportunities to improve the flow and accuracy of product, customer, inventory and order data between business systems.</p></li><li><p>Develop functional specifications and system requirements for software developers and external technology providers.</p></li><li><p>Assist with the implementation and configuration of new ICT systems and system enhancements.</p></li><li><p>Identify, document and investigate system errors, data inconsistencies and functional problems.</p></li><li><p>Work with software developers and external technology providers to resolve system defects and technical issues.</p></li><li><p>Analyse system-generated reports and business data to identify trends, errors and opportunities for improvement.</p></li><li><p>Assist management with improving inventory, sales and operational reporting.</p></li><li><p>Assist with system upgrades, software implementations and integration projects.</p></li><li><p>Provide training and guidance to staff when new or modified systems are introduced.</p></li><li><p>Monitor the performance and usability of business systems and recommend further improvements.</p></li><li><p>Participate in ICT and business improvement projects.</p></li><li><p>Liaise with external IT providers, software vendors and developers on behalf of the business.</p></li></ul><p><br><br><br></p><h2><strong>Business Systems and Areas</strong></h2><p>The Systems Analyst will work across ICT systems supporting:</p><ul><li><p>Online automotive parts sales</p></li><li><p>E-commerce and online ordering</p></li><li><p>Automotive parts catalogue and product information</p></li><li><p>Inventory and stock management</p></li><li><p>Warehouse operations</p></li><li><p>Customer orders and enquiries</p></li><li><p>Supplier and purchasing processes</p></li><li><p>Sales and invoicing</p></li><li><p>Accounting and financial systems</p></li><li><p>Product and inventory reporting</p></li><li><p>Business data analysis</p></li><li><p>System integrations</p></li><li><p>Microsoft 365 and internal business technology</p></li></ul><h2><strong>Essential Qualifications</strong></h2><ul><li><p>Bachelor degree or higher in Information Technology, Computer Science, Information Systems or a closely related discipline.</p></li><li><p>Demonstrated experience in systems analysis, ICT systems or business process analysis.</p></li><li><p>Experience gathering and documenting business and user requirements.</p></li><li><p>Experience analysing business processes and identifying opportunities for system improvement.</p></li><li><p>Experience developing functional requirements and system documentation.</p></li><li><p>Experience with system testing and User Acceptance Testing.</p></li><li><p>Strong analytical and problem-solving skills.</p></li><li><p>Strong written and verbal communication skills.</p></li><li><p>Ability to communicate technical information to management and non-technical employees.</p></li><li><p>Strong attention to detail and ability to manage multiple projects and priorities.</p></li></ul><h2><strong>Technical Skills</strong></h2><p>The following experience will be highly regarded:</p><ul><li><p>SQL / MySQL</p></li><li><p>Database analysis</p></li><li><p>E-commerce systems</p></li><li><p>Inventory and warehouse-management systems</p></li><li><p>CRM systems</p></li><li><p>ERP/business-management systems</p></li><li><p>API and system integrations</p></li><li><p>Microsoft 365</p></li><li><p>Microsoft Windows</p></li><li><p>Data analysis and reporting</p></li><li><p>Cloud-based business applications</p></li></ul><p><br></p><h2><strong>Why Join Auto Parts Supply QLD Pty Ltd?</strong></h2><p>This is an opportunity to join an established automotive parts business and take responsibility for improving the technology systems that support its day-to-day operations.</p><p>You will have the opportunity to work across <strong>e-commerce, automotive parts, inventory, warehouse operations, customer management, business reporting and ICT systems</strong>, giving the successful candidate a broad and practical Systems Analyst role.</p><p>We offer:</p><ul><li><p>Full-time permanent employment</p></li><li><p>Competitive salary of $80,000 – $125,000 + superannuation</p></li><li><p>Professional development opportunities</p></li><li><p>Exposure to multiple business and ICT systems</p></li><li><p>Opportunity to contribute to technology and business-process improvements</p></li><li><p>Supportive working environment</p></li><li><p>Long-term career development opportunity</p></li></ul><h2><strong>How to Apply</strong></h2><p>If you are an analytical and technically capable IT professional who enjoys understanding business requirements and improving business systems, we would like to hear from you.</p><p>Please submit your resume and a cover letter outlining your qualifications, Systems Analyst experience and suitability for the position.</p><p><strong>Position:</strong> Systems Analyst<br><strong>ANZSCO:</strong> 261112<br><strong>Employer:</strong> Auto Parts Supply QLD Pty Ltd<br><strong>Location:</strong> Southport QLD 4215<br><strong>Employment Type:</strong> Full-time, Permanent<br><strong>Salary:</strong> $80,000 – $105,000 + superannuation</p>",
+      "keywords": [
+        "systems",
+        "analyst"
+      ]
+    },
+    {
+      "job_id": "95941474",
+      "job_title": "Fibre Technician – MDUs | Brisbane & Gold Coast",
+      "business_name": "PON Projects",
+      "work_type": "Full time",
+      "job_type": "Telecommunications",
+      "pay_range": "$36 – $45 + allowances",
+      "area": "Surfers Paradise, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95941474",
+      "advertiser_id": "63945943",
+      "posted_date": "2026-11-17T05:00:12Z",
+      "job_description": "<p><strong>About the role</strong></p><p>Join a telecommunications team delivering high-quality fibre installations across new residential multi-dwelling developments, including apartments and townhouses. Based in Brisbane or the Gold Coast, you will work on end-to-end fibre infrastructure projects from installation and termination through to splicing and testing.</p><p><strong>Key responsibilities</strong></p><ul><li><p>Install fibre optic cabling in new residential MDU developments</p></li><li><p>Terminate and splice fibre to industry standards</p></li><li><p>Test and verify fibre installations to ensure quality and compliance</p></li><li><p>Read and follow project plans, technical documentation and site requirements</p></li><li><p>Maintain a safe, organised and professional work environment</p></li><li><p>Collaborate with project teams, contractors and other site personnel to deliver projects on schedule</p></li></ul><p><strong>What we're looking for</strong></p><ul><li><p>Hands-on experience installing, terminating, splicing and testing fibre</p></li><li><p>Experience working in new residential multi-dwelling developments such as apartments and townhouses</p></li><li><p>Opticomm or similar MDU experience is highly regarded</p></li><li><p>Australian working rights</p></li><li><p>Current White Card</p></li><li><p>Based in Brisbane or the Gold Coast</p></li><li><p>Certificate III in Telecommunications is highly regarded</p></li><li><p>ACMA Open Cabling Registration is highly regarded</p></li><li><p>Strong attention to detail and a commitment to safe work practices</p></li></ul><p><br></p>",
+      "keywords": [
+        "fibre",
+        "technician",
+        "mdus",
+        "brisbane"
+      ]
+    },
+    {
+      "job_id": "95940529",
+      "job_title": "Digital Literacy Officer",
+      "business_name": "City of Gold Coast",
+      "work_type": "Full time",
+      "job_type": "Other",
+      "pay_range": "From 94k per annum plus superannuation",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95940529",
+      "advertiser_id": "16652581",
+      "posted_date": "2026-11-17T04:26:23Z",
+      "job_description": "<p><strong>Full Time Fixed Term until June 2027 | 9-day fortnight | 36.00 hours per week </strong></p> <p><strong>Salary from $94,439 - $98,355 per annum plus superannuation </strong></p> <p><strong>Position Brief - <a href=\"https://applynow.net.au/jobs/COG2303/assets/32911490\">Digital Literacy Officer</a></strong></p> <p> </p> <p> <strong>About the team</strong></p> <p>The Chief Technology Office at the City of Gold Coast supports the technology, systems and digital services that enable our employees to deliver services to the community. </p> <p>Our Digital Literacy team works across the organisation to strengthen employees' digital capability, helping people develop the skills, knowledge and confidence to use technology effectively, safely and independently in their work. </p> <p>We work with a diverse workforce, from office-based employees to operational and field teams, and collaborate with technology specialists, business areas and learning partners to understand digital capability needs and develop practical, accessible solutions.</p> <p> </p> <p><strong>About the role </strong></p> <p>As a Digital Literacy Officer, you'll use your knowledge of digital technologies, information and data to help employees build their digital capability and confidence. </p> <p>This is a hands-on digital capability role, rather than a traditional training position. You'll need strong practical technology skills, an ability to quickly understand unfamiliar digital tools and the confidence to explain and demonstrate how technology can be used effectively in different workplace contexts. </p> <p>You'll create clear and engaging digital resources, including guides, videos and interactive content, and provide practical coaching and support to employees. We're looking for someone who enjoys working with technology, solving problems and helping others become more capable and independent in a digital workplace. </p> <p> </p> <p><strong>We’re looking for people who have: </strong></p> <p>A strong foundation in digital technology, information or data, combined with the creativity, initiative and communication skills to make technology accessible and useful to others. </p> <p><strong>Essential skills and experience: </strong></p> <ul> <li>Strong practical digital and technology proficiency, including the ability to confidently use, explore, evaluate and learn a range of workplace systems and applications. </li> <li>Sound understanding of digital workplace practices, including information and data management, digital collaboration, technology problem-solving and online safety. </li> <li>Ability to translate technical information into clear, accurate and engaging guidance, resources and digital content. </li> <li>Ability to provide practical coaching and support and adapt approaches to different audiences.</li> <li>Demonstrated initiative, problem-solving skills and ability to independently plan and deliver high-quality work. </li> <li>Strong communication and interpersonal skills, with the ability to work collaboratively across technical and non-technical teams.</li> </ul> <p><strong> Desirable experience: </strong></p> <ul> <li>Qualifications or relevant experience in information technology, information systems, information management, digital technologies or a related field. </li> <li>Experience developing digital learning resources, multimedia content or interactive learning <br>experiences. </li> <li>Experience in digital adoption, technology enablement or organisational capability <br>improvement. </li> <li>Understanding of digital accessibility, inclusion and user-centred design. </li> </ul> <p> </p> <p><strong>Be part of shaping the Gold Coast’s future </strong></p> <p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p> <p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p> <ul> <li>9-day fortnight </li> </ul> <ul> <li>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations </li> </ul> <ul> <li>Personal and professional development courses </li> </ul> <ul> <li>Access to 350+ fitness facilities through Fitness Passport </li> </ul> <ul> <li>4 free confidential counselling sessions a year for you or an immediate family member </li> </ul> <ul> <li>1 free nutritionist and financial advice session per year </li> </ul> <p><strong> </strong> </p> <p>We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p> <p> </p> <p><strong>How to apply</strong></p> <p><br>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p> <p><strong>Contact Person</strong> Joana Al-kassar </p> <p><strong>Contact Email</strong> <a href=\"mailto:Jal-kassar@goldcoast.qld.gov.au\">Jal-kassar@goldcoast.qld.gov.au</a></p> <p><strong>Closing Date</strong> Friday 27th of November 2026/11:59pm AEDT </p> <p>Our selection process may include a one-way video interview via Criteria, a face-to-face or virtual interview via Microsoft Teams, reference checks via Xref and additional checks including police checks, employment history checks, qualification checks, pre-employment medical reviews and drug and alcohol testing. </p> <p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
+      "keywords": [
+        "digital",
+        "literacy",
+        "officer"
+      ]
+    },
     {
       "job_id": "95904967",
       "job_title": "OpenMage/Magento Full-Stack Developer",
@@ -570,7 +688,7 @@
       "url": "https://www.seek.com.au/job/95830427",
       "advertiser_id": "63112748",
       "posted_date": "2026-11-11T07:14:12Z",
-      "job_description": "<p><strong>Position Title:</strong>&nbsp;Photocopier &amp; POS Technician<br><strong>Location:</strong>&nbsp;Nerang, QLD</p><p><strong>Position Overview</strong></p><p>The Photocopier &amp; POS Technician is responsible for the installation, maintenance, and repair of HP, Kyocera, and Sharp multifunction devices, photocopiers, point-of-sale (POS) systems, and related equipment within Toowoomba. This role requires a customer-focused approach, strong technical skills, and the ability to work independently while delivering a high standard of service and support to our valued clients.</p><p><strong>Remuneration</strong>&nbsp;package includes a fully serviced company vehicle, fuel card, and laptop.</p><hr><p><strong>Key Responsibilities</strong></p><ul><li><p><strong>Installation &amp; Setup:</strong>&nbsp;Install and configure photocopiers, multifunction devices, and POS systems at customer sites.</p></li><li><p><strong>Maintenance &amp; Repairs:</strong>&nbsp;Perform scheduled preventative maintenance, troubleshoot, and repair faults to minimise downtime.</p></li><li><p><strong>Technical Support:</strong>&nbsp;Provide on-site and remote technical assistance for hardware and software-related issues.</p></li><li><p><strong>Upgrades &amp; Integration:</strong>&nbsp;Carry out software updates, firmware upgrades, and system integrations with customer networks.</p></li><li><p><strong>Customer Service:</strong>&nbsp;Deliver excellent service and clear communication to customers, ensuring a positive experience at every interaction.</p></li><li><p><strong>Training:</strong>&nbsp;Provide end-user training on equipment functions and best practices.</p></li><li><p><strong>Documentation:</strong>&nbsp;Maintain accurate service records, job reports, and parts usage logs.</p></li><li><p><strong>Stock &amp; Parts Management:</strong>&nbsp;Manage spare parts inventory to ensure availability for common repairs.</p></li></ul><hr><p><strong>Skills &amp; Experience</strong></p><ul><li><p>Previous experience servicing photocopiers, multifunction devices, and/or POS systems preferred.</p></li><li><p>Strong mechanical and electronic fault-finding skills.</p></li><li><p>Knowledge of networking fundamentals, including TCP/IP, printing protocols, and device integration.</p></li><li><p>Ability to read and interpret service manuals, wiring diagrams, and technical schematics.</p></li><li><p>Excellent problem-solving and troubleshooting ability.</p></li><li><p>Strong interpersonal skills and a commitment to exceptional customer service.</p></li><li><p>Ability to work independently and manage time effectively.</p></li></ul><hr><p>&nbsp;<strong>Key Attributes</strong></p><ul><li><p>Professional and reliable with a positive attitude.</p></li><li><p>Flexible and adaptable to changing work requirements.</p></li><li><p>Willingness to learn and stay updated with new technology.</p></li><li><p>Commitment to workplace safety and compliance procedures.</p></li></ul><hr><p><strong>About Comtech Business Equipment</strong></p><p>Comtech Business Equipment is Australian owned and operated company based in <strong>Brisbane, Darling Downs, Gold Coast &amp; Northern Rivers, Melbourne, and Sydney</strong>, providing business printing solutions and technical support throughout Australia. We pride ourselves on outstanding customer service and building long-term relationships with our clients.</p>",
+      "job_description": "<p><strong>Position Title:</strong>&nbsp;Photocopier &amp; POS Technician<br><strong>Location:</strong>&nbsp;Nerang, QLD</p><p><strong>Position Overview</strong></p><p>We are seeking several Photocopier &amp; POS Technicians to cover the following areas: Rockhampton, Gold Coast, and Bundaberg<strong>. </strong>The Photocopier &amp; POS Technician is responsible for the installation, maintenance, and repair of HP, Kyocera, and Sharp multifunction devices, photocopiers, point-of-sale (POS) systems, and related equipment. This role requires a customer-focused approach, strong technical skills, and the ability to work independently while delivering a high standard of service and support to our valued clients.</p><p><strong>Remuneration</strong>&nbsp;package includes a fully serviced company vehicle, fuel card, and laptop.</p><hr><p><strong>Key Responsibilities</strong></p><ul><li><p><strong>Installation &amp; Setup:</strong>&nbsp;Install and configure photocopiers, multifunction devices, and POS systems at customer sites.</p></li><li><p><strong>Maintenance &amp; Repairs:</strong>&nbsp;Perform scheduled preventative maintenance, troubleshoot, and repair faults to minimise downtime.</p></li><li><p><strong>Technical Support:</strong>&nbsp;Provide on-site and remote technical assistance for hardware and software-related issues.</p></li><li><p><strong>Upgrades &amp; Integration:</strong>&nbsp;Carry out software updates, firmware upgrades, and system integrations with customer networks.</p></li><li><p><strong>Customer Service:</strong>&nbsp;Deliver excellent service and clear communication to customers, ensuring a positive experience at every interaction.</p></li><li><p><strong>Training:</strong>&nbsp;Provide end-user training on equipment functions and best practices.</p></li><li><p><strong>Documentation:</strong>&nbsp;Maintain accurate service records, job reports, and parts usage logs.</p></li><li><p><strong>Stock &amp; Parts Management:</strong>&nbsp;Manage spare parts inventory to ensure availability for common repairs.</p></li></ul><hr><p><strong>Skills &amp; Experience</strong></p><ul><li><p>Previous experience servicing photocopiers, multifunction devices, and/or POS systems preferred.</p></li><li><p>Strong mechanical and electronic fault-finding skills.</p></li><li><p>Knowledge of networking fundamentals, including TCP/IP, printing protocols, and device integration.</p></li><li><p>Ability to read and interpret service manuals, wiring diagrams, and technical schematics.</p></li><li><p>Excellent problem-solving and troubleshooting ability.</p></li><li><p>Strong interpersonal skills and a commitment to exceptional customer service.</p></li><li><p>Ability to work independently and manage time effectively.</p></li></ul><hr><p>&nbsp;<strong>Key Attributes</strong></p><ul><li><p>Professional and reliable with a positive attitude.</p></li><li><p>Flexible and adaptable to changing work requirements.</p></li><li><p>Willingness to learn and stay updated with new technology.</p></li><li><p>Commitment to workplace safety and compliance procedures.</p></li></ul><hr><p><strong>About Comtech Business Equipment</strong></p><p>Comtech Business Equipment is Australian owned and operated company based in <strong>Brisbane, Darling Downs, Gold Coast &amp; Northern Rivers, Melbourne, and Sydney</strong>, providing business printing solutions and technical support throughout Australia. We pride ourselves on outstanding customer service and building long-term relationships with our clients.</p>",
       "keywords": [
         "photocopier",
         "pos",
