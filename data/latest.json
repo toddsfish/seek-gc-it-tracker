@@ -1,476 +1,476 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "region": "Gold Coast",
-  "scraped_at": "2026-11-18T11:58:32.768247+10:00",
-  "total_jobs": 58,
+  "scraped_at": "2026-11-19T11:34:52.273420+10:00",
+  "total_jobs": 55,
   "keywords": [
     {
       "term": "it",
       "count": 16,
-      "share": 0.2759
+      "share": 0.2909
     },
     {
       "term": "support",
       "count": 15,
-      "share": 0.2586
+      "share": 0.2727
     },
     {
       "term": "engineer",
       "count": 13,
-      "share": 0.2241
-    },
-    {
-      "term": "systems",
-      "count": 6,
-      "share": 0.1034
+      "share": 0.2364
     },
     {
       "term": "officer",
-      "count": 6,
-      "share": 0.1034
-    },
-    {
-      "term": "developer",
       "count": 5,
-      "share": 0.0862
+      "share": 0.0909
     },
     {
       "term": "application",
       "count": 5,
-      "share": 0.0862
+      "share": 0.0909
     },
     {
-      "term": "technician",
-      "count": 5,
-      "share": 0.0862
+      "term": "systems",
+      "count": 4,
+      "share": 0.0727
     },
     {
       "term": "analyst",
       "count": 4,
-      "share": 0.069
+      "share": 0.0727
     },
     {
       "term": "technology",
       "count": 4,
-      "share": 0.069
+      "share": 0.0727
+    },
+    {
+      "term": "developer",
+      "count": 4,
+      "share": 0.0727
+    },
+    {
+      "term": "technician",
+      "count": 4,
+      "share": 0.0727
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.069
+      "share": 0.0727
     },
     {
       "term": "manager",
       "count": 4,
-      "share": 0.069
+      "share": 0.0727
     },
     {
       "term": "business",
       "count": 3,
-      "share": 0.0517
-    },
-    {
-      "term": "network",
-      "count": 3,
-      "share": 0.0517
+      "share": 0.0545
     },
     {
       "term": "software",
       "count": 3,
-      "share": 0.0517
-    },
-    {
-      "term": "technical",
-      "count": 3,
-      "share": 0.0517
+      "share": 0.0545
     },
     {
       "term": "service",
       "count": 3,
-      "share": 0.0517
+      "share": 0.0545
     },
     {
       "term": "solution",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0364
     },
     {
       "term": "consultant",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0364
     },
     {
       "term": "data",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0364
     },
     {
-      "term": "administrator",
+      "term": "ongc",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0364
     },
     {
       "term": "help",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0364
+    },
+    {
+      "term": "technical",
+      "count": 2,
+      "share": 0.0364
     },
     {
       "term": "operations",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0364
     },
     {
       "term": "coordinator",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0364
     },
     {
       "term": "specialist",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0364
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0345
+      "share": 0.0364
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0345
-    },
-    {
-      "term": "web",
-      "count": 2,
-      "share": 0.0345
+      "share": 0.0364
     },
     {
       "term": "designers",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "enterprise",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "allres",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "manufacturing",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "ai",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "cybersecurity",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "managed",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "golang",
       "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "computer",
-      "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "react",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "javascript",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "helpdesk",
-      "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "photocopier",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
+    },
+    {
+      "term": "helpdesk",
+      "count": 1,
+      "share": 0.0182
     },
     {
       "term": "telecommunications",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
+    },
+    {
+      "term": "network",
+      "count": 1,
+      "share": 0.0182
     },
     {
       "term": "l2",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "sql",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "integrations",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "distribution",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "centre",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "marymount",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "waters",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "delivery",
       "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "ongc",
-      "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "infrastructure",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "platforms",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "owner",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "pmo",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
+    },
+    {
+      "term": "administrator",
+      "count": 1,
+      "share": 0.0182
     },
     {
       "term": "scenic",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "rim",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "mdus",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "cx",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "telephony",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "contractor",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "voip",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "sip",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "sms",
       "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "its",
-      "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
+    },
+    {
+      "term": "web",
+      "count": 1,
+      "share": 0.0182
     },
     {
       "term": "website",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "growth",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "projects",
       "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "umbraco",
-      "count": 1,
-      "share": 0.0172
-    },
-    {
-      "term": "cms",
-      "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     },
     {
       "term": "literacy",
       "count": 1,
-      "share": 0.0172
+      "share": 0.0182
     }
   ],
   "jobs": [
+    {
+      "job_id": "95978838",
+      "job_title": "IT Support Engineer, Level 2 - ONGC",
+      "business_name": "Lyra Technology Group",
+      "work_type": "Full time",
+      "job_type": "Help Desk & IT Support",
+      "pay_range": "",
+      "area": "Arundel, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95978838",
+      "advertiser_id": "62871597",
+      "posted_date": "2026-11-18T21:52:39Z",
+      "job_description": "<p><strong>Lyra Technology Group&nbsp;</strong>is a&nbsp;private&nbsp;equity-backed holding company that invests in and&nbsp;operates&nbsp;industry leading technology service businesses. Our companies are&nbsp;operated&nbsp;independently by exceptional management teams. Companies that join our group&nbsp;retain&nbsp;the employees, name, and culture that have made them successful. As a platform of&nbsp;Evergreen&nbsp;Services&nbsp;Group, we never divest from businesses we partner with and approach every decision with the goal of driving sustainable and healthy growth over the long term.  </p><p></p><p>Our Operating Company, <strong>ONGC</strong>, is looking for an experienced <strong>IT Support Engineer, Level 2 </strong>to join their team in Arundel, GQ.</p><p></p><p><strong></strong></p><p><strong>About The Role</strong></p><p>As a <strong>Level 2 IT Support Engineer</strong>, you'll provide advanced technical support across a diverse range of client environments while managing escalated issues from the Level 1 team. You'll take ownership of incidents from diagnosis through to resolution, contribute to infrastructure improvements, and help deliver an exceptional customer experience.</p><p></p><p><strong>Key Responsibilities</strong></p><ul>\n<li>Provide Level 2 technical support across desktop, server, network, and cloud environments.</li>\n<li>Manage escalated incidents and service requests, ensuring timely resolution.</li>\n<li>Troubleshoot Microsoft 365, Azure, Active Directory, Exchange, and Windows environments.</li>\n<li>Support networking technologies including firewalls, switches, VPNs, and wireless infrastructure.</li>\n<li>Maintain accurate documentation and ticket updates within the PSA system.</li>\n<li>Build strong client relationships through professional communication and outstanding customer service.</li>\n<li>Assist with infrastructure upgrades, migrations, and technology projects.</li>\n<li>Collaborate with Level 3 Engineers on complex technical issues when required.</li>\n</ul><p><strong>About You</strong></p><p>To succeed in this role, you will ideally have MSP experience, excellent troubleshooting skills, and a proactive approach to customer support.</p><p></p><p><strong>Essential Skills &amp; Experience</strong></p><ul>\n<li>3+years' experience in an MSP or similar IT support environment.</li>\n<li>Relevant IT qualifications or equivalent industry experience.</li>\n<li>Experience providing Level 2 support across Microsoft environments.</li>\n<li>Strong knowledge of Microsoft 365, Azure, Active Directory, Exchange Online, andWindows Server.</li>\n<li>Experience supporting networking technologies including switches, firewalls, VPNs and Wi-Fi.</li>\n<li>Excellent communication and customer service skills.</li>\n</ul><p><strong>Preferred Experience</strong></p><ul>\n<li>Microsoft certifications (MS-900, AZ-900, MD-102, MS-102, AZ-104, or similar).</li>\n<li>CompTIA, Cisco, or ITIL certifications.</li>\n<li>Experience with ConnectWise PSA and ConnectWise RMM.</li>\n<li>Exposure to Microsoft Intune, SharePoint, Microsoft Defender, or Azure Virtual Desktop</li>\n</ul><p><strong>Benefits</strong></p><ul>\n<li>Flexible working arrangements – 2 days WFH</li>\n<li>Clear career progression pathways</li>\n<li>Exposure to meaningful, enterprise technology projects</li>\n<li>Supportive, collaborative team culture focused on growth and innovation</li>\n<li>Opportunity to work with emerging AI technologies and innovative automation solutions</li>\n<li>Be part of a values-driven organisation committed to delivering exceptional outcomes for clients across Australia</li>\n<p>&nbsp;</p>\n</ul>",
+      "keywords": [
+        "it",
+        "support",
+        "engineer",
+        "ongc"
+      ]
+    },
     {
       "job_id": "95951331",
       "job_title": "Data Engineering Lead",
@@ -1060,25 +1060,6 @@
       ]
     },
     {
-      "job_id": "95674633",
-      "job_title": "Technical Officer (ITS)",
-      "business_name": "Department of Transport and Main Roads",
-      "work_type": "Full time",
-      "job_type": "Testing & Quality Assurance",
-      "pay_range": "$95,173 - $02,635 per annum",
-      "area": "Nerang, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95674633",
-      "advertiser_id": "20906222",
-      "posted_date": "2026-11-03T23:11:45Z",
-      "job_description": "<p></p>\n<p>As a Technical Officer (ITS), you will provide specialist technical support for the installation, maintenance, testing and commissioning of Intelligent Transport Systems infrastructure. Working alongside electricians and field crews, you will play a key role in ensuring ITS assets are delivered safely, efficiently and in accordance with departmental standards and industry legislation.</p>\n<p><strong>Key responsibilities include:</strong><br>• Installing, maintaining and testing ITS equipment in line with departmental specifications and compliance requirements.<br>• Providing technical advice and support for the planning, design, construction, testing and commissioning of ITS applications and traffic management systems.<br>• Supporting the successful delivery of ITS projects while ensuring quality, safety and stakeholder expectations are met.<br>• Assisting with the integration of new and emerging transport technologies used to improve road network operations and safety.<br>• Leading and supporting field crews while developing strong relationships with internal and external stakeholders.</p>\n<p><strong>About you</strong><br>You are a motivated technical professional who enjoys working in a dynamic field environment and contributing to innovative transport solutions. You bring strong communication skills, sound technical knowledge and a commitment to safety, quality and teamwork.</p>\n<p>To be successful, you'll ideally possess experience in electrical, communications or Intelligent Transport Systems technology and have the ability to work both independently and collaboratively to achieve project outcomes.</p>\n<p><strong>Mandatory requirements</strong><br>• Current Queensland C class driver's licence or equivalent.<br>• White Card - General Construction Induction.<br>• Diploma of Engineering (Electrical, Electronic) or equivalent.<br>• Restricted Electrical Licence (minimum licence codes 1, 2, 3 and 5), or &nbsp; to obtain within six months of commencement in accordance with role requirements.<br>• Ability to undertake travel as required throughout the operational area and across the state.</p>\n<p><strong>Why choose RoadTek?</strong><br>At RoadTek, you'll be part of a highly skilled, multidisciplinary organisation delivering transport infrastructure solutions that connect communities across Queensland. As part of TMR, you'll enjoy:</p>\n<p>• Opportunities to work with innovative and emerging transport technologies.<br>• Diverse and meaningful projects that improve road safety and network performance.<br>• Ongoing learning, development and career growth opportunities.<br>• A strong safety culture and commitment to inclusion, respect and teamwork.<br>• Work-life balance and the benefits of being part of the Queensland Government.</p>\n<p><strong>Why the Gold Coast?</strong><br>Enjoy a lifestyle that combines career opportunity with some of Queensland's most iconic beaches, national parks and outdoor attractions. The Gold Coast offers excellent schools, vibrant dining and entertainment precincts, and easy access to Brisbane and northern New South Wales, making it an outstanding place to build both your career and lifestyle.</p>\n<p>If you're ready to help deliver the technology that keeps Queensland moving, we'd love to hear from you.</p>\n<p><strong>Applications will remain current for 12 months.</strong></p>\n<p><strong>Job Ad Reference: QLD/706395/26</strong></p>\n<p><strong>Cloising Date: Wednesday, 18 November 2026</strong></p>",
-      "keywords": [
-        "technical",
-        "officer",
-        "its"
-      ]
-    },
-    {
       "job_id": "95661964",
       "job_title": "IT Manager - Marymount College, BURLEIGH WATERS",
       "business_name": "Brisbane Catholic Education",
@@ -1524,68 +1505,6 @@
         "support",
         "operations",
         "coordinator"
-      ]
-    },
-    {
-      "job_id": "95345437",
-      "job_title": "Level 2 IT Support Technician / Systems & Network Administrator",
-      "business_name": "Future Business Technology Group",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$70,000 – $80,000 per year",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95345437",
-      "advertiser_id": "62668697",
-      "posted_date": "2026-10-19T03:51:06Z",
-      "job_description": "<p><strong>About the role</strong></p><p>You'll work across a broad range of customer environments, providing remote and onsite support while helping manage their day-to-day IT systems. The position is based in Southport CBD, with periodic travel to our Brisbane office and customer sites across South East Queensland.</p><p><strong>Key responsibilities</strong></p><ul><li><p>Level 1 and Level 2 remote and onsite support</p></li><li><p>Microsoft 365 administration, including Entra ID, Exchange, SharePoint, Intune and Defender</p></li><li><p>Windows and macOS workstation and server environments</p></li><li><p>User onboarding, offboarding, accounts and permissions</p></li><li><p>Network troubleshooting across routers, firewalls, switches, Wi-Fi, VLANs, DNS and DHCP</p></li><li><p>Managing customer devices and assets through RMM platform</p></li><li><p>Endpoint security, cybersecurity monitoring and remediation</p></li><li><p>Backup monitoring, troubleshooting and management</p></li><li><p>Microsoft 365, workstation, network and hardware deployments</p></li><li><p>Hosted VoIP phone system and handset support</p></li></ul><p><strong>About you</strong></p><ul><li><p>Solid hands-on experience with Microsoft 365 administration</p></li><li><p>Experience with Windows and macOS environments</p></li><li><p>Windows Server experience</p></li><li><p>Microsoft Intune, Defender, Entra ID, Exchange and SharePoint experience</p></li><li><p>Networking and Wi-Fi troubleshooting</p></li><li><p>Endpoint security and backup solutions experience</p></li><li><p>RMM and remote support tools experience</p></li><li><p>Hardware and software troubleshooting</p></li><li><p>Basic VoIP and business telephony knowledge</p></li><li><p>Current Australian Driver's Licence</p></li></ul><p><strong>About us</strong></p><p>FBT Group is a proudly Australian-owned technology company with over 40 years in business. Starting in business communications and telecommunications, we've continued to evolve with technology and today provide Managed IT, Microsoft 365, Cyber Security, Cloud, Networking, Backup and Business Telephony solutions to customers across Australia. With offices in Southport CBD and Brisbane Southside, we're a growing team of experienced professionals.</p><p><strong>Benefits</strong></p><ul><li><p>Competitive salary based on experience and qualifications</p></li><li><p>Southport CBD office location</p></li><li><p>Varied work across IT, Cloud, Cyber Security, Networking and Telecommunications</p></li><li><p>Exposure to customers and environments across Australia</p></li><li><p>Mix of helpdesk, onsite and project work</p></li><li><p>Ongoing training and support for relevant industry certifications</p></li><li><p>Genuine opportunity to grow your technical career</p></li><li><p>Supportive and experienced team</p></li><li><p>Annual team-building events, including overseas team trips</p></li></ul><p><br></p>",
-      "keywords": [
-        "it",
-        "support",
-        "technician",
-        "systems",
-        "network",
-        "administrator"
-      ]
-    },
-    {
-      "job_id": "95345421",
-      "job_title": "Computer Network and Systems Engineer",
-      "business_name": "Nova Biomedical",
-      "work_type": "Full time",
-      "job_type": "Engineering - Network",
-      "pay_range": "$70,000 – $80,000 per year",
-      "area": "Arundel, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95345421",
-      "advertiser_id": "61915879",
-      "posted_date": "2026-10-19T03:48:24Z",
-      "job_description": "<p><strong>About the role</strong></p><p>We’re looking for a full-time Computer Network and Systems Engineer to join our technical team. You’ll install, configure, maintain and troubleshoot networked medical and computer-based equipment at client sites, so that devices integrate reliably with hospital networks and IT systems.</p><p><strong>Key responsibilities</strong></p><ul><li><p>Install, configure and commission medical and computer-based equipment, including connecting devices to hospital networks and IT systems</p></li><li><p>Carry out software and firmware updates and system configuration on medical and computer devices</p></li><li><p>Diagnose and resolve faults across hardware, software and network components</p></li><li><p>Carry out preventative maintenance, servicing and calibration of equipment in hospitals and day surgeries</p></li><li><p>Perform electrical safety testing to AS/NZS 3551 and AS/NZS 3760</p></li><li><p>Keep accurate service records, test results and reports, and upload them to our job management system</p></li><li><p>Liaise with hospital biomedical, clinical, IT and facilities staff to schedule work and report on equipment and system condition</p></li><li><p>Follow ISO 9001 quality processes, manufacturer service procedures and WHS requirements</p></li><li><p>Travel to client sites across Queensland and interstate as required</p></li></ul><p><strong>About you</strong></p><ul><li><p>A relevant qualification in computer systems, networking, electronics or biomedical engineering, or equivalent experience</p></li><li><p>Experience configuring, troubleshooting and maintaining networked systems and devices</p></li><li><p>Strong fault-finding and problem-solving skills</p></li><li><p>Good communication skills and the ability to work with clinical and technical staff</p></li><li><p>Current driver’s licence and willingness to travel</p></li></ul><p><strong>How to apply</strong></p><p>Apply via Seek with your resume and a short cover letter outlining your relevant experience. Will only be looking at applicant through seek and will not consider applicants via email.</p>",
-      "keywords": [
-        "computer",
-        "network",
-        "systems",
-        "engineer"
-      ]
-    },
-    {
-      "job_id": "95337412",
-      "job_title": "Web Developer (Umbraco CMS)",
-      "business_name": "Koben Digital",
-      "work_type": "Full time",
-      "job_type": "Web Development & Production",
-      "pay_range": "",
-      "area": "Robina, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95337412",
-      "advertiser_id": "35293242",
-      "posted_date": "2026-10-18T23:27:46Z",
-      "job_description": "<p><strong>About the role</strong></p><p>We are hiring a developer to join our delivery team. You will build and maintain CMS projects for our clients, working with designers, project managers and other developers from planning through to launch and support.</p><p>This is an in-office full-time role. <strong>We do not offer hybrid or work at home arrangements.</strong></p><p>We will not respond to recruiters, and we do not need assistance in hiring for this role.</p><p><strong>Key responsibilities</strong></p><ul><li><p>Build Umbraco websites and integrations from specifications and designs</p></li><li><p>Help plan and estimate work with the project team</p></li><li><p>Upgrade and maintain existing client sites</p></li><li><p>Review code and follow our development standards</p></li><li><p>Use AI tools as part of planning, building, testing and reviewing work</p></li></ul><p><strong>About you</strong></p><ul><li><p>2 to 3 years of commercial development experience</p></li><li><p>Solid C# and .NET skills</p></li><li><p>Experience with a CMS, ideally Umbraco</p></li><li><p>Working knowledge of HTML, CSS and JavaScript</p></li><li><p>Experience building front ends with Tailwind CSS and Next.js</p></li><li><p>Comfortable with SQL, Git and Azure</p></li><li><p>Confident using AI coding tools (such as Claude Code, Copilot or Cursor) in your daily work, and able to explain how you check the output</p></li><li><p>Clear written and verbal communication</p></li></ul><p><strong>About us</strong></p><p>Koben is a Gold Coast digital agency. We specialise in Umbraco CMS development and build websites and digital platforms for government, not-for-profit and enterprise clients across Australia.</p><p><strong>Benefits</strong></p><ul><li><p>Monthly team lunch</p></li><li><p>No suits, causal attire, relaxed environment</p></li><li><p>Umbraco certification after a period of continuous service</p></li></ul><p><br></p>",
-      "keywords": [
-        "web",
-        "developer",
-        "umbraco",
-        "cms"
       ]
     }
   ]
