@@ -1,456 +1,463 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "region": "Gold Coast",
-  "scraped_at": "2026-11-19T11:34:52.273420+10:00",
-  "total_jobs": 55,
+  "scraped_at": "2026-11-20T11:32:29.195913+10:00",
+  "total_jobs": 52,
   "keywords": [
     {
       "term": "it",
-      "count": 16,
-      "share": 0.2909
-    },
-    {
-      "term": "support",
       "count": 15,
-      "share": 0.2727
+      "share": 0.2885
     },
     {
       "term": "engineer",
-      "count": 13,
-      "share": 0.2364
+      "count": 15,
+      "share": 0.2885
+    },
+    {
+      "term": "support",
+      "count": 12,
+      "share": 0.2308
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.0909
+      "share": 0.0962
     },
     {
-      "term": "application",
+      "term": "developer",
       "count": 5,
-      "share": 0.0909
+      "share": 0.0962
     },
     {
       "term": "systems",
       "count": 4,
-      "share": 0.0727
+      "share": 0.0769
     },
     {
       "term": "analyst",
       "count": 4,
-      "share": 0.0727
+      "share": 0.0769
     },
     {
       "term": "technology",
       "count": 4,
-      "share": 0.0727
+      "share": 0.0769
     },
     {
-      "term": "developer",
+      "term": "software",
       "count": 4,
-      "share": 0.0727
+      "share": 0.0769
     },
     {
-      "term": "technician",
+      "term": "application",
       "count": 4,
-      "share": 0.0727
+      "share": 0.0769
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.0727
-    },
-    {
-      "term": "manager",
-      "count": 4,
-      "share": 0.0727
+      "share": 0.0769
     },
     {
       "term": "business",
       "count": 3,
-      "share": 0.0545
+      "share": 0.0577
     },
     {
-      "term": "software",
+      "term": "data",
       "count": 3,
-      "share": 0.0545
+      "share": 0.0577
     },
     {
-      "term": "service",
+      "term": "technician",
       "count": 3,
-      "share": 0.0545
+      "share": 0.0577
     },
     {
-      "term": "solution",
-      "count": 2,
-      "share": 0.0364
+      "term": "manager",
+      "count": 3,
+      "share": 0.0577
     },
     {
       "term": "consultant",
       "count": 2,
-      "share": 0.0364
-    },
-    {
-      "term": "data",
-      "count": 2,
-      "share": 0.0364
-    },
-    {
-      "term": "ongc",
-      "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "help",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
-      "term": "technical",
+      "term": "service",
       "count": 2,
-      "share": 0.0364
-    },
-    {
-      "term": "operations",
-      "count": 2,
-      "share": 0.0364
-    },
-    {
-      "term": "coordinator",
-      "count": 2,
-      "share": 0.0364
-    },
-    {
-      "term": "specialist",
-      "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0364
+      "share": 0.0385
+    },
+    {
+      "term": "solution",
+      "count": 1,
+      "share": 0.0192
     },
     {
       "term": "designers",
       "count": 1,
-      "share": 0.0182
-    },
-    {
-      "term": "enterprise",
-      "count": 1,
-      "share": 0.0182
-    },
-    {
-      "term": "architect",
-      "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "allres",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "manufacturing",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "ai",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "cybersecurity",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "managed",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "golang",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "react",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "javascript",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
+    },
+    {
+      "term": "ongc",
+      "count": 1,
+      "share": 0.0192
     },
     {
       "term": "photocopier",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "telecommunications",
       "count": 1,
-      "share": 0.0182
-    },
-    {
-      "term": "network",
-      "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "l2",
       "count": 1,
-      "share": 0.0182
-    },
-    {
-      "term": "sql",
-      "count": 1,
-      "share": 0.0182
-    },
-    {
-      "term": "integrations",
-      "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "ict",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "distribution",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "centre",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "marymount",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "waters",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
-      "term": "delivery",
+      "term": "technical",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
+    },
+    {
+      "term": "operations",
+      "count": 1,
+      "share": 0.0192
     },
     {
       "term": "infrastructure",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "platforms",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "owner",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "pmo",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
+    },
+    {
+      "term": "coordinator",
+      "count": 1,
+      "share": 0.0192
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "administrator",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "scenic",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "rim",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "mdus",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "cx",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "telephony",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "contractor",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "voip",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "sip",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "sms",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "website",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
+    },
+    {
+      "term": "specialist",
+      "count": 1,
+      "share": 0.0192
     },
     {
       "term": "growth",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "projects",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     },
     {
       "term": "literacy",
       "count": 1,
-      "share": 0.0182
+      "share": 0.0192
     }
   ],
   "jobs": [
+    {
+      "job_id": "95996922",
+      "job_title": "Data Engineer",
+      "business_name": "Gold Coast Football Club",
+      "work_type": "Full time",
+      "job_type": "Database Development & Administration",
+      "pay_range": "",
+      "area": "Carrara, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95996922",
+      "advertiser_id": "25267139",
+      "posted_date": "2026-11-19T08:01:38Z",
+      "job_description": "<p><strong>*IMPORTANT*</strong> <strong>Do not apply via seek, apply via our candidate portal using the link below.</strong><br>https://goldcoastfc.my.salesforce-sites.com/recruit/fRecruit__ApplyJob?vacancyNo=VN156<br><br><strong>Want to help shape how data is connected, managed and used across the Gold Coast SUNS?</strong></p><p>The Gold Coast SUNS are looking for an experienced Data Engineer to join our Technology team in a newly created role.</p><p>Reporting to the Technology Manager, you’ll help build and strengthen the data foundations that support decision-making across the Club. Working with teams across Consumer, Commercial, Retail, Marketing, Football and Finance, you’ll develop the infrastructure, integrations and pipelines that bring our data together and make it reliable, secure and accessible.</p><p>You’ll also support the Club’s growing use of automation, AI and emerging technology, helping ensure we have the right data foundations and practices in place for what comes next.</p><p><strong>Key Responsibilities</strong></p><ul><li><p>Build, maintain and optimise the Club’s data warehouse and broader data environment</p></li><li><p>Develop scalable data pipelines across internal and external data sources</p></li><li><p>Build integrations between Club systems and automate the movement and transformation of data</p></li><li><p>Develop reliable data structures and models for analysis and reporting</p></li><li><p>Improve data quality, governance, security and access practices</p></li><li><p>Partner with analysts and departments to understand data needs and provide reliable, accessible datasets</p></li><li><p>Identify opportunities to reduce manual processes through integration and automation</p></li><li><p>Support new technology implementations, data migrations and integrations</p></li><li><p>Help build the data foundations for AI, advanced analytics and emerging technology</p></li><li><p>Maintain clear documentation of data systems, integrations and processes</p></li></ul><p><strong>About You</strong></p><p>You’re a curious and practical Data Engineer who enjoys solving problems and finding better ways of doing things.</p><p>Ideally, you’ll bring:</p><ul><li><p>3+ years’ experience in data engineering or a related technical data role</p></li><li><p>Experience building automated data pipelines using ETL/ELT tools, SQL and Python</p></li><li><p>Experience with data warehouses, preferably Snowflake</p></li><li><p>Experience with APIs and integrating data across different systems</p></li><li><p>Experience with AWS services such as RDS, EC2 and S3</p></li><li><p>An understanding of data modelling, quality, governance, security and privacy</p></li><li><p>Strong problem-solving skills and attention to detail</p></li><li><p>The ability to make technical concepts easy to understand and work effectively with technical and non-technical stakeholders</p></li><li><p>A relevant tertiary qualification or equivalent practical experience</p></li></ul><p>More than anything, we’re looking for someone who takes ownership, enjoys learning and exploring better ways of doing things, and can balance the ideal technical solution with what will practically work for the Club. You’ll be approachable, down to earth and enjoy working with people across all areas of the Club. If you’re someone who enjoys sport, a fast-paced environment and being part of a team, you’ll feel right at home.</p><p><strong>Interested?</strong></p><p>If you’re excited by the opportunity to help build and shape the data environment of an AFL club, we’d love to hear from you.</p><p>Please submit your resume and cover letter detailing your relevant experience via our candidate portal using the link below:</p><p>https://goldcoastfc.my.salesforce-sites.com/recruit/fRecruit__ApplyJob?vacancyNo=VN156</p><p><strong>&nbsp;</strong></p>",
+      "keywords": [
+        "data",
+        "engineer"
+      ]
+    },
+    {
+      "job_id": "95989906",
+      "job_title": "Software Developer / Engineer",
+      "business_name": "Equinim College of Technology",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "$70,000 – $90,000 per year",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/95989906",
+      "advertiser_id": "62661973",
+      "posted_date": "2026-11-19T04:40:38Z",
+      "job_description": "<p>Wanting to join a passionate team in a meaningful role?</p><p><br>We are seeking someone who is interested in learning new things, willing to take on new challenges and grow in their skills! In this role you will work closely with our team to make progressive changes, create new items and maintain code bases including web applications &amp; potentially mobile applications.&nbsp;</p><p><br></p><p>We are a welcoming and ambitious team that has a strong focus on communication, supporting each other and achieving the outcome. We are looking for a driven person to contribute to growth and improvement in the right direction.</p><p><br></p><p>Skills Required:</p><ul><li><p>PHP&nbsp;</p></li><li><p>LAMP stack</p></li><li><p>MySQL</p></li><li><p>Good communication skills</p></li><li><p>Problem solving ability</p></li><li><p>Adaptability</p></li><li><p>Positive attitude</p></li></ul><p><br></p><p>Additional Wanted Skills:</p><ul><li><p>JavaScript</p></li><li><p>Bootstrap</p></li><li><p>Mobile app development</p></li></ul><p><br></p><p>This is an In House role located in our Southport office on the Gold Coast. We are looking for someone to join us 5 days per week and work on dynamic and evolving projects in a positive way.</p><p><br></p><p>We look forward to hearing from you!</p>",
+      "keywords": [
+        "software",
+        "developer",
+        "engineer"
+      ]
+    },
     {
       "job_id": "95978838",
       "job_title": "IT Support Engineer, Level 2 - ONGC",
@@ -1192,26 +1199,6 @@
       ]
     },
     {
-      "job_id": "95562246",
-      "job_title": "Service Delivery Manager - ONGC",
-      "business_name": "Lyra Technology Group",
-      "work_type": "Full time",
-      "job_type": "Management",
-      "pay_range": "",
-      "area": "Arundel, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95562246",
-      "advertiser_id": "62871597",
-      "posted_date": "2026-10-28T21:13:29Z",
-      "job_description": "<p><strong>Lyra Technology Group&nbsp;</strong>is a&nbsp;private&nbsp;equity-backed holding company that invests in and&nbsp;operates&nbsp;industry leading technology service businesses. Our companies are&nbsp;operated&nbsp;independently by exceptional management teams. Companies that join our group&nbsp;retain&nbsp;the employees, name, and culture that have made them successful. As a platform of&nbsp;Evergreen&nbsp;Services&nbsp;Group, we never divest from businesses we partner with and approach every decision with the goal of driving sustainable and healthy growth over the long term.  </p><p></p><p>Our Operating Company, <strong>ONGC</strong>, is looking for a <strong>Service Delivery Manager </strong>to join their team in Arundel, GQ.</p><p><strong></strong></p><p><strong>About The Role</strong></p><p></p><p>ONGC is looking for an accomplished <strong>Service Delivery Manager</strong> to lead their Managed Services function, drive operational excellence and deliver outstanding customer outcomes. </p><p></p><p>You will work closely with the Service Desk Manager and Team Leaders to ensure engineers are supported, workloads are managed effectively, tickets progress efficiently and customer issues are resolved before they escalate.</p><p></p><p>This is a hands-on leadership role that requires strong operational discipline, commercial awareness and the technical understanding to guide decisions across evolving technologies, systems and automation.</p><p></p><p><strong>Key Responsibilities</strong></p><ul>\n<li>Own operational performance</li>\n<li>Lead and develop people</li>\n<li>Champion customer experience</li>\n<li>Drive commercial outcomes</li>\n<li>Manage capacity and capability</li>\n<li>Turn data into action</li>\n<li>Improve systems and processes</li>\n<li>Provide technical oversight</li>\n<li>Collaborate across the business</li>\n</ul><p><strong>About You</strong></p><ul>\n<li>5–10 years of relevant experience, ideally within an MSP, Managed Services, Service Desk or technical operations environment.</li>\n<li>Proven experience managing service delivery, operational performance, customer relationships and team productivity.</li>\n<li>Strong knowledge of IT service management, incident and escalation management, SLA management, queue operations and continuous improvement.</li>\n<li>Commercial acumen, with the ability to understand utilisation, billable hours, gross margin and cost-to-serve, and translate performance data into practical action.</li>\n<li>Experience working with service management platforms and reporting tools, ideally including ConnectWise and BrightGauge.</li>\n<li>The ability to lead, coach and hold people accountable while building a collaborative, high-performing team.</li>\n<li>Strong communication skills and the confidence to manage challenging customer situations and engage with both technical and non-technical stakeholders.</li>\n<li>Broad technical knowledge and the ability to guide escalations, challenge assumptions and identify opportunities across emerging technologies and automation.</li>\n<li>ITIL certification or equivalent practical experience. Relevant business or technology management qualifications will be advantageous.</li>\n</ul><p></p><p><strong>Benefits</strong></p><ul>\n<li>Flexible working arrangements – 2 days WFH</li>\n<li>Clear career progression pathways</li>\n<li>Exposure to meaningful, enterprise technology projects</li>\n<li>Supportive, collaborative team culture focused on growth and innovation</li>\n<li>Opportunity to work with emerging AI technologies and innovative automation solutions</li>\n<li>Be part of a values-driven organisation committed to delivering exceptional outcomes for clients across Australia</li>\n<p>&nbsp;</p>\n</ul>",
-      "keywords": [
-        "service",
-        "delivery",
-        "manager",
-        "ongc"
-      ]
-    },
-    {
       "job_id": "95542375",
       "job_title": "IT Support Analyst",
       "business_name": "Palm Lake Group",
@@ -1425,86 +1412,6 @@
         "cloud",
         "managed",
         "it"
-      ]
-    },
-    {
-      "job_id": "95423370",
-      "job_title": "Enterprise & Solution Architect",
-      "business_name": "The BUSY Group",
-      "work_type": "Full time",
-      "job_type": "Architects",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95423370",
-      "advertiser_id": "14264186",
-      "posted_date": "2026-10-22T01:53:47Z",
-      "job_description": "<p>With almost 50 years of impact behind us, The BUSY Group is continuing to expand our reach across employment services, education, apprenticeships, vocational training and community programs. As our organisation grows globally, so does the complexity and opportunity within our technology landscape.</p>\n<br><p>We are looking for an experienced Enterprise &amp; Solution Architect to help guide that evolution.&nbsp;</p>\n\n<p>This is a rare opportunity to step into a highly influential role where you'll help shape technology strategy, modernise platforms, enable innovation, and ensure our technology investments support the next phase of growth. We're not looking for someone who wants to sit in the ivory tower producing diagrams nobody reads.&nbsp;</p>\n\n<p>We're looking for someone who enjoys rolling up their sleeves, solving complex problems and turning ideas into practical outcomes. Someone who can see the bigger picture while still helping teams navigate the path to get there.&nbsp;</p>\n\n<p><strong>About the Role&nbsp;</strong></p>\n\n<p>Reporting to the Chief Digital and Technology Officer, you'll play a key role in defining and governing enterprise architecture across The BUSY Group, while leading solution design for strategic initiatives and transformational programs.&nbsp;</p>\n\n<p>You'll work closely with executive leaders, business stakeholders, project teams and technology partners to ensure our technology ecosystem is scalable, secure, fit-for-purpose and aligned to organisational objectives.&nbsp;</p>\n\n<p>Key responsibilities include:&nbsp;</p>\n\n<ul>\n\t<li>Develop and maintain enterprise architecture frameworks, standards and roadmaps.&nbsp;</li>\n\t<li>Create technology strategies that support organisational growth and digital transformation.&nbsp;</li>\n\t<li>Lead solution architecture for major projects and business initiatives.&nbsp;</li>\n\t<li>Evaluate emerging technologies and recommend opportunities for innovation and improvement.&nbsp;</li>\n\t<li>Guide application, data, infrastructure and integration architecture decisions.&nbsp;</li>\n\t<li>Support cloud-first and modern workplace initiatives.&nbsp;</li>\n\t<li>Work closely with delivery teams to ensure solutions are practical, achievable and aligned to architectural principles.&nbsp;</li>\n\t<li>Partner with business leaders to understand challenges, identify opportunities and design scalable technology solutions.&nbsp;</li>\n\t<li>Influence technology investment decisions and long-term planning.</li>\n</ul>\n\n<p><strong>Why Join The BUSY Group?&nbsp;</strong></p>\n\n<p>At The BUSY Group, our work changes lives. Every day we help people gain skills, find employment, complete their education and create better futures for themselves and their communities.&nbsp;</p>\n\n<p>When you join us, you'll have the opportunity to:&nbsp;</p>\n\n<ul>\n\t<li>Shape technology strategy across a large and diverse international organisation.&nbsp;</li>\n\t<li>Influence significant transformation and modernisation initiatives.&nbsp;</li>\n\t<li>Work in an organisation with a strong social purpose and genuine community impact.&nbsp;</li>\n\t<li>Collaborate with passionate and committed leaders.&nbsp;</li>\n\t<li>Make your mark during an exciting period of growth and evolution.&nbsp;</li>\n\t<li>Enjoy flexibility and a supportive culture.&nbsp;</li>\n</ul>\n<br><p><strong>About You&nbsp;</strong></p>\n\n<p>You are naturally curious, commercially minded and excited by the challenge of helping a growing organisation scale effectively.&nbsp;</p>\n\n<p>You don't just identify problems. You find ways to solve them.&nbsp;</p>\n\n<p>You'll bring:&nbsp;</p>\n\n<ul>\n\t<li>Experience in Enterprise Architecture, Solution Architecture or a similar senior technology leadership role.&nbsp;</li>\n\t<li>Demonstrated success influencing enterprise-wide technology strategy.&nbsp;</li>\n\t<li>Strong understanding of cloud platforms, enterprise applications, software design and development, integration patterns, data architecture and cybersecurity principles.&nbsp;</li>\n\t<li>Experience delivering architecture outcomes within complex, multi-site organisations.&nbsp;</li>\n\t<li>Exceptional stakeholder engagement and communication skills.&nbsp;</li>\n\t<li>The ability to translate technical complexity into practical business solutions.&nbsp;</li>\n\t<li>A proactive and outcomes-focused mindset.&nbsp;</li>\n\t<li>A desire to build, improve and make things happen.</li>\n</ul>\n\n<p><strong>Ready to Build What's Next?&nbsp;</strong></p>\n\n<p>If you're an architect who enjoys balancing strategic vision with practical execution, and you're energised by the opportunity to help a growing organisation scale for the future, we'd love to hear from you.&nbsp;</p>\n\n<p>This role will actively commence recruitment from the date of advertisement. The closing date of this ad is dependent on the appointment of the role.&nbsp;</p>\n\n<p>The BUSY Group is an organisation that prioritises the safeguarding of children and all vulnerable people by actively adopting strategies that embed a culture of zero tolerance for abuse of any kind. The appointment of successful applicants will be subject to satisfactory employment screening including criminal history and relevant working with children checks. &nbsp;</p>\n\n<p>The BUSY Group is committed to achieving a diverse workforce and strongly encourages applications from First Nations People, veterans, people from culturally diverse backgrounds and people with disabilities.&nbsp;</p>",
-      "keywords": [
-        "enterprise",
-        "solution",
-        "architect"
-      ]
-    },
-    {
-      "job_id": "95381028",
-      "job_title": "Application Support Specialist – SQL & Integrations",
-      "business_name": "Your Pet PA",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$80,000 – $90,000 per year",
-      "area": "Burleigh Heads, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95381028",
-      "advertiser_id": "49883936",
-      "posted_date": "2026-10-20T07:26:50Z",
-      "job_description": "<p><br><strong>About us</strong></p><p>PawsApp, part of VetXtend, is a fast-growing veterinary technology business supporting over 1,100 veterinary practices across Australia and New Zealand. We develop innovative software solutions that help veterinary practices improve efficiency, streamline operations and deliver better client experiences.</p><p><strong>About the role</strong></p><p>This is an exciting opportunity for someone who enjoys investigating technical challenges, solving problems and working with customers. You will play a key role in ensuring our software platform and third-party integrations operate smoothly, helping veterinary practices get the most out of our technology. Working closely with our customer operations, onboarding and development teams, you will investigate technical issues, troubleshoot database and integration problems, and help improve the overall reliability of our platform.</p><p><strong>Key responsibilities</strong></p><ul><li><p>Investigating and resolving software, database and integration issues</p></li><li><p>Using SQL queries to analyse data, troubleshoot problems and identify discrepancies</p></li><li><p>Managing technical support tickets and escalating complex issues to developers</p></li><li><p>Supporting the technical onboarding and configuration of new veterinary practices</p></li><li><p>Troubleshooting integrations with veterinary Practice Management Information Systems (PIMS) and third-party software</p></li><li><p>Providing clear, professional technical assistance to customers</p></li><li><p>Working with internal teams and external software providers to resolve technical issues</p></li><li><p>Identifying recurring problems and recommending improvements</p></li><li><p>Maintaining technical documentation and contributing to better support processes</p></li></ul><p><strong>About you</strong></p><ul><li><p>Minimum 2 years' experience in application support, technical support or software troubleshooting</p></li><li><p>Strong SQL skills, including writing queries, joining tables and investigating data issues</p></li><li><p>Excellent analytical and problem-solving abilities</p></li><li><p>Strong communication skills and a customer-focused approach</p></li><li><p>Ability to investigate technical issues independently and manage multiple priorities</p></li><li><p>Experience working with ticketing systems and technical escalations</p></li><li><p>Experience troubleshooting APIs and software integrations</p></li><li><p>Experience with SaaS platforms or cloud-based applications</p></li><li><p>Familiarity with application logs and debugging tools</p></li></ul><p><br></p>",
-      "keywords": [
-        "application",
-        "support",
-        "specialist",
-        "sql",
-        "integrations"
-      ]
-    },
-    {
-      "job_id": "95365667",
-      "job_title": "IT Support / Network Technician",
-      "business_name": "Integrity First IT Pty Ltd",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$70,000 – $80,000 per year",
-      "area": "Ashmore, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95365667",
-      "advertiser_id": "63241549",
-      "posted_date": "2026-10-20T00:42:45Z",
-      "job_description": "<p><strong>About the role</strong></p><p>We are looking for a skilled IT Support / Network Technician to join our dynamic team in Ashmore, Queensland. This full-time position offers an exciting opportunity to deliver top-notch technical support and maintain IT infrastructure for a range of small to medium-sized businesses across the Brisbane to Burleigh area.</p><p>As an integral member of our small team, you'll be responsible for providing exceptional service, troubleshooting issues, and ensuring smooth IT operations for our valued clients. If you're passionate about IT, thrive in a collaborative environment, and want to make a real impact, we want to hear from you!</p><p><strong>What you'll be doing</strong></p><ul><li><p>Providing end-user support for hardware, software, and network issues</p></li><li><p>Troubleshooting and resolving technical problems in a timely manner</p></li><li><p>Performing system maintenance, updates, and upgrades</p></li><li><p>Monitoring network performance and implementing security measures</p></li><li><p>Documenting all support activities and maintaining accurate records</p></li><li><p>Collaborating within the team to ensure seamless service delivery</p></li><li><p>Providing training and guidance to end-users on the effective use of IT systems</p></li></ul><p><strong>What we're looking for</strong></p><ul><li><p>Either minimum 2 years of experience in an Level 1/2 IT support or Network Technician role OR able to demonstrate IT proficiency in many of the position required areas with an ability to learn and upskill quickly</p></li><li><p>Strong technical skills in hardware, software, and network troubleshooting</p></li><li><p>Working knowledge of Microsoft products and cloud-based technologies</p></li><li><p>Excellent problem-solving and analytical skills</p></li><li><p>Strong willingness to learn and grow</p></li><li><p>Effective communication and customer service abilities</p></li></ul><p><strong>What we offer</strong><br><br>At Integrity First IT, we believe in fostering a supportive, collaborative, and dynamic work environment. As part of our close-knit team, you'll enjoy flexible working hours and ample opportunities for personal and professional growth. You'll gain hands-on experience with a wide range of technologies and have the chance to learn directly from skilled colleagues.</p><p>If you're looking for a role where you can grow, contribute, and thrive, we'd love to hear from you!</p><p><strong>About us</strong><br><br>Integrity First IT Pty Ltd is a leading provider of IT services and solutions in the Ashmore region. We are one of the oldest and most respected IT support providers on the Gold Coast, having been established in 2007 and providing a consistently high level of support and service. In this environment, you will learn from the best and be able to fast track your technical skills to a new level.</p>",
-      "keywords": [
-        "it",
-        "support",
-        "network",
-        "technician"
-      ]
-    },
-    {
-      "job_id": "95362560",
-      "job_title": "Technical Support & Operations Coordinator",
-      "business_name": "Woods & Co",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$70,000 - $80,000 + super",
-      "area": "Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95362560",
-      "advertiser_id": "38821903",
-      "posted_date": "2026-10-19T22:13:42Z",
-      "job_description": "<p><strong>Woods &amp; Co </strong>Recruitment has partnered with a growing and innovative technology business specialising in beautifully designed, permanent photobooth installations across pubs and clubs. With a strong focus on hospitality, customer service and reliable technology, they're looking to add a hands-on and technically minded Technical Support &amp; Operations Coordinator to their growing team.</p><p>This is an opportunity suited to someone who enjoys problem-solving, working with technology and delivering outstanding customer service. You'll be responsible for monitoring photobooths remotely, managing client enquiries, troubleshooting technical issues and supporting the day-to-day operations of the business. Working closely with the events and operations teams, you'll also assist with installations and attend venues to resolve hardware issues when required.</p><p><strong>What's in it for you?</strong></p><ul><li><p>Opportunity to join a growing and innovative technology business</p></li><li><p>Varied role across technical support, customer service and operations</p></li><li><p>Hands-on exposure to a range of software, hardware and monitoring systems</p></li><li><p>Opportunity to develop your technical skills and learn new systems</p></li><li><p>Supportive and collaborative team environment</p></li><li><p>A mix of independent work, problem-solving and teamwork</p></li></ul><p><strong>What you'll be doing</strong></p><ul><li><p>Responding to client enquiries via email and digital platforms with a friendly, professional approach</p></li><li><p>Monitoring photobooths remotely and troubleshooting technical issues as they arise</p></li><li><p>Learning and managing internal software, monitoring systems and backend tools</p></li><li><p>Maintaining accurate fault logs, service records and event documentation</p></li><li><p>Coordinating with the events and operations teams before and during activations</p></li><li><p>Supporting backend administration, logistics and day-to-day operations</p></li><li><p>Attending venues to resolve hardware issues and assisting with photobooth installations when required</p></li><li><p>Escalating complex issues, following up on faults and helping improve system reliability</p></li></ul><p><strong>What we're looking for</strong></p><ul><li><p>Experience in technical support, IT, customer service, administration, hospitality, events or a similar role</p></li><li><p>Intermediate computer skills and the ability to quickly learn new software</p></li><li><p>Strong problem-solving skills and a calm approach under pressure</p></li><li><p>Excellent written and verbal communication skills</p></li><li><p>A customer-first mindset with strong organisational skills and attention to detail</p></li><li><p>Basic coding, software development or HTML knowledge would be highly regarded, but isn't essential</p></li><li><p>Ability to work independently and as part of a collaborative team</p></li><li><p>Queensland-based and able to attend venues onsite when required</p></li><li><p>Flexible, reliable and available to work the required weekday, evening and weekend roster</p></li></ul><p>If this sounds like you, please don't delay and&nbsp;APPLY NOW! We are interviewing immediately.</p><p>For a confidential discussion please call Flynn on<strong>&nbsp;<a href=\"tel:0489 089 604\">0489 089 604</a>&nbsp;</strong>Or email:&nbsp;<strong><a href=\"mailto:flynn@woodsco.com.au\">flynn@woodsco.com.au</a>&nbsp;</strong></p><p>Woods &amp; Co Recruitment&nbsp;is committed to creating a positively diverse and inclusive workforce that values all backgrounds and experiences. We do not discriminate and encourage applications (no matter age or status) from Aboriginal and Torres Strait Islander people, people from culturally and/or linguistically diverse backgrounds, all members, and genders of the LGBTQI community and people with disability. &nbsp;&nbsp; *You will only be contacted if you are shortlisted.</p>",
-      "keywords": [
-        "technical",
-        "support",
-        "operations",
-        "coordinator"
       ]
     }
   ]
