@@ -1,426 +1,480 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "region": "Gold Coast",
-  "scraped_at": "2026-11-20T11:32:29.195913+10:00",
-  "total_jobs": 52,
+  "scraped_at": "2026-11-21T11:00:08.185802+10:00",
+  "total_jobs": 53,
   "keywords": [
-    {
-      "term": "it",
-      "count": 15,
-      "share": 0.2885
-    },
     {
       "term": "engineer",
       "count": 15,
-      "share": 0.2885
+      "share": 0.283
+    },
+    {
+      "term": "it",
+      "count": 14,
+      "share": 0.2642
     },
     {
       "term": "support",
       "count": 12,
-      "share": 0.2308
+      "share": 0.2264
     },
     {
       "term": "officer",
       "count": 5,
-      "share": 0.0962
+      "share": 0.0943
     },
     {
       "term": "developer",
       "count": 5,
-      "share": 0.0962
+      "share": 0.0943
     },
     {
       "term": "systems",
       "count": 4,
-      "share": 0.0769
+      "share": 0.0755
     },
     {
       "term": "analyst",
       "count": 4,
-      "share": 0.0769
+      "share": 0.0755
     },
     {
       "term": "technology",
       "count": 4,
-      "share": 0.0769
+      "share": 0.0755
     },
     {
       "term": "software",
       "count": 4,
-      "share": 0.0769
+      "share": 0.0755
     },
     {
       "term": "application",
       "count": 4,
-      "share": 0.0769
+      "share": 0.0755
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.0769
+      "share": 0.0755
     },
     {
       "term": "business",
       "count": 3,
-      "share": 0.0577
+      "share": 0.0566
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0577
+      "share": 0.0566
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0577
+      "share": 0.0566
     },
     {
       "term": "manager",
       "count": 3,
-      "share": 0.0577
+      "share": 0.0566
     },
     {
       "term": "consultant",
       "count": 2,
-      "share": 0.0385
+      "share": 0.0377
     },
     {
       "term": "help",
       "count": 2,
-      "share": 0.0385
+      "share": 0.0377
+    },
+    {
+      "term": "ict",
+      "count": 2,
+      "share": 0.0377
     },
     {
       "term": "service",
       "count": 2,
-      "share": 0.0385
+      "share": 0.0377
+    },
+    {
+      "term": "infrastructure",
+      "count": 2,
+      "share": 0.0377
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0385
+      "share": 0.0377
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0385
+      "share": 0.0377
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "designers",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "allres",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "manufacturing",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "ai",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "cybersecurity",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "cloud",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "managed",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "golang",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "react",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "javascript",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "photocopier",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "telecommunications",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "l2",
       "count": 1,
-      "share": 0.0192
-    },
-    {
-      "term": "ict",
-      "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "distribution",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "centre",
       "count": 1,
-      "share": 0.0192
-    },
-    {
-      "term": "marymount",
-      "count": 1,
-      "share": 0.0192
-    },
-    {
-      "term": "college",
-      "count": 1,
-      "share": 0.0192
-    },
-    {
-      "term": "burleigh",
-      "count": 1,
-      "share": 0.0192
-    },
-    {
-      "term": "waters",
-      "count": 1,
-      "share": 0.0192
-    },
-    {
-      "term": "partner",
-      "count": 1,
-      "share": 0.0192
-    },
-    {
-      "term": "technical",
-      "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "operations",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
-      "term": "infrastructure",
+      "term": "marymount",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
+    },
+    {
+      "term": "college",
+      "count": 1,
+      "share": 0.0189
+    },
+    {
+      "term": "burleigh",
+      "count": 1,
+      "share": 0.0189
+    },
+    {
+      "term": "waters",
+      "count": 1,
+      "share": 0.0189
+    },
+    {
+      "term": "technical",
+      "count": 1,
+      "share": 0.0189
+    },
+    {
+      "term": "partner",
+      "count": 1,
+      "share": 0.0189
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "platforms",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "owner",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
+    },
+    {
+      "term": "advisor",
+      "count": 1,
+      "share": 0.0189
+    },
+    {
+      "term": "governance",
+      "count": 1,
+      "share": 0.0189
+    },
+    {
+      "term": "project",
+      "count": 1,
+      "share": 0.0189
     },
     {
       "term": "pmo",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "administrator",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "scenic",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "rim",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "mdus",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "cx",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "telephony",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "contractor",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "voip",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "sip",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "sms",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "website",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "specialist",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "growth",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "projects",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     },
     {
       "term": "literacy",
       "count": 1,
-      "share": 0.0192
+      "share": 0.0189
     }
   ],
   "jobs": [
+    {
+      "job_id": "96017215",
+      "job_title": "ICT Operations Manager",
+      "business_name": "Neumann Steel",
+      "work_type": "Full time",
+      "job_type": "Management",
+      "pay_range": "",
+      "area": "Currumbin, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/96017215",
+      "advertiser_id": "36874639",
+      "posted_date": "2026-11-20T04:49:22Z",
+      "job_description": "<p><strong>Why work for Neumann Steel?</strong><br>\nYou would be working for one of the most reputable family owned and operated companies first established on the Gold Coast over 50 years ago. We specialise in steel reinforcing and plastic accessory products in the QLD and NSW markets. Our highly integrated supply chain is supported by our experienced staff and a wealth of industry knowledge.<br>\n&nbsp;&nbsp;<br>\nWith a people-first mindset, Neumann Steel is dedicated to supporting the local community and fostering long-lasting relationships while delivering quality commercial and residential projects in the spirit of openness and honesty. We strive to build a rewarding, inclusive, and inspiring culture, with innovation at the forefront of mind.</p>\n<br><p>KEY RESPONSIBILITIES</p>\n\n<p>•&nbsp;&nbsp; &nbsp;Lead and be accountable for the service delivery and support of Neumann Steel’s computer, information systems requirements, IT infrastructure, architecture, design and Implementation, costs, and timelines.&nbsp;<br>\n•&nbsp;&nbsp; &nbsp;Own and manage the implementation and maintenance of the business computing needs and manage key MSP vendors, and ICT Operations team.<br>\n•&nbsp;&nbsp; &nbsp; Manage and maintain cyber security and day to day operations of cyber security.<br>\n•&nbsp;&nbsp; &nbsp;Management of the risk portal dashboard and associated actions.<br>\n•&nbsp;&nbsp; &nbsp;Own and manage Customer Service and Service Delivery for all of ICT.<br>\n•&nbsp;&nbsp; &nbsp;Manage ICT work queue and ticket assignment.<br>\n•&nbsp;&nbsp; &nbsp;ICT reporting analysis and ICT continuous improvement ensuring timely transparent monthly reporting for business units.<br>\n•&nbsp;&nbsp; &nbsp;ICT Operations Project Management .<br>\n•&nbsp;&nbsp; &nbsp;Lead ICT business change management to ensure updates, improvements, key policy changes and projects communicated and utlised by the business .<br>\n•&nbsp;&nbsp; &nbsp;Support the business on IT issues to agreed internal SLAs.<br>\n•&nbsp;&nbsp; &nbsp;Lead the management and support of the business IT and Communications Systems.<br>\n•&nbsp;&nbsp; &nbsp;Vendor management to agreed SLAs.<br>\n•&nbsp;&nbsp; &nbsp;Lead with change management and guide the CAB.<br>\n•&nbsp;&nbsp; &nbsp;Management of internal and external ICT communications.<br>\n•&nbsp;&nbsp; &nbsp;Management of policies and procedures and ensuring documentation is up to date for the business and MSP and ICT Support teams.<br>\n•&nbsp;&nbsp; &nbsp;Work with key vendors to ensure E8 and ISO 27001 alignment and reporting is integrated.<br>\n•&nbsp;&nbsp; &nbsp;Liaise with business and stakeholders regarding current and future state planning, organisation, controls of all electronic data operations ensuring minimal ICT interruptions.<br>\n•&nbsp;&nbsp; &nbsp;Lifecycle management of ICT hardware and end user compute software.&nbsp;<br>\n•&nbsp;&nbsp; &nbsp;User Support and Training.<br>\n•&nbsp;&nbsp; &nbsp;Vendor and Contract Management.<br>\n•&nbsp;&nbsp; &nbsp;Identify problematic risk areas and communicate these for mitigation.&nbsp;<br>\n•&nbsp;&nbsp; &nbsp;Own and manage incident management, problem management, root cause analysis and change management following internal ITIL processes.<br>\n•&nbsp;&nbsp; &nbsp;Preserve assets, information security and control structures.<br>\n•&nbsp;&nbsp; &nbsp;Assist with the annual budget and ensure cost effectiveness across the department.<br>\n•&nbsp;&nbsp; &nbsp;Assist the team with their work queue management and ticketing tools and PDP/KPI plans.<br>\n•&nbsp;&nbsp; &nbsp;Work collaboratively with all internal and external customers and teams on any business defined projects where ICT support is required.<br>\n•&nbsp;&nbsp; &nbsp;Working with the team to regularly identify and improve processes, systems and create efficiencies within the business.<br>\n•&nbsp;&nbsp; &nbsp;Adhere to and ensure compliance with all company ICT, Finance processes and company policies.<br>\n•&nbsp;&nbsp; &nbsp;Carry out other duties as required.<br>\n&nbsp;</p>\n<br><p>QUALIFICATIONS</p>\n\n<p>•&nbsp;&nbsp; &nbsp;ITL V3 or V4 foundation.<br>\n•&nbsp;&nbsp; &nbsp;Cyber Security delivery.<br>\n•&nbsp;&nbsp; &nbsp;3-years minimum supervising and team management experience.<br>\n•&nbsp;&nbsp; &nbsp;Supporting distributed Microsoft environments.<br>\n•&nbsp;&nbsp; &nbsp;Mobile Device Management administration (Microsoft Intune).<br>\n•&nbsp;&nbsp; &nbsp;Windows 10 Support.<br>\n•&nbsp;&nbsp; &nbsp;Exceptional knowledge of MOE and group policies.<br>\n•&nbsp;&nbsp; &nbsp;Active Directory design, maintenance, and hands-on experience.<br>\n•&nbsp;&nbsp; &nbsp;Microsoft 365 Administration Experience.<br>\n•&nbsp;&nbsp; &nbsp;Some experience with ISO27001 and E8 Alignment.<br>\n•&nbsp;&nbsp; &nbsp;Previous experience and proven success in a similar role.<br>\n•&nbsp;&nbsp; &nbsp;Excellent working knowledge of computer systems, security, network and systems administration, databases and data storage systems, and Mitel and Teams phone systems.<br>\n•&nbsp;&nbsp; &nbsp;Excellent project management skills and strong ability to prioritise.<br>\n•&nbsp;&nbsp; &nbsp;Excellent communication written and verbal communication skills with effective rapport building skills with a varied audience.<br>\n•&nbsp;&nbsp; &nbsp;Positive can-do attitude.<br>\n•&nbsp;&nbsp; &nbsp;Ability to work on all tasks from password resets to large projects.<br>\n•&nbsp;&nbsp; &nbsp;A team player with respect for self &amp; others.<br>\n•&nbsp;&nbsp; &nbsp;Self-starter who takes pride in their work and strives for excellence.<br>\n•&nbsp;&nbsp; &nbsp;Thrives under pressure.<br>\n•&nbsp;&nbsp; &nbsp;Embraces changes.<br>\n•&nbsp;&nbsp; &nbsp;Passion for producing quality work.</p>",
+      "keywords": [
+        "ict",
+        "operations",
+        "manager"
+      ]
+    },
+    {
+      "job_id": "96016823",
+      "job_title": "Advisor - Governance - Infrastructure Project",
+      "business_name": "UpperGround by Hudson",
+      "work_type": "Contract/Temp",
+      "job_type": "Programme & Project Management",
+      "pay_range": "AUD 75.08 per hour, plus supe 7.5 hours per day",
+      "area": "Gaven, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/96016823",
+      "advertiser_id": "63864024",
+      "posted_date": "2026-11-20T04:36:06Z",
+      "job_description": "The Governance team provides high level advice and guidance to managers, team leaders and team members through management of governance services across the region and actively supports the governance structure for major projects, such as Pacific Motorway (M1) upgrades, Coomera Connector and the Natural Disaster Program within the Region.<br><br>As part of this team, the role is responsible for providing advice and analysis of varied project and program data, giving advice on governance issues, safety data, government election commitments and project milestone data:<br><br><strong>Key Responsibilities include:</strong> <br><ul><li>Timely and accurate preparation of agendas and minutes for program and project leadership meetings, steering committees and program boards.</li><li>Preparation of and analysis of financial and risk documentation, reviewing financial data and providing input for the Principal Advisor Governance to utilise.</li><li>Provide advice and assistance on dashboard development to track project risks, issues, spend against budget and to demonstrate compliance to key business areas.</li><li>Creation, development and review of dashboards ensuring the projects are showing appropriate information to inform leadership teams and the Region and Program Boards of key information.</li><li>Monthly reporting of Project / Program performance utilising 3PCM software.</li><li>Monthly risk management review and reporting.</li><li>Provide advice on governance structure and reporting requirements to program and project managers and project team members to contribute to effective management of infrastructure programs and projects.</li><li>Preparation and review of project and program information for advice to the Federal Government.</li><li>Manage and review indigenous reporting for South Coast Region, offering advice on process to PIP and PDO and look at improvements to the accuracy of data reporting into the Federal Government.</li><li>Manage the reporting and analysis of Government Election Commitments (GECs), to the Regional Program Board, ensuring the dashboard is accurate and assists with key decision making.</li><li>Liaising with external parties and assisting with financial processes in alignment with the departmental procurement business and governance framework.</li></ul><br><strong>Mandatory Requirements:</strong><br><ul><li>Current holder of a Class C driver’s licence with own vehicle to attend various sites, TMR offices and face to face meetings. (travel costs will not form part of the contract)</li><li>Required to undergo employment screening (for example a criminal history check) as part of our selection process.</li><li>Previous experience using PowerBi or advanced Microsoft Excel skills.</li><li>Previous experience in preparation and presentation of agendas and minutes for technical meetings and boards.</li></ul><br>To submit your application, please apply online using the appropriate link below. Alternatively, for a confidential discussion, please contact<strong> Kylie Graham </strong>in our <strong>Brisbane</strong> office on <a href=\"tel:0439 210 202\">0439 210 202</a><strong>&nbsp;or email <a href=\"mailto:kylie.graham@hudson.com\">kylie.graham@hudson.com</a></strong>, quoting Ref No. <strong>250835</strong>.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>Your interest will be treated in the strictest of confidence.<br><br><strong>Applications close 7.00am Thursday 26 November.</strong><br><br><br><br><br><em><strong>Diversity, Equity &amp; Inclusion at Hudson</strong><br><em>Hudson is committed to helping you find a workplace where you feel respected, supported, and free to thrive. We welcome applications from all backgrounds, identities, and lived experiences—because when different voices come together, amazing things happen</em>.<br></em><em><br></em>",
+      "keywords": [
+        "advisor",
+        "governance",
+        "infrastructure",
+        "project"
+      ]
+    },
     {
       "job_id": "95996922",
       "job_title": "Data Engineer",
@@ -1312,25 +1366,6 @@
         "desk",
         "support",
         "l2"
-      ]
-    },
-    {
-      "job_id": "95486965",
-      "job_title": "IT Operations Manager",
-      "business_name": "Experience Gold Coast",
-      "work_type": "Contract/Temp",
-      "job_type": "Management",
-      "pay_range": "",
-      "area": "Broadbeach, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95486965",
-      "advertiser_id": "62314304",
-      "posted_date": "2026-10-26T02:14:24Z",
-      "job_description": "<p><strong>About Us</strong></p><p>Experience Gold Coast (EGC) is a single, unified organisation that brings together HOTA (Home of the Arts), Destination Gold Coast, Study Gold Coast and Major Events Gold Coast. Formed in 2023, EGC plays a central role in driving the growth of the city’s visitor economy, with a focus on tourism, events, arts and culture, and education. Our objective is to position the Gold Coast as the lifestyle capital of Australia.</p><p></p><p><strong>About the Role</strong></p><p>We’re looking for an experienced IT Operations Manager to join EGC on a <strong>12-month fixed-term contract</strong>. You’ll be EGC’s key internal IT contact, taking day-to-day ownership of our technology environment across HOTA, Student Hub and Broadbeach.</p><p></p><p>Reporting to the General Manager, Business Services, you’ll provide hands-on technical leadership across IT operations, infrastructure, cybersecurity and business systems, coordinating issues and priorities with our managed-service provider and specialist suppliers.&nbsp;You’ll resolve and coordinate day-to-day IT needs, provide practical advice on technology improvements, and lead approved projects that strengthen the reliability, security and performance of our multi-site environment.&nbsp;</p><p><strong></strong></p><p><strong>What You’ll Do</strong></p><ul>\n<li>Oversee IT operations, infrastructure, networks, connectivity and business systems across EGC sites, whilst providing hands-on support, triage and coordination as EGC’s key internal contact.</li>\n<li>Work closely with and coordinate our managed service provider and technology suppliers, ensuring clear priorities, accountability and timely issue resolution.</li>\n<li>Coordinate major incidents, cybersecurity risks, system changes and business continuity arrangements.</li>\n<li>Develop technology roadmaps, identify improvement opportunities and provide clear, practical advice to the business on technology priorities, risks, options and investment needs.&nbsp;Lead approved technology projects and changes, from planning through to implementation, testing and ongoing support.</li>\n<li>Oversee technology procurement, licensing, assets, renewals and supplier costs.</li>\n<li>Build strong stakeholder relationships and support the adoption of approved AI tools, including Microsoft 365 Copilot.</li>\n</ul><p></p><p><strong>What You’ll Bring</strong></p><ul>\n<li>Demonstrated experience managing IT services in a multi-site organisation, including outsourced or co-managed IT environments.</li>\n<li>Strong technical knowledge of enterprise networking, infrastructure, connectivity, wireless and firewalls.</li>\n<li>Experience across IT service management, cybersecurity, cloud services, business applications and technology projects.</li>\n<li>Working knowledge of Microsoft 365 Copilot and enterprise AI tools, including information protection and user adoption.</li>\n<li>Strong supplier management, commercial, procurement and technology asset management skills.</li>\n<li>Excellent communication, stakeholder engagement and problem-solving skills, with the ability to translate technical issues into practical business solutions.</li>\n<li>Sound judgement, strong prioritisation skills and flexibility to support critical incidents or implementations outside standard hours when required.</li>\n<li>Relevant ITIL, project management, cybersecurity, networking or Microsoft qualifications are desirable, as is experience supporting venues, tourism, events or other public-facing operations.</li>\n</ul><p><strong></strong></p><p><strong>Why You’ll Love Working With Us</strong></p><ul>\n<li>Be Part of the Action: Work at the heart of the Gold Coast’s thriving arts and culture scene, where creativity and community come together.</li>\n<li>Exclusive Discounts: Enjoy discounts at Food &amp; Beverage outlets across the HOTA precinct, plus discounted tickets to cinema screenings, events and activities.</li>\n<li>Empowerment Time: Take four paid days per year dedicated to personal growth and wellbeing.</li>\n<li>Paid Parental Leave: We support our team members with paid leave during this important life stage.</li>\n<li>Wellbeing Support: Access Sonder, our comprehensive team member care and wellbeing service.</li>\n<li>Professional Development: Unlock learning opportunities through our Learning Lab, offering up to 1,000 courses to help you grow and thrive.</li>\n</ul><p>Join us in creating unforgettable experiences at Experience Gold Coast!</p><p><strong></strong></p><p><strong>How to Apply</strong></p><p>Take the next step in your IT leadership career and apply today!</p><p></p><p>Please submit a brief cover letter along with your resume.</p><p></p><p>Experience Gold Coast values diversity and inclusion. We are dedicated to providing equitable employment opportunities and welcome applications from individuals of all cultures, genders, ages, Australia’s First Nations Peoples, LGBTIQ+ communities, and people with disabilities.</p>",
-      "keywords": [
-        "it",
-        "operations",
-        "manager"
       ]
     },
     {
