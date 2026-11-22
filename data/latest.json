@@ -1,438 +1,413 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "region": "Gold Coast",
-  "scraped_at": "2026-11-21T11:00:08.185802+10:00",
-  "total_jobs": 53,
+  "scraped_at": "2026-11-22T10:00:17.515450+10:00",
+  "total_jobs": 51,
   "keywords": [
     {
       "term": "engineer",
       "count": 15,
-      "share": 0.283
+      "share": 0.2941
     },
     {
       "term": "it",
-      "count": 14,
-      "share": 0.2642
+      "count": 13,
+      "share": 0.2549
     },
     {
       "term": "support",
       "count": 12,
-      "share": 0.2264
-    },
-    {
-      "term": "officer",
-      "count": 5,
-      "share": 0.0943
+      "share": 0.2353
     },
     {
       "term": "developer",
       "count": 5,
-      "share": 0.0943
-    },
-    {
-      "term": "systems",
-      "count": 4,
-      "share": 0.0755
+      "share": 0.098
     },
     {
       "term": "analyst",
       "count": 4,
-      "share": 0.0755
-    },
-    {
-      "term": "technology",
-      "count": 4,
-      "share": 0.0755
+      "share": 0.0784
     },
     {
       "term": "software",
       "count": 4,
-      "share": 0.0755
+      "share": 0.0784
     },
     {
       "term": "application",
       "count": 4,
-      "share": 0.0755
+      "share": 0.0784
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.0755
+      "share": 0.0784
     },
     {
-      "term": "business",
+      "term": "officer",
+      "count": 4,
+      "share": 0.0784
+    },
+    {
+      "term": "systems",
       "count": 3,
-      "share": 0.0566
+      "share": 0.0588
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0566
+      "share": 0.0588
     },
     {
       "term": "technician",
       "count": 3,
-      "share": 0.0566
+      "share": 0.0588
     },
     {
       "term": "manager",
       "count": 3,
-      "share": 0.0566
+      "share": 0.0588
     },
     {
-      "term": "consultant",
-      "count": 2,
-      "share": 0.0377
+      "term": "technology",
+      "count": 3,
+      "share": 0.0588
     },
     {
       "term": "help",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0392
     },
     {
       "term": "ict",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0392
     },
     {
       "term": "service",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0392
+    },
+    {
+      "term": "business",
+      "count": 2,
+      "share": 0.0392
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0392
     },
     {
       "term": "product",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0392
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0377
+      "share": 0.0392
     },
     {
       "term": "solution",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "designers",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "allres",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
-      "term": "manufacturing",
+      "term": "consultant",
       "count": 1,
-      "share": 0.0189
-    },
-    {
-      "term": "ai",
-      "count": 1,
-      "share": 0.0189
-    },
-    {
-      "term": "cybersecurity",
-      "count": 1,
-      "share": 0.0189
-    },
-    {
-      "term": "cloud",
-      "count": 1,
-      "share": 0.0189
-    },
-    {
-      "term": "managed",
-      "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "golang",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "react",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "javascript",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0189
-    },
-    {
-      "term": "ongc",
-      "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "photocopier",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
+    },
+    {
+      "term": "ongc",
+      "count": 1,
+      "share": 0.0196
     },
     {
       "term": "telecommunications",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "l2",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "distribution",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "centre",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "operations",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "marymount",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "waters",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "technical",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "platform",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "platforms",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "owner",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "governance",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "project",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "pmo",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "administrator",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "scenic",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "rim",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "mdus",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "cx",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "telephony",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "contractor",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "voip",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "sip",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "sms",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "website",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "specialist",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "growth",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "projects",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     },
     {
       "term": "literacy",
       "count": 1,
-      "share": 0.0189
+      "share": 0.0196
     }
   ],
   "jobs": [
@@ -1197,25 +1172,6 @@
       ]
     },
     {
-      "job_id": "95615626",
-      "job_title": "Business Systems Officer",
-      "business_name": "Kalwun Development Corporation Ltd",
-      "work_type": "Full time",
-      "job_type": "Business/Systems Analysts",
-      "pay_range": "",
-      "area": "Varsity Lakes, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95615626",
-      "advertiser_id": "35401029",
-      "posted_date": "2026-10-31T03:03:20Z",
-      "job_description": "<p><strong>Join the Kalwun Team - Make a Real Impact in Community!</strong></p>\n\n<p>Kalwun Development Corporation Ltd, a proud Aboriginal and Torres Strait Islander community-controlled organisation, is calling on passionate changemakers to join our&nbsp;Business Systems &amp; Enablement&nbsp;team.</p>\n\n<p>Whether you’re delivering frontline services, supporting our community behind the scenes, or helping to strengthen cultural connections, your work will make a real difference in the lives of Aboriginal and Torres Strait Islander people across South East Queensland. Kalwun offers a wide range of programs across health, community, and family services, all grounded in culture, care, and connection.</p>\n\n<p><strong>About the role</strong><br>\nThe Business Systems Officer supports the administration, maintenance and continuous improvement of Kalwun's business systems and software, including operational, financial, reporting and workflow platforms.&nbsp;The role supports day-to-day system administration, maintains data integrity, manages user access and permissions, assists with system troubleshooting, and supports staff in the effective use of business applications.</p>\n\n<p>Working collaboratively with internal teams and external software providers, the Business Systems Officer contributes to system implementations, upgrades, testing, documentation and process improvements to ensure Kalwun's systems remain efficient, reliable and aligned with organisational requirements.</p>\n\n<p>This is a full-time fixed term role for approximately 18 months, covering parental leave. The role is based in Varsity Lakes, however partial work from home is available.&nbsp;</p>\n\n<p><strong>What you'll be doing</strong>&nbsp; &nbsp;</p>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li><strong>Business Systems Administration:</strong> Configure, maintain and support organisational business systems, including user access, permissions, security settings and system performance.</li>\n\t<li><strong>Systems Support &amp; Training:</strong> Provide staff with technical support, troubleshooting, guidance and training to ensure effective use of business applications.</li>\n\t<li><strong>Systems Improvement &amp; Projects:</strong> Assist with system implementations, upgrades, testing, integrations and process improvements to enhance operational efficiency.</li>\n\t<li><strong>Data Management &amp; Reporting:</strong> Maintain data accuracy and integrity, investigate discrepancies and support the development of reports and dashboards.</li>\n\t<li><strong>Systems Governance &amp; Compliance:</strong> Maintain system controls, access permissions, documentation and compliance with organisational policies and data security requirements.</li>\n\t<li><strong>Finance &amp; Operational Systems:</strong> Provide administration and support for key financial and operational platforms, including<strong> Sage Intacct and Sandwai,</strong> working closely with Finance and operational teams to improve system functionality and processes.</li>\n</ul>\n\n<h2><strong>About You</strong></h2>\n\n<p>You’re someone who:</p>\n\n<ul>\n\t<li>Builds strong, respectful relationships with Aboriginal and Torres Strait Islander communities</li>\n\t<li>Brings experience in business systems administration, application support or a similar role</li>\n\t<li>Is passionate about making a positive impact and supporting others with heart and purpose</li>\n</ul>\n\n<p><strong>Essential selection criteria</strong></p>\n\n<ol>\n\t<li>Sound understanding of business operations, systems and workflows.</li>\n\t<li>Experience working with business software, including ERP, CRM, workflow or operational management platforms.</li>\n\t<li>Strong analytical, problem-solving and troubleshooting skills.</li>\n\t<li>Excellent attention to detail and commitment to data accuracy.</li>\n\t<li>Understanding of user access management, system permissions and data security principles.</li>\n\t<li>Proficiency in Microsoft Office applications, including Excel.</li>\n</ol>\n\n<p><strong>Requirements</strong></p>\n\n<ul>\n\t<li>National police check</li>\n\t<li>Current drivers' license (minimum Ps).</li>\n</ul>\n\n<p><strong>What we offer&nbsp;</strong><br>\nKalwun values the contributions of all staff and is committed to providing an inclusive workplace where all staff feel accepted, included and welcomed. Our Employees enjoy a variety of benefits including:</p>\n\n<ul>\n\t<li>Competitive salary of $92,000 + super per annum</li>\n\t<li>Salary sacrifice of $15,900 per annum which can significantly increase your take home pay, plus meal and entertainment expenses of $2,650</li>\n\t<li>Company that is focused on improving the health and wellbeing of our community</li>\n\t<li>5 weeks annual leave + extra paid personal leave</li>\n\t<li>Paid parental leave</li>\n\t<li>A workplace where mob lead the way.</li>\n</ul>\n\n\n\n<p><strong>Our Commitment to Culture</strong><br>\nKalwun strongly encourages Aboriginal and Torres Strait Islander peoples to apply. We are committed to creating a culturally safe, inclusive and respectful workplace where staff and clients feel valued, heard and supported.</p>\n\n<p><strong>To apply</strong><br>\nSend us your CV and a short cover letter addressing the selection criteria.</p>\n\n<p><strong>Together, let’s build stronger futures for our kids, our families, and our communities.</strong></p>",
-      "keywords": [
-        "business",
-        "systems",
-        "officer"
-      ]
-    },
-    {
       "job_id": "95603564",
       "job_title": "Senior Application Support",
       "business_name": "Peoplebank Australia QLD",
@@ -1423,30 +1379,6 @@
         "it",
         "support",
         "officer"
-      ]
-    },
-    {
-      "job_id": "95432860",
-      "job_title": "Manufacturing Technology Consultant | AI, Cybersecurity, Cloud & Managed IT",
-      "business_name": "First Focus IT P/L",
-      "work_type": "Full time",
-      "job_type": "Consultants",
-      "pay_range": "$200,000 – $300,000 per year",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95432860",
-      "advertiser_id": "35852943",
-      "posted_date": "2026-10-22T05:57:17Z",
-      "job_description": "<p><strong>You know manufacturing.</strong></p><p>Not just that factories are full of expensive machinery, production schedules rarely go exactly to plan, and the words \"the system is down\" can make an Operations Manager's blood pressure rise faster than a Friday afternoon production deadline.</p><p>You understand how manufacturing businesses actually operate, how business owners and operations leaders think, how technology decisions get made, and why reliability matters more than the cheapest quote.</p><p>Maybe you've sold manufacturing technology. Maybe you've worked in manufacturing IT. Maybe you've helped manufacturers modernise production systems, cybersecurity, ERP platforms, infrastructure or cloud environments.</p><p>Whatever your path, you know that manufacturing businesses don't buy technology for technology's sake. They buy outcomes.</p><p>First Focus is looking for a <strong>Manufacturing Technology Consultant</strong> to help Australian manufacturers confidently navigate AI, cybersecurity, managed IT and cloud transformation.</p><p>We are Australia's leading managed AI and IT services provider, and our marketing engine delivers a strong pipeline of qualified opportunities from businesses already looking to improve how they work.</p><p>This is an individual contributor role. It isn't a graduate sales position, and it isn't a lead generation role. You'll need to arrive with strong commercial instincts, excellent discovery skills, genuine depth of manufacturing industry knowledge and the ability to build credibility quickly with business owners, Managing Directors, Operations Managers and manufacturing leaders.</p><p><br></p><h2>What You'll Be Doing</h2><p>You'll work with small and mid-sized manufacturing businesses, typically between 20 and 250 users, who are reviewing their technology strategy, cybersecurity, AI roadmap or existing IT partner.</p><p>AI is rapidly changing manufacturing.</p><p>Business owners and operations leaders want to know how Microsoft Copilot, secure AI assistants and automation can improve production planning, inventory management, reporting, supply chain visibility and productivity without compromising operational reliability, data security or business continuity.</p><p>You'll help manufacturers move beyond AI curiosity into practical, secure and commercially sensible adoption.</p><p>You'll lead the commercial conversation from qualification through to proposal and close. That means understanding how the business operates, where technology is creating friction, how decisions are made, who needs to be involved and what success looks like.</p><p>You'll work closely with technical specialists, solution architects and delivery teams, but you'll own the client relationship and sales process. You'll be expected to quickly develop a strong understanding of First Focus's AI, cybersecurity, cloud and managed services offerings, confidently lead technical and commercial conversations, and translate these services into outcomes that resonate with business owners, operations leaders and manufacturing executives. You'll be expected to quickly master the key technical talking points and confidently lead client conversations independently, bringing in technical specialists for genuinely complex requirements rather than routine discussions.</p><p>You'll write clear, commercially credible proposals that explain the business case for change, while ensuring smooth handovers into implementation because a successful sale doesn't end with a signature.</p><p>And in manufacturing, a successful implementation means a lot more than everyone being able to log into their laptops on Monday morning.</p><p><br></p><h2>About You</h2><p>You understand that selling into manufacturing businesses is different.</p><p>Trust is earned. Reliability matters. Downtime matters. Relationships matter.</p><p>You know how to have commercial conversations with professionals who expect you to understand their business before talking about yours.</p><p>You understand that when production stops, the consequences aren't just technical. They can mean missed deadlines, lost revenue, disrupted supply chains and some fairly unhappy customers.</p><p>You're also naturally curious about AI and already using it to improve the way you work, whether that's research, writing, preparation, productivity or client engagement.</p><p>You'll probably be a great fit if you have:</p><ul><li><p>At least five years' experience in consultative B2B sales, solution consulting or technology consulting, with sustained exposure to the manufacturing industry.</p></li><li><p>Demonstrated depth of experience selling into manufacturing businesses or working directly within manufacturing, industrial or production environments. You'll understand manufacturing workflows, operational systems and decision-making processes, and be able to explain technology decisions you've personally influenced and the outcomes delivered.</p></li><li><p>Experience with managed services, manufacturing technology, cybersecurity, cloud, AI, ERP systems, infrastructure or operational technology.</p></li><li><p>Confidence engaging with Managing Directors, Business Owners, CEOs, CFOs, COOs, Operations Managers, Production Managers and IT decision-makers.</p></li><li><p>Strong discovery skills and the discipline to qualify opportunities properly.</p></li><li><p>Excellent written communication and proposal development skills.</p></li><li><p>Strong technical aptitude and the ability to quickly become confident discussing AI, cybersecurity, cloud and managed services independently, including the key capabilities, risks and business outcomes, without routinely relying on technical specialists to lead client conversations.</p></li><li><p>High commercial standards and the expectation that your remuneration reflects the value you create.</p></li></ul><p>Experience with manufacturing technologies, manufacturing execution and production management platforms would be highly regarded, but isn't essential.</p><p>An understanding of operational technology (OT), industrial networks, production environments or the challenges of connecting factory-floor systems with business IT would also be valuable.</p><p>You don't need to know how to repair a CNC machine. But understanding why an unexpected production outage is a bigger problem than someone's Outlook calendar refusing to synchronise would certainly help.</p><p><strong>This role probably isn't the right fit if your experience has been primarily lead generation, transactional product sales or heavily supported enterprise sales where large bid teams carry most of the commercial process.</strong></p><p>We're specifically looking for someone who understands the manufacturing industry, not simply a generalist technology consultant looking for a new market to sell into.</p><p><br></p><h2>What Great Looks Like</h2><p>Within six months you'll be confidently leading strategic and technical conversations with business owners, Managing Directors and manufacturing leaders, independently communicating the value of First Focus's services, converting qualified opportunities into long-term managed services clients and becoming a trusted advisor to manufacturers navigating AI and technology change.</p><p>You'll build credibility because you understand the commercial realities of manufacturing.</p><p>You'll earn trust internally because you qualify thoroughly, sell accurately and hand over opportunities that delivery teams genuinely enjoy implementing.</p><p>Most importantly, you'll help Australian manufacturers embrace AI safely, improve cybersecurity, modernise infrastructure, reduce operational risk and create better experiences for their employees and customers.</p><p>You'll understand that technology should support production, not become another reason production stops.</p><p><br></p><h2>Why First Focus</h2><p>Manufacturing businesses don't need another IT supplier.</p><p>They need a technology partner who understands operational reliability, cyber risk, business continuity and how manufacturing businesses actually work.</p><p>First Focus is Australia's leading managed AI and IT services provider, with more than 350 specialists across Australia, New Zealand and the Philippines.</p><p>We're helping Australian businesses use AI in practical, secure and commercially valuable ways. Behind every conversation you'll have is deep technical capability across managed AI, managed IT, cybersecurity, cloud, Microsoft technologies, modern workplace and business technology.</p><p>You'll have genuine delivery capability behind you, a trusted brand in the market and a marketing engine generating qualified demand.</p><p>You won't spend your days cold calling from a spreadsheet.</p><p>You'll spend them helping manufacturers that already know they need to modernise, making smart technology decisions that improve productivity, reduce risk, strengthen business continuity and create lasting client relationships.</p><p>Our First Focus values include <strong>Be the Solution</strong>, which fits this role particularly well. We believe in taking ownership, solving problems and following through, rather than selling technology and leaving someone else to deal with the consequences.</p><p>Because when a manufacturer's systems stop working, \"have you tried turning it off and on again?\" isn't always the commercially sensible answer.</p><p>Learn more about First Focus and our values at https://www.firstfocus.com.au/about-us/.</p><p><br></p><h2>What You'll Get</h2><ul><li><p>A competitive base salary between <strong>$150,000–$200,000 base excluding superannuation, plus up to $100k OTE</strong></p></li><li><p>A strong pipeline of qualified opportunities, supported by an established marketing engine.</p></li><li><p>Flexible working arrangements that support genuine work-life balance.</p></li><li><p>Free access to Uprise, including 1:1 coaching with qualified psychologists or counsellors.</p></li><li><p><strong>Never Stop Growing:</strong> 10 paid study days per year, paid exam fees and pay rises for certifications (conditions apply).</p></li><li><p>Weekly internal training sessions and access to our learning library.</p></li><li><p>Our FastTrack mentoring program to support your development.</p></li><li><p>Our MAD (Making a Difference) Council, supporting equality, charity and environmental initiatives.</p></li><li><p>The option of a Tesla company car (conditions apply).</p></li><li><p>Regular social events and a genuinely supportive team culture.</p></li></ul><p><br></p><h2>Ready to Make an Impact?</h2><p>If you understand manufacturing, know how to build trusted commercial relationships and want to help Australian businesses make smarter technology decisions, we'd love to hear from you.</p><p>Bring your industry expertise, your commercial instincts and your curiosity.</p><p>We'll bring the technical expertise, qualified opportunities and a team that knows how to deliver.</p><p><br></p><h2>Neurodiversity</h2><p>Neurodiversity: First Focus welcomes applications from Neurodiverse candidates. We recommend &amp; appreciate disclosure along with the application so that a copy of our Neurodiversity Statement can be provided outlining the flexible options we can offer to best showcase your skills.</p><h2>AI in Recruitment</h2><p>AI in Recruitment: We use AI-assisted recruitment tools as part of our recruitment process. These tools do not make hiring decisions. Candidate information is handled in accordance with the Privacy Act 1988 (Cth).</p>",
-      "keywords": [
-        "manufacturing",
-        "technology",
-        "consultant",
-        "ai",
-        "cybersecurity",
-        "cloud",
-        "managed",
-        "it"
       ]
     }
   ]
