@@ -1,416 +1,410 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "region": "Gold Coast",
-  "scraped_at": "2026-11-22T10:00:17.515450+10:00",
-  "total_jobs": 51,
+  "scraped_at": "2026-11-23T10:32:29.504537+10:00",
+  "total_jobs": 44,
   "keywords": [
     {
       "term": "engineer",
-      "count": 15,
-      "share": 0.2941
-    },
-    {
-      "term": "it",
-      "count": 13,
-      "share": 0.2549
+      "count": 12,
+      "share": 0.2727
     },
     {
       "term": "support",
-      "count": 12,
-      "share": 0.2353
+      "count": 11,
+      "share": 0.25
+    },
+    {
+      "term": "it",
+      "count": 10,
+      "share": 0.2273
     },
     {
       "term": "developer",
       "count": 5,
-      "share": 0.098
+      "share": 0.1136
     },
     {
       "term": "analyst",
       "count": 4,
-      "share": 0.0784
+      "share": 0.0909
     },
     {
       "term": "software",
       "count": 4,
-      "share": 0.0784
-    },
-    {
-      "term": "application",
-      "count": 4,
-      "share": 0.0784
+      "share": 0.0909
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.0784
-    },
-    {
-      "term": "officer",
-      "count": 4,
-      "share": 0.0784
+      "share": 0.0909
     },
     {
       "term": "systems",
       "count": 3,
-      "share": 0.0588
+      "share": 0.0682
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0588
-    },
-    {
-      "term": "technician",
-      "count": 3,
-      "share": 0.0588
+      "share": 0.0682
     },
     {
       "term": "manager",
       "count": 3,
-      "share": 0.0588
+      "share": 0.0682
     },
     {
-      "term": "technology",
-      "count": 3,
-      "share": 0.0588
+      "term": "application",
+      "count": 2,
+      "share": 0.0455
+    },
+    {
+      "term": "technician",
+      "count": 2,
+      "share": 0.0455
     },
     {
       "term": "help",
       "count": 2,
-      "share": 0.0392
+      "share": 0.0455
     },
     {
       "term": "ict",
       "count": 2,
-      "share": 0.0392
+      "share": 0.0455
+    },
+    {
+      "term": "officer",
+      "count": 2,
+      "share": 0.0455
     },
     {
       "term": "service",
       "count": 2,
-      "share": 0.0392
+      "share": 0.0455
     },
     {
       "term": "business",
       "count": 2,
-      "share": 0.0392
+      "share": 0.0455
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0392
+      "share": 0.0455
     },
     {
-      "term": "product",
+      "term": "technology",
       "count": 2,
-      "share": 0.0392
+      "share": 0.0455
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0392
+      "share": 0.0455
     },
     {
-      "term": "solution",
-      "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "designers",
-      "count": 1,
-      "share": 0.0196
+      "term": "specialist",
+      "count": 2,
+      "share": 0.0455
     },
     {
       "term": "allres",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "consultant",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "golang",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "react",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "javascript",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "photocopier",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "ongc",
-      "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "telecommunications",
-      "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "l2",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
+    },
+    {
+      "term": "ongc",
+      "count": 1,
+      "share": 0.0227
     },
     {
       "term": "distribution",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "centre",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "operations",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "marymount",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "waters",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "technical",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "partner",
       "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "platform",
-      "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "platforms",
-      "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "owner",
-      "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "governance",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "project",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "pmo",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "cyber",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "security",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
+    },
+    {
+      "term": "product",
+      "count": 1,
+      "share": 0.0227
     },
     {
       "term": "administrator",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "scenic",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "rim",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "mdus",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "cx",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "telephony",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "contractor",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "voip",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "sip",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "sms",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "website",
       "count": 1,
-      "share": 0.0196
-    },
-    {
-      "term": "specialist",
-      "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "growth",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     },
     {
       "term": "projects",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
+    },
+    {
+      "term": "customer",
+      "count": 1,
+      "share": 0.0227
     },
     {
       "term": "literacy",
       "count": 1,
-      "share": 0.0196
+      "share": 0.0227
     }
   ],
   "jobs": [
+    {
+      "job_id": "96039741",
+      "job_title": "Customer Support Specialist",
+      "business_name": "Veracross",
+      "work_type": "Full time",
+      "job_type": "Other",
+      "pay_range": "",
+      "area": "Miami, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/96039741",
+      "advertiser_id": "61968087",
+      "posted_date": "2026-11-22T06:22:12Z",
+      "job_description": "<p></p><p><strong>COMPANY DESCRIPTION</strong></p><p>Veracross provides SaaS-based School Information Systems (SIS) designed to meet the specific needs of independent K-12 schools worldwide. Our one-record solution combines the power of a fully integrated single-record database, personalized communication tools, and an elegant architecture that is unique in our industry. </p><p>We are a growing, values-led community of 350 employees in the US, UK and Australia who share a vision to unify school communities, improve the quality of education, and enhance learning. And we’re succeeding! As of early 2026, we are supporting 3400+ schools in 60 countries. </p><p><em><strong>Veracross is five product brands in one global tech company </strong></em></p><p><strong>Veracross SIS </strong>is a one-person, one-record school management platform</p><p><strong>Magnus Health</strong> provides cloud-based Student Health Record (SHR) solutions</p><p><strong>Digistorm </strong>connects with their communities through Digistorm Websites, Digistorm Funnel, and Digistorm Apps.</p><p><strong>Epraise</strong> incentivizes student well-being and connects teachers, students, and families.</p><p><strong>Firefly </strong>provides an online learning space for students and teachers<br></p><p><strong>Role Summary </strong><br>Veracross Customer Support Specialists provide the first level of customer support, working on our Technical Support Team to provide well-informed and timely responses to customer questions and issues. They act as a crucial link between internal engineering teams and product users. This individual applies their basic knowledge of a product area to the unique needs of the customer in order to guide users to resolutions. This position requires analytical and general software problem-solving skills and a commitment to service and quality. The Customer Support Specialist reports directly to the Director of Support.<br><br><strong>Job Responsibilities </strong><br></p><ul><li>Interact directly with customers via several channels, including a ticketing system and building relationships by consistently demonstrating expertise and professionalism</li><li>Manage and prioritise multiple open cases at one time</li><li>Ask customers targeted questions to quickly understand and diagnose the root of a problem</li><li>Analyse customer requests, replicating, researching, and resolving technical problems and questions and guiding the client to our knowledge base solutions whenever possible</li><li>Provide prompt and accurate responses to clients, tracking cases through resolution within company SLA guidelines</li><li>Collaborate with the support consultant and support engineering teams to escalate issues that cannot be resolved by a specialist</li><li>Identify, update, and maintain internal and external knowledge bases in order to improve support documentation deficiencies</li><li>Gain a detailed understanding of at least one support specialist team with knowledge of those software modules and how they are used by schools</li></ul><p><strong>Requirements</strong></p><p></p><ul><li>Customer Service Experience</li><li>0-2 years of experience working in client support in the software industry</li><li>Demonstrated aptitude for using, teaching, and communicating information about technologically sophisticated software to non-technical users</li><li>Demonstrated excellent written and verbal communication skills</li><li>Passionate about learning new software, able to build, retain, and apply knowledge across a variety of product areas</li><li>Demonstrated problem-solving skills, able to analyse customer requests and provide them with timely resolutions</li><li>Highly motivated with the ability to work both independently and collaboratively as a member of a team in an open space environment.</li><li>Friendly with a positive attitude and a desire to contribute to a positive community culture</li><li>Industry knowledge of the K-12 private school sector and other education SaaS products a plus</li><li>This role is based in Australia, and citizenship or permanent residence is required</li></ul><p><strong>Benefits</strong></p><p><em><strong>The best tools to get the job done!</strong></em></p><p>When you join Veracross, you get a Macbook Pro, a 32-inch monitor, and an adjustable desk and chair for the office. </p><p><em><strong>Growth opportunities!</strong></em></p><p>Veracross is growing fast, allowing you to own your role and grow with us! Operating within a global team, there are opportunities for professional development allowing your skills to grow as the business grows.</p><p><em><strong>Work/life balance</strong></em></p><p>Management encourages taking hour-long lunches and finishing on time and understands that you have a life outside of work. You can take the day off for your birthday and get a $100-a-year allowance for well-being. Massage, anyone?</p><p><em><strong>Parental leave policy</strong></em></p><p>As part of Veracross parental leave policy, you’re eligible for paid leave as a primary parent and secondary parent when you welcome a new child into your family. This is available after 12 months in a full-time role.</p><p><em><strong>Make a difference</strong></em></p><p>Our work makes a positive contribution to our schools, their students and their families around the world!</p><p><em><strong>Snacks, drinks &amp; coffee</strong></em></p><p>Digistorm’s (Veracross) Gold Coast HQ offers a coffee machine, snack bar and fully stocked drinks fridge to keep energy levels high! Vege chips, kombucha, almond milk, cookies; you name it, they have it.</p><p><em><strong>Culture</strong></em></p><p>The Veracross team is fun, relaxed, and sociable, reflected in the casual dress code and social events. The office has an open floor plan, which allows for cross-team communication and a collaborative environment. Join some staff for lunchtime surfing or hit up nearby food spots for a burger by the beach.</p>",
+      "keywords": [
+        "customer",
+        "support",
+        "specialist"
+      ]
+    },
     {
       "job_id": "96017215",
       "job_title": "ICT Operations Manager",
@@ -423,7 +417,7 @@
       "url": "https://www.seek.com.au/job/96017215",
       "advertiser_id": "36874639",
       "posted_date": "2026-11-20T04:49:22Z",
-      "job_description": "<p><strong>Why work for Neumann Steel?</strong><br>\nYou would be working for one of the most reputable family owned and operated companies first established on the Gold Coast over 50 years ago. We specialise in steel reinforcing and plastic accessory products in the QLD and NSW markets. Our highly integrated supply chain is supported by our experienced staff and a wealth of industry knowledge.<br>\n&nbsp;&nbsp;<br>\nWith a people-first mindset, Neumann Steel is dedicated to supporting the local community and fostering long-lasting relationships while delivering quality commercial and residential projects in the spirit of openness and honesty. We strive to build a rewarding, inclusive, and inspiring culture, with innovation at the forefront of mind.</p>\n<br><p>KEY RESPONSIBILITIES</p>\n\n<p>•&nbsp;&nbsp; &nbsp;Lead and be accountable for the service delivery and support of Neumann Steel’s computer, information systems requirements, IT infrastructure, architecture, design and Implementation, costs, and timelines.&nbsp;<br>\n•&nbsp;&nbsp; &nbsp;Own and manage the implementation and maintenance of the business computing needs and manage key MSP vendors, and ICT Operations team.<br>\n•&nbsp;&nbsp; &nbsp; Manage and maintain cyber security and day to day operations of cyber security.<br>\n•&nbsp;&nbsp; &nbsp;Management of the risk portal dashboard and associated actions.<br>\n•&nbsp;&nbsp; &nbsp;Own and manage Customer Service and Service Delivery for all of ICT.<br>\n•&nbsp;&nbsp; &nbsp;Manage ICT work queue and ticket assignment.<br>\n•&nbsp;&nbsp; &nbsp;ICT reporting analysis and ICT continuous improvement ensuring timely transparent monthly reporting for business units.<br>\n•&nbsp;&nbsp; &nbsp;ICT Operations Project Management .<br>\n•&nbsp;&nbsp; &nbsp;Lead ICT business change management to ensure updates, improvements, key policy changes and projects communicated and utlised by the business .<br>\n•&nbsp;&nbsp; &nbsp;Support the business on IT issues to agreed internal SLAs.<br>\n•&nbsp;&nbsp; &nbsp;Lead the management and support of the business IT and Communications Systems.<br>\n•&nbsp;&nbsp; &nbsp;Vendor management to agreed SLAs.<br>\n•&nbsp;&nbsp; &nbsp;Lead with change management and guide the CAB.<br>\n•&nbsp;&nbsp; &nbsp;Management of internal and external ICT communications.<br>\n•&nbsp;&nbsp; &nbsp;Management of policies and procedures and ensuring documentation is up to date for the business and MSP and ICT Support teams.<br>\n•&nbsp;&nbsp; &nbsp;Work with key vendors to ensure E8 and ISO 27001 alignment and reporting is integrated.<br>\n•&nbsp;&nbsp; &nbsp;Liaise with business and stakeholders regarding current and future state planning, organisation, controls of all electronic data operations ensuring minimal ICT interruptions.<br>\n•&nbsp;&nbsp; &nbsp;Lifecycle management of ICT hardware and end user compute software.&nbsp;<br>\n•&nbsp;&nbsp; &nbsp;User Support and Training.<br>\n•&nbsp;&nbsp; &nbsp;Vendor and Contract Management.<br>\n•&nbsp;&nbsp; &nbsp;Identify problematic risk areas and communicate these for mitigation.&nbsp;<br>\n•&nbsp;&nbsp; &nbsp;Own and manage incident management, problem management, root cause analysis and change management following internal ITIL processes.<br>\n•&nbsp;&nbsp; &nbsp;Preserve assets, information security and control structures.<br>\n•&nbsp;&nbsp; &nbsp;Assist with the annual budget and ensure cost effectiveness across the department.<br>\n•&nbsp;&nbsp; &nbsp;Assist the team with their work queue management and ticketing tools and PDP/KPI plans.<br>\n•&nbsp;&nbsp; &nbsp;Work collaboratively with all internal and external customers and teams on any business defined projects where ICT support is required.<br>\n•&nbsp;&nbsp; &nbsp;Working with the team to regularly identify and improve processes, systems and create efficiencies within the business.<br>\n•&nbsp;&nbsp; &nbsp;Adhere to and ensure compliance with all company ICT, Finance processes and company policies.<br>\n•&nbsp;&nbsp; &nbsp;Carry out other duties as required.<br>\n&nbsp;</p>\n<br><p>QUALIFICATIONS</p>\n\n<p>•&nbsp;&nbsp; &nbsp;ITL V3 or V4 foundation.<br>\n•&nbsp;&nbsp; &nbsp;Cyber Security delivery.<br>\n•&nbsp;&nbsp; &nbsp;3-years minimum supervising and team management experience.<br>\n•&nbsp;&nbsp; &nbsp;Supporting distributed Microsoft environments.<br>\n•&nbsp;&nbsp; &nbsp;Mobile Device Management administration (Microsoft Intune).<br>\n•&nbsp;&nbsp; &nbsp;Windows 10 Support.<br>\n•&nbsp;&nbsp; &nbsp;Exceptional knowledge of MOE and group policies.<br>\n•&nbsp;&nbsp; &nbsp;Active Directory design, maintenance, and hands-on experience.<br>\n•&nbsp;&nbsp; &nbsp;Microsoft 365 Administration Experience.<br>\n•&nbsp;&nbsp; &nbsp;Some experience with ISO27001 and E8 Alignment.<br>\n•&nbsp;&nbsp; &nbsp;Previous experience and proven success in a similar role.<br>\n•&nbsp;&nbsp; &nbsp;Excellent working knowledge of computer systems, security, network and systems administration, databases and data storage systems, and Mitel and Teams phone systems.<br>\n•&nbsp;&nbsp; &nbsp;Excellent project management skills and strong ability to prioritise.<br>\n•&nbsp;&nbsp; &nbsp;Excellent communication written and verbal communication skills with effective rapport building skills with a varied audience.<br>\n•&nbsp;&nbsp; &nbsp;Positive can-do attitude.<br>\n•&nbsp;&nbsp; &nbsp;Ability to work on all tasks from password resets to large projects.<br>\n•&nbsp;&nbsp; &nbsp;A team player with respect for self &amp; others.<br>\n•&nbsp;&nbsp; &nbsp;Self-starter who takes pride in their work and strives for excellence.<br>\n•&nbsp;&nbsp; &nbsp;Thrives under pressure.<br>\n•&nbsp;&nbsp; &nbsp;Embraces changes.<br>\n•&nbsp;&nbsp; &nbsp;Passion for producing quality work.</p>",
+      "job_description": "<p><strong>Why work for Neumann Steel?</strong><br>\nYou would be working for one of the most reputable family owned and operated companies first established on the Gold Coast over 50 years ago. We specialise in steel reinforcing and plastic accessory products in the QLD and NSW markets. Our highly integrated supply chain is supported by our experienced staff and a wealth of industry knowledge.<br>\n&nbsp;&nbsp;<br>\nWith a people-first mindset, Neumann Steel is dedicated to supporting the local community and fostering long-lasting relationships while delivering quality commercial and residential projects in the spirit of openness and honesty. We strive to build a rewarding, inclusive, and inspiring culture, with innovation at the forefront of mind.</p>\n<br><p>Key Responsibilities</p>\n\n<p>ICT Operations &amp; Service Delivery<br>\n•&nbsp;&nbsp; &nbsp;Lead ICT operations and service delivery, ensuring reliable, secure and cost-effective technology services.<br>\n•&nbsp;&nbsp; &nbsp;Manage infrastructure, business systems, support services and the ICT work queue in line with ITIL and agreed SLAs.<br>\n•&nbsp;&nbsp; &nbsp;Lead Incident, Problem, Change, CAB and Major Incident Management, including root cause analysis and corrective actions.<br>\n•&nbsp;&nbsp; &nbsp;Ensure ICT services support business operations and strategic requirements.<br>\n•&nbsp;&nbsp; &nbsp;Drive high-quality, customer-focused ICT service delivery.<br>\n•&nbsp;&nbsp; &nbsp;Monitor service performance, trends and recurring issues, providing clear monthly reporting.<br>\n•&nbsp;&nbsp; &nbsp;Identify and implement opportunities to improve service quality, processes and operational efficiency.<br>\n•&nbsp;&nbsp; &nbsp;Manage business change and communications for technology implementations and service impacts.</p>\n\n<p>Cyber Security, Risk &amp; Governance<br>\n•&nbsp;&nbsp; &nbsp;Oversee cyber security operations, controls and improvement initiatives.<br>\n•&nbsp;&nbsp; &nbsp;Manage ICT risks, remediation actions and reporting.<br>\n•&nbsp;&nbsp; &nbsp;Support alignment with Cybersecurity Frameworks and internal governance requirements.</p>\n\n<p>Vendors &amp; Commercial Management<br>\n•&nbsp;&nbsp; &nbsp;Manage MSP, technology and telecommunications vendors, including SLAs, performance, contracts and escalations.<br>\n•&nbsp;&nbsp; &nbsp;Support ICT procurement, contract negotiations and strategic vendor relationships.<br>\n•&nbsp;&nbsp; &nbsp;Ensure vendors support current requirements, cyber security objectives and the technology roadmap.</p>\n\n<p>Infrastructure &amp; Technology Lifecycle<br>\n•&nbsp;&nbsp; &nbsp;Manage the lifecycle of ICT infrastructure, hardware, software and technology assets.<br>\n•&nbsp;&nbsp; &nbsp;Support ICT architecture, capacity and future technology planning.<br>\n•&nbsp;&nbsp; &nbsp;Maintain accurate technical documentation, configurations and operational procedures.</p>\n\n<p>People Leadership<br>\n•&nbsp;&nbsp; &nbsp;Lead and develop the ICT Operations team, setting clear priorities and accountability.<br>\n•&nbsp;&nbsp; &nbsp;Manage workloads, performance, KPIs and development plans.</p>\n\n<p>Financial Management<br>\n•&nbsp;&nbsp; &nbsp;Support ICT operational and capital budget planning and management.<br>\n•&nbsp;&nbsp; &nbsp;Monitor ICT expenditure, procurement and technology utilisation to improve value for money.</p>\n\n<p>Governance &amp; General<br>\n•&nbsp;&nbsp; &nbsp;Maintain ICT policies, procedures, standards and operational documentation.<br>\n•&nbsp;&nbsp; &nbsp;Build strong relationships with business stakeholders, ICT partners and vendors.<br>\n•&nbsp;&nbsp; &nbsp;Maintain ownership and accountability for ICT operational outcomes.<br>\n•&nbsp;&nbsp; &nbsp;Perform other duties reasonably required within the scope, capability and responsibilities of the role.<br>\n&nbsp;</p>\n<br><p>Qualifications</p>\n\n<p>•&nbsp;&nbsp; &nbsp;ITIL Foundation certification or equivalent practical experience in IT service management.<br>\n•&nbsp;&nbsp; &nbsp;Strong experience supporting and administering the Microsoft ecosystem, including Microsoft 365, Intune, Entra ID and associated policies.<br>\n•&nbsp;&nbsp; &nbsp;Sound working knowledge of computer systems, cybersecurity, networking and systems administration.<br>\n•&nbsp;&nbsp; &nbsp;Experience supporting Mitel and Microsoft Teams Phone, along with IT service management platforms such as ServiceNow.<br>\n•&nbsp;&nbsp; &nbsp;Excellent written and verbal communication skills, with the ability to build effective rapport across a diverse range of users and stakeholders.<br>\n•&nbsp;&nbsp; &nbsp;A positive, proactive can-do attitude with a strong customer-service mindset.<br>\n•&nbsp;&nbsp; &nbsp;Comfortable working across the full spectrum of ICT operations, from day-to-day support and password resets through to major projects and technology initiatives.<br>\n•&nbsp;&nbsp; &nbsp;A collaborative team player who demonstrates respect, professionalism and accountability.<br>\n•&nbsp;&nbsp; &nbsp;A motivated self-starter who takes ownership of their work and consistently strives for excellence.<br>\n•&nbsp;&nbsp; &nbsp;Able to remain calm, organised and effective under pressure while managing competing priorities.<br>\n•&nbsp;&nbsp; &nbsp;Adaptable and willing to embrace change, new technologies and new ways of working.<br>\n•&nbsp;&nbsp; &nbsp;Passionate about delivering high-quality work and continually improving ICT services.<br>\n&nbsp;</p>",
       "keywords": [
         "ict",
         "operations",
@@ -657,43 +651,6 @@
       ]
     },
     {
-      "job_id": "95871609",
-      "job_title": "IT Support Officer",
-      "business_name": "The Southport School",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95871609",
-      "advertiser_id": "20423900",
-      "posted_date": "2026-11-13T02:11:13Z",
-      "job_description": "<p><b>Permanent Full-Time Term-Time&nbsp; | Hours: 8.00am – 4.00pm</b></p><p>The Southport School (TSS) is one of Queensland’s oldest schools: an Anglican day and boarding school for boys on the Gold Coast’s beautiful Nerang River. We blend tradition with innovation, and our community is built on teamwork, scholarship and service.</p><p>We are looking for a capable, service-minded IT Support Officer to join our expanding Corporate IT Team commencing 4 January 2027 for training ahead of our school term commencing. Help keep our students, boarders and staff connected and confident with technology.&nbsp;</p><p><b>About the role</b></p><p>Reporting to the Chief Information Officer, you will be joining the IT Support Team as one of our first points of contact for technology support across our two campuses, troubleshooting day-to-day issues, escalating where needed and following up to make sure problems are resolved. You will:</p><ul> <li>Provide prompt, friendly first-level support to students, staff and boarding residents, including connecting personal devices to the school network and responding quickly to classroom technology emergencies</li> <li>Assist with provisioning, imaging and deploying student and staff devices, and with onboarding, account creation and network logins</li> <li>Diagnose and repair end-user hardware, or manage warranty and RMA processes with external vendors</li> <li>Maintain the asset register, device history records and software licence records</li> <li>Install, set up, test and maintain audiovisual equipment, supporting weekly events and key school events, including some outside regular hours</li></ul><p><b>About You</b></p><p>Relevant experience or broad knowledge in related technical fields, including troubleshooting Windows, macOS and Linux, Active Directory or Azure AD, networking fundamentals, and Microsoft 365 support. A calm, patient communicator who can turn technical jargon into simple steps and reassure users under pressure.</p><ul> <li>Self-motivated, able to work unsupervised, and comfortable in a fast-paced, changing environment</li> <li>A Bachelor’s degree or industry certifications (desirable)</li> <li>A current driver’s licence and vehicle for travel between campuses (located across the road from each other in Southport)</li> <li>A current Paid Blue Card (Working with Children Check) obtained prior to commencement &nbsp;and recent Criminal History Check Certificate.</li></ul><p><b>What we offer</b></p><ul> <li>Permanent, full-time term-time employment in a supportive, close-knit school community</li> <li>Spend school holidays with your family and friends</li> <li>Onsite parking</li> <li>Access to our gym and pool</li> <li>Discounts at The Thirty Two Dental Studio</li></ul><p><b>Child safety</b></p><p>TSS is an Anglican child safe organisation committed to promoting the safety, wellbeing and best interests of children. All appointments are subject to a satisfactory Paid Blue Card and criminal history check, and successful applicants will be required to understand and uphold our child safety obligations.</p><p><b>How to apply</b></p><p>Apply online via the TSS careers page. Applications should include a cover letter addressed to the Chief Information Officer and resume.</p><p>Applications close at<b> 8.00am on Monday 23 November 2026.</b></p>",
-      "keywords": [
-        "it",
-        "support",
-        "officer"
-      ]
-    },
-    {
-      "job_id": "95852003",
-      "job_title": "Solution Designers",
-      "business_name": "City of Gold Coast",
-      "work_type": "Contract/Temp",
-      "job_type": "Architects",
-      "pay_range": "$111,401-$117,924 p/a plus superannuation",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95852003",
-      "advertiser_id": "16652581",
-      "posted_date": "2026-11-12T04:57:15Z",
-      "job_description": "<ul> <li><strong>Full Time Fixed Term (2x available positions until 30 June 2027) | 9-day fortnight | 36 hours per week</strong></li> <li> <strong>Salary: </strong>From $111,401 to $117,924 per annum plus Superannuation</li> <li> <strong>Position Brief</strong> - <a href=\"https://applynow.net.au/jobs/COG2223/assets/32652939\">Solution Designer</a> </li> </ul> <p><strong>About the role </strong></p> <p>We are excited to offer opportunities for some innovative and delivery-focused Solution Designers to join the City of Gold Coast.</p> <p>Reporting to the Coordinator Solution Architecture, you will provide expert advice on solution design best practice and lead technical designs that align with reference solutions, enterprise architecture principles and the City’s enterprise standards. You will develop clear, implementable designs and system specifications that support the successful delivery, transition and operation of ICT solutions across the organisation.</p> <p>Depending on organisational priorities, you may be aligned to one of several activity streams. This could include leading cross-platform initiatives under the IT Operating Model, or contributing to complex ICT portfolio initiatives that require strong governance, technical alignment and operational readiness, coordinating the technical implementation of underpinning foundation architecture to support the ongoing management of City's desktop, mobility and server fleet, and AI solution implementations. Across each stream, your focus will be on ensuring solutions are well defined, practical, compliant, and sustainable in service.</p> <p>You will work closely with project teams, technical specialists, delivery partners, vendors and stakeholders across the Chief Technology Office and the broader City. You will coordinate technical input, manage design dependencies, support transition to operations, and help uplift consistent technical solution architecture patterns and practices that improve the way technology is delivered across the organisation.</p> <p>This is a highly collaborative role suited to someone who can translate business needs into clear technical outcomes, balance design quality with delivery realities, and bring people together to solve complex problems. Your contribution will help ensure technology solutions are fit-for-purpose, aligned to enterprise standards, and capable of supporting services that enhance the Gold Coast way of life.</p> <p><strong>We’re looking for people who have: </strong></p> <p>Most importantly, you will bring experience in a similar Solution Designer or Solution Architect role, with the ability to turn business needs into clear, practical and implementable technology designs. You will be confident working across technical teams, project teams, vendors and business stakeholders to shape solutions that are aligned to enterprise architecture, City standards and operational requirements.</p> <p>To succeed in this role, you will bring:</p> <ul> <li>Demonstrated experience developing solution designs, system specifications and implementation-ready design artefacts that align with enterprise architecture principles, reference solutions, technical patterns and organisational standards.</li> <li>Strong stakeholder engagement and communication skills, with the ability to explain complex technical concepts clearly to both technical and non-technical audiences.</li> <li>A practical delivery mindset, with the ability to balance design quality, compliance, risk, operational readiness and delivery realities.</li> <li>The ability to coordinate technical input across multiple teams, manage dependencies, support transition to operations, and contribute to reliable and consistent solution delivery.</li> <li>Experience working across one or more delivery environments, such as municipal infrastructure projects, cross-platform service initiatives, ICT portfolio delivery, system migrations, operational uplift or technology-enabled business improvement.</li> <li>Strong problem-solving skills, attention to detail, and the ability to work with a high level of autonomy while contributing positively to cross-functional teams.</li> <li>An understanding of ICT risk, service transition, operational support considerations, vendor engagement and the importance of designing solutions that are sustainable beyond project delivery.</li> <li>A continuous improvement mindset, with an interest in uplifting technical patterns, improving solution design practices, and helping the City deliver fit-for-purpose technology outcomes for the community.</li> </ul> <p>Ideally, you will also hold a Bachelor Degree in Information Technology, Project Management or a related discipline, or bring equivalent knowledge and relevant experience.</p> <p>If you have strong solution design capability and can bring people together to deliver practical, standards-aligned technology outcomes, we’d like to hear from you.</p> <p><strong>Be part of shaping the Gold Coast’s future </strong></p> <p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p> <p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p> <ul> <li>9-day fortnight </li> </ul> <ul> <li>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations </li> </ul> <ul> <li>Personal and professional development courses </li> </ul> <ul> <li>Access to 350+ fitness facilities through Fitness Passport </li> </ul> <ul> <li>4 free confidential counselling sessions a year for you or an immediate family member </li> </ul> <ul> <li>1 free nutritionist and financial advice session per year </li> </ul> <p>We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p> <p><strong>How to apply</strong><br>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p> <p><strong>Contact Person</strong> Joana Al-Kassar</p> <p><strong>Contact Email</strong> <a href=\"mailto:jal-kassar@goldcoast.qld.gov.au\">jal-kassar@goldcoast.qld.gov.au</a></p> <p><strong>Closing Date</strong> Sunday 22nd November 2026 /11:59pm AEDT </p> <p> </p> <p>Our selection process may include a one-way video interview via Criteria, a face-to-face or virtual interview via Microsoft Teams, reference checks via Xref and additional checks including police checks, employment history checks, qualification checks, pre-employment medical reviews and drug and alcohol testing. </p> <p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
-      "keywords": [
-        "solution",
-        "designers"
-      ]
-    },
-    {
       "job_id": "95848781",
       "job_title": "IT Support Engineer – Level 1",
       "business_name": "Cursa Pty Ltd",
@@ -871,24 +828,6 @@
       ]
     },
     {
-      "job_id": "95778482",
-      "job_title": "Application Engineer",
-      "business_name": "Southern Cross University",
-      "work_type": "Full time",
-      "job_type": "Developers/Programmers",
-      "pay_range": "$124,379 - 137,149 plus 17% superannuation",
-      "area": "Bilinga, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95778482",
-      "advertiser_id": "15012749",
-      "posted_date": "2026-11-09T06:22:50Z",
-      "job_description": "<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing <a href=\"https://www.scu.edu.au/southern-cross-model/\" target=\"_self\">Southern Cross Model</a> brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity</strong></p>\n<p>We're seeking an experienced Application Engineer to design, develop and deliver complex enterprise applications that support the University's teaching, learning and business operations.</p>\n<p>Working within Technology Services, you'll play a key role in modernising applications, connecting critical systems and improving how information and processes flow across the University. You'll work with platforms such as TechnologyOne, Blackboard and Microsoft Dynamics, developing sophisticated integrations, automation and scalable solutions that support both academic and administrative functions.</p>\n<p>This is an opportunity to combine hands-on engineering with technical leadership, influencing solution design, development standards and emerging technologies. You'll collaborate with specialists across the University, contribute to major digital transformation initiatives and help build the next generation of enterprise applications.</p>\n<p>You will make an impact by:</p>\n<ul>\n<li>Designing and delivering complex enterprise applications and integrations</li>\n<li>Connecting platforms including TechnologyOne, Blackboard and Dynamics amongst others</li>\n<li>Building automation solutions that improve university-wide processes</li>\n<li>Leading technical design, development standards and solution delivery</li>\n<li>Mentoring developers and driving innovation across application engineering</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<p>You'll be an experienced application engineer or senior developer with strong technical expertise in designing, building and integrating enterprise applications. You'll understand how to translate complex business requirements into secure, scalable and maintainable solutions, with hands-on capability across modern development frameworks and cloud technologies.</p>\n<p>You'll bring a collaborative approach to technical leadership, confidently working with stakeholders, guiding other developers and solving complex integration challenges. Experience with enterprise platforms such as TechnologyOne or Blackboard will be particularly valuable, especially within higher education or similarly complex organisations.</p>\n<p>To succeed in this role, you will also need:</p>\n<ul>\n<li>Relevant IT qualifications and ideally 5+ years development experience</li>\n<li>Proficiency in .NET, React/TypeScript, Azure and modern UX/UI frameworks</li>\n<li>Experience with APIs, enterprise integrations and application architecture</li>\n<li>Strong knowledge of CI/CD, automate testing, TDD and SOLID principles</li>\n<li>Experience in Agile delivery, code reviews and technical mentoring</li>\n</ul>\n<p>Experience with TechnologyOne, Blackboard, Microsoft Dynamics 365, microservices or enterprise architecture patterns will be highly regarded.&nbsp; Relevant certifications, particularly Microsoft Azure or enterprise platform certifications will also be advantageous.</p>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/gold-coast/\" target=\"_self\">Gold Coast</a>, <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/coffs-harbour/\" target=\"_self\">Coffs Harbour</a> and the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/lismore/\" target=\"_self\">Northern Rivers</a> region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li>Full-time, continuing (permanent)</li>\n<li>Located at either Gold Coast, QLD 4225, or Lismore, NSW 2480. Relocation assistance is available, making it easier to join our regional communities</li>\n<li>HEW Level 8. The base salary ranges from $124,379 - $137,149 per annum, plus 17% employer’s contribution to superannuation. The total remuneration package is up to $160,464.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit <a href=\"https://www.scu.edu.au/about/jobs-at-southern-cross/why-work-at-southern-cross-university/\" target=\"_self\">Why work at Southern Cross University?</a></p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>To view the full position advertisement and details of the application process, please click on the APPLY button where you will be redirected to the Southern Cross University website. &nbsp;&nbsp;</p>\n<p><strong>Applications close 11.30pm AEST 22 November 2026</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. &nbsp;Employer visa sponsorship is not available for this position.</p>\n<p>Applicants must apply online and attach a CV and cover letter. The cover letter must clearly address each selection criterion in the position description. Information to support you prepare your application is available on our <a href=\"https://www.scu.edu.au/about/jobsscu/vacancies/applying-for-a-position/\" target=\"_self\">website.</a></p>\n<p><em>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to </em><a href=\"mailto:jobs@scu.edu.au\" target=\"_self\"><em>jobs@scu.edu.au.</em></a></p>\n<p><strong>#LI-VC1</strong></p>\n<p><strong>#Reg1GCLis</strong></p>\n",
-      "keywords": [
-        "application",
-        "engineer"
-      ]
-    },
-    {
       "job_id": "95778066",
       "job_title": "Senior Application Developer",
       "business_name": "Southern Cross University",
@@ -904,42 +843,6 @@
       "keywords": [
         "application",
         "developer"
-      ]
-    },
-    {
-      "job_id": "95777880",
-      "job_title": "Senior Application Engineer",
-      "business_name": "Southern Cross University",
-      "work_type": "Full time",
-      "job_type": "Engineering - Software",
-      "pay_range": "$138,425-$145,123 plus superannuation",
-      "area": "Bilinga, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95777880",
-      "advertiser_id": "15012749",
-      "posted_date": "2026-11-09T06:01:37Z",
-      "job_description": "<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing <a href=\"https://www.scu.edu.au/southern-cross-model/\" target=\"_self\">Southern Cross Model</a> brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity</strong></p>\n<p>Shape the future of enterprise applications and drive technology innovation across Southern Cross University.</p>\n<p>We're seeking an experienced Senior Application Engineer to provide strategic technical leadership across our enterprise application environment, helping shape how technology connects, evolves and supports the University's teaching, learning and business operations.</p>\n<p>Working within Technology Services, you'll lead the design and integration of complex application solutions across platforms, with a focus on TechnologyOne, in the Finance and Student System modules. You will also work through our integration platform. Over 2027 and 2028 you will be instrumental in delivering critical platform uplifts and helping business stakeholders get the most of the new technologies. <br><br>You'll influence architectural direction, establish development standards and drive major technology initiatives that improve efficiency, strengthen connectivity and deliver lasting value.</p>\n<p>This is an opportunity to combine deep technical expertise with university-wide influence. You'll work closely with senior stakeholders, guide technical teams and champion emerging technologies, including AI and automation, to shape a more connected, secure and future-ready technology environment.</p>\n<p>You will make an impact by:</p>\n<ul>\n<li>Setting technical direction and enterprise application standards</li>\n<li>Leading complex integrations, implementations and modernization</li>\n<li>Driving digital transformation through AI, automation and innovation</li>\n<li>Advising senior stakeholders on architecture and technology decisions</li>\n<li>Mentoring technical teams and strengthening engineering capability</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<p>You'll be an accomplished application engineering professional with extensive experience designing, implementing and supporting complex enterprise systems. You'll bring strong expertise in higher education platforms such as TechnologyOne, Dynamics 365, Anthology or Blackboard, together with a deep understanding of system integration, APIs, data management and workflow automation.</p>\n<p>You'll combine strategic thinking with practical technical capability, confidently navigating complex environments and translating business needs into secure, scalable and sustainable solutions. An influential communicator and collaborative technical leader, you'll enjoy developing others, establishing best practices and driving innovation that delivers meaningful organisational outcomes.</p>\n<p>To succeed in this role, you will also need:</p>\n<ul>\n<li>Relevant IT qualifications or equivalent extensive industry experience</li>\n<li>Ideally 8+ years enterprise application and platform experience</li>\n<li>Advanced integration, API, automation and troubleshooting expertise</li>\n<li>Strong knowledge of security, data integrity and compliance principles</li>\n<li>Experience leading complex implementations and Agile/DevOps delivery</li>\n</ul>\n<p>Experience applying AI, analytics or emerging technologies to improve business or learning outcomes will be highly regarded, along with the ability to influence technical decisions and build strong relationships across academic, business, and technology teams.</p>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/gold-coast/\" target=\"_self\">Gold Coast</a>, <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/coffs-harbour/\" target=\"_self\">Coffs Harbour</a> and the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/lismore/\" target=\"_self\">Northern Rivers</a> region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li>Full-time, continuing (permanent)</li>\n<li>Located at either Gold Coast, QLD 4225, or Lismore, NSW 2480. Relocation assistance is available, making it easier to join our regional communities</li>\n<li>HEW Level 9. The base salary ranges from $138,425 - $145,123 per annum, plus 17% employer’s contribution to superannuation. The total remuneration package is up to $169,793.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit <a href=\"https://www.scu.edu.au/about/jobs-at-southern-cross/why-work-at-southern-cross-university/\" target=\"_self\">Why work at Southern Cross University?</a></p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>To view the full position advertisement and details of the application process, please click on the APPLY button where you will be redirected to the Southern Cross University website.</p>\n<p><strong>Applications close 11.30pm AEST 22 November, 2026.</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. &nbsp;Employer visa sponsorship is not available for this position.</p>\n<p>Applicants must apply online and attach a CV and cover letter. The cover letter must clearly address each selection criterion in the position description. Information to support you prepare your application is available on our <a href=\"https://www.scu.edu.au/about/jobsscu/vacancies/applying-for-a-position/\" target=\"_self\">website.</a></p>\n<p><em>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to </em><a href=\"mailto:jobs@scu.edu.au\" target=\"_self\"><em>jobs@scu.edu.au.</em></a></p>\n",
-      "keywords": [
-        "application",
-        "engineer"
-      ]
-    },
-    {
-      "job_id": "95777089",
-      "job_title": "Product Owner",
-      "business_name": "Southern Cross University",
-      "work_type": "Full time",
-      "job_type": "Product Management & Development",
-      "pay_range": "$124,379 - 137,149 plus 17% superannuation",
-      "area": "Bilinga, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95777089",
-      "advertiser_id": "15012749",
-      "posted_date": "2026-11-09T05:33:35Z",
-      "job_description": "<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing <a href=\"https://www.scu.edu.au/southern-cross-model/\" target=\"_self\">Southern Cross Model</a> brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity</strong></p>\n<p>Southern Cross University is seeking an experienced Product Owner to shape and deliver innovative technology solutions that support our teaching, learning, research and student services.</p>\n<p>Working within Technology Services, you'll take ownership of product priorities, roadmaps and backlogs, translating complex business needs into practical, user-focused solutions. You'll collaborate with stakeholders across Future Students, Current Students, Teaching &amp; Learning, and Research &amp; Enterprise, ensuring technology investments deliver meaningful outcomes across the University.</p>\n<p>This is an opportunity to influence how digital products evolve, from initial concept through to delivery, adoption and continuous improvement. You'll work closely with development teams and Scrum Masters, championing user experience, balancing competing priorities and driving product decisions that deliver lasting value.</p>\n<p>You will make an impact by:</p>\n<ul>\n<li>Defining product vision, roadmaps and priorities aligned with University goals</li>\n<li>Managing product backlogs, user stories and acceptance criteria</li>\n<li>Working with stakeholders and delivery teams to develop effective solutions</li>\n<li>Championing user experience, accessibility and successful product adoption</li>\n<li>Using product insights and performance data to drive continuous improvement</li>\n</ul>\n<p>Throughout 2027 and 2028, you’ll play a key role in shaping major technology enhancements to the University’s student systems, supporting the student journey from application through to graduation.</p>\n<p><strong>What you will bring</strong></p>\n<p>You'll be an experienced Product Owner with a strong understanding of agile delivery and the full product lifecycle. You'll know how to translate business requirements into clear product priorities, balance competing stakeholder needs and guide development teams towards solutions that deliver measurable value.</p>\n<p>You'll combine strategic thinking with a practical, collaborative approach, confidently engaging stakeholders, facilitating decisions and championing the needs of end users. Experience with enterprise platforms such as TechnologyOne or Microsoft Dynamics, particularly within higher education or similarly complex environments, will be highly regarded.</p>\n<p>To succeed in this role, you will also need:</p>\n<ul>\n<li>Relevant qualifications in Business, Commerce, IT or related discipline</li>\n<li>Ideally 5+ years’ experience in product ownership or a related role</li>\n<li>Strong agile delivery, backlog management and roadmap planning skills</li>\n<li>Experience managing product lifecycles, value and competing priorities</li>\n<li>Excellent stakeholder engagement, negotiation and vendor management skills</li>\n</ul>\n<p>Experience with product analytics, user acceptance testing, change management and regulatory requirements within higher education will be advantageous.</p>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/gold-coast/\" target=\"_self\">Gold Coast</a>, <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/coffs-harbour/\" target=\"_self\">Coffs Harbour</a> and the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/lismore/\" target=\"_self\">Northern Rivers</a> region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li>Full-time, continuing (permanent)</li>\n<li>Located at either Gold Coast, QLD 4225, or Lismore, NSW 2480. Relocation assistance is available, making it easier to join our regional communities</li>\n<li>HEW Level 8. The base salary ranges from $124,379 - $137,149 per annum, plus 17% employer’s contribution to superannuation. The total remuneration package is up to $160,464.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit <a href=\"https://www.scu.edu.au/about/jobs-at-southern-cross/why-work-at-southern-cross-university/\" target=\"_self\">Why work at Southern Cross University?</a></p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>To view the full position advertisement and details of the application process, please click on the APPLY button where you will be redirected to the Southern Cross University website. &nbsp;&nbsp;</p>\n<p><strong>Applications close 11.30pm AEST 22 November 2026.</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. &nbsp;Employer visa sponsorship is not available for this position.</p>\n<p>Applicants must apply online and attach a CV and cover letter. The cover letter must clearly address each selection criterion in the position description. Information to support you prepare your application is available on our <a href=\"https://www.scu.edu.au/about/jobsscu/vacancies/applying-for-a-position/\" target=\"_self\">website.</a></p>\n<p><em>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to </em><a href=\"mailto:jobs@scu.edu.au\" target=\"_self\"><em>jobs@scu.edu.au.</em></a></p>\n<p><strong>#LI-VC1</strong></p>\n<p><strong>#GC</strong></p>\n",
-      "keywords": [
-        "product",
-        "owner"
       ]
     },
     {
@@ -960,26 +863,6 @@
         "engineer",
         "react",
         "javascript"
-      ]
-    },
-    {
-      "job_id": "95767847",
-      "job_title": "Senior Platform Engineer - Technology Platforms",
-      "business_name": "Southern Cross University",
-      "work_type": "Full time",
-      "job_type": "Networks & Systems Administration",
-      "pay_range": "$111,612 - $121,190 plus 17% Superannuation",
-      "area": "Bilinga, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95767847",
-      "advertiser_id": "15012749",
-      "posted_date": "2026-11-09T00:31:55Z",
-      "job_description": "<p><strong>Be Bold. Belong. Be More.</strong></p>\n<p>At Southern Cross University, we do things differently, and so can you.</p>\n<p>A career with us is more than you might expect. Yes, it’s about the heart, connectedness and community you’d hope for in a regional university. But there’s also so much more. Our game changing <a href=\"https://www.scu.edu.au/southern-cross-model/\" target=\"_self\">Southern Cross Model</a> brings a deeper, focused learning experience and our research is deeply connected to our regions, making a difference on a global scale. This is your chance to help us build something new and meaningful for our students, our communities and your career. To drive change, make a real impact, and thrive in a place as unique as you.</p>\n<p>You can be good anywhere. Here, you can be great.</p>\n<p><strong>Your opportunity</strong></p>\n<p>Bring your Microsoft 365 administration expertise to a role where you can make a real impact on the University's technology environment.</p>\n<p>Southern Cross University is seeking an experienced Senior Platform Engineer with strong hands-on expertise in Microsoft 365 administration, particularly SharePoint Online, Power Platform and Microsoft Entra ID, to help strengthen and evolve our enterprise technology services.</p>\n<p>Working within Technology Services, you'll play a key role in administering, securing and optimising critical Microsoft platforms while contributing to broader cloud and infrastructure initiatives. You'll help improve platform reliability, strengthen governance and security, and support the University's adoption of emerging Microsoft technologies, including Copilot and AI-enabled services.</p>\n<p>This is an opportunity to take technical ownership, influence platform standards and work alongside experienced engineers and specialists to solve complex challenges. You'll also contribute to automation, service improvements and the ongoing modernisation of technology services across the University.</p>\n<p>You will make an impact by:</p>\n<ul>\n<li>Leading Microsoft 365 administration, particularly SharePoint and Power Platform</li>\n<li>Managing Entra ID, identity, authentication and access controls</li>\n<li>Strengthening platform security, governance, reliability and performance</li>\n<li>Troubleshooting complex issues and improving automation and support</li>\n<li>Supporting Microsoft Cloud, Copilot and emerging technology initiatives</li>\n</ul>\n<p><strong>What you will bring</strong></p>\n<p>You'll be an experienced Microsoft 365 or platform administrator with strong hands-on expertise in managing enterprise Microsoft environments. You'll have a particular depth of knowledge in SharePoint Online administration, Power Platform and Entra ID, with the ability to configure, secure, maintain and troubleshoot these services.</p>\n<p>You'll combine technical expertise with sound judgement, a proactive approach to problem-solving and a commitment to continuous improvement. Comfortable working across multidisciplinary teams, you'll share your knowledge, provide technical guidance and help deliver secure, reliable and scalable technology services.</p>\n<p>To succeed in this role, you will also need:</p>\n<ul>\n<li>Relevant IT qualifications and/or substantial enterprise platform experience</li>\n<li>Demonstrated Microsoft 365, SharePoint Online and Power Platform administration</li>\n<li>Experience managing platform security, access, governance and performance</li>\n<li>Knowledge of Azure, Windows/Linux environment and automation technologies</li>\n<li>Strong troubleshooting, stakeholder engagement and technical leadership skills</li>\n</ul>\n<p>Experience with Terraform, Ansible, PowerShell, Python, monitoring tools or relevant Microsoft certification will be highly regarded</p>\n<p><strong>Why Southern Cross University</strong></p>\n<p>SCU is proudly a regional university, young, small and vibrant. That means you’ll find more exposure, opportunity and ownership - to grow, achieve and build a career that means more. And you’ll do it alongside passionate people and leaders who go the extra mile to help you succeed.&nbsp;A career with us is about more than just work. It’s about place, community and the life you want to live. With three main campuses at the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/gold-coast/\" target=\"_self\">Gold Coast</a>, <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/coffs-harbour/\" target=\"_self\">Coffs Harbour</a> and the <a href=\"https://www.scu.edu.au/experience/explore-our-campuses/lismore/\" target=\"_self\">Northern Rivers</a> region of NSW, we’re integral to all these wonderful communities. Find your place and be more in this beautiful part of the world.</p>\n<p>Your opportunity is:</p>\n<ul>\n<li>Full-time, continuing (permanent)</li>\n<li>Located at either Gold Coast, QLD 4225, or Lismore, NSW 2480. Relocation assistance is available, making it easier to join our regional communities</li>\n<li>HEW Level 7. The base salary ranges from $111,612 - $121,190 per annum, plus 17% employer’s contribution to superannuation. The total remuneration package is up to $141,792.</li>\n</ul>\n<p>You will enjoy a range of perks designed to support your wellbeing, growth and work-life balance. For more information on our benefits and what it’s like to work at SCU, visit <a href=\"https://www.scu.edu.au/about/jobs-at-southern-cross/why-work-at-southern-cross-university/\" target=\"_self\">Why work at Southern Cross University?</a></p>\n<p><strong>Be more with Southern Cross University today</strong></p>\n<p>Southern Cross University values potential as much as experience. If you do not meet all the listed requirements but are excited about the role and confident you can contribute, we encourage you to apply or reach out for more information.</p>\n<p>To view the full position advertisement and details of the application process, please click on the APPLY button where you will be redirected to the Southern Cross University website. &nbsp;&nbsp;</p>\n<p><strong>Applications close 11.30pm AEST 22 November 2026.</strong></p>\n<p>Eligible applicants must have Australian or New Zealand citizenship, Australian permanent residency or current working rights in Australia for the entire duration of the appointment. &nbsp;Employer visa sponsorship is not available for this position.</p>\n<p>Applicants must apply online and attach a CV and cover letter. The cover letter must clearly address each selection criterion in the position description. Information to support you to prepare your application is available on our <a href=\"https://www.scu.edu.au/about/jobsscu/vacancies/applying-for-a-position/\" target=\"_self\">website.</a></p>\n<p><em>Southern Cross University celebrates the rich diversity of our regions and international community. We are committed to creating an inclusive workplace that welcomes and values people of all backgrounds. We encourage applications from people of all genders, ethnicities, ages, languages, sexual orientations, and people with disabilities. We are dedicated to providing reasonable adjustments to our recruitment process to ensure every candidate can fully participate.&nbsp;For any support through the recruitment process reach out to </em><a href=\"mailto:jobs@scu.edu.au\" target=\"_self\"><em>jobs@scu.edu.au.</em></a></p>\n<p><strong>#LI-VC1</strong></p>\n<p><strong>#Reg1GCLis</strong></p>\n",
-      "keywords": [
-        "platform",
-        "engineer",
-        "technology",
-        "platforms"
       ]
     },
     {
@@ -1341,44 +1224,6 @@
         "house",
         "web",
         "developer"
-      ]
-    },
-    {
-      "job_id": "95464564",
-      "job_title": "Junior Technician (IT/ Telecommunications)",
-      "business_name": "National Health Australia",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$30 – $38 per hour",
-      "area": "Varsity Lakes, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95464564",
-      "advertiser_id": "41121271",
-      "posted_date": "2026-10-23T08:32:03Z",
-      "job_description": "<p><strong>About the role</strong></p><p>National Health Australia is looking for a friendly, reliable and computer-confident individual to join our team in a customer support and medical alarm programming role. This position combines telephone-based customer support, remote device programming and accurate data entry. Our customers regularly contact us for assistance with their personal medical alarms, including updating emergency contacts, changing device settings and troubleshooting general issues. You will also assist with programming new medical alarms before they are dispatched to customers. No previous medical alarm experience is required. Full training will be provided. This is an ideal role for someone who enjoys working with technology, has excellent attention to detail and is confident helping customers over the phone.</p><p><strong>Key responsibilities</strong></p><ul><li>Answer incoming technical support calls and assist customers with their medical alarms.</li><li>Remotely program and update medical alarm settings using our computer-based systems.</li><li>Update emergency contact numbers, fall detection sensitivity and other device configurations.</li><li>Program and configure new medical alarms ready for customer dispatch.</li><li>Assist customers with troubleshooting, device operation and general technical enquiries.</li><li>Maintain accurate customer records and document programming changes.</li><li>Identify technical issues that require further investigation or escalation.</li><li>Work closely with our customer service, dispatch and technical teams.</li><li>Potentially progress into basic device servicing, testing and minor repairs as experience develops.</li></ul><p><strong>About you</strong></p><ul><li>Excellent computer skills and confidence learning new software.</li><li>Strong data entry skills with a high level of accuracy.</li><li>Good telephone communication and customer service skills.</li><li>A friendly, patient and professional manner.</li><li>The ability to explain simple technical processes clearly.</li><li>Good problem-solving skills and attention to detail.</li><li>The ability to multitask between telephone calls and computer systems.</li><li>A reliable, positive attitude and willingness to learn.</li><li>Previous experience in customer service, technical support, administration or device programming would be advantageous, but is not essential.</li></ul><p><strong>About us</strong></p><p>National Health Australia is an established Australian provider of personal medical alarms and emergency response devices. We have supplied tens of thousands of medical alarms across Australia, helping older Australians and people requiring additional support maintain their safety and independence. Our team is based in Varsity Lakes on the Gold Coast.</p>",
-      "keywords": [
-        "technician",
-        "it",
-        "telecommunications"
-      ]
-    },
-    {
-      "job_id": "95447349",
-      "job_title": "IT Support Officer",
-      "business_name": "Affordable Car Loans",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$75,000 per year",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95447349",
-      "advertiser_id": "31623218",
-      "posted_date": "2026-10-22T23:35:32Z",
-      "job_description": "<p><strong>About the role</strong></p><p>Reporting to the Chief Information Officer, the IT Support Officer is our onsite, hands-on desktop and end-user support specialist at our Southport office. You'll work alongside our offshore Level 1 Service Desk as the onsite Level 2 escalation point, picking up the escalated and physical support tasks that need someone on the ground — from device builds and new starter setups to meeting room AV, network triage and asset management. This is a practical, varied role for someone who enjoys fixing things properly, keeping good records, and giving non-technical staff a great support experience.</p><p><strong>Key responsibilities</strong></p><ul><li>Acting as the onsite Level 2 escalation point for the Level 1 Service Desk, resolving incidents across our local and cloud-based infrastructure and software.</li><li>Managing assigned and escalated incidents and service requests within agreed service level targets, keeping ticket records accurate and up to date.</li><li>Building, configuring and deploying laptops, desktops, mobile phones and peripherals using Microsoft Intune and Windows Autopilot.</li><li>Preparing devices and workstations for new starters, and recovering, wiping and reallocating equipment for leavers.</li><li>Supporting Microsoft 365, Azure Virtual Desktop and line-of-business applications at the desktop level.</li><li>Supporting meeting rooms, AV equipment, printers, headsets and Genesys Cloud softphone setup.</li><li>Diagnosing onsite network connectivity issues (Wi-Fi, patching, switches) and escalating to our managed service provider, tracking each incident through to resolution.</li><li>Maintaining the IT asset register, managing hardware stock and arranging secure disposal of retired equipment.</li><li>Keeping end-user devices compliant with security policies, including encryption, patching and endpoint protection, and promptly escalating suspected security incidents.</li><li>Creating and maintaining knowledge articles and procedures, including guides for the Level 1 Service Desk.</li></ul><p><strong>About you</strong></p><ul><li>Minimum 2 years' experience in a desktop or end-user support role.</li><li>Strong working knowledge of Windows 11 and Microsoft 365 (Outlook, Teams, OneDrive, SharePoint).</li><li>Experience with Microsoft Intune and Entra ID for device and user management.</li><li>Hardware troubleshooting and device imaging/deployment experience.</li><li>Working knowledge of networking fundamentals.</li><li>Excellent communication skills and a customer-service focus when supporting non-technical staff.</li><li>Desirable: Experience using an ITSM tool to log, categorise, prioritise and resolve incidents, service requests and changes.</li><li>Desirable: Microsoft certification such as MS-900 (Microsoft 365 Fundamentals).</li><li>Desirable: ITIL 4 Foundation certification, or demonstrated working knowledge of ITIL practices (incident, problem, service request and change enablement).</li><li>Desirable: Experience with Windows Autopilot and Azure Virtual Desktop.</li></ul><p><strong>Benefits</strong></p><ul><li>Career Growth: We believe in promoting from within. You'll have plenty of opportunities to advance in your career and develop new skills through mentorship programs and internal promotions.</li><li>Supportive Work Environment: You'll be part of a close-knit team where your ideas and contributions are truly valued.</li><li>Education Support: We offer study assistance and training programs to help you reach your full potential.</li></ul><p><strong>About us</strong></p><p>At ACL Group, we're pioneers in the world of non-traditional car finance, helping people who may not fit the typical lending criteria get the financial support they need. We work with a variety of customers, from those with a great credit history to those who have struggled to secure finance with mainstream lenders. We are committed to integrity in everything we do, following industry standards, adhering to best practices, and always putting our customers' needs at the forefront.</p>",
-      "keywords": [
-        "it",
-        "support",
-        "officer"
       ]
     }
   ]
