@@ -1,391 +1,493 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "region": "Gold Coast",
-  "scraped_at": "2026-11-23T10:32:29.504537+10:00",
-  "total_jobs": 44,
+  "scraped_at": "2026-11-24T14:31:52.086022+10:00",
+  "total_jobs": 47,
   "keywords": [
     {
       "term": "engineer",
-      "count": 12,
-      "share": 0.2727
+      "count": 13,
+      "share": 0.2766
     },
     {
       "term": "support",
       "count": 11,
-      "share": 0.25
+      "share": 0.234
     },
     {
       "term": "it",
-      "count": 10,
-      "share": 0.2273
+      "count": 9,
+      "share": 0.1915
+    },
+    {
+      "term": "analyst",
+      "count": 5,
+      "share": 0.1064
     },
     {
       "term": "developer",
       "count": 5,
-      "share": 0.1136
+      "share": 0.1064
     },
     {
-      "term": "analyst",
+      "term": "systems",
       "count": 4,
-      "share": 0.0909
+      "share": 0.0851
     },
     {
       "term": "software",
       "count": 4,
-      "share": 0.0909
+      "share": 0.0851
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.0909
+      "share": 0.0851
     },
     {
-      "term": "systems",
+      "term": "manager",
+      "count": 4,
+      "share": 0.0851
+    },
+    {
+      "term": "technology",
       "count": 3,
-      "share": 0.0682
+      "share": 0.0638
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0682
-    },
-    {
-      "term": "manager",
-      "count": 3,
-      "share": 0.0682
+      "share": 0.0638
     },
     {
       "term": "application",
       "count": 2,
-      "share": 0.0455
+      "share": 0.0426
     },
     {
       "term": "technician",
       "count": 2,
-      "share": 0.0455
+      "share": 0.0426
     },
     {
       "term": "help",
       "count": 2,
-      "share": 0.0455
+      "share": 0.0426
     },
     {
       "term": "ict",
       "count": 2,
-      "share": 0.0455
+      "share": 0.0426
     },
     {
       "term": "officer",
       "count": 2,
-      "share": 0.0455
+      "share": 0.0426
     },
     {
       "term": "service",
       "count": 2,
-      "share": 0.0455
-    },
-    {
-      "term": "business",
-      "count": 2,
-      "share": 0.0455
+      "share": 0.0426
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0455
-    },
-    {
-      "term": "technology",
-      "count": 2,
-      "share": 0.0455
+      "share": 0.0426
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0455
+      "share": 0.0426
+    },
+    {
+      "term": "cyber",
+      "count": 2,
+      "share": 0.0426
+    },
+    {
+      "term": "security",
+      "count": 2,
+      "share": 0.0426
     },
     {
       "term": "specialist",
       "count": 2,
-      "share": 0.0455
+      "share": 0.0426
+    },
+    {
+      "term": "architect",
+      "count": 1,
+      "share": 0.0213
     },
     {
       "term": "allres",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "consultant",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "golang",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "react",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "javascript",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0227
-    },
-    {
-      "term": "photocopier",
-      "count": 1,
-      "share": 0.0227
-    },
-    {
-      "term": "pos",
-      "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
+    },
+    {
+      "term": "photocopier",
+      "count": 1,
+      "share": 0.0213
+    },
+    {
+      "term": "pos",
+      "count": 1,
+      "share": 0.0213
     },
     {
       "term": "l2",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "distribution",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "centre",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "operations",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
+    },
+    {
+      "term": "business",
+      "count": 1,
+      "share": 0.0213
     },
     {
       "term": "marymount",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "waters",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "technical",
       "count": 1,
-      "share": 0.0227
-    },
-    {
-      "term": "partner",
-      "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "governance",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "project",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "pmo",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
-      "term": "cyber",
+      "term": "change",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
-      "term": "security",
+      "term": "overnight",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "administrator",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "scenic",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "rim",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "mdus",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "cx",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "telephony",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "contractor",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "voip",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "sip",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "sms",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "website",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "growth",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "projects",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
+    },
+    {
+      "term": "integration",
+      "count": 1,
+      "share": 0.0213
+    },
+    {
+      "term": "ai",
+      "count": 1,
+      "share": 0.0213
+    },
+    {
+      "term": "automation",
+      "count": 1,
+      "share": 0.0213
     },
     {
       "term": "literacy",
       "count": 1,
-      "share": 0.0227
+      "share": 0.0213
     }
   ],
   "jobs": [
+    {
+      "job_id": "96079092",
+      "job_title": "Technology Architect",
+      "business_name": "Gold Coast Hospital & Health Service",
+      "work_type": "Full time",
+      "job_type": "Architects",
+      "pay_range": "$144,315 - $154,879 per annum + 12.75% super",
+      "area": "Southport, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/96079092",
+      "advertiser_id": "32285403",
+      "posted_date": "2026-11-24T02:44:23Z",
+      "job_description": "<p><strong>This frontline support role provides essential support enabling the development and delivery of frontline services, programs and outcomes.</strong></p>\n<p><strong>The Role </strong></p>\n<p>An opportunity has become available for a <strong>Technology Architect </strong>to join <strong>Gold Coast Health </strong>(GCH) where the focus of our 14 000-strong team is on providing world-class health care to people living in the Gold Coast, and northern New South Wales region of Australia.</p>\n<p><strong>You will </strong></p>\n<ul>\n<li>Lead the analysis of the current technology environment to detect deficiencies, legacy, and technical debt and recommend solutions</li>\n<li>Drive digital innovation by leveraging innovative new technologies and approaches to renovate, extend, and transform the existing core technology base</li>\n<li>Consult on application or infrastructure development projects</li>\n<li>Provide advice to delegates and solution architects of high risk, high value investments</li>\n</ul>\n<p><strong>About you </strong></p>\n<p>To be successful in this position you will require:</p>\n<ul>\n<li>While not mandatory, a relevant qualification in Enterprise Architecture and demonstrated skills and experience listed below would be well regarded.</li>\n<li>Proven experience in developing, contributing to, and reviewing architectural strategies, mandated principles (standards) and roadmaps that meet the strategic requirements of the health system. (SFIA Skill: STPL - Enterprise architecture level 6).</li>\n<li>Ability to provide specialist advice relating to enterprise technology architecture, influencing the broader architecture, ICT planning and any investment activities. (SFIA Skill: CNSL – Consultancy level 5) (NHS: Effective and strategic influencing).</li>\n<li>Proven ability to develop and manage stakeholder relationships, facilitate open communication, and capture and disseminate information. (SFIA Skill: RLMT – Stakeholder relationship management level 5) (NHS: Collaborative Working).</li>\n<li>Declaration of serious discipline history must be disclosed</li>\n<li>Criminal History Screening will be required for new employees (GCH will cover cost)</li>\n</ul>\n<p><strong>Benefits</strong></p>\n<ul>\n<li>Flexible work options</li>\n<li>Career Development</li>\n<li>Salary Packaging</li>\n<li>Modern Facilities</li>\n<li>Diverse Work Culture</li>\n<li>Research Opportunities</li>\n<li>12.75% super</li>\n<li>17.5% leave loading</li>\n</ul>\n<p><strong>Salary </strong></p>\n<ul>\n<li>Temporary full time (up to twelve months, with the possibility of extension)</li>\n<li>Base salary ranging from $144,315 - $154,879 per annum</li>\n</ul>\n<p><strong>About Us </strong></p>\n<p>DHI is responsible for enhancing efficiency and service delivery improvements to optimise Health Service performance. It also oversees strategic partnerships that help the Health Service implement alternative models of service delivery, ensuring value for money, and driving improvements in performance, and innovation.</p>\n<p><strong>About Gold Coast Health</strong></p>\n<ul>\n<li>Nationally and internationally recognised location for innovative medical research and health care</li>\n<li>Annual operating budget exceeding $1.5 billion</li>\n<li>More than 1100 beds across three hospitals - Gold Coast University Hospital, Robina Hospital, Varsity Lakes Hospital and Robina and Southport Health Precincts</li>\n<li>Secondary and tertiary health services across more than 20 facilities</li>\n<li>Opportunity to combine professional advancement, job satisfaction and relaxation into one fulfilling lifestyle</li>\n<li>A workplace culture that encourages people to bring their whole selves to work so that they can perform at their best</li>\n<li>Committed to reflecting the diversity of the Gold Coast community and ensuring each staff member is included and feels like they belong</li>\n</ul>\n<p><strong>How to Apply</strong></p>\n<p>Click APPLY to submit your application by <strong><em>Monday, 7 December 2026</em></strong></p>\n<p><em>Gold Coast Health is committed to providing an accessible, inclusive work environment. Please contact the nominated person if you require any reasonable adjustments throughout this recruitment process. </em></p>\n<p><strong>Job Ad reference:</strong> GC697634</p>\n<p><em>Please note: no third-party applications will be accepted. </em></p>",
+      "keywords": [
+        "technology",
+        "architect"
+      ]
+    },
+    {
+      "job_id": "96062408",
+      "job_title": "Change Manager",
+      "business_name": "Feros Care",
+      "work_type": "Contract/Temp",
+      "job_type": "Programme & Project Management",
+      "pay_range": "Super + NFP Salary Packaging",
+      "area": "Coolangatta, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/96062408",
+      "advertiser_id": "26252854",
+      "posted_date": "2026-11-23T09:32:39Z",
+      "job_description": "<p><strong>Change Manager</strong><br> <br> <strong>We're Feros Care, and we're pleased to meet you.</strong><br> <br> <strong>And what we care most about is helping people live healthier, happier, better-connected lives.</strong><br> <br> Since 1990, we've been making it happen, both for older Australians and people with disability.<br> <br> We are proud to be Game Changers. Dream Makers. Kindness Champions. Culture Shapers. Vibrant Creators. And it's not just us who thinks so; We've won many awards on the local and international stage for our approach.<br> <br> We're looking for an experienced Change Manager to help guide our people through important change initiatives on a <strong>2 year fixed term contract</strong>, based in our Coolangatta office with flexible hybrid working arrangements.<br> <br> <strong>Build capability, embrace continuous improvement and bring people along the journey of change.</strong><br> <br> In this role you'll combine change management expertise with a practical, people focused approach. From understanding how change will impact different teams, to developing communications, delivering training and supporting people through new ways of working, you'll play a key role in helping employees feel informed, supported and confident throughout the change process.<br> <br> Whether it's introducing new technology, improving systems and processes or supporting broader transformation initiatives, you'll work closely with leaders, project teams and frontline employees to help make change happen in a way that works for our people, ensuring they understand what's changing, why it matters and how they can confidently adapt.<br> <br> <strong>What you'll do</strong></p><ul><li>Develop and deliver change strategies and plans that support successful transformation.</li><li>Assess change impacts, readiness and support requirements across the business.</li><li>Partner with leaders, project teams and employees to drive engagement and adoption.</li><li>Deliver communications that keep people informed, engaged and involved.</li><li>Facilitate workshops and conversations that build understanding and commitment to change.</li><li>Develop training, resources and tools that support new ways of working.</li><li>Support leaders and frontline teams through change and implementation.</li><li>Coordinate change activities with project teams to drive readiness and adoption.</li><li>Gather feedback and insights to identify risks, opportunities and support needs.</li><li>Address resistance and support successful adoption of change initiatives.</li><li>Measure change outcomes and drive continuous improvement.</li><li>Help build a culture of adaptability, learning and continuous improvement.</li><li>Support change initiatives across complex transformation programs.</li></ul><p><strong>What you'll bring</strong></p><ul><li>3 - 5 years' experience delivering change initiatives and supporting adoption.</li><li>Experience supporting large scale transformation, technology or system change programs.</li><li>Knowledge of change methodologies and frameworks such as PROSCI, ADKAR or Kotter, and the ability to apply them in practice.</li><li>Strong stakeholder engagement and influencing skills across all levels.</li><li>Experience developing communications, engagement activities and learning resources.</li><li>Strong facilitation, presentation and workshop delivery skills.</li><li>Well developed planning, organisation and project coordination skills.</li><li>Strong analytical, problem solving and change impact assessment capability.</li><li>A proactive, adaptable and solutions focused approach.</li><li>Ability to work autonomously and demonstrate initiative.</li><li>Experience working in complex and evolving environments.</li><li>Professional services or consulting experience will be highly regarded.</li></ul><p><strong>Qualifications &amp; Checks</strong></p><ul><li>Tertiary qualifications in Business, Human Resources, Organisational Psychology, Change Management or a related discipline, and/or equivalent demonstrated experience.</li><li>Change Management certification (Prosci, ACMP or similar) will be highly regarded.</li><li>Current unrestricted Australian Driver's Licence (desirable).</li><li>Undergo a Nationally Coordinated Criminal History Check.</li><li>Valid Australian working rights.</li></ul><p><strong>Why Feros Care?</strong><br> At Feros Care, we value our people and offer:</p><ul><li>Not for Profit Salary Packaging of up to $15,900 per annum, and meal and entertainment salary sacrifice of up to $2,650 per annum, all tax free, stretching your income further.</li><li>Flexible Working Arrangements, including a hybrid model with a combination of working from our Coolangatta office and the flexibility to work remotely.</li><li>17.5% Annual Leave loading.</li><li>Cultural Leave Days for eligible employees.</li><li>Enjoy exclusive discounts, financial tips, and wellness programs through our ForME employee benefits platform.</li><li>Private Health Insurance Discount with Medibank.</li><li>Employee Assistance Program (EAP).</li><li>Paid Parental Leave (9 weeks) for eligible employees.</li><li>Access to Fitness Passport - discounted gym and pool memberships for you and your family.</li><li>$200 referral bonus per successful referral.</li></ul><p>We actively seek to include, welcome and value the unique contributions of all people. We encourage applications from Aboriginal and Torres Strait Islander people, people from cultural and linguistically diverse backgrounds, and people with disability.<br> <br> <em><strong>We are reviewing applications on a rolling basis and encourage you to apply early, as this role may close prior to the advertised date.</strong></em><br> <br> If you would like to discuss accessibility requirements, preferred communication methods or other possibilities, please contact <a href=\"mailto:talentacquisition@feroscare.com.au\">talentacquisition@feroscare.com.au</a>.</p>",
+      "keywords": [
+        "change",
+        "manager"
+      ]
+    },
+    {
+      "job_id": "96055107",
+      "job_title": "Cyber Security Analyst (Overnight)",
+      "business_name": "CENTORRINO TECHNOLOGIES PTY LTD",
+      "work_type": "Full time",
+      "job_type": "Security",
+      "pay_range": "",
+      "area": "Australia Fair, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/96055107",
+      "advertiser_id": "23130138",
+      "posted_date": "2026-11-23T05:16:08Z",
+      "job_description": "<p><strong>Join Centorrino Technologies: Innovate, Grow, and Thrive with Us!</strong></p><p>At Centorrino Technologies (CT), we’re more than just tech—we’re a community that goes beyond expectations. We’ve been recognised as a Great Place to Work in 2025 and Top 5 Inspiring Workplaces for 2026, with an outstanding eNPS score of 68. And we’re not stopping there. We're on a mission to redefine the customer experience, and we need a passionate <strong>Cyber Security Analyst</strong> to join our Cyber team in Australia.</p><p>The Security Analyst delivers frontline managed cyber security services across client environments. The role monitors and validates security alerts, investigates suspected threats, coordinates proportionate response actions and manages the endpoint and user protection controls as assigned to the Cyber Security Operations Centre (CSOC).&nbsp;</p><p>The role operates on a permanent night shift, working shifts from 10:30pm to 7:00am AEST. We have three roster patterns available: Tuesday to Saturday, Sunday to Thursday, and Friday to Tuesday. These positions require flexibility to work overnight hours and across weekends as part of our 24/7 Cyber Security Operations Centre.</p><p><strong>Requirements</strong></p><p><strong>What you'll do:</strong></p><ul><li>Monitor security alerts across client environments, validating and prioritising potential threats using available context, threat intelligence and asset criticality.</li><li>Investigate security events and coordinate appropriate responses to low- and medium-severity incidents within agreed service levels.</li><li>Perform initial containment actions, including endpoint isolation, account deactivation and blocking malicious IP addresses or URLs.</li><li>Maintain accurate incident records, investigation notes, evidence, timelines and response actions.</li><li>Escalate high-severity, complex or widespread incidents, providing clear findings, impact assessments and recommended next steps.</li><li>Identify recurring alert patterns, control gaps and opportunities to improve security detection and response.</li><li>Deliver timely, clear and actionable updates to clients and internal stakeholders, ensuring services meet contractual obligations and service level requirements.</li><li>Contribute to effective shift handovers, knowledge articles, operational reporting and continuous improvement of SOC processes and playbooks.</li><li>Support the delivery of Managed Cyber Security Services (MCSS), including application control, email and DNS security, password management, deep-web monitoring and security awareness programs.</li><li>Review service requests, investigate blocked applications or communications, administer security policies and exceptions, troubleshoot security controls and maintain accurate customer and ticket records.</li></ul><p></p><p><strong>What you'll bring:</strong></p><ul><li>Foundational knowledge of cybersecurity detection and response, including frameworks such as MITRE ATT&amp;CK and the Cyber Kill Chain.</li><li>Familiarity with security technologies such as EDR/XDR, SIEM, SOAR, application control and email security platforms.</li><li>Exposure to Microsoft Defender XDR, Microsoft Sentinel and Fortinet security platforms will be highly regarded.</li><li>Strong analytical, critical-thinking and problem-solving skills, with the ability to investigate security events, assess findings and determine when escalation is required.</li><li>A curious mindset and genuine interest in developing your technical knowledge, investigating unfamiliar activity and continuously improving security operations capability.</li><li>The ability to work independently, exercise sound judgement and follow established procedures within a 24/7 operational environment.</li><li>Strong written and verbal communication skills, with the ability to clearly communicate technical findings to both technical and non-technical audiences.</li><li>A disciplined approach to documentation, ticket management and incident handovers, with a focus on accuracy and operational continuity.</li><li>SOC-focused certifications such as Microsoft SC-200, CompTIA CySA+, BTL1, GCIH or equivalent will be advantageous.</li><li>Australian citizenship and the ability to obtain an NV1 security clearance. Holding a current NV1 clearance will be highly regarded.</li></ul><p><strong>Benefits</strong></p><p><strong>Why You'll Love Working Here:</strong></p><p><strong>Our company is more than just a workplace, it's a hub of inspiration and creativity where employees love to work! Here's why:</strong></p><ul><li>Hybrid working (for majority of our roles) with team anchor days to support collaboration.</li><li>Extensive training and development opportunities that enable continual growth as part of your career planning.</li><li>Extensive discounts and benefits to maximise your money.</li><li>A choice of your IT equipment to maximise your success and access to cost-price tech for your personal needs.</li><li>Fun team events to celebrate achievements and connect with colleagues outside work as part of our engaging culture.</li></ul><p>&nbsp;</p><p>CT celebrates diversity and enables every voice to be heard as we drive to create the world we want. Apply today and be part of a team that values innovation, inclusivity, variety and diverse backgrounds.</p><p>&nbsp;</p><p><em>Note: A valid </em>Vulnerable People /<em> Working with Children Check (WWCC) and Police Check are required.</em></p>",
+      "keywords": [
+        "cyber",
+        "security",
+        "analyst",
+        "overnight"
+      ]
+    },
+    {
+      "job_id": "96054406",
+      "job_title": "Systems Integration Engineer (AI & Automation)",
+      "business_name": "ALPHA HR",
+      "work_type": "Full time",
+      "job_type": "Other",
+      "pay_range": "$120 - $130K per annum + Super",
+      "area": "Robina, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/96054406",
+      "advertiser_id": "31306129",
+      "posted_date": "2026-11-23T04:54:56Z",
+      "job_description": "<p><strong>ABOUT US</strong>&nbsp;</p><p>At Alpha Car Hire, we’re passionate about making road experiences easy and affordable through quality vehicles and exceptional customer service. As one of Australia’s leading independent car hire companies, we rely on connected systems to support our branch network. When those systems work well, our teams spend less time checking records or repeating tasks and more time looking after customers.&nbsp;</p><p><br></p><p><strong>ABOUT THE OPPORTUNITY</strong>&nbsp;</p><p>We’re seeking a senior&nbsp;Systems Integration Engineer (AI &amp; Automation)&nbsp;to take ownership of the systems, integrations and automations our branch and head office teams use every day. You’ll lead a small team of developers who report directly to you, while spending most of your time on hands-on development. This is a permanent, full-time hybrid role based at our modern office in Robina on the Gold Coast.</p><p>Your first priority will be to understand what’s already running, keep it reliable and improve it where it matters most. That might mean tracing a missing update across two systems, restoring the data and fixing the cause, or working alongside a branch team to automate a manual check and measure how much time it saves.</p><p>As a member of the senior leadership team (SLT), you’ll work directly with the CEO and functional leaders to decide where technology investment will have the greatest impact. You’ll have the autonomy to recommend what to improve, what to build and what can wait, balancing new initiatives with the security and reliability of live services.&nbsp;</p><p><br></p><p><strong>KEY RESPONSIBILITIES</strong>&nbsp;</p><ul><li><p>Monitor existing automations, investigate failures and prevent recurring issues. Work with teams to trial AI where it could reduce rework or improve decisions, measure the results and agree where human review is needed.</p></li><li><p>Maintain and enhance Alpha’s internal software, APIs and integrations. Trace faults across applications and external platforms, verify fixes in production and document changes so others can support them.</p></li><li><p>Own the reliability and security of cloud infrastructure and data services. Manage access and credentials, test backups and recovery procedures, and lead the response when a critical service is disrupted.</p></li><li><p>Keep operational and financial data accurate and timely. Use logs, SQL and reconciliation checks to find missing or duplicated records and correct the problem at its source.</p></li><li><p>Lead technical delivery by writing, reviewing and releasing software alongside your team. Use approved AI tools, set engineering standards and manage the team’s day-to-day priorities. Coach developers through code reviews and regular feedback, and bring in specialist providers where needed.</p></li><li><p>Shape the technology and AI roadmap with the CEO and SLT. Challenge assumptions, explain costs and risks, and report on delivery progress and whether each investment achieved its intended benefit.</p></li><li><p>Partner with branch and head office teams to understand how work gets done. Involve users in testing, support them through rollout and use their feedback to prioritise the next improvement.</p></li></ul><p><br></p><p><strong>QUALIFICATIONS &amp; EXPERIENCE</strong>&nbsp;</p><ul><li><p>Substantial hands-on software development experience, with examples of applications you’ve maintained and improved after they went live.</p></li><li><p>Strong JavaScript or TypeScript and Node.js skills, including experience connecting internal and third-party systems through REST APIs, webhooks and scheduled jobs. Experience with Next.js or React is also valuable.</p></li><li><p>Strong SQL skills in SQL Server or PostgreSQL, including investigating failed data transfers, reconciling records and checking that reports reflect the underlying data.</p></li><li><p>Practical experience supporting Azure-hosted applications and using Git, Docker and Azure DevOps pipelines to test, deploy and verify releases.</p></li><li><p>Experience using AI-assisted development tools in your own coding, with the judgement to review and test their output. Experience integrating AI services into business workflows is highly regarded.</p></li><li><p>Sound judgement around access, security, backups and recovery, and experience diagnosing incidents across connected services.</p></li><li><p>The ability to lead and develop a small team, coordinate external providers, explain technical choices to business leaders and show how your work improved a business outcome.</p></li><li><p>Graphic design skills, including the ability to create clear, engaging visuals for internal tools and communications, are desirable.</p></li></ul><p><br></p><p><strong>WHY ALPHA</strong>&nbsp;</p><p>You’ll work directly with the people who use the software and the leaders who decide what gets funded. You can raise a recurring problem with the CEO, recommend a practical fix and stay involved long enough to see whether it worked.&nbsp;</p><ul><li><p>Hybrid work with time at home and in our modern Robina office.&nbsp;</p></li><li><p>Company-paid accounts for approved AI tools and the opportunity to apply them to real business problems.&nbsp;</p></li><li><p>Access to our Employee Assistance Program (EAP).&nbsp;</p></li><li><p>Car hire discounts for you, your friends and your family.&nbsp;</p></li></ul><p>If you enjoy working out why systems fail, writing software that makes someone’s day easier and having a say in what gets built next, we’d love to hear from you! Apply through SEEK with your Cover Letter &amp; CV.&nbsp;</p>",
+      "keywords": [
+        "systems",
+        "integration",
+        "engineer",
+        "ai",
+        "automation"
+      ]
+    },
     {
       "job_id": "96039741",
       "job_title": "Customer Support Specialist",
@@ -1070,25 +1172,6 @@
       "keywords": [
         "application",
         "support"
-      ]
-    },
-    {
-      "job_id": "95589117",
-      "job_title": "IT Business Partner",
-      "business_name": "Neumann Steel",
-      "work_type": "Full time",
-      "job_type": "Management",
-      "pay_range": "",
-      "area": "Currumbin, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95589117",
-      "advertiser_id": "36874639",
-      "posted_date": "2026-10-29T22:43:33Z",
-      "job_description": "<p><strong>Why work for Neumann Steel?</strong><br>\nYou would be working for one of the most reputable family owned and operated companies first established on the Gold Coast over 50 years ago. We specialise in steel reinforcing and plastic accessory products in the QLD and NSW markets. Our highly integrated supply chain is supported by our experienced staff and a wealth of industry knowledge.<br>\n&nbsp;&nbsp;<br>\nWith a people-first mindset, Neumann Steel is dedicated to supporting the local community and fostering long-lasting relationships while delivering quality commercial and residential projects in the spirit of openness and honesty. We strive to build a rewarding, inclusive, and inspiring culture, with innovation at the forefront of mind.</p>\n<br><p>KEY RESPONSIBILITIES</p>\n\n<p>This role partners with internal customers to support growth in our AI tools and data and ongoing improvements in our current Tier 1 applications (excluding manufacturing ERP).&nbsp;<br>\n•&nbsp;&nbsp; &nbsp;Creation of a scope document to include what the business data requirements are and develop tools, either by yourself or a partner, to develop an app or AI tool. Link this with our data in our data warehouse through appropriate data governance and enterprise security.<br>\n•&nbsp;&nbsp; &nbsp;Understand Tier 1 applications and whether we are utilising the systems to their full advantage. Partner with the business and external vendors to optimise these systems. Systems could include Elmo (HRIS), Mex (Maintenance system), Micropay, Kronos (Time &amp; Attendance), Ellby (AP Scanning), Donesafe (Safety System) and any others.&nbsp;<br>\n•&nbsp;&nbsp; &nbsp;Submit projects to IT steering committee that may need approval for resources and priority planning. Follow project management processes starting with project scoping, project updates, to project completion including implementation and change control. Give updates to the steering committee on project progress and any issues or project closures. Once a quarter choose submit projects based on business need and initial scoping.<br>\n•&nbsp;&nbsp; &nbsp;Get users out of spreadsheets and using the data warehouse to work for us and not against us. Scope process improvements with system improvements.<br>\n•&nbsp;&nbsp; &nbsp;Work with Data &amp; AI team to optimise what we include in the data warehouse and how we can utilise the data to improve performance. Whether performance is a new App, saving time on spreadsheets or work arounds outside of the system.<br>\n•&nbsp;&nbsp; &nbsp;Solve business problems through automation and applications development/deployment via a systematic approach of process mapping of current to future state positions.<br>\n•&nbsp;&nbsp; &nbsp;Define and implement strategies to improve practices and engagement across the whole business, drive change management, and add value to departmental projects.<br>\n•&nbsp;&nbsp; &nbsp;Build and maintain strong client relationships both internally and externally and constantly assess customer feedback to provide guidance and assistance on improvements to IT service delivery.<br>\n•&nbsp;&nbsp; &nbsp;Review Applications landscape for better leverage of available assets or cost savings opportunities. Utilise data warehouse to de-commission systems no longer needed.<br>\n•&nbsp;&nbsp; &nbsp;Support Managers to manage performance outcomes and reviews.</p>\n<br><p>QUALIFICATIONS/KNOWLEDGE &amp; EXPERIENCE</p>\n\n<p>•&nbsp;&nbsp; &nbsp;Proven relevant working experience in a similar role.<br>\n•&nbsp;&nbsp; &nbsp;Continuous improvement mentality.<br>\n•&nbsp;&nbsp; &nbsp;Planning and project management skills.<br>\n•&nbsp;&nbsp; &nbsp;Can critically assess business issues and formulate IT driven solutions.<br>\n•&nbsp;&nbsp; &nbsp;Ability to see the bigger pITure but also roll up their sleeves and own project initiatives from start to completion.<br>\n•&nbsp;&nbsp; &nbsp;Strong knowledge of IT systems and applications and ability to engage productively with vendors.<br>\n•&nbsp;&nbsp; &nbsp;Excellent communication and interpersonal skills through written and oral communications.<br>\n•&nbsp;&nbsp; &nbsp;Can work with people at all levels of the business; not afraid to walk the floor to get feedback.<br>\n•&nbsp;&nbsp; &nbsp;Ability to prioritise tasks, problem-solve and work and learn autonomously and in a team.<br>\n•&nbsp;&nbsp; &nbsp;Relevant tertiary or equivalent qualifications preferred.</p>",
-      "keywords": [
-        "it",
-        "business",
-        "partner"
       ]
     },
     {
