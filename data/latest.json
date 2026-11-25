@@ -1,416 +1,477 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "region": "Gold Coast",
-  "scraped_at": "2026-11-24T14:31:52.086022+10:00",
-  "total_jobs": 47,
+  "scraped_at": "2026-11-25T13:15:14.746727+10:00",
+  "total_jobs": 49,
   "keywords": [
     {
       "term": "engineer",
-      "count": 13,
-      "share": 0.2766
+      "count": 15,
+      "share": 0.3061
     },
     {
       "term": "support",
       "count": 11,
-      "share": 0.234
+      "share": 0.2245
     },
     {
       "term": "it",
       "count": 9,
-      "share": 0.1915
+      "share": 0.1837
+    },
+    {
+      "term": "systems",
+      "count": 5,
+      "share": 0.102
     },
     {
       "term": "analyst",
       "count": 5,
-      "share": 0.1064
+      "share": 0.102
     },
     {
       "term": "developer",
       "count": 5,
-      "share": 0.1064
-    },
-    {
-      "term": "systems",
-      "count": 4,
-      "share": 0.0851
+      "share": 0.102
     },
     {
       "term": "software",
-      "count": 4,
-      "share": 0.0851
+      "count": 5,
+      "share": 0.102
     },
     {
       "term": "desk",
       "count": 4,
-      "share": 0.0851
+      "share": 0.0816
     },
     {
       "term": "manager",
       "count": 4,
-      "share": 0.0851
+      "share": 0.0816
     },
     {
       "term": "technology",
       "count": 3,
-      "share": 0.0638
+      "share": 0.0612
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0638
+      "share": 0.0612
+    },
+    {
+      "term": "security",
+      "count": 3,
+      "share": 0.0612
     },
     {
       "term": "application",
       "count": 2,
-      "share": 0.0426
+      "share": 0.0408
     },
     {
       "term": "technician",
       "count": 2,
-      "share": 0.0426
+      "share": 0.0408
     },
     {
       "term": "help",
       "count": 2,
-      "share": 0.0426
+      "share": 0.0408
     },
     {
       "term": "ict",
       "count": 2,
-      "share": 0.0426
+      "share": 0.0408
     },
     {
       "term": "officer",
       "count": 2,
-      "share": 0.0426
+      "share": 0.0408
     },
     {
       "term": "service",
       "count": 2,
-      "share": 0.0426
+      "share": 0.0408
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0426
+      "share": 0.0408
     },
     {
       "term": "digital",
       "count": 2,
-      "share": 0.0426
+      "share": 0.0408
     },
     {
       "term": "cyber",
       "count": 2,
-      "share": 0.0426
-    },
-    {
-      "term": "security",
-      "count": 2,
-      "share": 0.0426
+      "share": 0.0408
     },
     {
       "term": "specialist",
       "count": 2,
-      "share": 0.0426
+      "share": 0.0408
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "allres",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "consultant",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "stack",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "golang",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
+    },
+    {
+      "term": "services",
+      "count": 1,
+      "share": 0.0204
     },
     {
       "term": "react",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "javascript",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "photocopier",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "pos",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "l2",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "distribution",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "centre",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "operations",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "business",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "marymount",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "waters",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "technical",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "governance",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "project",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "pmo",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "change",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "overnight",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
+    },
+    {
+      "term": "cisco",
+      "count": 1,
+      "share": 0.0204
+    },
+    {
+      "term": "microsoft",
+      "count": 1,
+      "share": 0.0204
+    },
+    {
+      "term": "identity",
+      "count": 1,
+      "share": 0.0204
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "administrator",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "scenic",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "rim",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "mdus",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "cx",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "telephony",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "contractor",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "voip",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "sip",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "sms",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "house",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "web",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "website",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "growth",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "projects",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0213
-    },
-    {
-      "term": "integration",
-      "count": 1,
-      "share": 0.0213
-    },
-    {
-      "term": "ai",
-      "count": 1,
-      "share": 0.0213
-    },
-    {
-      "term": "automation",
-      "count": 1,
-      "share": 0.0213
+      "share": 0.0204
     },
     {
       "term": "literacy",
       "count": 1,
-      "share": 0.0213
+      "share": 0.0204
+    },
+    {
+      "term": "integration",
+      "count": 1,
+      "share": 0.0204
+    },
+    {
+      "term": "ai",
+      "count": 1,
+      "share": 0.0204
+    },
+    {
+      "term": "automation",
+      "count": 1,
+      "share": 0.0204
     }
   ],
   "jobs": [
+    {
+      "job_id": "96083990",
+      "job_title": "Systems Engineer – Cisco & Microsoft Identity Security",
+      "business_name": "Neteffects",
+      "work_type": "Full time",
+      "job_type": "Security",
+      "pay_range": "$90,000 – $100,000 per year",
+      "area": "Ashmore, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/96083990",
+      "advertiser_id": "35973684",
+      "posted_date": "2026-11-24T04:56:30Z",
+      "job_description": "<p><strong>Systems Engineer – Cisco &amp; Microsoft Identity Security</strong></p><p><strong>Neteffects | Gold Coast</strong></p><p><strong>$90,000 - $100,000 – Full-time</strong></p><p><strong>This is a niche role for a rare kind of engineer: someone who can sell a Cisco solution, build it and then secure the Microsoft identity environment around it.</strong></p><p>Neteffects is looking for an experienced <strong>Systems Engineer</strong> to join our growing team in a specialist, hybrid role. You'll work across <strong>Cisco pre-sales and solution design, hands-on Cisco and Meraki engineering, and Microsoft identity security</strong>.</p><p>Neteffects is based on the Gold Coast. For more than 26 years we've provided IT consulting, managed services and technology support to organisations in Australia and around the world.</p><p>This is a <strong>full-time position based in our Gold Coast office</strong>.</p><p><strong>Why This Role Is Different</strong></p><p>Most engineers are strong in one area: networking, Microsoft or sales. This role needs all three.</p><p>You'll be the person customers trust to understand their business needs and recommend the right Cisco solution. You'll then design and deploy it yourself and make sure their users, devices and access are properly secured through Microsoft Entra ID.</p><p>If you enjoy talking with customers as much as configuring switches and Conditional Access policies, this role was built for you.</p><p><strong>The Role</strong></p><p><strong>Cisco Sales &amp; Solution Design</strong></p><ul><li><p>Working with customers and our account team to understand business and technical requirements</p></li><li><p>Scoping, designing and proposing Cisco and Meraki solutions</p></li><li><p>Preparing bills of materials, solution designs and technical proposals</p></li><li><p>Running technical presentations, demonstrations and proof-of-concept work</p></li><li><p>Spotting opportunities to improve customers' network and security posture</p></li><li><p>Supporting Neteffects' Cisco partnership and helping meet its requirements</p></li></ul><p><strong>Cisco Technical Engineering</strong></p><ul><li><p>Deploying and configuring Cisco and Meraki switching, routing, wireless, SD-WAN and security appliances</p></li><li><p>Designing and implementing VLANs, VPNs, firewall policies and secure network segmentation</p></li><li><p>Handling escalated network issues and finding the root cause</p></li><li><p>Delivering network upgrades, refreshes and implementation projects</p></li><li><p>Managing ongoing customer networks</p></li></ul><p><strong>Microsoft Identity Security</strong></p><ul><li><p>Designing and implementing identity security in Microsoft Entra ID</p></li><li><p>Building and managing Conditional Access, MFA and passwordless authentication</p></li><li><p>Implementing Privileged Identity Management (PIM) and least-privilege access models</p></li><li><p>Managing identity governance, access reviews and lifecycle workflows</p></li><li><p>Supporting hybrid identity with Entra Connect and Active Directory</p></li><li><p>Hardening Microsoft 365 tenants and responding to identity-related security alerts</p></li><li><p>Integrating network access with Microsoft identity, including SSO, RADIUS/802.1X and secure remote access</p></li></ul><p><strong>Across Everything</strong></p><ul><li><p>Mentoring and supporting other members of the team</p></li><li><p>Maintaining accurate technical documentation and solution designs</p></li><li><p>Providing remote and onsite support across South East Queensland when required</p></li></ul><p><strong>Technologies You'll Work With</strong></p><p><strong>Cisco &amp; Networking</strong></p><ul><li><p>Cisco Catalyst switching and routing</p></li><li><p>Cisco Meraki (MX, MS, MR, MV)</p></li><li><p>Cisco Secure Firewall</p></li><li><p>Cisco Duo</p></li><li><p>Cisco ISE</p></li><li><p>Cisco Umbrella / Secure Access</p></li><li><p>SD-WAN, VPN and wireless infrastructure</p></li></ul><p><strong>Microsoft Identity &amp; Security</strong></p><ul><li><p>Microsoft Entra ID</p></li><li><p>Conditional Access and MFA</p></li><li><p>Privileged Identity Management (PIM)</p></li><li><p>Entra ID Governance</p></li><li><p>Entra Connect / hybrid identity</p></li><li><p>Microsoft Intune</p></li><li><p>Microsoft 365 and Exchange Online</p></li><li><p>Microsoft Defender for Identity</p></li><li><p>Windows Server and Active Directory</p></li></ul><p><strong>Also in Our Stack</strong></p><ul><li><p>Microsoft Azure and AWS</p></li><li><p>Veeam</p></li><li><p>Trend Micro</p></li><li><p>ConnectWise</p></li><li><p>Lenovo</p></li></ul><p><strong>Mandatory Certifications</strong></p><p>You must hold all the following current certifications:</p><ul><li><p><strong>CCNA</strong> – Cisco Certified Network Associate</p></li><li><p><strong>700-150</strong> – Introduction to Cisco Sales (ICS)</p></li><li><p><strong>SC-300</strong> – Microsoft Identity and Access Administrator</p></li><li><p><strong>MS-102</strong> – Microsoft 365 Administrator</p></li><li><p><strong>Minimum</strong> - Associate Degree in Information Technology</p></li></ul><p><em>Applications without all five certifications will not be considered.</em></p><p><strong>What We're Looking For</strong></p><p>As well as the certifications above, you'll bring:</p><ul><li><p>Proven experience in Cisco pre-sales, solution design or technical sales</p></li><li><p>Strong hands-on experience deploying and supporting Cisco and/or Meraki environments</p></li><li><p>Solid experience securing Microsoft Entra ID, especially Conditional Access, MFA and privileged access</p></li><li><p>Experience with hybrid identity and Active Directory</p></li><li><p>Confidence presenting to customers, from IT teams through to business decision-makers</p></li><li><p>Experience in an MSP, IT service provider or Cisco partner environment</p></li></ul><p><strong>Highly regarded:</strong></p><ul><li><p>Cisco ISE, Duo or Umbrella experience</p></li><li><p>Further Cisco certifications (CCNP, Meraki CMNA, Cisco security specialisations)</p></li><li><p>Further Microsoft security certifications (SC-200, SC-100, AZ-500)</p></li><li><p>PowerShell and automation skills</p></li><li><p>Understanding of frameworks such as the Essential Eight or Zero Trust</p></li></ul><p><strong>More Than Technical Skills</strong></p><p>We're looking for someone who:</p><ul><li><p>Is equally comfortable in a customer meeting and in a network cabinet</p></li><li><p>Can turn customer problems into practical, well-designed solutions</p></li><li><p>Takes ownership of problems and sees them through</p></li><li><p>Delivers exceptional customer service</p></li><li><p>Communicates well with both technical and non-technical people</p></li><li><p>Manages their own workload and priorities</p></li><li><p>Is happy to share their knowledge with the team</p></li><li><p>Takes pride in doing things properly</p></li></ul><p><strong>Why Neteffects?</strong></p><p>We've always believed talented people do their best work when they're trusted to do their jobs.</p><p>Our workplace has been featured in the <strong>Gold Coast Bulletin, The Australian and American Workplace Magazine</strong>.</p><p>We've worked hard to create an enjoyable workplace where people are given flexibility and responsibility.</p><p><strong>Your workday is yours to manage.</strong></p><p>It has never made sense to us to hire the brightest minds and then tell them how to do their jobs. We want our engineers to own their work, manage their time responsibly and deliver excellent outcomes for our customers.</p><p>We also offer:</p><ul><li><p>Well above-average pay</p></li><li><p>A generous bonus system</p></li><li><p>Flexible working arrangements</p></li><li><p>Ongoing training and certification support</p></li><li><p>A specialist role with real influence over customer solutions</p></li><li><p>A clear path into senior, architecture and specialist roles</p></li></ul><p><strong>Build Your Career With Us</strong></p><p>Engineers who can combine <strong>Cisco sales, network engineering and Microsoft identity security</strong> are rare, and we know it. This role gives you the chance to shape customer solutions from the first conversation through to secure, well-run environments.</p><p>If you're exceptional at what you do, provide <strong>spectacular customer service</strong> and want to work somewhere that gives you the freedom to do your best work, <strong>we want to hear from you.</strong></p><p><br></p>",
+      "keywords": [
+        "systems",
+        "engineer",
+        "cisco",
+        "microsoft",
+        "identity",
+        "security"
+      ]
+    },
+    {
+      "job_id": "96083526",
+      "job_title": "Software Services Engineer I",
+      "business_name": "Gilmour Space Technologies",
+      "work_type": "Full time",
+      "job_type": "Engineering - Software",
+      "pay_range": "Base salary plus superannuation",
+      "area": "Yatala, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/96083526",
+      "advertiser_id": "43912085",
+      "posted_date": "2026-11-24T04:33:28Z",
+      "job_description": "<p><b>All Orbits, All Planets - Join us on our journey</b></p><p>Gilmour Space is a leading Australian space company, developing launch vehicles, satellite platforms, advanced propulsion technologies; and launching from our licensed orbital spaceport in Bowen, North Queensland.</p><p>We are seeking a Software Services Engineer I to join the development team for Gilmour Space’s in-house Product Lifecycle Management (PLM) system. The software you create plays a central role in engineering and manufacturing bills of materials, component and requirement revisions, change orders, configuration management, sourcing and purchasing data for our launch vehicles and satellites. Engineering, manufacturing and supply chain teams rely on it every day, and the outcomes flow straight into what we build and fly.<b></b></p><p>We are seeking a Software Services Engineer I with a backend and systems focus to help design, build and run our PLM system.&nbsp;Your contributions will include designing and implement APIs, modelling engineering data flows, writing and executing migrations for production data, enforcing permissions, and connecting integrations with the other business critical systems, conduct reviews, and enhance CI/CD as required. You will also produce documentation and communicate across teams to ensure tasks are completed efficiently and on time, while adhering to Gilmour Space policies and procedures</p><p><b>How you will contribute to our mission in getting Australia to space:</b></p><p>The below is designed to give you an idea of the role you will play. There will be many more exciting and innovative things to do:</p><div> <ul>  <li>Model complex, revision-controlled engineering data, including assemblies and BOM trees, design baselines and precise/unprecise assembly trees, change orders, requirements and verification methods.</li>  <li>&nbsp;Design DB schemas, indexes and queries with attention to document growth, query cost and transactional consistency, and choose simple, readable queries where they will do the job.</li>  <li>Build and maintain integrations and scheduled sync jobs with internal and third-party systems, including REST and GraphQL APIs, covering authentication and token refresh, pagination, timeouts, retries and clear error reporting.</li>  <li>Raise focused merge requests and take an active part in code review, both giving and acting on detailed technical feedback.</li>  <li>Maintain and improve the GitLab CI/CD pipeline, unit, integration and end-to-end tests, container images, Ansible deployment, backup and restore processes, and secrets management.</li>  <li>Write and maintain technical documentation, design notes and architecture diagrams.</li> </ul> <div>  <div></div> </div></div><p><b>Mandatory Qualifications, Skills and Experience:</b></p><ul> <li>Bachelor’s degree in Software Engineering, Computer Science or a related field. Alternatively, demonstrated ability and experience equivalent to degree level.</li> <li>Proficiency in at least one statically typed backend language (Go preferred), and willingness to work primarily in Go.</li> <li>Demonstrated experience designing, building and maintaining backend services and APIs that other people or systems depend on. Note that experience consuming APIs from a front end only is not sufficient.</li> <li>Ability to operate in dynamic, fast-paced environments, and resilience in high-pressure situations.</li> <li>Modern JS framework and TypeScript</li> <li>Component architecture and state management</li> <li>Auth sessions, tokens, protected routes</li> <li>API integration, caching, local storage</li></ul><p><b>Desired Qualifications, Skills and Experience:</b></p><p><b>We recognise you may not meet all of the below, but don’t let that deter you. We are always looking for hard workers to join our team, so what are you waiting for? Let’s send Australia to space!</b></p><ul> <li>Production experience with Go.</li> <li>Experience modelling data and working with a database in a production setting (document or relational), including indexes, transactions and schema changes.</li> <li>Contract-first API development with OpenAPI and code generation.</li> <li>Integrating with SaaS and ERP APIs, including GraphQL clients, OAuth 2.0, token refresh and rate limits.</li> <li>A solid understanding of HTTP and REST API design: resource modelling, status codes, error handling, pagination and backwards compatibility.</li> <li>Authentication and authorisation: OIDC and OAuth 2.0, identity providers and role-based access control.</li> <li>Docker, reverse proxies, Linux administration and Ansible.</li> <li>GitLab CI/CD and secrets management</li> <li>Observability: structured logging, OpenTelemetry tracing and dashboards.</li> <li>Event-driven patterns: domain events, webhooks, background jobs and workflow schedulers.</li> <li>An understanding of concurrency and consistency problems, such as race conditions, lost updates and optimistic locking.</li> <li>Knowledge of PLM, configuration management or ERP: bills of materials, revision and change control, and requirements traceability.</li> <li>Experience working with at least one UI Component Library and TypeScript.</li> <li>Working knowledge of Git, merge request workflows and code review.</li> <li>Experience using AI-assisted development tools with sound engineering judgement.</li> <li>Understanding of systems engineering practices.</li> <li>The ability to explain and reason about design trade-offs clearly.</li> <li>Familiarity with Agile or Kanban ways of working.</li> <li>Ability to work efficiently in a team, with a desire to help other team members in the day-to-day running of the department.  <div>   <div>    <div></div>   </div>   <div></div>  </div></li></ul><p><b>How to Apply:</b></p><p><b>Applicants must be an Australian Citizen/Permanent Resident or have an appropriate Australian work visa or work entitlements.</b></p><p>If you are a proactive team player with a passion to get Australia to space and a desire to succeed, please apply now by clicking the apply button and including your resume and cover letter or head to our website: CAREER | Gilmour Space Technologies | Rocket launch provider (gspace.com).&nbsp;</p><p>Gilmour Space Technologies is proud to be an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all team members.&nbsp;We strongly encourage applications from Aboriginal and Torres Strait Islander peoples for all positions.</p><p><b>No Recruitment Agencies Please</b></p>",
+      "keywords": [
+        "software",
+        "services",
+        "engineer"
+      ]
+    },
     {
       "job_id": "96079092",
       "job_title": "Technology Architect",
@@ -470,7 +531,7 @@
     {
       "job_id": "96054406",
       "job_title": "Systems Integration Engineer (AI & Automation)",
-      "business_name": "ALPHA HR",
+      "business_name": "ALPHA HR Pty Ltd",
       "work_type": "Full time",
       "job_type": "Other",
       "pay_range": "$120 - $130K per annum + Super",
