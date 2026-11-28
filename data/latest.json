@@ -1,431 +1,458 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "region": "Gold Coast",
-  "scraped_at": "2026-11-27T12:33:36.906487+10:00",
-  "total_jobs": 48,
+  "scraped_at": "2026-11-28T12:23:00.026633+10:00",
+  "total_jobs": 47,
   "keywords": [
     {
       "term": "engineer",
-      "count": 16,
-      "share": 0.3333
+      "count": 17,
+      "share": 0.3617
     },
     {
       "term": "it",
-      "count": 11,
-      "share": 0.2292
+      "count": 10,
+      "share": 0.2128
     },
     {
       "term": "support",
-      "count": 11,
-      "share": 0.2292
+      "count": 10,
+      "share": 0.2128
+    },
+    {
+      "term": "software",
+      "count": 6,
+      "share": 0.1277
     },
     {
       "term": "systems",
       "count": 5,
-      "share": 0.1042
-    },
-    {
-      "term": "analyst",
-      "count": 5,
-      "share": 0.1042
-    },
-    {
-      "term": "software",
-      "count": 5,
-      "share": 0.1042
+      "share": 0.1064
     },
     {
       "term": "developer",
-      "count": 4,
-      "share": 0.0833
+      "count": 5,
+      "share": 0.1064
     },
     {
-      "term": "digital",
+      "term": "analyst",
       "count": 4,
-      "share": 0.0833
+      "share": 0.0851
     },
     {
       "term": "technology",
       "count": 3,
-      "share": 0.0625
+      "share": 0.0638
     },
     {
       "term": "data",
       "count": 3,
-      "share": 0.0625
-    },
-    {
-      "term": "officer",
-      "count": 3,
-      "share": 0.0625
+      "share": 0.0638
     },
     {
       "term": "manager",
       "count": 3,
-      "share": 0.0625
+      "share": 0.0638
+    },
+    {
+      "term": "digital",
+      "count": 3,
+      "share": 0.0638
     },
     {
       "term": "security",
       "count": 3,
-      "share": 0.0625
+      "share": 0.0638
+    },
+    {
+      "term": "stack",
+      "count": 2,
+      "share": 0.0426
     },
     {
       "term": "application",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0426
     },
     {
-      "term": "technician",
+      "term": "officer",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0426
     },
     {
       "term": "ict",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0426
     },
     {
       "term": "business",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0426
     },
     {
       "term": "infrastructure",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0426
     },
     {
       "term": "cyber",
       "count": 2,
-      "share": 0.0417
+      "share": 0.0426
     },
     {
       "term": "architect",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "allres",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "consultant",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
+    },
+    {
+      "term": "programmer",
+      "count": 1,
+      "share": 0.0213
     },
     {
       "term": "openmage",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "magento",
       "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "stack",
-      "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "net",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "services",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "react",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "javascript",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "engineering",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "helpdesk",
       "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "photocopier",
-      "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "pos",
-      "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "desktop",
-      "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "dispatch",
-      "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "demand",
-      "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "request",
-      "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "ongc",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
-      "term": "service",
+      "term": "desktop",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
-      "term": "desk",
+      "term": "dispatch",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
+    },
+    {
+      "term": "demand",
+      "count": 1,
+      "share": 0.0213
+    },
+    {
+      "term": "request",
+      "count": 1,
+      "share": 0.0213
     },
     {
       "term": "distribution",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "centre",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
+    },
+    {
+      "term": "service",
+      "count": 1,
+      "share": 0.0213
+    },
+    {
+      "term": "desk",
+      "count": 1,
+      "share": 0.0213
     },
     {
       "term": "operations",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "marymount",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "college",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "burleigh",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "waters",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "field",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "advisor",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "governance",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "project",
       "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "partner",
-      "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "pmo",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "coordinator",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
+    },
+    {
+      "term": "partner",
+      "count": 1,
+      "share": 0.0213
     },
     {
       "term": "change",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "overnight",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "forensic",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "investigator",
       "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "cisco",
-      "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "microsoft",
-      "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "identity",
-      "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "development",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "course",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "coach",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
+    },
+    {
+      "term": "cisco",
+      "count": 1,
+      "share": 0.0213
+    },
+    {
+      "term": "microsoft",
+      "count": 1,
+      "share": 0.0213
+    },
+    {
+      "term": "identity",
+      "count": 1,
+      "share": 0.0213
     },
     {
       "term": "product",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "administrator",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "scenic",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "rim",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "fibre",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
+    },
+    {
+      "term": "technician",
+      "count": 1,
+      "share": 0.0213
     },
     {
       "term": "mdus",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "brisbane",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "cx",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "telephony",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "contractor",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "voip",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "sip",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "sms",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "commerce",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "customer",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "specialist",
       "count": 1,
-      "share": 0.0208
-    },
-    {
-      "term": "literacy",
-      "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "integration",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "ai",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     },
     {
       "term": "automation",
       "count": 1,
-      "share": 0.0208
+      "share": 0.0213
     }
   ],
   "jobs": [
+    {
+      "job_id": "96172933",
+      "job_title": "Developer Programmer",
+      "business_name": "ASSISTIVE TECHNOLOGY SOLUTIONS",
+      "work_type": "Full time",
+      "job_type": "Developers/Programmers",
+      "pay_range": "$85,000 – $100,000 per year",
+      "area": "Bundall, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/96172933",
+      "advertiser_id": "63955766",
+      "posted_date": "2026-11-27T09:37:33Z",
+      "job_description": "<p><strong>About the role</strong></p><p>Join the team as a Software Developer supporting powder-coating manufacturing, production management and broader business operations. You will design, develop and maintain customised software applications that improve workflow visibility, automate processes and support efficient, reliable business operations.</p><p><strong>Key responsibilities</strong></p><ul><li><p>Analyse business requirements and develop software applications and programming solutions for manufacturing, production management and business operations.</p></li><li><p>Design, develop, test and maintain customised applications for customer orders, quotations, production scheduling, job tracking and workflow management.</p></li><li><p>Write, modify and optimise program code using appropriate programming languages, frameworks and development tools.</p></li><li><p>Develop and maintain database structures and software interfaces integrating customer management, inventory control, production records, quality assurance and financial management systems.</p></li><li><p>Develop solutions to monitor production workflows, track metal components through powder-coating processes and maintain accurate production and job records.</p></li><li><p>Conduct system testing, debugging and performance analysis to identify defects, resolve programming issues and ensure applications meet specified requirements.</p></li><li><p>Modify and enhance existing applications to improve functionality, automate repetitive processes and support changing operational requirements.</p></li><li><p>Prepare technical documentation, including program specifications, source code documentation, system configuration records and software maintenance procedures.</p></li><li><p>Collaborate with management and operational personnel to identify system requirements, evaluate software performance and implement programming solutions that improve business efficiency.</p></li></ul><p><strong>What we're looking for</strong></p><ul><li><p>Tertiary qualifications in computer science or a related field.</p></li><li><p>Minimum one year of experience in a similar software development role.</p></li><li><p>Strong analytical, problem-solving and troubleshooting skills.</p></li><li><p>Good communication and teamwork skills.</p></li><li><p>Ability to work independently and manage tasks effectively.</p></li><li><p>English and Mandarin bilingual language skills are preferred.</p></li></ul><p><br></p>",
+      "keywords": [
+        "developer",
+        "programmer"
+      ]
+    },
+    {
+      "job_id": "96166960",
+      "job_title": "Software Engineer (Full Stack)",
+      "business_name": "Mastery Schools Australia",
+      "work_type": "Full time",
+      "job_type": "Engineering - Software",
+      "pay_range": "$135,000 – $155,000 per year",
+      "area": "Varsity Lakes, Gold Coast QLD",
+      "region": "Gold Coast",
+      "url": "https://www.seek.com.au/job/96166960",
+      "advertiser_id": "47372288",
+      "posted_date": "2026-11-27T05:35:10Z",
+      "job_description": "<p><strong>About the Role</strong></p><p>Mastery Schools Australia is seeking a Software Engineer to join our growing internal technology team.</p><p>This is a hands-on, full-stack engineering position responsible for developing, deploying and maintaining software solutions that support our expanding network of schools and corporate operations.</p><p>Working within a small, collaborative team, you will contribute across the entire software development lifecycle, working alongside internal and external development teams to deliver secure, reliable and user-friendly software solutions.</p><p><strong>Key Responsibilities</strong></p><ul><li><p>Design, develop and maintain full-stack applications and internal software platforms.</p></li></ul><ul><li><p>Manage and improve cloud infrastructure, deployment processes and CI/CD pipelines.</p></li></ul><ul><li><p>Collaborate with internal and external development teams to deliver high-quality software.</p></li></ul><ul><li><p>Contribute to software architecture, system design and technical planning.</p></li></ul><ul><li><p>Work with stakeholders to translate business requirements into practical software solutions.</p></li></ul><ul><li><p>Participate in code reviews and maintain engineering standards.</p></li></ul><ul><li><p>Troubleshoot and resolve application, infrastructure and integration issues.</p></li></ul><ul><li><p>Identify opportunities to improve existing systems, processes and development practices.</p></li></ul><ul><li><p>Maintain appropriate technical documentation.</p></li></ul><p><strong>Skills and Experience</strong></p><ul><li><p>Minimum three years of professional software development experience.</p></li></ul><ul><li><p>Demonstrated experience in full-stack web application development.</p></li></ul><ul><li><p>Strong proficiency in TypeScript and React.</p></li></ul><ul><li><p>Practical experience with Microsoft Azure and cloud infrastructure management.</p></li></ul><ul><li><p>Experience with DevOps, CI/CD and automated deployment processes.</p></li></ul><ul><li><p>Experience with relational databases, SQL and API development.</p></li></ul><ul><li><p>Proficiency with version control and collaborative development workflows.</p></li></ul><ul><li><p>Understanding of software architecture, cybersecurity and secure development practices.</p></li></ul><ul><li><p>Relevant tertiary qualification or equivalent professional experience.</p></li></ul><p><strong>Personal Attributes</strong></p><ul><li><p>Strong analytical and problem-solving skills.</p></li></ul><ul><li><p>Ability to work independently and collaboratively within a small team.</p></li></ul><ul><li><p>Strong communication skills with both technical and non-technical stakeholders.</p></li></ul><ul><li><p>A pragmatic approach to software engineering and problem-solving.</p></li></ul><ul><li><p>Ability to take ownership of projects and deliver high-quality outcomes.</p></li></ul><ul><li><p>Adaptability and willingness to work across a range of systems and technologies.</p></li></ul><p><br></p><p><br></p>",
+      "keywords": [
+        "software",
+        "engineer",
+        "stack"
+      ]
+    },
     {
       "job_id": "96141294",
       "job_title": "E-commerce Developer",
@@ -832,25 +859,6 @@
       ]
     },
     {
-      "job_id": "95940529",
-      "job_title": "Digital Literacy Officer",
-      "business_name": "City of Gold Coast",
-      "work_type": "Full time",
-      "job_type": "Other",
-      "pay_range": "From 94k per annum plus superannuation",
-      "area": "Bundall, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95940529",
-      "advertiser_id": "16652581",
-      "posted_date": "2026-11-17T04:26:23Z",
-      "job_description": "<p><strong>Full Time Fixed Term until June 2027 | 9-day fortnight | 36.00 hours per week </strong></p> <p><strong>Salary from $94,439 - $98,355 per annum plus superannuation </strong></p> <p><strong>Position Brief - <a href=\"https://applynow.net.au/jobs/COG2303/assets/32911490\">Digital Literacy Officer</a></strong></p> <p> </p> <p> <strong>About the team</strong></p> <p>The Chief Technology Office at the City of Gold Coast supports the technology, systems and digital services that enable our employees to deliver services to the community. </p> <p>Our Digital Literacy team works across the organisation to strengthen employees' digital capability, helping people develop the skills, knowledge and confidence to use technology effectively, safely and independently in their work. </p> <p>We work with a diverse workforce, from office-based employees to operational and field teams, and collaborate with technology specialists, business areas and learning partners to understand digital capability needs and develop practical, accessible solutions.</p> <p> </p> <p><strong>About the role </strong></p> <p>As a Digital Literacy Officer, you'll use your knowledge of digital technologies, information and data to help employees build their digital capability and confidence. </p> <p>This is a hands-on digital capability role, rather than a traditional training position. You'll need strong practical technology skills, an ability to quickly understand unfamiliar digital tools and the confidence to explain and demonstrate how technology can be used effectively in different workplace contexts. </p> <p>You'll create clear and engaging digital resources, including guides, videos and interactive content, and provide practical coaching and support to employees. We're looking for someone who enjoys working with technology, solving problems and helping others become more capable and independent in a digital workplace. </p> <p> </p> <p><strong>We’re looking for people who have: </strong></p> <p>A strong foundation in digital technology, information or data, combined with the creativity, initiative and communication skills to make technology accessible and useful to others. </p> <p><strong>Essential skills and experience: </strong></p> <ul> <li>Strong practical digital and technology proficiency, including the ability to confidently use, explore, evaluate and learn a range of workplace systems and applications. </li> <li>Sound understanding of digital workplace practices, including information and data management, digital collaboration, technology problem-solving and online safety. </li> <li>Ability to translate technical information into clear, accurate and engaging guidance, resources and digital content. </li> <li>Ability to provide practical coaching and support and adapt approaches to different audiences.</li> <li>Demonstrated initiative, problem-solving skills and ability to independently plan and deliver high-quality work. </li> <li>Strong communication and interpersonal skills, with the ability to work collaboratively across technical and non-technical teams.</li> </ul> <p><strong> Desirable experience: </strong></p> <ul> <li>Qualifications or relevant experience in information technology, information systems, information management, digital technologies or a related field. </li> <li>Experience developing digital learning resources, multimedia content or interactive learning <br>experiences. </li> <li>Experience in digital adoption, technology enablement or organisational capability <br>improvement. </li> <li>Understanding of digital accessibility, inclusion and user-centred design. </li> </ul> <p> </p> <p><strong>Be part of shaping the Gold Coast’s future </strong></p> <p>The Gold Coast is inspired by lifestyle and driven by opportunity. We are the second largest Council in Australia. </p> <p>We care about being the most flexible government organisation in Australia. We have a range of benefits to help you create the right balance: </p> <ul> <li>9-day fortnight </li> </ul> <ul> <li>Flexible work arrangements to suit your lifestyle, including hybrid/work from home options, flexible working hours and locations </li> </ul> <ul> <li>Personal and professional development courses </li> </ul> <ul> <li>Access to 350+ fitness facilities through Fitness Passport </li> </ul> <ul> <li>4 free confidential counselling sessions a year for you or an immediate family member </li> </ul> <ul> <li>1 free nutritionist and financial advice session per year </li> </ul> <p><strong> </strong> </p> <p>We pride ourselves on our shared mission of being a high-performing, customer-focused organisation which delivers value-for-money services to the community. </p> <p> </p> <p><strong>How to apply</strong></p> <p><br>To submit your application, please click apply now and complete the application form. You will be required to upload your resume and a cover letter (no more than two pages) outlining how your skills, experience and personal attributes will enable you to be successful in this role. Please note that you may also be asked to provide relevant qualifications, where applicable.</p> <p><strong>Contact Person</strong> Joana Al-kassar </p> <p><strong>Contact Email</strong> <a href=\"mailto:Jal-kassar@goldcoast.qld.gov.au\">Jal-kassar@goldcoast.qld.gov.au</a></p> <p><strong>Closing Date</strong> Friday 27th of November 2026/11:59pm AEDT </p> <p>Our selection process may include a one-way video interview via Criteria, a face-to-face or virtual interview via Microsoft Teams, reference checks via Xref and additional checks including police checks, employment history checks, qualification checks, pre-employment medical reviews and drug and alcohol testing. </p> <p><em>We’re committed to creating a diverse workplace and inclusive culture. We take pride in people who align with our high-performance principles. We believe that the diverse makeup of our workforce reflects the community we serve. We welcome applications from people of all backgrounds, experiences and identities, and encourage candidates to discuss any support or adjustments they may need throughout the recruitment process.</em></p>",
-      "keywords": [
-        "digital",
-        "literacy",
-        "officer"
-      ]
-    },
-    {
       "job_id": "95904967",
       "job_title": "OpenMage/Magento Full-Stack Developer",
       "business_name": "Tradezone Pty Ltd",
@@ -923,25 +931,6 @@
         "it",
         "support",
         "engineer"
-      ]
-    },
-    {
-      "job_id": "95830427",
-      "job_title": "Photocopier & POS Technician",
-      "business_name": "The Comtech Group",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "$75,000 – $85,000 per year",
-      "area": "Nerang, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95830427",
-      "advertiser_id": "63112748",
-      "posted_date": "2026-11-11T07:14:12Z",
-      "job_description": "<p><strong>Position Title:</strong>&nbsp;Photocopier &amp; POS Technician<br><strong>Location:</strong>&nbsp;Nerang, QLD</p><p><strong>Position Overview</strong></p><p>We are seeking several Photocopier &amp; POS Technicians to cover the following areas: Rockhampton, Gold Coast, and Bundaberg<strong>. </strong>The Photocopier &amp; POS Technician is responsible for the installation, maintenance, and repair of HP, Kyocera, and Sharp multifunction devices, photocopiers, point-of-sale (POS) systems, and related equipment. This role requires a customer-focused approach, strong technical skills, and the ability to work independently while delivering a high standard of service and support to our valued clients.</p><p><strong>Remuneration</strong>&nbsp;package includes a fully serviced company vehicle, fuel card, and laptop.</p><hr><p><strong>Key Responsibilities</strong></p><ul><li><p><strong>Installation &amp; Setup:</strong>&nbsp;Install and configure photocopiers, multifunction devices, and POS systems at customer sites.</p></li><li><p><strong>Maintenance &amp; Repairs:</strong>&nbsp;Perform scheduled preventative maintenance, troubleshoot, and repair faults to minimise downtime.</p></li><li><p><strong>Technical Support:</strong>&nbsp;Provide on-site and remote technical assistance for hardware and software-related issues.</p></li><li><p><strong>Upgrades &amp; Integration:</strong>&nbsp;Carry out software updates, firmware upgrades, and system integrations with customer networks.</p></li><li><p><strong>Customer Service:</strong>&nbsp;Deliver excellent service and clear communication to customers, ensuring a positive experience at every interaction.</p></li><li><p><strong>Training:</strong>&nbsp;Provide end-user training on equipment functions and best practices.</p></li><li><p><strong>Documentation:</strong>&nbsp;Maintain accurate service records, job reports, and parts usage logs.</p></li><li><p><strong>Stock &amp; Parts Management:</strong>&nbsp;Manage spare parts inventory to ensure availability for common repairs.</p></li></ul><hr><p><strong>Skills &amp; Experience</strong></p><ul><li><p>Previous experience servicing photocopiers, multifunction devices, and/or POS systems preferred.</p></li><li><p>Strong mechanical and electronic fault-finding skills.</p></li><li><p>Knowledge of networking fundamentals, including TCP/IP, printing protocols, and device integration.</p></li><li><p>Ability to read and interpret service manuals, wiring diagrams, and technical schematics.</p></li><li><p>Excellent problem-solving and troubleshooting ability.</p></li><li><p>Strong interpersonal skills and a commitment to exceptional customer service.</p></li><li><p>Ability to work independently and manage time effectively.</p></li></ul><hr><p>&nbsp;<strong>Key Attributes</strong></p><ul><li><p>Professional and reliable with a positive attitude.</p></li><li><p>Flexible and adaptable to changing work requirements.</p></li><li><p>Willingness to learn and stay updated with new technology.</p></li><li><p>Commitment to workplace safety and compliance procedures.</p></li></ul><hr><p><strong>About Comtech Business Equipment</strong></p><p>Comtech Business Equipment is Australian owned and operated company based in <strong>Brisbane, Darling Downs, Gold Coast &amp; Northern Rivers, Melbourne, and Sydney</strong>, providing business printing solutions and technical support throughout Australia. We pride ourselves on outstanding customer service and building long-term relationships with our clients.</p>",
-      "keywords": [
-        "photocopier",
-        "pos",
-        "technician"
       ]
     },
     {
@@ -1326,25 +1315,6 @@
       "keywords": [
         "application",
         "support"
-      ]
-    },
-    {
-      "job_id": "95542375",
-      "job_title": "IT Support Analyst",
-      "business_name": "Palm Lake Group",
-      "work_type": "Full time",
-      "job_type": "Help Desk & IT Support",
-      "pay_range": "",
-      "area": "Southport, Gold Coast QLD",
-      "region": "Gold Coast",
-      "url": "https://www.seek.com.au/job/95542375",
-      "advertiser_id": "400234618",
-      "posted_date": "2026-10-28T03:43:10Z",
-      "job_description": "<p><strong>About Us</strong><br>Established in 1977, Palm Lake Group is a proudly Australian, family-owned business with extensive experience in developing, constructing, and managing Lifestyle Resorts, Retirement Villages, and Aged Care Facilities across Australia. Our resorts aren't just places to live they're vibrant, active communities designed for comfort, connection, and enjoyment.<br> <br>Join us in redefining over-50s living.<br> <br><strong>Position Details</strong><br>We are seeking an experienced and customer-focused IT Support Analyst to join our IT team based at our Southport Head Office. Supporting staff across Palm Lake Group's operations in Queensland, New South Wales, and Victoria, you will provide Level 1 and Level 2 IT support, resolve technical issues, manage service requests, and help deliver reliable and secure IT services across the business. This is a full-time permanent position reporting to the IT Business Partner.<br> <br><strong>Responsibilities</strong></p><ul><li>Provide Level 1 and Level 2 IT support to staff across Palm Lake Group.</li><li>Log, track, and manage incidents and service requests through ServiceNow.</li><li>Troubleshoot hardware, software, Microsoft 365, connectivity, and device issues.</li><li>Configure and deploy laptops, desktops and mobile devices using Microsoft Intune.</li><li>Manage user accounts, access and permissions across Active Directory and Microsoft Entra ID.</li><li>Develop and maintain IT documentation, user guides, and support resources.</li><li>Assist with IT projects, equipment rollouts, relocations, and system improvements.</li><li>Provide onsite support at Palm Lake Group locations as required.</li><li>Work closely with internal stakeholders and external IT partners to resolve issues and improve service delivery.</li><li>Contribute to continuous improvement of IT processes, systems, and user experience.</li></ul><p><strong>What We're Looking For:</strong><br>To succeed in this role, you'll bring:</p><ul><li>3+ years experience in an IT Service Desk, Help Desk, or IT Support role.</li><li>Experience using ServiceNow or a similar IT Service Management (ITSM) platform.</li><li>Strong troubleshooting skills across Windows, Microsoft 365, printers, mobile devices, and business applications.</li><li>Hands-on experience with Microsoft Intune, Active Directory and Microsoft Entra ID.</li><li>Understanding of Microsoft 365 administration and end-user support.</li><li>Knowledge of cybersecurity best practices and secure account management.</li><li>Excellent customer service and communication skills.</li><li>Strong organisational skills with the ability to manage multiple priorities.</li><li>A positive, team-focused attitude with a willingness to learn and adapt.</li><li>Ability to travel locally and interstate on occasion to support Palm Lake Group operations.</li></ul><p><strong>Why Join Us?</strong><br>At Palm Lake, we pride ourselves on offering exceptional lifestyle communities and providing our staff with a supportive and rewarding work environment. We offer our team:</p><ul><li>Competitive Remuneration</li><li>Free Parking in Southport CBD</li><li>Work-life Balance with flexible working hours (Between 7am-5pm, Mon to Fri)</li><li>24/7 free access to compassionate, confidential support with our Employee Assistance Program (EAP)</li><li>Celebrate Milestones with tenure rewards!</li><li>Supportive team culture - Be part of a vibrant and inclusive team where your contributions are valued</li><li>Career Opportunities - Palm Lake Group spans 4 entities, 27 lifestyle resort communities and 7 aged care facilities across Australia's east coast, from development &amp; construction to resort management &amp; aged care, the career pathways and opportunities with Palm Lake Group are truly endless.</li></ul><p><strong>How to Apply</strong><br>If you are an experienced, enthusiastic &amp; customer focused IT Support professional, we would love to hear from you.<br> <br>The recruitment process will commence as applications are received, so don't delay in submitting your CV if this sounds like the role for you!<br><br><em>Only shortlisted applicants will be contacted.</em></p>",
-      "keywords": [
-        "it",
-        "support",
-        "analyst"
       ]
     }
   ]
